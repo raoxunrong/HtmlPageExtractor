@@ -14,4 +14,5 @@ public interface HttpConstants {
 	public static final String CHARSET_TYPE_DEFAULT = "GBK";
 	public static final String CHARSET_TYPE_GBK = "GBK";
 	public static final String CHARSET_TYPE_UTF8 = "UTF-8";
+	public static final String CHARSET_TYPE_GB2312 = "GB2312";
 }
