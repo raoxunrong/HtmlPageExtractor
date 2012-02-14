@@ -1,0 +1,512 @@
+http://news.people.com.cn/GB/index.html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="utf-8">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312" />
+<meta http-equiv="content-language" content="utf-8" />
+<meta name="robots" content="all" />
+<meta name="author" content="" />
+<meta name="copyright" content="" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link href="/img/2007newscenter/nav.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+<link href="/img/2007newscenter/news20071119.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+<!--[if IE 8]>
+<style type="text/css">
+.two_right div img{float:right;margin:-5px 0 0 0;}
+</style>
+<![endif]-->
+<!--[if !IE]><!-->
+<link href="/img/2007newscenter/hack.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+<!--<![endif]-->
+<!--<meta http-equiv="refresh" content="0.1;url=http://2008.people.com.cn">-->
+<script language="javascript" src="/img/2007newscenter/effect.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript"> 
+//<![CDATA[
+function checkform(){
+if(document.forms[0].LoginName.value==""){
+    alert("请输入用户名！");
+	document.forms[0].LoginName.focus();
+	return false;
+	}
+if(document.forms[0].passwd.value==""){
+    alert("请输入密码！");
+	document.forms[0].passwd.focus();
+	return false;
+	}
+}
+//]]>
+</script>
+<!--检索-->
+<script src="/css/search.js" type="text/javascript"></script>
+<style type="text/css"> 
+.shicha{width:978px;height:auto;margin:10px auto;border:1px solid #B1B1B1;}
+.shicha_t{margin:15px auto 0 auto;padding:0 0 12px 0;border-bottom:1px solid #DCDCDC;text-align:center;}
+.shicha_t p{margin:10px auto 0 auto;}
+.shicha_t p a{color:#BD0100;margin:0 7px;}
+.shicha_c{padding:10px 0 0 0;width:970px;margin:0 auto;}
+.shicha_c img{margin:0 5px;}
+</style>
+<title>人民网_新闻中心</title>
+</head>
+<body>
+ 
+ 
+<!--全屏收缩990215代码 --><div align="center" style="margin:0 auto;width:980px;z-index:-1;" ><script language="javascript1.1" src="http://pro.people.com.cn/js.ng/channel_range=1/1000/&channel_id=1000&PagePos=39&site=people"></script></div>
+<!--头部内容-->
+<table width="995" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><script language="javascript1.1" src="http://pro.people.com.cn/js.ng/channel_range=1/1000/&channel_id=1000&PagePos=60&size=99060&site=people"></script></td>
+  </tr>
+</table>
+<style type="text/css"> 
+.header{margin:6px auto 0 auto;padding:0 0 0 4px;width:976px;height:27px;text-align:left;}
+.header select{float:right;color:#000000;border:1px solid #B3C4D4;margin:0 10px 0 0;*margin:-18px 10px 0 0;}/*20100428*/
+.header a{margin:0 7px;color:#003564;text-decoration:none;}/*20100428*/
+.header img{vertical-align:text-bottom;}
+.banner{clear:both;margin:6px auto;padding:4px 0 6px 0;width:980px;height:auto;}
+.banner_r{margin-left:10px;width:185px;height:70px;border:1px solid #D7D7D7;padding:10px 0 0 15px;text-align:left;}
+.banner_r a{color:#000000;}
+#nav{margin:0 auto;padding-top:14px;width:978px;height:49px;text-align:left;border:1px solid #d7d7d7;line-height:180%;}
+#nav img{float:left;margin:-8px 0px 0px 8px;}
+#nav ul li{float:left;padding:0 4px 0 12px;text-align:center;}
+#nav a{margin-right:3px;color:#000;text-decoration:none;}
+#nav div{float:right;width:825px;margin:0 -5px 0 0;}
+#nav li.one a{margin:0;}
+</style>
+<!--[if IE 8]>
+<style type="text/css">
+.header select{float:right;color:#456CB1;border:1px solid #B3C4D4;margin:0px 10px 0 0;}
+</style>
+<![endif]-->
+<div class="header">
+<a href="http://cpc.people.com.cn/"><img src="/img/2007yule/images/clogo.gif" alt="共产党新闻"></a><a href="http://bbs.people.com.cn/" target="_blank"><span class="red">强国社区</span></a><a href="http://bbs1.people.com.cn/boardList.do?action=postList&boardId=1" target="_blank"><span class="red">强国论坛</span></a><a href="http://blog.people.com.cn/blog/main.jspe" target="_blank"><span class="red">博客</span></a><a href="http://t.people.com.cn" target="_blank"><span class="red">微博</span></a><a href="http://liaoba.people.com.cn" target="_blank"><span class="red">聊吧</span></a><a href="http://vblog.people.com.cn" target="_blank"><span class="red">播客</span></a>|<a href="http://kxfz.people.com.cn/" target="_blank">科学发展观</a><a href="http://npc.people.com.cn/GB/index.html" target="_blank">中国人大</a><a href="http://gov.people.com.cn/GB/index.html" target="_blank">中国政府</a><a href="http://cppcc.people.com.cn/" target="_blank">中国政协</a><a href="http://acftu.people.com.cn/GB/index.html" target="_blank">中国工会</a><a href="http://acwf.people.com.cn/GB/index.html" target="_blank">中国妇联</a><a href="http://scitech.people.com.cn/GB/131715/index.html" target="_blank">中国科协</a>
+<select onChange="window.location.href=this.value"> 
+  <option>进入其他语种</option>
+  <option value="http://english.peopledaily.com.cn/">English</option>
+  <option value="http://j.peopledaily.com.cn/">日本语</option>
+  <option value="http://french.peopledaily.com.cn/">Francais</option>
+  <option value="http://spanish.peopledaily.com.cn/">Espanol</option>
+  <option value="http://russian.people.com.cn/">Russian</option>
+  <option value="http://arabic.people.com.cn/">Arabic</option>
+</select>
+</div>
+<!--头部内容结束-->
+<!--人民网主导航-->
+<div id="nav">
+<a href="http://www.people.com.cn" target="_blank"><img src="/img/2007yule/images/logo.gif" alt="人民网" /></a>
+<div>
+	<ul>
+	  <li><a href="http://news.people.com.cn/GB/index.html" target="_blank">新闻</a></li>
+       <li><a href="http://opinion.people.com.cn/GB/index.html" target="_blank">观点</a>|</li>
+	  <li><a href="http://politics.people.com.cn/GB/index.html" target="_blank">时政</a></li>
+      <li><a href="http://society.people.com.cn/GB/index.html" target="_blank">社会</a></li>
+      <li><a href="http://unn.people.com.cn/GB/82414/index.html" target="_blank">地方</a>|</li>
+	  <li><a href="http://world.people.com.cn/GB/index.html" target="_blank">国际</a></li>
+      <li><a href="http://military.people.com.cn/GB/index.html" target="_blank">军事</a></li>
+      <li><a href="http://tw.people.com.cn/GB/index.html" target="_blank">台湾</a>|</li>
+      <li><a href="http://finance.people.com.cn/GB/index.html" target="_blank">经济</a></li>
+      <li><a href="http://auto.people.com.cn/GB/index.html" target="_blank">汽车</a>|</li>
+      <li><a href="http://edu.people.com.cn/">教育</a></li>
+      <li><a href="http://scitech.people.com.cn/GB/index.html" target="_blank">科技</a></li>
+      <li><a href="http://sports.people.com.cn/GB/index.html" target="_blank">体育</a></li>
+      <li><a href="http://ent.people.com.cn/GB/index.html" target="_blank">娱乐</a>|</li>
+      <li><a href="http://tv.people.com.cn/GB/index.html" target="_blank">电视</a></li>
+      <li><a href="http://pic.people.com.cn/GB/index.html" target="_blank">图片</a></li>
+      <li><a href="http://www.people.com.cn/GB/32306/143124/index.html" target="_blank">访谈</a></li>
+      <li><a href="http://rss.people.com.cn/" target="_blank">RSS</a></li>
+      <li><a href="http://culture.people.com.cn/GB/index.html" target="_blank">文化</a></li>
+      <li><a href="http://media.people.com.cn/GB/index.html" target="_blank">传媒</a>|</li>
+      <li><a href="http://env.people.com.cn/GB/index.html" target="_blank">环保</a></li>
+      <li><a href="http://travel.people.com.cn/GB/index.html" target="_blank">旅游</a></li>
+      <li><a href="http://weather.people.com.cn/GB/index.html" target="_blank">天气</a>|</li>
+      <li><a href="http://health.people.com.cn/GB/index.html" target="_blank">健康</a></li>
+      <li><a href="http://fashion.people.com.cn/" target="_blank">男士</a></li>
+      <li><a href="http://lady.people.com.cn/GB/index.html" target="_blank">女性</a>|</li>
+      <li><a href="http://hm.people.com.cn/GB/index.html" target="_blank">港澳</a></li>
+      <li><a href="http://chinese.people.com.cn/GB/index.html" target="_blank">华侨</a>|</li>
+      <li><a href="http://house.people.com.cn/" target="_blank">房产</a></li>
+      <li><a href="http://art.people.com.cn/GB/index.html" target="_blank">收藏</a></li>
+      <li><a href="http://ip.people.com.cn/" target="_blank">知识</a></li>
+      <li><a href="http://it.people.com.cn/GB/index.html" target="_blank">I&nbsp;T&nbsp;</a>|</li>
+      <li><a href="http://wireless.people.com.cn/GB/index.html" target="_blank">无线</a></li>
+      <li><a href="http://game.people.com.cn/GB/index.html" target="_blank">游戏</a></li>
+      <li><a href="http://mms.people.com.cn/" target="_blank">彩信</a></li>
+      <li><a href="http://shop.people.com.cn/" target="_blank">商城</a></li>
+	</ul>
+    </div>
+</div>
+<!--结束 人民网主导航-->
+<!--广告-->
+<table class="banner" cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+    <td><!--广告左一[770*80]开始--><iframe src="http://pro.people.com.cn/html.ng/channel_range=1/1000/&channel_id=1000&PagePos=28&size=77080&site=people" width="770" height="80" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> 
+	<script language="javascript1.1" src="http://pro.people.com.cn/js.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=28&size=77080&site=people"></script><noscript><a href="http://pro.people.com.cn/click.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=28&size=77080&site=people" target="_blank"><img src="http://pro.people.com.cn/image.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=28&size=77080&site=people" width="770" height="80" border="0"></a> </noscript>
+	</iframe>
+  <!--广告左一[770*80]结束--></td>
+	<td><div class="banner_r">
+	  <iframe src="http://pro.people.com.cn/html.ng/channel_range=1/1000/&channel_id=1000&PagePos=23&size=txt&site=people" marginwidth="0" marginheight="0" width="100%" height="23" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> 
+      <script language="javascript1.1" src="http://pro.people.com.cn/js.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=23&size=txt&site=people"></script><noscript><a href="http://pro.people.com.cn/click.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=23&size=txt&site=people" target="_top"><img src="http://pro.people.com.cn/image.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=23&size=txt&site=people" width="100%" height="16" border="0"></a></noscript>
+      </iframe> 
+      <iframe src="http://pro.people.com.cn/html.ng/channel_range=1/1000/&channel_id=1000&PagePos=24&size=txt&site=people" marginwidth="0" marginheight="0" width="100%" height="23" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> 
+      <script language="javascript1.1" src="http://pro.people.com.cn/js.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=24&size=txt&site=people"></script><noscript><a href="http://pro.people.com.cn/click.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=24&size=txt&site=people" target="_top"><img src="http://pro.people.com.cn/image.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=24&size=txt&site=people" width="100%" height="16" border="0"></a> </noscript>
+      </iframe>
+      <iframe src="http://pro.people.com.cn/html.ng/channel_range=1/1000/&channel_id=1000&PagePos=25&size=txt&site=people" marginwidth="0" marginheight="0" width="100%" height="23" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> 
+      <script language="javascript1.1" src="http://pro.people.com.cn/js.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=25&size=txt&site=people"></script><noscript><a href="http://pro.people.com.cn/click.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=25&size=txt&site=people" target="_top"><img src="http://pro.people.com.cn/image.ng/params.richmedia=yes&channel_range=1/1000/&channel_id=1000&PagePos=25&size=txt&site=people" width="100%" height="16" border="0"></a></noscript>
+      </iframe>
+	</div></td>
+  </tr>
+</table><!-- #EndLibraryItem --><!--频道导航-->
+<div class="sub_nav"><img style="float:left;" src="/img/2007newscenter/pci/sublogo.jpg" alt="新闻中心" />
+  <div class="sub_nav_c">
+  <a href="http://www.people.com.cn/GB/gdxw.html">滚动</a>
+  ·<a href="http://www.people.com.cn/GB/zhuangao.html">专稿</a>
+  ·<a href="http://news.people.com.cn/GB/28053/index.html">新闻榜</a>
+  ·<a href="http://news.people.com.cn/GB/28165/index.html">留言榜</a>
+  ·<a href="http://www.people.com.cn/GB/51831/index.html">直播</a>
+  ·<a href="http://politics.people.com.cn/GB/8198/87154/index.html">第一现场</a>
+  ·<a href="http://news.people.com.cn/GB/154298/index.html">专题汇总</a>
+  ·<a href="http://www.people.com.cn/GB/8196/index.html">人民网记者遍神州</a>
+  ·<a href="http://www.people.com.cn/GB/other3983/index.html">遍全球</a>
+  ·<a href="http://rss.people.com.cn/">RSS</a>&nbsp;
+    <table class="sub_table" cellpadding="0" cellspacing="0" border="0">
+	  <tr>
+	    <td align="left"><img src="/img/2007newscenter/pci/left.gif" alt="" /></td>
+		<td>&nbsp;&nbsp;<a href="http://politics.people.com.cn/GB/index.html">时政</a>|<a href="http://pic.people.com.cn/GB/index.html">图片</a>|<a href="http://world.people.com.cn/GB/index.html">国际</a>|<a href="http://finance.people.com.cn/GB/index.html">经济</a>|<a href="http://society.people.com.cn/GB/index.html">社会</a>|<a href="http://edu.people.com.cn/">教育</a>|<a href="http://tw.people.com.cn/GB/index.html">台湾</a>|<a href="http://military.people.com.cn/GB/index.html">军事</a>|<a href="http://sports.people.com.cn/GB/index.html">体育</a>|<a href="http://ent.people.com.cn/GB/index.html">娱乐</a>|<a href="http://culture.people.com.cn/GB/index.html">文化</a>|<a href="http://env.people.com.cn/GB/index.html">环保</a>|<a href="http://scitech.people.com.cn/GB/index.html">科技</a>|<a href="http://it.people.com.cn/GB/index.html">IT</a>|<a href="http://unn.people.com.cn/GB/41796/index.html">地方</a>|<a href="http://auto.people.com.cn/GB/index.html">汽车</a>|<a href="http://nc.people.com.cn/GB/index.html">新农村</a></td>
+	  </tr>
+	</table>
+  </div>
+</div>
+<!--结束 频道导航-->
+<div class="shicha" style="display:none;">
+  <div class="shicha_t">
+  <p></p>
+  </div>
+  <div class="shicha_c">
+	<!--pic marquee-->
+<div id="demo"  style="overflow:hidden; width:970px; height:269px;">
+   <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td valign="top" id="demo1">
+            <table width="970" border="0" align="center" cellpadding="0" cellspacing="0" >
+               <tr>
+                  
+               </tr>
+            </table>
+ 
+         </td>
+         <td id="demo2" width="1"></td>
+      </tr>
+   </table>
+</div> 
+<script language="javascript" type="text/javascript"> 
+//<![CDATA[
+   var speed=30//速度数值越大速度越慢
+   var demo2 = document.getElementById("demo2");
+   var demo = document.getElementById("demo");
+   var demo1 = document.getElementById("demo1");
+   demo2.innerHTML=demo1.innerHTML
+   function Marquee(){
+      if(demo2.offsetWidth-demo.scrollLeft<=0)
+         demo.scrollLeft-=demo1.offsetWidth
+      else{
+         demo.scrollLeft++
+      }
+   }
+   var MyMar=setInterval(Marquee,speed)
+   demo.onmouseover=function() {clearInterval(MyMar)}
+   demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)}
+//]]>
+</script>
+  </div>
+</div>
+<!--头条新闻内容-->
+<div class="main_n">
+  <!--左侧新闻-->
+  <div class="l_main">
+    <!--天气预报-->
+	 <div align="center" class="swsy" ><table border="0"><tr><td align="center"><iframe src="http://weather.people.com.cn/customize/onpeople_2007news.html" frameborder="0" scrolling="no" width="360" height="33"></iframe></td><td align="center"><a href="#" onclick="var strHref=window.location.href;this.style.behavior='url(#default#homepage)';this.setHomePage('http://news.people.com.cn/GB/index.html');" style="CURSOR: hand"><font color="000000">设为首页</font></a></td></tr></table>
+	 </div>
+	 <!--左侧新闻内容-->
+	 <div class="l_main_c">
+	   <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	     <tr>
+	       <td><h1><a href=http://politics.people.com.cn/GB/1024/13459401.html target='_blank'>中央经济会议:地方不可盲目追求高速度</a></h1><a href=http://finance.people.com.cn/GB/jinji/222/2322/index.html class="anavy" target=_blank>[专题]</a><a href=http://finance.people.com.cn/GB/13459419.html class="anavy" target=_blank>[解读]</a><a href=http://opinion.people.com.cn/GB/13459405.html class="anavy" target=_blank>[社论:实现"十二五"良好开局]</a><a href=http://finance.people.com.cn/GB/13459417.html class="anavy" target=_blank>[积极财政政策如何实施]</a><br /></td>
+	     </tr>
+	     <tr>
+	       <td><h1><a href='http://finance.people.com.cn/GB/13459419.html' target="_blank">解读2011宏观政策及走向:积极稳健审慎灵活</a></h1>&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://finance.people.com.cn/GB/13459505.html' target='_blank'>[中央经济工作会议闭幕]</a><a href='http://finance.people.com.cn/GB/13459505.html' target='_blank'>[突出稳物价]</a><a href='http://finance.people.com.cn/GB/13459509.html' target='_blank'>[实现十二五良好开局]</a><a href='http://finance.people.com.cn/GB/jinji/222/2322/index.html' target='_blank'>[专题]</a>
+</td>
+	     </tr>
+	     <tr>
+	       <td><h1><a href='http://sports.people.com.cn/GB/209115/13457730.html' target='_blank'>亚残运火炬传递画句号 90名火炬手完成接</a></h1><a href='http://sports.people.com.cn/GB/209115/13457598.html' target='_blank'>[亚残运大幕即将开启]</a> <a href='http://sports.people.com.cn/GB/209115/13457734.html' target='_blank'>[圣火点燃方式很神秘]</a> <a href='http://sports.people.com.cn/GB/13456483.html' target='_blank'>[十大感人瞬间]</a><br /></td>
+	     </tr>
+	     <tr>
+	       <td style="background:none;"><h1><!--<a href='http://unn.people.com.cn/GB/41796/index.html' target='_blank'>地方：</a>--><a href="http://unn.people.com.cn/GB/14748/13463481.html" target=_blank>煤炭产销大省山西守着煤田闹“电荒”</a></h1>[<a href="http://unn.people.com.cn/GB/14748/13460393.html" target=_blank>北京18岁小伙打工受伤后喝农药自杀</a>] [<a href="http://unn.people.com.cn/GB/14748/13460668.html" target=_blank>甘肃发现亿吨级整装大油田</a>]<br /></td>
+	     </tr>
+	   </table>	    
+		<div class="n_pur"><div><span>特别关注</span></div>·<a href='http://society.people.com.cn/GB/13459413.html' target="_blank">北京治堵方案征求公众意见（热点解读）</a><br />
+·<a href='http://world.people.com.cn/GB/13459426.html' target="_blank">葡萄牙拒绝外界指手画脚（国际视点）</a><br />
+</div>
+	   <table class="f14" style="margin:0 auto;" cellpadding="0" cellspacing="0" border="0" width="100%">
+	     <tr>
+	       <td align="left"><font color="#000000">
+		   <a href="http://politics.people.com.cn/GB/index.html" class="red">[时政]<a href='http://politics.people.com.cn/GB/41223/13453828.html' target='_blank'>外交部人事微调&nbsp;张志军接替王光亚任常务副部长</a><br /><a href="http://world.people.com.cn/GB/index.html" class="red">[国际]<a href='http://world.people.com.cn/GB/13134394.html' target='_blank'>美狂印钞全球将迎高通胀</a>&nbsp;<a
+href='http://world.people.com.cn/GB/13134399.html' target='_blank'>奥巴马亚洲行焦点是中国议题</a><br /><a href="http://tw.people.com.cn/" class="red">[台湾]<a href=http://tw.people.com.cn/GB/26741/208801/index.html target='_blank'>马英九称连胜文枪案与319案不同</a>&nbsp;<a href=http://tw.people.com.cn/GB/14812/14875/index.html target='_blank'>陈致中已认召妓事实</a><br /><a href="http://military.people.com.cn/GB/index.html" class="red">[军事]<a href='http://military.people.com.cn/GB/42969/58519/13462240.html' target='_blank'>日新防卫思路欲对抗中国</a>&nbsp;<a
+href='http://military.people.com.cn/GB/42969/58518/13460906.html' target='_blank'>俄称歼11B有中国自主技术</a><br /><a href="http://finance.people.com.cn/GB/index.html" class="red" target=_blank>[经济]</a><a href='http://58.68.146.207:9168/gphq/stockselect.jsp' target='_blank'><font color='#ff0000'>股票筛选器</font></a>&nbsp;<a href='http://finance.people.com.cn/GB/1045/13459373.html' target='_blank'>明年我国经济或二次探底</a>&nbsp;<a href='http://finance.people.com.cn/GB/1045/13459380.html' target='_blank'>CPI集体&quot;发烧&quot;</a><br /><a href="http://mnc.people.com.cn/GB/index.html" class="red" target=_blank>[跨国]</a><a href='http://mnc.people.com.cn/GB/13446176.html' target='_blank'>最给力的反酒驾广告</a><a href="http://house.people.com.cn/GB/index.html" class="red" target=_blank>[房产]</a><a href="http://house.people.com.cn/GB/13459769.html" target="_blank">拆迁补偿原则有望城乡统一</a><br />[<a href="http://it.people.com.cn/" class="red">IT</a>]<a href="http://it.people.com.cn/GB/13399526.html" target="_blank">优酷土豆&quot;洗白&quot;为上市</a>[<a href="http://homea.people.com.cn/" class="red">家电</a>]<a href="http://homea.people.com.cn/GB/41416/209296/index.html" target="_blank">家电岁末或降价</a><br />[<a href="http://auto.people.com.cn/" class="red">汽车</a>]<a href="http://auto.people.com.cn/GB/1050/13413890.html" target="_blank">明年汽车消费基调怎么定？</a>[<a href="http://shipin.people.com.cn/" class="red">食品</a>]<a href="http://shipin.people.com.cn/GB/13411377.html" target="_blank">生猪注水搬上高速路</a><br /></font>
+		   </td>
+	     </tr>
+	     <tr>
+	       <td align="left" style="background:none;"><font color="#000000">
+		  <a href="http://lady.people.com.cn/GB/index.html" class="red" target=_blank>[女性]</a><a href="http://lady.people.com.cn/GB/13463968.html" target=_blank>名导前妻现在生活状况</a><a href="http://fashion.people.com.cn/" class="red" target=_blank>[男士]</a><a href="http://fashion.people.com.cn/GB/13457487.html" target="_blank">蔡康永携新书沪上亮相</a><br /><a href="http://ccnews.people.com.cn/" class="red" target=_blank>[央企]</a><a href="http://ccnews.people.com.cn/GB/13459943.html" target=_blank>中国高铁图谋海外市场</a><a href="http://energy.people.com.cn/GB/index.html" class="red">[能源]</a><a href="http://energy.people.com.cn/GB/13464047.html" target="_blank">矿难救援监控设备人为关闭?</a><br /><a href="http://edu.people.com.cn/" target=blank class="red">[教育]</a><a href='http://edu.people.com.cn/GB/13456881.html' target='_blank'>全国高考加分半年内调整</a>&nbsp;<a href='http://edu.people.com.cn/GB/13436936.html' target='_blank'>80后富家女接班3难题</a><br /><a href="http://ent.people.com.cn" target=blank class="red">[娱乐]</a><a href='http://ent.people.com.cn/GB/13457269.html' target='_blank'>曹云金天价相声盖过师傅</a>&nbsp;<a href='http://ent.people.com.cn/GB/13335423.html' target='_blank'>王贝再引圈中整容疑云</a><br /><a href="http://culture.people.com.cn/GB/index.html" class="red">[文化]</a><a href='http://book.people.com.cn/GB/69399/107426/206003/index.html' target='_blank'>温家宝引用诗文赏析</a>&nbsp;<a href=http://culture.people.com.cn/GB/22226/71855/index.html target=_blank>为文化娱乐三辩 娱乐并无原罪</a><br /><a href="http://sports.people.com.cn/" class="red">[体育]</a><a href='http://sports.people.com.cn/GB/209115/index.html' target='_blank'>亚残运会</a>&nbsp;<a href='http://sports.people.com.cn/GB/35862/13456678.html' target='_blank'>朱芳雨四度获得MVP</a>&nbsp;<a href='http://sports.people.com.cn/GB/22134/13457280.html' target='_blank'>老布：组建中国特色国奥</a><br /><a href="http://scitech.people.com.cn" class="red">[科技]</a><a href='http://scitech.people.com.cn/GB/13459406.html' target='_blank'>地下2400米寻暗物质</a> <a href='http://scitech.people.com.cn/GB/13464497.html' target='_blank'>地外生命存在可能与日俱增</a><br /><a href=http://media.people.com.cn/GB/index.html target="_blank" class="red">[传媒]</a><a href='http://media.people.com.cn/GB/40606/13459443.html' target='_blank'>网络评选刷票“黑客”生意忙</a>&nbsp;<a href='http://media.people.com.cn/GB/40606/13459444.html' target='_blank'>我国微博用户将达7500万</a><br /></font>
+		   </td>
+	     </tr>
+	   </table>
+	   <div><script language="javascript1.1" src="http://pro.people.com.cn/js.ng/channel_range=1/1000/&channel_id=1000&PagePos=3&size=41060&site=people"></script></div>
+	   <div class="b_banner f14">
+	  <span class="t12l14navy"></span> <a href=" http://www.people.com.cn/adv/zhangyunewstext.html" target=_blank class="a2">张裕百年酒窖成国家名片</a><br /><a href="http://2010.people.com.cn/" target=_blank class="a2">带你体验2010上海世博会</a>
+ 
+<a href=" http://travel.people.com.cn/GB/195428/195431/index.html" target=_blank class="a2">中国休闲城市评选</a><br /><a href="http://www.people.com.cn/adv/dshgnews.html" target=_blank class="a2">淡水河谷中国西部生态保护创新公众参与项目</a><br />
+	   </div>
+	 </div>
+  </div>
+  <!--右侧新闻-->
+  <div class="r_main">
+    <div class="f_map">
+	  <p><table border="0" cellpadding="0" cellspacing="0"><form action="http://search.people.com.cn/rmw/GB/rmwsearch/gj_search_pd.jsp" name="searchForm" method="post"  onsubmit="if(getParameter_DJ('新闻中心') == false) return false;" target="_blank">
+<input type="hidden" name="XMLLIST"><tr><td width="221" align="left"><a href="http://tv.people.com.cn/GB/182567/index.html" target='_blank'>[视频]地方领导报道集</a></td><td align="right">&nbsp;&nbsp;&nbsp;新闻检索:<input  type="text" name="names" Id="names" class="input01" size="20" /><input name="Submit3"  type="image" src="/img/2007newscenter/images/jia.gif"   hspace="5" align="absmiddle" height="20" border="0" />
+     </td></tr></form></table></p>
+	  <div class="mar_n"><img src="/img/2007newscenter/images/jiao.gif" border="0" alt="" /><!--<marquee direction="left" scrollamount="3" width="500" onmousemove="stop()" onmouseout="start()"></marquee>-->&nbsp;<a href="http://www.people.com.cn/GB/gdxw.html" target="_blank">进入滚动新闻</a><span style="text-align:right; padding:0 0 0 100px;"><a href="http://www.people.com.cn/GB/8196/index.html"  target="_blank">人民网记者遍神州</a><a href="http://www.people.com.cn/GB/other3983/index.html" target="_blank">遍全球</a></span></div>
+      
+      <!--6.20-->
+	  <div class="m620">
+	    <div class="m620_c">
+        	<div class="m620_flash">
+<script language="javascript" type="text/javascript"> 
+//<![CDATA[
+var _width = 212 
+var _height = 137 
+var text_height = 20
+var flash_height = _height + text_height 
+var pic_arr = new Array(); 
+var link_arr = new Array(); 
+var text_arr = new Array(); 
+var i = 0;
+ 
+pic_arr[0] = "/mediafile/201012/13/F201012130443591213211643.jpg";
+pic_arr[1] = "/mediafile/201012/13/F201012130444043356151601.jpg";
+pic_arr[2] = "/mediafile/201012/13/F201012130444071978018262.jpg";
+ 
+link_arr[0]= "http://society.people.com.cn/GB/13459375.html";
+link_arr[1] = "http://society.people.com.cn/GB/1062/13459372.html";
+link_arr[2] = "http://world.people.com.cn/GB/13459374.html";
+ 
+text_arr[0] = "北京治堵方案着眼“限建管”";
+text_arr[1] = "职业刷票成网络黑色产业 ";
+text_arr[2] = "天文学家称揭开土星光环形成之谜";
+//
+ 
+var p = pic_arr.join("|");
+var l = link_arr.join("|");
+var t = text_arr.join("|");
+var f = "http://www.people.com.cn/img/2007people_index/focus.swf";
+document.write('<object ID="focus_flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ _width +'" height="'+ flash_height +'">');
+document.write('<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="'+f+'"><param name="quality" value="high"><param name="bgcolor">');
+document.write('<param name="menu" value="false"><param name=wmode value="transparent">');
+document.write('<param name="FlashVars" value="pics='+p+'&links='+l+'&texts='+t+'&borderwidth='+_width+'&borderheight='+_height+'&textheight='+text_height+'">');
+document.write('<embed ID="focus_flash" src="'+f+'" wmode="opaque" FlashVars="pics='+p+'&links='+l+'&texts='+t+'&borderwidth='+_width+'&borderheight='+_height+'&textheight='+text_height+'" menu="false" quality="high" width="'+ _width +'" height="'+ flash_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
+document.write('</object>');
+//]]>
+</script>
+				<div style="height:5px;width:210px;"></div> 
+<script language="javascript" type="text/javascript"> 
+//<![CDATA[
+var _width = 212 
+var _height = 137 
+var text_height = 20
+var flash_height = _height + text_height 
+var pic_arr = new Array(); 
+var link_arr = new Array(); 
+var text_arr = new Array(); 
+var i = 0;
+ 
+pic_arr[0] = "/mediafile/201012/13/F201012130524277844226731.jpg";
+pic_arr[1] = "/mediafile/201012/13/F201012130558321287254113.jpg";
+pic_arr[2] = "/mediafile/201012/03/F201012030837113214883101.jpg";
+pic_arr[3] = "/mediafile/201011/29/F201011290508393208680822.jpg";
+ 
+link_arr[0] = "http://world.people.com.cn/GB/13459412.html";
+link_arr[1] = "http://world.people.com.cn/GB/57504/13459390.html";
+link_arr[2] = "http://world.people.com.cn/GB/57505/13385343.html";
+link_arr[3] = "http://www.people.com.cn/adv/langchao212.html";
+ 
+text_arr[0] = "美军新型电磁炮射程达200公里";
+text_arr[1] = "查韦斯称没收富人土地为穷人盖房";
+text_arr[2] = "金正日频繁视察地方工厂企业和学校";
+text_arr[3] = "浪潮服务器";
+//
+ 
+var p = pic_arr.join("|");
+var l = link_arr.join("|");
+var t = text_arr.join("|");
+var f = "http://www.people.com.cn/img/2007people_index/focus.swf";
+document.write('<object ID="focus_flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ _width +'" height="'+ flash_height +'">');
+document.write('<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="'+f+'"><param name="quality" value="high"><param name="bgcolor">');
+document.write('<param name="menu" value="false"><param name=wmode value="transparent">');
+document.write('<param name="FlashVars" value="pics='+p+'&links='+l+'&texts='+t+'&borderwidth='+_width+'&borderheight='+_height+'&textheight='+text_height+'">');
+document.write('<embed ID="focus_flash" src="'+f+'" wmode="opaque" FlashVars="pics='+p+'&links='+l+'&texts='+t+'&borderwidth='+_width+'&borderheight='+_height+'&textheight='+text_height+'" menu="false" quality="high" width="'+ _width +'" height="'+ flash_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
+document.write('</object>');
+//]]>
+</script>
+        	</div>
+		 	<div class="m620_list" >
+			<div id="shangfan">
+<div id="holder">
+<ul>
+					  <li>·<a href='http://energy.people.com.cn/GB/13468462.html' target="_blank">成品油价格形成机制关键在于打破垄断</a> [15:01]</li>
+<li>·<a href='http://dt.people.com.cn/GB/13468332.html' target="_blank">购车或有补贴&nbsp;2012年广东中山电…</a> [14:54]</li>
+<li>·<a href='http://society.people.com.cn/GB/1062/13468328.html' target="_blank">&quot;猜猜我是谁&quot;抢走老太金耳环&nbsp;嫌犯…</a> [14:54]</li>
+<li>·<a href='http://society.people.com.cn/GB/41159/156846/13468242.html' target="_blank">“四人帮”倒台前最后一张集体照</a> [14:47]</li>
+<li>·<a href='http://dt.people.com.cn/GB/13468186.html' target="_blank">“碳足迹”认证标准正制定&nbsp;或成外贸…</a> [14:43]</li>
+<li>·<a href='http://world.people.com.cn/GB/13468180.html' target="_blank">美国特使再访以色列&nbsp;以方态度或将决…</a> [14:43]</li>
+<li>·<a href='http://dt.people.com.cn/GB/13468154.html' target="_blank">中学生制健身发电车&nbsp;边骑边发电&nbsp;这…</a> [14:40]</li>
+<li>·<a href='http://env.people.com.cn/GB/13468022.html' target="_blank">“碳足迹”认证标准正制定&nbsp;或成外贸…</a> [14:30]</li>
+<li>·<a href='http://ccnews.people.com.cn/GB/13468007.html' target="_blank">铁路春运明年1月19日开始</a> [14:29]</li>
+<li>·<a href='http://env.people.com.cn/GB/13467994.html' target="_blank">环境税开征“步入”利益纠葛深水区</a> [14:27]</li>
+<li>·<a href='http://media.people.com.cn/GB/40606/13467926.html' target="_blank">伍皓放弃起诉报社评论员:领导让我宽容</a> [14:21]</li>
+<li>·<a href='http://world.people.com.cn/GB/13467906.html' target="_blank">沉没的韩国渔船上的8名中国籍船员4…</a> [14:19]</li>
+<li>·<a href='http://world.people.com.cn/GB/13467897.html' target="_blank">蜜蜂眼中的世界（图）</a> [14:18]</li>
+<li>·<a href='http://ccnews.people.com.cn/GB/13467794.html' target="_blank">危机公关运行太极模式及其哲学</a> [14:14]</li>
+<li>·<a href='http://env.people.com.cn/GB/13467759.html' target="_blank">自然保护区内违法建水电站&nbsp;环保部督…</a> [14:12]</li>
+<li>·<a href='http://politics.people.com.cn/GB/1026/13467715.html' target="_blank">为什么&quot;包容性增长&quot;没有写进&quot;十二…</a> [14:09]</li>
+<li>·<a href='http://world.people.com.cn/GB/13467698.html' target="_blank">暴风雪袭击美国中西部</a> [14:07]</li>
+<li>·<a href='http://env.people.com.cn/GB/13467660.html' target="_blank">煤炭产销大省守着煤田闹“电荒”</a> [14:02]</li>
+<li>·<a href='http://ccnews.people.com.cn/GB/13467658.html' target="_blank">宝钢全面提价&nbsp;主流产品上涨200元</a> [14:02]</li>
+<li>·<a href='http://politics.people.com.cn/GB/1026/13467648.html' target="_blank">调查显示法官检察官“晋级即退”现象…</a> [14:02]</li>
+<li>·<a href='http://env.people.com.cn/GB/13467574.html' target="_blank">坎昆博弈关键问题未突破&nbsp;《京都议定…</a> [13:58]</li>
+<li>·<a href='http://env.people.com.cn/GB/13467558.html' target="_blank">甘肃发现亿吨级整装大油田&nbsp;1口井日…</a> [13:57]</li>
+<li>·<a href='http://energy.people.com.cn/GB/13467457.html' target="_blank">光伏业年末迎新一轮扩张浪潮&nbsp;隐现过…</a> [13:54]</li>
+<li>·<a href='http://world.people.com.cn/GB/13467418.html' target="_blank">美国《时代周刊》评选出2010年十…</a> [13:52]</li>
+<li>·<a href='http://gongyi.people.com.cn/GB/13467376.html' target="_blank">全民公益的理想何时能实现</a> [13:50]</li>
+<li>·<a href='http://gongyi.people.com.cn/GB/153219/13467332.html' target="_blank">慈善家也会喝醉也会犯错</a> [13:46]</li>
+<li>·<a href='http://gongyi.people.com.cn/GB/153219/13467298.html' target="_blank">俄罗斯总理普京为患病儿童弹钢琴献唱&nbsp;</a> [13:43]</li>
+<li>·<a href='http://ccnews.people.com.cn/GB/13467286.html' target="_blank">新京报：T3“局部薄弱”是不是“豆…</a> [13:42]</li>
+<li>·<a href='http://ccnews.people.com.cn/GB/13467284.html' target="_blank">新民晚报：让建筑依法“长寿”是节能…</a> [13:42]</li>
+<li>·<a href='http://ccnews.people.com.cn/GB/13467244.html' target="_blank">国家电网分布式光伏电源并网关键技术…</a> [13:40]</li>
+<li>·<a href='http://gongyi.people.com.cn/GB/153219/13467236.html' target="_blank">中国“5+2”人群寄望高铁缩短“家…</a> [13:39]</li>
+<li>·<a href='http://world.people.com.cn/GB/13467235.html' target="_blank">韩国举行新一轮射击演练&nbsp;朝鲜称做好…</a> [13:39]</li>
+<li>·<a href='http://gongyi.people.com.cn/GB/153219/13467189.html' target="_blank">&quot;拼爹&quot;事件刺激社会神经&nbsp;&nbsp;&quot;二代…</a> [13:36]</li>
+<li>·<a href='http://world.people.com.cn/GB/13467150.html' target="_blank">伊朗记者称总统内贾德是“夸大狂”&nbsp;…</a> [13:28]</li>
+<li>·<a href='http://world.people.com.cn/GB/13467112.html' target="_blank">韩一高速公路发生连环撞车事故&nbsp;7人…</a> [13:25]</li>
+<li>·<a href='http://society.people.com.cn/GB/13467108.html' target="_blank">“四人帮”倒台前最后一张集体照</a> [13:25]</li>
+<li>·<a href='http://society.people.com.cn/GB/13467095.html' target="_blank">看毛泽东写给杨开慧哥哥等亲属的信</a> [13:24]</li>
+<li>·<a href='http://society.people.com.cn/GB/42733/13467065.html' target="_blank">女孩遭前男友等灌醉轮奸&nbsp;失踪10天…</a> [13:24]</li>
+<li>·<a href='http://book.people.com.cn/GB/69360/13467061.html' target="_blank">梁晓声、张鸣等当选“首届《作家文摘…</a> [13:24]</li>
+<li>·<a href='http://society.people.com.cn/GB/13467057.html' target="_blank">河南通报13起涉煤违纪违法案件&nbsp;严…</a> [13:23]</li>
+<li>·<a href='http://society.people.com.cn/GB/13467038.html' target="_blank">调查·观察：自行车出行卡在哪儿？</a> [13:23]</li>
+<li>·<a href='http://energy.people.com.cn/GB/13467022.html' target="_blank">发改委官员:两大优惠政策支持山西资…</a> [13:22]</li>
+<li>·<a href='http://world.people.com.cn/GB/13467020.html' target="_blank">英“间谍助理”案主角再惹事&nbsp;带妓女…</a> [13:22]</li>
+<li>·<a href='http://energy.people.com.cn/GB/13467002.html' target="_blank">山西煤炭资源价款补偿完成交易率达8…</a> [13:21]</li>
+<li>·<a href='http://energy.people.com.cn/GB/13466987.html' target="_blank">建国后山西总采煤120亿吨&nbsp;满载火…</a> [13:19]</li>
+<li>·<a href='http://env.people.com.cn/GB/13466924.html' target="_blank">强降雪降温袭击东北&nbsp;未来三天降雪向…</a> [13:12]</li>
+<li>·<a href='http://world.people.com.cn/GB/13466922.html' target="_blank">组图：日本国民甜心长泽雅美</a> [13:12]</li>
+<li>·<a href='http://ccnews.people.com.cn/GB/13466916.html' target="_blank">河南煤电供需形势严峻&nbsp;日均供应缺口…</a> [13:11]</li>
+<li>·<a href='http://world.people.com.cn/GB/13466912.html' target="_blank">海湾阿拉伯国家强调要在解决伊朗核问…</a> [13:10]</li>
+<li>·<a href='http://env.people.com.cn/GB/13466897.html' target="_blank">兰州回应天然气供热价未听便涨&nbsp;称2…</a> [13:09]</li>
+ 
+ 
+				   </ul></div>
+</div>
+			<style type="text/css"> 
+#shangfan{font-family:宋体;font-size: 12px;height:250px; width:280px; overflow:hidden;}
+#shangfan ul{margin: 0px;padding: 0px;list-style-type: none;}
+#shangfan ul li{/*文字超出本行，自动省略*/overflow:hidden;text-overflow:ellipsis;white-space: nowrap;line-height:25px;margin:0;padding:0px;}
+</style>
+			<script language="javascript" type="text/javascript"> 
+//<![CDATA[
+function marquee(height,speed,delay){
+var scrollT;
+var pause = false;
+var ScrollBox = document.getElementById("shangfan");
+if(document.getElementById("holder").offsetHeight <= height) return;
+var _tmp = ScrollBox.innerHTML.replace('holder', 'holder2')
+ScrollBox.innerHTML += _tmp;
+ScrollBox.onmouseover = function(){pause = true}
+ScrollBox.onmouseout = function(){pause = false}
+ScrollBox.scrollTop = 0;
+function start(){
+     scrollT = setInterval(scrolling,speed);
+     if(!pause) ScrollBox.scrollTop += 2;
+}
+function scrolling(){
+     if(ScrollBox.scrollTop % height != 0){
+         ScrollBox.scrollTop += 2;
+         if(ScrollBox.scrollTop >= ScrollBox.scrollHeight/2) ScrollBox.scrollTop = 0;
+     }
+   else{
+         clearInterval(scrollT);
+         setTimeout(start,delay);
+     }
+}
+setTimeout(start,delay);
+}
+marquee(250,30,3000);
+//]]>
+</script>
+			<h2><a href="http://news.people.com.cn/GB/154298/index.html" target="_blank">特别报道</a><span><a href="http://news.people.com.cn/GB/154298/index.html" target="_blank">更多&gt;&gt;</a></span></h2>
+		   <ul class="t0624">
+		      <li>·<a href='http://politics.people.com.cn/GB/8198/204472/index.html' target='_blank'>聚焦十七届五中全会</a> <a href='http://society.people.com.cn/GB/8217/207765/index.html' target='_blank'>上海大火</a> <a href='http://military.people.com.cn/GB/8221/61117/181835/index.html' target='_blank'>珠海航展</a></li><li>·<a href='http://edu.people.com.cn/GB/gongwuyuan/' target='_blank'>国家公务员考录改革</a> <a href='http://gd.people.com.cn/GB/123947/184561/index.html' target='_blank'>广州亚运</a> <a href='http://sports.people.com.cn/GB/22134/86728/180343/index.html' target='_blank'>足坛打黑</a></li>
+		   </ul>
+		 	</div>
+		</div>
+	  </div>
+	  <!--end 6.20-->      
+	</div>
+	<div class="r_banner"><script language="javascript1.1" src="http://pro.people.com.cn/js.ng/channel_range=1/1000/&channel_id=1000&PagePos=2&size=52080&site=people"></script></div>
+	<div class="main_b_l">
+	<!--图片报道-->
+	  <div class="img_r_t"><a href="http://pic.people.com.cn/GB/8229/87371/index.html" target="_blank"><font color=#ffffff>图片报</font></a>&nbsp;|</div><table cellpadding="0" cellspacing="0" border="0" width="100%">
+	    <tr>
+	      <td><a href="http://pic.people.com.cn/GB/8229/119683/review/20101124.html" target="_blank"><img src="/mediafile/201011/24/F201011241432021718728999.jpg" width="170",height="120",border="0" alt="中方对朝半岛炮击事件表示关注"></a><br /><a href="http://pic.people.com.cn/GB/8229/119683/review/20101124.html" target="_blank">中方对朝半岛炮击事件表示关注</a></td>
+	    </tr>
+	  </table>
+ 
+	  <!--人民宽频-->
+	  <div class="demos_m_t"><a href="http://tv.people.com.cn/GB/14645/index.html" target="_blank"><span>视频新闻&nbsp;|</span></a><A href="http://tv.people.com.cn" target="_blank"><img src="/img/2007newscenter/images/title.gif" border="0" alt="video" /></A></div>
+	  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	    <tr>
+		<td align="center"><a href="http://tv.people.com.cn/GB/69505/109926/162593/review/20101210.html" target="_blank"><img src="/mediafile/201012/10/F201012101818315506482963.jpg" width="170",height="120",border="0" alt="嫖客20刀怒砍发廊妹称其态度不好"></a><br /><a href="http://tv.people.com.cn/GB/69505/109926/162593/review/20101210.html" target="_blank">嫖客20刀怒砍发廊妹称其态度不好</a>
+</td>
+	     </tr>
+		<tr>
+		  <td align="left" class="p5">·<a href='http://tv.people.com.cn/GB/166419/13450230.html' target="_blank">迈克尔·杰克逊的最新单曲视频发布</a><br />
+·<a href='http://tv.people.com.cn/GB/166419/13450109.html' target="_blank">蓝色为预警发布&nbsp;黑吉二省局部暴雪</a><br />
+·<a href='http://tv.people.com.cn/GB/166419/13436333.html' target="_blank">零下41.4度&nbsp;漠河县迎今冬最冷一天</a><br />
+</td>
+		</tr>
+	  </table>
+	  <!--热点关键词与热点专题-->
+	  <div class="hot_tag">
+	    <ul>
+			<li class="one" id="pic_1" style="cursor:pointer;" onmouseover="showMen(1);"><a href="#">热点专题</a></li>
+			<li id="pic_2" style="cursor:pointer;" onmouseover="showMen(2);"><a href="#">关键词</a></li>
+	    </ul>
+	  </div>
+	  <table class="hot_c" id="picb_1" style="display:block;" cellpadding="0" cellspacing="0" border="0" width="100%">
+	    <tr>
+	      <td align="left" style="padding:0 0 4px 10px;"><a href="http://cpc.people.com.cn/GB/194302/index.html" target='_blank'>[开展创先争优]</a><a href='http://media.people.com.cn/GB/22114/207657/index.html' target='_blank'>[范敬宜病逝]</a><a href="http://military.people.com.cn/GB/8221/84385/198163/index.html" target='_blank'>[建军83周年]</a><a href='http://politics.people.com.cn/GB/8198/189185/index.html' target='_blank'>[政府网站评选]</a><a href=http://sports.people.com.cn/2010gzyyh/ target='_blank'>[广州亚运]</a><a href='http://sports.people.com.cn/GB/22155/22157/48286/index.html' target='_blank'>[女排大奖赛]</a><a href='http://tv.people.com.cn/GB/14645/25059/160621/index.html' target='_blank'>[观博]</a><a href=http://society.people.com.cn/GB/8217/200552/index.html target='_blank'>[第六次全国人口普查]</a><br />
+		  </td>
+	    </tr>
+	  </table>
+	  <table class="hot_c" id="picb_2" style="display:none;" cellpadding="0" cellspacing="0" border="0" width="100%">
+	    <tr>
+	      <td align="left" style="padding:0 0 4px 10px;"><a href='http://politics.people.com.cn/GB/8198/207554/index.html' target='_blank'>[习近平访问新加坡等四国]</a><a href='http://media.people.com.cn/GB/22114/207657/index.html' target='_blank'>[范敬宜因病逝世]</a><a href='http://society.people.com.cn/GB/8217/207765/index.html' target='_blank'>[上海大火]</a><a href='http://military.people.com.cn/GB/8221/69693/196853/index.html' target='_blank'>[2010美韩军演]</a><br />
+		  </td>
+	    </tr>
+	  </table>
+ 
+	</div>
+	<div class="main_b_r">
+	 <!--本网专稿-->
+	<iframe scrolling="no" frameborder="0" src="http://news.people.com.cn/GB/117319/index.html" width="" height="220"></iframe>
+	 <!--独

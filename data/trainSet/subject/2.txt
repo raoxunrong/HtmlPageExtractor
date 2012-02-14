@@ -1,0 +1,1600 @@
+http://club.mil.news.sohu.com/r-shilin-3531918-0-24-900.html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>中国“误炸”黄海军演的美国航母结果会怎样-军情观察-军事天地-搜狐社区</title>
+<link type="text/css" rel="stylesheet" href="http://js3.club.sohu.net/newbbs/css/general.css" />
+<link type="text/css" rel="stylesheet" href="http://js3.club.sohu.net/newbbs/css/layout.css" />
+<link type="text/css" rel="stylesheet" href="http://js3.club.sohu.net/newbbs/css/common.css" />
+<link type="text/css" rel="stylesheet" href="http://js3.club.sohu.net/newbbs/css/post_post.css" >
+<link type="text/css" rel="stylesheet" href="http://js3.club.sohu.net/newbbs/css/card_278_blue_1.0.2.css" />
+<link rel="stylesheet" href="http://js3.club.sohu.com/js/toolbar.css" type="text/css">
+
+<style type="text/css" media="screen">
+    #main {margin:0 0 0 5px;padding:0;padding-right:282px;*height:1px;position:relative}
+    #sider {margin:0;padding:0;width:282px;position:absolute;top:0;right:0}
+    #content {margin:0;padding:0;width:auto;float:none;zoom:1}
+    .artfooter {color:#0144AF;text-align:right;margin:5px 3px 3px 0;}
+    .artfooter a {color:#0144AF;}
+	#menu-div {
+		position: absolute;
+		display: none;
+		z-index: 100;
+		width: 330px;
+		border: 2px solid #ccc;
+		padding: 10px 10px 0 10px;
+		background-color: white;
+		font-size:12px;
+	}
+.path .flink {float: left; margin-left: 10px; padding-top:1px; }
+*{margin:0;}
+#pop80{position:absolute;width:80px; height:auto; border:1px solid #768cd5; font-size:12px;z-index:200;background:#fff;}
+#pop80 a{display:block; height:24px; color:#000; text-align:center; line-height:24px; }
+#pop80 .setBtn{background:#768cd5; color:#fff;}
+</style>
+<script src="http://www.sohu.com/sohuflash_1.js" type=text/javascript></script>
+<script src="http://image.club.sohu.com/js/prototype_1.5.0.js" type=text/javascript></script>
+
+<script type="text/javascript">
+var img_maxwidth=550;
+function showHideLayers(id,e) {
+	e = e || window.event;
+	var x = e.pageX || (e.clientX +  (document.documentElement.scrollLeft || document.body.scrollLeft));
+    var y= e.pageY || (e.clientY + (document.documentElement.scrollTop || document.body.scrollTop));	
+	x = x - 60;
+	y = y + 20;
+	var obj = document.getElementById(id);	
+	obj.style.display = (obj.style.display=='none')?'':'none';
+	obj.style.top = y + 'px';
+	obj.style.left = x + 'px';
+}
+function PasteImage(){
+	var str = prompt("输入图片的超链接(例如http://images.sohu.com/soh1.gif):","http:\/\/");
+	if ((str != null) && (str != "http://"))
+	document.getElementById("body0038").value += "<img src="+str+" "+"alt="+str+">";
+	else
+	document.getElementById("body0038").focus();
+}
+function readCookie()
+{
+	var the_cookie = document.cookie;
+	var broken_cookie = the_cookie.split("; ");
+	var thedetail;
+	var thelogin;
+
+	for(var i=0;i<broken_cookie.length;i++){
+		thedetail = broken_cookie[i].split("=");
+		if(thedetail[0]=="cookie_club_cn"){
+			if((thedetail[1]!=null)&&(thedetail[1]!="")){
+				thelogin = true;
+			}else{
+				thelogin = false;
+			}
+		}
+	}
+	return thelogin;
+}
+function gogo(pnum,flag){
+	if (pnum>0&&pnum<9){
+		if (flag==1) document.ff1.action="r-shilin-3531918-"+((pnum-1)*12)+"-85-900.html";
+		else if (flag==2) document.ff2.action="r-shilin-3531918-"+((pnum-1)*12)+"-85-900.html";
+		return true;
+	}else
+	return false;
+}
+
+function changetitle(){
+	eval("vartype=typeof(parent.document.title);");
+	if (vartype!="undefined"){
+		parent.document.title = "中国“误炸”黄海军演的美国航母结果会怎样";
+	}
+}
+var host_cn = '';
+function show_cn(str){
+	eval("val=cn_"+str+";");
+	if (host_cn == val) document.write('<span class="txtleft"><img src="http://js4.club.sohu.com/indeximage/louzhu.gif" title="这是楼主" /></span>');
+	if (isclubuser(val)) document.write("[<span onmouseover='this.title=\""+val+"\"'>"+val+"</span>]");
+	else document.write(val.substr(0,-4)+"****");
+}
+
+function show_item(str,mode){
+	allowguest=0;
+	if (mode=="reply"){ //回复
+		if (allowguest==0){
+			if(typeof(arguments[2]) != "undefined"){
+				document.write("[<a style='cursor:pointer' onclick='club_dialog.showLogin(\""+str+"\")'>回复</a>]");
+			}else {
+				document.write("[<a style='cursor:pointer' onclick='club_dialog.showLogin(\""+str+"\")'><font class=\"orange\">回复</font></a>]");
+			}
+		}else{
+			if(typeof(arguments[2]) != "undefined"){
+				document.write("[<a href="+str+" >回复</a>]");
+			}else {
+				document.write("[<a href="+str+" ><font class=\"orange\">回复</font></a>]");
+			}
+		}
+	}else if (mode=="org"){ //编辑
+		if(typeof(arguments[2]) != "undefined"){
+			document.write("<a style='cursor:pointer' onclick='club_dialog.showLogin(\""+str+"\")'><img src='http://js4.club.sohu.net/new0703/edit.gif' width='38' height='21' alt='管理' title='管理' border='0' /></a>");
+		}else {
+			document.write("[<a style='cursor:pointer' onclick='club_dialog.showLogin(\""+str+"\")'>管理</a>]");
+		}
+	}else if( mode == "addwenji" ){
+		var forumid = "shilin";
+		var wenjibackurl = "http://club.mil.news.sohu.com/main.php%3Fb%3D"+forumid+"%26a%3D3531918";
+		var wenji_link = 'http://photo.club.sohu.com/corpus_art.php?b='+forumid+'&t='+str+'&back='+wenjibackurl; //加入个人文集
+		document.write("[<a style='cursor:pointer' onclick='club_dialog.showLogin(\""+wenji_link+"\")'>加入个人文集</a>]");
+	}
+	else if ( mode == "edit"){
+		var forumid = "shilin";
+		var editbackurl = "http://club.mil.news.sohu.com/main.php%3Fb%3D"+forumid+"%26a%3D3531918";
+		var edit_link = "http://club.mil.news.sohu.com/edit_art.php?b="+forumid+"&c=102&t="+str+"&back="+editbackurl;
+		document.write("[<a style='cursor:pointer' onclick='club_dialog.showLogin(\""+edit_link+"\")'>修改</a>]");
+			}
+	else{  var vartype;
+	if (mode=="Uact") mode1="Uartn";
+	else if (mode=="online"||mode=="nick"||mode=="Uavatar"||mode=="Uavatar1"||mode=="Ublog"||mode=="sms"||mode=="gift"||mode=="goodf"||mode=="goodf1"||mode=="wedding"||mode=="sign_nick") mode1="cn";
+	else mode1=mode;
+	eval("vartype=typeof("+mode1+"_"+str+");");
+	if (vartype!="undefined"){
+		eval("val="+mode1+"_"+str+";");
+		switch(mode){
+			case "body": //内容
+			//	val = val.toLowerCase();
+			val = jsspecialchar(val);
+			document.write(val);
+			break;
+			case "iscommend":
+			eval("iscommend=iscommend_"+str+";");
+			if(iscommend == 4) {
+				document.write("<iframe id='vote_iframe' frameborder=0 width=100% marginheight=0 marginwidth=0 scrolling=no src=research_view.php?b=shilin&a=3531918></iframe>");
+			}
+			break;
+			case "body1": //引用
+			if (val.length>0) document.write ('<div class="bw_form"><div class="head"></div><div class="body"><div class="bw_txt">'+val+'</div></div><div class="foot"></div></div>');
+			break;
+			case "sign": //签名
+			eval("isfirst=ancestorid_"+str+";");
+			eval("nick_name=nickname_"+str+";");
+			if(isfirst != str) {
+				if(val.length>0) {
+					document.write('<h1><span>'+nick_name+'的签名档</span></h1>');
+					document.write('<div class="para3">'+val+'</div>');
+				}
+			} else {
+				document.write(val);
+			}
+			break;
+			case "inputdate": //发帖时间
+			document.write(val);
+			break;
+			case "online": //在线
+			eval("val1=Upassportid_"+str+";");
+			eval("val2=nickname_"+str+";");
+			if (isclubuser(val)) document.write("<a href='javascript:void(0)' name='onlineIcon' rel='"+val1+";"+val2+";'></a>");
+			break;
+			case "cn": //CN
+			if (isclubuser(val)) document.write("<span onmouseover='this.title=\""+val+"\"'>"+val+"</span>");
+			else document.write(val.substr(0,-4)+"****");
+			break;
+			case "nick": //昵称
+			eval("val1=nickname_"+str+";");
+			if (isclubuser(val)) document.write("<a href=http://club.sohu.com/read_user.php?userCN="+val+" target=_blank>"+val1+"</a>");
+			else document.write(val1);
+			break;
+			case "sign_nick": //昵称
+			eval("val1=nickname_"+str+";");
+			document.write(val1);
+			break;
+			case "Usex": //性别
+			if (val==1) document.write("<img src=http://js2.club.sohu.net/new0703/pic1031.gif width=14 height=14 alt=男 />");
+			else if (val==2) document.write("<img src=http://js3.club.sohu.com/new0703/pic1032.gif width=14 height=14 alt=女 />");
+			break;
+			case "Urole": //身份
+			if (val>0&&val<2){
+				eval("val1=cn_"+str+";");
+				switch(val1){
+					case "stitch830323@sohu":
+					document.write("站长");
+					break;
+					case "yang27zou@sohu":
+					document.write("站长");
+					break;
+					case "shequbb@sohu":
+					document.write("活动主管");
+					break;
+					case "leefee1002@chinaren":
+					document.write("活动主管");
+					break;
+					case "shequy@sohu":
+					document.write("活动主管");
+					break;
+					case "yixiuge3@sohu":
+					document.write("站长助理");
+					break;
+					case "bbsbianji@sohu":
+					document.write("内容管理员");
+					break;
+					case "shequhuhu@sohu":
+					document.write("社区管理员");
+					break;
+					default:
+					document.write("版友");
+					break;
+				}
+			}else if (val>2&&val<4&&eval("cn_"+str)!="xuningdamahou@sohu"){
+				document.write("执行站长");
+			}else if (val>3&&val<20){
+				eval("valxxx=cn_"+str+";");
+				switch(valxxx){
+					case "weiwang_18@chinaren":
+					document.write("副站长");
+					break;
+					default:
+					document.write("管理员");
+					break;
+				}
+			}else if (val>19&&val<29){
+				document.write("斑竹");
+			}else{
+				document.write("版友");
+			}
+			break;
+			case "Ulevel": //等级
+			document.write(val+"级");
+			break;
+			case "Uact": //活跃度
+			if (val<10)
+			document.write("<img src=http://js4.club.sohu.net/new0703/pic104.gif width=7 height=7 />");
+			else if (val>=10&&val<100)
+			document.write("<img src=http://js1.club.sohu.com/new0703/pic104.gif width=7 height=7 /><img src=http://js2.club.sohu.net/new0703/pic104.gif width=7 height=7 />");
+			else if (val>=100&&val<1000)
+			document.write("<img src=http://js3.club.sohu.com/new0703/pic104.gif width=7 height=7 /><img src=http://js4.club.sohu.net/new0703/pic104.gif width=7 height=7 /><img src=http://js1.club.sohu.com/new0703/pic104.gif width=7 height=7 />");
+			else if (val>=1000&&val<8000)
+			document.write("<img src=http://js2.club.sohu.net/new0703/pic104.gif width=7 height=7 /><img src=http://js3.club.sohu.com/new0703/pic104.gif width=7 height=7 /><img src=http://js4.club.sohu.net/new0703/pic104.gif width=7 height=7 /><img src=http://js1.club.sohu.com/new0703/pic104.gif width=7 height=7 />");
+			else if (val>=8000)
+			document.write("<img src=http://js2.club.sohu.net/new0703/pic104.gif width=7 height=7 /><img src=http://js3.club.sohu.com/new0703/pic104.gif width=7 height=7 /><img src=http://js4.club.sohu.net/new0703/pic104.gif width=7 height=7 /><img src=http://js1.club.sohu.com/new0703/pic104.gif width=7 height=7 /><img src=http://js2.club.sohu.net/new0703/pic104.gif width=7 height=7 />");
+			break;
+			case "Upower": //魅力
+			document.write(val);
+			break;
+			case "Uartn": //发帖数
+			document.write(val);
+			break;
+			case "Uscore": //积分
+			document.write(val);
+			break;
+			case "Uwenji": //文集
+			if (val!=""){
+				var tmp;
+				tmp = val.split("|");
+				document.write("[<a href=http://blog.club.sohu.com/wenji_list_diary.php?kindid="+tmp[1]+"&db="+tmp[0]+" target=_blank>文集</a>]");
+			}
+			break;
+			case "Ublog": //博客
+			if (isclubuser(val)) document.write("[<a href=http://blog.sohu.com/people/"+getblogurl(val)+"/ target=_blank>博客</a>]");
+			break;
+			case "Uavatar": //秀.楼主
+			eval("val1=typeof Uavatar_"+str+"== \"undefined\";");
+			if(!val1){
+				eval("val1=Uavatar_"+str+";");
+				eval("val2=avatarstr_"+str+";");
+				eval("val3=cn_"+str+";");
+				eval("val4=avatartype_"+str+";");
+				if(val1 != ""){
+					document.write("<img src=http://avatar.club.sohu.net/pic/"+val2+"/"+val3+"_big_src_"+val1+"."+val4+" width=110 height=154 border=0 />");
+				}
+				else{
+					document.write("<img src=http://avatar.club.sohu.net/pic/default/default_big.jpg width=110 height=154 border=0 />");
+				}
+			}
+			else{
+				document.write("<img src=http://avatar.club.sohu.net/pic/default/default_big.jpg width=110 height=154 border=0 />");
+			}
+			break;
+			case "Uavatar1": //秀.非楼主
+			eval("val1=typeof Uavatar_"+str+"== \"undefined\";");
+			//alert(val1);
+			if(!val1){
+				eval("val1=Uavatar_"+str+";");
+				eval("val2=avatarstr_"+str+";");
+				eval("val3=cn_"+str+";");
+				eval("val4=avatartype_"+str+";");
+				if(val1 != ""){
+					document.write("<img src=http://avatar.club.sohu.net/pic/"+val2+"/"+val3+"_small_src_"+val1+"."+val4+" width=48 height=67 border=0 />");
+				}
+				else{
+					document.write("<img src=http://avatar.club.sohu.net/pic/default/default_small.jpg width=48 height=67 border=0 />");
+				}
+			}else{
+				document.write("<img src=http://avatar.club.sohu.net/pic/default/default_small.jpg width=48 height=67 border=0 />");
+			}
+			break;
+			case "sms": //发留言
+			if (isclubuser(val)){
+				eval("val1=Upassportid_"+str+";");
+				eval("val2=nickname_"+str+";");
+				document.write("[<a style='cursor:pointer' onclick='sohuim.webmsg.SendMsg(\""+val+"\",\""+val2+"\",\"sohu/bbs\",false,event,function(){});'>传小纸条</a>]");
+			}
+			break;
+			case "gift": //送礼物
+			if (isclubuser(val)){
+				document.write("[<a style='cursor:pointer' onclick='club_dialog.showLogin(\"http://cache.club.sohu.com/shop/manage_gift.php?receiveCN="+val+"\",\"blank\",\"CR\")'>送礼物</a>]");
+			}
+			break;
+			case "goodf": //加好友.楼主
+			if (isclubuser(val)){
+				document.write("[<a style='cursor:pointer' onclick='new Ajax.Request(\"check_user.php\", {method:\"get\", parameters:\"cn="+val+"\", onComplete:function(response){addmyuserCallback(response,\""+val+"\")} } )'>加为好友</a>]");
+
+			} /*else {
+			document.write("[游客****]");
+			}*/
+			break;
+			case "goodf1": //加好友.非楼主
+			if (isclubuser(val)){
+				document.write("[<a style='cursor:pointer' onclick='club_dialog.showLogin(\"http://club.sohu.com/add_friend.php?friendCN="+val+"\",\"blank\")'>加好友</a>]");
+			} else {
+				document.write("[游客****]");
+			}
+			break;
+			case "wedding": //网婚
+			if (isclubuser(val)){
+				document.write("[<a style='cursor:pointer' onclick='club_dialog.showLogin(\"http://love.club.sohu.com/qiuhun_form.php?cn="+val+"\",\"blank\")'><img src=http://js3.club.sohu.com/indexpic/re06.gif width=59 height=18 alt=向TA求婚 border=0 /></a>]");
+			}
+			break;
+		}
+	}
+	}
+}
+
+function addmyuserCallback(response,user_val)
+{
+        var Text = response.responseText;
+        if(Text == 1)
+        {
+                club_notice_ucp.show("fa", '缺少参数');
+        }else if(Text == 2)
+        {
+                club_notice_ucp.show("fa", '请输入合法的用户名');
+        }else if(Text == 3)
+        {
+                club_notice_ucp.show("fa", '对不起,此用户不是社区用户');
+        }else
+        {
+                webim.api.adduser(user_val, Text , 'sohu/bbs');
+        }
+}
+function isclubuser(cn){
+	if (cn.indexOf("@")==-1) return false;
+	else return true;
+}
+function getblogurl(cn){
+	var tmpdata;
+	var blogurl;
+	tmpdata=cn.split("@");
+	switch(tmpdata[1]){
+		case "sohu": blogurl=tmpdata[0]; break;
+		case "chinaren": blogurl=tmpdata[0]+"!c"; break;
+		case "vip.sohu.com": blogurl=tmpdata[0]+"!vs"; break;
+		case "sogou.com": blogurl=tmpdata[0]+"!sg"; break;
+		case "ses": blogurl=tmpdata[0]+"!sol"; break;
+		case "sms": blogurl=tmpdata[0]+"!sms"; break;
+		default: blogurl=tmpdata[0]+tmpdata[1]; break;
+	}
+	return blogurl;
+}
+function copyUrl(){
+	var content="";
+	content+="中国“误炸”黄海军演的美国航母结果会怎样";
+	content+="\r\nhttp://club.mil.news.sohu.com/r-shilin-3531918-0-85-900.html";
+
+	if(window.clipboardData) {
+		window.clipboardData.clearData();
+		window.clipboardData.setData("Text", content);
+		alert("本帖标题和地址已复制到剪贴版，你可按CTRL+V在任何软件如:QQ、MSN中进行粘贴发送给好友。");
+	} else if(navigator.userAgent.indexOf("Opera") != -1) {
+		window.location = content;
+	} else if (window.netscape) {
+		try {
+			netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+		} catch (e) {
+			alert("您的firefox安全限制限制您进行剪贴板操作，请打开'about:config'将signed.applets.codebase_principal_support'设置为true'之后重试");
+			return false;
+		}
+		var clip = Components.classes["@mozilla.org/widget/clipboard;1"].createInstance(Components.interfaces.nsIClipboard);
+		if (!clip)
+		return;
+		var trans = Components.classes["@mozilla.org/widget/transferable;1"].createInstance(Components.interfaces.nsITransferable);
+		if (!trans)
+		return;
+		trans.addDataFlavor('text/unicode');
+		var str = new Object();
+		var len = new Object();
+		var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+		var copytext = content;
+		str.data = copytext;
+		trans.setTransferData("text/unicode",str,copytext.length*2);
+		var clipid = Components.interfaces.nsIClipboard;
+		if (!clip)
+		return false;
+		clip.setData(trans,null,clipid.kGlobalClipboard);
+	}
+}
+function countStringLength(str){
+	var str_length = 0;
+	for (var i=0;i<str.length;i++){
+		if (str.charCodeAt(i)<=256){
+			str_length +=1;
+		}else{
+			str_length +=2;
+		}
+	}
+	return str_length;
+}
+function cutStringToLength(str,length){
+	var tmp_str = str;
+	for (var i=0;i<str.length ;i++ ) {
+		if (countStringLength(tmp_str) > length){
+			tmp_str = tmp_str.substring(0,tmp_str.length-1);
+		}else{
+			break;
+		}
+	}
+	return tmp_str;
+}
+function caculate_length(check_area) //检测剩余可输入字符数 by space 2006-4-11 13:14
+{
+	if (check_area == 'title') {
+		var text_length = 0;
+		var text_max_length = 50;
+		if (countStringLength($("title").value) > text_max_length)
+		$("title").value = cutStringToLength($("title").value,text_max_length);
+		text_length = countStringLength($("title").value);
+
+		var target_div = $("title_length");
+		var text_remain = text_max_length - text_length;
+		target_div.innerHTML = '<font color=#ff0000>已输入字符：'+text_length+'，剩余字符数：'+text_remain+'</font>';
+	}else if (check_area == 'body') {
+		var text_length = 0;
+		var text_max_length = 40000;
+		if (countStringLength($("body0038").value) > text_max_length)
+		$("body0038").value = cutStringToLength($("body0038").value,text_max_length);
+		text_length = countStringLength($("body0038").value);
+
+		var target_div = $("body_length");
+		var text_remain = text_max_length - text_length;
+		target_div.innerHTML = '<p><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ft546593"><a href="http://pinyin.sogou.com?p=51231100" target="_blank">*用搜狗拼音发帖，打字速度快一倍&gt;&gt;</a></span>&nbsp;&nbsp;<span class="fred">已输入字符：'+text_length+'，剩余字符数：'+text_remain+'</span></p>'
+	}
+}
+
+function s_club(){
+	var o = document.seach_form;
+	if(($("search_input").value != "") && ($("search_input").value != "请输入关键字"))
+	{
+		o.submit();
+	}
+}
+
+function search_option(str)
+{
+	var forumid = "shilin";
+	if(str == "all")//如果为全文搜索
+	{
+		document.seach_form.forumid.value = "" ;
+		str = "keywords";
+	}else
+	{
+		document.seach_form.forumid.value = forumid;
+	}
+	$("search_input").name = str ;
+}
+
+function s1(kind){
+	var o;
+	o = document.seach_form;
+	if (kind==1){
+		if (o.keywords.value=="请输入关键字") o.keywords.value="";
+	}else if (kind==2){
+		if (o.keywords.value=="") o.keywords.value="请输入关键字";
+	}
+}
+
+function do_submit(){
+	if ($("body0038").value=="") {
+		alert("请填写内容");
+		$("body0038").focus();
+		return false;
+	}
+	if($("validate_code").visible()){
+		if($("code").value.length <= 0){
+			alert("请填写验证码");
+			$("code").focus();
+			return false;
+		}
+	}
+	
+	    if (!club_dialog.showLogin("huitie")) {
+	    	return false;
+	    }
+	    $("data_form").submit();}
+
+var isLoaded = 0;
+function getOffset(el, isLeft) {
+	var retValue = 0;
+	while (el != null && el.offsetParent != null && el!=document.body) {
+		retValue += el["offset" + (isLeft ? "Left" : "Top")];
+		el = el.offsetParent;
+	}
+	return retValue;
+}
+
+function jsspecialchar(str) {
+	var iframe_is = str.indexOf("&lt;iframe");
+	str_end = str;
+	var proframe = str.substr(iframe_is+11,12);
+	if(proframe == "vod.php?url=") {
+	} else {
+		if(iframe_is >= 0) {
+			var iframe_array = str.split("&lt;/iframe&gt;");
+			str_end = "";
+			for (loop=0; loop < iframe_array.length;loop++) {
+				var str_split = iframe_array[loop];
+				if(str_split.indexOf("iframe") > 0) {
+					var str_split_array = str_split.split("&lt;iframe");
+					var str_split_tmp = str_split_array[1];//.substring(23, 46);
+					var str_split_src = str_split_tmp.split("src=&quot;http://");
+					str_split_src = str_split_src[1];
+					if(str_split_src.substring(0, 23) == "video.bbs.club.sohu.com" || str_split_src.substring(0, 18) == 'share.vrs.sohu.com' || str_split_src.substring(0, 15) == 'i.club.sohu.com') {
+						str_split_iframe = jsreplacechar(str_split_array[1]);
+						str_end = str_end+str_split_array[0]+"<iframe"+str_split_iframe+"</iframe>";
+					} else {
+						str_end = str_end+str_split_array[0]+"&lt;iframe"+str_split_array[1]+"&lt;/iframe&gt;";
+					}
+				} else {
+					str_end = str_end+str_split;
+				}
+
+			}
+		}
+	}
+
+	return str_end;
+}
+
+function jsreplacechar(str) {
+	str = str.replace(/&lt;/g,"<");
+	str = str.replace(/&gt;/g, ">");
+	str = str.replace(/&nbsp;/g, " ");
+	str = str.replace(/&quot;/g, "\"");
+	return str;
+}
+
+//-->
+</SCRIPT>
+<script type="text/javascript" id="dynamicSrc"></script>
+<script type="text/javascript">
+if (typeof(SL) === "undefined") {
+  var SL = new Array();
+}
+</script>
+<script type="text/javascript">
+window.onerror = function () {return true;}
+SL.push('prototype');
+document.write("<scr"+"ipt type='text/javascript' src='http://js2.club.sohu.com/js/club_global_1.0.1.js'></scr"+"ipt>");
+document.write("<scr"+"ipt type='text/javascript' src='http://bbs.club.sohu.com/inc/ClubJsInc.js'></scr"+"ipt>");
+SL.push('pp18030');
+SL.push('pp18030_ui');
+SL.push('club_cookie');
+SL.push('club_cookie_forum');
+SL.push('club_levelevent');
+SL.push('club_editor');
+SL.push('club_passport_roam');
+</script>
+<script type="text/javascript">
+club_global.LoadJs(SL);
+</script>
+<script src=http://mirror9.club.sohu.com/readjsnew-shilin-3531918-0.html></script><script type="text/javascript">
+eval("val=cn_3531918;");
+host_cn = val;
+</script>
+</head>
+
+
+<body>
+<div class="headerad" id="header" style="padding:0;margin:0;height:95px;width:100%">
+     <div style="background:url(http://js4.club.sohu.net/indeximages/0e/20e9a7a83c211d5dd2a459325805da0e.jpg) no-repeat;float:left;height:75px;width:100%">
+       <div style="float:left; width:190"><a href="http://club.sohu.com" target="_blank" title="搜狐社区"><img src="http://js1.club.sohu.com/newbbs/images/ttt.gif" alt="" width="180" height="75" border="0"></a></div>       
+         <div class="ad" style="float:right;margin:0;padding-top:0;padding-right:2px;padding-bottom:0;">
+        	        </div>   
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="postArea" id="head">
+	<div class="path">
+		<ul><li><a href="http://club.sohu.com" target="_blank">社区首页</a>
+			&nbsp;->&nbsp;<a href="http://club.news.sohu.com" target="_blank">新闻</a> 
+			&nbsp;-&gt; &nbsp;<a href="newleft/left_frame.php?channel=news#class102" >军事天地</a> &nbsp;-&gt; &nbsp;<a href="http://club.mil.news.sohu.com/main.php?c=102&b=shilin&t=900" ><span class="red"><u>军情观察</u></span></a></li></ul>
+			<div class="flink"><a href="http://123.ie.sogou.com/sogou_explorer_2.0.0.1096_2106.exe" target="_blank">史上最快的浏览器</a></div><div class="flink"><a href="http://ddt.game.club.sohu.com/zc08/" target="_blank">弹弹堂新开5区</a></div><div class="flink"><a href="http://game.club.sohu.com/" target="_blank">游戏中心上线</a></div>		<div class="log">
+			<div class="log" id="login_area_1"></div>
+			<div id="ch_11" style="display:none"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="CHLheader">
+		<table cellspacing="1">
+			<tr>
+				<td class="CHL_logo"><img src="http://image.club.sohu.com/forumimages/36/d3e7a199c3724810bd8d161468f65a36.jpg" width=118 height=58></td>
+				<td>
+					<div class="CHL_details">
+						<ul><li><strong>论坛名称：</strong></li><li>&nbsp;军情观察</li>
+									
+							<li class="min144">&nbsp;<a href="http://junqing.club.sohu.com" title="http://junqing.club.sohu.com">http://junqing.club.sohu.com</a></li><li><a style=cursor:pointer onclick=copyUrl() >复制</a></li><li> 
+								
+							<a href="add_favorite.php?b=shilin" target="_self">加入个人珍藏</a></li></ul>
+					<p><strong>斑&nbsp;&nbsp;&nbsp;&nbsp;竹：</strong>
+					<a href=http://club.sohu.com/read_user.php?userCN=bjmtgxxf@sohu target='_blank'>血依然沸腾</a><a href=http://club.sohu.com/read_user.php?userCN=new-high@sohu target='_blank'>阿二adaofu2</a><a href=http://club.sohu.com/read_user.php?userCN=longkf001@sohu target='_blank'>龙凯锋</a><a href=http://club.sohu.com/read_user.php?userCN=mylier0728@sogou.com target='_blank'>mylier0728</a><a href=http://club.sohu.com/read_user.php?userCN=jyl7925@sohu target='_blank'>杏花村中客</a>					</p>
+					<p>
+											<strong>专&nbsp;&nbsp;&nbsp;&nbsp;家：</strong><a href="http://hot.club.sohu.com/s2009/zhuanjia/"  style="text-decoration: underline" target=_blank>申请成为专家</a></p>
+					<div class="CHL_details">
+                           <div class="gboard">
+                            <div class="gboard_l">斑竹公告：</div>
+                            <div class="gboard_r">
+                              <p><a href=http://club.mil.news.sohu.com/r-shilin-3524641-0-5-900.html target=_blank><font color=red>版友投诉询问意见建议[十二月专帖]</font></a>
+军情QQ交流群（新）：80641022</p>
+                            </div>
+                           </div>                        
+                        </div>		
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="clear"></div>
+	<div>
+		<div class="sch_post">
+    		<form name="seach_form" method="get" action="http://search.club.sohu.com/search_list.php" target="_blank">
+    		<input type="hidden" name="forumid" value="shilin">
+    		<input type="hidden" name="fieldtitle" value=1>
+    		<input type="hidden" name="fieldcontent" value = 1>
+			<div class="search">
+			文章检索
+            <input class="ipt" type="text" name="keywords" value="请输入关键字" onFocus="s1(1);" onblur="s1(2);" id="search_input"/>
+            <select class="slt" name="s_kind" onchange="search_option(this.value)">
+            <option value="keywords">全文</option>
+            <option value="cn">按ID</option>
+            <option value="nickname">按昵称</option>
+            <option value="all">全区</option>
+            </select>
+			<input onclick="s_club()" type="button" value="搜索" class="btn" />
+			</div>
+			</form>
+		</div>
+		<form name="ff1" method="POST" action="" onsubmit="return gogo(document.ff1.sr.value,1);">
+			<div class="numb_post">
+				共8页&nbsp;|&nbsp;<span class="pagelist"><span class="currently">1</span><a href="r-shilin-3531918-12-85-900.html">2</a><a href="r-shilin-3531918-24-85-900.html">3</a><a href="r-shilin-3531918-36-85-900.html">4</a><a href="r-shilin-3531918-48-85-900.html">5</a></span><a href=http://club.mil.news.sohu.com/r-shilin-3531918-12-85-900.html>[下一页]</a> <a href=http://club.mil.news.sohu.com/r-shilin-3531918-84-85-900.html>[尾页]</a>&nbsp;&nbsp;&nbsp;&nbsp;转到<input type="text" name="sr" class="num"/>&nbsp;<input onclick="gogo(document.ff1.sr.value,1);document.ff1.submit();" type="button" value="GO" class="btn" />
+			</div>
+		</form>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="main">
+    <div id="sider" >
+	   
+        <div class="rht_280">
+        	<h1><span>社区活动</span></h1>
+            <div class="txtlist" id="huodong">
+                <ul>
+                	<li>&middot;&nbsp;<a href="http://club.women.sohu.com/l-zz1101-0-0-0-0.html" target="_blank">你知道什么样的乳房最美丽吗？</a></li><li>&middot;&nbsp;<a href="http://club.news.sohu.com/r-minjian-4513556-0-0-900.html" target="_blank">年底啦 大家都来晒晒有哪些省钱妙招!</a></li><li>&middot;&nbsp;<a href="http://club.it.sohu.com/r-tongxin-276371-0-0-900.html" target="_blank">中国大学生实现新奇创意很给力！</a></li><li>&middot;&nbsp;<a href="http://gd.sports.club.sohu.com/r-zz571-670197-0-0-0.html" target="_blank">我与韩乔生老师共同录制“乔加大腕”</a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/newclub/show.php?forumid=beijing&threadid=138218&pageid=1" target="_blank">[公告]新社区上线 欢迎广大网友进行公测</a></li><li>&middot;&nbsp;<a href="http://club.yule.sohu.com/r-gifttrade-51591601-0-75-900.html" target="_blank">[重磅揭秘]六幅图 告诉你id是怎么丢失的</a></li><li>&middot;&nbsp;<a href="http://club.health.sohu.com/r-heathnews-520798-0-0-0.html" target="_blank">[爱心活动]温暖冬天 回帖为爱心之家添基金</a></li><li>&middot;&nbsp;<a href="http://c.club.sohu.com/r2.php?class=100&url=http%3A%2F%2Fbbs.club.sohu.com%2Fl-zz0580-0-0-0-0.html" target="_blank">凯里爆炸：中国孩子命贱，死亡赔5万盖棺？</a></li><li>&middot;&nbsp;<a href="http://club.it.sohu.com/r-it-1505011-0-0-900.html" target="_blank">为三星手机设计“外衣”，赢手机、充值卡！</a></li><li>&middot;&nbsp;<a href="http://bbs.club.sohu.com/r-win_gifts-245456-0-0-900.html" target="_blank">寻找身边的生活家 ，赢心动iTouch！</a></li><li>&middot;&nbsp;<a href="http://bbs.union.daqi.com/cgi-bin/portal/bbsclick?type=31&id=0&key=souhu&url=http://shehui.daqi.com/article/3022356.html" target="_blank">警服男子撞人后暴打伤者 数千民众砸车(图)</a></li><li>&middot;&nbsp;<a href="http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201012&TargetID=sohu&Values=7a19c803,6d60fb09,3a11dc79,a678010d&AdID=21446" target="_blank">冬季热卖 全场名牌 限时6折疯抢</a></li>                </ul>
+            </div>
+           <script type="text/javascript">
+			var _newElem = document.getElementById("huodong");			
+			var _newLi =_newElem.getElementsByTagName("li");			
+			_newLi[4].firstChild.nodeValue = '';			
+			_newLi[4].style.paddingLeft = "17px";			
+			_newLi[4].getElementsByTagName("a")[0].style.color = "red";			
+			</script>
+
+            
+    
+            <div class="blank10_t"></div>
+            <div id=80d4c7d852f84878e913122476fd0582></div>
+<script type="text/javascript" >
+var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2010/fenfenchen/maibaobao/2801501130.swf","_80d4c7d852f84878e913122476fd0582","280","150","7");
+sohuFlash2.addParam("quality", "high");
+sohuFlash2.addParam("wmode", "opaque");
+sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201011&TargetID=sohu&Values=80d4c7d8,52f84878,e9131224,76fd0582&AdID=34327410"));
+sohuFlash2.write("80d4c7d852f84878e913122476fd0582");
+</script>            <div class="blank10_t"></div>
+            <h1><span>投资创业</span></h1>
+            <iframe  src="http://images.sohu.com/bill/s2010/jinzhuxu/zhongshi/bbs/index.html" scrolling=no width="280" height="172" marginWidth=0 marginHeight=0 frameborder=0 border=0></iframe>            <div class="blank10_t"></div>
+             
+            <!-- 社区世博临时加的一个碎片开始  -->
+            <style> 
+			#newFrag{margin-bottom:10px;width:278px;border:1px solid #A5D0E1;}
+			#newFrag h2{margin-bottom:12px;padding:0 10px;width:258px;height:26px;line-height:26px;text-align:left;background:url(http://images.sohu.com/bill/s2010/jinzhuxu/zhongshi/liangju/images/menu_bg.png) repeat-x 0 0;}
+			#newFrag h2 a{color:#0d3fba;}
+			#newFrag .pp ul{padding:0 5px;}
+			#newFrag .pp li{float:left;display:inline;margin:0 5px;width:124px;}
+			#newFrag .pp li a img{padding:1px;width:120px;height:90px;overflow:hidden;border:1px solid #a5d0e1;}
+			#newFrag .pp li span{line-height:22px;}
+			#newFrag .list12{border:0 none;}
+			#newFrag .list12 ul{margin-top:5px;_margin-top:0;width:auto;}
+			#newFrag .list12 li{padding-left:35px;list-style-position:outside;background:url(http://images.sohu.com/uiue/dot.gif) no-repeat 15px -2px;}
+			.cFloat:after{content:".";display:block;visibility:hidden;height:0;font-size:0;clear:both;}
+			</style>		 
+			<div id="newFrag">
+			<div class="title02">
+		<h2><span><strong><a target="_blank" href="http://club.sohu.com/newleft/left_frame.php?channel=place">地方社区</a></strong></span></h2>
+	</div>
+	<div class="pp cFloat">
+		<ul>
+			<li><a href="http://club.city.travel.sohu.com/r-zz1112-126537-0-0-0.html" target="_blank"><img src="http://image4.club.sohu.com/pic/54/77c5a31347425a31c58f176f724b3d54.jpg" alt="地方社区" width="120" height="90" /></a><br><span><a href="http://club.city.travel.sohu.com/r-zz1112-126537-0-0-0.html" target="_blank">兽兽再次晒出傲人胸围</a></span></li>
+			<li><a href="http://sheying.club.sohu.com/r-zz2109-24464-0-0-0.html" target="_blank"><img src="http://i0.itc.cn/20101206/4b2_7471f6c2_80e3_43fb_b80d_e7de1e51d488_0.jpg" alt="摄影社区" width="120" height="90" /></a><br><span><a href="http://sheying.club.sohu.com/r-zz2109-24464-0-0-0.html" target="_blank">摄影家李少白做客搜狐</a></span></li>
+			
+			
+		</ul>
+	</div>
+	<div class="list12 cFloat">
+		<ul>
+
+			<li><a target="_blank" href="http://dffq.club.sohu.com">[武汉]</a><a target="_blank" href="http://club.city.travel.sohu.com/r-zz1112-126505-0-10-900.html">街头吹泡泡的清纯粉红MM</a></li>
+
+			<li><a target="_blank" href="http://shijiazhuang.club.sohu.com">[石家庄]</a><a target="_blank" href="http://club.city.travel.sohu.com/r-shijia-748587-0-5-900.html">令公安局长头痛的神奇失踪案</a></li>
+
+			<li><a target="_blank" href="http://club.city.travel.sohu.com/l-henan-0-0-900-0.html">[河南]</a><a target="_blank" href="http://club.city.travel.sohu.com/r-henan-951895-0-23-900.html">汗毛直立，走进被癌症笼罩的村庄</a></li>
+
+			<li><a target="_blank" href="http://sheying.club.sohu.com/r-zz2113-11815-0-5-900.html">探寻深山老林里的原始村落(组图)</a></li>
+
+			<li><a target="_blank" href="http://sheying.club.sohu.com/r-zz2109-23765-0-0-0.html">上传观展作品 千元大奖等你拿！</a></li>
+			
+
+		</ul>
+	</div>			</div>
+			 <!-- 社区世博临时加的一个碎片结束  -->
+            <h1><span>社区劲爆点</span></h1>
+            <div class="picGroup">
+                <ul>
+                	<li><a href="http://bbs.sohu.com/s2009/photo/" target="_blank"><img src="http://image4.club.sohu.com/pic/9e/9a848da613e86941a47a55ff515acf9e.jpg" width="120" height="90" alt="" title="" /></a><br /><a href="http://bbs.sohu.com/s2009/photo/" target="_blank">警察烧香祈福照被曝光</a></li><li><a href="http://comment.news.sohu.com/ktss/" target="_blank"><img src="http://image4.club.sohu.com/pic/fb/93b41090b2f2111ef7bd4aef2d7196fb.jpg" width="120" height="90" alt="" title="" /></a><br /><a href="http://comment.news.sohu.com/ktss/" target="_blank">美女主播暴露主持节目</a></li><li><a href="http://lz.club.cul.sohu.com/lz/serialise_details.php?serialise=58923&tp=2" target="_blank"><img src="http://image4.club.sohu.com/pic/69/f0b8e91ad37144f826e3006612180b69.jpg" width="120" height="90" alt="" title="" /></a><br /><a href="http://lz.club.cul.sohu.com/lz/serialise_details.php?serialise=58923&tp=2" target="_blank">曝江青高超的政治演技</a></li><li><a href="http://lz.club.travel.sohu.com/lz/serialise_details.php?serialise=58723&tp=2" target="_blank"><img src="http://image4.club.sohu.com/pic/a0/343cc11c964027c77704048802233aa0.jpg" width="120" height="90" alt="" title="" /></a><br /><a href="http://lz.club.travel.sohu.com/lz/serialise_details.php?serialise=58723&tp=2" target="_blank">曼谷红灯区中性工作者</a></li><li><a href="http://lz.club.news.sohu.com/lz/serialise_details.php?serialise=58928&tp=2" target="_blank"><img src="http://image4.club.sohu.com/pic/be/038cd6ac65440681020bd70a5525f2be.jpg" width="120" height="90" alt="" title="" /></a><br /><a href="http://lz.club.news.sohu.com/lz/serialise_details.php?serialise=58928&tp=2" target="_blank">看日本妓院内部的景象</a></li><li><a href="http://club.sohu.com/#screen1" target="_blank"><img src="http://image4.club.sohu.com/pic/d9/49f5dd3bf5e37ce2eee0ce9e3407a9d9.jpg" width="120" height="90" alt="" title="" /></a><br /><a href="http://club.sohu.com/#screen1" target="_blank">国外女生奇创摸胸留影</a></li>                </ul>
+                <div class="clear"></div>
+            </div>
+            <div class="blank10_t"></div>
+            <h1><span>社区24小时热贴推荐</span></h1>
+            <div class="txtlist">
+                <ul>
+                	<li><span class="NO">1</span><a href="http://club.money.sohu.com/main.php?c=82&b=licai&a=9373721" target="_blank">小家又进入零资产时代，努力吧！</a></li><li><span class="NO">2</span><a href="http://club.women.sohu.com/main.php?c=12&b=zz0894&a=4599459" target="_blank">对不起，我不敢消受你的身体</a></li><li><span class="NO">3</span><a href="http://club.women.sohu.com/main.php?c=12&b=marriage&a=11976724" target="_blank">我认识的一个凤凰男</a></li><li><span class="NO">4</span><a href="http://club.comment2.news.sohu.com/main.php?c=157&b=zz0057&a=3304785" target="_blank">银行女职员空间里的炫富照曝光</a></li><li><span class="NO">5</span><a href="http://club.baobao.sohu.com/main.php?c=200&b=mom_daugh&a=31354765" target="_blank">作为一个老板油，竟然把大家给恶心到了，</a></li><li><span class="NO">6</span><a href="http://club.comment2.news.sohu.com/main.php?c=157&b=zz0057&a=3304901" target="_blank">世上10种最可怕的恋物癖</a></li><li><span class="NO">7</span><a href="http://club.comment2.news.sohu.com/main.php?c=157&b=zz0057&a=3305249" target="_blank">日本海女能吓跑鲨鱼 昔日裸体潜水真震撼</a></li><li><span class="NO">8</span><a href="http://club.mil.news.sohu.com/main.php?c=102&b=shilin&a=3519230" target="_blank">朝战结束后，解放军的战船为何无法驶向台</a></li><li><span class="NO">9</span><a href="http://club.sports.sohu.com/main.php?c=142&b=soccer&a=4865237" target="_blank">李玮峰不能进国家队 恐遭神秘力量施压</a></li><li><span class="NO">10</span><a href="http://club.baobao.sohu.com/main.php?c=200&b=mom_daugh&a=31374923" target="_blank">宝宝被拐走的瞬间，妈妈从二楼跳下……</a></li>                </ul>
+            </div>
+			<div class="blank10_t"></div>
+			<style>	
+ .rht_280 .list12{width:278px; border:1px solid #abdde4; margin:0 auto 10px;}
+ .list12 ul{width:128px; margin:5px 4px; float: left;display:inline;}
+ .list12 li{background: url(http://images.sohu.com/uiue/dot.gif) no-repeat 0 -3px; padding-left: 12px; text-align:left}
+ .list12 h1 span{text-align:left; background:url(http://i0.itc.cn/20100308/114_a5e5aef3_eb65_48e8_a6ac_1f99721e4def_0.gif) no-repeat left center; padding-left:20px; margin:0 0 0 10px; color: #333}
+ .clean{line-height: 0px; font-size: 0px; clear: both; visibility:hidden}	
+</style>
+	<div class="list12">
+		<h1><span>热点推荐</span></h1>
+		<ul> 
+		<li><a href="http://cache.club.sohu.com/inc_static/dignews_677.html" target="_blank">婴语四六级</a></li><li><a href="http://cache.club.sohu.com/inc_static/dignews_683.html" target="_blank">360与qq</a></li><li><a href="http://cache.club.sohu.com/inc_static/dignews_684.html" target="_blank">变性女孩申清清</a></li><li><a href="http://cache.club.sohu.com/inc_static/dignews_685.html" target="_blank">海囤族</a></li><li><a href="http://cache.club.sohu.com/inc_static/dignews_665.html" target="_blank">车船税新政</a></li>		
+		</ul>
+		<ul>
+		<li><a href="http://cache.club.sohu.com/inc_static/dignews_664.html" target="_blank">央行意外加息</a></li><li><a href="http://cache.club.sohu.com/inc_static/dignews_663.html" target="_blank">官二代撞飞女生</a></li><li><a href="http://cache.club.sohu.com/inc_static/dignews_662.html" target="_blank">中方弃办世界杯</a></li><li><a href="http://cache.club.sohu.com/inc_static/dignews_660.html" target="_blank">“偷菜”被禁</a></li><li><a href="http://cache.club.sohu.com/inc_static/dignews_658.html" target="_blank">神农架找野人</a></li>		</ul>
+		<div class="clean">&&</div>
+	</div>            <div class="blank10_t"></div>
+			<div class="txtlist">
+			    <div class="list02" id="sogouiframe"></div>
+			</div>
+			<div class="blank10_t"></div>
+			            <h1><span>精华聚焦</span></h1>
+            <div class="txtlist">
+                <ul>
+					<li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/r-tianjin-4476851-0-12-900.html" target="_blank"><b>上班族如何拥有魅力翘臀/图 </b></a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/r-shijia-748464-0-0-900.html" target="_blank">过路小情侣的一句话让我羡慕万分</a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/r-qinghai-289836-0-51-900.html" target="_blank">知道这些照片背后的秘密吗？</a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/r-tianjin-4477348-0-48-900.html" target="_blank">天津版第三届萝卜节照片花絮(图)</a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/r-haerbin-1239081-0-1-900.html" target="_blank">超暴力，某公园胖女人殴打小三</a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/newclub/show.php?forumid=beijing&threadid=138276&pageid=1" target="_blank"><b>70后北京土著成千万富翁的神奇历程</b></a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/r-changzhi-318108-0-16-900.html" target="_blank">交警也无奈，让人惊叹的各种超载(图)</a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/newclub/show.php?forumid=beijing&threadid=138416&pageid=1" target="_blank">社区老男孩30岁前的烦心事</a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/r-neimenggu-853015-0-0-900.html" target="_blank">生活中的极品无处不在</a></li><li>&middot;&nbsp;<a href="http://club.city.travel.sohu.com/r-changzhi-318393-0-16-900.html" target="_blank">爆笑图集，不好意思让您“贱笑”了</a></li>                </ul>
+            </div>
+            <div class="blank10_t"></div>
+            <table width="280" height="19" border="0" cellpadding="0" cellspacing="0" background="http://image.club.sohu.com/new0703/pic42.gif">
+  <tr>
+    <td style="font-size:12px;color:#333;font-weight:bold;padding-top:8px;">  <img src="http://image.club.sohu.com/new0703/pic97.gif" width="24" height="13"></td>
+	<td width="230" style="font-size:12px;color:#333;font-weight:bold;padding-top:8px;" align="left"><a href="http://t123.sohu.com/?ref=9001652457" target="_blank" style="color:#333">团购导航</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2279" target="_blank" style="color:#333">明信片</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank" style="color:#333">原创小说</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank" style="color:#333">经管营销</a></td>
+  </tr>
+</table>
+<table width="280" border="0" cellpadding="0" cellspacing="0" style="border:1px #AFD8EE solid;border-top:0;width:280px;margin-bottom:5px;background:#F3FAFE;">
+  <tr><td height="5"></td></tr>
+  <tr>
+    <td width="140" align="center" height="105"><a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank"><img src="http://images.sohu.com/sms/online/tg/111130_120x100.jpg" width="120" height="100" style="border:1px #666 solid"></a></td>
+    <td width="140" align="center"><a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2485" target="_blank"><img src="http://images.sohu.com/sms/online/tg/111130_120x100_1.jpg" width="120" height="100" style="border:1px #666 solid"></a></td>
+  </tr>
+  <tr>
+    <td width="140" align="center" height="22" style="font-size:12px"><a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank" style="color:#333">宅男宅女姻缘运势</a></td>
+	<td width="140" align="center" style="font-size:12px"><a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2485" target="_blank" style="color:#333">上班族肩颈腰调节</a></td>
+  </tr>
+  <tr>
+    <td height="22" style="font-size:12px" align="left" colspan="2">·<a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank">原创</a> |<a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank">市委书记失踪</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2332" target="_blank">80后纸婚生活</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2448" target="_blank">桃妆-僧妖恋</a></td>
+  </tr>
+  <tr>
+    <td height="22" style="font-size:12px" align="left" colspan="2">·<a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank">黑道风云20年</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2452" target="_blank">姐妹花的情事</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2520" target="_blank">偷心总裁</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2492" target="_blank">奉子成婚</a></td>
+	
+  </tr>
+  <tr>
+    <td height="22" style="font-size:12px" align="left" colspan="2">·<a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank">经管</a> |<a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2521" target="_blank">北京不向北</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2462" target="_blank">外企白领拼搏记</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2499" target="_blank">商海-大败局</a></td>
+	
+  </tr>
+  <tr>
+    <td height="22" style="font-size:12px" align="left" colspan="2">·<a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=1988" target="_blank">灵异</a> |<a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2453" target="_blank">死亡游戏</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2450" target="_blank">夜伴尸语录</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2054" target="_blank">精绝古城</a> <a href="http://goto.sms.sohu.com/goto.php?aid=165&pid=2098" target="_blank">昆仑神宫</a></td>
+	
+  </tr>
+</table>                        <div class="blank10_t"></div>
+            <div class="btn_edit"><a href="http://club.news.sohu.com/main.php?c=145&b=Focus&t=0" target="_blank"><img src="http://js4.club.sohu.com/newbbs/images/sendfile_btn.gif" width="138" height="34" alt="给编辑投稿" title="给编辑投稿"/></a></div>
+            <div class="blank10_t"></div>
+        </div>
+    </div>
+
+    <div id="content">
+        <div class="left_post" id="left_post">
+            <div class="title">
+                <div class="left">主题：中国“误炸”黄海军演的美国航母结果会怎样 </div>
+                <div class="right">阅读 <font color="red">59241
+</font> 回复 <font color="red">85</font>
+				<b> &nbsp;<script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3531918&template=900","reply","zhutie");</script>&nbsp;<script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3531918","edit");</script></span></h2></b>                </div>
+            </div>
+<script src=http://mirror9.club.sohu.com/readjsnew-shilin-3531918-0.html></script>
+        <div class="content01" >
+                <div class="member">
+                    <table cellspacing="0">
+						<tr>
+							<td class="pic">
+		                    <script type="text/javascript">show_item("3531918","Uavatar");</script>
+							<p>
+		                        <span class="fb"><script>show_item("3531918","nick")</script></span><br/>
+		                        [<span class="txtblue"><script>show_item("3531918","cn")</script></span>]<br/>
+		                        头&nbsp;&nbsp;衔：<script>show_item("3531918","Urole")</script><br />
+		                        等&nbsp;&nbsp;级：<a href=http://club.sohu.com/zhuanti/help/levelHelp.htm target=_blank><script>show_item("3531918","Ulevel")</script></a><br />
+		                        魅&nbsp;&nbsp;力：<script>show_item("3531918","Upower")</script><br />
+		                        发贴数：<script>show_item("3531918","Uartn")</script><br />
+		                        积&nbsp;&nbsp;分：<script>show_item("3531918","Uscore")</script>
+		                    </p>
+		                    </td>
+							<td>
+		                    <div class="post_tool">
+		                            <ul>
+		                            <li class="borderblue"><script>show_item("3531918","goodf")</script> <script>show_item("3531918","sms")</script> <script>show_item("3531918","gift")</script> <script>show_item("3531918","Uwenji")</script><span class="txtright"><script>show_item("3531918","inputdate")</script>&nbsp;楼主</span></li>
+		                                <li class='fbred'><a href=http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201012&TargetID=sohu&Values=763ea969,57c78ccf,2fecbd79,833ea57d&AdID=26804 target=_blank><font color=red><b>名牌热卖现时6折！</b></font></a></li><li><span class='txtgray'>[<a href=http://club.mil.news.sohu.com/main.php?b=shilin&c=102 target=_blank>军情观察</a>]</span> <a href=http://club.mil.news.sohu.com/main.php?b=shilin&c=102&a=3534360 target=_blank>为跑官再献策：立即把022导弹艇淘汰</a></li><li><span class='txtgray'>[<a href=http://club.mil.news.sohu.com/main.php?b=shilin&c=102 target=_blank>军情观察</a>]</span> <a href=http://club.mil.news.sohu.com/main.php?b=shilin&c=102&a=3534377 target=_blank>揭密炮击延坪岛主力朝鲜第4军团：棒子称其很厉害</a></li><li><span class='txtgray'>[<a href=http://club.mil.news.sohu.com/main.php?b=zz0255&c=102 target=_blank>军事历史</a>]</span> <a href=http://club.mil.news.sohu.com/main.php?b=zz0255&c=102&a=379202 target=_blank>陈毅和粟裕的友谊：新四军的左右大脑半球</a></li>
+		                            </ul>
+		                    </div>
+							</td>
+		                </tr>
+					</table>
+				</div>
+
+                <div class="lineblue"></div>
+                <div class="article">
+                    <div class="para1" id="para1" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed"><p class="up_first article_p"><script>show_item("3531918","body");</script><script>show_item("3531918","iscommend");</script></p></div>
+                </div>
+				<div class="clear"></div>
+				<div class="btn">
+					<div>
+					<button type="" class="BLUE_btn" onClick="location.href='http://club.mil.news.sohu.com/main.php?c=102&b=shilin&t=900'">返回本版</button>
+					<button type="" class="BLUE_btn" onclick="javascript:copyUrl();"><nobr>推荐给好友</nobr></button>
+					<button type="" class="BLUE_btn" onclick="club_dialog.showLogin('post_art.php?b=shilin&t=900&k=')">发新贴</button><button type="" class="BLUE_btn" onclick='club_dialog.showLogin("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3531918&template=900")'>回&nbsp;&nbsp;&nbsp;复</button>			</div>
+				</div>
+				<div class="clear"></div>
+				<div class="sign">
+					<h1><span><script>show_item("3531918","sign_nick")</script>的签名档</span></h1>
+				<div class="ad" style="float:left;text-align:right;color:#656565"><SOHUADCODE><script>show_item("3531918","sign");</script></SOHUADCODE></div></div>
+				<div class="clear"></div>
+				<div class="lineblue"></div>
+				<div class="artfooter"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3531918&template=900","reply","zhutie");</script>&nbsp;<script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3531918","edit");</script>&nbsp;<script>show_item("3531918","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3531918, cn_3531918);">投诉</a>]</div>
+            </div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div>
+<script src=http://mirror9.club.sohu.com/readjsnew-shilin-3531921-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3531921","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3531921","nick")</script><script>show_cn("3531921")</script>&nbsp;&nbsp;<script>show_item("3531921","goodf")</script> <script>show_item("3531921","sms")</script> <script>show_item("3531921","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3531921&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3531921","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3531921, cn_3531921);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_1">沙发</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3531921","body");</script><script>show_item("3531921","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3531921","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3531921","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3531923-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3531923","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3531923","nick")</script><script>show_cn("3531923")</script>&nbsp;&nbsp;<script>show_item("3531923","goodf")</script> <script>show_item("3531923","sms")</script> <script>show_item("3531923","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3531923&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3531923","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3531923, cn_3531923);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_2">板凳</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3531923","body");</script><script>show_item("3531923","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3531923","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3531923","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3531990-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3531990","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3531990","nick")</script><script>show_cn("3531990")</script>&nbsp;&nbsp;<script>show_item("3531990","goodf")</script> <script>show_item("3531990","sms")</script> <script>show_item("3531990","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3531990&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3531990","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3531990, cn_3531990);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_3">3楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3531990","body");</script><script>show_item("3531990","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3531990","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3531990","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3531999-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3531999","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3531999","nick")</script><script>show_cn("3531999")</script>&nbsp;&nbsp;<script>show_item("3531999","goodf")</script> <script>show_item("3531999","sms")</script> <script>show_item("3531999","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3531999&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3531999","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3531999, cn_3531999);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_4">4楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3531999","body");</script><script>show_item("3531999","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3531999","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3531999","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3532006-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3532006","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3532006","nick")</script><script>show_cn("3532006")</script>&nbsp;&nbsp;<script>show_item("3532006","goodf")</script> <script>show_item("3532006","sms")</script> <script>show_item("3532006","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3532006&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3532006","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3532006, cn_3532006);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_5">5楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3532006","body");</script><script>show_item("3532006","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3532006","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3532006","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3532029-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3532029","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3532029","nick")</script><script>show_cn("3532029")</script>&nbsp;&nbsp;<script>show_item("3532029","goodf")</script> <script>show_item("3532029","sms")</script> <script>show_item("3532029","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3532029&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3532029","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3532029, cn_3532029);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_6">6楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3532029","body");</script><script>show_item("3532029","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3532029","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3532029","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3532041-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3532041","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3532041","nick")</script><script>show_cn("3532041")</script>&nbsp;&nbsp;<script>show_item("3532041","goodf")</script> <script>show_item("3532041","sms")</script> <script>show_item("3532041","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3532041&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3532041","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3532041, cn_3532041);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_7">7楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3532041","body");</script><script>show_item("3532041","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3532041","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3532041","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3532059-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3532059","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3532059","nick")</script><script>show_cn("3532059")</script>&nbsp;&nbsp;<script>show_item("3532059","goodf")</script> <script>show_item("3532059","sms")</script> <script>show_item("3532059","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3532059&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3532059","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3532059, cn_3532059);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_8">8楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3532059","body");</script><script>show_item("3532059","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3532059","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3532059","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3532073-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3532073","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3532073","nick")</script><script>show_cn("3532073")</script>&nbsp;&nbsp;<script>show_item("3532073","goodf")</script> <script>show_item("3532073","sms")</script> <script>show_item("3532073","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3532073&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3532073","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3532073, cn_3532073);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_9">9楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3532073","body");</script><script>show_item("3532073","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3532073","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3532073","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3532076-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3532076","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3532076","nick")</script><script>show_cn("3532076")</script>&nbsp;&nbsp;<script>show_item("3532076","goodf")</script> <script>show_item("3532076","sms")</script> <script>show_item("3532076","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3532076&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3532076","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3532076, cn_3532076);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_10">10楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3532076","body");</script><script>show_item("3532076","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3532076","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3532076","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div><script src=http://mirror9.club.sohu.com/readjsnew-shilin-3532220-0.html></script>
+	        <div class="content02">
+				<div class="back">
+				<div class="pic"><script>show_item("3532220","Uavatar1");</script></div>
+				<div class="mesg" id="mesg_width">
+				   <ul>
+                      <li class="borderblue"><span class="txtleft"><script>show_item("3532220","nick")</script><script>show_cn("3532220")</script>&nbsp;&nbsp;<script>show_item("3532220","goodf")</script> <script>show_item("3532220","sms")</script> <script>show_item("3532220","gift")</script> </span><span class="txtright"><script>show_item("http://club.mil.news.sohu.com/reply_art.php?b=shilin&a=3531918&t=3532220&template=900","reply");</script>&nbsp;<span class="txtgray"><script>show_item("http://club.mil.news.sohu.com/read_art_sub.org.php?b=shilin&a=3531918&sr=0","org");</script>&nbsp;<script>show_item("3532220","addwenji");</script>&nbsp;[<a href="javascript:void(0);" onclick="javascript:report('shilin', 3531918, 3532220, cn_3532220);">投诉</a>]</span>&nbsp;&nbsp;<span class="txtblue02"><a name="anchor_11">11楼</a></span></span></li>
+                      
+				  </ul>
+					<div class="para2" style="overflow:hidden;word-wrap:break-word;word-break:break-all;table-layout:fixed">
+					<script>show_item("3532220","body");</script><script>show_item("3532220","body1");</script>
+					</div>
+
+					<div class="sign02">
+					<script>show_item("3532220","sign");</script>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="tag">
+					<ul>
+						<p class="txtgray">发表于 <script>show_item("3532220","inputdate")</script></p>
+					</ul>
+					<div class="clear"></div>
+				</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div>
+
+
+
+
+
+
+
+			<div class="content03">
+			<ul><li><input type="button" class="btnTURN" value="后面还有7页精彩回复。点此翻到下一页&gt;&gt;" onclick="document.location='http://club.mil.news.sohu.com/r-shilin-3531918-12-85-900.html'"/></li></ul>
+			</div>
+			<div class="clear"></div>
+			<div class="blank10_t"></div>
+			<div class="content04">
+			<form name="ff2" method="POST" action="" onsubmit="return gogo(document.ff2.sr.value,2);">
+			<div class="numb_post">
+				共8页&nbsp;|&nbsp;<span class="pagelist"><span class="currently">1</span><a href="r-shilin-3531918-12-85-900.html">2</a><a href="r-shilin-3531918-24-85-900.html">3</a><a href="r-shilin-3531918-36-85-900.html">4</a><a href="r-shilin-3531918-48-85-900.html">5</a></span><a href=http://club.mil.news.sohu.com/r-shilin-3531918-12-85-900.html>[下一页]</a> <a href=http://club.mil.news.sohu.com/r-shilin-3531918-84-85-900.html>[尾页]</a>&nbsp;&nbsp;转到<input type="text" name="sr" class="num" />页&nbsp;&nbsp;<input onclick="gogo(document.ff2.sr.value,2);document.ff2.submit();" type="button" value="GO" class="btn02" />
+			</div>
+			</form>
+			</div>
+			<div class="clear"></div>
+			<div class="blank10_t"></div>
+			
+			<div class="content02" id="content02">
+				<form name="data_form" id="data_form" method="POST" action="reply_art_submit.php" onsubmit="javascript: do_submit();"'.$reply_blank.'>
+				<div class="back_form">
+					<p>
+					主题：<input class="ipt" type="input" name="tmptitle" disabled value="Re:中国“误炸”黄海军演的美国航母结果会怎样" size="60" />
+				    <input type="hidden" name="title" value="Re:中国“误炸”黄海军演的美国航母结果会怎样" />
+					<input type="hidden" name="isauth" value="0">
+			        <input type="hidden" name="sign" value="">
+			        <input type="hidden" name="b" value="shilin">
+			        <input type="hidden" name="a" value="3531918">
+			        <input type="hidden" name="t" value="3531918">
+			        <input type="hidden" name="template" value="900">
+			        <input type="hidden" name="kindid" value="">
+			        <input type="hidden" name="allchildnum" value="85">
+			        <input type="hidden" name="servername" value="club.mil.news.sohu.com">
+			        <input type="hidden" name="postkeycode" value="2576c79c">
+			        <input type="hidden" name="face_id" id="face_id" />
+			        <input type="hidden" name="quick_reply" value="1" />
+
+					</p>
+					<div id="body_length"><p><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ft546593">
+					<a target="_blank" href="http://club.yule.sohu.com/r-huodong00-377954-0-81-900.html">*<font color=red><B>盘点2010 做个调查赢巨狐 </b></font><a href=http://club.news.sohu.com/r-help-932982-0-0-900.html target=_blank><font color=blue><b>点击查看编辑器帮助文档</b></font></a>&gt;&gt;</a></span>&nbsp;&nbsp;<span class="fred">剩余可输入字符数：40000</span>&nbsp;&nbsp;&nbsp;</p></div>
+				    <p>
+					<span>内容：</span><textarea class="contArea" name="body0038" id="body0038" cols="60" rows="9" wrap="VIRTUAL" tabindex="5" onkeyup="caculate_length('body');activateVcode();" class="saveHistory"></textarea>
+					<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您要为您所发言论的后果负责，故请各位遵纪守法并注意语言文明。
+					</p>
+					<div class="smileArea">
+
+					<style>
+.text_face {width:630px;}
+</style>
+<span style="display:none;"><a href="#" onclick="showTextFace();return false;">更多表情&gt;&gt;</a></span>
+<script type="text/javascript" src="http://js1.club.sohu.com/js/club_editor.js"></script>
+<script type="text/javascript">
+function recordFace(smileid){
+	if ($('face_id')){
+		var tmp = smileid.split('=');
+		$('face_id').value += tmp[1].substring(0,tmp[1].length-1) + '|';
+	}
+}
+function sendFaceStat(fn){
+	if (face_history.length == 0){
+		return false;
+	}
+	var url = 'http://cache.club.sohu.com/face_stat/click_stat.php';
+	var pars = 'v='+v+'&area='+area+'&face_id=';
+
+	var face = '';
+	for (var i=0;i<face_history.length;i++){
+		face += face_history[i] + '|';
+	}
+
+	if (fn.face_id){
+		fn.face_id.value = face;
+	}
+}
+
+function showTextFace(){
+	for (var i=0;i<$('face_pannel').childNodes.length;i++){
+		if ($('face_pannel').childNodes[i].className == 'text_face'){
+			$('face_pannel').childNodes[i].style.display = '';
+		}
+	}
+	//document.getElementById('showtextfacebtn').style.display = 'none';
+}
+function hideTextFace(){
+	for (var i=0;i<$('face_pannel').childNodes.length;i++){
+		if ($('face_pannel').childNodes[i].className == 'text_face'){
+			$('face_pannel').childNodes[i].style.display = 'none';
+		}
+	}
+	//document.getElementById('showtextfacebtn').style.display = '';
+}
+var faceimg = {'01':'嘿嘿','05':'欢呼','02':'大汗','03':'仰慕','10':'开心','11':'鬼脸','09':'大笑','12':'相爱'};
+var facetxt = {'01':'扮酷','02':'暴怒','03':'锤子','05':'哆嗦','06':'赔礼','07':'欠揍','08':'痛哭','09':'郁闷',
+'10':'再见','11':'仰慕','12':'扁人','16':'觉觉','18':'你好','19':'认错',
+'20':'傻笑','22':'示爱'
+};
+                    </script>
+<ul id="face_pannel">
+    <li class="text_face"><script type="text/javascript">
+    var i = 0;
+    for(var id in faceimg){
+    	i++;
+    	if (i > 8) break;    	
+    	document.write('<label><input type="radio" name="emot" id="emot'+id+'" /><img id="emotimg'+id+'" style="width:43px;heigth:43px;" src="http://image.club.sohu.com/act/emot_'+id+'_static.gif" title="'+faceimg[id]+'" /></label>');
+    }
+                        </script>
+                        </li>
+
+	<li class="text_face"><script type="text/javascript">
+	var i = 0;
+	for(var id in facetxt){
+		i++;
+		if (i > 8) break;
+		document.write('<label><input type="radio" name="act" id="act'+id+'" /><span>'+facetxt[id]+'</span></label>');
+	}
+                            </script></li>
+	<li class="text_face"><script type="text/javascript">
+	var i = 0;
+	for(var id in facetxt){
+		i++;
+		if (i < 9 ) continue;
+		if (i > 16) break;
+		document.write('<label><input type="radio" name="act" id="act'+id+'" /><span>'+facetxt[id]+'</span></label>');
+                            }</script></li>                                                 
+</ul>
+<script type="text/javascript">
+var my_club_editor = new club_editor($("body0038"));
+
+for(var id in faceimg){
+	var emot = $('emot'+id);
+	var emotimg = $('emotimg'+id);
+	if (emot){
+		Event.observe(emot,'click',my_club_editor.insert_smile.bind(my_club_editor, '[emot=emot_'+id+']'));
+		
+	}
+	if (emotimg && /MSIE/.test(navigator.userAgent)){
+		Event.observe(emotimg,'click',my_club_editor.insert_smile.bind(my_club_editor, '[emot=emot_'+id+']'));
+	}
+}
+for(var id in facetxt){
+	var act = $('act'+id);
+	if (act){
+		Event.observe(act,'click',my_club_editor.insert_smile.bind(my_club_editor, '[act=act_'+id+']'));
+	}
+}
+</script>
+
+					<div class="clear"></div>
+					</div>
+
+					<div class="submit01">
+						<span align="left" id="validate_code" style="display:none;">
+						验证码：<input type="text" name="code" id="code" value="" size="6" tabindex="5" class="saveHistory" onfocus="activateVcode();"><input type=hidden name="vcode" id="vcode" value="662DN14f24W118fTK99e4yC.f1eTO91bf2P73c8jH.7670O2de9TI2f38,Q4ba5BJ.ad1UE156aDH173eUV4eb8RT e26GM 40fHQ a4aUD 23eCR 61dEZ 6deVS a11L, d43MM 699KM beaNI 772TM cc4ZE 030PO a1cFE c3fGM d62AE 86eJM "> <img name="vcodeimage" id="vcodeimage" src="http://js2.club.sohu.net/indeximages/50/895054f1ce6ce024cb9ff5a5a5bec050.gif"> <!--font color="#FF9A00">*</font> 4位汉字-->&nbsp;<a onMouseOver="this.style.cursor='pointer'" onclick="javascript:refreshvc();"><font color="#FF9A00">看不清汉字？</font></a><br /><br />
+						<a href="http://cache.club.sohu.com/shop/index.php" target="_blank" style='color:#ff0000'>点此升级</a>至3级即可直接发帖，使用<a href="http://www.sogou.com/pinyin/redirect.php?pid=23021103" target="_blank" style='color:#ff0000'>搜狗输入法</a>提高发帖效率<br /><br />
+						</span>
+						<a style="cursor:pointer" onclick="do_submit()">
+						<img src="http://js4.club.sohu.com/newclub/images/submit_btn.gif" width="95" height="28" alt="发表帖子" title="发表帖子" border="0" /></a>
+						&nbsp;&nbsp;[<a style="cursor:pointer" onclick='club_dialog.showLogin("reply_art.php?b=shilin&a=3531918&t=3531918&template=900")'>高级回复</a>]
+					</div>
+
+				</div>
+				</form>
+			</div>
+			<div class="clear"></div>
+			<div class="blank3_t"></div>
+			<div class="content05">
+				
+				<div><div class="ad690"><div id=33bd0dca69467670a97293980578aff1></div>
+<script type="text/javascript" >
+var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2010/hailiu/yashili/6904801201.swf","_33bd0dca69467670a97293980578aff1","690","480","7");
+sohuFlash2.addParam("quality", "high");
+sohuFlash2.addParam("wmode", "opaque");
+sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201010&TargetID=sohu&Values=33bd0dca,69467670,a9729398,0578aff1&AdID=45041"));
+sohuFlash2.write("33bd0dca69467670a97293980578aff1");
+</script></div><div class="blank5_t"></div></div>
+				<div class="blank7_t"></div>
+				<div><!--a href="http://goto.sms.sohu.com/goto.php?aid=25&pid=2389" target=_blank><img height=50 alt="" src="http://images.sohu.com/sms/online/tg/100423_690x50.gif" width=690 border="0"></a--><a href="http://goto.sms.sohu.com/goto.php?aid=25&pid=2478" target=_blank><img height=50 alt="" src="http://images.sohu.com/sms/online/ting_dfs/100925_690x50.jpg" width=690 border="0"></a></div>
+			</div>
+        </div>
+    </div>
+	<div class="clear"></div>
+	<div class="blank20_t"></div>
+	<script>
+
+	var pageWidth;
+	var nowWidth=0;
+	if(window.ActiveXObject)
+	pageWidth=1024+29;
+	else
+	pageWidth=1024+1;
+	function changeWH1()
+	{
+		if(document.body.scrollWidth < pageWidth)
+		{
+			document.getElementById('main').style.width="703px";
+			document.getElementById('head').style.width="992px";
+			document.getElementById('header').style.width="992px";
+		}
+	}
+	window.onresize=function changeWH2()
+	{
+		if(document.body.scrollWidth < pageWidth && nowWidth < 1024)
+		{
+			nowWidth=1024;
+			document.getElementById('main').style.width="703px";
+			document.getElementById('head').style.width="992px";
+			document.getElementById('header').style.width="992px";
+		}
+		else
+		{
+			if(document.body.scrollWidth > 1084&&nowWidth!=0)
+			{
+				nowWidth=0;
+				document.getElementById('main').style.width="";
+				document.getElementById('head').style.width="";
+				document.getElementById('header').style.width="";
+			}
+		}
+	}
+	window.onload  =changeWH1();
+	</script>
+	<!--start 公司NEWVIEW统计代码-->
+<script type="text/javascript" language="javascript" src="http://js.sohu.com/mail/pv/pv_v201.js"></script> 
+<div id="footer">
+			<ul>
+				<li>
+				<a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;">设置首页</a> -
+				<a href="http://pinyin.sogou.com/" target=_blank>搜狗输入法</a> -
+				<a href="http://up.sohu.com/" target=_blank>支付中心</a> -
+				<a href="http://hr.sohu.com/" target=_blank>搜狐招聘</a> -
+				<a href="http://ad.sohu.com/" target=_blank>广告服务</a> -
+				<a href="http://sohucallcenter.blog.sohu.com/" target=_blank>客服中心 </a> -
+				<a href="http://corp.sohu.com/s2006/contactus/" target=_blank>联系方式 </a> -
+				<a href="http://www.sohu.com/about/privacy.html" target=_blank>保护隐私权</a> -
+				<a href="http://club.sohu.com/main.php?url=http://club.sohu.com/map/club_map.html" target=_blank>社区论坛地图</a> -
+				<a class=eng href="http://corp.sohu.com/" target=_blank>About SOHU</a> -
+				<a class=eng href="http://corp.sohu.com/indexcn.shtml" target=_blank>公司介绍</a>
+				<br/>SOHU CLUB V2.1 Copyright &copy; 2010 Sohu.com Inc. All rights reserved. 搜狐公司 <a href="http://corp.sohu.com/s2007/copyright/" target=_blank>版权所有</a>
+               <br/>搜狐社区客服电话：010-58511234 客服邮箱：<a href="mailto:clubadmin@contact.sohu.com" target=_blank>clubadmin@contact.sohu.com</a></li>    
+			</ul>
+		</div></div>
+
+<script type="text/javascript">
+SL.push('report');
+SL.push('club_dialog');
+SL.push('scriptaculo_effects');
+SL.push('club_newspp');
+</script>
+<script type="text/javascript">
+club_global.LoadJs(SL);
+</script>
+<script  language="JavaScript" type="Text/Javascript" src="http://club.mil.news.sohu.com/read_art_relation.php?b=shilin&a=3531918&forumename=news&intid=1119&title=%D6%D0%B9%FA%A1%B0%CE%F3%D5%A8%A1%B1%BB%C6%BA%A3%BE%FC%D1%DD%B5%C4%C3%C0%B9%FA%BA%BD%C4%B8%BD%E1%B9%FB%BB%E1%D4%F5%D1%F9"></script><script language="javascript">
+        var relationinfo;
+        var realtioninfonew;
+        var relationflag = 0;
+        var relationflagnew = 0;
+        relationinfo = "<ul>";        
+         for(i=0;i<relationart.length;i++){       	
+         	if(relationart[i][2]==0)
+         		relationinfo+= "<li  style=\" width:273px;height:23px;margin-left:2px\"><img src=\"http://js3.club.sohu.net/indeximages/9d/003dd5a2674c687efca31493733c0e9d.gif\" border=0 width=9 height=11> <a href="+relationart[i][1]+" target=_blank style=\"color:#666666\">"+relationart[i][0]+"</a></li>";
+         	else
+            	relationinfo+= "<li  style=\"width:273px;height:23px;margin-left:2px\"><img src=\"http://js3.club.sohu.net/indeximages/9d/003dd5a2674c687efca31493733c0e9d.gif\" border=0 width=9 height=11> <a href="+relationart[i][1]+" target=_blank>"+relationart[i][0]+"</a></li>";
+         }
+        relationinfo+="</ul>"
+		document.getElementById("relationart").innerHTML= relationinfo;
+     </script><!--box start-->
+		<link type="text/css" rel="stylesheet" href="http://js4.club.sohu.net/clubindex/box_style_2.css" />
+
+        <div id="infoBox1" class="popdown" style="display:none"></div>
+        
+        <!--box st-->
+        <div id="box" style="display: none;">
+        	<div><img src="http://js2.club.sohu.net/clubindex/box0103.gif" width="150" height="7" alt="" /></div>
+        	<div class="content">
+        		<h2><a href="javascript:void(0);" onclick="javascript:showForumHistory.hidebox();"><img src="http://js3.club.sohu.net/clubindex/box03.gif" width="18" height="18" alt="关闭" title="关闭" /></a>我的足迹</h2>
+        		<p id="outhtml">
+        
+        		</p>
+        	</div>
+        </div>
+        <!--box end-->
+  <!--favorate st-->
+	<div id="favoritebox" style="display: none;">
+	<div><img src="http://js2.club.sohu.net/clubindex/box0103.gif" width="230" height="7" alt="" /></div>
+	<div class="content">
+		<h2><a href="javascript:void(0);" onclick="javascript:showForumHistory.hidebox('favoritebox');"><img src="http://js3.club.sohu.net/clubindex/box03.gif" width="18" height="18" alt="关闭" title="关闭" /></a>个人珍藏</h2>
+		<p id="favoritehtml">
+		</p>
+	</div>
+	</div>
+<!--favorate end-->
+<script src="http://js4.club.sohu.com/newbbs/js/club_sohu_head_1.0.1.js" type="text/javascript"></script>
+<script type="text/javascript">
+var cc = new club_cookie;
+//刷新验证码图片
+var refreshvc = function()
+{
+	//生成0-9随机数
+	var x = new Date();
+	var dt = x.getTime();
+	var refresh = dt.toString().substr(6);
+	document.getElementById("vcodeimage").src="http://vcode.club.sohu.com/vcode/vcode_cn.php?vcode=662DN14f24W118fTK99e4yC.f1eTO91bf2P73c8jH.7670O2de9TI2f38%2CQ4ba5BJ.ad1UE156aDH173eUV4eb8RT+e26GM+40fHQ+a4aUD+23eCR+61dEZ+6deVS+a11L%2C+d43MM+699KM+beaNI+772TM+cc4ZE+030PO+a1cFE+c3fGM+d62AE+86eJM+&ctp=1&aflag=1&refresh="+refresh;
+	//document.getElementById("vcodeimage").src="http://service.club.sohu.com/vcode/vcode_cn.php?vcode=662DN14f24W118fTK99e4yC.f1eTO91bf2P73c8jH.7670O2de9TI2f38%2CQ4ba5BJ.ad1UE156aDH173eUV4eb8RT+e26GM+40fHQ+a4aUD+23eCR+61dEZ+6deVS+a11L%2C+d43MM+699KM+beaNI+772TM+cc4ZE+030PO+a1cFE+c3fGM+d62AE+86eJM+&refresh="+refresh;
+
+}
+function activateVcode(){
+	if ($("validate_code").style.display == "none"){
+		return false;
+	}
+	if ($("vcodeimage").src == 'http://js2.club.sohu.net/indeximages/50/895054f1ce6ce024cb9ff5a5a5bec050.gif'){
+		refreshvc();
+	}
+}
+var validate_code_show = function()
+{
+	var cle = new club_levelevent("pfont_0|rfont_0|plink_5|rlink_5|pimg_2|rimg_2|pflash_5|rflash_16|psign_4|rsign_4|pvc_2|rvc_2|ppost_0|rpost_0");
+	if(!cle.getAccess("rvc",cc)){
+		$("validate_code").show();
+		//refreshvc();
+	}
+	else{
+		$("validate_code").hide();
+	}
+};
+validate_code_show();
+webim_config ={
+	product:"sohu/bbs",
+	//debug: true,
+	cm_menu_width:100,
+	cm_menu:[],
+	cm_GenMenu:function(candleman, menu)
+	{
+		for (var i=menu.length-1;i>=0;i--){
+			if (menu[i].n=="传纸条"){
+				menu[i].n="传小纸条";
+				menu[i].t="给$NICK($USER)传小纸条";
+			}
+			if (menu[i].n=="加为好友"){
+				menu[i].n="加为小纸条好友";
+				menu[i].t="加$NICK($USER)为小纸条好友";
+			}
+		}
+	}
+}
+</script>
+<script language="javascript" src="http://images.sohu.com/cs/sohuim/xiaozt/version/2.0/js/loader.sohu.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://images.sohu.com/cs/jsfile/js/ct.js"></script>
+<script>
+var sogou_param = new Array();
+sogou_param["pid"]  = "sohu__club";
+sogou_param["ct"]  = "textlink"
+sogou_param["iw"]   = "250";
+sogou_param["ih"]   = "250";
+sogou_param["rn"]   = "10";
+sogou_param["cn"]   = "5";
+sogou_param["c_bg"] = "f3fafe";
+sogou_param["c_te"] = "333333";
+sogou_param["c_ho"] = "FF0000";
+sogou_param["pr"] = "1";
+sogou_param["ul"] = "0";
+sogou_param["al"] = "0";
+sogou_param["nw"] = "1";
+sogou_param["cm"] = "18";
+var sgtext = sogou();
+$("sogouiframe").innerHTML = sgtext;
+$("body0038").observe('keyup' || 'keydown', function(event){
+	if( (event.keyCode == 13) && (event.ctrlKey) ){
+		do_submit();
+	}
+});
+</script>
+
+<!-- START WRating v1.0-->
+<script type="text/javascript" src="http://sohu.wrating.com/a1.js"></script>
+<script type="text/javascript">
+var vjAcc="860010-0602150300";
+var wrUrl="http://sohu.wrating.com/";
+vjTrack();
+</script>
+<noscript><img src="http://sohu.wrating.com/a.gif?c=860010-0602150300" width="1" height="1"/></noscript>
+<!-- END WRating v1.0 -->
+
+<!--MSN Popup Begin - by jimmy_dong 20060208 -->
+<DIV id=epop 
+style="BORDER-RIGHT: #000066 1px solid; BORDER-TOP: #000066 1px solid; Z-INDEX: 99999; FILTER: alpha(opacity=100); LEFT: 0px; VISIBILITY: hidden; BORDER-LEFT: #000066 1px solid; WIDTH: 200px; BORDER-BOTTOM: #000066 1px solid; POSITION: absolute; TOP: 0px; HEIGHT: 140px; BACKGROUND-COLOR: #c9d3f3"></DIV>
+<!--SCRIPT language=javascript  src="/inc_static/msnpopup.js" type=text/javascript></SCRIPT-->
+<!--MSN Popup end-->
+
+<div id="pop80" style="display:none;">
+  <a onclick="showHideLayers('pop80',event);" href="http://notice.club.sohu.com/subscription/user_sub_add.php?type=add_all_reply&b=shilin&a=3531918" style="border-bottom:1px solid #768cd5;" onmouseover="this.className='setBtn';" onmouseout="this.className='';">订阅本贴</a>
+  <a onclick="showHideLayers('pop80',event);" href="http://notice.club.sohu.com/manage/manage_event.php" onmouseover="this.className='setBtn';" onmouseout="this.className='';">订阅设置</a>
+</div>
+<div style="border:1px solid #ccc;position:absolute;top:400px;left:700px;width:140px;display:none;" id="wangyin">
+<a href="http://vip.club.sohu.com/wangyin/do.php" target="_blank"><img src="http://js3.club.sohu.net/indeximages/37/dcbfb9f95f36c5e0f1d40e55109f9e37.jpg" /></a></div>
+</body>
+<script language=javascript  src="inc_static/clubsohu_popup.js" type=text/javascript></script>	
+</html>
+
+<!-- ok memorysquid -->

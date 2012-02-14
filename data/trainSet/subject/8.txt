@@ -1,0 +1,1049 @@
+http://gaizhaohua.blog.sohu.com/163828148.html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<title>在德国严寒中行乞的各色乞丐们-游遍德国-搜狐博客</title>
+<meta name="Keywords" content="博客,Blog,Blogger,搜狐,Sohu,网络日志 游遍德国" />
+<meta name="description" content="游遍德国 liupeng_0_0_0的blog" />
+<meta name="robots" content="index,follow" />
+<script type="text/javascript">
+var JSPATH = {},
+HCP='http://js2.pp.sohu.com.cn/ppp/js/common_v_081016/',
+HMP='http://js4.pp.sohu.com.cn/ppp/js/module_v_100528/',
+HTP='http://js5.pp.sohu.com.cn/ppp/js/tool_v_090418/';
+JSPATH.util={common:HCP+'common.js',module:HMP,tool:HTP};
+
+var BLOG_SP = 'http://js3.pp.sohu.com.cn/ppp/blog/js_ppp_v_090323/';
+JSPATH.blog={_path:BLOG_SP};
+
+var TP = 'http://js2.pp.sohu.com.cn/ppp/group/toolbar_v_090827/';
+
+</script>
+
+<link href="http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/def/style.css" rel="stylesheet" type="text/css" />
+
+
+<link id="themeCss" href="http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/p0604/style.css" themeid="p0604" rel="stylesheet" type="text/css" />
+
+<style type="text/css" id="customTheme">
+#header{background-repeat: no-repeat;}
+#header{height: 200px;}
+#header{background-image: none;}
+
+</style>
+
+<script type="text/javascript">
+document.write('<link href="'+TP+'themes/p01/style.css" rel="stylesheet" type="text/css"/>');
+</script>
+<link rel="stylesheet" type="text/css" href="http://js3.pp.sohu.com.cn/ppp/blog/entry_v_100528/css/revoArticle.v.100811.css" /> 
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://gaizhaohua.blog.sohu.com/rss" />
+
+</head>
+<body>
+<a name="top"></a>
+<script type="text/javascript">
+var _blog_base_url = 'http://gaizhaohua.blog.sohu.com/';
+var _blog_base_path = 'http://gaizhaohua.blog.sohu.com/';
+var _blog_domain='gaizhaohua';
+var _ebi = 'ca62cdb792';
+var _ept = 'liupeng_0_0_0!c';
+var _xpt = 'bGl1cGVuZ18wXzBfMEBjaGluYXJlbi5jb20=';
+</script>
+
+<script type="text/javascript">
+// 2007-12-25
+// Modify：springwang 2009-03-30
+var _w = {
+	c: ['您好', '欢迎', 'Hi～', 'Hello!', '欢迎到搜狐博客','淡定～淡定～','嘿咻嘿咻～', '海盗船长嘿咻嘿咻','粉红娘娘哎哎哎哎','乐呵乐呵得了', '相逢的人会再相逢', '努力构建和谐社会', '换个模板换个心情', '看看好友动态吧', '兰怕德', '爱护环境从我做起', '我是来打酱油的', '又被雷到了*o*', '彪悍的人生不解释'],
+	m: ['早上好', '天亮了', '新的一天', '小鸟在歌唱~', '记得吃早点', '又堵车了:(', '!o!要打起精神', '一起去晨练', '*_*天气热了', '注意防晒', 'Morning~', '不想上班@@', '早饭要吃好', '开开心心上班来', '走自己的路...', '少开一天车', 'omg！衣服又瘦了', '尾号还没轮换？'],
+	a: ['上午好', '好忙', '忙么？', '喝杯咖啡', '休息一下', '抓紧时间', '提高工作效率', '伸伸胳膊扭扭腰', '眼睛累了，眺望远方'],
+	n: ['中午好', '午饭时间', '×_×小睡一会', '∮听会儿音乐吧', '多吃青菜', '饭要七成饱', '午饭要吃饱', '还不去吃饭？', '休息，休息一会儿', '鱼香肉丝里没有鱼', '又晒黑了:(', '番茄原来是西红柿'],
+	p: ['下午好', '屋里好热～','屋里好冷～', '工作完成了？', '提高工作效率', '#_#有些困', '打起精神来', '多喝水', '洗把脸', '忙啊忙啊~', '还不发工资'],
+	d: ['傍晚好', '又堵车了:(', '还不下班？', '吃些什么？', '一会儿去买菜', '^O^今天我来做饭', '抓紧时间啦～', '晚饭要吃少', '没堵车:)', '不吃了，减肥~', '高高兴兴回家去', '走自己的路不打的', '回家家找妈妈', '难得不堵车～'],
+	e: ['晚上好', '吃些什么？', ')o(要控制饮食', '饭后吃个水果', '去散散步', '有人请客么？', '还在加班？', '陪她去看电影哦～', '晚上去跑步', '西瓜，自熟的', '各回各家找妈妈', '今晚去FB，嘿嘿～'],
+	l: ['夜里好', '还没睡？', '今夜星光灿烂～', '还在工作么？', '早睡早起身体好', '今天有何收获？', '给她发晚安短信吧～',  '洗洗睡吧~'],
+	w: ['凌晨好', '+_+好困啊', '通宵么？', '...zzZZ~~', '嘘～小声点', '不要睡太晚', '你在他乡还好吗', '几点了―_―', '睡吧，明天还上班', '你不是一个人在战斗', '长夜漫漫无心睡眠', '夜漫漫其修远兮~~', '醒醒～～醒醒～', '讲鬼故事喽~~'],
+	k: ['周末好', '好好休息一下', '去郊游吧～', '周末睡个懒觉', '给家里打个电话吧', '该出去晒太阳了', '约朋友去打球', '一起去健身吧', '伸个懒腰~', '好兴奋！', '没有人在线:(', '秋天适宜出游']
+};
+</script>
+
+<script type="text/javascript">
+/**
+ * 广告出现的几率，_p = 3 表示 10次平均有3次会出现广告
+ */
+var _p = 3;
+/**
+ * 不同时段的广告语
+ */
+var _a = {
+         // 常用广告语，每个时间段都可能出现
+         c: [],
+//
+        // 6 点到 9 点时段的广告语
+         m: [],
+//
+        // 9 点 到12 点 时段的广告语
+         a: [],
+//
+        // 12 点 到14 点 时段的广告语
+         n: [],
+//
+        // 14 点 到17 点 时段的广告语
+         p: [],
+//
+        // 17 点 到19 点 时段的广告语
+         d: [],
+//
+        // 19 点 到21 点 时段的广告语
+         e: [],
+//
+        // 21 点 到24 点 时段的广告语
+         l: [],
+//
+        // 0 点 到6 点 时段的广告语
+         w: [],
+//
+        // 周末时段的广告语
+         k: []
+//
+};
+</script>
+
+<div id="toolBar" class="toolBar clearfix" pdt="blog" sohu3="false">
+	<div id="innerToolBar" class="innerToolBar clearfix">
+                <div id="tb_logo" onmousedown="CA.q('toolbar_blogLogo');">
+                         <a style="margin:0" href="http://blog.sohu.com" title="搜狐博客" target="_blank"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/logotb.gif" alt="搜狐博客" /></a> 
+                </div>
+                <div id="tb_user" class="clearfix"><span class="txt">loading ...</span></div>
+				<div id="tb_nav" style="display:none;"></div>
+                <div id="tb_tool" style="display:none;"></div>
+                <div id="tb_sys">
+					<span id="logoutBtn" style="display:none;"><a href="javascript:ToolBar.doLogout();" onmousedown="CA.q('toolbar_logout');">离开</a>|</span>
+				<!--	<a href="http://blogsearch.sogou.com/" target="_blank" onmousedown="CA.q('toolbar_search');">搜索</a>| -->
+					<a href="http://blog.sohu.com/help.html" title="帮助" target="_blank" onmousedown="CA.q('toolbar_help');">帮助</a>
+					
+				</div>
+                <div id="tb_addon">
+        <script type="text/javascript">
+        var toolbarSysRec = [
+				
+                   {"tip" : {"title": "<FONT size=2>英语很烂请点这里</FONT>","url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201009&TargetID=sohu&Values=40c0a8f2,daece376,703121ba,e012a60c&AdID=10537"}},
+{"tip" : {"title": "<FONT size=2>英语很烂请点这里</FONT>","url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201009&TargetID=sohu&Values=40c0a8f2,daece376,703121ba,e012a60c&AdID=10537"}},
+
+                   
+];
+try {
+	if (toolbarSysRec) {
+		var len = toolbarSysRec.length;
+		if (!toolbarSysRec[len - 1]) {
+			len = len - 1;
+		}
+		var n = Math.floor(Math.random() * len);
+		var rd = toolbarSysRec[n];
+		document.write('<a href="'+ rd.tip.url + '" target="_blank" style="font-weight:bold;" onmousedown="CA.q(\'toolbar_tips\');">'
+						+ rd.tip.title + '</a>');
+	}
+} catch (err) {
+
+}       
+               
+        </script>
+        </div>
+        </div>
+</div>
+<div id="toolbarPadding"></div>
+
+<div id="_preLoadText" style="text-align:center;">loading...</div>
+
+<script type="text/javascript">
+var SP = BLOG_SP;
+var ThP = 'http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/';
+var WP = '/ppp/blog/widgets_v_101109/';
+var UWAP = 'http://js3.pp.sohu.com.cn/ppp/blog/widgets_v_080920/uwa_widget/';
+document.write('<scr'+'ipt type="text/javascript" src="'+ SP + 'sohublog.js"></scr'+'ipt>');
+var SL = [SP+'log.js', 'http://js2.pp.sohu.com.cn/ppp/blog/js_v_100326/pp18030_all.v.10051701.js', 'http://', HCP+'common.js', SP+'common.v.101109.js', HTP+'effect.js'];
+</script>
+<script type="text/javascript">
+//var noToolBar = true;
+lsl(SL);
+</script>
+<script type="text/javascript">
+if (isPPLogin() && (getPPP() != getP())) {
+	document.write('<scr'+'ipt src="http://blog.sohu.com/service/passport.jsp" type="text/javascript"></scr'+'ipt>');
+}
+</script>
+<script type="text/javascript">
+//toolbar 在setcookie后加载
+lsl([TP+'toolbar.v.101111.js']); 
+</script>
+<script type="text/javascript">
+if (typeof ToolBar != 'undefined') {
+	ToolBar.init();
+	/*if (isLoginBlogUser()) {
+		Starter.add(ToolBar.psptCardDefaultShow.bind(ToolBar));
+	}*/
+}
+</script>
+<div id="wrapper">
+	<div id="innerWrapper" >
+		
+<div id="topPadding"></div>
+<div id="header">
+  <div id="playerBox"><div id="innerPlayerBox"></div></div>
+  <div id="innerHeader">
+  
+	<div id="blogLogo"><a href="http://blog.sohu.com"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/spacer.gif" id="logo" alt="搜狐博客" /></a></div>
+	<h1 id="blogTitle"><a href="http://gaizhaohua.blog.sohu.com/"  id="blogAdmin" onmousedown="CA.q('blog_header_title');">游遍德国</a></h1>
+	<div id="blogUrl">
+		<!-- a href="http://gaizhaohua.blog.sohu.com/">http://gaizhaohua.blog.sohu.com/</a --> 
+        <a href="http://gaizhaohua.blog.sohu.com/profile/" target="_blank" class="navUrl" title="查看游遍德国的个人档案" onmousedown="CA.q('blog_header_profile');"><img  border ="0" src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_profile.gif" alt="档案" align="absmiddle" /></a><a href="http://gaizhaohua.blog.sohu.com/profile/" target="_blank" class="navUrl" title="查看游遍德国的个人档案" onmousedown="CA.q('blog_header_profile');">档案</a> 
+        <a href="http://t.sohu.com/people/!bGl1cGVuZ18wXzBfMEBjaGluYXJlbi5jb20=" target="_blank" class="navUrl" title="查看游遍德国的微博" onmousedown="CA.q('blog_header_mini');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_tblog.gif" alt="微博" align="absmiddle" border="0" /></a><a href="http://t.sohu.com/people/!bGl1cGVuZ18wXzBfMEBjaGluYXJlbi5jb20=" target="_blank" class="navUrl" title="查看游遍德国的微博" onmousedown="CA.q('blog_header_mini');">微博</a> 
+        <a href="http://gaizhaohua.blog.sohu.com/entry/" target="_blank" class="navUrl" title="查看游遍德国的日志" onmousedown="CA.q('blog_header_entry');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_entry.gif" alt="日志" align="absmiddle"  border="0"/></a><a href="http://gaizhaohua.blog.sohu.com/entry/" target="_blank" class="navUrl" title="查看游遍德国的日志" onmousedown="CA.q('blog_header_entry');">日志</a> 
+        <a href="http://gaizhaohua.blog.sohu.com/album/" target="_blank" class="navUrl" title="查看游遍德国的相册" onmousedown="CA.q('blog_header_photo');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_picture.gif" alt="相册" align="absmiddle" border="0" /></a><a href="http://gaizhaohua.blog.sohu.com/album/" target="_blank" class="navUrl" title="查看游遍德国的相册" onmousedown="CA.q('blog_header_photo');">相册</a> 
+        <a href="http://v.blog.sohu.com/people/bGl1cGVuZ18wXzBfMEBjaGluYXJlbi5jb20=" target="_blank" class="navUrl" title="查看游遍德国的视频" onmousedown="CA.q('blog_header_video');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_video.gif" alt="视频" align="absmiddle" border="0" /></a><a href="http://v.blog.sohu.com/people/bGl1cGVuZ18wXzBfMEBjaGluYXJlbi5jb20=" target="_blank" class="navUrl" title="查看游遍德国的视频" onmousedown="CA.q('blog_header_video');">视频</a> 
+        <a href="http://gaizhaohua.blog.sohu.com/app/soShare/" target="_blank" class="navUrl" title="查看游遍德国的分享" onmousedown="CA.q('blog_header_share');"><img src="http://js1.pp.sohu.com.cn/ppp/images/icons/ico_share2.gif" alt="分享" align="absmiddle"  border="0"/></a><a  href="http://gaizhaohua.blog.sohu.com/app/soShare/" target="_blank" class="navUrl" title="查看游遍德国的分享" onmousedown="CA.q('blog_header_share');">分享</a> 
+		<a href="http://gaizhaohua.blog.sohu.com/rss" target="_blank" onmousedown="CA.q('blog_header_rss');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_rss.gif" alt="RSS订阅" align="absmiddle" /></a>
+		<a href="javascript:void(0)" name="onlineIcon" style="display:none" rel="" param="bGl1cGVuZ18wXzBfMEBjaGluYXJlbi5jb20=;游遍德国"></a>
+	</div>
+	<div id="blogDesc">liupeng_0_0_0的blog</div>
+  </div>
+</div>
+<div id="navBar">
+  <div id="innerNavBar">
+		<ul id="mainNav">
+			<li><a href="http://gaizhaohua.blog.sohu.com/#tp_music"><script type="text/javascript">document.write(getNavIco('78', '音乐'));</script><span>音乐</span></a></li> 
+			<li><a href="http://gaizhaohua.blog.sohu.com/#tp_606641bae4a"><script type="text/javascript">document.write(getNavIco('0', '新页面'));</script><span>新页面</span></a></li> 
+			<li><a href="http://gaizhaohua.blog.sohu.com/#tp_pp"><script type="text/javascript">document.write(getNavIco('100', '相册'));</script><span>相册</span></a></li> 
+
+		</ul>
+	<ul id="optionNav">
+	  <li id="mngOpr"></li>
+	</ul>
+	<div class="clear"></div>
+  </div>
+</div>
+<div id="neckWrapper"><div id="innerNeckWrapper"></div></div>
+		<div id="mainWrapper">
+		<div id="innerMainWrapper" class="revolution">
+			<div id="articleContent">
+                <div id="articleInnerContent">
+                <div id="contentLabelBox" style="display:none">
+  					<div id="innerContentLabelBox" style="height:25px;">
+   						 <a href="http://blog.sohu.com">搜狐博客</a> 
+							&gt; <a href="http://gaizhaohua.blog.sohu.com/">游遍德国</a>
+							&gt; <a href="http://gaizhaohua.blog.sohu.com/entry/">日志</a>
+    					
+    						&gt; <a href="http://gaizhaohua.blog.sohu.com/entry/7238144/">杂论</a>
+    					
+  					</div>
+ 
+  					<div class="clear"></div>
+				</div>
+					
+					
+					
+
+
+
+<div id="contentLabelBox" style="display:none">
+  <div id="innerContentLabelBox" style="height:25px;" style="display:none">
+    <a href="http://blog.sohu.com">搜狐博客</a> 
+	&gt; <a href="http://gaizhaohua.blog.sohu.com/">游遍德国</a>
+	&gt; <a href="http://gaizhaohua.blog.sohu.com/entry/">日志</a>
+    
+    &gt; <a href="http://gaizhaohua.blog.sohu.com/entry/7238144/">杂论</a>
+    
+  </div>
+ 
+  <div class="clear"></div>
+</div>
+<div class="content-top"></div>
+<div 
+ 
+class="revoWarrper profileNo"
+> 
+
+
+
+
+
+
+
+<div class="revoArtLeft">
+	<div class="mod" id="m_1"><div class="modFrame"><table cellspacing="0" cellpadding="0" class="modTable"><thead><tr>
+		<td class="mheader lt"></td>
+		<td class="mheader t">
+			<div class="modHeader clearfix">
+				<div class="modIco" style=""><img src="http://js1.pp.sohu.com.cn/ppp/blog/widgets_v_100427/profile/ico_widget.gif"></div>
+				<div class="modTitle">个人档案</div>
+			</div>
+		</td><td class="mheader rt"></td></tr></thead><tbody><tr style="display: none;"><td class="mneck l"></td><td class="mneck ec"><div class="modEditCon"></div></td><td class="mneck r"></td></tr><tr><td class="mbody l"></td><td class="mbody c"><div class="modCon profile-content"><div>
+    <div id="profile_photo" style="background:url(http://1833.img.pp.sohu.com.cn/images/blog/2009/4/19/2/18/12165b22d7cg215.jpg) no-repeat center center"; title="用户头像">
+    </div>
+    <div class="revoMyname"><a href ="http://gaizhaohua.blog.sohu.com/" onmousedown="CA.q('blog_entry_profile_blogName');"><strong>游遍德国</strong></a></div>
+    <div class="revoBtns">
+   
+    	<div >
+    <a onmousedown="CA.q('blog_entry_profile_viewProfile');" target="_blank" title="查看个人档案" href="http://gaizhaohua.blog.sohu.com/profile/" class="i-myprofile">看档案</a>
+    <a onmousedown="CA.q('blog_entry_profile_addFriend');" title="将 游遍德国 加为我的好友" onclick="if (isLogin()) {addToFav({sign:'entryProfile',obj:this});} else {this.href='http://blog.sohu.com/login/logon.do?bru='+encodeURIComponent(window.location.href);}" href="javascript:void(0);" class="i-addfriend" >加好友</a><br>
+    <a onmousedown="CA.q('blog_entry_profile_leaveMessage');" target="_blank" title="给他留言" href="http://gaizhaohua.blog.sohu.com/message/" class="i-leavemsg">写留言</a>
+    <a onclick="pokeMe(true,_xpt)" blogico="http://512.img.pp.sohu.com.cn/images/blog/2010/3/25/23/14/12847e420f7g214.jpg" title="向他打招呼" href="javascript:void(0);" onmousedown="CA.q('blog_entry_profile_poke');" class="i-poke">打招呼</a><br />
+    	</div>
+    	
+     <a onmousedown="CA.q('blog_entry_profile_t');" href="http://t.sohu.com/people/!bGl1cGVuZ18wXzBfMEBjaGluYXJlbi5jb20=" target="_blank" class="i-tblogs">查看博主的微博</a>
+    </div>
+    <div class="revoBtns03">
+    
+   盖昭华，女，山东人。山东师范大学历史系学士。法兰克福大学考古专业硕士。本博客所有文章，图片版权归原作者盖昭华所有，保留全部权利。谢绝任何形式的未授权转载，摘编，以及图片引用。多谢各媒体支持，欢迎认真合作。  约稿联系信箱： liupeng_0_0_0@sina.com。        另本博客不做免费广告，未经允许的广告留言一旦发现马上删除。 
+   
+    </div>
+    <style>
+    #sideBlogStat ul{margin:0;overflow:hidden;white-space:nowrap;list-style:none;padding:0;}
+    #sideBlogStat ul li{line-height:20px;}
+    </style>
+    <!-- <div class="revoBtns02" id="sideBlogStat">
+    数据加载中
+    </div> -->
+    
+    <div class="profile_list"></div>
+    <div class="profile_content"><div style="text-align: right; display: none;"><a onmousedown="CA.q('blog_widget_profile_editIntro');" target="_blank" href="http://blog.sohu.com/manage/setting.do">修改个性介绍</a></div>
+     
+    </div></div></div><div style="text-align: right; display: none;" class="modSuffix"><hr><a onmousedown="CA.a('widget_share_' + (isPPLogin() ? (isMyBlog() ? 'admin' : 'blogger') : 'guest'))" href="javascript:void(0);"><img align="absmiddle" src="http://js2.pp.sohu.com.cn/ppp/images/icons/ico_share.gif">推荐给好友</a></div></td><td class="mbody r"></td></tr></tbody><tfoot><tr><td class="mfooter lb"></td><td class="mfooter b"></td><td class="mfooter rb"></td></tr></tfoot></table></div>
+	</div>
+	<script>
+//showBlogStat(); 
+	</script>
+    
+    <!--模块二-->
+    
+    <div class="mod revoSelect" id="m_2">
+    <div class="revoSelInt"></div>
+  <div class="modFrame">
+    <table cellspacing="0" cellpadding="0" class="modTable">
+      <thead>
+        <tr>
+          <td class="mheader lt"></td>
+          <td class="mheader t">
+          <div class="modHeader clearfix">
+              <div class="modIco" style=""><img src="http://js3.pp.sohu.com.cn/ppp/blog/entry/i/1_22.gif"></div>
+              <div class="modTitle">博主被推荐文章</div>
+            </div>
+            </td>
+          <td class="mheader rt"></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="mbody l"></td>
+          <td class="mbody c">
+          	<div class="modCon profile-content">
+              <ul class="revoArticleLists" onmousedown="CA.q('blog_entry_recommend_list');">
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/163828148.html">在德国严寒中行乞的各色乞丐们</a><br /><a href="http://blog.sohu.com/shehui/">搜狐博客</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/163417567.html">在德国圣诞市场上体会异国情调</a><br /><a href="http://blog.sohu.com/shehui/">搜狐博客</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/163267130.html">一位以乱伦名义被砍头的皇后</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/163008315.html">一座诞生了两位音乐皇帝的&#8220;小城&#8221;</a><br /><a href="http://blog.sohu.com/">搜狐博客</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/162236888.html">在德国老城里的中国公园长啥样</a><br /><a href="http://blog.sohu.com/shehui/">搜狐博客</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/162058380.html">这座桥上竟建着三十二栋楼房</a><br /><a href="http://blog.sohu.com/vision/">搜狐视觉联盟博客群</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/161878034.html">欧洲中世纪处理尸体的方法很恐怖</a><br /><a href="http://blog.sohu.com/shehui/">搜狐博客</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/161522540.html">寻找欧洲的净土------徒步耶拿峰</a><br /><a href="http://blog.sohu.com/vision/">搜狐视觉联盟博客群</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/161397450.html">德国最古老城市揭秘</a><br /><a href="http://www.sohu.com/">搜狐首页</a> </li>
+              
+              	<li><a href="http://gaizhaohua.blog.sohu.com/161173793.html">在法兰克福闹市区里的乱坟岗子</a><br /><a href="http://blog.sohu.com/shehui/">搜狐博客</a> </li>
+              
+              </ul>
+              <div class="revoArticlrMore"><a href="http://gaizhaohua.blog.sohu.com/entry/?recmd=1"  onmousedown="CA.q('blog_entry_recommend_list_more');">更多推荐文章&gt;&gt;</a></div>
+            </div>            </td>
+          <td class="mbody r"></td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td class="mfooter lb"></td>
+          <td class="mfooter b"></td>
+          <td class="mfooter rb"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>
+
+<!--模块三-->
+
+ 
+    
+ 
+<div class="mod" id="m_3">
+  <div class="modFrame">
+    <table cellspacing="0" cellpadding="0" class="modTable">
+      <thead>
+        <tr>
+          <td class="mheader lt"></td>
+          <td class="mheader t"><div class="modHeader clearfix">
+              <div class="modIco" style=""><img src="http://js3.pp.sohu.com.cn/ppp/blog/entry/i/1_29.gif"></div>
+              <div class="modTitle">博主最新文章</div>
+            </div></td>
+          <td class="mheader rt"></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="mbody l"></td>
+          <td class="mbody c">
+          	<div class="modCon profile-content">
+              <ul class="revoArticleLists"  onmousedown="CA.q('blog_entry_latest_list');">
+              
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/163184048.html">一点说明</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/162612924.html">在德中国人享有的选举权利</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/162364359.html">这里游荡着四十万犹太人的冤魂</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/161688001.html">鲁能夺冠，真的有那么不值钱？</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/160989816.html">德国人用馏过的食物招待客人</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/160882105.html">在匈牙利想成为百万富翁很容易</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/160826059.html">德国红灯区大揭秘</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/160744499.html">你知道哪里的德语最标准吗？</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/160300667.html">很忙，考试中。</a>
+                </li>
+                
+              	<li>
+                	<a href="http://gaizhaohua.blog.sohu.com/160078022.html">在美泉宫里寻找茜茜公主的痕迹</a>
+                </li>
+                
+              </ul>
+              <div class="revoArticlrMore"><a href="http://gaizhaohua.blog.sohu.com/entry/" onmousedown="CA.q('blog_entry_lastest_list_more');" target="_blank">更多文章&gt;&gt;</a></div>
+            </div>
+            </td>
+          <td class="mbody r"></td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td class="mfooter lb"></td>
+          <td class="mfooter b"></td>
+          <td class="mfooter rb"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>
+
+<!--模块四-->
+<div  onmousedown="CA.q('blog_entry_editor_list');">
+<div class=mod id=m_4>
+<div class=modFrame>
+<table class=modTable cellSpacing=0 cellPadding=0>
+<thead>
+<tr>
+<td class="mheader lt"></td>
+<td class="mheader t">
+<div class="modHeader clearfix">
+<div class=modTitle>推荐博文</div></div></td>
+<td class="mheader rt"></td></tr></thead>
+<tbody>
+<tr>
+<td class="mbody l"></td>
+<td class="mbody c">
+<div class="modCon profile-content">
+<div class=revoArticleCom>
+<div class=artComPhoto><a href="http://jiayingwang.blog.sohu.com/163715443.html" target=_blank><img height=56 alt=时装周后台名模花絮 src="http://i3.itc.cn/20101203/3ab_4eb8d8a7_f45a_4ae3_b78d_bff223d2edfd_0.jpg" width=88></a> <span><a href="http://jiayingwang.blog.sohu.com/163715443.html" target=_blank>时装周后台名模花絮</a></span></div>
+<div class=artComPhoto><a href="http://xsccmbtt.blog.sohu.com/163685227.html" target=_blank><img height=56 alt=实拍西藏帕里草原美景 src="http://i1.itc.cn/20101203/3ab_4eb8d8a7_f45a_4ae3_b78d_bff223d2edfd_1.jpg" width=88></a> <span><a href="http://xsccmbtt.blog.sohu.com/163685227.html" target=_blank>实拍西藏帕里草原美景</a></span> </div></div>
+<ul class=revoArticleLists>
+<li><a href="http://wuyuesanren.blog.sohu.com/163697284.html " target=_blank>最后流氓悲剧人生</a><br><a href="http://wuyuesanren.blog.sohu.com/ " target=_blank>五岳散人</a></li>
+
+<li><a href="http://vipxueyong.blog.sohu.com/163724419.html " target=_blank>美国议员在办公室里蜗居</a><br><a href="http://vipxueyong.blog.sohu.com/ " target=_blank>薛涌</a></li>
+
+<li><a href="http://cloud19731.blog.sohu.com/163689105.html " target=_blank>北京警方扫黄中一件怪事</a><br><a href="http://cloud19731.blog.sohu.com/" target=_blank>乐云</a></li>
+
+<li><a href="http://hanhaoyue.blog.sohu.com/163688518.html " target=_blank>“蛋形蜗居”该不该被拆</a><br><a href="http://hanhaoyue.blog.sohu.com/ " target=_blank>韩浩月</a></li>
+
+<li><a href="http://bianhongdeng.blog.sohu.com/163692669.html  " target=_blank>跨境抓错人赔偿谁买单</a><br><a href="http://bianhongdeng.blog.sohu.com/ " target=_blank>卞洪登</a></li>
+
+<li><a href="http://shishusi.blog.sohu.com/163680397.html " target=_blank>国企老总怎成“洗澡帝”</a><br><a href="http://shishusi.blog.sohu.com/ " target=_blank>石述思</a></li>
+</ul>
+
+<div class=revoArticlrMore><a href="http://blog.sohu.com/" target=_blank>更多相关文章&gt;&gt;</a></div></div></td>
+<td class="mbody r"></td></tr></tbody>
+<tfoot>
+<tr>
+<td class="mfooter lb"></td>
+<td class="mfooter b"></td>
+<td class="mfooter rb"></td></tr></tfoot></table></div></div>
+</div>
+<!--Ads模块-->
+<div  onmousedown="CA.q('blog_entry_left_ads');">
+<div align="center"><iframe width=160 height=260 marginwidth=0 marginheight=0 hspace=0 frameborder=0 scrolling=no bordercolor=#000000 src=http://images.sohu.com/bill/s2010/yuanma/taobao/201012/motianlou/20101203/1602601203.html></iframe></div>
+
+</div>
+</div>
+
+
+<div class="revoArtRight">
+	
+    <div class="mod">
+    <div class="modFrame">
+    <table cellspacing="0" cellpadding="0" class="modTable">
+     <thead>
+                <tr>
+                  <td class="mheader lt"></td>
+                  <td class="mheader t"><div class="modHeader clearfix">
+                      
+                      
+                     
+                      <div style="" class="modIco"><img src="http://js5.pp.sohu.com.cn/ppp/blog/widgets_v_100427/entries/ico_widget.gif"></div>
+                      <div class="modTitle">日志正文</div>
+                    </div></td>
+                  <td class="mheader rt"></td>
+                </tr>
+              </thead>
+               <tbody>
+                <tr style="display: none;">
+                  <td class="mneck l"></td>
+                  <td class="mneck ec"><div class="modEditCon"></div></td>
+                  <td class="mneck r"></td>
+                </tr>
+                <tr>
+                <td class="mbody l"></td>
+                  <td class="mbody c">
+                  <div class="modCon profile-content">
+<div class="item">
+  <div class="item-top"></div>
+  <div id="entry">
+    <div class="item-title">
+      <h3>在德国严寒中行乞的各色乞丐们
+        
+        <span style="position:absolute; height:0px; width:0px;"><img style="position:absolute; left:50px; top:-40px;" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/stamp_jian.gif" alt="该日志已被收录" title="该日志已被收录" align="absmiddle" /></span>
+        
+      </h3>
+      
+      
+      <div class="item-label">
+
+      <span class="itemOpr"><a onmousedown="CA.q('blog_entryview_share_topright');" href="javascript:void(0);" entryTitle="在德国严寒中行乞的各色乞丐们" data-shareType="31" data-title="#{@entryTitle}" data-url="http://gaizhaohua.blog.sohu.com/163828148.html" data-abstracts="#{#main-content@innerText<51}" data-ext="{v:'1',xpt:'#{$_xpt}'}" onclick="shareIt(this)" style="margin-right:10px;"><img src="http://js2.pp.sohu.com.cn/ppp/blog/styles_ppp/images/btn_share_s2.gif" alt="分享" title="分享" /></a></span><span id="itemId_163828148" class="itemOpr"></span>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="item-body">
+      
+      <div  class="item-title revoArtlabel"><span class="revoLeft">标签：
+        
+         <a href="http://tag.blog.sohu.com/%C6%F2%D8%A4/" target="_blank">乞丐</a>&nbsp;
+        
+         <a href="http://tag.blog.sohu.com/%C2%ED%B6%A1/" target="_blank">马丁</a>&nbsp;
+        
+         <a href="http://tag.blog.sohu.com/%D0%D0%CE%AA%D2%D5%CA%F5/" target="_blank">行为艺术</a>&nbsp;
+        
+         <a href="http://tag.blog.sohu.com/%D0%D0%C6%F2/" target="_blank">行乞</a>&nbsp;
+        
+         <a href="http://tag.blog.sohu.com/%B5%C2%B9%FA/" target="_blank">德国</a>&nbsp;
+        
+        </span>
+        
+        <span class="revoLeft">分类：
+        <a href="http://gaizhaohua.blog.sohu.com/entry/7238144/">杂论</a>
+        </span>
+        
+        <span class="revoRight">2010-12-06 01:16</span></div>
+      
+      <div class="item-content" id="main-content"> <div style="line-height: 160%; font-size: 14px;"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="5">寒冬，零下十度的德国早上，来自罗马尼亚的吉普赛老妇孤独的坐在冰冷的大街角落，眼神迷离的望着行人。她在想什么？是胸前那张照片里的孩子吗？当我往她的纸杯里投完50CENT之后才发现，那也是里面唯一的硬币。</font><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/9/6_12d6e2532a8g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp; 当你完全沉浸在节日的气氛中，兴致勃勃的游逛圣诞市场的时候，很显然你是不会注意到那些边边角角，阴暗的角落里都有什么的。可是如果你真的把视角投向那些地方，你就会发现，你完全乐不起来了。你的心态会完全发生变化，总应该做点什么吧，哎，做点什么呢？</font></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本篇博客不想说什么太多的观点，有些东西需要长篇大论，博客这种东西没法搞。事实上在德国的乞丐几乎没有德国人。基本都是东欧过来的，做乞丐的原因很多，一部分是因为残疾，其他的主要是因为比如工作许可问题，语言问题等等。在德国的乞丐总体上头脑简单，一般不会蒙事，为什么这么说呢？因为很显然啊，他们很多都是年轻人，丝毫也不怎么掩饰，这个在中国肯定是没人给钱的。有人说德国人真的没做乞丐的吗？这个也不绝对，比如有德国年轻人穿着奇装异服成群结队游走于城市之间，浑身也是奇臭无比，他们也靠行乞为生，这种人我们通常称为朋克。</font></p>
+<p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 很多东西千万不要对比，一比你肯定就心态失衡，就如我以前写过一篇</font><font size="5"><font size="5"><a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/158840613.html" target="_blank">在乞丐与富翁之间徘徊------记布达佩斯</a></font>博客一样。大家想想，这个圣诞节是基督教国家最重要的节日，如同我们的春节那样，一个不会德语的欧洲乞丐饥肠辘辘，望着那些圣诞市场中大快朵颐的人们，心里是个什么滋味啊！</font><img src="http://1883.img.pp.sohu.com.cn/images/2010/12/5/23/12/6_12d6e2805a0g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://1863.img.pp.sohu.com.cn/images/2010/12/5/23/9/6_12d6e25517fg215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 他只会说&ldquo;我是斯洛伐克人&rdquo;这一句德语，这人旁边的狗冻得瑟瑟发抖，事实上很多德国人是因为这条狗才给钱的。</font><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/9/6_12d6e25ab7dg215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 老人的牌子上隐隐约约看到饥饿，上帝两字，他的对面就是爆米花店。</font><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/11/6_12d6e26d7e9g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/11/6_12d6e27145cg215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在德国的乞丐通常都跪着行乞，大家应该能知道长时间跪在冰冷的路面上是一种什么感觉吧。</font><img src="http://1863.img.pp.sohu.com.cn/images/2010/12/5/23/9/6_12d6e256edfg215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/9/6_12d6e24d2b5g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/14/6_12d6e29b90dg215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/14/6_12d6e298b86g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://1883.img.pp.sohu.com.cn/images/2010/12/5/23/13/6_12d6e292ea3g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/13/6_12d6e287c70g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我们很多人看了这些画面肯定会说，这些人有什么可怜的。自己不会工作啊！其实真不是这么回事。因为德国对工作资格有很严格的要求，首先就要有工卡，没有的话没人敢用你。你还真就很难找到工作。<br /></font></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 把视角转向圣诞市场上的小商贩和艺人们。其实谁都不容易。如果能帮，还是要帮一把，当然是在自己力所能及的范围内。你见过晚上七八点钟因为5份报纸没卖完，还在大雪中等待的老大娘吗？你见过为了躲避城管，而躲到小角落里卖水果，可生意特别冷淡的小商贩吗？你碰到过在超市中，因为收银员忙的焦头烂额，多找你50块钱的情况吗？为什么不帮一把呢？很多事情对你来说，只是举手之劳而已。</font><img src="http://1863.img.pp.sohu.com.cn/images/2010/12/5/23/14/6_12d6e2960e1g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://1874.img.pp.sohu.com.cn/images/2010/12/5/23/12/6_12d6e27da52g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://1883.img.pp.sohu.com.cn/images/2010/12/5/23/12/6_12d6e27ac96g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/11/6_12d6e2730f5g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://1874.img.pp.sohu.com.cn/images/2010/12/5/23/10/6_12d6e269758g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /><img src="http://1883.img.pp.sohu.com.cn/images/2010/12/5/23/8/6_12d6e24b672g215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 下图的所谓行为艺术，其实仍是一种行乞的手段。在这样的天气下，他们再也无法摆出冷峻的造型。而是不停活动着身子。</font></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 孩子天真的看着，行为艺术者尽量的取悦孩子，眼神的余光却盯着给钱的妈妈。一副有趣的画面。</font><img src="http://1863.img.pp.sohu.com.cn/images/2010/12/5/23/14/6_12d6e29dd7bg215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 刚才提到的，手里举着饥饿牌子的乞丐突然晕倒了，几个人把他架到边上。。。。。。</font><img src="http://511.img.pp.sohu.com.cn/images/2010/12/5/23/14/6_12d6e29f91dg215.jpg" style="display: block; margin: 0px auto 10px; text-align: center;" alt="" border="0" /></p><p><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 下期更新，仍在星期天。主要是我这个周六要考一门重要的闭卷考试。</font></p><h3><font size="5">2010-10-31&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/161878034.html" target="_blank">欧洲中世纪处理尸体的方法很恐怖</a>
+	  
+		<img src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" alt="该日志已被收录" /><br /></font> </h3><h3><font size="5">2010-11-10&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/162364359.html" target="_blank">这里游荡着四十万犹太人的冤魂</a>&nbsp; <br /></font></h3><h3><font size="5">2010-11-26&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/163267130.html" target="_blank">一位以乱伦名义被砍头的皇后</a>
+	  
+		<img src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" alt="该日志已被收录" /></font></h3><h3> </h3><h3> </h3><h3 style="font-weight: normal;"><font size="5">2010-10-28&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/161688001.html" target="_blank">鲁能夺冠，真的有那么不值钱？</a></font></h3><h3 style="font-weight: bold;"><font size="5">&nbsp;2010-08-30&nbsp;|&nbsp;<a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/158840613.html" target="_blank">在乞丐与富翁之间徘徊------记布达佩斯</a></font></h3><h3 style="font-weight: bold;"><font size="5">&nbsp;2010-10-11&nbsp;|&nbsp;<a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/160826059.html" target="_blank">德国红灯区大揭秘</a><span style="font-weight: normal;">
+	  
+		</span><img style="font-weight: normal;" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" alt="该日志已被收录" /></font><font size="5"><span style="font-weight: normal;">&nbsp; </span><a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/150433302.html" target="_blank">巴黎老百姓住的楼房长啥样</a><span style="font-weight: normal;">
+	  
+		</span><img style="font-weight: normal;" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" alt="该日志已被收录" />&nbsp; <a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/160882105.html" target="_blank">在匈牙利想成为百万富翁很容易</a>&nbsp;&nbsp; <a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/160744499.html" target="_blank">你知道哪里的德语最标准吗？</a><span style="font-weight: normal;">&nbsp;&nbsp; </span><a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/160078022.html" target="_blank">在美泉宫里寻找茜茜公主的痕迹</a>&nbsp; <br /></font></h3><h3 style="font-weight: bold;"><font size="5"><a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/159922858.html" target="_blank">&nbsp;中国30年经济高速增长的几个原因</a>&nbsp;&nbsp;&nbsp;&nbsp; <a style="font-weight: normal;" href="http://gaizhaohua.blog.sohu.com/158840613.html" target="_blank"><br /></a></font></h3><h3> </h3><h3> </h3><h3> </h3><h3 style="font-weight: normal;"><font size="5"> </font></h3><h3 style="font-weight: normal;">&nbsp;<font size="5"><a href="http://gaizhaohua.blog.sohu.com/150040421.html" target="_blank">世界上最著名学生监狱解密</a>
+	  
+		<img src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" alt="该日志已被收录" />&nbsp; <br /></font></h3><h3 style="font-weight: normal;"><font size="5"><a href="http://gaizhaohua.blog.sohu.com/149674582.html" target="_blank">你知道世界上最大的花园在哪吗？</a>
+	  
+		<img src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" alt="该日志已被收录" />&nbsp;&nbsp; <br /></font></h3><h3 style="font-weight: normal;"><font size="5">&nbsp;<a href="http://gaizhaohua.blog.sohu.com/149367718.html" target="_blank">梦幻设计------史上最炫的购物中心</a>
+	  
+		<img src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" alt="该日志已被收录" />&nbsp; <br /></font></h3><h3 style="font-weight: normal;"><font size="5">&nbsp;<a href="http://gaizhaohua.blog.sohu.com/149113394.html" target="_blank">德国最&ldquo;恐怖&rdquo;的地铁站在哪？</a>
+	  
+		<img src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" alt="该日志已被收录" /></font></h3><h3 style="font-weight: normal;">&nbsp;</h3><h3 style="font-weight: normal;"><font size="5">2010-04-16&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/148525851.html" target="_blank">波兰高层为什么全部都要去卡廷？</a></font></h3><h3 style="font-weight: normal;"><font size="5">2010-04-13&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/148266321.html" target="_blank">&ldquo;非诚勿扰&rdquo;可以休矣</a></font></h3>
+<h3 style="font-weight: normal; text-align: left;"><font size="5">2010-04-02&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/147471192.html" target="_blank">你知道尼古拉斯凯奇的姥姥家在哪吗？</a></font></h3>
+<h3 style="font-weight: normal; text-align: left;"><font size="5">2010-04-01&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/147390007.html" target="_blank">禁止儿童黄色网页的法律在德国竟然执行不下去</a> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /></font></h3>
+<h3 style="font-weight: normal; text-align: left;"><font size="5">2010-03-29&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/147154676.html" target="_blank">世界上被亲吻最多的女孩在哪？</a> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /></font></h3>
+<h3 style="font-weight: normal; text-align: left;"><font size="5">2010-03-26&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/146966900.html" target="_blank">寻找德国季羡林故居</a></font><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /> <br /></font></h3>
+<h3 style="font-weight: normal; text-align: left;"><font size="5">2010-03-22&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/146611913.html" target="_blank">寻找逝去的历史------看看朱德德国故居的前世今生</a> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /></font><br /></h3>
+<p><font size="5">2010-03-19&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/146401525.html" target="_blank"><font size="5">德国人说的中国苹果是指啥？</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /><br />2010-03-16&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/146136983.html" target="_blank"><font size="5">中国人在德国开的超市里都有啥？</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /></font></p>
+<h3 style="font-weight: normal;"><font size="5">2010-03-12&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/145856955.html" target="_blank"><font size="5">巴黎的自由女神像是原装货吗？</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />2009-09-06&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/131250722.html" target="_blank"><font size="5">他是德国最大的城堡废墟吗?</font></a><font size="5">&nbsp;</font></h3>
+<h3 style="font-weight: normal;"><font size="5">2010-03-11&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/145778089.html" target="_blank"><font size="5">古罗马帝国的欧洲长城长啥样？</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;</font></h3>
+<p><font size="5">2010-03-10&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/145697018.html" target="_blank"><font size="5">中国人怎样才能更有尊严？</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;&nbsp;</font></p>
+<p><font size="5">2010-03-09&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/145614764.html" target="_blank"><font size="5">从大都市中的野鸭群落来看德国人是如何保护环境的</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;&nbsp; </font></p>
+<p><font size="5">2010-03-05&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/145360501.html" target="_blank"><font size="5">真正的木乃伊是这样的</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;&nbsp;&nbsp;</font></p>
+<p><font size="5">&nbsp;2010-03-01&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/145047974.html" target="_blank"><font size="5">实拍法兰克福的吸毒人群</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;&nbsp;</font></p>
+<p><font size="5">&nbsp;2010-02-26&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/144890167.html" target="_blank"><font size="5">当今很多德国人仍住在用积木搭成的房子里</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;&nbsp;</font></p>
+<p><font size="5">2010-02-25&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/144823655.html" target="_blank"><font size="5">鲁能亚冠赢了，那还会降级吗？</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;&nbsp; </font></p>
+<p><font size="5">2010-02-24&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/144755551.html" target="_blank"><font size="5">菜比肉贵，德国冬季蔬菜价格一瞥</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;&nbsp;&nbsp;</font></p>
+<font size="5">&nbsp;2010-02-22&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/144627577.html" target="_blank"><font size="5">中德婚礼的几处大差别</font></a><font size="5"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp; <br />2010-02-14&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/144342808.html" target="_blank"><font size="5">晒晒自己做的春节年夜饭以及成本花销</font></a><font size="5">&nbsp; <br />2010-02-13&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/144314140.html" target="_blank"><font size="5">中西虎话</font></a><font size="5">&nbsp; <br /><font style="font-weight: normal;">2010-02-03&nbsp;|&nbsp;<a href="http://gaizhaohua.blog.sohu.com/143754444.html" target="_blank">一盒德国鸡蛋里的秘密 </a><img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp; <br /></font></font><p><font size="6">我的欧洲旅行笔记：</font><br /><font size="4">&nbsp;2009-03-07&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/111725612.html" target="_blank"><font size="4">林堡的美丽景色</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-03-07&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/111726220.html" target="_blank"><font size="4">小雪过后的富尔达</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-03-09&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/111856931.html" target="_blank"><font size="4">又一处世界文化遗产---施拜尔(SPEYER)大教堂</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-03-21&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/112696317.html" target="_blank"><font size="4">我博客中介绍的第一个大都市--法兰克福(一)</font></a> 
+</p><p><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-03-15&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/112323891.html" target="_blank"><font size="4">访小红帽的故乡,ALSFELD.</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-03-14&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/112229568.html" target="_blank"><font size="4">我见过的最美的德国城堡废墟---AUERBACH SCHLOSS</font></a><font size="4"> </font></p>
+<div><span></span></div>
+<div><span></span></div>
+<p><font size="4">&nbsp;2009-04-20&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/114718037.html" target="_blank"><font size="4">东德第二大城市----莱比锡LEIPZIG</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-04-26&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/115115286.html" target="_blank"><font size="4">莱茵河畔的吕德斯海姆</font></a><font size="4"> </font></p>
+<p><font size="4">&nbsp;2009-04-30&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/115432758.html" target="_blank"><font size="4">蓝色的多瑙河畔的---雷根斯堡(REGENSBURG)</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-05-11&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/116181366.html" target="_blank"><font size="4">天堂还是人间?----记荷兰Keukenhof 郁金香花园 </font></a></p>
+<div><span></span></div>
+<div><font size="4"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;2009-05-12&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/116188487.html" target="_blank"><font size="4">荷兰风车村印象</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-05-20&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/116748467.html" target="_blank"><font size="4">薄雾中的小镇----MILTENBERG</font></a></div>
+<div><font size="4">&nbsp;&nbsp;2009-05-23&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/116986066.html" target="_blank"><font size="4">典型的德国城市-------达姆施达特</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-05-25&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/117094027.html" target="_blank"><font size="4">法兰克福的跳蚤市场</font></a></div>
+<div><font size="4">&nbsp;2009-05-31&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/117503153.html" target="_blank"><font size="4">TAUNUS山中的小村子-----EPPSTEIN</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-06-12&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/118379905.html" target="_blank"><font size="4">科隆的大教堂</font></a><font size="4"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /></font></div>
+<div><font size="4">2009-06-14&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/118563437.html" target="_blank"><font size="4">一个和歌德,马丁路德,巴赫有关的城市(一)</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-06-17&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/118773769.html" target="_blank"><font size="4">我站在布拉格黄昏的广场上</font></a><font size="4"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /></font></div>
+<div><font size="4">&nbsp; 2009-06-20&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/118952400.html" target="_blank"><font size="4">法兰克福最繁华的地方在哪?</font></a><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2009-06-24&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/119275836.html" target="_blank"><font size="4">位于德国心脏的重镇---ERFURT(二)</font></a><font size="4"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /></font></div>
+<div><font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009-06-26&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/119364035.html" target="_blank"><font size="4">寻找凯尔特人的源头-----记陶努斯山</font></a><font size="4"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2009-06-29&nbsp;|&nbsp;</font><a href="http://gaizhaohua.blog.sohu.com/119596335.html" target="_blank"><font size="4">探求德国的古堡-----在乐山(FRIEDBERG)</font></a><font size="4"> <img alt="该日志已被收录" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/ico_jian.gif" /></font></div><p><br /></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></p></div>
+		
+<div id="miniAd" style="display:none;padding-top:20px"></div>
+      <script>
+      	function showMiniAd(){
+      		var vn = "tinfo";
+      		var dataURL = "http://t.sohu.com/third/user.jsp?passport="+window._xpt+"&vn="+vn;
+      		new LinkFile(dataURL, {
+				type: 'script',
+				noCache: false,
+				callBack: {
+					variable: vn,
+					onLoad: function(){
+						var data = eval("(" + vn + ")")
+						if(data != null && data.status == 1){
+							var userLink = data.url;
+							//var userLink = data.icon;
+							$('miniAd').innerHTML = "<font style='font-size:14px;font-weight:bold;color:#e30000;'>我正在玩搜狐微博，快来“关注”我，了解我的最新动态吧。</font><br/><a href='"+userLink+"' target='_blank' onmousedown=\"CA.q('tmini_entry_promotion');\">"+userLink+"</a>";
+							$('miniAd').show();
+						}
+					},
+					onFailure: function(){}
+			}});
+      	}
+      	showMiniAd();
+      	</script>
+		
+		<div >
+		<div class="shareToTblog" style="float:right"><a onmousedown="CA.q('blog_entryview_share_bottomright');" href="javascript:void(0);" entryTitle="在德国严寒中行乞的各色乞丐们" data-shareType="31" data-title="#{@entryTitle}" data-url="http://gaizhaohua.blog.sohu.com/163828148.html" data-abstracts="#{#main-content@innerText<51}" data-ext="{v:'1',xpt:'#{$_xpt}'}"id="shareMenuButton1" onclick="shareTo('mini')">分享到搜狐微博</a></div>
+		</div>
+		
+		<div class="clear"></div>
+       <div class="pn_na">
+                   <div class="previous">
+                   
+                   <div class="previous_txt"></div>
+                   <div class="previous_txt">  </div>
+         </div>
+                   
+                   <div class="next">
+                   <div class="next_txt">下一篇：</div>
+                   <div class="next_txt"><a onmousedown="CA.q('blog_entryview_next');" href="http://gaizhaohua.blog.sohu.com/163417567.html">在德国圣诞市场上体会异国情调 </a></div>
+                  
+                   <div class="next_r"></div>
+                   
+                   </div>
+         </div>
+     
+       <div class="clear"></div>
+      </div>
+      <div class="item-info">
+      <a onmousedown="CA.q('blog_entryview_share_bottom');" href="javascript:void(0);" entryTitle="在德国严寒中行乞的各色乞丐们" data-shareType="31" data-title="#{@entryTitle}" data-url="http://gaizhaohua.blog.sohu.com/163828148.html" data-abstracts="#{#main-content@innerText<51}" data-ext="{v:'1',xpt:'#{$_xpt}'}" onclick="shareIt(this)"><img align="absmiddle" src="http://js2.pp.sohu.com.cn/ppp/images/icons/ico_share2.gif" alt="分享" title="分享" /> 分享</a>&nbsp;|&nbsp; 
+	  	评论&nbsp;(<span>14</span>)&nbsp;|&nbsp;
+		阅读&nbsp;(<span id="itemReadCount_163828148" class="itemReadCount">?</span>) &nbsp;|&nbsp;
+		<a href="#" onclick="Element.toggle('folder0_f'); return false;">固定链接</a>&nbsp;|&nbsp;
+        
+        类别&nbsp;(<a href="http://gaizhaohua.blog.sohu.com/entry/7238144/">杂论</a>)&nbsp;|&nbsp;
+        
+        发表于 01:16 &nbsp;|&nbsp;最后修改于 2010-12-06 05:37
+		</div>
+      
+	  
+		  
+	      <div style="border:1px solid #ccc; padding:5px;background-color: #ffffe1;">该日志已被搜狐博客录用：<a href="http://blog.sohu.com/shehui/" target="_blank">http://blog.sohu.com/shehui/</a></div>
+	      
+    </div>
+
+    <div id="folder0_f" style="display:none;" class="item-infoBox"><span class="item-infoBoxTit"><strong>提示：</strong>“固定链接”为您显示此篇文章的固定不变链接，如果您有还有疑问<a href="/help.html">请点击帮助</a></span><br />
+      链接地址：<a target="_blank" href="http://gaizhaohua.blog.sohu.com/163828148.html">http://gaizhaohua.blog.sohu.com/163828148.html</a> <a href="javascript:var url=window.clipboardData.setData('text','http://gaizhaohua.blog.sohu.com/163828148.html');alert('地址已保存到剪切板。');">复制此地址</a><br />
+    </div>
+  </div>
+  <div id="tagEntryList" style="display:none;"> </div>
+  
+  <div id="entrycommentlist"> <a name="comment"></a>
+    <div id="messageWrapper"></div>
+    <div class="item-title">
+      <h3>评论&nbsp;&nbsp;&nbsp;<img align="absmiddle" class="icon" src="http://js2.pp.sohu.com.cn/ppp/images/icons/ico_question.gif"/>&nbsp;&nbsp;<a href=" http://admin.blog.sohu.com/85634919.html" target=”_blank” style="font-weight: normal;"  onmousedown="CA.a('entry_commemt_first');">想第一时间抢沙发么？</a></h3>
+      <div class="clear"></div>
+    </div>
+    
+   <div style="color:#FF0000;BORDER-RIGHT: #ccc 3px solid; PADDING-RIGHT: 5px; BACKGROUND-POSITION: 7px 10px; BORDER-TOP: #ccc 3px solid; PADDING-LEFT: 24px; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; BORDER-LEFT: #ccc 3px solid; COLOR: #666; PADDING-TOP: 5px; BORDER-BOTTOM: #ccc 3px solid; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #ffffe1">
+<b>友情提示：</b>非http://www.sohu.com为域名的活动均不是搜狐公司组织的活动。如有任何问题，请您联系搜狐公司客服（联系方式请见搜狐网）。请广大用户提高警惕，增强防范意识，谨防上当受骗。
+<script language='JavaScript' type='text/javascript' src='http://images.sohu.com/cs/jsfile/js/lu.js'></script>
+</div>
+    
+    <div id="commentlist">
+      <div style="line-height:100px;">正在读取评论信息...</div>
+    </div>
+    <div class="item-info">
+      <div id="pageText"></div>
+    </div>
+    
+  </div>
+  <div id="tipBoxDiv"></div>
+  <script type="text/javascript">
+var entryId = '163828148';
+var blogId = '15743707';
+
+var pageTextContainer = $('pageText');
+var curPage = 1;
+var itemPerPage = 20;
+var startPage = 1;
+var totalCount = 14;
+var chagePageAction = 'chagePage';
+var jumpAnchor = false;
+var noCache = (location.href.indexOf('?') > 0);
+chagePage();
+
+Entries.insertItemOpr('view');
+Entries.insertItemReadCount('view');
+</script>
+  <a name="commenterror"></a>
+  <div id="errormsgWrapper"></div>
+  <div>
+    
+    
+      
+
+<a name="commentbox" id="commentbox"></a>
+<div class="info-content" id="commentForm">
+  <form name="commentForm" method="post" action="/page/comment.do" onsubmit="return checkCForm()">
+    <input type="hidden" name="entryId" value="163828148" />
+    
+    <input type="hidden" name="blogId" value="15743707" />
+    
+    <input type="hidden" name="parentId" id="parentId"/>
+    <table width="100%" border="0" cellspacing="2" cellpadding="0">
+	  <tr id="aNotice">
+	  	<td colspan="2" style="padding:10px 0;">您还未登录，只能匿名发表评论。或者您可以 <a href="http://blog.sohu.com/login/logon.do">登录</a> 后发表。</td>
+	  </tr>
+      <tr id="aNickname">
+        <td></td>
+        <td><input type="hidden" name="authorName" id="authorName" class="text" value="" size="30" /> <!-- span title="此项必须填写" style="cursor:help">*</span --></td>
+      </tr>
+	  <!-- for olympic -->
+	  <tbody style="display:none">
+      <tr id="aEmail">
+        <td><label for="authorEmail">邮　　箱:</label></td>
+        <td><input type="text" name="authorEmail" id="authorEmail" class="text" value="" size="30" /></td>
+      </tr>
+      <tr id="aSite">
+        <td><label for="authorSite">网站链接:</label></td>
+        <td><input type="text" name="authorSite" id="authorSite" class="text" value="" size="30" /></td>
+      </tr>
+      <tr id="aRemember">
+        <td>&nbsp;</td>
+        <td><label for="rememberme">
+          <input type="checkbox" name="rememberme" id="rememberme" />
+          记住我，下次匿名回复时不用重新输入个人信息</label></td>
+      </tr>
+	  </tbody>
+	  <tr>
+	  	<td>&nbsp;</td>
+		<td height="30" valign="bottom">
+		<!--<a href="http://www.sogou.com/pinyin/redirect.php?pid=27021101" target="_blank" style="margin-left: 10px;">*搜狗拼音输入法，中文处理专家&gt;&gt;</a>-->
+		<!--  a href="http://campus.chinaren.com/s2008/shurufa/index.shtml" target="_blank" style="margin-left: 10px;">*中国人爱国心，搜狗输入法爱国主题皮肤下载&gt;&gt;</a>  -->
+		<a target="_blank" href="http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201011&TargetID=sohu&Values=2f32cc8b,444185ab,2e161120,19265f9c&AdID=33754476">告别单身有绝招，包你找到意中人！</a>|<a target="_blank" href="http://my.tv.sohu.com/u/vw/5059953">超强震撼！宿舍楼大战泡泡龙</a>
+
+		</td>
+	  </tr>
+      <tr>
+        <td valign="top" style="width: 65px;"><label for="commentContent">评论内容:</label></td>
+        <td><textarea id="commentContent" name="commentContent" class="text" style="width:330px;height:140px;float:left;" onfocus="showC_code()"></textarea><div class="comment_bigbutton" style="float:left;margin:2px 0 0 10px;width:160px;height:140px;"><script src="http://www.sohu.com/sohuflash_1.js" type=text/javascript></script>
+<div id=3396d4ccb03f1eb3e241492254f99071></div>
+<script type="text/javascript" >
+var sohuFlash2 = new sohuFlash
+("http://images.sohu.com/bill/s2010/ranzhang/lef/1203/160140.swf","_3396d4ccb03f1eb3e241492254f99071","160","140","7");
+sohuFlash2.addParam("quality", "high");
+sohuFlash2.addParam("wmode", "opaque");
+sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-
+plus.cn/event.ng/Type=click&FlightID=201011&TargetID=sohu&Values=3396d4cc,b03f1eb3,e2414922,54f99071&AdID=32754977"));
+sohuFlash2.write("3396d4ccb03f1eb3e241492254f99071");
+if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image();
+_a.src='http://alpha.brand.sogou.com/brand_pv?md5=3396d4ccb03f1eb3e241492254f99071';document.pv.push(_a);
+_b.src='http://imp.ad-plus.cn/201011/3396d4ccb03f1eb3e241492254f99071.php?a=99';document.pv.push(_b);
+</script>
+</div></td>
+      </tr>
+	  <tr>
+        <td valign="top">表　　情:</td>
+        <td>
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="'+ HMP + 'emote.js"></scr'+'ipt>');
+</script>
+<div id="emotionBox">
+加载中...
+</div>
+<script type="text/javascript">
+var commentContentEl = null;
+function addEmote(ubb) {
+	if (!commentContentEl) commentContentEl = $('commentContent');
+	commentContentEl.value += ' ' + ubb; 
+	commentContentEl.focus();
+}
+Emote.init({parent: 'emotionBox', callback: addEmote, stat: 'reply'});
+</script>
+        </td>
+	  </tr>
+      <tr style="display:none;">
+        <td class="redfont">回复通知:</td>
+        <td><input type="checkbox" id="notifyEle" name="notify" checked="checked" value="true" />同时用小纸条通知对方该回复<span id="notifyLoginTip"></span></td>
+      </tr>
+      <tr>
+        <td class="redfont" id="c_codeTextBox"></td>
+        <td id="c_codeInputBox"></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>
+        <input type="hidden" name="m" value="save" />
+    	<input type="submit" id="commentSubmit" name="submit" value="发 表" class="button-submit" />
+		 </td>
+      </tr>
+    </table>
+  </form>
+</div>
+
+<script type="text/javascript">
+var commentPermission = '2';
+setCPShow();
+// for olympic
+if($('authorSite')){
+	$('authorSite').value = 'http://blog.sohu.com';
+}
+if($('commentContent')){
+	if (haveValue(getCookie('cc'))){
+		$('commentContent').value = unescape(getCookie('cc'));
+		setCookie('cc', '', '', '/', 'blog.sohu.com');
+	}
+}
+
+initCForm();
+
+//if($('emotionBox')){
+//        $('emotionBox').innerHTML = Emotion.getEmotionIcons();
+//        setCmtEmoEvent();
+//}
+</script>
+    
+    
+  </div>
+  <div class="item-bottom"></div>
+</div>
+</div>
+</td>
+ <td class="mbody r"></td>
+</tr>
+</tbody>
+ <tfoot>
+        <tr>
+          <td class="mfooter lb"></td>
+          <td class="mfooter b"></td>
+          <td class="mfooter rb"></td>
+        </tr>
+</tfoot>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="content-bottom"></div>
+<script type="text/javascript">
+// load correlative entry
+var tags = '';
+
+tags = '乞丐 马丁 行为艺术 行乞 德国';
+
+// getEntries: function(element, etags, inNum, outNum, by(system/person))
+//CorEntry.getEntries($('tagEntryList'), tags, 1, 10, 'person');
+// load correlative entry end
+</script>
+
+<link type="text/css" rel="stylesheet" href="http://zt.blog.sohu.com/upload/cj09081817/blog_w.css">
+ <style>
+ *html .fixed-bottom {position:absolute;bottom:auto;top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-parseInt(this.currentStyle.bottom)));}
+ 
+ #popup{
+ position:fixed;
+ _position:absolute;
+ display:none;
+ }
+ </style>
+<div id=popup>
+ <div class=b_w>
+ <div class=bar>
+ <div class=bar01><img alt=博客推荐 src="http://zt.blog.sohu.com/upload/cj09081817/images/bt_01.gif"></div>
+ <div class=bar02><a onmousedown="CA.q('popup_close')" href="javascript:void(0)"><img id=closepopup src="http://zt.blog.sohu.com/upload/cj09081817/images/b_x.gif"></a></div></div>
+ <div class=content_1>
+ <div class=content_2 onmousedown="CA.q('popup_tu')"><a href="http://pp.sohu.com/" target=_blank><img alt=街拍台湾槟榔西施 src="http://i1.itc.cn/20101206/3ab_e9b9eb0f_fa19_4472_ae38_b148af30b56c_0.jpg"></a><br><a href="http://pp.sohu.com/" target=_blank>街拍台湾"槟榔西施"</a></div>
+ <div class=content_3>
+ <p><a onmousedown="CA.q('popup_toutiao')" href="http://blog.sohu.com/" target=_blank>四川道孚草原火灾致22人亡</a></p>
+ <ul onmousedown="CA.q('popup_list1')">
+ <li>·<a href="http://luozhongxustar.blog.sohu.com/163798586.html" target=_blank>罗中旭：火灾中如何逃生</a></li>
+ 
+ <li>·<a href="http://lvqiuluwei.blog.sohu.com/163808519.html" target=_blank>闾丘露薇：网民为何烦周立波</a></li>
+ 
+ <li>·<a href="http://wencaifeng.blog.sohu.com/163791275.html" target=_blank>文裁缝：古代女子选美标准</a></li>
+ 
+ <li>·<a href="http://i.sohu.com/hot/?lk=37485#local" target=_blank>“情色”西江恐怖实拍(图)</a></li>
+ </ul>
+ </div></div>
+ <div class=content_4>
+ <ul onmousedown="CA.q('popup_list2')">
+ <li>·<a href="http://dayashan.blog.sohu.com/163683772.html" target=_blank>副局长坐拥29套房(图)</a> <a href="http://newsliugang.blog.sohu.com/163687305.html" target=_blank>陕西干部送花圈禁超1米</a></li>
+ 
+ <li>·<a href="http://tongkuai.blog.sohu.com/163660204.html" target=_blank>假市长涉黑五年身家千万</a> <a href="http://cn555888.blog.sohu.com/163656144.html" target=_blank>奥迪轿车自燃现场(图)</a></li>
+ 
+ <li></li>
+ </ul>
+ </div></div></div><!-- popup ad end --><script type="text/javascript" src="http://js2.pp.sohu.com.cn/ppp/bms/bms.popup.v.5.js"></script>
+ <script>
+ var popupAd = new bms.popup();
+ popupAd.init('popup','closepopup',false,120,function(){CA.q('popup_show')});
+ setTimeout(popupAd.popupAd,2000);
+ 
+ //window.onload=function(){setTimeout(popupAd.popupAd,500)};
+ </script>
+
+                </div>
+            </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+		
+<div id="footer">
+  <div id="innerFooter">
+	<div id="powered"><a href="http://blog.sohu.com" target="_blank" title="搜狐博客提供技术支持"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/logo_powered.gif" alt="搜狐博客提供技术支持" /></a></div>
+	<div id="contact"><a href="http://q.sohu.com/forum/21" target="_blank">客服留言板</a> | <a href="http://sohucallcenter.blog.sohu.com/" target="_blank">客服博客</a> | <a href="mailto:sohublog@sohu-inc.com">客服邮箱</a> | 24小时客服热线:010-58511234(人工8:00-24:00) | <a href="http://me.sohu.com/online_service.jsp?pid=5" target="_blank">在线客服<img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_onlineservice.gif" alt="在线客服" /></a>
+<script type="text/javascript">
+function writeReport() {
+	if (typeof entryId == 'undefined' || !entryId) return;
+	var url = 'http://act.blog.sohu.com/plus/impeach.jsp?rp='+escape(location.href)+'&p='+escape(getP());
+	var str = '';
+	str += ' | <a href="'+ url +'" target="_blank">举报不良信息</a>';
+	document.write(str);
+}
+writeReport();
+</script>
+	</div>
+	<div id="copyright">Copyright &copy; 2010 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有 </div>
+  </div>
+</div>
+<script type="text/javascript">document.write('<scr'+'ipt type="text/javascript" src="http://js.sohu.com/pv.js" type="text/javascript"></scr'+'ipt>');</script>
+
+
+<!-- sohu im -->
+<script type="text/javascript">
+SohuIM.setCandleMenParam();
+document.write('<scr'+'ipt type="text/javascript" src="http://images.sohu.com/cs/sohuim/xiaozt/version/2.0/js/loader.sohu.js"></scr'+'ipt>');
+</script>
+<!-- sohu im end -->
+<script language="javascript">
+var  _wratingId = '860010-0601020100';
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://js.sohu.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<script type="text/ecmascript">
+function checkLogonUserCount() {
+	if (getCookie('lastdomain') && getCookie('lastdomain') != '') {
+		var _lastdomain = getCookie('lastdomain').split('|')[1];
+		if (_lastdomain) {
+			var _url = 'http://bgt.blog.sohu.com/blogping.gif?sohupp='+ _lastdomain;
+			_url += '&refer='+ escape(document.referrer);
+			_url += '&c='+ timeStamp();
+			if (isLogin()) {
+				_url += '&logon='+ getXP();
+			}
+			document.write('<img src="'+ _url +'" />');
+		}
+	}
+}
+checkLogonUserCount();
+</script>
+
+	</div>
+</div>
+<img src="http://js.pp.sohu.com/ppp/blog/styles/images/spacer.gif" style="display:none" id="spacerImg" />
+<script type="text/javascript">
+Starter.start();
+</script>
+
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="'+SP+'counter.js"></scr'+'ipt>');
+</script>
+
+
+<script type="text/javascript">
+if($('errormsgWrapper')){
+	var err = Info.readInfo(true);
+	if(err){
+		var str = '<div id="errormsg" style="background-color: #ffffe1; border: 2px solid #ccc; color: red; padding: 10px; padding-left: 30px; margin: 20px; background-image:url(http://js.pp.sohu.com/ppp/blog/styles/images/ico_error.gif); background-position: 7px 10px; background-repeat: no-repeat;">';
+		str += err;
+		str += '</div>';
+		$('errormsgWrapper').innerHTML = str;
+		try{flashErr('errormsg');}catch(e){}
+	}
+}
+if($('messageWrapper')){
+	var msg = Info.readInfo(false);
+	if(msg){
+		var str = '<div id="message" style="background-color: #ffffe1; color: 6D6D6D; border: 2px solid #ccc; padding: 10px; padding-left: 30px; margin: 20px; background-image:url(http://js.pp.sohu.com/ppp/blog/styles/images/ico_ok.gif); background-position: 7px 10px; background-repeat: no-repeat;">';
+		str += msg;
+		str += '</div>';
+		$('messageWrapper').innerHTML = str;
+		try{flashMsg('message');}catch(e){}
+	}
+}
+</script>
+
+</body>
+</html>

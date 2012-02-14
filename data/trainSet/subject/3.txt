@@ -1,0 +1,2349 @@
+http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><title>【图】【锋范线上答疑解问】在这里解答任何关于锋范的问题_锋范_广汽本田_品牌论坛_新浪汽车俱乐部_新浪汽车</title>
+<META name="Pragma" value="no-cache" content="no-cache"><meta name="keywords" content="锋范,锋范车友会,锋范俱乐部,锋范社区,汽车论坛广汽本田,广汽本田车友会,广汽本田俱乐部,广汽本田社区,汽车论坛" />
+<meta name="description" content="在线答疑由 北京百旺福瑞汽车销售服务有限公司（广汽本田百旺店）全力支持如果您有任何关于锋范的不解难 ..." />
+
+<meta name="copyright" content="2001-2009 Sina." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<link rel="archives" title="新浪汽车" href="http://bbs.auto.sina.com.cn/23/100/archiver/" />
+<link href="/css/default.css" rel="stylesheet" type="text/css" />
+<link type="text/css" rel="stylesheet" href="/javascript/common.css" />
+<link type="text/css" rel="stylesheet" href="/javascript/common_title.css" />
+<link type="text/css" rel="stylesheet" href="/javascript/common_main.css" />
+
+<link type="text/css" rel="stylesheet" href="/css/style_100.css" />
+
+<style type="text/css">
+<!--
+*{margin:0;padding:0}
+body{background-color:#315DA0;color:#333;font-size:12px;font-family:"宋体";}
+ul,li{list-style:none;margin:0;padding:0}
+select,input{font-size:12px;vertical-align:top}
+img{border:0}
+a{color:#333;text-decoration:none}
+a:hover{color:#f00;text-decoration:underline}
+.fb{font-weight:bold}
+.fr{float:right}
+.pb5{padding-bottom:5px}
+#f_cont{width:678px;margin:0 auto;text-align:left;border:1px solid #b5c5de;padding:10px;}
+#f_cont select.wt{width:200px}
+#f_cont input.submit{background:url(http://bbs.auto.sina.com.cn/images/default/back.png) no-repeat -80px -68px;width:50px;height:26px;cursor:pointer;border:none}
+#f_cont .tt1{background:url(http://bbs.auto.sina.com.cn/images/default/back.png) no-repeat 0 1px;height:35px;padding-left:1px}
+#f_cont .tab1 li{background:url(http://bbs.auto.sina.com.cn/images/default/back.png) no-repeat 0 -69px;width:75px;float:left;height:26px;line-height:26px;text-align:center;cursor:pointer}
+#f_cont .tab1 li.ta{background:#015985;font-weight:bold;color:#FFF}
+#f_cont .tt2{background:url(http://bbs.auto.sina.com.cn/images/default/back.png) no-repeat 0 -37px;height:30px;padding:0 10px;font-weight:bold;line-height:30px}
+#f_cont .cont{padding:10px;color:#285677;line-height:22px;zoom:1;overflow:hidden;clear:both}
+#f_cont .w1 a{margin-right:10px;color:#285677;}
+#f_cont .w2 a{color:#285677;width:80px;float:left}
+#f_cont .cont2{border:1px solid #c0c0c0;zoom:1;overflow:hidden;clear:both}
+#f_cont .tt3{background:url(http://bbs.auto.sina.com.cn/images/default/f_rttback.png) repeat-x;height:24px;line-height:24px;zoom:1;overflow:hidden;clear:both;}
+#f_cont .tt3 .ftxt{width:110px;background:#FFF;float:left;text-align:center;border-right:1px solid #e4e4e4}
+#f_cont .tab2 li{background:url(http://bbs.auto.sina.com.cn/images/default/back.png) no-repeat -134px -69px;width:88px;float:left;height:24px;line-height:24px;text-align:center;cursor:pointer;font-family:"微软雅黑";}
+#f_cont .tab2 li.ta{background:#d40001;font-weight:bold;color:#FFF}
+#f_cont .tt4{background:#f4f4f4;padding:0 10px;border:1px solid #c0c0c0;border-left:none;border-right:none;height:20px;padding:0 10px;color:#d20001;line-height:20px}
+#f_cont .close{margin:5px 10px 0 0}
+.other_form_item{width:120px;float:left;}
+.main{ float:left; width:100%;}
+.mainlist{ float:left;}
+#mainbox{ float:left;}
+.sidebox{ float:right; display:inline;}
+
+-->
+</style>
+
+<script type="text/javascript">var IMGDIR = 'http://bbs.auto.sina.com.cn/images/default';var attackevasive = '0';var gid = 0;gid = parseInt('5');var fid = parseInt('100');var tid = parseInt('1944593');</script>
+<script src="/javascript/common.js" type="text/javascript"></script>
+<script src="/javascript/menu.js" type="text/javascript"></script>
+<script src="/javascript/ajax.js" type="text/javascript"></script>
+<script type="text/javascript">
+function change_nav()
+{
+	var nav = document.getElementById("nav");
+	var main_nav = document.getElementById("ghc_main_nav");
+	if(nav && main_nav)
+	{
+		main_nav.innerHTML = nav.innerHTML;
+		nav.style.display = 'none';
+	}
+}
+</script>
+
+</head>
+<body onkeydown="if(event.keyCode==27) return false;" onload="change_nav()">
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function goTab(num,tab_num,pre) {
+	for(var i=0;i<tab_num;i++){document.getElementById(pre+"_info_1"+i).style.display="none";}
+	for(var i=0;i<tab_num;i++){document.getElementById(pre+"_tab_1"+i).className="tn";}
+	document.getElementById(pre+"_tab_1"+num).className="ta";
+	document.getElementById(pre+"_info_1"+num).style.display="block";
+}
+
+var isIe=(document.all)?true:false;
+
+function showMaskDiv()
+{
+	var bWidth=parseInt(document.documentElement.scrollWidth);
+	var bHeight=parseInt(document.documentElement.scrollHeight);
+	var back=document.createElement("iframe");
+	back.id="back";
+	var styleStr="top:0px;left:0px;position:absolute;background:#181818;width:"+bWidth+"px;height:"+bHeight+"px;";
+	styleStr+=(isIe)?"filter:alpha(opacity=0);":"opacity:0;";
+	back.style.cssText=styleStr;
+	document.body.appendChild(back);
+	showBackground(back,30);
+}
+
+function showBackground(obj,endInt)
+{
+	if(isIe)
+	{
+		obj.filters.alpha.opacity+=30;
+		if(obj.filters.alpha.opacity<endInt)
+		{
+			setTimeout(function()
+			{showBackground(obj,endInt)},30);
+		}
+	}
+	else
+	{
+		var al=parseFloat(obj.style.opacity);al+=0.1;
+		obj.style.opacity=al+0.2;
+		if(al<(endInt/300))
+		{
+			setTimeout(function()
+			{showBackground(obj,endInt)},30);
+		}
+	}
+}
+//关闭遮罩层
+function closeMaskDiv()
+{
+	if(document.getElementById('back')!=null)
+	{
+		document.getElementById('back').parentNode.removeChild(document.getElementById('back'));
+	}
+	if(document.getElementById('mesWindow')!=null)
+	{
+		document.getElementById('mesWindow').parentNode.removeChild(document.getElementById('mesWindow'));
+	}
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//--><!]]>
+</script>
+<div id="f_cont" style="background:#eee;z-index:999;display:none;margin-top: -150px;margin-right: 0px;margin-left: -370px;margin-bottom:0px;position: absolute;left: 52%;top: 30%;width:678px;height:512px;overflow:hidden;border:1px solid #09c;">
+    <div class="tt1">
+	<span class="fr close"><a href="#"><img src="/images/default/close.gif" width="13" height="13" alt="" onclick="closeMaskDiv();document.getElementById('f_cont').style.display='none';return false;"/></a></span>
+	<ul class="tab1">
+            <li class="ta" id="bbs_tab_10" onclick="goTab(0,4,'bbs')">搜索车友会</li>
+            <li id="bbs_tab_11" onclick="goTab(1,4,'bbs')">全部车型</li>
+            <li id="bbs_tab_12" onclick="goTab(2,4,'bbs')">地方车友会</li>
+            <li id="bbs_tab_13" onclick="goTab(3,4,'bbs')">主题论坛</li>
+        </ul>
+    </div>
+    <div id="bbs_info_10">
+	<p class="pb5">
+		<input type="text" id="forumkey" name="forumkey" class="text" size="30" maxlength="40" tabindex="1" value="请输入关键字！" onclick="document.getElementById('forumkey').value='';" onkeypress="if(event.keyCode==13){ajaxget('misc.php?action=searchforum&key='+document.getElementById('forumkey').value, 'searchforum');}" />
+	        <input value="" title="搜索" class="submit" type="button" onclick="ajaxget('misc.php?action=searchforum&key='+document.getElementById('forumkey').value, 'searchforum');"/></p>
+	        <div class="tt2">搜索结果</div>
+	        <div class="cont w1">
+	        	<div id="searchforum" name="searchforum">
+	        	</div>
+	        </div>
+                        <div class="tt2">热门论坛推荐</div>
+      <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/40/105/forum-105-1.html" title="高尔夫车友会" target="_blank">高尔夫车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/40/313/forum-313-1.html" title="大众CC车友会" target="_blank">大众CC车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/267/forum-267-1.html" title="英朗车友会" target="_blank">英朗车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/257/forum-257-1.html" title="切大队车友会" target="_blank">切大队车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/292/forum-292-1.html" title="玛驰车友会" target="_blank">玛驰车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/91/forum-91-1.html" title="伊兰特车友会" target="_blank">伊兰特车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/35/237/forum-237-1.html" title="MG6车友会" target="_blank">MG6车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/23/100/forum-100-1.html" title="锋范车友会" target="_blank">锋范车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/312/forum-312-1.html" title="瑞纳车友会" target="_blank">瑞纳车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/54/forum-54-1.html" title="自驾游" target="_blank">自驾游</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/77/forum-77-1.html" title="汽车时代" target="_blank">汽车时代</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/111/forum-111-1.html" title="车坛八卦" target="_blank">车坛八卦</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/4/forum-4-1.html" title="汽车贴图" target="_blank">汽车贴图</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/56/forum-56-1.html" title="汽车改装" target="_blank">汽车改装</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/302/forum-302-1.html" title="二手车" target="_blank">二手车</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/group-5.html" title="全部车型" target="_blank">全部车型</a></span>
+        </div>
+	</div>
+	<div id="bbs_info_11" class="cont2" style="display:none">
+        <div class="tt3">
+        	<div class="ftxt">请按拼音快速查找</div>
+            <ul class="tab2">
+                <li class="ta" id="cz_tab_10" onMouseOver="goTab(0,5,'cz')">A.B.C.D.F</li>
+                <li id="cz_tab_11" onMouseOver="goTab(1,5,'cz')">G.H.J.K.L</li>
+                <li id="cz_tab_12" onMouseOver="goTab(2,5,'cz')">M.O.P.Q.R</li>
+                <li id="cz_tab_13" onMouseOver="goTab(3,5,'cz')">S.T.V.W</li>
+                <li id="cz_tab_14" onMouseOver="goTab(4,5,'cz')">X.Y.Z</li>
+            </ul>
+    	</div>
+        <div id="cz_info_10">
+            <div class="tt4">A</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/20/180/forum-180-1.html" target="_blank">爱丽舍车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/39/287/forum-287-1.html" target="_blank">奥迪A3车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/39/279/forum-279-1.html" target="_blank">奥迪A4L车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/39/231/forum-231-1.html" target="_blank">奥迪Q5车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/14/156/forum-156-1.html" target="_blank">奥拓车友会</a></span>
+            </div>
+            <div class="tt4">B</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/40/115/forum-115-1.html" target="_blank">宝来车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/112/113/forum-113-1.html" target="_blank">宝马MINI</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/112/258/forum-258-1.html" target="_blank">宝马X系车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/112/310/forum-310-1.html" target="_blank">宝马5系车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/45/244/forum-244-1.html" target="_blank">奔奔车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/254/255/forum-255-1.html" target="_blank">奔驰Smart</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/252/271/forum-271-1.html" target="_blank">奔腾B30</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/254/311/forum-311-1.html" target="_blank">奔驰E级</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/12/96/forum-96-1.html" target="_blank">比亚迪F0</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/12/152/forum-152-1.html" target="_blank">比亚迪F3</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/12/155/forum-155-1.html" target="_blank">比亚迪F6</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/12/153/forum-153-1.html" target="_blank">比亚迪G3</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/12/282/forum-282-1.html" target="_blank">比亚迪M6</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/12/282/forum-282-1.html" target="_blank">比亚迪S6</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/18/168/forum-168-1.html" target="_blank">标致206</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/18/169/forum-169-1.html" target="_blank">标致307</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/18/278/forum-278-1.html" target="_blank">标致408</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/10/88/forum-88-1.html" target="_blank">铂锐</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/212/forum-212-1.html" target="_blank">别克</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/20/176/forum-176-1.html" target="_blank">毕加索</a></span>
+            </div>
+            <div class="tt4">C</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/17/166/forum-166-1.html" target="_blank">CRV车友会</a></span>
+   		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/316/317/forum-317-1.html" target="_blank">传祺车友会</a></span>
+         </div>            
+            <div class="tt4">D</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/268/forum-268-1.html" target="_blank">道奇车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/28/110/forum-110-1.html" target="_blank">帝豪车友会</a></span>
+  		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/40/313/forum-313-1.html" target="_blank">大众cc车友会</a></span>
+          </div>           
+            <div class="tt4">F</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/23/188/forum-188-1.html" target="_blank">飞度车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/41/291/forum-291-1.html" target="_blank">丰田Venza</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/49/294/forum-294-1.html" target="_blank">风神H30车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/49/236/forum-236-1.html" target="_blank">风神S30车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/49/242/forum-242-1.html" target="_blank">风行景逸车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/49/243/forum-243-1.html" target="_blank">风行菱智车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/272/forum-272-1.html" target="_blank">风云车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/23/100/forum-100-1.html" target="_blank">锋范车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/13/73/forum-73-1.html" target="_blank">福克斯车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/42/249/forum-249-1.html" target="_blank">福美来车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/21/99/forum-99-1.html" target="_blank">福瑞迪车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/20/177/forum-177-1.html" target="_blank">富康车友会</a></span>
+            </div>        
+          </div>
+        <div id="cz_info_11" style="display:none">
+        	<div class="tt4">G</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/40/105/forum-105-1.html" target="_blank">高尔夫车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/209/forum-209-1.html" target="_blank">高尔车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/22/185/forum-185-1.html" target="_blank">戈蓝车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/290/forum-290-1.html" target="_blank">GL8</a></span> 
+	            </div>
+        	<div class="tt4">H</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/15/160/forum-160-1.html" target="_blank">哈弗车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/42/248/forum-248-1.html" target="_blank">海马车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/24/192/forum-192-1.html" target="_blank">汉兰达车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/102/forum-102-1.html" target="_blank">昊锐车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/50/259/forum-259-1.html" target="_blank">和悦车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/43/251/forum-251-1.html" target="_blank">红旗车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/41/232/forum-232-1.html" target="_blank">花冠车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/42/250/forum-250-1.html" target="_blank">欢动车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/41/235/forum-235-1.html" target="_blank">皇冠车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/25/forum-25-1.html" target="_blank">河北中兴车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/262/forum-262-1.html" target="_blank">华泰汽车车友会 </a></span> 
+	            </div>
+        	<div class="tt4">J</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/256/forum-256-1.html" target="_blank">Jeep车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/13/71/forum-71-1.html" target="_blank">嘉年华车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/50/295/forum-295-1.html" target="_blank">江淮SUV车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/50/288/forum-288-1.html" target="_blank">江淮悦悦</a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/40/116/forum-116-1.html" target="_blank">捷达车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/211/forum-211-1.html" target="_blank">晶锐车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/15/162/forum-162-1.html" target="_blank">精灵车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/215/forum-215-1.html" target="_blank">景程车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/48/239/forum-239-1.html" target="_blank">竞速车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/103/forum-103-1.html" target="_blank">君威车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/219/forum-219-1.html" target="_blank">君越车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/27/195/forum-195-1.html" target="_blank">骏捷车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/318/forum-318-1.html" target="_blank">甲壳虫车友会 </a></span> 
+	            </div>
+        	<div class="tt4">K</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/217/forum-217-1.html" target="_blank">凯迪拉克车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/24/190/forum-190-1.html" target="_blank">凯美瑞车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/20/178/forum-178-1.html" target="_blank">凯旋车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/214/forum-214-1.html" target="_blank">凯越车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/218/forum-218-1.html" target="_blank">科鲁兹车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/10/87/forum-87-1.html" target="_blank">克莱斯勒300C车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/268/270/forum-270-1.html" target="_blank">酷搏车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/268/269/forum-269-1.html" target="_blank">酷威车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/15/164/forum-164-1.html" target="_blank">酷熊车友会 </a></span> 
+	            </div>
+        	<div class="tt4">L</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/22/186/forum-186-1.html" target="_blank">蓝瑟-菱帅车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/210/forum-210-1.html" target="_blank">朗逸车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/216/forum-216-1.html" target="_blank">乐风-乐骋车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/173/forum-173-1.html" target="_blank">骊威车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/298/299/forum-299-1.html" target="_blank">力帆SUV车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/298/forum-298-1.html" target="_blank">力帆车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/48/forum-48-1.html" target="_blank">莲花车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/309/forum-309-1.html" target="_blank">雷诺车友会 </a></span> 
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/16/165/forum-165-1.html" target="_blank">猎豹车友会 </a></span> 
+	            </div>
+	</div>
+        <div id="cz_info_12" style="display:none">
+        	<div class="tt4">M</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/13/75/forum-75-1.html" target="_blank">马自达2车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/13/76/forum-76-1.html" target="_blank">马自达3车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/44/253/forum-253-1.html" target="_blank">马自达6车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/44/296/forum-296-1.html" target="_blank">马自达8车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/40/107/forum-107-1.html" target="_blank">迈腾车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/28/198/forum-198-1.html" target="_blank">美日车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/13/72/forum-72-1.html" target="_blank">蒙迪欧-致胜车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/35/237/forum-237-1.html" target="_blank">名爵MG6车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/208/forum-208-1.html" target="_blank">明锐车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/292/forum-292-1.html" target="_blank">玛驰车友会 </a></span>
+	            </div>
+      		<div class="tt4">O</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/10/85/forum-85-1.html" target="_blank">欧蓝德车友会 </a></span>
+	            </div>
+      		<div class="tt4">P</div>
+		 <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/108/forum-108-1.html" target="_blank">Polo车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/206/forum-206-1.html" target="_blank">帕萨特车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/29/200/forum-200-1.html" target="_blank">派力奥车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/41/289/forum-289-1.html" target="_blank">普拉多车友会 </a></span>
+	            </div>
+      		<div class="tt4">Q</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/175/forum-175-1.html" target="_blank">奇骏车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/203/forum-203-1.html" target="_blank">奇瑞A1车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/204/forum-204-1.html" target="_blank">奇瑞A3车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/202/forum-202-1.html" target="_blank">奇瑞QQ车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/171/forum-171-1.html" target="_blank">骐达车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/21/184/forum-184-1.html" target="_blank">起亚Soul车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/201/forum-201-1.html" target="_blank">奇瑞车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/257/forum-257-1.html" target="_blank">切诺基车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/28/293/forum-293-1.html" target="_blank">全球鹰车友会 </a></span>
+	            </div>
+      		<div class="tt4">R</div>
+	            <div class="cont w1">
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/41/104/forum-104-1.html" target="_blank">RAV4车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/292/forum-292-1.html" target="_blank">日产March车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/35/273/forum-273-1.html" target="_blank">荣威350车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/35/221/forum-221-1.html" target="_blank">荣威550车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/35/222/forum-222-1.html" target="_blank">荣威750车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/35/277/forum-277-1.html" target="_blank">荣威SUV </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/41/234/forum-234-1.html" target="_blank">锐志车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/274/forum-274-1.html" target="_blank">瑞麒G3车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/275/forum-275-1.html" target="_blank">瑞麒G5车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/281/forum-281-1.html" target="_blank">瑞麒G6车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/117/forum-117-1.html" target="_blank">瑞麒M1车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/265/forum-265-1.html" target="_blank">瑞麒X1车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/50/241/forum-241-1.html" target="_blank">瑞鹰车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/21/285/forum-285-1.html" target="_blank">锐欧车友会 </a></span>
+			<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/312/forum-312-1.html" target="_blank">瑞纳车友会 </a></span>
+	            </div>
+		</div>
+        <div id="cz_info_13" style="display:none">
+        	<div class="tt4">S</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/13/74/forum-74-1.html" target="_blank">S-MAX车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/6/forum-6-1.html" target="_blank">SAAB萨博车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/15/161/forum-161-1.html" target="_blank">赛弗车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/21/181/forum-181-1.html" target="_blank">赛拉图车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/213/forum-213-1.html" target="_blank">赛欧车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/205/forum-205-1.html" target="_blank">桑塔纳车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/21/183/forum-183-1.html" target="_blank">狮跑车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/20/97/forum-97-1.html" target="_blank">世嘉车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/17/106/forum-106-1.html" target="_blank">思铂睿车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/17/167/forum-167-1.html" target="_blank">思域车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/40/114/forum-114-1.html" target="_blank">速腾车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/92/forum-92-1.html" target="_blank">索纳塔车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/37/forum-37-1.html" target="_blank">双龙车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/47/238/forum-238-1.html" target="_blank">森雅车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/14/300/forum-300-1.html" target="_blank">Splash车友会 </a></span>
+            </div>
+        	<div class="tt4">T</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/170/forum-170-1.html" target="_blank">天籁车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/14/159/forum-159-1.html" target="_blank">天语SX4车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/290/forum-290-1.html" target="_blank">通用GL8车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/284/forum-284-1.html" target="_blank">通用Spark车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/50/240/forum-240-1.html" target="_blank">同悦车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/207/forum-207-1.html" target="_blank">途安车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/32/101/forum-101-1.html" target="_blank">途观车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/93/forum-93-1.html" target="_blank">途胜车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/15/305/forum-305-1.html" target="_blank">腾翼C30车友会 </a></span>
+	 </div>
+        	<div class="tt4">V</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/41/291/forum-291-1.html" target="_blank">Venza</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/22/187/forum-187-1.html" target="_blank">V3菱悦车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/9/forum-9-1.html" target="_blank">Volvo车友会 </a></span> </div>
+        	<div class="tt4">W</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/42/280/forum-280-1.html" target="_blank">王子车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/41/233/forum-233-1.html" target="_blank">威驰车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/38/225/forum-225-1.html" target="_blank">威乐车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/31/283/forum-283-1.html" target="_blank">威麟X5车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/38/228/forum-228-1.html" target="_blank">威志车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/38/226/forum-226-1.html" target="_blank">威姿车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/9/297/forum-297-1.html" target="_blank">沃尔沃C30车友会 </a></span>
+            </div>
+		</div>
+        <div id="cz_info_14" style="display:none">
+            <div class="tt4">X</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/38/227/forum-227-1.html" target="_blank">夏利车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/95/forum-95-1.html" target="_blank">现代i30车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/286/forum-286-1.html" target="_blank">现代ix35车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/174/forum-174-1.html" target="_blank">逍客车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/36/223/forum-223-1.html" target="_blank">小贵族车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/38/229/forum-229-1.html" target="_blank">幸福使者车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/28/199/forum-199-1.html" target="_blank">熊猫车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/19/172/forum-172-1.html" target="_blank">轩逸车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/15/163/forum-163-1.html" target="_blank">炫丽车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/34/220/forum-220-1.html" target="_blank">雪佛兰乐驰车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/20/179/forum-179-1.html" target="_blank">雪铁龙C2车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/20/263/forum-263-1.html" target="_blank">雪铁龙C5车友会 </a></span>
+            </div>
+            <div class="tt4">Y</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/23/189/forum-189-1.html" target="_blank">雅阁车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/24/191/forum-191-1.html" target="_blank">雅力士车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/94/forum-94-1.html" target="_blank">雅绅特车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/11/91/forum-91-1.html" target="_blank">伊兰特_悦动车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/33/267/forum-267-1.html" target="_blank">英朗车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/14/158/forum-158-1.html" target="_blank">雨燕车友会 </a></span>
+            </div>
+            <div class="tt4">Z</div>
+            <div class="cont w1">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/45/246/forum-246-1.html" target="_blank">志翔车友会 </a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/27/196/forum-196-1.html" target="_blank">中华车友会 </a></span>
+            </div>
+        </div>
+    </div>
+	<div id="bbs_info_12" style="display:none">
+        <div class="tt2">地方车友会</div>
+    	<div class="cont w2">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/64/129/forum-129-1.html" target="_blank">安徽车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/61/69/forum-69-1.html" target="_blank">北京车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/67/144/forum-144-1.html" target="_blank">重庆车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/63/127/forum-127-1.html" target="_blank">福建车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/66/137/forum-137-1.html" target="_blank">甘肃车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/63/126/forum-126-1.html" target="_blank">广东车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/63/125/forum-125-1.html" target="_blank">广西车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/67/147/forum-147-1.html" target="_blank">贵州车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/63/128/forum-128-1.html" target="_blank">海南车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/61/118/forum-118-1.html" target="_blank">河北车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/65/135/forum-135-1.html" target="_blank">黑龙江车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/64/130/forum-130-1.html" target="_blank">河南车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/64/131/forum-131-1.html" target="_blank">湖北车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/64/133/forum-133-1.html" target="_blank">湖南车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/61/121/forum-121-1.html" target="_blank">内蒙车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/62/123/forum-123-1.html" target="_blank">江苏车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/64/132/forum-132-1.html" target="_blank">江西车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/65/136/forum-136-1.html" target="_blank">吉林车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/65/134/forum-134-1.html" target="_blank">辽宁车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/66/141/forum-141-1.html" target="_blank">宁夏车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/66/138/forum-138-1.html" target="_blank">青海车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/61/120/forum-120-1.html" target="_blank">山西车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/61/119/forum-119-1.html" target="_blank">山东车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/62/122/forum-122-1.html" target="_blank">上海车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/67/145/forum-145-1.html" target="_blank">四川车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/61/70/forum-70-1.html" target="_blank">天津车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/67/148/forum-148-1.html" target="_blank">西藏车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/66/140/forum-140-1.html" target="_blank">新疆车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/67/146/forum-146-1.html" target="_blank">云南车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/62/124/forum-124-1.html" target="_blank">浙江车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/66/139/forum-139-1.html" target="_blank">陕西车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/68/151/forum-151-1.html" target="_blank">台湾车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/68/149/forum-149-1.html" target="_blank">香港车友会</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/68/150/forum-150-1.html" target="_blank">澳门车友会</a></span>
+    	</div>
+ 	</div>
+  	<div id="bbs_info_13" style="display:none">
+        <div class="tt2">主题论坛</div>
+        <div class="cont w2">
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/77/forum-77-1.html" target="_blank">汽车时代</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/264/forum-264-1.html" target="_blank">我为车狂</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/111/forum-111-1.html" target="_blank">车坛八卦</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/4/forum-4-1.html" target="_blank">汽车贴图</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/7/forum-7-1.html" target="_blank">海外车迅</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/8/forum-8-1.html" target="_blank">汽车模型</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/257/forum-257-1.html" target="_blank">越野俱乐部</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/55/forum-55-1.html" target="_blank">汽车养护</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/56/forum-56-1.html" target="_blank">改装一族</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/57/forum-57-1.html" target="_blank">汽车音乐</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/58/forum-58-1.html" target="_blank">摄影俱乐部</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/59/forum-59-1.html" target="_blank">赛车俱乐部</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/54/forum-54-1.html" target="_blank">自驾游</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/53/forum-53-1.html" target="_blank">购车经验</a></span>
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/52/forum-52-1.html" target="_blank">汽车音响</a></span> 
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/302/forum-302-1.html" target="_blank">二手车交易</a></span> 
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/303/forum-303-1.html" target="_blank">汽车用品交易</a></span> 
+		<span class=other_form_item><a href="http://bbs.auto.sina.com.cn/306/forum-306-1.html" target="_blank">体育杂坛</a></span> 
+        </div>
+  	</div>
+</div>
+
+
+<div id="SSOTipsContainer"></div>
+<link href="http://i.sso.sina.com.cn/css/cardtips.css" rel="stylesheet" type="text/css" media="all" />
+<script src="http://i.sso.sina.com.cn/js/cardtips.js" type="text/javascript"></script>
+	<div id="append_parent"></div><div id="ajaxwaitid"></div>
+	<div class="wrap" id="wrap">
+        <!-- 标准二级导航_数码 begin -->
+	<div class="secondaryHeader">
+		<div class="sHBorder">
+			<div class="sHLogo"><span><a href="http://auto.sina.com.cn/" target="_blank"><img src="/images/default/logo.jpg" alt="汽车首页_新浪汽车" /></a></span></div>
+			<div class="sHLinks"><a href="http://auto.sina.com.cn/" target="_blank">新浪汽车</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn/" target="_blank">新浪首页</a></div>
+		</div>
+	</div>
+
+	<!-- 标准二级导航_数码 end -->
+   <!-- 科技频道产品互动社区论坛顶部通栏_兰色 begin -->
+    <div class="nav_wdd">
+        <div class="nav_t_wdd" style="display:none">
+            <span class="fl">
+
+            				            </span><a href="#" target="_blank" class="fr" onclick="showMaskDiv();document.getElementById('f_cont').style.display='block';return false;"><img src="/images/default/qqtlt_wdd.png" alt="去其他汽车论坛" title="去其他汽车论坛"  align="absmiddle" style="margin-top:6px" /></a>
+        </div>
+        <div class="nav_m_wdd">
+
+		
+                        	<span class="fl"> &nbsp; <a href="http://bbs.auto.sina.com.cn/23/100/forum-100-1.html" style="text-decoration:none; color:#fff;">锋范</a> </span>
+           	<ul class="fr">
+                                    	            	<li class="on">社　　区</li>
+            		            			<li onmouseover="this.className='on'" onmouseout="this.className=' '"><a href="/photo.php?fid=100" target="_blank" style="color:#ffffff;">相　　册</a></li>
+            		            	            	            	<li onmouseover="this.className='on'" onmouseout="this.className=' '"><a href="http://data.auto.sina.com.cn/602" target="_blank" style="color:#ffffff;">概　　况</a></li>            	<li onmouseover="this.className='on'" onmouseout="this.className=' '"><a href="http://photo.auto.sina.com.cn/#0_714_1_0_0_0" target="_blank" style="color:#ffffff;">图片视频</a></li>            	<li onmouseover="this.className='on'" onmouseout="this.className=' '"><a href="http://newsearch.auto.sina.com.cn/apps/index.php?mod=auto&act=price&type=search&service=price&query=CITY%B7%E6%B7%B6" target="_blank" style="color:#ffffff;">报　　价</a></li>            	<li onmouseover="this.className='on'" onmouseout="this.className=' '"><a href="http://data.auto.sina.com.cn/car_comment/602" target="_blank" style="color:#ffffff;">口　　碑</a></li>            	                        		<li onmouseover="this.className='on'" onmouseout="this.className=' '"><a href="http://auto.sina.com.cn/usedcar/" target="_blank" style="color:#ffffff;">二 手 车</a></li>
+            	            </ul>
+        </div>
+        <div class="nav_b_wdd">
+        	<span class="fl" id="ghc_main_nav"><a target="_blank" href="http://auto.sina.com.cn/">新浪汽车</a> &raquo;
+            <a href="/" id="forumlist" onmouseover="showMenu(this.id)" target="_blank">新浪汽车论坛</a> &raquo; <a href="/23/forum-23-1.html">广汽本田</a> &raquo; <a href="/23/100/forum-100-1.html">锋范</a> &raquo; 【锋范线上答疑解问】在这里解答任何关于锋范的问题            </span>
+            <div class="fr">
+                            <form action="/search.php" method="get" >
+                    <div class="techForumTopBar_SideBar_Search_01_ipt"><input type="text" id="headersearch" name="srchtxt" maxlength="20" class="techForumTopBar_SideBar_Input_01" value="输入关键字"  style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size:12px;*margin-top:-1px"  onclick="this.value='';chksearchvalue()" onblur="if(this.value==''){this.value='请输入关键字';}" /></div>
+                    <div class="techForumTopBar_SideBar_Search_01_sel">
+                        <select class="techForumTopBar_SideBar_Select_01" name="srchtype" style="disable:none">
+                                <option value="title" selected >标题</option>
+                                <option value="author" >作者</option>
+                                <option value="message" >全文</option>
+                        </select>
+                    </div>
+                    <input type="hidden" value="true" name="searchsubmit">
+                    <input type="hidden" value='1' name='dpc'>
+                    <input type="submit" class="techForumTopBar_SideBar_Submit_01"  onclick="return chksearch();" name="searchsubmit" value="true" />
+                </form>
+                			</div>
+        </div>
+        <div class="nav_r_wdd"></div>
+    </div>
+<style>
+.wrap{padding:0 10px; margin:0 20px;}
+#footer{margin:0 20px;}
+</style>
+	<form id="loginform" name="loginform" method="post" action="/logging.php?action=login&amp;loginsubmit=true">
+
+		<input type="hidden" name="formhash" value="8f2ce556" />
+		<input type="hidden" name="cookietime" value="2592000" />
+		<input type="hidden" name="loginfield" value="username"/>
+		<div class="nav_passport">
+		新浪通行证： <div class="fielduser"><label class="">用户名</div>
+		<input type="text" id="username" name="username" class="nav_input" tabindex="14"  size="15" maxlength="40" value="" autocomplete="off" onClick="this.value = ''" onKeyPress="if((event.keyCode ? event.keyCode : event.charCode) == 9) document.getElementById('password').focus();" onKeyDown="javascript:enter_key(event);"  />
+		<div class="fieldpass"><label class="">密码</label></div>
+		<input type="password" id="password" name="password" size="10" class="nav_input2" tabindex="124" onKeyPress="if((event.keyCode ? event.keyCode : event.charCode) == 13) $('loginform').submit()" />
+		<input type="image" src="images/common0825/thread_login.png" class="nav_login"/><div class="nav_sign"><a href="/member.php?action=lostpasswd">忘记密码</a> | <a href="/register.php">注册</a></div><div class="nav_goto" onClick="showMaskDiv();document.getElementById('f_cont').style.display='block';return false;"><input type="image" src="/images/common0825/gootherbbs.png"></div>
+		</div>
+		<script language="javascript" type="text/javascript">
+			//可复制过去改下下面参数就可以了
+			function initUserName(){
+				passcardOBJ.init(
+					// FlashSoft 注意,最好这个input的autocomplete设定为off
+					// 需要有下拉框的input对象
+					document.getElementById("username"),
+					{
+						// 鼠标经过字体颜色
+						overfcolor: "#666",
+						// 鼠标经过背景颜色
+						overbgcolor: "#d6edfb",
+						// 鼠标离开字体颜色
+						outfcolor: "#000000",
+						// 鼠标离开背景颜色
+						outbgcolor: ""
+					},
+					// 输入完成后,自动需要跳到的input对象[备选]
+					document.getElementById("password"),
+					null,
+					document.getElementById("SSOTipsContainer")
+				);
+			}
+			function   enter_key(evt){
+				if(evt   ==   null){
+					evt   =   window.event;
+				}
+				var   obj   =   evt.srcElement? evt.srcElement:evt.target;
+				var   ele   =   document.loginform["username"].elements;
+				if(evt.keyCode==9){
+					document.getElementById('password').focus();
+				} 
+			}
+			initUserName();
+		</script>	
+	</form>
+<script src="/javascript/viewthread.js" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);</script>
+<div id="foruminfo" style="display:none">
+	<div id="headsearch">
+			</div>
+</div>
+
+<div id="ad_text"></div><div class="pages_btns">
+	<div class="pages"><form><em>共4页</em><strong>1</strong><a href="/23/100/thread-1944593-2-1.html">2</a><a href="/23/100/thread-1944593-3-1.html">3</a><a href="/23/100/thread-1944593-4-1.html">4</a><a href="/23/100/thread-1944593-2-1.html" class="next">下一页</a></form></div>	<span onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu(this.id)" id="newspecial" class="postbtn"><a target="_blank" title="发新话题" href="post.php?action=newthread&amp;fid=100&amp;extra=page%3D1"><img src="images/common0825/newtopic.png" alt="发新话题"></a></span>
+     <a href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;extra=page%3D1"><img src="images/common0825/huifu.png" alt="回复"></a>
+    <!-- <div onmouseover="showMenu(this.id);" style="; width: 50px; border: 1px solid rgb(103, 154, 197); padding: 0pt 9px; margin: -23px 0pt 0pt 200px; line-height: 20px;" class="dropmenu2" id="showdesc">排序方式</div>-->
+    <div class="showsort" style="display:none"><div style="float: left;">排序：</div><div class="showdate">发贴日期</div><div class="showreply">最后回复</div></div>
+</div>
+	<ul class="popupmenu_popup newspecialmenu" id="newspecial_menu" style="display: none">
+		<li><a href="post.php?action=newthread&amp;fid=100&amp;extra=page%3D1" target="_blank">发新话题</a></li>
+		<li class="poll"><a href="post.php?action=newthread&amp;fid=100&amp;extra=page%3D1&amp;special=1" target="_blank">发布投票</a></li>		<li class="reward"><a href="post.php?action=newthread&amp;fid=100&amp;extra=page%3D1&amp;special=3" target="_blank">发布悬赏</a></li>		<li class="activity"><a href="post.php?action=newthread&amp;fid=100&amp;extra=page%3D1&amp;special=4" target="_blank">发布活动</a></li>		<li class="debate"><a href="post.php?action=newthread&amp;fid=100&amp;extra=page%3D1&amp;special=5" target="_blank">发布辩论</a></li>			</ul>
+
+<form method="post" name="modactions">
+	<div class="mainbox viewthread">
+			<span class="headactions">
+        </span>
+
+		<h1>【锋范线上答疑解问】在这里解答任何关于锋范的问题		</h1>
+				<ins>
+									<a href="misc.php?action=viewthreadmod&amp;tid=1944593" title="主题操作记录" target="_blank">本主题由 新浪羊毛 于 2010-11-2 11:53 置顶</a>											</ins>
+							<table id="pid9987788" summary="pid9987788" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1289505681.html" target="_blank" id="userinfo9987788" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)"><b style="color:#FF9900">新浪羊毛 </b>						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9987788_menu" style="display: none; position: absolute; top: 58px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9987788')" onmouseover="showMenu2('userinfo9987788')">
+																				<dl><dt>在线时间</dt><dd>2108 小时&nbsp;</dd><dt>注册时间</dt><dd>2009-6-30&nbsp;</dd><dt>最后登录</dt><dd>2010-12-6&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1289505681" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://cache.mars.sina.com.cn/nd/bbsauto//customavatars/1289505681.gif" width="141" height="94" border="0" alt="" /></div>												<p><em>站长</em></p>								<p>[<em><a href="http://bbs.auto.sina.com.cn/49/forum-49-1.html">东风风神</a></em>]</p>
+															<p>[<em><a href="http://bbs.auto.sina.com.cn/49/236/forum-236-1.html">风神S30</a></em>]</p>
+															<p>[<em><a href="http://bbs.auto.sina.com.cn/49/294/forum-294-1.html">风神H30</a></em>]</p>
+							
+						<!--p><img src="images/default/star_level3.gif" alt="Rank: 9" /><img src="images/default/star_level3.gif" alt="Rank: 9" /><img src="images/default/star_level1.gif" alt="Rank: 9" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>1550&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1289505681">32</a>&nbsp;</dd><dt>里程</dt><dd>2263&nbsp;</dd><dt>新浪币</dt><dd>4605 &nbsp;</dd></dl>																											
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1289505681" target="_blank" id="ajax_uid_9987788" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1289505681&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_0" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1289505681" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9987788" onclick="setcopy('http://bbs.auto.sina.com.cn/thread-1944593-1-1.html#pid9987788', '帖子链接已经复制到剪贴板')">1楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-2 11:20&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1289505681" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_0"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_0"></div><div id="ad_thread4_0"></div>
+																					<h2>【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                                                                                                                                                            <div style="float: right;">该帖被浏览 <span style="color:#990000; font-weight:bold">14,275</span> 次，回复 <span style="color:#990000; font-weight:bold">30</span> 次</div>
+                            																										
+																				       							<div id="postmessage_9987788" class="t_msgfont"><div id="firstpost"><font size="4"><font face="微软雅黑 "><font color="DarkRed">在线答疑由 北京百旺福瑞汽车销售服务有限公司（广汽<a href="http://auto.sina.com.cn/salon/HONDA/HONDA.shtml" title="本田">本田</a>百旺店）全力支持</font><br />
+<br />
+<font color="DarkRed">如果您有任何关于锋范的不解难题，无论是买车用车，都可以回帖发问，我们邀请了4S店的各路专家为您解答。</font><br />
+<br />
+<font color="DarkRed"><strong>提问方式</strong>：直接回复与本贴(本帖严禁无关版聊)</font></font></font><br />
+<br />
+<br />
+本帖会陆续整理大家有代表性的提问，以为更多车主创建一个常见问题数据库。<br />
+<br />
+<font color="DarkOrange"><strong>部分网友问题整理：</strong></font><div class="quote"><h5>引用:</h5><blockquote>问：我的锋范很容易掉漆啊~~~都说是小石子打的...中网和车上总有小块掉漆，头疼啊~~~怎么解决比较好呢~~是用所谓的点漆笔，还是去4S店<br />
+答：如果是很明显 建议保险快到期的时候一次走保险 修好<br />
+如果数量少可以试试用点漆笔 但不知道您的车是什么颜色 如果是纯色漆的话可以 如果不是的话还是建议不要用点漆笔了 会出现漆面颜色不均匀的情况 </blockquote></div><div class="quote"><h5>引用:</h5><blockquote>问：我老婆的锋范启动时候怎么还需要用钥匙开一下拨杆旁边的锁，把档位挂从P到N了才可以启动车子呢？一般的自动波车不是直接可以插钥匙启动了，从P挂到D就可以走了？<br />
+答：首先：自动挡的车只有在P或者N才能启动 ，我不知道您的车是否加了机械式防盗器 如果没有加装 请不要再N档启动 那样不安全 </blockquote></div><div class="quote"><h5>引用:</h5><blockquote>问：FF摇控会失灵，近段时间上车打火时，FF经常会报警，先用遥控开锁的啊，但把锁匙插入钮转时FF报警声就大响，再试两三次又没事了<br />
+答：请问是否加装了防盗器 如果没有加装 那么建议去4S检查 </blockquote></div><div class="quote"><h5>引用:</h5><blockquote>问：我的车被水淹过后，修好后到现在一个月了，老是觉得开空调没有热风，能制冷 ，专家这怎么回事。<br />
+答：打开机器盖子 正前方靠近中控的地方 有2根黑色的皮管 如果开着热风 管式热的 那么就是你车里面的温控开关的问题 </blockquote></div></div><script type="text/javascript">var tagarray = ['汽车社区','<a href="http://auto.sina.com.cn/salon/VOLKSWAGEN/VOLKSWAGEN.shtml" title="大众">大众</a>CC','赛豹','XC90','阳光','君越','发现','<a href="http://auto.sina.com.cn/salon/VOLKSWAGEN/VOLKSWAGEN.shtml" title="大众">大众</a>','<a href="http://auto.sina.com.cn/salon/TOYOTA/TOYOTA.shtml" title="丰田">丰田</a>','高尔夫','<a href="http://auto.sina.com.cn/salon/BMW/BMW.shtml" title="宝马">宝马</a>','迈腾','速腾','凯美瑞','世嘉','夏利','雅阁','<a href="http://auto.sina.com.cn/salon/CHERY/CHERY.shtml" title="奇瑞">奇瑞</a>','精灵','<a href="http://auto.sina.com.cn/salon/VOLKSWAGEN/AUDI.shtml" title="奥迪">奥迪</a>','<a href="http://auto.sina.com.cn/salon/DAIMLERCHRYSLER/BENZ.shtml" title="奔驰">奔驰</a>','上海<a href="http://auto.sina.com.cn/salon/VOLKSWAGEN/VOLKSWAGEN.shtml" title="大众">大众</a>','明锐','途观','君威','朗逸','中华','RAV4','SLS','哈弗','风神','捷达','<a href="http://auto.sina.com.cn/salon/bj-hyundai/bj-hyundai.shtml" title="现代">现代</a>','思域','307','熊猫','天籁','卡罗拉','<a href="http://auto.sina.com.cn/salon/HONDA/HONDA.shtml" title="本田">本田</a>','<a href="http://auto.sina.com.cn/salon/changcheng/index.shtml" title="长城">长城</a>','途安','汉兰达','<a href="http://auto.sina.com.cn/salon/FORD/FORD.shtml" title="福特">福特</a>','福克斯','森雅','<a href="http://auto.sina.com.cn/salon/SHANGHAIGM/index.shtml" title="通用">通用</a>','<a href="http://auto.sina.com.cn/salon/DONGFENG/DONGFENG.shtml" title="东风">东风</a>','<a href="http://auto.sina.com.cn/salon/byd/index.shtml" title="比亚迪">比亚迪</a>','<a href="http://auto.sina.com.cn/salon/VOLKSWAGEN/SKODA.shtml" title="斯柯达">斯柯达</a>','<a href="http://auto.sina.com.cn/salon/JILI/JILI.shtml" title="吉利">吉利</a>','Polo','飞度','骊威','凯越','皇冠','MINI','宝来','嘉年华','JEEP','帕萨特','晶锐','爱丽舍','<a href="http://auto.sina.com.cn/salon/FORD/MAZDA.shtml" title="马自达">马自达</a>','炫丽','<a href="http://auto.sina.com.cn/salon/CHANGAN/CHANGAN.shtml" title="长安">长安</a>','<a href="http://auto.sina.com.cn/salon/PEUGEOT/PEUGEOT.shtml" title="标致">标致</a>','风云','奥拓','轩逸','CRV','<a href="http://auto.sina.com.cn/salon/TOYOTA/TOYOTA.shtml" title="丰田">丰田</a>汽车','伊兰特','逍客','<a href="http://auto.sina.com.cn/salon/RENAULT/NISSAN.shtml" title="日产">日产</a>','<a href="http://auto.sina.com.cn/salon/GM/BUICK.shtml" title="别克">别克</a>','<a href="http://auto.sina.com.cn/salon/FAW/FAW.shtml" title="红旗">红旗</a>','桑塔纳','奇骏','<a href="http://auto.sina.com.cn/salon/PEUGEOT/CITROEN.shtml" title="雪铁龙">雪铁龙</a>','雨燕','睿翼','奔奔','骏捷','新宝来','一汽','景逸','锐志','富康','<a href="http://auto.sina.com.cn/salon/saicmotor/Roewe.shtml" title="荣威">荣威</a>550','207','奥德赛','<a href="http://auto.sina.com.cn/salon/saicmotor/Roewe.shtml" title="荣威">荣威</a>','新赛欧','途胜','一汽大众','悦动','<a href="http://auto.sina.com.cn/salon/MITSUBISHI/MITSUBISHI.shtml" title="三菱">三菱</a>','赛欧','骐达','206'];var tagencarray = ['%C6%FB%B3%B5%C9%E7%C7%F8','%B4%F3%D6%DACC','%C8%FC%B1%AA','XC90','%D1%F4%B9%E2','%BE%FD%D4%BD','%B7%A2%CF%D6','%B4%F3%D6%DA','%B7%E1%CC%EF','%B8%DF%B6%FB%B7%F2','%B1%A6%C2%ED','%C2%F5%CC%DA','%CB%D9%CC%DA','%BF%AD%C3%C0%C8%F0','%CA%C0%BC%CE','%CF%C4%C0%FB','%D1%C5%B8%F3','%C6%E6%C8%F0','%BE%AB%C1%E9','%B0%C2%B5%CF','%B1%BC%B3%DB','%C9%CF%BA%A3%B4%F3%D6%DA','%C3%F7%C8%F1','%CD%BE%B9%DB','%BE%FD%CD%FE','%C0%CA%D2%DD','%D6%D0%BB%AA','RAV4','SLS','%B9%FE%B8%A5','%B7%E7%C9%F1','%BD%DD%B4%EF','%CF%D6%B4%FA','%CB%BC%D3%F2','307','%D0%DC%C3%A8','%CC%EC%F4%A5','%BF%A8%C2%DE%C0%AD','%B1%BE%CC%EF','%B3%A4%B3%C7','%CD%BE%B0%B2','%BA%BA%C0%BC%B4%EF','%B8%A3%CC%D8','%B8%A3%BF%CB%CB%B9','%C9%AD%D1%C5','%CD%A8%D3%C3','%B6%AB%B7%E7','%B1%C8%D1%C7%B5%CF','%CB%B9%BF%C2%B4%EF','%BC%AA%C0%FB','Polo','%B7%C9%B6%C8','%E6%EA%CD%FE','%BF%AD%D4%BD','%BB%CA%B9%DA','MINI','%B1%A6%C0%B4','%BC%CE%C4%EA%BB%AA','JEEP','%C5%C1%C8%F8%CC%D8','%BE%A7%C8%F1','%B0%AE%C0%F6%C9%E1','%C2%ED%D7%D4%B4%EF','%EC%C5%C0%F6','%B3%A4%B0%B2','%B1%EA%D6%C2','%B7%E7%D4%C6','%B0%C2%CD%D8','%D0%F9%D2%DD','CRV','%B7%E1%CC%EF%C6%FB%B3%B5','%D2%C1%C0%BC%CC%D8','%E5%D0%BF%CD','%C8%D5%B2%FA','%B1%F0%BF%CB','%BA%EC%C6%EC','%C9%A3%CB%FE%C4%C9','%C6%E6%BF%A5','%D1%A9%CC%FA%C1%FA','%D3%EA%D1%E0','%EE%A3%D2%ED','%B1%BC%B1%BC','%BF%A5%BD%DD','%D0%C2%B1%A6%C0%B4','%D2%BB%C6%FB','%BE%B0%D2%DD','%C8%F1%D6%BE','%B8%BB%BF%B5','%C8%D9%CD%FE550','207','%B0%C2%B5%C2%C8%FC','%C8%D9%CD%FE','%D0%C2%C8%FC%C5%B7','%CD%BE%CA%A4','%D2%BB%C6%FB%B4%F3%D6%DA','%D4%C3%B6%AF','%C8%FD%C1%E2','%C8%FC%C5%B7','%E6%EB%B4%EF','206'];parsetag();</script></div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9987788"></div>
+							
+						</div>
+                        
+                                                                                                													<div class="signatures" style="maxHeightIE: 1500px;">
+								<a href="http://t.sina.com.cn/1289505681" target="_blank"><img src=http://service.t.sina.com.cn/widget/signature/%E7%BE%8A%E6%AF%9B/7/signature.png></a>							</div>
+												 
+<style>
+	a.ding span{ text-decoration:none; font-size:12px; font-family:"微软雅黑","宋体"; float: left; margin-left:10px;}
+	.bbs_up_bn{ position:relative; background:url(/images/common/newdigg-bg.png) no-repeat 0 0; width:195px; height:51px; cursor:pointer; display:block;}
+	a span.bbs_up{ position:absolute; top:8px; left:25px; color:#D50000; font-weight:700;}
+	a:hover span.bbs_up_bn{ background:url(/images/common/newdigg-bg.png) no-repeat 0 -51px; width:195px; height:51px; cursor:pointer; display:block;}
+	.bbs_up_bar{ position:absolute; top:28px; left:0px; border:1px solid #D50000; width:100px; height:5px; overflow:hidden;}
+	.bbs_up_bar_line{ position:absolute; left:-10px; background-color:#E14F00; height:5px;}
+	.bbs_down_bn{ position:relative; background:url(/images/common/newdigg-bg.png) no-repeat -195px 0; width:195px; height:51px; cursor:pointer; display:block;}
+	a span.bbs_down{ position:absolute; top:8px; left:25px; color:#3980F4; font-weight:700;}
+	a:hover span.bbs_down_bn{ background:url(/images/common/newdigg-bg.png) no-repeat -195px -51px; width:195px; height:51px; cursor:pointer; display:block;}
+	.bbs_down_bar{ position:absolute; top:28px; left:0px; border:1px solid #CFCFCF; width:100px; height:5px; background-color:#E8E8E8;}
+	.bbs_down_bar_line{ position:absolute; left:-10px; background-color:#3980F4; height:5px; overflow:hidden;}
+	.bbs_no{ position:absolute; top:25px; left:110px;}
+	a .bbs_no{ color:#000;}
+	.diggsetup{ position:absolute; top:8px; left:80px; color:#D50000; font-weight:700;}
+	.diggsetup2{ position:absolute; top:8px; left:80px; color:#3980F4; font-weight:700;}
+</style>
+<script type="text/javascript">
+function setlong(){
+	var tu = document.getElementById('diggsetup').innerHTML;
+	var td = document.getElementById('diggsetdown').innerHTML;
+	if(tu=='') tu = 0;
+	if(td=='') td = 0;
+	var ta = parseInt(tu)+ parseInt(td);
+	if(ta == 0){
+		tu=50;td=50;
+		ta=tu+td;
+	}
+	document.getElementById('bbs_up_bar_line').style.width=parseInt(tu*100/ta)+"%";
+	document.getElementById('bbs_up_bar_line_show').innerHTML=parseInt(tu*100/ta)+"%";
+	document.getElementById('bbs_down_bar_line').style.width=parseInt(td*100/ta)+"%";
+	document.getElementById('bbs_down_bar_line_show').innerHTML=parseInt(td*100/ta)+"%";
+	
+}
+</script>
+<div style="position:relative; left:200px;">
+    <a class="ding" href="#" onClick="ajaxget('misc.php?action=digg&act=1&tid=1944593&bbs=1', 'diggsetup','','','','setlong();');return  false;">
+    	<span class="bbs_up_bn">
+        	<span class="bbs_up" style="font-size:14px;">顶一下</span> <span class="diggsetup" id="diggsetup" name="diggsetup"></span>
+            <span class="bbs_up_bar"><span id="bbs_up_bar_line" class="bbs_up_bar_line" style="width:50%;"></span></span>
+            <span class="bbs_no" id="bbs_up_bar_line_show">50%</span>
+        </span>
+    </a>
+    <a class="ding" href="#" onClick="ajaxget('misc.php?action=digg&act=-1&tid=1944593&bbs=1', 'diggsetdown','','','','setlong();');return  false;">
+    	<span class="bbs_down_bn">
+        	<span class="bbs_down" style="font-size:14px;">踩一下 </span><span class="diggsetup" id="diggsetdown" name="diggsetdown"></span>
+            <span class="bbs_down_bar"><span id="bbs_down_bar_line" class="bbs_down_bar_line" style="width:50%;"></span></span>
+            <span class="bbs_no" id="bbs_down_bar_line_show">50%</span>
+        </span>
+    </a>
+    </div>
+<script type="text/javascript">ajaxget('misc.php?action=digg&act=0&tid=1944593&updown=1', 'diggsetup','','','','setlong()');ajaxget('misc.php?action=digg&act=0&tid=1944593&updown=0', 'diggsetdown','','','','setlong()');</script>
+
+
+  
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >		<span style="float:left;">
+		<img src="/images/common/here.gif" alt="本帖地址">http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html
+		</span>
+		                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9987788&amp;page=1" id="ajax_rate_9987788" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9987788&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+													<script src="/javascript/twitter.js" type="text/javascript"></script>
+							<a class="send_vb" href="javascript:send_vb('汽车论坛','【锋范线上答疑解问】在这里解答任何关于锋范的问题','http://www.sinaimg.cn/qc/2009/1201/2009121173335.jpg')">转发至微博</a>
+                            <a href="javascript:void((function(s,d,e){if(/xiaonei\.com/.test(d.location))return;var%20f='http://share.xiaonei.com/share/buttonshare.do?link=',u=d.location,l=d.title,p=[e(u),'&amp;title=',e(l)].join('');function%20a(){if(!window.open([f,p].join(''),'xnshare',['toolbar=0,status=0,resizable=1,width=626,height=436,left=',(s.width-626)/2,',top=',(s.height-436)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent));"><img src="/images/share/renren.gif" alt="分享到人人网" border="0" height="16" width="16" align="absmiddle"></a>
+                            <a href="javascript:d=document;t=d.selection?(d.selection.type!='None'?d.selection.createRange().text:''):(d.getSelection?d.getSelection():'');void(kaixin=window.open('http://www.kaixin001.com/~repaste/repaste.php?&amp;rurl='+escape(d.location.href)+'&amp;rtitle='+escape(d.title)+'&amp;rcontent='+escape(d.title),'kaixin'));kaixin.focus();"><img src="/images/share/kaixin001.gif" alt="分享到开心网" border="0" height="16" width="16" align="absmiddle"></a>&nbsp;
+                            													
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_0"></div>				</div>
+			</td>
+		</tr>
+		</table>
+		</div><div id="ad_interthread">		</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9987896" summary="pid9987896" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1866450644.html" target="_blank" id="userinfo9987896" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)">广汽本田百旺店						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9987896_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9987896')" onmouseover="showMenu2('userinfo9987896')">
+																				<dl><dt>在线时间</dt><dd>18 小时&nbsp;</dd><dt>注册时间</dt><dd>2010-11-2&nbsp;</dd><dt>最后登录</dt><dd>2010-11-27&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1866450644" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://portrait5.sinaimg.cn/1866450644/blog/180" width="141" height="94" border="0" alt="" /></div>												<p><em>普通车迷</em></p>
+						<!--p><img src="images/default/star_level1.gif" alt="Rank: 1" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>17&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1866450644">0</a>&nbsp;</dd><dt>里程</dt><dd>20&nbsp;</dd><dt>新浪币</dt><dd>17 &nbsp;</dd></dl>																																						<p style="color:#666666">
+									来自：																			<a href="http://bbs.auto.sina.com.cn/61/69/forum-69-1.html">[北京]</a>
+																		</p>
+																																<p style="color:#666666">
+									车型：																			<a href="http://bbs.auto.sina.com.cn/23/189/forum-189-1.html">[雅阁]</a>
+																		</p>
+																					
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1866450644" target="_blank" id="ajax_uid_9987896" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1866450644&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_1" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1866450644" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9987896" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9987896', '帖子链接已经复制到剪贴板')">2楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-2 11:35&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1866450644" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_1"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_1"></div><div id="ad_thread4_1"></div>
+																					<h2>Re：【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                            																										
+																				       							<div id="postmessage_9987896" class="t_msgfont">大家好 我是广汽<a href="http://auto.sina.com.cn/salon/HONDA/HONDA.shtml" title="本田">本田</a>百旺店 张辰<br />
+有什么问题 可以在这里直接问我 我会在第一时间答复<br />
+在这里跟大家打个招呼 希望能为大家购车 用车 提供一点帮助<br />
+另外<br />
+广汽<a href="http://auto.sina.com.cn/salon/HONDA/HONDA.shtml" target="_blank"><font color="#006699">本田</font></a>百旺店官方QQ群现已建立 望新老车主踊跃加入<br />
+<br />
+QQ群号码：69573389<br />
+QQ群负责人电话13301205098张辰<br />
+<br />
+[<i> 本帖最后由 广汽<a href="http://auto.sina.com.cn/salon/HONDA/HONDA.shtml" title="本田">本田</a>百旺店 于 2010-11-25 10:45 编辑 </i>]</div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9987896"></div>
+							
+						</div>
+                        
+                                                                                                													<div class="signatures" style="maxHeightIE: 1500px;">
+								广汽本田百旺店销售服务&nbsp;&nbsp;电话13301205098<br />
+地址是：北京市海淀区西北旺镇百旺绿谷汽车园F1地块1号<br />
+							</div>
+												 
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9987896&amp;page=1" id="ajax_rate_9987896" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9987896&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_1"></div>				</div>
+			</td>
+		</tr>
+		</table>
+				</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9987928" summary="pid9987928" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1799741040.html" target="_blank" id="userinfo9987928" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)">都给我肃静						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9987928_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9987928')" onmouseover="showMenu2('userinfo9987928')">
+																				<dl><dt>在线时间</dt><dd>30 小时&nbsp;</dd><dt>注册时间</dt><dd>2010-9-20&nbsp;</dd><dt>最后登录</dt><dd>2010-12-2&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1799741040" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://portrait1.sinaimg.cn/1799741040/blog/180" width="141" height="94" border="0" alt="" /></div>												<p><em>转正车迷</em></p>
+						<!--p><img src="images/default/star_level2.gif" alt="Rank: 2" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>270&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1799741040">1</a>&nbsp;</dd><dt>里程</dt><dd>57&nbsp;</dd><dt>新浪币</dt><dd>309 &nbsp;</dd></dl>																																						<p style="color:#666666">
+									来自：																			<a href="http://bbs.auto.sina.com.cn/66/138/forum-138-1.html">[青海]</a>
+																		</p>
+																																<p style="color:#666666">
+									车型：																			<a href="http://bbs.auto.sina.com.cn/23/100/forum-100-1.html">[锋范]</a>
+																		</p>
+																					
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1799741040" target="_blank" id="ajax_uid_9987928" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1799741040&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_2" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1799741040" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9987928" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9987928', '帖子链接已经复制到剪贴板')">3楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-2 11:42&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1799741040" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_2"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_2"></div><div id="ad_thread4_2"></div>
+																					<h2>Re：【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                            																										
+																				       							<div id="postmessage_9987928" class="t_msgfont">请问，我的锋范很容易掉漆啊~~~都说是小石子打的...中网和车上总有小块掉漆，头疼啊~~~怎么解决比较好呢~~是用所谓的点漆笔，还是去SSSS？</div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9987928"></div>
+							
+						</div>
+                        
+                                                                                                												 
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9987928&amp;page=1" id="ajax_rate_9987928" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9987928&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_2"></div>				</div>
+			</td>
+		</tr>
+		</table>
+				</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9987936" summary="pid9987936" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1866450644.html" target="_blank" id="userinfo9987936" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)">广汽本田百旺店						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9987936_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9987936')" onmouseover="showMenu2('userinfo9987936')">
+																				<dl><dt>在线时间</dt><dd>18 小时&nbsp;</dd><dt>注册时间</dt><dd>2010-11-2&nbsp;</dd><dt>最后登录</dt><dd>2010-11-27&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1866450644" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://portrait5.sinaimg.cn/1866450644/blog/180" width="141" height="94" border="0" alt="" /></div>												<p><em>普通车迷</em></p>
+						<!--p><img src="images/default/star_level1.gif" alt="Rank: 1" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>17&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1866450644">0</a>&nbsp;</dd><dt>里程</dt><dd>20&nbsp;</dd><dt>新浪币</dt><dd>17 &nbsp;</dd></dl>																																						<p style="color:#666666">
+									来自：																			<a href="http://bbs.auto.sina.com.cn/61/69/forum-69-1.html">[北京]</a>
+																		</p>
+																																<p style="color:#666666">
+									车型：																			<a href="http://bbs.auto.sina.com.cn/23/189/forum-189-1.html">[雅阁]</a>
+																		</p>
+																					
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1866450644" target="_blank" id="ajax_uid_9987936" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1866450644&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_3" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1866450644" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9987936" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9987936', '帖子链接已经复制到剪贴板')">4楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-2 11:47&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1866450644" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_3"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_3"></div><div id="ad_thread4_3"></div>
+																					<h2>Re:【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                            																										
+																				       							<div id="postmessage_9987936" class="t_msgfont"><div class="quote"><h5>引用:</h5><blockquote>原帖由 <i>都给我肃静</i> 于 2010-11-2 11:42 发表 <a href="http://bbs.auto.sina.com.cn/23/100/redirect.php?goto=findpost&amp;pid=9987928&amp;ptid=1944593" target="_blank"><img style=\"border:1px solid #000\" src=http://bbs.auto.sina.com.cn/23/100/images/common/back.gif></a><br />
+请问，我的锋范很容易掉漆啊~~~都说是小石子打的...中网和车上总有小块掉漆，头疼啊~~~怎么解决比较好呢~~是用所谓的点漆笔，还是去SSSS？ </blockquote></div>如果是很明显 建议保险快到期的时候一次走保险 修好<br />
+如果数量少可以试试用点漆笔 但不知道您的车是什么颜色 如果是纯色漆的话可以 如果不是的话还是建议不要用点漆笔了 会出现漆面颜色不均匀的情况<br />
+<br />
+[<i> 本帖最后由 广汽<a href="http://auto.sina.com.cn/salon/HONDA/HONDA.shtml" title="本田">本田</a>百旺店 于 2010-11-2 11:49 编辑 </i>]</div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9987936"></div>
+							
+						</div>
+                        
+                                                                                                													<div class="signatures" style="maxHeightIE: 1500px;">
+								广汽本田百旺店销售服务&nbsp;&nbsp;电话13301205098<br />
+地址是：北京市海淀区西北旺镇百旺绿谷汽车园F1地块1号<br />
+							</div>
+												 
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9987936&amp;page=1" id="ajax_rate_9987936" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9987936&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_3"></div>				</div>
+			</td>
+		</tr>
+		</table>
+				</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9988573" summary="pid9988573" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1289505681.html" target="_blank" id="userinfo9988573" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)"><b style="color:#FF9900">新浪羊毛 </b>						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9988573_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9988573')" onmouseover="showMenu2('userinfo9988573')">
+																				<dl><dt>在线时间</dt><dd>2108 小时&nbsp;</dd><dt>注册时间</dt><dd>2009-6-30&nbsp;</dd><dt>最后登录</dt><dd>2010-12-6&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1289505681" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://cache.mars.sina.com.cn/nd/bbsauto//customavatars/1289505681.gif" width="141" height="94" border="0" alt="" /></div>												<p><em>站长</em></p>								<p>[<em><a href="http://bbs.auto.sina.com.cn/49/forum-49-1.html">东风风神</a></em>]</p>
+															<p>[<em><a href="http://bbs.auto.sina.com.cn/49/236/forum-236-1.html">风神S30</a></em>]</p>
+															<p>[<em><a href="http://bbs.auto.sina.com.cn/49/294/forum-294-1.html">风神H30</a></em>]</p>
+							
+						<!--p><img src="images/default/star_level3.gif" alt="Rank: 9" /><img src="images/default/star_level3.gif" alt="Rank: 9" /><img src="images/default/star_level1.gif" alt="Rank: 9" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>1550&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1289505681">32</a>&nbsp;</dd><dt>里程</dt><dd>2263&nbsp;</dd><dt>新浪币</dt><dd>4605 &nbsp;</dd></dl>																											
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1289505681" target="_blank" id="ajax_uid_9988573" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1289505681&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_4" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1289505681" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9988573" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9988573', '帖子链接已经复制到剪贴板')">5楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-2 14:25&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1289505681" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_4"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_4"></div><div id="ad_thread4_4"></div>
+																												                            																										
+													<div class="notice" style="width: 500px">标题：<em>文明发帖 人人有责</em><br/>内容：<em>此帖已被删除，新浪汽车论坛威武</em></div></div>
+										</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9988573&amp;page=1" id="ajax_rate_9988573" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9988573&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_4"></div>				</div>
+			</td>
+		</tr>
+		</table>
+				</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9995447" summary="pid9995447" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1789836152.html" target="_blank" id="userinfo9995447" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)">吧吧吧吧变						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9995447_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9995447')" onmouseover="showMenu2('userinfo9995447')">
+																				<dl><dt>在线时间</dt><dd>50 小时&nbsp;</dd><dt>注册时间</dt><dd>2010-9-2&nbsp;</dd><dt>最后登录</dt><dd>2010-12-1&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1789836152" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://portrait1.sinaimg.cn/1789836152/blog/180" width="141" height="94" border="0" alt="" /></div>												<p><em>转正车迷</em></p>
+						<!--p><img src="images/default/star_level2.gif" alt="Rank: 2" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>721&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1789836152">0</a>&nbsp;</dd><dt>里程</dt><dd>122&nbsp;</dd><dt>新浪币</dt><dd>814 &nbsp;</dd></dl>																																						<p style="color:#666666">
+									来自：																			<a href="http://bbs.auto.sina.com.cn/65/135/forum-135-1.html">[黑龙江]</a>
+																		</p>
+																																<p style="color:#666666">
+									车型：																			<a href="http://bbs.auto.sina.com.cn/23/100/forum-100-1.html">[锋范]</a>
+																		</p>
+																					
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1789836152" target="_blank" id="ajax_uid_9995447" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1789836152&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_5" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1789836152" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9995447" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9995447', '帖子链接已经复制到剪贴板')">6楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-3 15:17&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1789836152" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_5"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_5"></div><div id="ad_thread4_5"></div>
+																					<h2>Re：【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                            																										
+																				       							<div id="postmessage_9995447" class="t_msgfont">你们锋范用的多少号汽油呀<br />
+你们锋范用的多少号汽油呀<br />
+<br />
+93还是97<br />
+<br />
+ <br />
+<br />
+我看锋范发动机压缩比10.4</div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9995447"></div>
+							
+						</div>
+                        
+                                                                                                												 
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9995447&amp;page=1" id="ajax_rate_9995447" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9995447&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_5"></div>				</div>
+			</td>
+		</tr>
+		</table>
+				</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9995457" summary="pid9995457" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1791788674.html" target="_blank" id="userinfo9995457" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)">凹凸MAN						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9995457_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9995457')" onmouseover="showMenu2('userinfo9995457')">
+																				<dl><dt>在线时间</dt><dd>49 小时&nbsp;</dd><dt>注册时间</dt><dd>2010-9-7&nbsp;</dd><dt>最后登录</dt><dd>2010-11-30&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1791788674" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://portrait3.sinaimg.cn/1791788674/blog/180" width="141" height="94" border="0" alt="" /></div>												<p><em>转正车迷</em></p>
+						<!--p><img src="images/default/star_level2.gif" alt="Rank: 2" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>587&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1791788674">0</a>&nbsp;</dd><dt>里程</dt><dd>108&nbsp;</dd><dt>新浪币</dt><dd>747 &nbsp;</dd></dl>																																						<p style="color:#666666">
+									来自：																			<a href="http://bbs.auto.sina.com.cn/61/69/forum-69-1.html">[北京]</a>
+																		</p>
+																																<p style="color:#666666">
+									车型：																			<a href="http://bbs.auto.sina.com.cn/23/100/forum-100-1.html">[锋范]</a>
+																		</p>
+																					
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1791788674" target="_blank" id="ajax_uid_9995457" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1791788674&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_6" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1791788674" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9995457" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9995457', '帖子链接已经复制到剪贴板')">7楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-3 15:19&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1791788674" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_6"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_6"></div><div id="ad_thread4_6"></div>
+																					<h2>Re：【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                            																										
+																				       							<div id="postmessage_9995457" class="t_msgfont">请问，我老婆的锋范启动时候怎么还需要用钥匙开一下拨杆旁边的锁，把档位挂从P到N了才可以启动车子呢？一般的自动波车不是直接可以插钥匙启动了，从P挂到D就可以走了？<br />
+<br />
+ <br />
+<br />
+求解，先谢谢了~~</div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9995457"></div>
+							
+						</div>
+                        
+                                                                                                												 
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9995457&amp;page=1" id="ajax_rate_9995457" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9995457&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_6"></div>				</div>
+			</td>
+		</tr>
+		</table>
+				</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9995550" summary="pid9995550" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1866450644.html" target="_blank" id="userinfo9995550" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)">广汽本田百旺店						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9995550_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9995550')" onmouseover="showMenu2('userinfo9995550')">
+																				<dl><dt>在线时间</dt><dd>18 小时&nbsp;</dd><dt>注册时间</dt><dd>2010-11-2&nbsp;</dd><dt>最后登录</dt><dd>2010-11-27&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1866450644" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://portrait5.sinaimg.cn/1866450644/blog/180" width="141" height="94" border="0" alt="" /></div>												<p><em>普通车迷</em></p>
+						<!--p><img src="images/default/star_level1.gif" alt="Rank: 1" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>17&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1866450644">0</a>&nbsp;</dd><dt>里程</dt><dd>20&nbsp;</dd><dt>新浪币</dt><dd>17 &nbsp;</dd></dl>																																						<p style="color:#666666">
+									来自：																			<a href="http://bbs.auto.sina.com.cn/61/69/forum-69-1.html">[北京]</a>
+																		</p>
+																																<p style="color:#666666">
+									车型：																			<a href="http://bbs.auto.sina.com.cn/23/189/forum-189-1.html">[雅阁]</a>
+																		</p>
+																					
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1866450644" target="_blank" id="ajax_uid_9995550" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1866450644&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_7" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1866450644" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9995550" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9995550', '帖子链接已经复制到剪贴板')">8楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-3 15:44&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1866450644" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_7"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_7"></div><div id="ad_thread4_7"></div>
+																					<h2>Re:【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                            																										
+																				       							<div id="postmessage_9995550" class="t_msgfont"><div class="quote"><h5>引用:</h5><blockquote>原帖由 <i>吧吧吧吧变</i> 于 2010-11-3 15:17 发表 <a href="http://bbs.auto.sina.com.cn/23/100/redirect.php?goto=findpost&amp;pid=9995447&amp;ptid=1944593" target="_blank"><img style=\"border:1px solid #000\" src=http://bbs.auto.sina.com.cn/23/100/images/common/back.gif></a><br />
+你们锋范用的多少号汽油呀<br />
+你们锋范用的多少号汽油呀<br />
+<br />
+93还是97<br />
+<img src="http://www.sinaimg.cn/IT/deco/dzbbs/images/smilies/lang/68.gif" smilieid="246" border="0" alt="" /> <br />
+<br />
+<br />
+我看锋范发动机压缩比10.4 </blockquote></div>厂家说93#或93#以上都可以<br />
+我建议：乙醇汽油97&nbsp; &nbsp;普通汽油93</div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9995550"></div>
+							
+						</div>
+                        
+                                                                                                													<div class="signatures" style="maxHeightIE: 1500px;">
+								广汽本田百旺店销售服务&nbsp;&nbsp;电话13301205098<br />
+地址是：北京市海淀区西北旺镇百旺绿谷汽车园F1地块1号<br />
+							</div>
+												 
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9995550&amp;page=1" id="ajax_rate_9995550" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9995550&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_7"></div>				</div>
+			</td>
+		</tr>
+		</table>
+				</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9995562" summary="pid9995562" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1866450644.html" target="_blank" id="userinfo9995562" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)">广汽本田百旺店						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9995562_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9995562')" onmouseover="showMenu2('userinfo9995562')">
+																				<dl><dt>在线时间</dt><dd>18 小时&nbsp;</dd><dt>注册时间</dt><dd>2010-11-2&nbsp;</dd><dt>最后登录</dt><dd>2010-11-27&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1866450644" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://portrait5.sinaimg.cn/1866450644/blog/180" width="141" height="94" border="0" alt="" /></div>												<p><em>普通车迷</em></p>
+						<!--p><img src="images/default/star_level1.gif" alt="Rank: 1" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>17&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1866450644">0</a>&nbsp;</dd><dt>里程</dt><dd>20&nbsp;</dd><dt>新浪币</dt><dd>17 &nbsp;</dd></dl>																																						<p style="color:#666666">
+									来自：																			<a href="http://bbs.auto.sina.com.cn/61/69/forum-69-1.html">[北京]</a>
+																		</p>
+																																<p style="color:#666666">
+									车型：																			<a href="http://bbs.auto.sina.com.cn/23/189/forum-189-1.html">[雅阁]</a>
+																		</p>
+																					
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1866450644" target="_blank" id="ajax_uid_9995562" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1866450644&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_8" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1866450644" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9995562" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9995562', '帖子链接已经复制到剪贴板')">9楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-3 15:46&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1866450644" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_8"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_8"></div><div id="ad_thread4_8"></div>
+																					<h2>Re:【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                            																										
+																				       							<div id="postmessage_9995562" class="t_msgfont"><div class="quote"><h5>引用:</h5><blockquote>原帖由 <i>凹凸MAN</i> 于 2010-11-3 15:19 发表 <a href="http://bbs.auto.sina.com.cn/23/100/redirect.php?goto=findpost&amp;pid=9995457&amp;ptid=1944593" target="_blank"><img style=\"border:1px solid #000\" src=http://bbs.auto.sina.com.cn/23/100/images/common/back.gif></a><br />
+请问，我老婆的锋范启动时候怎么还需要用钥匙开一下拨杆旁边的锁，把档位挂从P到N了才可以启动车子呢？一般的自动波车不是直接可以插钥匙启动了，从P挂到D就可以走了？<br />
+<br />
+<br />
+<br />
+求解，先谢谢了~~ </blockquote></div>首先：自动挡的车只有在P或者N才能启动 ，我不知道您的车是否加了机械式防盗器 如果没有加装 请不要再N档启动 那样不安全</div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9995562"></div>
+							
+						</div>
+                        
+                                                                                                													<div class="signatures" style="maxHeightIE: 1500px;">
+								广汽本田百旺店销售服务&nbsp;&nbsp;电话13301205098<br />
+地址是：北京市海淀区西北旺镇百旺绿谷汽车园F1地块1号<br />
+							</div>
+												 
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9995562&amp;page=1" id="ajax_rate_9995562" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9995562&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_8"></div>				</div>
+			</td>
+		</tr>
+		</table>
+				</div>
+
+	<div class="mainbox viewthread">
+			<table id="pid9996479" summary="pid9996479" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor"  rowspan="2">
+					 					<cite>
+												<a href="space-uid-1791788674.html" target="_blank" id="userinfo9996479" class="dropmenu" onmouseout="hideMenu2(this.id)" onmouseover="showMenu2(this.id)">凹凸MAN						</a>
+					</cite>
+																		<div class="popupmenu_popup userinfopanel" id="userinfo9996479_menu" style="display: none; position: absolute; top: 27px; left: 6px; z-index: 1;" onmouseout="hideMenu2('userinfo9996479')" onmouseover="showMenu2('userinfo9996479')">
+																				<dl><dt>在线时间</dt><dd>49 小时&nbsp;</dd><dt>注册时间</dt><dd>2010-9-7&nbsp;</dd><dt>最后登录</dt><dd>2010-11-30&nbsp;</dd></dl>
+														<p><a href="space.php?action=viewpro&amp;uid=1791788674" target="_blank">查看详细资料</a></p>
+													</div>
+																		<div class="avatar"><img src="http://portrait3.sinaimg.cn/1791788674/blog/180" width="141" height="94" border="0" alt="" /></div>												<p><em>转正车迷</em></p>
+						<!--p><img src="images/default/star_level2.gif" alt="Rank: 2" /></p-->
+												<dl class="profile" style="margin-bottom:0px;"><dt>帖子</dt><dd>587&nbsp;</dd><dt>精华</dt><dd><a href="digest.php?authorid=1791788674">0</a>&nbsp;</dd><dt>里程</dt><dd>108&nbsp;</dd><dt>新浪币</dt><dd>747 &nbsp;</dd></dl>																																						<p style="color:#666666">
+									来自：																			<a href="http://bbs.auto.sina.com.cn/61/69/forum-69-1.html">[北京]</a>
+																		</p>
+																																<p style="color:#666666">
+									车型：																			<a href="http://bbs.auto.sina.com.cn/23/100/forum-100-1.html">[锋范]</a>
+																		</p>
+																					
+						<ul>
+												<li class="pm"><a href="pm.php?action=send&amp;uid=1791788674" target="_blank" id="ajax_uid_9996479" onclick="ajaxmenu(event, this.id, 9000000, null, 0)">发短消息</a></li>
+						<li class="buddy"><a href="my.php?item=buddylist&amp;newbuddyid=1791788674&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_9" onclick="ajaxmenu(event, this.id, null, 0)">加为好友</a></li>
+
+																					<li class="offline">当前离线
+														</li>
+												<li class="v_b"><a href="http://t.sina.com.cn/1791788674" target="_blank" >Ta的微博</a></li>
+												</ul>
+									</td>
+				<td class="postcontent" >
+
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum9996479" onclick="setcopy('http://bbs.auto.sina.com.cn/23/100/thread-1944593-1-1.html#pid9996479', '帖子链接已经复制到剪贴板')">10楼</strong>
+
+												<span style="float:right">点击楼层复制链接</span>
+						发表于 2010-11-3 17:42&nbsp;																					<a href="viewthread.php?tid=1944593&amp;page=1&amp;authorid=1791788674" rel="nofollow">只看该作者</a>
+																		</div>
+					<div id="ad_thread2_9"></div>					<div class="postmessage defaultpost">
+																		<div id="ad_thread3_9"></div><div id="ad_thread4_9"></div>
+																					<h2>Re:【锋范线上答疑解问】在这里解答任何关于锋范的问题</h2>
+							                            																										
+																				       							<div id="postmessage_9996479" class="t_msgfont"><div class="quote"><h5>引用:</h5><blockquote>原帖由 <i>广汽<a href="http://auto.sina.com.cn/salon/HONDA/HONDA.shtml" title="本田">本田</a>百旺店</i> 于 2010-11-3 15:46 发表 <a href="http://bbs.auto.sina.com.cn/23/100/redirect.php?goto=findpost&amp;pid=9995562&amp;ptid=1944593" target="_blank"><img style=\"border:1px solid #000\" src=http://bbs.auto.sina.com.cn/23/100/images/common/back.gif></a><br />
+<br />
+<br />
+首先：自动挡的车只有在P或者N才能启动 ，我不知道您的车是否加了机械式防盗器 如果没有加装 请不要再N档启动 那样不安全 </blockquote></div>~~P档也无法启动~~必须先用钥匙开排挡旁边的锁眼~~~</div>
+
+							
+							                                                    
+<!--1027-->
+<style>
+.mo{overflow:hidden;zoom:1;}
+.mo_l{ display:inline; float:left; width:355px; margin-right:35px;}
+.mo_r{ display:inline; float:left;width:355px;}
+.zipp_typeBrand2{padding:0!important;border-width:1px}
+.zipp_typeBrand2 table td{border:0!important;padding-bottom:1px!important;}
+.zipp_typeBrand2 table td p{line-height:25px;height:25px; text-align:center; overflow:hidden}
+.typeBrand2{padding-top:10px}
+.typeBrand2 table td{padding:8px 10px;/*border-bottom:1px solid #efefef;*/line-height:20px;text-align:left!important}
+.typeBrand2 table td strong{ padding:5px 20px 5px 0; }
+.typeBrand2 table.i4s strong{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/4s.gif) no-repeat 100% center}
+.typeBrand2 table th{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 100% -318px;padding:7px 0;text-align:center;font-weight:normal;}
+.typeBrand2 table th span{display:block;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 100% -469px;}
+.typeBrand2 b.current{color:#CC0000}
+.typeBrand2 b {font-weight:bold;}
+.titleoverbb1{ border-bottom:1px solid #d3d3d3!important}
+.car_type_c1,.titleover{border:1px solid #ddd;}
+.typeTitle{text-align:right;border:1px solid #fff;border-width:0 1px; border-bottom:1px solid #ddd; background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -254px; height:28px; *height:27px; _height:27px; line-height:27px; padding:0 10px;}
+.typeTitlenobr{ border-bottom:none!important;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -1201px!important}
+.typeTitlenobr b{ height:26px!important; line-height:26px!important}
+.typeTitle strong{float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 0 -45px;padding:5px 0 0 20px; font-size:12px}
+.typeTitle strong a,.typeTitle strong a:hover,.typeTitle strong a:visited{ font-size:14px; text-decoration:none;color:#333}
+.typeTitle span{margin:0 5px;cursor:pointer}
+.typeTitle span:hover{color:#888}
+.typeTitle span.print{background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) no-repeat 52px -94px;padding-right:20px}
+.titleoverbb1 b{display:block;float:left;background:url(http://www.sinaimg.cn/qc/car_new/090825/imgs/icons_new.png) repeat-x 0 -430px;padding:0 10px;border:1px solid #d0d0d0;border-width:0 1px 1px 1px;font-size:14px;font-weight:normal;cursor:pointer;width:70px;text-align:center; font-size:12px; color:#333; position:relative; z-index:99;}
+.titleoverbb1 b.current{font-weight:bold;background-image:none;background-color:#fefefe!important;border-bottom:1px solid #fefefe;margin-bottom:-1px}
+.titleoverbb1 b.firb{ margin-left:20px}
+.titleoverbb1 b.middlenoe{ border-right:none;border-left:none}
+.inImgs_5 ul{ padding:8px;}
+.inImgs_5 li{ line-height:22px;}
+</style>										
+<div class="mo">
+	    </div>
+<!--1027 end-->
+
+							
+															<div id="post_rate_div_9996479"></div>
+							
+						</div>
+                        
+                                                                                                												 
+
+
+
+
+									</div>
+
+			</td>
+		</tr>
+        <tr>
+            <td class="addButton_wdd" >                <a class="pingfen" href="misc.php?action=rate&amp;tid=1944593&amp;pid=9996479&amp;page=1" id="ajax_rate_9996479" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"></a>
+                <a class="shouc"  href="my.php?item=favorites&amp;tid=1944593" id="ajax_favorite" onclick="ajaxmenu(event, this.id, 3000, 0)"></a>
+ 	           <a class="huifu" href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;repquote=9996479&amp;extra=page%3D1&amp;page=1"></a>
+            </td>
+          </tr>
+		<tr>
+			<td class="postauthor">
+
+			</td>
+			<td class="postcontent">
+				<div class="postactions">
+										<p>
+												                                                                                                                                                                                                                                                   
+																																																						<strong onclick="scroll(0,0)" title="顶部">TOP</strong>
+					</p>
+					<div id="ad_thread1_9"></div>				</div>
+			</td>
+		</tr>
+		</table>
+		
+<input type="hidden" name="formhash" value="8f2ce556" />
+</div>
+
+
+</form>
+
+<div class="pages_btns">
+	<div class="pages"><form><em>共4页</em><strong>1</strong><a href="/23/100/thread-1944593-2-1.html">2</a><a href="/23/100/thread-1944593-3-1.html">3</a><a href="/23/100/thread-1944593-4-1.html">4</a><a href="/23/100/thread-1944593-2-1.html" class="next">下一页</a></form></div>	<span onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu(this.id)" id="newspecial" class="postbtn">
+	<a target="_blank" title="发新话题" href="post.php?action=newthread&amp;fid=77&amp;extra=page%3D1"><img src="images/common0825/newtopic.png" alt="发新话题"></a></span>
+	<a href="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;extra=page%3D1"><img src="images/common0825/huifu.png" alt="回复"></a>
+    <!-- <div onmouseover="showMenu(this.id);" style="; width: 50px; border: 1px solid rgb(103, 154, 197); padding: 0pt 9px; margin: -23px 0pt 0pt 200px; line-height: 20px;" class="dropmenu2" id="showdesc">排序方式</div>-->
+</div>
+
+	<script src="/javascript/post.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	var postminchars = parseInt('1');
+	var postmaxchars = parseInt('999999');
+	var disablepostctrl = parseInt('0');
+	function validate(theform) {
+
+                var xmlhttp;
+                var flag = 0;
+                try{
+                        xmlhttp = new XMLHttpRequest();
+
+                }catch(e){
+                        try{
+                        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+                        }catch(e) { }
+                }
+
+                xmlhttp.onreadystatechange = function()
+                {
+                        if(xmlhttp.readyState==4)
+                        {
+                                if(xmlhttp.status==200)
+                                {
+
+                                        var v_html = xmlhttp.responseText;
+
+                                }
+                        }
+
+                }
+
+                var tm = new Date();
+                cgi_prog = "/checklogin.php?" + "tm=" + tm.getTime();
+                //alert(cgi_prog);
+                postdata =  'username=' +  theform.username.value +  "&password=" + theform.password.value;
+                //alert(postdata);
+                xmlhttp.open("POST", cgi_prog, false);
+                xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded")
+                xmlhttp.setRequestHeader("Content-length", postdata.length);
+                xmlhttp.send(postdata);
+                var v_html = xmlhttp.responseText;
+                if(v_html != "OK")
+                {
+			//alert(v_html);
+			theform.username.focus();
+                        return false;
+                }
+
+
+
+		if (theform.message.value == "" && theform.subject.value == "") {
+			alert("请完成标题或内容栏。");
+			theform.message.focus();
+			return false;
+		} else if (theform.subject.value.length > 80) {
+			alert("您的标题超过 80 个字符的限制。");
+			theform.subject.focus();
+			return false;
+		}
+		if (!disablepostctrl && ((postminchars != 0 && theform.message.value.length < postminchars) || (postmaxchars != 0 && theform.message.value.length > postmaxchars))) {
+			alert("您的帖子长度不符合要求。\n\n当前长度: "+theform.message.value.length+" 字节\n系统限制: "+postminchars+" 到 "+postmaxchars+" 字节");
+			return false;
+		}
+		if(!fetchCheckbox('parseurloff')) {
+			theform.message.value = parseurl(theform.message.value, 'bbcode');
+		}
+		theform.replysubmit.disabled = true;
+		return true;
+	}
+	</script>
+	<form method="post" id="postform" action="post.php?action=reply&amp;fid=100&amp;tid=1944593&amp;extra=page%3D1&amp;replysubmit=yes" onSubmit="return validate(this)">
+		<input type="hidden" name="formhash" value="8f2ce556" />
+		<input type="hidden" name="fastreply" value="1" />
+		<div id="quickpost" class="box">
+			<span class="headactions"><a href="member.php?action=credits&amp;view=forum_reply&amp;fid=100" target="_blank"></a></span>
+			<h4>快速回复主题</h4>
+			<div class="postoptions"  style="display:none">
+				<h5>选项</h5>
+				<p><label><input class="checkbox" type="checkbox" name="parseurloff" id="parseurloff" value="1"> 禁用 URL 识别</label></p>
+				<p><label><input class="checkbox" type="checkbox" name="smileyoff" id="smileyoff" value="1"> 禁用 表情</label></p>
+				<p><label><input class="checkbox" type="checkbox" name="bbcodeoff" id="bbcodeoff" value="1"> 禁用 UBB代码</label></p>
+								<p><label><input class="checkbox" type="checkbox" name="usesig" value="1" > 使用个人签名</label></p>
+				<p><label><input class="checkbox" type="checkbox" name="emailnotify" value="1"> 接收新回复邮件通知</label></p>
+			</div>
+			<div class="postform" style="width:90%">
+
+				<br>
+								&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: rgb(0, 90, 255);">您还没有登陆, 请登陆</span> &nbsp;
+				
+								<b>用户名</b><input name="username" size="8" type="text">
+				<b>密  码</b><input name="password" size="8" type="password">
+                
+				<h5><label>标题
+				<input type="text" name="subject" value="Re：【锋范线上答疑解问】在这里解答任何关于锋范的问题" tabindex="5" id="subject" onClick="this.value='';"></label></h5>
+
+				<p><label>内容</label>
+				<textarea rows="7" cols="80" class="autosave" name="message" id="message" onKeyDown="ctlent(event);" tabindex="6" style="background: url(&quot;http://www.sinaimg.cn/dy/pl/deco/post_text_bg.gif&quot;) no-repeat scroll center center transparent;"></textarea>
+				</p>
+							<div class="">
+					<div id="smilieslist"></div>
+					<script type="text/javascript">ajaxget('post.php?action=smilies', 'smilieslist');</script>
+				</div>
+			
+				<p class="btns">
+					<input type="submit" value="发表帖子" name="replysubmit" id="postsubmit" >[完成后可按 Ctrl+Enter 发布]&nbsp;
+				</p>
+			</div>
+			<script type="text/javascript">
+				function setpostpermit(){
+					document.getElementById('postsubmit').style.display = 'block';
+					$('postsubmit').disabled = false;
+				}
+				var textobj = $('message');
+				window.onbeforeunload = function () {saveData(textobj.value)};
+				if(is_ie >= 5 || is_moz >= 2) {
+					lang['post_autosave_none'] = "没有可以恢复的数据！";
+					lang['post_autosave_confirm'] = "此操作将覆盖当前帖子内容，确定要恢复数据吗？";
+				} else {
+					$('restoredata').style.display = 'none';
+				}
+			</script>
+		</div>
+<div class="box_wdd9">
+<div class="boxt_wdd">
+
+	<div class="fl" style="margin-left:20px;display:inline;">
+		<a class="img fl" target="blank" href="http://bbs.auto.sina.com.cn/33/267/thread-2019888-1-1.html"><img width=200 height=100 src="http://cache.mars.sina.com.cn/nd/bbsauto/bbs/adv/leftpic12916162685828.jpg" alt="英朗XT车主微博获奖晒车模" title="英朗XT车主微博获奖晒车模"/></a>	</div>
+	<div class="fl" style="margin-left:20px;width:230px;display:inline;">
+		<ul>
+			<li><a target="_blank" href="http://bbs.auto.sina.com.cn/63/126/thread-2019171-1-1.html">新浪广州车展看展团火热招募</a></li>
+<li><a target="_blank" href="http://bbs.auto.sina.com.cn/334/thread-2019586-1-1.html">多图揭秘美规暴改卡曼S</a></li>
+<li><a target="_blank" href="http://bbs.auto.sina.com.cn/35/237/thread-2019469-1-1.html">玫瑰MG6的九千公里感受</a></li>
+<li><a target="_blank" href="http://bbs.auto.sina.com.cn/334/thread-2019594-1-1.html">秀卡宴的21寸脚与陶瓷刹车盘</a></li>
+<li><a target="_blank" href="http://bbs.auto.sina.com.cn/19/174/thread-2019402-1-1.html">逍客加装行李架和迎宾踏板</a></li>
+		</ul>
+	</div>
+	<div class="fl" style="margin-left:20px;width:230px;display:inline;">
+		<ul>
+			<li><a target="_blank" href="http://bbs.auto.sina.com.cn/22/187/thread-2022400-1-1.html">V3菱悦拉力梦工厂北京站收官之战</a></li>
+<li><a target="_blank" href="http://bbs.auto.sina.com.cn/33/267/thread-2019472-1-1.html">白英朗GT入手10天作业</a></li>
+<li><a target="_blank" href="http://bbs.auto.sina.com.cn/32/207/thread-2019969-1-1.html">北京限制车辆增长政策竞猜</a></li>
+<li><a target="_blank" href="http://blog.sina.com.cn/s/blog_537250090100n5si.html">寻古之旅游巴黎先贤祠</a></li>
+<li><a target="_blank" href="http://blog.sina.com.cn/s/blog_537e9dd70100ntmw.html?tj=1">北京品地道云南菜</a></li>
+	     </ul>
+	</div>
+	<div class="fl">
+		<a class="img fl" target="blank" href="http://bbs.auto.sina.com.cn/photo.php?action=album_lists&fid=4&photoid=2046519&page=1"><img width=200 height=100 src="http://cache.mars.sina.com.cn/nd/bbsauto/bbs/adv/rightpic12916162688716.jpg" alt="拜金女马诺强势性感回击" title="拜金女马诺强势性感回击"/></a> 
+	</div>	
+        <div class="spacer"></div>
+</div>
+</div>
+<div class="clearit"></div>
+
+
+
+      <div class="box_wdd" style="width:900px">			<div class="fl" style="margin-right:10px;width:140px; ">
+			<table width="100%" style="border:1px solid #CCCCCC; background-color:#FFFFFF;">
+			<tbody>
+			<tr><td height="110px" style="text-align: center; vertical-align:middle !important;"><a href="/23/100/thread-1964567-1-1.html" target="_blank" style="display:block"><img class="forum_img_auto"  src="http://ss1.sinaimg.cn/small/6e55aea0494c033f4cb42" alt="一座去了就不想离开的水乡——携女友开锋范乌镇游" title="一座去了就不想离开的水乡——携女友开锋范乌镇游"  width="130" height="100" onload="DrawImage(this, this.width, this.height);"/></a></td>
+			</tr>
+			</tbody>
+			</table>
+			<p style="text-align:center; padding-top:10px;"><a target="_blank" href="/23/100/thread-1964567-1-1.html">一座去了就不想离开的</a></p>
+			</div>
+						<div class="fl" style="margin-right:10px;width:140px; ">
+			<table width="100%" style="border:1px solid #CCCCCC; background-color:#FFFFFF;">
+			<tbody>
+			<tr><td height="110px" style="text-align: center; vertical-align:middle !important;"><a href="/23/100/thread-1953790-1-1.html" target="_blank" style="display:block"><img class="forum_img_auto"  src="http://ss14.sinaimg.cn/small/66ba21ed4948066feca9e" alt="新浪锋行天下天津锋范车友会一周年的生日聚会" title="新浪锋行天下天津锋范车友会一周年的生日聚会"  width="130" height="100" onload="DrawImage(this, this.width, this.height);"/></a></td>
+			</tr>
+			</tbody>
+			</table>
+			<p style="text-align:center; padding-top:10px;"><a target="_blank" href="/23/100/thread-1953790-1-1.html">新浪锋行天下天津锋范</a></p>
+			</div>
+						<div class="fl" style="margin-right:10px;width:140px; ">
+			<table width="100%" style="border:1px solid #CCCCCC; background-color:#FFFFFF;">
+			<tbody>
+			<tr><td height="110px" style="text-align: center; vertical-align:middle !important;"><a href="/23/100/thread-1933320-1-1.html" target="_blank" style="display:block"><img class="forum_img_auto"  src="http://ss2.sinaimg.cn/small/697d5771494c0c099c865" alt="一直在折腾，从未间断过，改啊改~~" title="一直在折腾，从未间断过，改啊改~~"  width="130" height="100" onload="DrawImage(this, this.width, this.height);"/></a></td>
+			</tr>
+			</tbody>
+			</table>
+			<p style="text-align:center; padding-top:10px;"><a target="_blank" href="/23/100/thread-1933320-1-1.html">一直在折腾，从未间断</a></p>
+			</div>
+						<div class="fl" style="margin-right:10px;width:140px; ">
+			<table width="100%" style="border:1px solid #CCCCCC; background-color:#FFFFFF;">
+			<tbody>
+			<tr><td height="110px" style="text-align: center; vertical-align:middle !important;"><a href="http://bbs.auto.sina.com.cn/112/thread-2022200-1-1.html" target="_blank" style="display:block"><img class="forum_img_auto"  src="http://ss8.sinaimg.cn/small/4dddabf7496b50c8c9b5e" alt="宝马杯高球中国区决赛" title="宝马杯高球中国区决赛"  width="130" height="100" onload="DrawImage(this, this.width, this.height);"/></a></td>
+			</tr>
+			</tbody>
+			</table>
+			<p style="text-align:center; padding-top:10px;"><a target="_blank" href="http://bbs.auto.sina.com.cn/112/thread-2022200-1-1.html">宝马杯高球中国区决赛</a></p>
+			</div>
+						<div class="fl" style="margin-right:10px;width:140px; ">
+			<table width="100%" style="border:1px solid #CCCCCC; background-color:#FFFFFF;">
+			<tbody>
+			<tr><td height="110px" style="text-align: center; vertical-align:middle !important;"><a href="http://blog.sina.com.cn/s/blog_5e1eb6a90100mqda.html?tj=1" target="_blank" style="display:block"><img class="forum_img_auto"  src="http://ss8.sinaimg.cn/small/4dddabf7496b50c95e15b" alt="看曲线毕露的湿身尤物" title="看曲线毕露的湿身尤物"  width="130" height="100" onload="DrawImage(this, this.width, this.height);"/></a></td>
+			</tr>
+			</tbody>
+			</table>
+			<p style="text-align:center; padding-top:10px;"><a target="_blank" href="http://blog.sina.com.cn/s/blog_5e1eb6a90100mqda.html?tj=1">看曲线毕露的湿身尤物</a></p>
+			</div>
+						<div class="fl" style="margin-right:10px;width:140px; ">
+			<table width="100%" style="border:1px solid #CCCCCC; background-color:#FFFFFF;">
+			<tbody>
+			<tr><td height="110px" style="text-align: center; vertical-align:middle !important;"><a href="http://bbs.auto.sina.com.cn/33/267/thread-2019472-1-1.html" target="_blank" style="display:block"><img class="forum_img_auto"  src="http://ss8.sinaimg.cn/small/4dddabf7496b50cb080cb" alt="白英朗GT入手10天作业" title="白英朗GT入手10天作业"  width="130" height="100" onload="DrawImage(this, this.width, this.height);"/></a></td>
+			</tr>
+			</tbody>
+			</table>
+			<p style="text-align:center; padding-top:10px;"><a target="_blank" href="http://bbs.auto.sina.com.cn/33/267/thread-2019472-1-1.html">白英朗GT入手10天作业</a></p>
+			</div>
+			    </div>
+</form>
+<div class="clearit"></div>
+</div>
+	<div class="popupmenu_popup" id="forumlist_menu" style="display: none">
+		<dl><dt><a href="index.php?gid=3">汽车文化</a></dt><dd><ul><li><a href="/77/forum-77-1.html">汽车时代</a></li><li><a href="/4/forum-4-1.html">汽车贴图</a></li><li><a href="/264/forum-264-1.html">我为车狂</a></li><li><a href="/111/forum-111-1.html">车坛八卦</a></li><li><a href="/7/forum-7-1.html">海外车讯</a></li><li><a href="/8/forum-8-1.html">汽车模型</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=5">汽车品牌</a></dt><dd><ul><li><a href="/112/forum-112-1.html">宝马</a></li><li class="sub"><a href="/112/113/forum-113-1.html">MINI</a></li><li class="sub"><a href="/112/258/forum-258-1.html">宝马X系</a></li><li class="sub"><a href="/112/310/forum-310-1.html">宝马5系</a></li><li><a href="/333/forum-333-1.html">斯巴鲁</a></li><li><a href="/334/forum-334-1.html">保时捷</a></li><li><a href="/335/forum-335-1.html">雷克萨斯</a></li><li><a href="/336/forum-336-1.html">讴歌</a></li><li><a href="/337/forum-337-1.html">英菲尼迪</a></li><li><a href="/12/forum-12-1.html">比亚迪</a></li><li class="sub"><a href="/12/96/forum-96-1.html">F0</a></li><li class="sub"><a href="/12/152/forum-152-1.html">F3</a></li><li class="sub"><a href="/12/153/forum-153-1.html">G3(F5)</a></li><li class="sub"><a href="/12/155/forum-155-1.html">F6</a></li><li class="sub"><a href="/12/276/forum-276-1.html">S6</a></li><li class="sub"><a href="/12/282/forum-282-1.html">M6</a></li><li><a href="/254/forum-254-1.html">奔驰</a></li><li class="sub"><a href="/254/255/forum-255-1.html">Smart</a></li><li class="sub"><a href="/254/311/forum-311-1.html">奔驰E级</a></li><li><a href="/10/forum-10-1.html">奔驰-戴克</a></li><li class="sub"><a href="/10/85/forum-85-1.html">欧蓝德</a></li><li class="sub"><a href="/10/87/forum-87-1.html">克莱斯勒300C</a></li><li class="sub"><a href="/10/88/forum-88-1.html">铂锐</a></li><li><a href="/11/forum-11-1.html">北京现代</a></li><li class="sub"><a href="/11/91/forum-91-1.html">伊兰特_悦动</a></li><li class="sub"><a href="/11/92/forum-92-1.html">索纳塔</a></li><li class="sub"><a href="/11/93/forum-93-1.html">途胜</a></li><li class="sub"><a href="/11/94/forum-94-1.html">雅绅特</a></li><li class="sub"><a href="/11/95/forum-95-1.html">i30</a></li><li class="sub"><a href="/11/286/forum-286-1.html">ix35</a></li><li class="sub"><a href="/11/312/forum-312-1.html">瑞纳</a></li><li><a href="/45/forum-45-1.html">长安汽车</a></li><li class="sub"><a href="/45/244/forum-244-1.html">奔奔</a></li><li class="sub"><a href="/45/246/forum-246-1.html">志翔</a></li><li class="sub"><a href="/45/247/forum-247-1.html">悦翔</a></li><li class="sub"><a href="/45/320/forum-320-1.html">长安CX20</a></li><li><a href="/15/forum-15-1.html">长城汽车</a></li><li class="sub"><a href="/15/160/forum-160-1.html">哈弗M2</a></li><li class="sub"><a href="/15/161/forum-161-1.html">赛弗</a></li><li class="sub"><a href="/15/162/forum-162-1.html">精灵</a></li><li class="sub"><a href="/15/163/forum-163-1.html">炫丽</a></li><li class="sub"><a href="/15/164/forum-164-1.html">酷熊</a></li><li class="sub"><a href="/15/266/forum-266-1.html">凌傲</a></li><li class="sub"><a href="/15/305/forum-305-1.html">腾翼C30</a></li><li><a href="/13/forum-13-1.html">长安福特</a></li><li class="sub"><a href="/13/71/forum-71-1.html">嘉年华</a></li><li class="sub"><a href="/13/72/forum-72-1.html">蒙迪欧-致胜</a></li><li class="sub"><a href="/13/73/forum-73-1.html">福克斯</a></li><li class="sub"><a href="/13/74/forum-74-1.html">S-MAX</a></li><li><a href="/14/forum-14-1.html">长安铃木</a></li><li class="sub"><a href="/14/156/forum-156-1.html">奥拓</a></li><li class="sub"><a href="/14/157/forum-157-1.html">羚羊</a></li><li class="sub"><a href="/14/158/forum-158-1.html">雨燕</a></li><li class="sub"><a href="/14/159/forum-159-1.html">天语SX4</a></li><li class="sub"><a href="/14/300/forum-300-1.html">Splash</a></li><li><a href="/328/forum-328-1.html">长安马自达</a></li><li class="sub"><a href="/328/75/forum-75-1.html">马自达2</a></li><li class="sub"><a href="/328/76/forum-76-1.html">马自达3</a></li><li><a href="/268/forum-268-1.html">道奇</a></li><li class="sub"><a href="/268/269/forum-269-1.html">酷威</a></li><li class="sub"><a href="/268/270/forum-270-1.html">酷搏</a></li><li><a href="/17/forum-17-1.html">东风本田</a></li><li class="sub"><a href="/17/106/forum-106-1.html">思铂睿</a></li><li class="sub"><a href="/17/166/forum-166-1.html">本田CRV</a></li><li class="sub"><a href="/17/167/forum-167-1.html">思域</a></li><li><a href="/18/forum-18-1.html">东风标致</a></li><li class="sub"><a href="/18/168/forum-168-1.html">标致206</a></li><li class="sub"><a href="/18/169/forum-169-1.html">标致307</a></li><li class="sub"><a href="/18/278/forum-278-1.html">标致408</a></li><li><a href="/19/forum-19-1.html">东风日产</a></li><li class="sub"><a href="/19/170/forum-170-1.html">天籁</a></li><li class="sub"><a href="/19/171/forum-171-1.html">骐达</a></li><li class="sub"><a href="/19/172/forum-172-1.html">轩逸</a></li><li class="sub"><a href="/19/173/forum-173-1.html">骊威</a></li><li class="sub"><a href="/19/174/forum-174-1.html">逍客</a></li><li class="sub"><a href="/19/175/forum-175-1.html">奇骏</a></li><li class="sub"><a href="/19/292/forum-292-1.html">玛驰</a></li><li><a href="/21/forum-21-1.html">东风悦达起亚</a></li><li class="sub"><a href="/21/99/forum-99-1.html">福瑞迪</a></li><li class="sub"><a href="/21/181/forum-181-1.html">赛拉图</a></li><li class="sub"><a href="/21/182/forum-182-1.html">悦达</a></li><li class="sub"><a href="/21/183/forum-183-1.html">狮跑</a></li><li class="sub"><a href="/21/184/forum-184-1.html">秀尔</a></li><li class="sub"><a href="/21/285/forum-285-1.html">锐欧</a></li><li class="sub"><a href="/21/319/forum-319-1.html">智跑</a></li><li><a href="/22/forum-22-1.html">东南汽车</a></li><li class="sub"><a href="/22/185/forum-185-1.html">戈蓝</a></li><li class="sub"><a href="/22/186/forum-186-1.html">蓝瑟-菱帅</a></li><li class="sub"><a href="/22/187/forum-187-1.html">V3菱悦</a></li><li><a href="/49/forum-49-1.html">东风风神</a></li><li class="sub"><a href="/49/236/forum-236-1.html">风神S30</a></li><li class="sub"><a href="/49/294/forum-294-1.html">风神H30</a></li><li><a href="/338/forum-338-1.html">东风风行</a></li><li class="sub"><a href="/338/242/forum-242-1.html">风行景逸</a></li><li class="sub"><a href="/338/243/forum-243-1.html">风行菱智</a></li><li><a href="/20/forum-20-1.html">东风雪铁龙</a></li><li class="sub"><a href="/20/97/forum-97-1.html">世嘉</a></li><li class="sub"><a href="/20/176/forum-176-1.html">毕加索</a></li><li class="sub"><a href="/20/177/forum-177-1.html">富康</a></li><li class="sub"><a href="/20/178/forum-178-1.html">凯旋</a></li><li class="sub"><a href="/20/179/forum-179-1.html">C2</a></li><li class="sub"><a href="/20/180/forum-180-1.html">爱丽舍</a></li><li class="sub"><a href="/20/263/forum-263-1.html">C5</a></li><li><a href="/24/forum-24-1.html">广汽丰田</a></li><li class="sub"><a href="/24/190/forum-190-1.html">凯美瑞</a></li><li class="sub"><a href="/24/191/forum-191-1.html">雅力士</a></li><li class="sub"><a href="/24/192/forum-192-1.html">汉兰达</a></li><li><a href="/16/forum-16-1.html">广汽长丰</a></li><li class="sub"><a href="/16/165/forum-165-1.html">猎豹</a></li><li><a href="/23/forum-23-1.html">广汽本田</a></li><li class="sub current""><a href="/23/100/forum-100-1.html">锋范</a></li><li class="sub"><a href="/23/188/forum-188-1.html">飞度</a></li><li class="sub"><a href="/23/189/forum-189-1.html">雅阁</a></li><li class="sub"><a href="/23/321/forum-321-1.html">歌诗图</a></li><li><a href="/316/forum-316-1.html">广汽集团</a></li><li class="sub"><a href="/316/317/forum-317-1.html">传祺</a></li><li><a href="/27/forum-27-1.html">华晨中华</a></li><li class="sub"><a href="/27/195/forum-195-1.html">骏捷</a></li><li class="sub"><a href="/27/196/forum-196-1.html">中华</a></li><li class="sub"><a href="/27/322/forum-322-1.html">骏捷FRV</a></li><li class="sub"><a href="/27/323/forum-323-1.html">骏捷FSV</a></li><li class="sub"><a href="/27/324/forum-324-1.html">骏捷CROSS</a></li><li class="sub"><a href="/27/325/forum-325-1.html">骏捷Wagon</a></li><li><a href="/50/forum-50-1.html">江淮汽车</a></li><li class="sub"><a href="/50/240/forum-240-1.html">同悦</a></li><li class="sub"><a href="/50/241/forum-241-1.html">瑞鹰</a></li><li class="sub"><a href="/50/259/forum-259-1.html">和悦</a></li><li class="sub"><a href="/50/288/forum-288-1.html">悦悦</a></li><li class="sub"><a href="/50/295/forum-295-1.html">江淮SUV</a></li><li><a href="/256/forum-256-1.html">Jeep</a></li><li class="sub"><a href="/256/261/forum-261-1.html">切诺基</a></li><li><a href="/332/forum-332-1.html">进口大众</a></li><li class="sub"><a href="/332/318/forum-318-1.html">甲壳虫</a></li><li><a href="/28/forum-28-1.html">吉利汽车</a></li><li class="sub"><a href="/28/110/forum-110-1.html">帝豪</a></li><li class="sub"><a href="/28/198/forum-198-1.html">美日</a></li><li class="sub"><a href="/28/199/forum-199-1.html">熊猫</a></li><li class="sub"><a href="/28/293/forum-293-1.html">全球鹰</a></li><li class="sub"><a href="/28/340/forum-340-1.html">英伦</a></li><li><a href="/298/forum-298-1.html">力帆</a></li><li class="sub"><a href="/298/299/forum-299-1.html">力帆SUV</a></li><li><a href="/330/forum-330-1.html">凯迪拉克</a></li><li><a href="/309/forum-309-1.html">雷诺</a></li><li><a href="/29/forum-29-1.html">菲亚特</a></li><li class="sub"><a href="/29/200/forum-200-1.html">派力奥</a></li><li><a href="/31/forum-31-1.html">奇瑞汽车</a></li><li class="sub"><a href="/31/265/forum-265-1.html">瑞麒X1</a></li><li class="sub"><a href="/31/117/forum-117-1.html">瑞麒M1</a></li><li class="sub"><a href="/31/201/forum-201-1.html">奇瑞</a></li><li class="sub"><a href="/31/202/forum-202-1.html">QQ</a></li><li class="sub"><a href="/31/203/forum-203-1.html">A1</a></li><li class="sub"><a href="/31/204/forum-204-1.html">A3</a></li><li class="sub"><a href="/31/272/forum-272-1.html">风云</a></li><li class="sub"><a href="/31/274/forum-274-1.html">瑞麒G3</a></li><li class="sub"><a href="/31/275/forum-275-1.html">瑞麒G5</a></li><li class="sub"><a href="/31/281/forum-281-1.html">瑞麒G6</a></li><li class="sub"><a href="/31/283/forum-283-1.html">威麟X5</a></li><li><a href="/48/forum-48-1.html">莲花</a></li><li class="sub"><a href="/48/239/forum-239-1.html">竞速</a></li><li class="sub"><a href="/48/314/forum-314-1.html">L5</a></li><li><a href="/32/forum-32-1.html">上海大众</a></li><li class="sub"><a href="/32/101/forum-101-1.html">途观</a></li><li class="sub"><a href="/32/108/forum-108-1.html">Polo</a></li><li class="sub"><a href="/32/205/forum-205-1.html">桑塔纳</a></li><li class="sub"><a href="/32/206/forum-206-1.html">帕萨特</a></li><li class="sub"><a href="/32/207/forum-207-1.html">途安</a></li><li class="sub"><a href="/32/209/forum-209-1.html">高尔</a></li><li class="sub"><a href="/32/210/forum-210-1.html">朗逸</a></li><li><a href="/331/forum-331-1.html">上海大众斯柯达</a></li><li class="sub"><a href="/331/102/forum-102-1.html">昊锐</a></li><li class="sub"><a href="/331/208/forum-208-1.html">明锐</a></li><li class="sub"><a href="/331/211/forum-211-1.html">晶锐</a></li><li><a href="/33/forum-33-1.html">上海通用别克</a></li><li class="sub"><a href="/33/267/forum-267-1.html">英朗</a></li><li class="sub"><a href="/33/103/forum-103-1.html">君威</a></li><li class="sub"><a href="/33/214/forum-214-1.html">凯越</a></li><li class="sub"><a href="/33/219/forum-219-1.html">君越</a></li><li class="sub"><a href="/33/290/forum-290-1.html">GL8</a></li><li><a href="/329/forum-329-1.html">上海通用雪佛兰</a></li><li class="sub"><a href="/329/213/forum-213-1.html">赛欧</a></li><li class="sub"><a href="/329/215/forum-215-1.html">景程</a></li><li class="sub"><a href="/329/216/forum-216-1.html">乐风-乐骋</a></li><li class="sub"><a href="/329/218/forum-218-1.html">科鲁兹</a></li><li><a href="/35/forum-35-1.html">上汽</a></li><li class="sub"><a href="/35/221/forum-221-1.html">荣威550</a></li><li class="sub"><a href="/35/222/forum-222-1.html">荣威750</a></li><li class="sub"><a href="/35/273/forum-273-1.html">荣威350</a></li><li class="sub"><a href="/35/277/forum-277-1.html">荣威W50</a></li><li><a href="/341/forum-341-1.html">上汽MG</a></li><li class="sub"><a href="/341/237/forum-237-1.html">MG6</a></li><li><a href="/34/forum-34-1.html">上汽通用五菱</a></li><li class="sub"><a href="/34/220/forum-220-1.html">雪佛兰乐驰</a></li><li class="sub"><a href="/34/339/forum-339-1.html">宝骏</a></li><li><a href="/36/forum-36-1.html">双环汽车</a></li><li class="sub"><a href="/36/223/forum-223-1.html">小贵族</a></li><li><a href="/37/forum-37-1.html">双龙</a></li><li><a href="/6/forum-6-1.html">SAAB萨博</a></li><li><a href="/38/forum-38-1.html">天津一汽</a></li><li class="sub"><a href="/38/225/forum-225-1.html">威乐</a></li><li class="sub"><a href="/38/226/forum-226-1.html">威姿</a></li><li class="sub"><a href="/38/227/forum-227-1.html">夏利</a></li><li class="sub"><a href="/38/228/forum-228-1.html">威志</a></li><li class="sub"><a href="/38/229/forum-229-1.html">幸福使者</a></li><li><a href="/9/forum-9-1.html">Volvo沃尔沃</a></li><li class="sub"><a href="/9/297/forum-297-1.html">C30</a></li><li><a href="/39/forum-39-1.html">一汽奥迪</a></li><li class="sub"><a href="/39/231/forum-231-1.html">Q5</a></li><li class="sub"><a href="/39/279/forum-279-1.html">A4L</a></li><li class="sub"><a href="/39/287/forum-287-1.html">A3</a></li><li><a href="/252/forum-252-1.html">一汽奔腾</a></li><li class="sub"><a href="/252/271/forum-271-1.html">奔腾B30</a></li><li class="sub"><a href="/252/326/forum-326-1.html">奔腾B50</a></li><li class="sub"><a href="/252/327/forum-327-1.html">奔腾B70</a></li><li><a href="/42/forum-42-1.html">一汽海马</a></li><li class="sub"><a href="/42/248/forum-248-1.html">骑士</a></li><li class="sub"><a href="/42/249/forum-249-1.html">福美来</a></li><li class="sub"><a href="/42/250/forum-250-1.html">欢动</a></li><li class="sub"><a href="/42/280/forum-280-1.html">王子</a></li><li><a href="/47/forum-47-1.html">一汽吉林</a></li><li class="sub"><a href="/47/238/forum-238-1.html">森雅</a></li><li><a href="/44/forum-44-1.html">一汽马自达</a></li><li class="sub"><a href="/44/253/forum-253-1.html">睿翼/马自达6</a></li><li class="sub"><a href="/44/296/forum-296-1.html">马自达8</a></li><li><a href="/40/forum-40-1.html">一汽大众</a></li><li class="sub"><a href="/40/105/forum-105-1.html">高尔夫6(GTI)</a></li><li class="sub"><a href="/40/107/forum-107-1.html">迈腾</a></li><li class="sub"><a href="/40/114/forum-114-1.html">速腾</a></li><li class="sub"><a href="/40/115/forum-115-1.html">宝来</a></li><li class="sub"><a href="/40/116/forum-116-1.html">捷达</a></li><li class="sub"><a href="/40/313/forum-313-1.html">大众cc</a></li><li><a href="/41/forum-41-1.html">一汽丰田</a></li><li class="sub"><a href="/41/104/forum-104-1.html">RAV4</a></li><li class="sub"><a href="/41/232/forum-232-1.html">卡罗拉</a></li><li class="sub"><a href="/41/233/forum-233-1.html">威驰</a></li><li class="sub"><a href="/41/234/forum-234-1.html">锐志</a></li><li class="sub"><a href="/41/235/forum-235-1.html">皇冠</a></li><li class="sub"><a href="/41/289/forum-289-1.html">普拉多</a></li><li class="sub"><a href="/41/291/forum-291-1.html">Venza</a></li><li><a href="/43/forum-43-1.html">一汽轿车</a></li><li class="sub"><a href="/43/251/forum-251-1.html">红旗</a></li><li><a href="/262/forum-262-1.html">华泰汽车</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=60">地方车友会</a></dt><dd><ul><li><a href="/61/forum-61-1.html">华北车友会</a></li><li class="sub"><a href="/61/69/forum-69-1.html">北京</a></li><li class="sub"><a href="/61/70/forum-70-1.html">天津</a></li><li class="sub"><a href="/61/118/forum-118-1.html">河北</a></li><li class="sub"><a href="/61/119/forum-119-1.html">山东</a></li><li class="sub"><a href="/61/120/forum-120-1.html">山西</a></li><li class="sub"><a href="/61/121/forum-121-1.html">内蒙</a></li><li><a href="/62/forum-62-1.html">华东车友会</a></li><li class="sub"><a href="/62/122/forum-122-1.html">上海</a></li><li class="sub"><a href="/62/123/forum-123-1.html">江苏</a></li><li class="sub"><a href="/62/124/forum-124-1.html">浙江</a></li><li><a href="/64/forum-64-1.html">华中车友会</a></li><li class="sub"><a href="/64/129/forum-129-1.html">安徽</a></li><li class="sub"><a href="/64/130/forum-130-1.html">河南</a></li><li class="sub"><a href="/64/131/forum-131-1.html">湖北</a></li><li class="sub"><a href="/64/132/forum-132-1.html">江西</a></li><li class="sub"><a href="/64/133/forum-133-1.html">湖南</a></li><li><a href="/63/forum-63-1.html">华南车友会</a></li><li class="sub"><a href="/63/125/forum-125-1.html">广西</a></li><li class="sub"><a href="/63/126/forum-126-1.html">广东</a></li><li class="sub"><a href="/63/127/forum-127-1.html">福建</a></li><li class="sub"><a href="/63/128/forum-128-1.html">海南</a></li><li><a href="/65/forum-65-1.html">东北车友会</a></li><li class="sub"><a href="/65/134/forum-134-1.html">辽宁</a></li><li class="sub"><a href="/65/135/forum-135-1.html">黑龙江</a></li><li class="sub"><a href="/65/136/forum-136-1.html">吉林</a></li><li><a href="/66/forum-66-1.html">西北车友会</a></li><li class="sub"><a href="/66/137/forum-137-1.html">甘肃</a></li><li class="sub"><a href="/66/138/forum-138-1.html">青海</a></li><li class="sub"><a href="/66/139/forum-139-1.html">陕西</a></li><li class="sub"><a href="/66/140/forum-140-1.html">新疆</a></li><li class="sub"><a href="/66/141/forum-141-1.html">宁夏</a></li><li><a href="/67/forum-67-1.html">西南车友会</a></li><li class="sub"><a href="/67/145/forum-145-1.html">四川</a></li><li class="sub"><a href="/67/144/forum-144-1.html">重庆</a></li><li class="sub"><a href="/67/146/forum-146-1.html">云南</a></li><li class="sub"><a href="/67/147/forum-147-1.html">贵州</a></li><li class="sub"><a href="/67/148/forum-148-1.html">西藏</a></li><li><a href="/68/forum-68-1.html">港澳台地区</a></li><li class="sub"><a href="/68/149/forum-149-1.html">香港</a></li><li class="sub"><a href="/68/150/forum-150-1.html">澳门</a></li><li class="sub"><a href="/68/151/forum-151-1.html">台湾</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=51">汽车生活</a></dt><dd><ul><li><a href="/257/forum-257-1.html">切大队越野英雄会</a></li><li><a href="/306/forum-306-1.html">体育杂坛</a></li><li><a href="/55/forum-55-1.html">养护知识</a></li><li><a href="/56/forum-56-1.html">改装一族</a></li><li><a href="/57/forum-57-1.html">汽车音乐</a></li><li><a href="/58/forum-58-1.html">摄影爱好</a></li><li><a href="/59/forum-59-1.html">赛车迷</a></li><li><a href="/54/forum-54-1.html">驾车旅游</a></li><li><a href="/53/forum-53-1.html">购车答疑</a></li><li><a href="/52/forum-52-1.html">汽车音响</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=79">站务论坛</a></dt><dd><ul><li><a href="/80/forum-80-1.html">说给新浪汽车</a></li><li><a href="/81/forum-81-1.html">版主沙龙</a></li><li><a href="/82/forum-82-1.html">版主申请</a></li></ul></dd></dl><dl><dt><a href="index.php?gid=301">汽车交易平台</a></dt><dd><ul><li><a href="/302/forum-302-1.html">二手车交易</a></li><li><a href="/303/forum-303-1.html">汽车用品交易</a></li></ul></dd></dl>	</div>
+
+<script type="text/javascript">
+var maxpage = 4;
+if(maxpage > 1) {
+	document.onkeyup = function(e){
+		e = e ? e : window.event;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA') return;
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+				if(actualCode == 39) {
+			window.location = 'viewthread.php?tid=1944593&page=2';
+		}
+					}
+}
+</script>
+
+<script type="text/javascript">
+window.onload = function(){
+        var img_elements = document.getElementsByTagName("img");
+        for(i=0; i<img_elements.length; i++){
+                this_ele = img_elements[i];
+                var myimg = new Image();
+                myimg.src = this_ele.src;
+                if(this_ele.id != 'hytitle'){
+	                if(myimg.width > 800 && this_ele.width > 800){
+//	               		alert(this_ele.id);
+	                	this_ele.width = 800;
+	                }
+                }
+        }
+};
+</script>
+<script src="http://auto.sina.com.cn/683/2009/0901/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+	jQuery(".forum_img_auto").each(function(){
+		var max_w=140;
+		var max_h=91;
+		var m1=max_w/max_h;
+		var m2=jQuery(this).width()/jQuery(this).height();
+		if(m2>m1){
+			jQuery(this).width(max_w);
+		}else{
+			jQuery(this).height(max_h);
+		}
+	});
+	jQuery(function(){
+	 	jQuery(".boxb_wdd table").mouseover(function(){
+	 		jQuery(this).css('border',"1px solid #cc0000");
+			//jQuery(this).css('curor',"pointer");
+	 	})
+	 	jQuery(".boxb_wdd table").mouseout(function(){
+	 		jQuery(this).css('border',"1px solid #DDDDDD");
+	 	})
+	})
+</script>
+<!--1027-->
+<script>
+jQuery(function(){
+
+		jQuery('.tab2 .zipp_typeBrand2 b').mouseover( function(){
+		var _self = jQuery(this);
+		var _nav_b = jQuery('.tab2 .zipp_typeBrand2 b');
+		_nav_b.removeClass('current'),
+		_self.addClass('current');
+		
+		var _index = _nav_b.index(_self);
+		var _typeBrand_tab = jQuery('.tab2 .typeBrand2 div.inImgs_5');
+		_typeBrand_tab.hide(),
+		_typeBrand_tab.eq(_index+1).show();
+				});	
+			});
+</script>
+<!--1027 end-->
+
+
+			<div class="clearit"></div>
+							<div style="padding-top:10px;margin-left:20px;margin-right:20px;background-color:#fff">
+							<div class="box">
+					<h4>车友在关注	</h4>
+					<ul class="userlist">
+						<li><div align="left"><a  target="_blank" href="http://photo.auto.sina.com.cn/tupian/602">锋范图片</a>	</div></li>
+						<li><div align="left"><a  target="_blank" href="http://dealer.auto.sina.com.cn/price/2_602/">锋范报价</a>		</div></li>
+						<li><div align="left"><a  target="_blank" href="http://bbs.auto.sina.com.cn/forum-100-1.html">锋范论坛</a>		</div></li>
+						<li><div align="left"><a  target="_blank" href="http://data.auto.sina.com.cn/youhao/602">锋范油耗</a>		</div></li>
+						<li><div align="left"><a  target="_blank" href="http://data.auto.sina.com.cn/car_comment/602">锋范怎么样 </a>		</div></li>
+						<li><div align="left"><a  target="_blank" href="http://data.auto.sina.com.cn/peizhi/602">锋范配置</a>		</div></li>
+					</ul>
+				</div>
+			</div>
+			</div>
+<div class="clearit"></div>
+	<ul class="popupmenu_popup headermenu_popup" id="memcp_menu" style="display: none">
+		<li><a href="/memcp.php">控制面板首页</a></li>
+		<li><a href="/memcp.php?action=profile">编辑个人资料</a></li>
+				<li><a href="/memcp.php?action=creditslog">里程记录</a></li>
+		<li><a href="/memcp.php?action=usergroups">公众用户组</a></li>
+				</ul>
+	<ul class="popupmenu_popup headermenu_popup" id="stats_menu" style="display: none">
+		<li><a href="stats.php">基本概况</a></li>
+					<li><a href="stats.php?type=views">流量统计</a></li><li><a href="stats.php?type=agent">客户软件</a></li><li><a href="stats.php?type=posts">发帖量记录</a></li>
+				<li><a href="stats.php?type=forumsrank">版块排行</a></li><li><a href="stats.php?type=threadsrank">主题排行</a></li><li><a href="stats.php?type=postsrank">发帖排行</a></li><li><a href="stats.php?type=creditsrank">里程排行</a></li>
+		<li><a href="stats.php?type=trade">交易排行</a></li>
+		<li><a href="stats.php?type=onlinetime">在线时间</a></li>		<li><a href="stats.php?type=team">管理团队</a></li>
+		<li><a href="stats.php?type=modworks">管理统计</a></li>	</ul>
+
+<ul class="popupmenu_popup headermenu_popup" id="pm_menu" style="display: none">
+	<li><a href="/pm.php?action=send">发送短消息</a></li>
+	<li><a href="/pm.php?folder=inbox">收件箱</a></li>
+	<li><a href="/pm.php?folder=outbox">草稿箱</a></li>
+	<li><a href="/pm.php?folder=track">已发送</a></li>
+	<li><a href="/pm.php?action=search">搜索短消息</a></li>
+	<li><a href="/pm.php?action=archive">导出短消息</a></li>
+	<li><a href="/pm.php?action=ignore">黑名单</a></li>
+</ul>
+
+<ul class="popupmenu_popup headermenu_popup" id="my_forum_menu" style="display: none;"><li><a href="/my.php?item=favorites&amp;fid=100">收藏本版块</a></li>
+</ul>
+
+<div id="footer">
+	<div class="wrap2">
+	<center>
+
+		<p><a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://ads.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://members.sina.com.cn/apply/">会员注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a></p>
+
+		<p>Copyright &copy; 1996 - 2009 SINA Corporation, All Rights Reserved</p>
+		<p>新浪公司　<a href="http://home.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a></p>
+		<p>北京网通提供网络带宽</p>			<p id="debuginfo">Processed in 0.306044 second(s), 22 queries.</p>
+					</center>
+	</div>
+</div>
+<script>
+	function showMenu2(id){
+		document.getElementById(id + '_menu').style.display = 'block';
+		document.getElementById(id).className = 'dropmenu hover';
+	}
+	function hideMenu2(id){
+		document.getElementById(id + '_menu').style.display = 'none';
+		document.getElementById(id).className = 'dropmenu';
+	}
+	
+</script>
+
+
+	<div style="display: none" id="ad_none">1111111111111
+	<div id="ad_headerbanner_none"></div>
+												<div class="ad_textlink1" id="ad_thread1_0_none"><a href="http://auto.sina.com.cn/guangzhouchezhan/" target="_blank" style="font-size: 14">广州车展</a></div>
+				<div class="ad_textlink2" id="ad_thread2_0_none"></div>
+				<div class="ad_pip" id="ad_thread3_0_none"></div>
+												<div class="ad_textlink1" id="ad_thread1_1_none"><a href="http://bbs.auto.sina.com.cn/302/forum-302-1.html" target="_blank" style="font-size: 14px">二手车交易平台开放测试</a></div>																																																																																																																																																																															<div class="ad_column" id="ad_interthread_none"></div>
+		<div class="ad_footerbanner" id="ad_footerbanner1_none"></div>
+	<div class="ad_footerbanner" id="ad_footerbanner2_none"></div>
+	<div class="ad_footerbanner" id="ad_footerbanner3_none"></div>
+	</div>
+
+	<script type="text/javascript">
+		var insenz_status = 0;
+		var insenz_availableadvs = {'headerbanner' : '1', 'thread3_0' : '2', 'thread2_0' : '3', 'thread1_0' : '4', 'interthread' : '5', 'footerbanner1' : '6', 'footerbanner2' : '7', 'footerbanner3' : '8'};
+		var insenz_adkeys = [];
+		var ad_divs = document.getElementById('ad_none').getElementsByTagName('div');
+		var insenz_cookie = document.cookie.indexOf('insenz_cookie') == -1 ? null : getcookie('insenz_cookie');
+		var ad_obj = null;
+	
+		if(!insenz_status || insenz_cookie) {
+			for(var i = 0; i < ad_divs.length; i++) {
+				if(ad_divs[i].id.substr(0, 3) == 'ad_' && (ad_obj = document.getElementById(ad_divs[i].id.substr(0, ad_divs[i].id.length - 5))) && ad_divs[i].innerHTML) {
+					if(insenz_cookie) {
+						re = new RegExp(insenz_availableadvs[ad_divs[i].id.substr(3, ad_divs[i].id.length - 8)] + "\:(0" + "|" + gid + "|" + fid + ")", "ig");
+						if(re.exec(insenz_cookie) != null) continue;
+					}
+					ad_obj.innerHTML = ad_divs[i].innerHTML;
+					ad_obj.className = ad_divs[i].className;
+				}
+			}
+		}
+	</script>
+	
+		
+	<script type="text/javascript">
+				document.getElementById('ad_none').parentNode.removeChild(document.getElementById('ad_none'));
+	</script>
+</body>
+<!-- SUDA_CODE_START -->
+<script src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js" type="text/javascript"></script>
+<script type="text/javascript">_S_pSt(_S_PID_);</script>
+<noScript>
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div>
+</noScript>
+<!-- SUDA_CODE_END -->
+<!-- START WRating v1.0 -->
+<script src="http://sina.wrating.com/a1.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+var vjAcc="860010-0316010000";
+var wrUrl="http://sina.wrating.com/";
+vjTrack("");
+}catch(e){};
+</script>
+<noscript><img src="http://sina.wrating.com/a.gif?a=&amp;c=860010-0316010000" width="1" height="1" style="display: none;"/></noscript>
+<!-- END WRating v1.0 -->
+
+<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+<script type="text/javascript">
+	var _rsCI="cn-sina2006";
+	var _rsCG="0";
+	var _rsDN="//secure-cn.imrworldwide.com/";
+	var _rsCC=0;
+	var _rsSE=1;
+	var _rsSM=0.01;
+	var _rsSS=1500;
+</script>
+<script src="//secure-cn.imrworldwide.com/v52.js" type="text/javascript"></script>
+<noscript>
+	<img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&cg=0" alt=""/>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+
+</html><script src="/javascript/msn.js" type="text/javascript"></script>
+

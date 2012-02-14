@@ -1,0 +1,189 @@
+http://autoclub.mop.com/mainFrame.jsp#/rightIndex2.jsp
+ 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<link href="http://autoclub.mop.com/css/right2style.css" rel="stylesheet" type="text/css" />
+<link href="http://autoclub.mop.com/css/auto/1.css" rel="stylesheet" type="text/css">
+</head>
+ 
+ 
+ 
+<body class="textleft" >
+<!--右部开始-->
+<div style="width:530px;padding:0px 10px;">
+    <!--精彩推荐开始-->
+ 
+	<h1 class="newtit1" style="height:30px;margin:0px;padding-top:2px;">精彩推荐<span><img src="http://image2.mop.com/autodzh/z1.gif"></span></h1>
+	<div class="clearit"></div>
+	<div style="width:530px;padding-left:15px;" class="textleft">
+ 
+<!--精彩推荐内容开始-->
+ 
+	<div class="picSmall"><a href="http://auto.mop.com/map/"target="_blank"><img src="http://image.mop.com/qc/temp/2007/1211/25_71_65_1219_275_20081229143057.jpg" width="120" height="90" border="0" /></a>
+	  <ul>
+	  <li><a href="http://auto.mop.com/map/"target="_blank"><font color='#0000FF'>实时路况路线查询</font></a></li>
+	</ul>	
+	</div>
+ 
+	<div class="VSpacer3"></div>
+	<div class="picSmall"><a href="http://autoclub.mop.com/topic/readSub_74519_0_0.html"target="_blank"><img src="http://upload3.mop.com/autoimg/2010/12/06/09/1291641023687.jpg" width="120" height="90" border="0" /></a>
+	  <ul>
+	  <li><a href="http://autoclub.mop.com/topic/readSub_74519_0_0.html"target=" target="_blank"><font color='#23B14B'>日本车德国车碰撞</font></a></li>
+	</ul>	
+	</div>
+ 
+	<div class="VSpacer3"></div>
+	<div class="picSmall"><a href="http://autoclub.mop.com/topic/readSub_74539_0_0.html"target="_blank"><img src="http://upload3.mop.com/autoimg/2010/12/06/11/1291650615722.jpg" width="120" height="90" border="0" /></a>
+	  <ul>
+	  <li><a href="http://autoclub.mop.com/topic/readSub_74539_0_0.html"target="_blank"><font color='#C3172F'>警服男撞人打伤者</font></a></li>
+	</ul>	
+	</div>
+ 
+         <div class="VSpacer3"></div>
+         
+ 
+<!--精彩推荐04-->
+<div class="VSpacer3"></div>
+<div class="picSmall"><a href="http://autoclub.mop.com/topic/readSub_56551_0_0.html"target="_blank"><img src="http://upload3.mop.com/upload3/90/2010/06/11/12762499760351341.jpg
+" width="120" height="90" border="0" /></a>
+<ul><li><a href="http://autoclub.mop.com/topic/readSub_56551_0_0.html
+"target="_blank"><font color='#EB1839'>汽车用品大团购</font></a></li></ul>
+</div>
+<!--精彩推荐05-->
+<div class="VSpacer3"></div>
+<div class="picSmall"><a href="http://autoclub.mop.com/topic/readSub_74644_0_0.html"target="_blank"><img src="http://upload3.mop.com/autoimg/2010/12/07/08/1291723406585.jpg" width="120" height="90" border="0" /></a>
+<ul><li><a href="http://autoclub.mop.com/topic/readSub_74644_0_0.html"target="_blank"><font color='#FF00FF'>到底卖车还是卖身</font>
+</a></li></ul>
+</div>
+<!--精彩推荐06-->
+<div class="VSpacer3"></div>
+<div class="picSmall"><a href="http://autoclub.mop.com/topic/readSub_75018_0_0.html"target="_blank"><img src="http://upload3.mop.com/autoimg/2010/12/11/09/1292072409991.jpg" width="120" height="90" border="0" /></a>
+<ul><li><a href="http://autoclub.mop.com/topic/readSub_75018_0_0.html"target="_blank"><font color=green>网友用巴士改酒吧</font></a></li></ul>
+</div>	
+ 
+<!--精彩推荐内容结束-->
+         </ul>	
+	</div>
+ 
+	</div>
+ 
+	<!--精彩推荐结束-->
+    <div class="blank16"></div>
+	<!--最新要闻开始-->
+<style type="text/css">
+<!--
+ 
+-->
+</style>
+ 
+	<h1 class="newtit1" style="height:30px;margin:0px;padding-top:2px;">最新要闻<span><img src="http://image2.mop.com/autodzh/z2.gif"></span></h1>
+	<div class="clearit"></div>
+	<div style="padding-left:3px;">
+	<div style="border-right:1px solid #B0B5B9;" class="newnr1">
+		<ul>
+		
+<!--最新要闻01-->
+<li><a href="http://autoclub.mop.com/topic/readSub_30317_0_0.html" target="_blank"><font color='#DC143C'>小白必读，汽车烩常见问题汇总</font></a></li>
+<!--最新要闻02-->
+<li><a href="http://autoclub.mop.com/topic/readSub_73821_0_0.html
+" target="_blank"><font color='red'>达人召集汽车烩公开招聘审核员
+</font></a></li>
+<!--最新要闻03-->
+<li><a href="http://autoclub.mop.com/topic/readSub_73606_0_0.html
+" target="_blank"><font color='red'>猫扑汽车烩本年度风云人物评选</font></a></li>
+<!--最新要闻04-->
+<li><a href="http://autoclub.mop.com/topic/readSub_75024_0_0.html" target="_blank"><font color=blue>汽车装饰注意事项之雨刷器常识</font></a></li>
+<!--最新要闻05-->
+<li><a href="http://autoclub.mop.com/topic/readSub_74814_0_0.html
+" target="_blank"><font color='blue'>书上决学不到的自动挡驾驶技术</font></a></li>
+<!--最新要闻06-->
+<li><a href="http://autoclub.mop.com/topic/readSub_74967_0_0.html
+" target="_blank"><font color=blue>东风日产的员工开贴，欢迎提问<font></a></li>
+                  
+		
+		</ul>
+	</div>
+	<div  class="newnrr1">
+		<ul>
+		
+                   <li><A 
+href="http://auto.mop.com/y/ycfy/2010/0318/1035145367.shtml" target="_blank">交通违章查询</a> <A 
+href="http://auto.mop.com/data/car/432/" target="_blank">[荣威350]</a><A 
+href="http://auto.mop.com/data/car/423/" target="_blank">[途观]</a></li>
+ 
+		<li><A href="http://autoclub.mop.com/topic/readSub_74655_0_0.html" target="_blank"><font color='#DC143C'>汽车烩活动：我的车贴影响交通</font></a></li>
+ 
+                    <li><A href="http://autoclub.mop.com/topic/readSub_74875_0_0.html" target="_blank"><font color='#008000'>八万左右的车,请各位推荐一下</font></a></li>
+ 
+                    <li><A href="http://autoclub.mop.com/topic/readSub_74781_0_0.html" target="_blank"> 马6呀,你不如糊层纸在上面得了</a></li>
+ 
+                     <li><A href="http://autoclub.mop.com/topic/readSub_75028_0_0.html" target="_blank">路上的百分之八十的车我都开过</a></li>
+ 
+		<li><A href="http://autoclub.mop.com/topic/readSub_74935_0_0.html
+" target="_red">现在你出门坐公交车还踏实吗？</a></li>
+                   
+		
+		</ul>
+	</div>
+ 
+	</div>
+ 
+	<!--最新要闻结束-->
+	<div class="blank16"></div>
+    
+ 
+ 
+ 
+ 
+<!--24小时热门帖子排行开始-->
+	<h1 class="newtit2" style="height:30px;margin:0px;padding-top:2px;">热门帖子排行<span><img src="http://image2.mop.com/autodzh/z4.gif"></span></h1>
+	<div class="clearit"></div>
+	<div style="padding-left:3px;">
+    
+    <div class="newnr2">
+		<ul>
+         
+                     <li><img src="http://image2.mop.com/autodzh/r_06.gif" align="absmiddle" /> <a href="/topic/readSub_75081_0_0.html" target="right"><font color='#6633CC'>【每日一图】看图写评语,参与回复就送MP哦！&nbsp;（12&nbsp;13）</font></a></li><li class="data">回复：281</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_07.gif" align="absmiddle" /> <a href="/topic/readSub_75092_0_0.html" target="right"><font color='#6633CC'>【每日一签】公共安全专家将M&nbsp;Y女改失足妇女【签到就送MP】12.13【召集】<font></a></li><li class="data">回复：237</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_08.gif" align="absmiddle" /> <a href="/topic/readSub_75087_0_0.html" target="right"><font color=red>月薪八百五，什么车才能配得上我？纠结的蛋疼。<font></a></li><li class="data">回复：211</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_09.gif" align="absmiddle" /> <a href="/topic/readSub_75128_0_0.html" target="right">八百万资产&nbsp;在二线城市&nbsp;（郑州）该买一辆什么车？</a></li><li class="data">回复：76</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_10.gif" align="absmiddle" /> <a href="/topic/readSub_75080_0_0.html" target="right">麻烦解释下奥迪A4&nbsp;A6&nbsp;A8&nbsp;的意思是什么？！</a></li><li class="data">回复：51</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_11.gif" align="absmiddle" /> <a href="/topic/readSub_75119_0_0.html" target="right">求高手评论科鲁兹！！！！！</a></li><li class="data">回复：37</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_12.gif" align="absmiddle" /> <a href="/topic/readSub_75111_0_0.html" target="right">哥在猫扑算不算最牛逼人物，不服你来晒？</a></li><li class="data">回复：30</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_13.gif" align="absmiddle" /> <a href="/topic/readSub_75101_0_0.html" target="right">懂车的朋友进来给小弟指点指点</a></li><li class="data">回复：20</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_14.gif" align="absmiddle" /> <a href="/topic/readSub_75135_0_0.html" target="right">同样的钱&nbsp;我选性价比高的&nbsp;不会先选国产的</a></li><li class="data">回复：19</li>
+                         
+                     <li><img src="http://image2.mop.com/autodzh/r_15.gif" align="absmiddle" /> <a href="/topic/readSub_75085_0_0.html" target="right">荣威550的性能和评价如何？</a></li><li class="data">回复：15</li>
+                         
+		</ul>
+	</div>
+	</div>
+ 
+	<!--24小时热门帖子排行结束-->
+    <div class="blank16"></div>
+    
+    
+    <h1 class="newtit2" style="height:30px;margin:0px;padding-top:2px;">友情链接<span><img src="http://autoclub.mop.com/uploadtmp/2008-07/up_0_1214905154260.gif"></span></h1>
+	<div class="clearit"></div>
+	<div style="padding-left:3px;">
+	<div class="newnr2">
+	<p align="left">
+	<a href="http://www.aevo.cn/index.php" title="" target="_blank">进化汽车运动馆</a> | <a href="http://bbs.jumayizhan.com/index.php" title="" target="_blank">车马驿站</a> |<a href="http://club.autohome.com.cn/" title="" target="_blank"> 汽车之家</a> | <a href="http://bbs.uncars.com/" title="" target="_blank">卓众汽车社区</a> |<a href="http://www.1365car.tj.cn" title="" target="_blank">天津汽车品牌网</a> | <a href="http://www.autocity.com.cn" title="" target="_blank">车城网</a> |  <a href="http://bbs.fblife.com" title="" target="_blank">越野e族</a> | <a href="http://www.poloyes.com/bbs/" title="" target="_blank">POLO车会</a> | <a href="http://geek.techweb.com.cn/" title="" target="_blank">极客社区</a> | <a href="http://bbs.auto.china.com/" title="" target="_blank">中华网汽车论坛</a> | <a href="http://club.xcar.com.cn/" title="" target="_blank">爱卡汽车网论坛</a> | <a href="http://www.carsfun.com/" title="" target="_blank">车趣网</a> | <a href="http://bbs.xgo.com.cn/" title="" target="_blank">XGO汽车点评网论坛</a> |  <a href="http://feelcars.com/" title="" target="_blank">汽车探索</a> | <a href="http://www.stockbus.cn/" title="" target="_blank">股票巴士</a> | <a href="http://www.motorvillage.com.cn/" title="" target="_blank">汽车村</a> | <a href="http://auto.anhuinews.com/" title="" target="_blank">中安车网</a> |  </p>		
+	</div>
+	</div>
+        
+</div>
+<!--右部结束-->
+</body>
+</html>
+

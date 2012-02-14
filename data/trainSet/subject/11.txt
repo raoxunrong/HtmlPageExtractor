@@ -1,0 +1,564 @@
+http://news.21cn.com/domestic/difang/2010/12/05/7986085.shtml
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>四川道孚县发生草原火灾致22人死亡 - 新闻 - 21CN.COM</title>
+<meta name="keywords" content="四川,道孚县,火灾,国内新闻,国际新闻,社会新闻,广东新闻,新闻图片,专题">
+<meta name="description" content="12月5日中午，四川甘孜州道孚县发生草原火灾，当地立即组织干部民众上山扑救。下午3点10分左右，正在处理余火时突起大风，致部分扑救人员遇难。
+">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
+<link type="text/css" rel="stylesheet" href="http://www.21cn.com/other/css/2009/article.css" media="screen" />
+<link type="text/css" rel="stylesheet" id="themecss" href="" media="screen" />
+<style type="text/css">
+.picbar01 {
+ 	padding-right: 23px;
+	padding-top: 12px;
+	padding-bottom: 10px;
+	clear: none;
+	float: left;
+	height: 120px;
+	width: 124px;
+	margin: 0px;
+	text-align: center;
+}
+.picbar01 .pic { border:0px soild #000; }
+.picbar01 img {border:1px solid #000; width:122px; height:92px;}
+.picbar01 .title {white-space: nowrap;height:20px; width: 114px; overflow: hidden; text-overflow:ellipsis;padding:5px 5px 0px 5px;text-align:center; font-size:12px; color:#000;} 
+.picbar01 .clickNum {display:none}  
+.picbar01 a { font-size:12px; font-weight:normal; color:#000; text-decoration:none}
+.picbar01 a:hover {color:#c80000;}
+.snspush {font-size:14px; width:560px; margin:0 auto; background:#fff; padding:10px; height:14px; border:#ccc 1px solid; line-height:12px; text-align:center;}
+.snspush a {margin-right:10px;}
+.snspush a img {margin:0px 5px 0px 0px; padding:0px; vertical-align:bottom; _vertical-align:middle;}
+</style>
+</head>
+
+<body>
+    <!-- 最终页通用导航 start -->
+    <div class="head clearfix"><style type="text/css">
+.head { width:938px; margin:0 auto; }
+.head h1 { float:left; width:80px; margin-bottom:3px; }
+.navs {float:right; height:30px; line-height:16px; padding:18px 8px 0 0 ;  }
+.navs li { float:left;border-right:1px solid; height:15px; padding:0 10px; overflow:hidden;}
+.navs li.last { width:auto; padding-right:0; border:0;}
+.navs a:link,.navs a:visited { font-size:14px; color:#000; text-decoration:none;}
+</style>
+        <h1><a href="http://www.21cn.com/" target="_blank"><img src="http://img04.21cn.com/www/images/zzy2007/21cnzz_01.gif" border="0" alt="21cn.com" /></a></h1>
+        <div class="navs">
+            <ul>
+                <li><a href="http://news.21cn.com/" target="_blank">新闻</a></li>
+                <li><a href="http://news.21cn.com/guangdong/" target="_blank">广东</a></li>
+                <li><a href="http://finance.21cn.com/" target="_blank">财经</a></li>
+    <li><a href="http://finance.21cn.com/stock/" target="_blank">证券</a></li>
+
+                <li><a href="http://auto.21cn.com/" target="_blank">汽车</a></li>
+                <li><a href="http://house.21cn.com/" target="_blank">房产</a></li>
+                <li><a href="http://it.21cn.com/" target="_blank">数码</a></li>
+                <li><a href="http://sports.21cn.com/" target="_blank">体育</a></li>
+                <li><a href="http://et.21cn.com/" target="_blank">娱乐</a></li>
+                <li><a href="http://game.21cn.com/" target="_blank">游戏</a></li>
+                <li><a href="http://she.21cn.com/" target="_blank">女人</a></li>
+                <li><a href="http://life.21cn.com/" target="_blank">生活</a></li>
+                <li><a href="http://free.21cn.com/" target="_blank">社区</a></li>
+                <li><a href="http://igame.21cn.com/" target="_blank">网游</a></li>
+                <li><a href="http://photo.21cn.com/" target="_blank">相册</a></li>
+                <li class="last"><a href="http://vgo.21cn.com/index.html" target="_blank">高清</a></li>
+                           </ul>
+        </div>
+    </div>
+	<!-- 最终页通用导航 End -->
+        <div class="pic_info">
+    		<div class="pic"><!--Ad Begin:-->
+<SCRIPT language=JavaScript>
+<!--  
+//取出频道名
+var arrHost = document.location.hostname.split(".");
+var sChannel = arrHost[0];
+document.write("<iframe id='iframe_tonglan_1' name='iframe_tonglan_1' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|end_tonglan1' width='938' height='97' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>");
+// -->
+</SCRIPT>
+<!--Ad End--></div>
+            <div id="add_abc"></div>
+    	</div>
+	<div id="wrap">
+        
+        <!--main content-->
+        <div class="content clearfix">
+        
+        	<!--col_l-->
+        	<div class="col_l">
+            	<!--box area-->
+            	<div class="box clearfix">
+                	<div class="pos">当前位置：<a href="http://www.21cn.com" target="_blank">21CN首页</a>&nbsp; &gt; <a href='http://news.21cn.com/' target='_blank'>新闻中心</a> &gt; <a href='http://news.21cn.com/domestic/' target='_blank'>国内新闻</a> &gt; &nbsp;正文</div>
+                    
+                    <div class="fun clearfix">
+                    	<!-- google_ad_section_start(name=title) --><h2>四川道孚县发生草原火灾致22人死亡</h2><!-- google_ad_section_end(name=title) -->
+                        <div class="fun_box">
+                        <div class="fun_left">
+                    	<span><!--新闻信息新增时间的改动-->2010-12-05 22:05:56<!--新闻源-->&nbsp;&nbsp;<a href="http://www.chinanews.com/" target="_blank">中国新闻网</a>&nbsp;|&nbsp;<a href="http://talknow.21cn.com/all.html?thread_id=7986085&channel_id=6&type_id=11321" target="_blank">发表评论</a>(<span id="reviewCount">0</span>)&nbsp;|&nbsp;正文背景色：</span>
+                        <!--<a id="white" onclick="setColor('white','#fff');"><img id="white_btn" src="http://img04.21cn.com/www/images/2009/art/white.gif" /></a>
+                        <a id="blue" onclick="setColor('blue','#eef3f9');"><img id="blue_btn" src="http://img04.21cn.com/www/images/2009/art/blue_on.gif" /></a>
+                        <a id="yellow" onclick="setColor('yellow','#FCF6CB');"><img id="yellow_btn" src="http://img04.21cn.com/www/images/2009/art/yellow.gif" /></a>
+                        <a id="green" onclick="setColor('green','#E5FCD6');"><img id="green_btn" src="http://img04.21cn.com/www/images/2009/art/green.gif" /></a>-->
+                        </div>
+                        <ul id="themelist">
+							<li id="theme1"><a href=""><img src="http://img04.21cn.com/www/images/2009/art/white.gif" /></a></li>
+    						<li id="theme2"><a href=""><img src="http://img04.21cn.com/www/images/2009/art/blue_on.gif" /></a></li>
+    						<li id="theme3"><a href=""><img src="http://img04.21cn.com/www/images/2009/art/yellow.gif" /></a></li>
+    						<li id="theme4"><a href=""><img src="http://img04.21cn.com/www/images/2009/art/green.gif" /></a></li>
+						</ul>
+                        </div>
+                    </div>
+                    <div class="article" id="article" style="width:606px; margin:0 auto;">
+                    	<div class="tag clearfix">
+                        	<span class="l"><img src="http://img04.21cn.com/www/images/2009/art/arrow.gif" />标签：                                                                                 <a href="http://tags.21cn.com/tagsSearch?tags=四川&operation_id=1610" target="_blank">四川</a>
+                                    
+                                                                                                                <a href="http://tags.21cn.com/tagsSearch?tags=道孚县&operation_id=1610" target="_blank">道孚县</a>
+                                    
+                                                                                                                <a href="http://tags.21cn.com/tagsSearch?tags=火灾&operation_id=1610" target="_blank">火灾</a>
+                                    
+                                                      </span>
+                        	<span class="r"><a href="javascript:largerFont();"><img src="http://img04.21cn.com/www/images/2009/art/jia.gif" border="0" /></a><span>字体</span><a href="javascript:smallerFont();" ><img src="http://img04.21cn.com/www/images/2009/art/by.gif" border="0" /></a></span>
+                        </div>
+
+										<div class="tips" id="tips">
+                        	<p><strong>摘要：</strong>12月5日中午，四川甘孜州道孚县发生草原火灾，当地立即组织干部民众上山扑救。下午3点10分左右，正在处理余火时突起大风，致部分扑救人员遇难。
+</p>
+                        </div>
+                                                <div class="text" id="text" style="font-size:14px;">
+                        								                 				<div></div>
+                										                             <!-- google_ad_section_start(name=content) -->
+                        		<p>　　12月5日中午，四川甘孜州道孚县发生草原火灾，当地立即组织干部民众上山扑救。下午3点10分左右，正在处理余火时突起大风，致部分扑救人员遇难。其中包括15名战士，5名民众，2名林业职工。</p>
+<p>　　在接到火灾情况报告后，四川省省长蒋巨峰立即指派省委常委、副省长钟勉率工作组前往火灾现场。随后蒋巨峰来到四川省森林防火指挥中心，主持紧急会议，听取救火情况介绍，作出六项部署。一要马上调集救火力量，人员尽快到位。二要加强现场火情监测，确保民众生命安全。三要全力救治伤员，千方百计，不惜代价，力争不出现新的伤亡。四要做好善后工作，做好对遇难人员亲属的抚慰工作。五要尽快查明火灾原因，依法处理。六要对全省冬季防火工作进行全面部署。</p>
+<p>　　据悉，火灾发生在道孚县鲜水镇孜龙村呷乌沟，距离道孚县城直线距离6公里左右，在完成紧急部署后，省长蒋巨峰已率队连夜赶往道孚。</p>
+<p>　　目前，因扑救大火导致4名民众受伤，其中3名重伤员已送往康定救治。四川省急救中心专家已出发前往康定。截至记者发稿时，大约仍有200亩草原仍在燃烧。</p>
+			    			<!-- google_ad_section_end(name=content) --> 
+                              <p align="center">
+				 <EMBED src="http://picture.21cn.com/images/flash/slide.swf?channel=news&folderid=2851907" menu="false" wmode="opaque" width="520" height="520"></EMBED>
+				 </p>
+				                          	</div>
+     						<script type="text/javascript" src="http://www.21cn.com/other/js/2009/utils.js"></script>
+                        	<div class="page"></div>
+							<div></div>
+                        
+			    <div style="clear: both; display: block; content: "."; height: 0; visibility: hidden; font-size: 0;">
+</div>
+<div style="text-align:center; padding-left:15px;width:600px; margin:0 auto;clear: both; display: block; content: ".";" >
+
+<li style="text-align:center; float:left;font-size:12px; width:135px;padding-right:10px;"><a 
+href="http://news.21cn.com/social/huabian/list1.shtml" target="_blank"><img src="http://img001.photo.21cn.com/photos/album/20101206/s122x92/D456579439374B8F2296D5645CA4EACE.jpg" width="122" height="92" /><br />毕业生最佳雇主排行榜</a></li> 
+
+<li style="text-align:center; float:left;font-size:12px; width:135px;padding-right:10px;"><a 
+href="http://news.21cn.com/social/huabian/list1.shtml" target="_blank"><img src="http://img001.photo.21cn.com/photos/album/20101206/o/87BE55582E27003498704B840C9B2C3C.jpg" width="122" height="92" /><br />实拍韩国整容血腥一幕</a></li> 
+
+
+<li style="text-align:center; float:left;font-size:12px; width:135px;padding-right:10px;"><a 
+href=" http://et.21cn.com/star/zhuixing/gangtai/2010/12/02/7980018.shtml" target="_blank"><img src="   http://img001.photo.21cn.com/photos/album/20101202/o/8651CB1871F4E9103DDE41C9E3717854.jpg
+" width="122" height="92" /><br />郭可盈被爆曾勾张智霖</a></li>
+
+<li style="text-align:center; float:left;font-size:12px; width:145px;padding-right:5px;"><a 
+href=" http://et.21cn.com/star/zhuixing/gangtai/2010/12/02/7979867.shtml" target="_blank"><img src="   http://img001.photo.21cn.com/photos/album/20101202/o/30A316AFD1B9A39A7B4C9DDA44DA984B.jpg
+" width="122" height="92" /><br />杨千嬅丁子高婚纱照</a></li>
+
+
+
+                  </div>
+						<div class="editor"><div style="text-align:left; float:left;font-size:12px; padding-left:20px; width:70%;">下一篇： <a href="http://news.21cn.com/domestic/difang/2010/12/05/7986082.shtml">四川道孚县草原火灾 省长连夜赶赴现场</a></div> [编辑：余晓瑜]</div> 
+                         
+<!-- google_ad_section_start(name=related) -->
+                        <!-- google_ad_section_end(name=related) -->
+                        <div style="width:580px; margin:0 auto; display:none;" id="add_box0"></div>
+                        <div class="snspush" >分享到 |&nbsp;
+						<script>
+  var url="http://v.t.sina.com.cn/share/share.php?appkey=3673594135";
+  url= url+ "&url=http://news.21cn.com/domestic/difang/2010/12/05/7986085.shtml&title="+ encodeURIComponent("我在看:四川道孚县发生草原火灾致22人死亡") + "&pic=$article.firstPicUrl" ;
+  document.write( "<a href='"+ url + "' target='_blank'><img src=\"http:\/\/img001.photo.21cn.com\/photos\/album\/20101029\/o\/B68D5F50EE2065FBAE8F7324E9C35617.png\" \/>新浪微博</a>" );
+</script> 
+<script>
+function posttoWb(){
+		var _t = encodeURI(document.title);
+		var _url = encodeURI(window.location);
+		var _source = encodeURI("3d7c5bc4c932412aab0d68aa16fc3465");
+		var _site = 'http://www.21cn.com';
+		var _pic = '';
+		var _u = 'http://v.t.qq.com/share/share.php?title='+_t+'&url='+_url+'&source='+_source+'&site='+_site+'&pic='+_pic;
+		window.open( _u,'转播到腾讯微博', 'width=700, height=580, top=320, left=180, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
+	}
+</script>
+<a href="javascript:void(0)" onclick="posttoWb();" close="tmblog" class="tmblog"><img src="http://img001.photo.21cn.com/photos/album/20101029/o/47016E7E406F8D8ADDA888A1DD7DA3D0.png" />腾讯微博</a>
+<a href="javascript:void(0);" onclick="window.open('http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+encodeURIComponent(document.location.href));return false;" title="四川道孚县发生草原火灾致22人死亡"><img src="http://img001.photo.21cn.com/photos/album/20101029/o/3B785B1FCA9FE3D2987332CA98392763.png" alt="分享到QQ空间" />QQ空间</a>
+<a href="javascript:void(function(){var d=document,e=encodeURIComponent,s1=window.getSelection,s2=d.getSelection,s3=d.selection,s=s1?s1():s2?s2():s3?s3.createRange().text:'',r='http://www.douban.com/recommend/?url='+e(d.location.href)+'&title='+e(d.title)+'&sel='+e(s)+'&v=1',x=function(){if(!window.open(r,'douban','toolbar=0,resizable=1,scrollbars=yes,status=1,width=450,height=330'))location.href=r+'&r=1'};if(/Firefox/.test(navigator.userAgent)){setTimeout(x,0)}else{x()}})()"><img src="http://img001.photo.21cn.com/photos/album/20101029/o/C424AFC445774436CBC7006D8D7F1AD8.png" alt="推荐到豆瓣" />豆瓣</a>
+</div>
+          <div class="item black clearfix">
+                        	<!--Ad Begin:-->
+<SCRIPT language=JavaScript>
+<!--
+var arrHost = document.location.hostname.split(".");
+var sChannel = arrHost[0];
+var sAd1 = "http://shows.21cn.com/ashow?js=1&log=1&ref=1&pos=21cn|"+ sChannel+ "|end_hengfu2";
+document.write("<SCRIPT LANGUAGE='JavaScript1.1' ");
+document.write("SRC='" + sAd1 + "'>");
+document.write("<"+"/SCRIPT>");
+//-->
+</SCRIPT>
+<!--Ad End-->
+                      </div>
+                    </div>
+                </div>
+                <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                <div class="box hide" id="add_box1"></div>
+                
+                <!--box area-->                <div class="box clearfix" >
+            <!--通用讨论组开始-->
+						<iframe name="discuss_iframe" id="discuss_iframe" marginWidth="0" style="margin-left:1px;margin-right:1px;" src="http://review.21cn.com/quotes/top_redirect_2009.html?thread_id=7986085&channel_id=6&type_id=11321&updateTag=1&subject=四川道孚县发生草原火灾致22人死亡&threadurl=http://news.21cn.com/domestic/difang/2010/12/05/7986085.shtml" width="606" height="185" scrolling="no" frameborder="0"></iframe>
+            <input type="hidden" name="title_name" id="title_name" value="四川道孚县发生草原火灾致22人死亡"> 
+            <input type="hidden" name="title_id" id="title_id" value="7986085"> 
+            <input type="hidden" name="channel_id" id="channel_id" value="6"> 
+            <input type="hidden" name="type_id" id="type_id" value="11321"> 
+            <script language="javascript">
+	  document.domain = "21cn.com";
+	  function set_url()
+	  {
+		var subject = document.getElementById("title_name").value;
+		var channel_id = document.getElementById("channel_id").value;
+		var type_id = document.getElementById("type_id").value;
+		var thread_id = document.getElementById("title_id").value;
+		var loc_url = window.location.href;
+		var url = "http://review.21cn.com/top_10_1.html?thread_id="+thread_id+"&channel_id="+channel_id+"&subject="+subject+"&threadurl="+loc_url;
+		document.getElementById("discuss_iframe").src = url;
+	  }
+	  </script>
+            <!--通用讨论组结束-->
+                </div>                
+                <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                <div class="box hide" id="add_box2"></div>
+                
+                <!--box area-->
+              <div class="box clearfix">
+                    <iframe  id="click_ifr_1" src="http://ranking.21cn.com/html/news/click/day/10.html" frameborder="0"  scrolling="no" height="270" width="294" name="click_ifr_1" style="margin-left:2px;"></iframe>
+
+           	        <iframe id="review_ifr_1" src="http://review.21cn.com/html/news/review/day/10.html" frameborder="0"  scrolling="no" height="270" width="294" name="review_ifr_1"></iframe>
+              </div>
+                <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                <div class="box hide" id="add_box3"></div>
+                
+                <!--box area 频道精彩内容-->
+              <div class="box clearfix" >
+                 <h3 class="class_2 class_4">精彩图片</h3>
+        <div style="padding-left:20px;"><script type="text/javascript" language="JavaScript" src="http://picture.21cn.com/script/100,0,8,6.js?css=picbar01"></script></div>
+                </div>
+				
+                <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                <div class="box hide" id="add_box4"></div>
+                <!--box area-->
+                <!--box area-->
+                <div class="box clearfix" id="addG" style="padding:10px;">
+                	
+                </div>
+            </div>
+            <!--col_r-->
+            <div class="col_r">
+
+				<!--iframe login-->
+                <div class="box clearfix" style="margin-left:1px;">
+                	<IFRAME name=uud080201 marginWidth=0 marginHeight=0 src="http://news.21cn.com/shtml.21cn.com/2009/02/03/art_2009_login.html" frameBorder=no width=318 scrolling=no height=119 DESIGNTIMESP="1840"></IFRAME>
+                </div>
+                
+                <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                
+                <!--box area-->
+                <div class="box hide" id="add_box5"></div>
+            	<!--box area-->
+            	<div class="box none">
+                	<div style=""><!--Ad Begin:-->
+<SCRIPT language=JavaScript>
+<!--
+//取出频道名
+var arrHost = document.location.hostname.split(".");
+var sChannel = arrHost[0];
+document.write("<iframe id='iframe_xuant1' name='iframe_xuant1' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|xuant1' width='320' height='240' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>");
+//-->
+</SCRIPT>
+<!--Ad End--></div>
+                </div>
+                
+                <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                <div class="box hide" id="add_box6"></div>
+                
+                <!--box area-->
+                	<div><IFRAME name=I4444 marginWidth=0 marginHeight=0 src="http://www.21cn.com/editor/search/114.html" frameBorder=no width=320 scrolling=no height=67 DESIGNTIMESP="1840"></IFRAME></div>
+                <div class="blank"></div>
+                <!--box area-->
+                <div class="box hide" id="add_box7"></div>
+                
+                <!--box area 频道精选内容-->
+                <div class="box clearfix">
+  <h3 class="class_3"><span>新闻精选</span></h3>
+                 <ul class="pic_item clearfix" style="border-top:0;">
+                     <li><a href="http://finance.21cn.com/shjj/2010/12/02/7980231.shtml" target="_blank"><img src="http://img001.photo.21cn.com/photos/album/20101202/o/AC84456F68AD576DFE6C4EB92613D4D1.jpg"  /><strong>全球财色双收的艳遇</strong></a></li>
+
+                     <li><a href="http://finance.21cn.com/shjj/2010/11/29/7971732.shtml" target="_blank"><img src="http://img001.photo.21cn.com/photos/album/20101129/o/C6078EC72CCD9F6E923C85B8273CF7F6.jpg"  /><strong>全球富豪垂涎的女人</strong></a></li>
+
+
+
+  </ul>
+<DIV class=hot><STRONG>重点：</STRONG><a href="http://finance.21cn.com/shjj/2010/11/24/7963195.shtml" target="_blank">哪个星座最易成巨富？</a></DIV>
+                    <div class="item item_1 clearfix">
+                         
+                            <ul >
+<li><a href="http://finance.21cn.com/news/cjrw/2010/11/15/7941565.shtml" target="_blank">周总理如何对待房子</a></li>        
+<li><a href="http://finance.21cn.com/shjj/2010/11/10/7931893.shtml" target="_blank">明星夫妻财气大比拼</a></li>
+<li><a href="http://finance.21cn.com/shjj/2010/11/09/7930949.shtml" target="_blank">实拍人民币印制过程</a></li>                     
+<li><a href="http://finance.21cn.com/news/cjrw/2010/05/20/7538845.shtml" target="_blank">娱乐圈财运最旺的女星</a></li>                                                    
+                            </ul>
+                           
+                            <ul class="last">
+<li><a href="http://finance.21cn.com/shjj/2010/11/06/7925643.shtml" target="_blank">毛主席一天花多少钱</a></li>
+<li><a href="http://finance.21cn.com/shjj/2010/09/27/7844842.shtml" target="_blank">中国10大美女企业家</a></li>
+<li><a href="http://finance.21cn.com/shjj/2010/08/16/7742617.shtml" target="_blank">盘点各省第一财富美女</a></li>    
+<li><a href="http://finance.21cn.com/shjj/2010/11/05/7922821.shtml" target="_blank">盘点女主播们的恋事</a></li>
+      
+                                
+                            </ul>
+  </div>
+                </div>
+                
+                <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                <div class="box hide" id="add_box8"></div>
+                
+                <!--box area-->
+                <div class="box none clearfix">
+                	<div> <!--Ad Begin:-->
+ <SCRIPT language=JavaScript>
+<!--
+//取出频道名
+var arrHost = document.location.hostname.split(".");
+var sChannel = arrHost[0];
+document.write("<iframe id='iframe_xuant2' name='iframe_xuant2' src='http://shows.21cn.com/ashow?js=0&log=1&ref=1&pos=21cn|"+ sChannel+"|xuant2' width='320' height='240' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no' ></iframe>");
+//-->
+</SCRIPT>
+<!--Ad End--></div>
+                </div>
+                
+                 <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                <div class="box hide" id="add_box9"></div>
+                <!--box area-->
+                
+                 <!--blank div-->
+                <div class="blank"></div>
+                
+                <!--box area-->
+                <div class="box hide" id="add_box10"></div>
+				<!--box area 今日聚焦-->
+				<div class="box none clearfix">
+<iframe marginheight="0" marginwidth="0" frameborder="0" width="318" height="280" scrolling="no" src="http://ranking.21cn.com/focus/day/focus.html">
+</iframe></div>
+				
+                 <!--blank div-->
+                <div class="blank"></div>
+                 
+                <!--box area-->
+                <div  class="box hide" id="add_box11"></div>
+                 
+                <!--box area 社区推荐-->
+                <div class="box clearfix">
+                 <h3 class="class_3"><span><a href="http://free.21cn.com/" target="_blank">社区</a>&nbsp;</span></h3>
+                    <ul class="pic_item last das clearfix">
+                     <li><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_2993552.html" target="_blank"><img src="http://img011.photo.21cn.com/photos/free/20101129/s416x268/946345BB9AF5E2D9D7FFFE54B19B07C4.jpg" alt="成都美女走T台应聘" width="126" height="95" border="0" /><strong>成都美女走T台应聘</strong></a></li>
+                        <li><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_2991008.html" target="_blank"><img src="http://img001.photo.21cn.com/photos/free/20101126/s416x268/389305F3D9C7F02D68697B363F37BC20.jpg" alt="2010年十大网络哥" width="126" height="95" border="0" /><strong>2010年十大网络哥</strong></a></li>
+                    </ul>
+                    <div class="hot"><strong>思索：</strong><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_2955329.html" target="_blank">我们为什么怀念毛泽东？</a></div>
+        <ul class="news_item last">
+            <li><span><a href="http://free.21cn.com/" target="_blank">[震惊]</a></span><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_2965375.html" target="_blank">披露美国强买中国稀土真相</a></li>
+            <li><span><a href="http://free.21cn.com/" target="_blank">[血性]</a></span><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_2956438.html" target="_blank">中国要从羊性转向狼性国度</a></li>
+            <li><span><a href="http://free.21cn.com/" target="_blank">[直言]</a></span><a href="http://free.21cn.com/newbbs/mainframe.jsp?url=/forum/bbsMessageList_2958693.html" target="_blank">你所看不到的西方“隐形侵略”</a></li>
+  </ul>
+             
+                </div>
+                
+                 <!--blank div-->
+                <div class="blank"></div>
+                 
+                <!--box area-->
+                <div  class="box hide" id="add_box13"></div>
+                 
+                <!--box area 播客相册-->
+                <div class="box clearfix">
+                 <h3 class="class_3"><span><a href="http://igame.21cn.com/index.shtml" target="_blank">网游</a>&nbsp;&nbsp;<a href="http://photo.21cn.com/" target="_blank"></a></span></h3>
+                    <ul class="pic_item last das clearfix">
+                     <li><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=29" target="_blank"><img src="http://igame.21cn.com/images/680X60/news/zdyz1206.jpg" alt="网游" width="126" height="95" border="0"/><font color="red"><strong>白领美女独家爆料</strong></font></a></li>
+                        <li><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=56" target="_blank"><img src="http://igame.21cn.com/images/680X60/news/zdyy1206.jpg" alt="免费游戏" width="126" height="95" border="0" /><strong>新网游时代的恶搞</strong></a></li>
+                    </ul>
+                    <div class="hot"><strong>刺激：</strong><A href="http://home.igame.21cn.com/promotion/go.jsp?pid=144" target="_blank">神马？这就是国产游戏的春天？</A></div>
+                    <ul class="news_item last">
+            <li><span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=145" target="_blank">[震撼]</a></span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=145" target="_blank">大学女生半夜不睡，为的是这个？</a></li>
+          <li><span><a href="http://igame.21cn.com/mini" target="_blank">[精彩]</a></span><a href="http://igame.21cn.com/mini" target="_blank">满足你的欲望，有她就够了</a></li>
+            <li><span><a href="http://igame.21cn.com/index.shtml" target="_blank">[兴奋]</a></span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=54" target="_blank">世间竟有如此享受的游戏，就等你来</a></li>  </ul>
+                   <div style="border-top:1px dashed #ccc; padding:15px 0 5px 8px">
+                 <p class="links clearfix">
+                 <span class="icon"><img src="http://igame.21cn.com/wuliao/2010/04/08/new1.gif" /></span>
+                 <span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=736" target="_blank">斗法修仙传</a></span>
+                 <span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=50" target="_blank">明朝时代</a></span>
+                 <span style="margin:0"><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=51" target="_blank">商业大亨</a></span>
+                 </p>
+                 <p class="links clearfix">
+                 <span class="icon"><img src="http://igame.21cn.com/wuliao/2010/04/08/hot1.gif" /></span>
+                 <span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=52" target="_blank">武侠风云</a></span>
+                 <span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=53" target="_blank">德州扑克</a></span>
+                 <span style="margin:0"><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=49" target="_blank">天策</a></span>
+                 </p>
+                 <p class="links clearfix">
+                 <span class="icon"></span>
+                 <span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=299" target="_blank">武林传奇2</a></span>
+                 <span><a href="http://home.igame.21cn.com/promotion/go.jsp?pid=298" target="_blank">大富豪</a></span>
+                 <span style="margin:0"><a href="http://igame.21cn.com/mini/fun/2009/06/18/6453878.shtml" target="_blank">怪兽大富翁</a></span>
+                 </p>
+                
+               </div>
+                </div>
+                
+                 <!--blank div-->
+                <div class="blank"></div>
+                                
+                <!--box area-->
+                <div class="box hide" id="add_box12"></div>
+                
+                <!--box area 宽频影院推荐-->
+                <div class="box clearfix">
+                 <h3 class="class_3"><span>VGO</span></h3>
+                    <ul class="pic_item pic_item_mar last clearfix">
+                        <li><a href="vgo://present|dnh0cmVhbTovLy8/JnR5cGU9MCZtb3ZpZWlkPTkwMjU0JmNsYXNzaWQ9ODE0JnBhZ2VOdW1iZXI9MQ=="><img src=" http://imgv.21cn.com/v21/xk/101008/9.jpg" width="67" height="92" /><strong>内衣少女</strong></a></li>
+                        <li><a href="vgo://present|dnh0cmVhbTovLy8/JnR5cGU9MCZtb3ZpZWlkPTkwNjUxJmNsYXNzaWQ9ODE0JnBhZ2VOdW1iZXI9MQ=="><img src=" http://imgv.21cn.com/v21/xk/101008/10.jpg" width="67" height="92" /><strong>卡萨诺瓦</strong></a></li>
+                        <li><a href="vgo://present|dnh0cmVhbTovLy8/JnR5cGU9MCZtb3ZpZWlkPTkwNjE4JmNsYXNzaWQ9ODE1JnBhZ2VOdW1iZXI9MQ=="><img src=" http://imgv.21cn.com/v21/xk/101008/11.jpg" width="67" height="92" /><strong>才子佳人</strong></a></li>
+                        
+                    </ul>
+                    <ul class="pic_item pic_item_mar last clearfix" style="border-bottom:1px solid #ccc">
+                        <li><a href="vgo://present|dnh0cmVhbTovLy8/JnR5cGU9MCZtb3ZpZWlkPTQ3MTI1JmNsYXNzaWQ9ODE0JnBhZ2VOdW1iZXI9MQ=="><img src="http://imgv.21cn.com/v21/xk/101008/12.jpg" width="67" height="92" /><strong>史前一万年</strong></a></li>
+                        <li><a href="vgo://present|dnh0cmVhbTovLy8/JnR5cGU9MCZtb3ZpZWlkPTkwNjQ1JmNsYXNzaWQ9ODE0JnBhZ2VOdW1iZXI9MQ=="><img src=" http://imgv.21cn.com/v21/xk/101008/13.jpg" width="67" height="92" /><strong>爱丽丝</strong></a></li>
+                        <li><a href="vgo://present|dnh0cmVhbTovLy8/JnR5cGU9MCZtb3ZpZWlkPTkwNjQxJmNsYXNzaWQ9ODY3JnBhZ2VOdW1iZXI9MQ=="><img src=" http://imgv.21cn.com/v21/xk/101008/14.jpg" width="67" height="92" /><strong>悲恋三人行</strong></a></li>
+
+                    </ul>
+                      <div class="blank"></div>
+                    <div class="box clearfix" >
+                	
+					<h3 class="class_3"><span><a href=" http://gz.ganji.com" target="_blank" class="c1">
+
+广州赶集网</a></span>
+<span class="r"><a href=" http://gz.ganji.com/pub/pub_select.php" target="_blank" class="c1">免费发布同城信息</a></span></h3>
+                    <div class="item clearfix" style="padding-bottom:10px">
+   
+       <ul style="width:100%;" >
+       <li style="float:left; margin-right:8px;"><a href=" http://gz.ganji.com/fang1/" target="_blank">广州租房</a></li> 
+       <li style="float:left; margin-right:8px;"><a href=" http://gz.ganji.com/fang5/" target="_blank" >广州二手房</a></li> 
+       <li style="float:left; margin-right:8px;"><a href=" http://gz.ganji.com/ershouche/" target="_blank" >广州二手车
+
+</a></li> 
+       <li style="float:left"><a href=" http://gz.ganji.com/wu/ " target="_blank" >广州二手物品</a></li>
+   
+ </ul>
+
+                            
+    </div>
+  </div>
+  <div class="blank"></div>
+  <div class="box clearfix" style="border-bottom:0;">
+                	<h3 class="class_3"><span><a href=" http://sz.ganji.com" target="_blank" class="c1">深圳赶集网
+
+</a></span>
+<span class="r"><a href=" http://gz.ganji.com/pub/pub_select.php" target="_blank" class="c1">免费发布同城信息</a></span></h3>
+                    <div class="item clearfix" style="padding-bottom:10px">
+
+      <ul style="width:100%; " >
+       <li style="float:left; margin-right:8px;"><a href=" http://sz.ganji.com/fang1/" target="_blank" >深圳租房</a></li> 
+       <li style="float:left; margin-right:8px;"><a href=" http://sz.ganji.com/fang5/" target="_blank" >深圳二手房</a></li> 
+       <li style="float:left; margin-right:8px;"><a href=" http://sz.ganji.com/ershouche/" target="_blank" >深圳二手车
+
+</a></li> 
+       <li style="float:left"><a href=" http://sz.ganji.com/wu/" target="_blank" >深圳二手物品</a></li>
+   
+ </ul>
+	  </div>
+  </div>
+
+                </div>
+                
+            </div>
+        </div>
+	</div>
+	<!--公司导航开始-->
+	<div class="footer clearfix" ><ul>
+ <li><a href="http://www.21cn.com/21cndongtai/index.html" target="_blank">公司简介</a></li>
+ <li><a href="http://www.21cn.com/ads/index.html" target="_blank">广告服务</a></li>
+ <li><a href="http://www.21cn.com/21cndongtai/lead.html" target="_blank">网站导航</a></li>
+ <li><a href="http://www.21cn.com/21cndongtai/hzhuoban.html" target="_blank">合作伙伴</a></li>
+ <li><a href="http://agent.21cn.com/" target="_blank">诚征代理</a></li>
+ <li class="last"><a href="http://www.21cn.com/21cndongtai/lianxifsh.html" target="_blank">联系我们</a></li>
+ </ul></div>
+	<!--公司导航结束-->
+	<!--最终页统一页脚开始-->
+	<style type='text/css'><!--.menufoot12p           {color:#000000;font-size:12px;line-height:120%;}a.menufoot12p:link     {color:#000000; text-decoration:none;}a.menufoot12p:visited  {color:#000000; text-decoration:none;}a.menufoot12p:hover    {color:#ff0000; text-decoration:underline;}--></style><div id='footer_hd' style=' text-align:center;  font:12px Arial, Helvetica, sans-serif;'>  <div style='width:758px; margin:0 auto; padding-top:15px;'> <img src='http://img04.21cn.com/news/home/2004/08/24/tell-logo.gif' height='29' width='92' alt='中国电信' />    <p style='padding:5px 0 0; margin:0; color:#000'>经营许可证编号:<a class='menufoot12p' href='http://www.21cn.com/other/copyright/icp.html' target='_blank'  title='在新窗口中查看ICP证' style=' :link {color:#000; text-decoration:none}; :visited { color:#000; text-decoration:none}; :hover {color:#f00; text-decoration:none}'>粤ICP证010001</a> 不良信息举报：<a href='http://vip.tq.cn/vip/pageinfo.do?action=acd&acd=1&admiuin=9008354&type_code=22&ltype=0&iscallback=1'  target='_blank' class='menufoot12p' >[点击联系] 即时在线客服</a> </p>    <p style='padding:5px 0 0; margin:0; color:#000'>世纪龙信息网络有限责任公司版权所有&nbsp;<a class='menufoot12p' href='http://www.21cn.com/other/copyright/index.html' target='_blank' title='在新窗口中查看服务声明'>服务声明</a><br /><span style='color:#FFF;'>07048</span></p>  </div></div>
+<script>
+(function(){
+var analytics_host = 'analytics.21cn.com/collect/'; 
+var pkBaseURL = (('https:' == document.location.protocol) ? 'https://'+analytics_host : 'http://'+analytics_host);
+document.write(unescape('%3Cscript src='+pkBaseURL+'js/wa_tracking.js type=text/javascript%3E%3C/script%3E'));
+var analytics_time=0;
+function timeout_fun(){setTimeout(function(){if(typeof(WATrace)!='undefined'){track()}else if(analytics_time<100){timeout_fun();analytics_time++;}},500);}
+function track(){try {var watrace_track = WATrace.getTracker(pkBaseURL + '_trace.gif', 'aOxuz');watrace_track.trackPageView();}catch(err){}}
+new timeout_fun();
+})();
+</script>
+	<!--最终页统一页脚结束-->
+	
+	<!--预留JS开始-->
+<script type="text/javascript" src="http://market.21cn.com/w/js/market-end.js"></script>
+<!--预留JS结束-->
+<!--文字链广告开始-->
+<script type="text/javascript" src="http://market.21cn.com/w/js/market-end2.js"></script>
+<!--文字链广告结束-->
+
+<!-- 采集点击数 Begin -->
+<iframe id="clickFrame" name="clickFrame" marginWidth=0 src="" height="0" width="0" scrolling=no frameborder=0></iframe>
+<script language="JavaScript">
+   var channel_id="6";
+   var article_id="7986085";
+   var type_id="11321";
+   var title="四川道孚县发生草原火灾致22人死亡";
+   var pubtime="2010-12-05 23:30:51".substring(0,10);
+   var url=window.location.href;
+   var invokeUrl="http://ranking.21cn.com/add.addservlet?ArticleID="+article_id+"&ChannelID="+channel_id+"&url="+url+"&title="+title+"&pubtime="+pubtime+"&type_id="+type_id;
+   if (url.indexOf(":8") == -1) {
+     document.getElementById("clickFrame").src=invokeUrl;
+   }
+</script>
+<!-- 采集点击数 End -->
+<!-- 分析网页URL拼凑广告代码串 Begin -->
+<script type="text/javascript" src="http://www.21cn.com/shtml.21cn.com/2009/05/13/pv_t_js.html"></script>
+<!-- 分析网页URL拼凑广告代码串 End -->
+</body>
+</html>

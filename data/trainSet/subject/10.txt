@@ -1,0 +1,494 @@
+http://blog.southcn.com/u/zhengyuchuan/archives/2010/3399.html
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-CN" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="generator" content="oblog" />
+<meta name="author" content="郑渝川,郑渝川" />
+<meta name="keyword" content="重建气候伦理" />
+<meta name="description" content="&nbsp;&nbsp;所评图书：《气候伦理》，（英）迈克尔·S.诺斯科特&nbsp;著，左高山、唐艳枚、龙运杰&nbsp;译，社会科学文献出版社2010年10月版&nbsp;&nbsp; &nbsp" />
+<title>重建气候伦理--郑渝川的南方博客</title>
+<link rel="alternate" href="/u/zhengyuchuan/rss2.xml" type="application/rss+xml" title="RSS" />
+<link href="/OblogStyle/OblogUserDefault4.css" rel="stylesheet" type="text/css" />
+<script src="/inc/main.js" type="text/javascript"></script>
+</head>
+<body>
+<span id="gg_usertop"></span><style>
+body,td,th {
+	font-size: 12px;
+	color: #BB821A;
+	text-decoration: none;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFF327;
+}
+.b1 {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+	padding-left: 8px;
+}
+.b2 {
+	font-size: 12px;
+	line-height: 1.6em;
+	font-weight: bold;
+	color: #BB821A;
+	text-decoration: none;
+	background-image: url(/skin/kimy8/yr/index_14.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.b3 {
+    font-size: 12px;
+	line-height: 1.6em;
+	font-weight: bold;
+	color: #BB821A;
+	text-decoration: none;
+
+}
+
+/*===========日志撰写者=============*/
+.post_user	{
+	color: #BB821A;
+	font-size: 12px;
+	line-height: 1.6em;
+	text-decoration: none;
+}
+/*===========日志标题=============*/
+.post_title	{
+	font-size: 14px;
+	font-weight: bold;
+	color: #BB821A;
+	text-decoration: none;
+}
+#calendar td a { 
+	font-weight: bold;
+	color:red;
+}
+#ob_login {
+text-align:center;
+}
+**********************{}
+
+#topMenu a:visited {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #ff0000;
+	text-decoration: none;
+}
+
+#topMenu a:hover {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #000000;
+	text-decoration: none;
+}
+#topMenu a:link {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #FF0000;
+	text-decoration: none;
+} 
+#content a:link{
+	font-size: 12px;
+	font-weight: normal;
+	color: #783811;
+	text-decoration: none;
+}
+#content a:visited{
+	font-size: 12px;
+	font-weight: normal;
+	color: #783811;
+	text-decoration: none;
+}
+#content a:hover{
+	font-family: "宋体";
+	font-weight: normal;
+	color: #ff0000;
+	text-decoration: none;
+}
+#content {	
+    font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+#content td {	
+    font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.oblog_text {
+line-height:1.5;
+}
+*****************************{}
+
+a:visited {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #ff0000;
+	text-decoration: none;
+}
+a:link {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+}
+.a1:visited {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+}
+.a1:hover {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #ff0000;
+	text-decoration: none;
+}
+.a1:link {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+}
+/*===========日志标题连接=============*/
+.post_title:visited {
+	font-size: 14px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+}
+.post_title:hover {
+	font-size: 14px;
+	line-height: 1.6em;
+	color: #ff0000;
+	text-decoration: none;
+}
+.post_title:link {
+	font-size: 14px;
+	line-height: 1.6em;
+	color: #BB821A0;
+	text-decoration: none;
+}
+/*===========日志撰写者连接=============*/
+.post_user:visited {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+}
+.post_user:hover {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #ff0000;
+	text-decoration: none;
+}
+.post_user:link {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+}
+/*===========blog标题连接=============*/
+.blog_name {
+	font-size: 16px;
+	line-height: 1.6em;
+	font-weight: bold;
+	color: #BB821A;
+	text-decoration: none;
+	font-weight: bold;
+}
+/*===========搜索框=============*/
+.search {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #BB821A;
+	text-decoration: none;
+	padding-top: 15px;
+}
+.STYLE1 {
+	color: #fFF;
+	font-weight: bold;
+	font-size: 16px;
+}
+.STYLE2 {color: #AB7818}
+.STYLE3 {color: #926614}
+</style>
+<BODY leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/skin/kimy8/csbj/patten.gif">
+<TABLE width="950" height="30" border="0" cellspacing="0" cellpadding="0" align="center">
+	<TR> 
+		<TD>
+		</TD>
+		<TD align="right">&nbsp;</TD>
+	</TR>
+</TABLE>
+<TABLE width="950" height="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<TR valign="top"> 
+		<TD> 
+			<TABLE width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+				<TR> 
+					<TD width="21" height="20"><IMG src="/skin/kimy8/csbj/main_box_01.gif" width="21" height="20"></TD>
+					<TD background="/skin/kimy8/csbj/main_box_top.gif"></TD>
+					<TD background="/skin/kimy8/csbj/main_box_top.gif" width="27"><IMG src="/skin/kimy8/csbj/main_box_02.gif" width="27" height="20"></TD>
+				</TR>
+				<TR> 
+					<TD background="/skin/kimy8/csbj/main_box_left.gif" valign="top">&nbsp; </TD>
+					<TD valign="top" align="center"><TABLE width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <TR>
+                        <TD align="center" valign="top"><TABLE width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <TR>
+                              <TD width="9" rowspan="2"><IMG src="/skin/kimy8/csbj/title_left.gif" width="9" height="63"></TD>
+                              <TD background="/skin/kimy8/csbj/title_back.gif"><div align="left" class="STYLE1"><span id="blogname">载入中...</span></div></TD>
+                              <TD width="9" rowspan="2" background="/skin/kimy8/csbj/title_right.gif"></TD>
+                            </TR>
+                            <TR>
+                              <TD background="/skin/kimy8/csbj/title_back.gif"><span class="STYLE2"><div id="subject_l">载入中...</div></span></TD>
+                            </TR>
+                        </TABLE></TD>
+                      </TR>
+                      <TR>
+                        <TD align="center" valign="top" height="10"></TD>
+                      </TR>
+                      <TR>
+                        <TD valign="top" align="center" style="padding: 20px;"></TD>
+                      </TR>
+                    </TABLE>
+					  <table width="100%" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td><span class="STYLE3"><STYLE type=text/css>
+.style3 {color: #006699}
+.STYLE6 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF6633;
+}
+.STYLE8 {color: #006666}
+</STYLE>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR>
+<TD><span class="STYLE6">重建气候伦理</span></TD>
+</TR>
+<TR>
+<TD>
+<DIV align=right><SPAN class=textbox-label>[ 2010-12-3 23:49:00 | By: <SPAN class=style3>郑渝川</SPAN> ]</SPAN></DIV></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD height=3>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0 style="table-layout:fixed;">
+<TBODY>
+<TR>
+<TD><SPAN class=oblog_text><span id="ob_logd3399"></span> <P class=MsoNormal><SPAN lang=EN-US><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;</SPAN></SPAN><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">所评图书：《气候伦理》，（英）迈克尔·</SPAN><SPAN lang=EN-US>S.</SPAN><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">诺斯科特</SPAN> <SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">著，左高山、唐艳枚、龙运杰</SPAN> <SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">译，社会科学文献出版社</SPAN><SPAN lang=EN-US>2010</SPAN><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">年</SPAN><SPAN lang=EN-US>10</SPAN><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">月版</SPAN><SPAN lang=EN-US> <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-US><o:p>&nbsp;<A href="http://zhengyuchuan.photo.hexun.com/84260546_d.html" target=_blank><IMG alt=查看更多精彩图片 src="http://photo20.hexun.com/p/2010/1203/421302/b_vip_EDB3BCF162475619E663E4C124D0D491.jpg" border=0></A><BR><BR></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="FONT-SIZE: 14pt"><SPAN lang=EN-US style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">在国际著名伦理学家迈克尔·</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">S.</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">诺斯科特看来，金融危机、能源危机和环境危机“三合一”，暗示了潜在的地球系统的全球性崩溃，是市场的自由化和不断增长而产生的这些生态和社会成本的空间位移。　　</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">在他所著的《气候伦理》（社会科学文献出版社</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">2010</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">年</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">10</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">月中文版）一书中，迈克尔·</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">S.</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">诺斯科特指出，本来，“拒绝承认对商业和技术力量的道德或生态约束，是欧洲启蒙运动和为了从教会的权威、传统和信仰，以及从自然中解放出来而进行的现代斗争遗留的问题的一部分”，可以称之为进步的思想和积极的行动；但非常具有讽刺意味的问题在于，这样一种解构、解放和自由，极大的破坏了生态系统、社会状态和传统伦理。特别是最近</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">40</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">年来，由于消费主义急速扩张，广告、时尚和娱乐产业刺激了消费和生产，彻底颠覆了自然系统的再生或再循环模式。　　</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">在新自由主义的影响下，经济学家们及其影响下的各国政治领袖、商业精英，都坚信人类行为可以通过机械论方式予以模拟，模拟和运算的对象甚至还可以扩展到包括生态和社会系统在内的万事万物。纯数学的术语和模型，再得到计算机和互联网技术的帮助，使得“市场决定一切”、“出现问题，市场会自行修复”的思想深入人心，以英美政府为代表的国家组织不仅自行实践还广泛倡导对政治体系作用、政府功能的削减。由此，市场机制开始大幅替代政府，发挥对经济和社会政策的调节，还被引入教育、医疗领域，进入</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">21</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">世纪随着环境危机的出现，还被用来调节气候、生态、环境，开启以碳交易应对全球变暖的新型经济和社会机制。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">缩小国家对金钱的政治管制是新自由主义政治经济学的主要政治纲领。这套广为流行的学说的核心观点是，解除了跨国公司、投资银行以及其他一些经济体的法律强制责任，比如不必支付最低工资、不必支付公共税务（或按最低的税率纳税）、不必提供一个健康的工作环境也不必保护环境，那么，个人与国家的福利都会改善。欧美各主要资本主义大国经过工业资本主义时期的野蛮增长后，生态伦理、社会正义思想开始在政界和社会复苏，跨国公司便纷纷将生产转移到发展中国家，享受发展红利。新自由主义的关键逻辑是，放任经济增长和解除一切经济管制可以让世界更美好，包括生态伦理、环境保护、气候政治在内的政府和社会主动行动都是障碍。为此，许多人不惜否认危机的事实存在，有一些是坚决不相信危机及其潜在破坏力，还有一些是基于既得利益，故意误导视听，如全球各大石油企业近几十年来斥巨资雇佣经济学家、媒体精英宣传“天下太平”，成功达成目的（</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">2007</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">年美国举办的民意测验显示，多数美国人不相信矿物燃料造成全球变暖，并认为即使环境面临其他因素的挑战，也可以通过技术创新和新能源发展，充分解决问题）。　　</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">当潜在危机已经转换为表象冲击，工业化大国再也不能无视事实，组织、参与国际减排谈判。但正如人们所看到，这项谈判每一年、每一轮在带给人们特别是陷入贫困、生态双重危机的“南方国家”人们以希望的同时，也在年复一年的制造巨大的失望。人为全球变暖不仅引进人类之间的严重不公平，而且还在因为各国权力关系和博弈联盟中的“站队”、暗箱操作，继续延续和拉大不公平。　　</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">迈克尔·</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">S.</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">诺斯科特在《气候伦理》一书中，还谈到了人们往往忽视的有悖生态伦理、造成和加剧不公平事实的一些现象。譬如，一些急速发展的发展中国家，在政治和商业精英迫切的增长意愿驱动下，再加上跨国公司等力量的支持，集中原先为农民、牧民掌握的农村土地，强力推进城市化；这些土地被集中起来，产生高额的开发效益，却没有惠及原住民和城市居民，还因为工业和商业的过度发展，普遍抬高了物价水平；进城农民、牧民离开了土地，不能像以前那样，从土地上得到食物、能源和个体生产经营的基础条件，而是被动的依赖于城市经济，造成许多人生活质量、食物安全受到威胁；原先农用、保持着相对完整的生态循环和再生能力的土地，用途改变，产生了极大的生态负效益。　　</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">又如，急速工业化、城市化延长了人们的交通距离，以及食物在内各种生活必需品的物流距离，使得同等的生活质量，如今却包含着更多的碳排放、“碳债务”，压缩了传统社会人们生活的空间感，撕裂了城市的合理空间布局。简而言之，现代人的生活已经严重异化、反生态化。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">再如，工业化、流水线式的农场农业，与传统个体农业相比，人们往往只看到了前者生产数量、效率、产出品种丰富性的优点，却忽视了前者基于对矿物燃料的依赖，已经从后者的生态平衡、自然循环、碳中和框架中突破，变成了彻头彻尾的温室气体产生来源。而且，农场农业还造成当代人饮食结构、身体健康情况的激烈变化　　</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">迈克尔·</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">S.</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">诺斯科特对热门的碳交易概念及其操作体系，提出了尖锐批评。在他看来，各种形式的碳贸易、全球碳市场并没有激励真正减少排放量，反而创造了巨大的新的贸易机会以及欺诈和不公正的机会。迈克尔·</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">S.</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">诺斯科特披露指出，金融机构和产业资本运作的“碳汇”项目，常常是将大批自然森林砍伐后，大规模喷洒杀虫剂和除草剂，再将平整出的土地用来种植单一品类的树木（譬如桉树，可以加工为铁矿石冶炼所用的木炭，实为“生物燃料”）。不但不能减少二氧化碳和甲烷排放（单一树种比复杂多样的林木吸收的碳少得多），而且还造成土地的贫瘠和对生态多样性环境的巨大破坏。　　</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">迈克尔·</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">S.</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">诺斯科特认为，解决“三合一”危机，必须重新建构政治和经济伦理，使之符合生态伦理，由此来改造人们的生产和生活方式，改变新自由主义政治经济学忽略“人”的存在、省略发展正义、将气候改革和能源创新统统解释为可牟利的生意的做法。比如，建筑业就需要改变已经延续数百年的建筑美学思想和功能设计导向，真正回归到生态建筑伦理本位；按照居住空间与自然光源和能量循环之间的关系，尽可能使建筑物吸收太阳的温暖能量，通过热泵和隔热系统保持温度，同时通过对自然光源的最大化利用，使得电力光源的使用达到最小化。事实上，近年来人们已经意识到，隔断自然的照明和通风，建筑及其工作、生活在里边的人容易患上“病态建筑综合征”。此外，还可以考虑利用城市现有建筑不同的高度，在高层建筑顶端设立太阳能和风能能源利用装置，为底层建筑提供能源补充，达成城市能源综合利用、不同阶层人群对话和合作和社会正义。　</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">米兰·昆德拉曾说过，速度是“科技革命赋予人类的狂醉形式”，这种狂醉形式导致了物的所有者、获利者与其后果的分离（即人们不必为科技和商业成果的外部性买单）。在现今各类政治和经济体制背景下，普遍体现出对发展、增长速度的病态式迷恋，人们忽略了对增长后果（直接外部性，如环境污染）及其道德影响的考量。显然，这是反生态伦理的。迈克尔·</SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt">S.</SPAN><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">诺斯科特由此提出了一个根本无法实现的期望，即人类强化存在意识和共同体意识，降低对速度的愿望——从哥本哈根到坎昆，各国政治精英们的行动是与这一愿望背道而驰的。</SPAN></SPAN></P></SPAN></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD height=3>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<DIV align=right><SPAN class=textbox-urls><a href="#" >阅读全文<span id="ob_logreaded"></span></a> | <a href="#cmt">回复(0)</a> <span id = "ob_logm3399"> </span> | <a href="/showtb.asp?id=3399" target="_blank">引用通告<span id="ob_tbnum"></span></a> | <a href="/user_post.asp?logid=3399" target="_blank">编辑</a></SPAN></DIV></TD></TR></TBODY></TABLE>
+<TABLE height=14 cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD><div align="center" class="STYLE8">
+  <hr />
+</div></TD>
+</TR></TBODY></TABLE></TD></TR></TBODY></TABLE><div id="blogaddon">
+<li>标签：<span><a href="/u/zhengyuchuan/cmd.html?uid=60&do=tag_blogs&id=2512">书评</a></span>&nbsp;<span><a href="/u/zhengyuchuan/cmd.html?uid=60&do=tag_blogs&id=4681">气候伦理</a></span>&nbsp;<span><a href="/u/zhengyuchuan/cmd.html?uid=60&do=tag_blogs&id=4682">生态伦理</a></span>&nbsp;</li></div>
+
+<div id="morelog">
+	<ul>
+		<li>上一篇：<a href="/u/zhengyuchuan/archives/2010/3397.html">从70米到120米，花钱理由在哪里？</a></li>
+		<li>下一篇：<a href="/u/zhengyuchuan/archives/2010/3400.html">从德鲁克到巴菲特，我们学到了什么？</a></li>
+	</ul>
+</div>
+
+<div id="form_comment">
+	<div id="gg_usercomment"></div><a name="cmt"></a><div class="title">发表评论：</div>
+	<form action="/savecomment.asp?logid=3399" method="post" name="commentform" id="commentform" onSubmit="return Verifycomment()">
+		<div class="d1"><label>昵称：<input name="UserName" type="text" id="UserName" size="20" maxlength="20" value="" /></label></div>
+		<div class="d2"><label>密码：<input name="Password" type="password" id="Password" size="20" maxlength="20" value="" /> (游客无须输入密码)</label></div>
+		<div class="d3"><label>主页：<input name="homepage" type="text" id="homepage" size="42" maxlength="50" value="http://" /></label></div>
+		<div class="d4"><label>标题：<input name="commenttopic" type="text" id="commenttopic" size="42" maxlength="50" value="Re:重建气候伦理" /></label></div>
+		<div class="d5">
+			<input type="hidden" name="edit" id="edit" value="" />
+			<div id="oblog_edit">载入中...</div>
+		</div>
+		<div class="d6"><span id="ob_code"></span><input type="submit" value="&nbsp;提&nbsp;交&nbsp;" onclick='oblog_edittext.createTextRange().execCommand("Copy");'></div>
+	</form>
+</div>
+</span></td>
+                        </tr>
+                      </table></TD>
+					<TD background="/skin/kimy8/csbj/main_box_right_back.gif" valign="top"><IMG src="/skin/kimy8/csbj/main_box_right01.gif" width="27" height="365"></TD>
+				</TR>
+				<TR> 
+					<TD><IMG src="/skin/kimy8/csbj/main_box_03.gif" width="21" height="20"></TD>
+					<TD background="/skin/kimy8/csbj/main_box_blow.gif" height="20">&nbsp;</TD>
+					<TD><IMG src="/skin/kimy8/csbj/main_box_04.gif" width="27" height="20"></TD>
+				</TR>
+		  </TABLE>
+		</TD>
+		<TD width="300"> 
+			<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+				<TR> 
+					<TD height="20" width="41"><IMG src="/skin/kimy8/csbj/right_box_01.gif" width="41" height="20"></TD>
+					<TD background="/skin/kimy8/csbj/right_box_top.gif">&nbsp;</TD>
+					<TD width="20" height="20"><IMG src="/skin/kimy8/csbj/right_box_02.gif" width="20" height="20"></TD>
+				</TR>
+				<TR> 
+					<TD background="/skin/kimy8/csbj/right_box_right_back.gif" valign="top"><IMG src="/skin/kimy8/csbj/right_box_right01.gif" width="41" height="365"></TD>
+				  <TD bgcolor="#FFFFFF" valign="top" align="center">
+					  <TABLE border="0" cellpadding="1" cellspacing="1" width="100%">
+						
+						
+						<TR>
+							<TD>							</TD>
+						</TR>
+						<TR>
+							<TD height="10"><div align="center"><B>:: 信 息 公 告 ::</B> </div></TD>
+						</TR>
+						
+						
+						
+						<TR>
+							<TD><div align="left"><div id="placard">载入中...</div></div></TD>
+						</TR>
+						<TR>
+							<TD height="10">
+							  <div align="center"><B>:: 时 间 记 忆 ::</B></div></TD>
+						</TR>
+						
+						
+						<TR>
+						  <TD>
+								<TABLE border="0" cellpadding="3" cellspacing="2" width="100%" bgcolor="#E6E6E6" align="center">
+									<TR>
+									  <TD bgcolor="#FFFFFF"><div align="left"><div id="calendar">载入中...</div></div></TD>
+									</TR>
+								</TABLE>							</TD>
+						</TR>
+						<TR>
+							<TD height="10">
+							  <div align="center"><B>:: 最 新 日 志 ::</B></div></TD>
+						</TR>
+						
+						
+						<TR>
+							<TD>
+								<TABLE border="0" cellpadding="1" cellspacing="1" width="100%">
+						<TR>
+						  <TD align="center"><div align="left"><div id="newblog">载入中...</div></div></TD>
+						</TR>
+					</TABLE>							</TD>
+						</TR>
+						<TR>
+							<TD height="10"><div align="center"><B>:: 最 新 评 论 ::</B></div></TD>
+						</TR>
+						
+						
+						<TR>
+						  <TD><div id="comment">载入中...</div></TD>
+						</TR>
+						<TR>
+							<TD height="10"><div align="center"><B>:: 最 新 留 言 ::</B> </div></TD>
+						</TR>
+						
+						
+						<TR>
+							<TD><TABLE border="0" cellpadding="3" cellspacing="2" width="100%" bgcolor="#E6E6E6" align="center">
+									<TR></TR>
+							  </TABLE>						  </TD>
+						</TR>
+						<TR>
+							<TD height="10"><div id="newmessage">载入中...</div></TD>
+						</TR>
+						
+						
+						<TR>
+							<TD><div align="center"><B>:: 用 户 登 入 ::</B>
+							  </div>					    </TD>
+						</TR>
+						<TR>
+						  <TD><div align="left"><div id="ob_login">载入中...</div></div></TD>
+						  </TR>
+						<TR>
+						  <TD><div align="center"><B>:: 友 情 链 接 ::</B></div></TD>
+						  </TR>
+						<TR>
+						  <TD><div align="left"><div id="links"></div><div id="gg_userlinks"></div></div></TD>
+						  </TR>
+						<TR>
+						  <TD><div align="center"><B>:: 日 志 搜 索 ::</B></div></TD>
+					    </TR>
+						<TR>
+						  <TD><div id="search">载入中...</div></TD>
+					    </TR>
+						<TR>
+						  <TD><hr></TD>
+						  </TR>
+						<TR>
+						  <TD><div align="left"><div id="info">载入中...</div><div id="aobomusic"></div></div></TD>
+						  </TR>
+						<TR>
+						  <TD><hr></TD>
+					    </TR>
+						<TR>
+						  <TD><div id="xml"><span id="txml"></span><br /><br /><a href="/u/zhengyuchuan/rss2.xml" target="_blank"><img src='/images/xml.gif' width='36' height='14' border='0' /></a></div></TD>
+					    </TR>
+						</TABLE>
+				  </TD>
+					<TD background="/skin/kimy8/csbj/right_box_right.gif">&nbsp;</TD>
+				</TR>
+				<TR> 
+					<TD height="20" width="41"><IMG src="/skin/kimy8/csbj/right_box_03.gif" width="41" height="20"></TD>
+					<TD background="/skin/kimy8/csbj/right_box_blow.gif"></TD>
+					<TD width="20" height="20"><IMG src="/skin/kimy8/csbj/right_box_04.gif" width="20" height="20"></TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</BODY><span id="gg_userbot"></span><script src="/u/zhengyuchuan/calendar/201012.htm"></script>
+<script src="/count.asp?action=code31"></script>
+<script src="/commentedit.asp"></script>
+<Script src="/count.asp?action=logtb31&id=3399"></Script>
+<script src="/login.asp?action=showindexlogin"></script>
+<script src="/ShowXml.asp?user_group=2&user_path=u/zhengyuchuan"></script>
+<script src="/count.asp?action=site&id=60"></script>

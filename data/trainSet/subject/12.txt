@@ -1,0 +1,113 @@
+http://msn.ynet.com/view.jsp?oid=74925385
+<?xml version="1.0" encoding="gb2312"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="新闻,时事,娱乐,体育,新闻专题,奥运,社会,法治,聚焦,评论,深度,网评,环球,论坛,图片,焦点,奇闻,真情" />
+<meta name="description" content="最适合白领人群阅读的资讯精选" />
+<base target="_blank" />
+<title>中消协“挑战”铁老大须有“下回分解”_资讯_MSN中国</title>
+<link href="/gall/2009/g.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/gall/2009/g_msn.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/gall/2010/g_v.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript">function doPrint(){if(window.print !=null){window.print();}else{alert('Your browser does not support this feature. Please select Print from the File menu.');}}function sendbysms(){newWindow=window.open('http://sms.ynet.com/send/sendzx_msn.php','bysms','top=126,left=126,width=400,height=264,resizable=no,scrollbars=no,status=no,toolbar=no,location=no,menu=no');newWindow.focus();}
+function doZoom(size){document.getElementById('pzoom').style.fontSize=size+'px';}</script>
+<script type="text/javascript" src="/gall/bin/png.js"></script>
+<script type="text/javascript" src="/gall/bin/f_stab.js"></script>
+</head>
+<body><script language="JavaScript" type="text/javascript">var keyword="";<!--//--><![CDATA[//><!--
+function GetObj(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")');}else if(document.layers){return eval("document.layers['"+objName+"']");}else{return eval('document.all.'+objName);}};
+function Menu(idx,prefix,onstyle,offstyle){for(var i=0;i<10;i++){if(!GetObj(prefix+"_"+i)){break;};GetObj(prefix+"_"+i).className=offstyle;GetObj(prefix+"_con_"+i).style.display="none";};GetObj(prefix+"_"+idx).className=onstyle;GetObj(prefix+"_con_"+idx).style.display="block";};function Focus(formName, elemName){var elem=document.forms[formName].elements[elemName];if(elem){elem.focus();};elem.value=keyword;};//--><!]]></script>
+<div id="wFrame"><div id="wInner"><div id="header"><div class="banNSch clearfix"><div class="adBanner">
+
+<!--<script language="javascript">var clsbjadid = "bjadBanner";</script>-->
+<div><script language='javascript' src='http://fun.ynet.com/10171/0/10290.js'></script></div></div><div class="topSch"><script src="http://js.auto.msn.com.cn/js/incsearch_a.js" type="text/javascript" charset="utf-8"></script></div><script type="text/javascript">var cImage;cImage=new Image;cImage.src="http://c.msn.com.cn/c.gif?DI=4693&amp;PI=33235&amp;TP=http://www.msn.com.cn/msnmobile/msnfashiontemplate/Default.asp&amp;PS=70635&amp;NA=1154&amp;NC=10009";</script><noscript><img height="1" width="1" src="http://c.msn.com.cn/c.gif?DI=4693&amp;PI=33235&amp;TP=http://www.msn.com.cn/msnmobile/msnfashiontemplate/Default.asp&amp;PS=70635&amp;NA=1154&amp;NC=10009" /></noscript></div></div></div></div><script type="text/javascript" src='http://msn.ent.ynet.com/gall/tj_comm.js'></script><div class="hdat vhdat"><span class="fr"><a href="http://www.ynet.com/"><img src="/gall/2009/i/lgv_yn.png" width="100" height="22" border="0" alt="YNET.com北青网"/></a></span><span style="position: relative; right: 200px; float: right;margin-top: 6px;"><a href="http://tuangou.ynet.com/"><img src="/img.db?74116660" alt="非诚勿扰" style="border:none;" /></a></span><a href="http://cn.msn.com/" target="_top">首页</a>&nbsp;&gt;&gt;&nbsp;<a href='http://msn.ynet.com/' target='_top'>资讯</a>&nbsp;&gt;&gt;&nbsp;正文</div><div class="vhdnav mt5 tl"></div><!--[if lt IE 7]><script>correctPNG();</script><![endif]-->
+<div class="HC">
+<div class="hclc">
+<div class="bd">
+<div class="va pd10"><h1>中消协“挑战”铁老大须有“下回分解”</h1><p class="pd10 fs12">2010/12/06 10:19&nbsp;&nbsp;&nbsp;&nbsp;来源：红网&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://msn.ynet.com/gall/comment/redir.jsp?url=http://msn.ynet.com/view.jsp?oid=&oid=74925385&publish=yes&newstitle=中消协“挑战”铁老大须有“下回分解”">发表评论</a></p></div>
+
+<div class="vb" id="pzoom"><div class="vrelated fs14" style="margin-left:18px;margin-left:18px\9;*margin-left:18px;"><ul class="un"><li class="fb" style="padding-left:0px;">相关新闻：</li><li><a href="view.jsp?oid=74896127" style="color:#4C4C4C; text-decoration:underline;">中消协质疑火车票作废新规：列车晚点理应赔偿</a></li></ul></div>
+<P>　　铁道部最新修订的《铁路旅客运输规程》和《铁路旅客运输办理细则》日前出台，对退票改签等作出了调整。其中，“普通车票迟到作废”等规定引发热议。中国消费者协会认为，该规定单方面限制了消费者的权利，且制定时未经听证，有损消费者权益。从权利义务对等的角度而言，列车晚点了，也应该有个说法，对乘客作出赔偿或者补偿。在新颁布的规章中没有这方面规定，这不合理。（12月5日《人民网》）</P>
+<P><BR>　　连日来，舆论对铁老大的抨击几近众口一词：霸王条款。在公众一片“旅客迟到，票就作废；火车晚点，咋不赔偿”的质疑声中，铁老大的回答再度让人大跌眼镜：目前国家还没有这方面的规定。果真如此吗？回答当然是否定的。众所周知，车票具有合同效力，列车晚点就是合同违约，按《消费者权益保护法》、《民法通则》、《合同法》，铁路方面就要承担继续履行、采取补救措施或者赔偿损失等违约责任。看来，不是国家没有规定，而是铁路系统既当裁判员又当运动员的“家法”中没有此规定。</P>
+<P><BR>　　此番，中消协高调出面回应，抨击铁道部的新规“限制了消费者的权利，且未经听证”，要求铁道部对列车晚点“也应该有个说法，对乘客作出赔偿或者补偿”，可说是当面掴了铁道部一记响亮的耳光，使沸沸扬扬的纷争有了一个鲜明的定论，令消费者击掌叫好。只是，平素居高临下惯了的“铁老大”，会不会把中消协的“挑战”当回事还有待验证。这些年来，铁路部门利用手中的垄断权力，自我授权，自立家法，任意侵害乘客权益的事还干得少吗？因而，“挑战”之后，还需其它动作及时跟进。</P>
+<P><BR>　　不可否认，列车晚点固然原因很多，甚至包括雷雨、闪电等不可抗拒因素。但乘客迟到，也并非“自愿”，很多时候是交通堵塞等社会原因所造成的。从权利义务对等的角度而言，你铁老大可以严苛乘客，但也要向民航方面学习，履行自己晚点赔偿的责任。有报道称，凡遇飞机出现较长时间的晚点，民航方面多会根据实际情况，给乘客安排住宿、给予适当赔偿。只强调“合同”的自身权利而全然不谈自己的义务，铁老大如此“霸王硬上弓”，招来网民“炮轰”，那是咎由自取。</P>
+<P><BR>　　事实上，火车晚点赔偿，已不乏“国际惯例”：在日本、意大利，铁路部门不仅要给乘客退票，还要支付一定的退票费。西班牙执行的是“5分钟制度”，晚点超过5分钟将全额退票。德国更是推出新规，只要你乘坐了德国铁路股份公司的火车，晚点超过1小时，就可以获得相当于票面价值25%的现金赔偿；晚点超过两小时，就能得到票面价值50%的现金赔偿。另外，如果你因为乘坐了午夜火车而晚点，铁路公司还要支付最高80欧元的出租车或者巴士费用，有的还要提供旅馆住宿……</P>
+<P><BR>　　既然国内有样可学，国外有经可取，铁老大的“霸王条款”当寿中正寝，火车“晚点赔偿”当进入法律轨道，尽快走上实施前台。期盼中消协在发出“挑战”之后，跟进相关措施，挫一挫铁老大的“霸气”，将维权行动进行到底，给广大消费者一个令人满意的“下回公解”。如果只打雷不下雨，听任拿着政府行政部门的资源来“损人利己”的铁老大再一次全身而退，受损的不仅仅是广大消费者的利益，还有消协的形象。</P></div>
+<div class="vc">&nbsp;&nbsp;</div>
+
+<div class="vb vbu"><div class="hc1 fs12"><div class="fr fn fs12" style="width:390px;"><a href="http://msn.ynet.com/eventk.jsp?eid=73673474 ">特别策划：写给十年后的自己</a>&nbsp;<a href="http://msn.ent.ynet.com/view.jsp?oid=74797211">张信哲自曝感情《空位》</a></div>推荐阅读</div>
+<div class="hc4 pd10" style="background:#fff;">
+<div class="L1 fl" style="width:183px;"><a href="http://msn.china.ynet.com/pic.jsp?oid=74874916"><img src="/img.db?74910032+s(173x108)" width="173" height="108" border="0" alt="揭秘日韩新泰四国红灯区">揭秘日韩新泰四国红灯区</a></div>
+
+<div class="tjyd"><a href="http://msn.china.ynet.com"><img src="/gall/2010/i/lg_china.gif"></a> <span class="fr"><a href="http://msn.china.ynet.com/">&gt;&gt;更多</a></span></div><ul class="ml10 fs14 lh30 fl mb10"><li><a href="http://msn.china.ynet.com/pic.jsp?oid=74900363">蛋型蜗居制造过程全解密</a>&nbsp;<a href="http://msn.china.ynet.com/pic.jsp?oid=74871190">给力！盘点90后各色另类职业</a></li><li><a href="http://msn.china.ynet.com/pic.jsp?oid=74897918">驾驶员在干嘛?匪夷所思的车祸</a>&nbsp;<a href="http://msn.china.ynet.com/pic.jsp?oid=74780544">看看让人崩溃的街头美女</a></li><li><a href="http://msn.china.ynet.com/pic.jsp?oid=73916321">跟拍美艾滋女嗑药滥交</a>&nbsp;<a href="http://msn.china.ynet.com/view.jsp?oid=74836297">细数中国越有钱越抠的十大富豪</a></li><li><a href="http://msn.china.ynet.com/pic.jsp?oid=74801945">让你大跌眼镜的国外广告创意</a>&nbsp;<a href="http://msn.china.ynet.com/pic.jsp?oid=74802983">全球亿万富豪们的特殊怪癖</a></li></ul>
+<div class="clr"></div>
+<div class="L1 fl" style="width:183px;"><a href="http://msn.life.ynet.com/view.jsp?oid=74895934"><img src="/img.db?74897371+s(173x108)" width="173" height="108" border="0" alt="明星两代双生相 看哪对最像？">明星两代双生相 看哪对最像？</a></div>
+
+<div class="tjyd"><a href="http://msn.life.ynet.com"><img src="/gall/2010/i/lg_life.gif"></a> <span class="fr"><a href="http://msn.life.ynet.com/">&gt;&gt;更多</a></span></div><ul class="ml10 fs14 lh30 fl"><li><a href="http://msn.life.ynet.com/view.jsp?oid=74867626">光腚明星惨被曝</a>&nbsp;<a href="http://msn.life.ynet.com/view.jsp?oid=74793329">女星呆傻乡土广告</a>&nbsp;<a href="http://msn.life.ynet.com/view.jsp?oid=74167566">悲催女星露也不性感</a></li><li><a href="http://msn.life.ynet.com/view.jsp?oid=74886903">高明6回答拒绝龌龊男</a>&nbsp;<a href="http://msn.life.ynet.com/view.jsp?oid=74886737">10技用舌尖调情</a>&nbsp;<a href="http://msn.life.ynet.com/view.jsp?oid=74897605">小心生育遭5透支</a></li><li><a href="http://msn.life.ynet.com/view.jsp?oid=74895397">人类10行为至今无解</a>&nbsp;<a href="http://msn.life.ynet.com/view.jsp?oid=74895644">吃火锅避开4陷阱</a>&nbsp;<a href="http://msn.life.ynet.com/view.jsp?oid=74897575">孕期6为生畸形儿</a></li><li><a href="http://msn.life.ynet.com/view.jsp?oid=74886611">献身男上司月薪2万</a>&nbsp;<a href="http://msn.life.ynet.com/view.jsp?oid=74886540">爱上夺我初夜已婚雇主</a>&nbsp;<a href="http://msn.life.ynet.com/view.jsp?oid=74897464">周末宅女装</a></li></ul>
+</div>
+</div>
+<div class="vcopyurl"><script language="JavaScript" type="text/javascript"><!--//--><![CDATA[//><!--
+function CopyURL(){var myHerf=top.location.href;var title=document.title;
+if(window.clipboardData){var tempCurLink=title + "\n" + myHerf;var ok=window.clipboardData.setData("Text",tempCurLink);if(ok) alert("按Ctrl + V ,粘贴到MSN上发给你的好友们吧 ！");}else{alert("对不起，目前此功能只支持IE，请直接复制地址栏的地址！");}}
+function c139bt(){window.open('http://www.139.com/share/share.php?tl=953010008&source=shareto139_ynet &title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href),'_blank','width=490,height=340');}
+//--><!]]></script><span class="fr"><a><img onclick="c139bt();" src="/gall/2009/i/lg_139_view.png" width="120" height="20" alt="一键分享到139说客" /></a></span><input class="copyUrl" type="button" value="复制标题和链接，发送给你的MSN好友" onclick="CopyURL();" /></div>
+</div>
+
+
+<div><script language='javascript' src='http://fun.ynet.com/z2?i=10171,10494'></script><!--<script language="javascript" src='http://fun.ynet.com/var/cache/js/bqzn0001211.js'></script>--></div>
+<div class="hc1 hc1tab mt10"><div class="fr fn fs12 w382" style="width:382px;"><ul id="r01ent_stab"><li onMouseOver="javascript:stab('r01ent','span','5','1');return false;"><a href="http://msn.ent.ynet.com">娱乐</a></li><li onMouseOver="javascript:stab('r01ent','span','5','2');return false;"><a href="http://msn.life.ynet.com">生活</a></li><li onMouseOver="javascript:stab('r01ent','span','5','3');return false;"><a href="http://msn.china.ynet.com">社会</a></li><li onMouseOver="javascript:stab('r01ent','span','5','4');return false;"><a href="http://msn.sports.ynet.com/">体育</a></li><li class="current" onMouseOver="javascript:stab('r01ent','span','5','5');return false;"><a href="http://msn.ynet.com/">资讯</a></li></ul></div><div class="w265"><img src="/gall/2010/i/top5.png" height="24"></div></div>
+<div class="hc4">
+<div style="width:265px;" class="fl L1">
+<a href="http://msn.china.ynet.com/pic.jsp?oid=74874515"><img src="/img.db?74910055+s(235x147)" width="235" height="147" border="0" alt="围观地铁里的怪人怪事" />围观地铁里的怪人怪事</a>
+</div>
+<span id="r01ent" style="width:382px; float:right;"><span class="dn">
+<ul class="list2 fs14"><li><a href="http://msn.ent.ynet.com/view.jsp?oid=74895388">低胸露背亚太影展女星争艳 温碧霞美不胜收</a></li><li><a href="http://msn.ent.ynet.com/view.jsp?oid=74886408">蔡少芬挺大肚踩高跟鞋忙捞金 脾气大要老公忍</a></li><li><a href="http://msn.ent.ynet.com/view.jsp?oid=74886976">汪小菲秀价值10万奢华婚戒 岳母赞女婿品味</a></li><li><a href="http://msn.ent.ynet.com/view.jsp?oid=74886765">孙楠买红妹协议离婚 女方得5处房3千万现金</a></li><li><a href="http://msn.ent.ynet.com/view.jsp?oid=74887252">大S红裙亮相代言费近千万 身价飙升赛范冰冰</a></li></ul></span>
+<span class="dn"><ul class="list2 fs14"><li><a href="http://msn.life.ynet.com/view.jsp?oid=74887084">裙子可以吃？用水果蔬菜做大牌礼服</a></li><li><a href="http://msn.life.ynet.com/view.jsp?oid=74897641">应对高物价省钱秘籍: 错峰买菜 一餐可省5元</a></li><li><a href="http://msn.life.ynet.com/view.jsp?oid=74897643">北漂小伙街边造蛋形小屋续：被10多人连夜搬走</a></li><li><a href="http://msn.life.ynet.com/view.jsp?oid=74897649">淘宝网运费险：买家觉得不合理 卖家头疼</a></li><li><a href="http://msn.life.ynet.com/view.jsp?oid=74870875">2010最受关注十大焦点问题：物价房价居首</a></li></ul></span>
+<span class="dn"><ul class="list2 fs14"><li><a href="http://msn.china.ynet.com/view.jsp?oid=74147434">中国民生纪实：独自生活的广西6岁艾滋孤儿</a></li><li><a href="http://msn.china.ynet.com/view.jsp?oid=74139712">网爆中国金融网高管骚扰女秘书 有供录音为证</a></li><li><a href="http://msn.china.ynet.com/view.jsp?oid=74136375">揭秘7名“80后”美女入殓师的真实生活(组图)</a></li><li><a href="http://msn.china.ynet.com/view.jsp?oid=74135210">女子一人分饰8角色设美女交友骗局 得百余万</a></li><li><a href="http://msn.china.ynet.com/view.jsp?oid=74135159">40名美女走T台应聘 80名老总台下“抢”人(图)</a></li></ul></span>
+<span class="dn"><ul class="list2 fs14"></ul></span>
+<span><ul class="list2 fs14"><li><a href="http://msn.ynet.com/view.jsp?oid=74840694">兽兽亮相晒傲人胸围 为杂志拍摄裸照再曝光</a></li><li><a href="http://msn.ynet.com/view.jsp?oid=74831148">记者探访北京“蛋形蜗居”（组图）</a></li><li><a href="http://msn.ynet.com/view.jsp?oid=74826464">4岁幼女遭男邻居强奸 下身大出血险丧命</a></li><li><a href="http://msn.ynet.com/view.jsp?oid=74787694">党报揭股市暴跌真相:某国际投行操纵股指牟利  </a></li><li><a href="http://msn.ynet.com/view.jsp?oid=74795366">中国最后一位“流氓罪”嫌犯将服刑至2020年</a></li></ul></span>
+</span>
+</div>
+<div class="hc1 mt10">网友评论<span class="fn fs12 ml10">文章及评论内容只代表作者个人观点,与本网立场无关</span></div><div class="hc3"><form class="cmt" action="http://comment.ynet.com/saveComment.jsp" method="POST" name="comment" onSubmit="return validateComplete(this)" target="_top"><input type="hidden" value="中消协“挑战”铁老大须有“下回分解”" name="newstitle" /><input type="hidden" value="0" name="bid" /><input type="hidden" value="yes" name="publish" /><input type="hidden" value="74925385" name="oid" /><input type="hidden" value="http://msn.ynet.com/view.jsp?oid=" name="url" /><input type="hidden" value="1" name="pageno" />
+<!--<div><input id="cmt_anony" style="border:0;" type="radio" name="anonymous" value="1" /><label for="cmt_anony">匿名发表</label></div>
+<div class="mt5"><input id="cmt_pen" style="border:0;" type="radio" name="anonymous" value="2" /><label for="cmt_pen">使用笔名：</label><input class="ipt" type="text" name="penname" size="20" /></div>//-->
+<div class="mt5" style="overflow: hidden;">
+<textarea name="Content" id="Content" class="w630" style="height:150px; width:630px;"></textarea>
+<div class="hc3" style="width:614px;width:618px\9;*width:618px!important;_width:630px;margin-top:-1px; text-align:center;"><label for="cmt_login">用户：</label><input class="ipt" type="text" name="loginname" size="7" />&nbsp;<label for="cmt_pswd">密码：</label><input id="cmt_pswd" class="ipt" type="password" name="passwd" size="7" />&nbsp;<input type="reset" name="reset" value="重填"style="border:none; margin-left:30px;" /></div>
+</div>
+<div class="mt5" style="width:500px; margin-left:140px_;margin-left:120px;*margin-top:5px;"><div class="btn1" style="margin:0 20px 0 30px; display:inline;"><a href="http://comment.ynet.com/register.jsp">注册</a></div><div class="btn1" style="margin:0 20px;display:inline;"><input class="btn1" type="submit" name="submit" value="发表评论"style="border:none;" /></div><div class="btn1" style="margin:0 20px;display:inline;"><a href="http://msn.ynet.com/gall/comment/redir.jsp?url=http://msn.ynet.com/view.jsp?oid=&oid=74925385&publish=yes&newstitle=中消协“挑战”铁老大须有“下回分解”">查看评论</a></div></div>
+</form></div>
+</div>
+<div class="hcr">
+<div>
+
+<!--tu0=http://msn.ynet.com/view.jsp-->
+
+<!--tpjshz=10311-->
+
+<!--tpjsbu=10286-->
+
+<!--HBflag=2-->
+
+
+<div style='width: 300px; height: 250px;'><script language='javascript' src='http://fun.ynet.com/10171/0/10311.js'></script></div>
+
+<div style='margin:10px 0px 0px 0px;width: 300px; height: 100px;'><script language='javascript' src='http://fun.ynet.com/10171/0/10286.js'></script></div>
+</div><iframe width="300" height="575" frameborder="0" scrolling="no" src="http://msn.ynet.com/vpindao.html"></iframe>
+
+<div><script language='javascript' src='http://fun.ynet.com/z2?i=10171,10492'></script><!--<script language="javascript" src='http://fun.ynet.com/var/cache/js/bqzn0001210.js'></script>--></div>
+
+<div style='margin:10px 0px 0px 0px;'><script language='javascript' src='http://fun.ynet.com/10171/0/10291.js'></script></div>
+<div class="hc1 mt10"><a href="/morei.jsp?bid=64447953">热点聚焦</a></div>
+<div class="hc3"><a href="http://msn.china.ynet.com/pic.jsp?oid=74831571" class="db"><img class="fl mr10" src="/img.db?74840434+s(128x80)" width="128" height="80" border="0" alt="社会现实下的贫富孩子" /><h6>社会现实下的贫富孩子</h6></a><p>富孩子：衣食无忧却不珍惜。穷孩子：他们想要的其实很少很少。</p><a href="http://msn.china.ynet.com/pic.jsp?oid=74803999" class="db mt15"><img class="fl mr10" src="/img.db?74804148+s(128x80)" width="128" height="80" border="0" alt="惊曝办公室里性规则" /><h6>惊曝办公室里性规则</h6></a><p>生活中无处不在的规则让我们招架不住，办公室里惊爆性规则！</p><a href="http://msn.china.ynet.com/pic.jsp?oid=74781061" class="db mt15"><img class="fl mr10" src="/img.db?74783929+s(128x80)" width="128" height="80" border="0" alt="惊曝空姐行业秘事丑闻" /><h6>惊曝空姐行业秘事丑闻</h6></a><p>空姐在人们的印象中是一个高端职业，让我们来揭开她们的面纱。</p><a href="http://msn.china.ynet.com/pic.jsp?oid=74175099" class="db mt15"><img class="fl mr10" src="/img.db?74181918+s(128x80)" width="128" height="80" border="0" alt="14张全球最震撼的照片" /><h6>14张全球最震撼的照片</h6></a><p>震撼眼球！世界上总有那么一些图片，让人看了不能淡定……</p></div>
+
+<div class="hc1 mt10"><a href="/morei.jsp?bid=64447955">焦点美图</a></div>
+<div class="hc4"><div class="L2"><a href="http://msn.china.ynet.com/pic.jsp?oid=74831669"><img src="/img.db?74840446+s(128x80)" width="128" height="80" border="0" alt="时尚让我们付出的代价" />时尚让我们付出的代价</a><a href="http://msn.china.ynet.com/pic.jsp?oid=74802556"><img src="/img.db?74804122+s(128x80)" width="128" height="80" border="0" alt="小心！你的心脏受不了" />小心！你的心脏受不了</a><a href="http://msn.china.ynet.com/pic.jsp?oid=74780444"><img src="/img.db?74796427+s(128x80)" width="128" height="80" border="0" alt="不易看懂的超强内涵图" />不易看懂的超强内涵图</a><a href="http://msn.china.ynet.com/pic.jsp?oid=74175395"><img src="/img.db?74181925+s(128x80)" width="128" height="80" border="0" alt="疯狂女白领们的荒唐事" />疯狂女白领们的荒唐事</a></div></div>
+</div>
+</div>
+<div id="Z"></div><div id="footer"><div class="botSch clearfix"><form target="_blank" method="get" action="http://search.msn.com.cn/results.aspx" accept-charset="utf-8"  onsubmit="javascript:document.charset='utf-8'"><label for="q" class="fl">网页 </label><input type="text" class="iptSch" maxlength="150" name="q" id="q"/><input type="hidden" value="MSNH" name="FORM"/><input type="hidden" value="0" name="srch_type"/><input type="submit" value="搜索" class="btnSch"/></form></div><a title="广告服务" href="http://ad.ynet.com/msn/index.html">广告服务</a> | <a href="mailto:jubao@ynet.com">给网站挑错</a><br />不良信息举报热线：010-65901655　文明办网文明上网举报电话：010-82615762　举报邮箱：<a href="mailto:jubao@ynet.com">jubao@ynet.com</a><br />ICP证：京ICP证090260号<span class="hd315"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202001021900007"><img src="/gall/imgs/bs.gif" height="36" width="30" border="0" alt="北京青年报网际传播技术有限公司　京ICP证 090260号" /></a></span><br />BBS证：京电信业务审批[2002]字第52号函<br />增值电信业务经营许可证：京B2-20090231&nbsp;&nbsp;信息网络传播视听节目许可证号0108275</div>
+
+<script language='javascript' src='http://fun.ynet.com/10171/0/10292.js'></script>
+<DIV id="beacon_mulmedia_c" style="LEFT: 0px; VISIBILITY: hidden; POSITION: absolute; TOP: 0px"></DIV><!--<script type="text/javascript" src='http://api.whatcool.com/code?sid=9ba91a1b8f0da855'></script>//--></body></html>

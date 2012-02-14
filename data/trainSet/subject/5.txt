@@ -1,0 +1,493 @@
+http://bbs.chinanews.com.cn/blog101203-7007.shtml
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[44,75,7007] published at 2010-12-03 10:47:16 from #202 by 302-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>中新博客精选--“中国最后一位流氓”，他被监狱“遗忘”了？</title>
+<base target="_blank">
+<link type="text/css" rel="stylesheet" href="http://www.chinanews.com.cn/common/css/main.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://bbs.chinanews.com.cn/web/blog/other/css/style.css" media="screen" />
+<style type="text/css">
+<!--
+.page {padding-top:20px; text-align:center;}
+.page .page_next{padding:3px 7px; text-decoration:none; font-size:12px; color:#3d3d3d;}
+.page .page_currunt{ padding:3px 7px; text-decoration:none; font-size:12px; color:#ffffff; border:1px solid #c25534; background:url(http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_page_bg_1.jpg) repeat-x scroll 0 0;}
+.page .page_simple{ padding:3px 7px; text-decoration:none; font-size:12px; color:#133247; border:1px solid #c5ccd4; background:url(http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_page_bg_2.jpg) repeat-x scroll 0 0;}
+.left-text1{font-size:15px;}
+.banner{width:480px; height:44px;font-size:14px;}
+.banner span{ font-size:14px;float:left;}
+.banner span a{ font-size:14px; font-weight:bold}
+.banner span a link{ font-size:14px; font-weight:bold}
+.banner span a hover{ font-size:14px; font-weight:bold}
+.banner span a visited{ font-size:14px; font-weight:bold}
+-->
+</style>
+
+<script type="text/javascript" src="http://i5.chinanews.com/js/jquery-1.3.2.min.js" ></script>
+<script type="text/javascript" src="http://i5.chinanews.com/js/jquery.qtip-1.0.0-rc3.min.js"></script>
+<script type="text/javascript" src="http://i5.chinanews.com/js/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="http://bbs.chinanews.com.cn/iframe/tosns.js"></script>
+<script>
+$(function(){
+//	$("#iframecomment").load(function(){
+//		$(this).height($(this).contents().find("#divList").height()+40);
+//	});
+});
+
+function adjustIFramesHeightOnLoad(iframe) {
+     var iframeHeight = Math.min(iframe.contentWindow.window.document.documentElement.scrollHeight, iframe.contentWindow.window.document.body.scrollHeight);
+     $(iframe).height(iframeHeight + 50);
+}
+</script>
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+</head>
+
+<body>
+<!--全局-->
+<div id=all>
+
+<!--顶部--><div class="bk-top">
+<div class="bk-top1"><a href="http://blog.chinanews.com/"><img src="http://www.chinanews.com.cn/fileftp/2010/07/2010-07-02/U76P4T47D14220F981DT20100702163954.jpg" /></a></div>
+<div class="bk-top2"><!-- 英语学习-->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="495" height="90">
+  <param name="wmode" value="opaque">
+  <param name="movie" value="http://i8.chinanews.com/gg/100625/062502.swf">
+  <param name="quality" value="high">
+  <embed src="http://i8.chinanews.com/gg/100625/062502.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="495" height="90"></embed>
+</object></div>
+<div class="bk-top3"><!--中新 社区空间形象-->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="160" height="90">
+      <param name="movie" value="http://i8.chinanews.com/gg/100902/090206.swf">
+      <param name="quality" value="high">
+      <embed src="http://i8.chinanews.com/gg/100902/090206.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="90"></embed>
+</object>
+</div>
+<!--清除--><div class="div-clear"></div><!--清除-->
+</div><!--顶部-->
+
+<!--登陆-->
+<div class="bk-dl" style=" background:url(http://i8.chinanews.com/club/b06.jpg)">
+<div class="bk-dla" style="width:470px;padding-top:3px;"><script type="text/javascript">
+<!--
+$(function(){
+	$("#btnLogin").click(function(){
+		if($("#loginUserName").val() == ""){
+			alert('请填写用户名!');
+			$("#loginUserName").focus();
+			return false; 
+		}
+		if($("#loginPassWord").val() == ""){
+			alert('请填写密码!');
+			$("#loginPassWord").focus();
+			return false; 
+		}
+		$("#formLogin").submit();
+	});
+});
+
+//-->
+</script>
+<div style="float:left;  color:#fff286; padding-left:30px; line-height:44px;  ">
+	<form method="post" name="login" id="formLogin" action="http://bbs.chinanews.com.cn/logging_t.php?action=login" target="_top">
+				<input type="hidden" name="formhash" value="3bc34576" />
+		<input type="hidden" name="referer" value="http://bbs.chinanews.com.cn/web/blog/2010/1203/7007.shtml" />
+		<input type="hidden" name="cookietime" value="2592000">
+		<input type="hidden" name="loginsubmit" value="登 录">
+		<input type="hidden" name="rememberme" value="1">
+		<img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_login_icon_1.jpg" style="border:none; margin: 11px 0;   vertical-align:middle; " />用户名：<input type="text" name="username" id="loginUserName" style="width:80px; border:1px solid #848383;" />
+	    <img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_login_icon_2.jpg" style="border:none;  margin: 13px 0; vertical-align:middle;" />密码：<input type="password" name="password" id="loginPassWord" style="width:80px; border:1px solid #848383;" />
+	    <img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_login_btn.jpg" style=" margin: 7px 0; vertical-align:middle; cursor:pointer;" id="btnLogin" />
+	    <a href="http://bbs.chinanews.com.cn/register.php" target="_blank" style="font-size:12px; text-decoration:underline; color:#abc4dd;">现在注册</a>
+	    	</form>
+</div></div>
+
+ <div style="float:left" class="banner"> <span><a href="http://bbs.chinanews.com.cn" style=" color:#fff; padding-left:30px; font-size:14px" target="_blank">社区</a></span> <span><a href="http://t.chinanews.com.cn" style=" color:#fff; padding-left:45px;font-size:14px" target="_blank">微博</a></span> <span><a href="http://blog.chinanews.com.cn" style=" color:#fff;padding-left:45px;font-size:14px" target="_blank">博客</a></span> <span><a href="http://sns.chinanews.com.cn" style=" color:#fff;padding-left:45px;font-size:14px" target="_blank">空间</a></span> <span><a href="http://sns.chinanews.com.cn/pub.shtml" style=" color:#fff; padding-left:45px;font-size:14px" target="_blank">新闻广场</a></span> <span><a href="http://sns.chinanews.com.cn/space-repaste.html" style=" color:#fff;padding-left:45px;font-size:14px">转贴</a></span></div>
+
+<!--清除--><div class="div-clear"></div><!--清除-->
+</div><!--登陆-->
+
+<!--正文-->
+<div class="bk-text">
+<!--正文左-->
+<div class="text-left1">
+<!--正文位置--><div class="left-add"><a class="font1" href="http://blog.chinanews.com/">中新网博客精选</a> >> <a class="font2" href="/web/blog/mroe/sz-1.shtml">时政</a></div>
+<!--正文位置-->
+<!--正文标题--><div class="left-logo">“中国最后一位流氓”，他被监狱“遗忘”了？</div><!--正文标题-->
+<!--正文时间-->
+<div class="left-time text-center">2010-12-03 10:46:30&nbsp;&nbsp;作者:曹洪林</div>
+<!--正文时间-->
+
+<!--图片说明-->
+
+<!--图片说明-->
+
+<!--正文-->
+<div class="left-text1">
+<p>　　一失足成千古恨，再回首成百年身。</p>
+<p>　　北京人牛玉强，还要在新疆度过10年，当然不是度假，而是服刑，1965年出生的牛玉强的刑期届满之日是2020年，刑期执行完毕时他55岁，入狱时他时年不满19岁。</p>
+<p>　　1984年4月28日由北京市中级人民法院作出的一份《刑事判决书》表明，牛玉强被以流氓罪判处死刑缓期两年执行。罪行有二起：之一，1983年5月的一天(原文没有具体时间)，牛玉强和几个朋友在北京某地抢了一名路人的一顶帽子；之二，牛玉强和朋友与另外几个人打了一架。同案的几个朋友因为还有其他犯罪行为被判处了死刑，不久执行了枪决。</p>
+<p>　　1986年4月，牛玉强因为在死刑缓期执行期间表现良好，被新疆自治区高级法院改判为无期徒刑；1990年又被改判为有期徒刑18年。1990年10月，新疆监狱方面作出决定，由牛玉强的父亲具保，对牛玉强给予保外就医的决定。</p>
+<p>　　现行刑法中已经没有流氓罪这一罪名，但是根据刑法不溯及既往的法理，牛玉强的流氓罪名不会改观，牛志强因为保外就医的缘故，得以监狱外边成家生子，这对他是一幸，而基于同一原因，他被监狱方面认定，保外就医期满不归，构成脱逃，重新投入监狱，刑期顺延至2020年。</p>
+<p>　　牛的家人们对此并不认同，他们认为，牛在保外期间，一直按规定接受当地公安机关的监管，牛妻朱某说：“我丈夫14年来一直在家，哪里都没有去过。每个月去派出所报到一次，北京市开什么会议或者是发生了什么案件，警察都会例行找我丈夫谈一次话。”</p>
+<p>　　朱感到，监狱一直没有来过人或通过什么手段联系过她的丈夫，丈夫几是被监狱“遗忘”了。朱某强调“现在却说是我丈夫自己未归，还上网通缉他。我认为这是监狱方面把责任推卸到我丈夫的头上。”</p>
+<!--page_info=2_1_7007--><div class="page"><a ><img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_page_icon_left.jpg" style="border:none; margin-top:3px; vertical-align:middle;" /></a>  <a class="page_currunt">1</a> <a class="page_simple" target="_self" href="http://bbs.chinanews.com.cn/web/blog/2010/1203/7008.shtml">2</a> <a class="page_next" href="http://bbs.chinanews.com.cn/web/blog/2010/1203/7008.shtml">下一页</a> <a><img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_page_icon_right.jpg" style="border:none; margin-top:3px; vertical-align:middle;" /></a></div>
+<div style="text-align:right;padding-right:30px;"><a href="http://blog.ifeng.com/article/8981325.html"><span style="color:#999999;text-decoration:underline;">查看原博>></span></a></div>
+</div><!--正文-->
+
+<!--评分--><div class="left-pingfen">
+	<script type="text/javascript">
+	<!--
+	$(function(){
+		var discuz_uid = 0;
+		$("#dialog").dialog({
+			bgiframe:true,
+			modal:true,
+			autoOpen:false,
+			resizable: false,
+			height:200,
+			width:300,
+			buttons: {
+				"取消": function(){
+					$(this).dialog("close");
+				},
+				"提交评分": function(){
+					var url = "http://bbs.chinanews.com.cn/comments/bbs_zhengwen_pingfen_save.php";
+					var reason = $("#reason").val();
+					var score3 = $("#score3").val();
+					var score6 = $("#score6").val();
+										var data = "action=rate&newsid=blog_7007&score3="+score3+"&score6="+score6+"&reason="+encodeURIComponent(reason)+"&ajaxsubmittime0_="+encodeURI( Math.random()+ (new Date()));
+										
+					$.ajax({
+						url:url,
+						data:data,
+						type:"POST",
+						cache:false,
+						timeout:20000,
+						error: function(x,status){
+							alert(status);
+							$("#dialog").dialog("close");
+						},
+						success: function(html,status){
+						    alert(html);
+						    //alert(status);
+						    $("#dialog").dialog("close");
+						}
+
+					});
+				}
+			}
+		});
+		
+		$("#btnPingFen").click(function(){
+			if(discuz_uid > 0){
+				$("#dialog").dialog("open");
+			}else{
+				alert("请登录后再进行评分操作！");
+			}
+			
+			return false;
+		});	
+	});
+	//-->
+	</script>
+
+		<div style=" margin-top:15px;">
+        	<!--<img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_operation_shoucang.jpg" style="cursor:pointer; margin-right:20px;" />-->
+        	 
+            <input type="image" src="http://i2.chinanews.com/bbsweb//fileftp/2010/06/2010-06-08/U282P44T64D4F1055DT20100721171033.png" onclick="jumpUrl_cmt('uchome','blog_7007','true')" style="cursor:pointer; margin-right:20px;" />
+           
+            <img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_operation_pingfen.jpg" style="cursor:pointer; margin-right:20px;" id="btnPingFen" />
+            <!--
+            <img src="http://i2.chinanews.com/bbsweb//fileftp/2010/06/2010-06-08/U282P44T64D4F1049DT20100608175611.jpg" style="cursor:pointer; margin-right:20px;" id="btnPingFen" />
+            -->
+            
+        </div>
+        <link type="text/css" href="http://i5.chinanews.com/css/ui-lightness/jquery-ui-1.7.2.custom.css" rel="stylesheet" />
+		<style>
+		<!--
+		.ui-dialog{font-size:82.5%;}
+		-->
+		</style>
+        <div id="dialog" title="评分">
+			<table width="100%">
+				<tr>
+					<td >魅力：</td>
+					<td>
+						<select name="score3" id="score3">
+							<option value="0" selected>0</option>
+							<option value="10">10</option>
+							<option value="20">20</option>
+							<option value="30">30</option>
+							<option value="40">40</option>
+							<option value="50">50</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td >中新币：</td>
+					<td>
+						<select name="score6" id="score6">
+							<option value="0" selected>0</option>
+							<option value="10">10</option>
+							<option value="20">20</option>
+							<option value="30">30</option>
+							<option value="40">40</option>
+							<option value="50">50</option>
+							<option value="60">60</option>
+							<option value="70">70</option>
+							<option value="80">80</option>
+							<option value="90">90</option>
+							<option value="100">100</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td style="vertical-align:top;" >评分说明：</td>
+					<td>
+						<textarea rows="2" cols="20" name="reason" id="reason"></textarea>
+					</td>
+				</tr>
+			</table>
+		</div>	
+</div><!--评分-->
+
+<div style="width:540px;margin:0 auto;"><div style=" margin:20px auto 0; width:460px; background-color:#e2ebf4; padding-left:30px;"><div style="font-size:14px; color:#364e9d; text-decoration:underline; text-align:left; font-weight:bold; padding-top:10px; padding-bottom:10px;">相关阅读</div><div style="text-align:left; padding-bottom:10px;"><ul style="line-height:25px;"><li style="list-style-position:inside; list-style-type:disc;"><a href=http://bbs.chinanews.com.cn/web/65/2010/1203/9899.shtml target=_blank style="text-decoration:none; color:#414141; font-size:12px;">中国最后一个“流氓”，该不该继续坐牢(图)？</a></li><li style="list-style-position:inside; list-style-type:disc;"><a href=http://bbs.chinanews.com.cn/web/blog/2010/0925/4216.shtml target=_blank style="text-decoration:none; color:#414141; font-size:12px;">中国女人越进化越流氓，起码女流氓不吃亏</a></li><li style="list-style-position:inside; list-style-type:disc;"><a href=http://bbs.chinanews.com.cn/web/blog/2010/0914/3668.shtml target=_blank style="text-decoration:none; color:#414141; font-size:12px;">学习好≠工作好 犹如大侠郭靖PK流氓韦小宝</a></li></ul></div></div></div>
+<div style="width:540px;margin:0 auto;"><script>
+var seccode_displayed = 0;
+function newseccode(obj) {
+	obj.src='http://comment.chinanews.com.cn/comments/image-2.php?'+Math.random(1);
+}
+
+function checkvalidate() {
+	var discuz_uid = 0;
+	if(discuz_uid > 0){
+
+	}else{
+		if(document.getElementById('boxUserName').value == '') {
+			alert('请填写署名!');
+			document.getElementById('boxUserName').focus();
+			return false;	
+		}
+	}
+
+	if(document.getElementById('message').value == '') {
+		alert('请填写留言内容!');
+		document.getElementById('message').focus();
+		return false;	
+	}
+	
+	if(document.getElementById('validatecode').value == '') {
+		alert('请填写验证码!');
+		document.getElementById('validatecode').focus();
+		return false;	
+	}
+	
+	return true;
+}
+
+function f_focus() {
+	s = $('#validatearea');
+	if(seccode_displayed == 0) {
+		s.html('验证码：<input type="text" id="validatecode" name="validate" maxlength="2" style="width: 20px; border: 1px solid rgb(132, 130, 131); font-size: 12px;">&nbsp;<img title="看不清？点击换一个" onClick="javascript:newseccode(this);" style=" height: 25px;" src="http://bbs.chinanews.com.cn/comments/image-2.php">');
+		seccode_displayed = 1;
+	}
+}
+</script>
+		<div style="width:490px; margin:auto; padding-top:20px;">
+		<form name="postform" id="postform" method="post" action="http://bbs.chinanews.com.cn/comments/post_no_login.php" target="_top">
+        	<div style="font-size:12px; color:#443d9a; font-weight:bold; text-align:left; line-height:25px; padding-left:20px;">
+            	<img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_comment_icon_1.jpg" />马上发表我的看法……
+            </div>
+            <div style="background:url(http://bbs.chinanews.com.cn/images/bbs_zhengwen_comment_box_bg_479.jpg) no-repeat scroll 0 0; width:479px; height:146px; margin:5px auto 0; padding-top:5px;">
+            	<textarea style="width:470px; height:115px; border:none; background:transparent; font-size:12px;" name="message" id="message" onfocus="f_focus()" ></textarea>
+            </div>
+            <div style=" line-height:50px;">
+            	<div style="float:left; font-size:12px; padding-left:10px; vertical-align:middle; line-height:30px;" >
+                									    	署名：<input type="text" name="username" id="boxUserName" style="width:70px;" tabindex="2" />&nbsp;&nbsp;
+					<!-- 密码：<input type="password" name="password" id="password" style="width:70px;" tabindex="3" />&nbsp;&nbsp; -->
+															<span id="validatearea"></span>
+					<input type="hidden" name="email" value="1291627014@chinanews.com.cn" />
+					<input type="hidden" name="formhash" value="ae0d0a7a" />
+					<input type="hidden" name="referer" value="http://bbs.chinanews.com.cn/web/blog/2010/1203/7007.shtml">
+					<input type="hidden" name="cookietime" value="0" />
+					<input type="hidden" name="otherpost" value="1" />
+										<input name="newsid" type="hidden" value="blog_7007" />
+										<input name="code0" type="hidden" value="gb2312" />
+					<input name="channelid" type="hidden" value="" />
+                </div>
+                <div style="float:right;">
+                	<input type="image" src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_comment_btn.jpg" onClick="return checkvalidate();" />
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+		</form>
+        </div></div>
+<div style="width:540px;margin-left:91px;"><iframe id="iframecomment" onload="adjustIFramesHeightOnLoad(this)" frameborder="0" scrolling="auto" style="width: 500px; height: 500px;" src="http://comment2.chinanews.com.cn/iframe/bbs_zhengwen_comment_list.php?newsid=7007&type=blog"></iframe></div>
+</div><!--正文左-->
+
+<!--正文右-->
+<div class="text-right1">
+<!--广告小画--><div class="right-ad1"><!--中新wap网 形象-->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="250" height="146">
+  <param name="movie" value="http://i2.chinanews.com/gg/100505/050501.swf" />
+  <param name="quality" value="high" />
+  <param name="wmode" value="Opaque">
+  <embed src="http://i2.chinanews.com/gg/100505/050501.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="250" height="146"></embed>
+</object></div><!--广告小画-->
+<!--博文-->
+<div class="right-bw">
+<div><img src="http://i8.chinanews.com/2010bkjx/16.jpg" /></div>
+<div class="right-bw1">
+<ul>
+
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1202/6925.shtml" title="雷！看各国机场收缴的奇怪物品（组图）">雷！看各国机场收缴的奇怪物品（组图）...</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1202/6923.shtml" title="白领：租个男友回家让父母笑得合不拢嘴">白领：租个男友回家让父母笑得合不拢嘴...</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1202/6914.shtml" title="“跪着教书”唤不醒学生，只唤醒了奴性">“跪着教书”唤不醒学生，只唤醒了奴性...</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1202/6913.shtml" title="敢问铁道部火车晚点赔钱不？">敢问铁道部火车晚点赔钱不？</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1202/6911.shtml" title="亏损国企老板洗的是澡，还是公款？">亏损国企老板洗的是澡，还是公款？</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1201/6862.shtml" title="新婚姻法可让“小三”自动出局，噢耶！">新婚姻法可让“小三”自动出局，噢耶！...</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1201/6856.shtml" title="强烈推荐任志强去铁道部任职">强烈推荐任志强去铁道部任职</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1130/6817.shtml" title="周立波无限放大了上海人的丑陋">周立波无限放大了上海人的丑陋</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1130/6809.shtml" title="我所了解的蔡琴和她那十年的“无性婚姻”">我所了解的蔡琴和她那十年的“无性婚姻...</a></li>
+			<li><a href="http://bbs.chinanews.com.cn/web/blog/2010/1130/6807.shtml" title="还是国企好，外企的25万年薪不过是浮云">还是国企好，外企的25万年薪不过是浮...</a></li>
+</ul>
+</div>
+</div><!--博文-->
+
+<!--上上贴-->
+<div class="right-bw">
+<div><a href="/web/shangshangtie.shtml"><img src="http://i8.chinanews.com/2010bkjx/18.jpg" /></a></div>
+<div class="right-sst">
+<div class="right-sst2"><a class="font1" href="http://bbs.chinanews.com.cn/web/tbch/2010/10/39.shtml">求婚：你要的是这样的一份感动吗？</a></div>
+            <div class="right-sst1 font4">经得起时间考验的爱情是值得被祝福的，求婚，这不仅仅是一个仪式，更是对你的智慧、创意、财力和诚意大考验的时刻，你，准备好战斗了吗？人们也许早已习惯了这样....<a class="font4" href="http://bbs.chinanews.com.cn/web/tbch/2010/10/39.shtml">[详细]</a></div>
+<div class="right-sst3">
+<ul>
+<li class="li-s1"><a href="http://bbs.chinanews.com.cn/web/tbch/2010/10/38.shtml">“父母在不远游” 离我们太遥远</a></li><li class="li-s2"><a href="http://bbs.chinanews.com.cn/web/tbch/2010/10/37.shtml">那些让学生“水深火热”的雷人校规</a></li>
+</ul>
+</div>
+
+</div>
+</div><!--上上贴-->
+
+<!--精华-->
+<div class="right-bw">
+<div><a href="/comments/tie_more.php"><img src="http://i8.chinanews.com/2010bkjx/21.jpg" /></a></div>
+<div class="right-jhtb">
+<ul>
+<li style="margin-top:31px;margin-left:40px;"><a class="font8 font-strong" href="http://bbs.chinanews.com.cn/comments/tie.php?tid=2198116&pid=8646048">亏损国企老总每月花8000洗澡</a></li>
+<li style="margin-top:5px;margin-left:62px;"><span class="font8 font-strong">hanwm59</span>的原贴</li>
+<li style="margin-top:3px;margin-left:62px;line-height:18px;padding-right:10px;">配一个二奶洗的会少一些！</li>
+</ul>
+</div>
+<div style="text-align:right;margin-right:25px;"><a href="http://bbs.chinanews.com.cn/comments/tie.php?tid=2198116&pid=8646048"><img src="http://i3.chinanews.com/bbs/bbs_zhengwen/bbs_zhengwen_right_jinghuatieba_btn.jpg" /></a></div>
+</div>
+<!--精华-->
+
+<!--图-->
+<div class="right-bw">
+<div><a href="/web/more/wytt.shtml"><img src="http://i8.chinanews.com/2010bkjx/22.jpg" /></a></div>
+<div><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/48/22541.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U135P44T22D3748F519DT20101203085539.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/48/22541.shtml">86版《聊斋》里的...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/48/22521.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U135P44T22D3747F519DT20101203085443.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/48/22521.shtml">戏说乾隆演员20年...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/52/13741.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U219P44T22D3746F519DT20101203084822.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/52/13741.shtml">《编辑部的故事》...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/52/13803.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U192P44T22D3745F519DT20101203083525.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/52/13803.shtml">承认我是"干锅控"...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/52/13759.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U237P44T22D3744F519DT20101203083514.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/52/13759.shtml">爱是两人一起吃成...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/52/13780.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U219P44T22D3743F519DT20101203084613.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/52/13780.shtml">90后“帅爸”全家...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/50/15139.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U219P44T22D3742F519DT20101203084923.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/50/15139.shtml">美女都有扔枕头癖...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/50/15116.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U219P44T22D3741F519DT20101203085344.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/50/15116.shtml">明星调情肆无忌惮...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/blog101202-6942.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U219P44T22D3740F519DT20101202160500.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/blog101202-6942.shtml">不雅照曝光后越红...</a></div>
+</div><!--图box--><!--图box-->
+<div class="bwphoto">
+<div><a href="http://bbs.chinanews.com.cn/web/48/22469.shtml"><img src="http://i2.chinanews.com/bbsweb/part/U135P44T22D3739F519DT20101202084431.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/web/48/22469.shtml">想嫁豪门就得长这...</a></div>
+</div><!--图box--></div>
+<div class="div-clear"></div>
+</div>
+<!--图-->
+
+<!--视频-->
+<div class="right-bw">
+<div><a href="/web/more/wysp.shtml"><img src="http://i8.chinanews.com/2010bkjx/23.jpg" /></a></div>
+<div><!--视频BOX--><div class="bwtv">
+<div><a href="http://bbs.chinanews.com.cn/thread-2198279-1-1.html"><img src="http://i2.chinanews.com/bbsweb/part/U301P44T24D675F524DT20101202164248.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/thread-2198279-1-1.html">当下最流行的“烈...</a></div></div><!--视频BOX--><!--视频BOX--><div class="bwtv">
+<div><a href="http://bbs.chinanews.com.cn/thread-2198240-1-1.html"><img src="http://i2.chinanews.com/bbsweb/part/U301P44T24D674F524DT20101202111527.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/thread-2198240-1-1.html">自动档和手动档的...</a></div></div><!--视频BOX--><!--视频BOX--><div class="bwtv">
+<div><a href="http://bbs.chinanews.com.cn/thread-2198235-1-1.html"><img src="http://i2.chinanews.com/bbsweb/part/U301P44T24D673F524DT20101202105200.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/thread-2198235-1-1.html">城管工间大跳雷人...</a></div></div><!--视频BOX--><!--视频BOX--><div class="bwtv">
+<div><a href="http://bbs.chinanews.com.cn/thread-2198172-1-1.html"><img src="http://i2.chinanews.com/bbsweb/part/U301P44T24D672F524DT20101201162114.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/thread-2198172-1-1.html">找个侣伴吧，如果...</a></div></div><!--视频BOX--><!--视频BOX--><div class="bwtv">
+<div><a href="http://bbs.chinanews.com.cn/thread-2198128-1-1.html"><img src="http://i2.chinanews.com/bbsweb/part/U237P44T24D671F524DT20101201104136.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/thread-2198128-1-1.html">8刀捅死被撞者:农...</a></div></div><!--视频BOX--><!--视频BOX--><div class="bwtv">
+<div><a href="http://bbs.chinanews.com.cn/thread-2198032-1-1.html"><img src="http://i2.chinanews.com/bbsweb/part/U301P44T24D670F524DT20101130192930.jpg" /></a></div>
+<div class="text-center"><a href="http://bbs.chinanews.com.cn/thread-2198032-1-1.html">老太自制100元人？..</a></div></div><!--视频BOX--></div>
+<div class="div-clear"></div>
+</div><!--视频-->
+
+</div><!--正文右-->
+
+<!--清除--><div class="div-clear"></div><!--清除-->
+</div><!--正文-->
+
+<!--页底-->
+<style type="text/css">
+<!--
+/*页底*/
+.pagebottom{width:950px;margin:0 auto;color:#000;font-size:12px;text-align:center;margin-top:0px;color:#999;}
+.pagebottom a:link{color:#999;}
+.pagebottom a:visited{color:#999;}
+.pagebottom a:hover{color:#999;}
+.pagebottom_1{height:33px;line-height:33px;text-align:center;border-bottom:1px solid #999;}
+.pagebottom_2{text-align:center;line-height:24px;}
+-->
+</style>
+
+<!--页底-->
+<div class=pagebottom>
+<div class=pagebottom_1>
+<a href="http://www.chinanews.com.cn/common/footer/intro.shtml">关于我们</a>　| <a href="http://www.chinanews.com.cn/common/footer/aboutus.shtml">About us</a>　|　<a href="http://www.chinanews.com.cn/common/footer/contact.shtml">联系我们</a>　|　<a href="http://ad.chinanews.com.cn/">广告服务</a>　|　<a href="http://www.chinanews.com.cn/common/footer/news-service.shtml">供稿服务</a>　|　<a href="http://www.chinanews.com.cn/common/footer/law.shtml">法律声明</a>　|　<a href="http://hr.chinanews.com/">招聘信息</a>　|　<a href="http://www.chinanews.com.cn/common/footer/sitemap.shtml">网站地图</a>　|　<a href="http://www.chinanews.com.cn/common/footer/feedback.shtml">留言反馈</a>
+</div>
+<div class=pagebottom_2>本网站所刊载信息，不代表中新社和中新网观点。 刊用本网站稿件，务经书面授权。</div>
+<div class=pagebottom_2>未经授权禁止转载、摘编、复制及建立镜像，违者将依法追究法律责任。</div>
+<div class=pagebottom_2>[<a href="http://www.chinanews.com.cn/news/xuke.html">网上传播视听节目许可证（0106168)</a>] [<a href="http://www.miibeian.gov.cn/">京ICP证040655号</a>] 总机：86-10-87826688</div>
+</div>
+<!--页底-->
+<!--页底-->
+
+</div><!--全局-->
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe95e3e3068792121f0af097f711f43c5' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>
+

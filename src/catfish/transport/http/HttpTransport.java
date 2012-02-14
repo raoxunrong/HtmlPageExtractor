@@ -21,9 +21,9 @@ public class HttpTransport implements Transport {
 	@Inject
 	private HttpClient httpclient;
 	
-	private HttpRequestBase httpRequest;
-
-	private static final int MAX_DOCUMENT_LENGTH = 1024 * 1024;
+//	private HttpRequestBase httpRequest;
+//
+//	private static final int MAX_DOCUMENT_LENGTH = 1024 * 1024;
 
 	@Override
 	public void clear() {

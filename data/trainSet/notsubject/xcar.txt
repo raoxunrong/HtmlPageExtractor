@@ -1,0 +1,964 @@
+http://info.xcar.com.cn/
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>新车频道_汽车新闻资讯 - 爱卡汽车网</title>
+<meta name="keywords" content="新车新闻,汽车资讯,爱卡汽车网,新车动态,八卦车闻,交通新闻,国际车闻,车坛动态,各地车展,厂商动态 " />
+<meta name="description" content="爱卡汽车网提供最新即时汽车新闻资讯，内容包括社区新闻、新车动态、八卦车闻、交通新闻、国际车闻、车坛动态、各地车展、厂商动态等" />
+ 
+<link href="http://icon.xcar.com.cn/2009/css/xcarnt.css" rel="stylesheet" type="text/css" />
+<link href="http://icon.xcar.com.cn/2009/css/other.css" rel="stylesheet" type="text/css" />
+</head>
+ 
+<body>
+<!--$--4440*专题title修改-4440--$--><!--$--4440*专题title修改-4440--$-->
+<!--$--1000*头部-1000--$--><script language="javascript" src="http://d0.xcar.com.cn/push_n.php?pid=34"></script>
+ 
+<link href="http://icon.xcar.com.cn/2010/header/css/cssall.css" rel="stylesheet" type="text/css" />
+<link href="http://icon.xcar.com.cn/2010/header/css/header_1006.css" rel="stylesheet" type="text/css" />
+<link href="http://tools.xcar.com.cn/search/css/ss_box.css" rel="stylesheet" type="text/css" />
+<SCRIPT LANGUAGE="JavaScript" type="text/javascript"> 
+<!--
+function showhidden(id,i){
+		var select_obj=document.getElementsByTagName("SELECT");
+		if(i==1){
+			document.getElementById(id).style.display="block";
+			if(id=='myxp'){
+			document.getElementById('myli').className="userpic picact";
+			}
+		}else{
+			if(id=='myxp'){
+			document.getElementById('myli').className="userpic";
+			}
+			document.getElementById(id).style.display="none";
+		}
+}
+function clear_input(){
+	form2.k.value='';
+	form2.k.focus();
+	document.getElementById('clear_button').style.display='none';
+}
+function loaddaohang(){
+       var dh = document.getElementById("daohang");
+       if(dh){
+              if(dh.src=="http://www.xcar.com.cn/bbs/header/daohangindex.php"){
+ 
+              }else{
+              dh.src = "http://www.xcar.com.cn/bbs/header/daohangindex.php";      
+              }
+       }
+       showhidden('listmenu_menu','1');
+}
+ 
+ 
+//-->
+</SCRIPT>
+ 
+<div class="header_xt">
+  <div class="tonext">
+    <div class="title"><a href="http://www.xcar.com.cn/">爱卡首页</a></div>
+    <div id="logininfo"></div>
+    <a class="u_club" href="http://club.xcar.com.cn/club_car.htm" onmouseover="loaddaohang();" onmouseout="showhidden('listmenu_menu',0);">爱卡论坛导航</a>
+    <div id="listmenu_menu" style="border:1px solid #B4CDEB; z-index:999; width:798px; height:432px; position:absolute; top:24px; display:none;background-color:#FFF;right:0px " onmouseover="showhidden('listmenu_menu','1');" onmouseout="showhidden('listmenu_menu',0);">
+      <iframe id="daohang" style="width:798px; height:432px " border=0 frameborder=0 marginwidth=0 marginheight=0 scrolling=no target=_blank src='http://www.xcar.com.cn/bbs/header/loading.htm'></iframe>
+    </div>
+    <div style="position:absolute; top:5px; left:720px; width:135px;"></div>
+  </div>
+  <div class="navxt">
+    <div class="title"><a href="http://www.xcar.com.cn/" title="爱卡汽车网">爱卡汽车网</a></div>
+    <ul class="xtnav s1">
+      <li class="fg"></li>
+      <li class="t"><a href="http://info.xcar.com.cn/">选车</a></li>
+      <li class="k"></li>
+      <li><a href="http://info.xcar.com.cn/">新车</a></li>
+      <li class="txt4"><a href="http://newcar.xcar.com.cn/compare.php">车型对比</a></li>
+      <li><a href="http://drive.xcar.com.cn/">试驾</a></li>
+      <li class="txt4"><a href="http://newcar.xcar.com.cn/review.htm">说 真 的</a></li>
+    </ul>
+    <ul class="xtnav s2">
+      <li class="fg"></li>
+      <li class="t1"><a href="http://newcar.xcar.com.cn/">买车</a></li>
+      <li class="k"></li>
+      <li class="txt4"><a href="http://newcar.xcar.com.cn/price_index.htm">汽车报价</a></li>
+      <li class="txt4"><a href="http://newcar.xcar.com.cn/photo/" target="_blank">汽车图片</a></li>
+      <li class="txt4"><a href="http://newcar.xcar.com.cn/dealer/d1000/">优惠促销</a></li>
+      <li class="txt4"><a href="http://used.xcar.com.cn/">二 手 车</a></li>
+    </ul>
+    <ul class="xtnav s4">
+      <li class="fg"></li>
+      <li class="t4"><a href="http://yp.xcar.com.cn">用品</a></li>
+      <li class="k"></li>
+      <li><a href="http://yp.xcar.com.cn/db/jiyou/" target="_blank">机油</a></li>
+      <li><a href="http://yp.xcar.com.cn/db/luntai/" target="_blank">轮胎</a></li>
+      <li><a href="http://yp.xcar.com.cn/db/gps/" target="_blank">GPS</a></li>
+    </ul>
+    <ul class="xtnav s3">
+    	<li class="fg"></li>
+      <li class="t3"><a href="http://club.xcar.com.cn/">互动</a></li>
+      <li class="k"></li>
+      <li><a href="http://club.xcar.com.cn/">论坛</a></li>
+      <li><a href="http://my.xcar.com.cn/thread/hot.htm" target="_blank">热帖</a></li>
+      <li><a href="http://club.xcar.com.cn/active/">活动</a></li>
+      <li class="txt3"><a href="http://club.xcar.com.cn/diy/">自驾游</a></li>
+      <li class="txt4"><a href="http://club.xcar.com.cn/hotpic.htm">论坛热图</a></li>
+    </ul>
+    <div class="sMy2">
+    	<a href="http://my.xcar.com.cn/" target="_blank">Myxcar</a>
+    </div>
+<div class="dq" id="__ip_city_car"><span>全国车市：</span><a class="hot" href='http://cheshi.xcar.com.cn'>102个车市>></a>
+</div>
+<script src="http://tools.xcar.com.cn/ip2city/tool_ip2_city.pack.js" type="text/javascript"></script>
+    <!-- 搜索框 begin -->
+    <div id="search_input" class="schxt">
+      <form id="searchForm2" name="searchForm2" action="http://search.xcar.com.cn/search.php" method="get">
+        <input id="k" name="k" value="快速搜车" type="text"/>
+        <span></span>
+        <div id="clear_button" style="display:none;"> <a class="qx" href="javascript:void(0);" onclick="clear_input();"></a> </div>
+      </form>
+    </div>
+    <!-- 搜索框 end -->
+  </div>
+  <div class="sortxt">
+    <ul class="carxt">
+      <li><a href="http://newcar.xcar.com.cn/type/0/">微型车</a></li>
+      <li><a class="s1" href="http://newcar.xcar.com.cn/type/1/">小型车</a></li>
+      <li><a class="s2" href="http://newcar.xcar.com.cn/type/2/">紧凑型车</a></li>
+      <li><a class="s3" href="http://newcar.xcar.com.cn/type/3/">中型车</a></li>
+      <li><a class="s4" href="http://newcar.xcar.com.cn/type/4/">中大型车</a></li>
+      <li><a class="s5" href="http://newcar.xcar.com.cn/type/5/">豪华车</a></li>
+      <li><a class="s6" href="http://newcar.xcar.com.cn/type/7/">SUV</a></li>
+      <li><a class="s7" href="http://newcar.xcar.com.cn/type/6/">MPV</a></li>
+      <li><a class="s8" href="http://newcar.xcar.com.cn/type/8/">跑车</a></li>
+    </ul>
+    <ul class="pricext">
+      <li><a href="http://newcar.xcar.com.cn/price_range_11.htm">5万以下</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_10.htm">5-10万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_9.htm">10-15万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_8.htm">15-20万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_7.htm">20-25万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_6.htm">25-35万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_5.htm">35-50万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_4.htm">50-70万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_3.htm">70-100万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_2.htm">100-200万</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_range_1.htm">200万以上</a></li>
+      <li><a href="http://newcar.xcar.com.cn/price_index.htm">全部&gt;&gt;</a></li>
+    </ul>
+  </div>
+</div>
+<!-- 搜索框涉及js begin -->
+<script language="javascript" src="http://tools.xcar.com.cn/search/suggest.js"></script>
+<script language="javascript"> 
+		
+	form2 = document.getElementById("searchForm2");
+//	form2.k.focus();
+	var suggest_searchForm2_k = new SuggestClient2(form2.k, 360);
+	
+</script>
+<!-- 搜索框涉及js end --><!--$--1000*头部-1000--$-->
+<!--$--01*相关广告-01-01--$--><!-- 伸缩 -->
+<div style="text-align:center;width:955px;margin:0 auto;">
+ 
+<div style="float:left;clear:both;">
+<table width="955" height="30" align="left" cellpadding="0" cellspacing="0" background="http://d1.xcar.com.cn/2010/12/1291598773_6506.jpg" bgcolor="4F6A7C"  style=" background-repeat:repeat-x" id="ztr_title_div"><!--广告收缩状态时图片背景，修改 background=“”值即可更新 -->
+	<tr>
+	<span onMouseOver="javascript:showBanner();">
+	<td width="98" align="left">&nbsp;</td>
+	</span>
+	<td width="789" align="left"><center>
+	  <div class="xA12B" style="width:900px;overflow:hidden; white-space : nowrap"><span onmouseover="javascript:showBanner();">
+      
+      <a href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=14240" target="_blank" style="text-decoration:none;"><!--广告收缩状态链接 --> 
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; </a>
+    </span></div>
+	</center></td>
+	<span onMouseOver="javascript:showBanner();"></span>
+	<td width="21"><a href="" target="_blank"></a></td>
+ 
+	<td width="14">&nbsp;</td>
+	</tr>
+</table>
+</div>
+<div id="ztr_banners_div" style="width:955px; text-align:left; height:0; display:none; overflow:hidden; position:relative; float: left; clear: both;">
+	<div>
+	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="955" height="100">
+        <param name="movie" value="http://d1.xcar.com.cn/2010/12/1291598790_896.swf"><!--扩展后大广告地址 -->
+        <param name="quality" value="high">
+        <embed src="http://d1.xcar.com.cn/2010/12/1291598790_896.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="955" height="100"></embed><!--扩展后大广告地址 -->
+      </object>
+    </div>
+	<div style="position:absolute; top:85px; left:950px;"><a href="#" onClick="javascript:closeBanner();" title="关闭"><img src="img/top_18.gif" width="11" height="11" /></a></div>
+</div>
+<script language="javascript" type="text/javascript"> 
+var bitv;
+var btim;
+function showBanner(){
+	var o = getObj('ztr_banners_div');
+	var h = parseInt(o.style.height);
+	if(h>0) return;
+	o.style.display = '';
+	clearInterval(bitv);
+	clearTimeout(btim);
+	bitv = setInterval(function(){
+		o.style.height = (h+=5) + 'px';
+		if(h>=100){
+			clearInterval(bitv);
+			btim = setTimeout(closeBanner,9000);
+		}
+	},20);
+	
+}
+function closeBanner(){
+	var o = getObj('ztr_banners_div');
+	var h = parseInt(o.style.height);
+	if(h==0) return;
+	clearInterval(bitv);
+	clearTimeout(btim);
+	bitv = setInterval(function(){
+		o.style.height = (h-=5) + 'px';
+		if(h<=0){
+			o.style.display = 'none';
+			clearInterval(bitv);
+		}
+	},20);
+}
+function closeAll(){
+	closeBanner();
+	getObj('ztr_title_div').style.display = 'none';
+}
+function getObj(id){return document.getElementById(id);}
+</script>
+</div>
+<!-- 伸缩 -->
+ 
+<div class="adset_955x90" id="div_d0_js_11"></div><!--$--01*相关广告-01-01--$-->
+<!--$--2009*内容-2009--$--><DIV class="content_nt mar_top8 title_nav">
+<H1>新闻中心</H1>
+<style type="text/css">
+		.search .zl22_1 {width:130px;  position:relative;}
+		.search .zl22_2 {width:55px; color:#999; position:absolute; left:-65px; top:2px; }
+		.search .zl22_3 {width:15px; height:15px; position:absolute; left: -23px; top: 4px;}
+		.search .zl22_wz {position:absolute; left: -130px; top: 2px;}
+		.search .zl22_4 { line-height:18px; position:absolute; left:-65px; top:19px; width:57px; border: solid 1px #7f9db9; border-top:none; background-color:#fff;}
+		.search .zl22_4  a.active { background-color:#316ac5; color:#FFF; text-decoration:none;}
+		.search .zl22_4  a { display:block; color:#666; font-weight:normal; font-size:12px;}
+	</style>
+<DIV class=search>
+<FORM id=search name=search action=http://search.xcar.com.cn/search.php method=get>
+<div class="zl22_1">
+<b class="zl22_wz">爱卡搜索：</b>
+<input value="资讯" type="text" class="zl22_2" name="mySelInput" id="mySelInput"/>
+<input value="2" type="hidden" name=c id=c/>
+          <div class="zl22_3"><img src="http://icon.xcar.com.cn/2009/images/icon_v.jpg" width="15" height="15" onclick="showOptions()" /></div>
+          <div class="zl22_4" style="display:none;" id="options_div" name="options_div" >
+          	<a id=1 onmouseover="this.className='active'" onmouseout="this.className=''";>综合</a>
+            <a id=2 onmouseover="this.className='active'" onmouseout="this.className=''";>资讯</a>
+			<a id=3 onmouseover="this.className='active'" onmouseout="this.className=''";>车型</a>
+			<a id=4 onmouseover="this.className='active'" onmouseout="this.className=''";>经销商</a>
+			<a id=5 onmouseover="this.className='active'" onmouseout="this.className=''";>社区</a>
+ 
+          </div>
+        </div>
+<INPUT id=f type=hidden value=0 name=f> 
+<INPUT class=i2 id=k onmouseover=select_search(); name=k>
+<INPUT class=i3 id=button type=submit value="搜 索" name=button> 
+<SPAN>powered by <A href="http://www.moretoo.com/" target=_blank>moretoo</A></SPAN> 
+</DIV>
+</FORM>
+<SCRIPT language=javascript> 
+function showOptions(){
+var options_div = document.getElementById('options_div');
+if(options_div.style.display=='none'){
+	options_div.style.display='inline';
+}else{
+	options_div.style.display='none';
+}
+}
+var mySelOptions = document.getElementById("options_div");
+var mySelOpts = mySelOptions.getElementsByTagName("a");
+for(i=0,l=mySelOpts.length;i<l;i++){
+	 mySelOpts[i].onclick = function(){
+        document.getElementById("mySelInput").value = this.innerHTML;
+		document.getElementById("c").value = this.id;
+        document.getElementById('options_div').style.display='none';
+        return false;
+    }
+ 
+}
+</SCRIPT>
+<P class=nav><A class=lb href="http://info.xcar.com.cn/list/164/" target=_blank>国内新车</A><A href="http://info.xcar.com.cn/list/234/" target=_blank>海外新车</A><A href="http://info.xcar.com.cn/list/288/" target=_blank>新车谍照</A><A href="http://info.xcar.com.cn/list/506/" target=_blank>精彩评析</A><A href="http://info.xcar.com.cn/list/163/" target=_blank>编辑有话说</A><A href="http://info.xcar.com.cn/list/362/" target=_blank>爱卡访谈室</A><A href="http://info.xcar.com.cn/list/195/" target=_blank>企业动态</A><A href="http://info.xcar.com.cn/list/214/" target=_blank>行业政策</A><A href="http://topic.xcar.com.cn/" target=_blank>专题集锦</A></P></DIV><!--$--2009*内容-2009--$-->
+<div class="content_nt mar_top8">
+	<div class="box_left fix_bg_nt">
+    	<div class="subbox_left">
+        <!--$--1*内容-1--$--><style type="text/css"> 
+#f_div{width:311px; height:200px; overflow:hidden;}
+#f_imgDiv{width:100%; height:200px; overflow:hidden;filter:progid:DXImageTransform.Microsoft.Fade(Overlap=1.00);}
+#f_infoDiv{width:100%; top:-13px; position:relative;}/* 按钮区域外框，通过relative放置于图片上方底&#65533;&#65533;?*/
+#f_buttonDiv{
+	top:0;
+	right:0;
+	position:absolute;
+	z-index:2;
+}
+#f_buttonDiv .bg{ text-align:center;}
+#f_buttonDiv .bg a{
+	width:22px;
+	height:13px;
+	float:left;
+	color:#FFF;
+	overflow:hidden;
+	text-decoration:none;
+	background:#000;
+	filter:Alpha(Opacity=60);
+	-moz-opacity:0.6;
+	opacity: 0.6;
+	font: 9px Verdana, Geneva, sans-serif;
+	border-right:solid 1px #FFF;
+}
+#f_buttonDiv .bg a:link,#f_buttonDiv a:visited,#f_buttonDiv a:active{}
+#f_buttonDiv .bg a:hover{background:#f00; color:#fff;}
+#f_buttonDiv .bg a.on:link,#f_buttonDiv a.on:visited,#f_buttonDiv a.on:active,#f_buttonDiv a.on:hover{background:#f00; color:#fff;}
+ 
+</style>
+ 
+<script src="http://www.xcar.com.cn/focusImg.js"></script>
+ 
+<div id="f_div">
+    <div id="f_imgDiv"> 
+	<a href="#" target="_blank">
+	<a href="http://info.xcar.com.cn/201012/news_170745_1.html" target="_blank"><img src="http://pic.xcar.com.cn/img/07news/8udvFqzlo84240.jpg"  border="0" width="311" height="200" /></a><a href="http://info.xcar.com.cn/201012/news_170630_1.html" target="_blank"><img src="http://pic.xcar.com.cn/img/07news/1VlzeN0tV29240.jpg"  border="0" width="311" height="200" /></a><a href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=13989" target="_blank"><img src="http://pic.xcar.com.cn/img/07news/ZveWAnBMA97174.jpg"  border="0" width="311" height="200" /></a><a href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=13872" target="_blank"><img src="http://pic.xcar.com.cn/img/07news/92o9hP9rBN3699.jpg"  border="0" width="311" height="200" /></a><a href="http://weizhiv2.tjfcar.com/" target="_blank"><img src="http://pic.xcar.com.cn/img/07news/B68YH8C7G12152.jpg"  border="0" width="311" height="200" /></a><a href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=14048" target="_blank"><img src="http://pic.xcar.com.cn/img/07news/3Vse6n45e22377.jpg"  border="0" width="311" height="200" /></a>	</div>
+    <div id="f_infoDiv">
+      <div id="f_buttonDiv" style="width:138px;">
+       <div class="bg"><a href="javascript:void(0)" class="" focusclass="on" normalclass="" >1</a></div><div class="bg"><a href="javascript:void(0)" class="" focusclass="on" normalclass="" >2</a></div><div class="bg"><a href="javascript:void(0)" class="" focusclass="on" normalclass="" >3</a></div><div class="bg"><a href="javascript:void(0)" class="" focusclass="on" normalclass="" >4</a></div><div class="bg"><a href="javascript:void(0)" class="" focusclass="on" normalclass="" >5</a></div><div class="bg"><a href="javascript:void(0)" class="" focusclass="on" normalclass="" style="border-right:none;" >6</a></div>      </div>
+    </div>
+  </div>
+<script>	
+	var a=new PicFocus("f_imgDiv","f_text","f_buttonDiv","5000");//5000为切换时间，默认&#65533;&#65533;?秒，此处指定4&#65533;&#65533;?
+	a.init();
+	a.play();
+</script><!--$--1*内容-1--$-->
+        <!--$--2*内容-2--$--><ul class="listtxt_nt" style="border-bottom: medium none">
+    <li><a target="_blank" href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=14350">[550超值贺岁送惊喜]</a><a rel="nofollow" target="_blank" href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=14087">[奔驰A级轿车，逐梦上市]</a></li>
+    <li><a rel="nofollow" target="_blank" href="http://topic.xcar.com.cn/201011/mbz/">[汽车音响无损改装方案]</a><a rel="nofollow" target="_blank" href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=14200">[两大空间融于荣威350]</a></li>
+    <li><a rel="nofollow" target="_blank" href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=14227">[新奥迪TT焕然上市]</a><a rel="nofollow" target="_blank" href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=13161">[陆风百冠，激情共享]</a></li>
+    <li><a rel="nofollow" target="_blank" href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=14314">[东风日产车主直言评车]</a><a rel="nofollow" target="_blank" href="http://www.xcar.com.cn/xpublic/common/ad_redirect.php?id=10870">[网络达人 抢答有&ldquo;礼&rdquo;]</a></li>
+</ul><!--$--2*内容-2--$-->
+      <div class="conbox_nt">
+      <!--$--3*内容-3--$-->
+            	<h2 class="title_nt"><em class="tab">&nbsp;</em><span class="t2">专题推荐</span></h2>
+                <!--$--3*内容-3--$-->
+                <!--$--4*内容-4--$--><ul class="pictxt_nt2">
+    <li><a href="http://topic.xcar.com.cn/201008/bwmm/" target="_blank"><img height="90" width="120" src="http://pic.xcar.com.cn/img/07news/MHLcQqo2tV1286.jpg" alt="你与M同在爱卡" /></a>
+    <p><a href="http://topic.xcar.com.cn/201008/bwmm/" target="_blank">你与M同在爱卡</a></p>
+    </li>
+    <li><a href="http://topic.xcar.com.cn/201003/msbenz/" target="_blank"><img height="90" width="120" src="http://pic.xcar.com.cn/img/07topic/uAyVjgk3m76922.jpg" alt="让蓝天更加湛蓝" /></a>
+    <p><a href="http://topic.xcar.com.cn/201003/msbenz/" target="_blank">让蓝天更加湛蓝</a></p>
+    </li>
+    <li style="border-top: 1px solid rgb(209, 209, 209);"><a href="http://topic.xcar.com.cn/chezhan/beijing/" target="_blank">2010北京车展</a></li>
+    <li style="border-top: 1px solid rgb(209, 209, 209);"><a href="http://topic.xcar.com.cn/200908/frankfurt/" target="_blank">2009法兰克福车展</a></li>
+    <li style="border-top: 1px solid rgb(209, 209, 209);"><a href="http://topic.xcar.com.cn/chezhan/geneva/" target="_blank">2010日内瓦车展</a></li>
+    <li style="border-top: 1px solid rgb(209, 209, 209);"><a href="http://topic.xcar.com.cn/chezhan/guangzhou/" target="_blank">2010广州车展</a></li>
+</ul><!--$--4*内容-4--$--><div class="clear"></div>
+      		</div>
+        </div>
+        <div class="subbox_right">
+        	<div class="focustxt_nt2">
+            	 <h2 class="titleFocus_nt"><span class="til"><!--$--5*内容-5--$-->今日热点<!--$--5*内容-5--$--></span><em class="adset_297x27"><!--$--02*相关广告-02-02--$--><div id="div_d0_js_358"></div><!--$--02*相关广告-02-02--$--></em></h2>
+              <div class="hotnews_nt2">
+              <!--$--6*内容-6--$--><h2><a target="_blank" href="http://info.xcar.com.cn/201012/news_170773_1.html">实用很重要 未来汽车将普及的领先配置</a></h2><!--$--6*内容-6--$-->
+              </div>
+              <!--$--7*内容-7--$--><p class="news_nt2"><a target="_blank" href="http://topic.xcar.com.cn/201011/qzbs/"><font style="color: #ff0000">[驱动形式很重要！]</font></a><a target="_blank" href="http://info.xcar.com.cn/201012/news_169172_1.html">[体验江淮悦悦]</a><a target="_blank" href="http://info.xcar.com.cn/201012/news_169337_1.html">[三菱ASX劲炫将推1.6L]</a></p><!--$--7*内容-7--$-->
+                 <!--$--8*内容-8--$--><UL class=txtlist1_nt>
+<LI><EM>12月13日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171059_1.html" target="_blank">·或搭载新君威动力 新一代MG7效果图曝光</A></LI>
+<LI><EM>12月13日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171084_1.html" target="_blank">·来头都不小 2010广州车展欧美新车总览</A></LI>
+<LI><EM>12月13日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_170982_1.html" target="_blank">·一汽大众将引入西亚特 明年初中国首发</A></LI>
+<LI><EM>12月13日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171403_1.html" target="_blank">·明年1月发布 福特将推新款SUV替代Kuga</A></LI>
+<LI><EM>12月13日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_170884_1.html" target="_blank">·瑞纳两厢版首发 广州车展现代展区预览</A></LI>
+<LI><EM>12月13日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171405_1.html" target="_blank">·期待中文名! 揽胜Evoque将亮相广州车展</A></LI>
+</UL><!--$--8*内容-8--$-->
+                  <!--$--03*相关广告-03-03--$--><div id="div_d0_js_14"></div><!--$--03*相关广告-03-03--$-->
+                  <!--$--9*内容-9--$--><UL class=txtlist1_nt>
+<LI><EM>12月13日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171404_1.html" target="_blank">·全新紧凑级SUV 马自达CX-5最新谍照曝光</A></LI>
+<LI><EM>12月12日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171414_1.html" target="_blank">·设计很给力 福特新钢炮Capri效果图曝光</A></LI>
+<LI><EM>12月12日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171413_1.html" target="_blank">·5.5秒破百 高尔夫R20 2012年美国上市</A></LI>
+<LI><EM>12月11日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171386_1.html" target="_blank">·百公里加速3.49秒 标致EX1中国创新纪录</A></LI>
+<LI><EM>12月11日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171330_1.html" target="_blank">·配置、SUV再成热点 一周精彩文章回顾</A></LI>
+<LI><EM>12月10日</EM><CITE></CITE>
+<A href="http://info.xcar.com.cn/201012/news_171220_1.html" target="_blank">·尘埃落定 斯柯达2013年国产SUV车型YETI</A></LI>
+</UL><!--$--9*内容-9--$-->
+            </div>
+        </div>
+  </div>
+    <div class="box_right">
+    <!--$--05*相关广告-05-05--$--><div id="div_d0_js_13"></div><!--$--05*相关广告-05-05--$-->
+    </div>
+<div class="clear"></div>
+</div>
+<!--$--04*相关广告-04-04--$--><div class="adset_955x90" id="div_d0_js_12"></div><!--$--04*相关广告-04-04--$-->
+<div class="content_nt mar_top8">
+  <div class="borderRBL_box" style="_width:953px">
+  <!--$--10*内容-10--$--><H2 class=title_nt><EM class=tab>&nbsp;</EM><SPAN class=t2>车型欣赏</SPAN></H2><!--$--10*内容-10--$-->
+        <!--$--11*内容-11--$--><ul class="piclist">
+    <li><a target="_blank" href="http://newcar.xcar.com.cn/333/photo.htm"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/3nwqP6ZedG8982.jpg" /></a><a target="_blank" href="http://newcar.xcar.com.cn/333/photo.htm">保时捷911</a></li>
+    <li><a rel="nofollow" target="_blank" href="http://www.ftms.com.cn/vehicles/prado/"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/TTjvY67sna1382.jpg" /></a><a rel="nofollow" target="_blank" href="http://www.ftms.com.cn/vehicles/prado/">PRADO普拉多全新登场</a></li>
+    <li><a rel="nofollow" target="_blank" href="http://newcar.xcar.com.cn/1086/"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/6s82GOuddQ2272.jpg" /></a><a rel="nofollow" target="_blank" href="http://newcar.xcar.com.cn/1086/">荣威350</a></li>
+    <li><a rel="nofollow" target="_blank" href="http://newcar.xcar.com.cn/638/"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/VyIFgk0fOT6224.jpg" /></a><a rel="nofollow" target="_blank" href="http://newcar.xcar.com.cn/638/">昊锐</a></li>
+    <li><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=955"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/zNXJ0qEbNA9772.jpg" /></a><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=955">09款敞篷版MINI</a></li>
+    <li><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=959"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/3vGcSuWOeg4841.jpg" /></a><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=959">白色绅士 新捷豹XFR</a></li>
+    <li><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=957"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/hENut7ktk79633.jpg" /></a><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=957">起亚Soul敞篷版</a></li>
+    <li><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=958"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/8oPJGolM1t2926.jpg" /></a><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=958">V10版奥迪R8</a></li>
+    <li><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=937"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/oFewJ8V8A92103.jpg" /></a><a target="_blank" href="http://photo.xcar.com.cn/view.php?id=937">菲亚特Nuova Croma</a></li>
+    <li><a target="_blank" href="http://photo.xcar.com.cn/photo_1.php?id=893"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/0aqMXAHizP0177.jpg" /></a><a target="_blank" href="http://photo.xcar.com.cn/photo_1.php?id=893">2010款宝马Z4</a></li>
+    <li><a target="_blank" href="http://newcar.xcar.com.cn/586/"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/9vIPOK5XN96561.jpg" /></a><a target="_blank" href="http://newcar.xcar.com.cn/586/">大众CC</a></li>
+    <li><a rel="nofollow" target="_blank" href="http://www.hawtai-auto.com/2010gift01/index.html"><img alt="" width="120" height="90" lcevt="1" src="http://pic.xcar.com.cn/img/07news/VGg6FdTli31375.jpg" /></a><a rel="nofollow" target="_blank" href="http://www.hawtai-auto.com/2010gift01/index.html">圣达菲</a></li>
+</ul><!--$--11*内容-11--$-->
+  </div>
+</div>
+<div class="content_nt mar_top8">
+	<div class="box_left bgfix1_nt">
+    	<div class="subbox2_left">
+      <div class="borderRL_box">
+      <!--$--12*内容-12--$--><h2 class="title_nt"><a class="more" target="_blank" href="http://info.xcar.com.cn/list/164/">更多</a><span><a target="_blank" href="http://info.xcar.com.cn/list/164/">国内新车</a></span></h2><!--$--12*内容-12--$-->
+        <!--$--13*内容-13--$--><UL class=txtlist1_nt>
+<LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171084_1.html" target="_blank">·来头都不小 2010广州车展欧美新车总览</A></LI>
+<LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_170982_1.html" target="_blank">·一汽大众将引入西亚特 明年初中国首发</A></LI>
+<LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_170884_1.html" target="_blank">·瑞纳两厢版首发 广州车展现代展区预览</A></LI>
+<LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171405_1.html" target="_blank">·期待中文名! 揽胜Evoque将亮相广州车展</A></LI>
+<LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171220_1.html" target="_blank">·尘埃落定 斯柯达2013年国产SUV车型YETI</A></LI>
+<LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_170965_1.html" target="_blank">·2010广州车展开幕在即 参展商馆位公布</A></LI>
+<LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_170793_1.html" target="_blank">·并非世嘉换代! 雪铁龙新C4三厢版将国产</A></LI>
+<LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_170630_1.html" target="_blank">·先期进口 沃尔沃S60明年六月成都下线</A></LI>
+<LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_170763_1.html" target="_blank">·一汽奔腾B30谍照曝光 出身捷达PQ32平台</A></LI>
+</UL>
+<!--$--13*内容-13--$-->
+      </div>
+    </div>
+        <div class="subbox2_right">
+          <div class="borderR_box">
+          <!--$--14*内容-14--$--><h2 class="title_nt"><a target="_blank" href="http://info.xcar.com.cn/list/234/" class="more">更多</a><span>
+<a target="_blank" href="http://info.xcar.com.cn/list/234/">海外新车</a></span></h2>
+<!--$--14*内容-14--$-->
+            <!--$--15*内容-15--$--><UL class=txtlist1_nt>
+<LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171403_1.html" target="_blank">·明年1月发布 福特将推新款SUV替代Kuga</A></LI>
+<LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171404_1.html" target="_blank">·全新紧凑级SUV 马自达CX-5最新谍照曝光</A></LI>
+<LI><EM>12月12日</EM><A href="http://info.xcar.com.cn/201012/news_171414_1.html" target="_blank">·设计很给力 福特新钢炮Capri效果图曝光</A></LI>
+<LI><EM>12月12日</EM><A href="http://info.xcar.com.cn/201012/news_171413_1.html" target="_blank">·5.5秒破百 高尔夫R20 2012年美国上市</A></LI>
+<LI><EM>12月11日</EM><A href="http://info.xcar.com.cn/201012/news_171386_1.html" target="_blank">·百公里加速3.49秒 标致EX1中国创新纪录</A></LI>
+<LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_170420_1.html" target="_blank">·MINI赛车亮相 明年将征战达喀尔拉力赛</A></LI>
+<LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_170789_1.html" target="_blank">·明年发布! 奔驰SLS AMG敞篷版最新曝光</A></LI>
+<LI><EM>12月09日</EM><A href="http://info.xcar.com.cn/201012/news_169942_1.html" target="_blank">·新福特Fiesta ST曝光 底特律车展亮相</A></LI>
+<LI><EM>12月09日</EM><A href="http://info.xcar.com.cn/201012/news_169934_1.html" target="_blank">·起亚新Picanto设计草图发布 明年亮相</A></LI>
+</UL>
+<!--$--15*内容-15--$-->
+          </div>
+        </div>
+    </div>
+    <div class="box_right">
+    	<div class="borderRBL_box">
+        <!--$--16*内容-16--$--><h2 class="title1_nt"><i></i>热门点评排行榜</h2><!--$--16*内容-16--$-->
+             <!--$--17*内容-17--$--><UL class="tabnav1_nt mar_top_3u">
+<!--  <LI ><A href="#" id = "bg_ph_a1" class=active 
+onmouseover="this.className = 'active'; getElementById('bg_ph_a2').className = '';document.getElementById('bg_ph_2').style.display='none';getElementById('bg_ph_1').style.display=''"><SPAN>一周</SPAN></A></LI>-->
+<!-- onmouseover="this.className = 'active'; getElementById('bg_ph_a1').className = '';getElementById('bg_ph_1').style.display='none';getElementById('bg_ph_2').style.display=''"  -->
+<LI><A  style="cursor:hand;" id = "bg_ph_a2" 
+><SPAN>一月排行</SPAN></A></LI>
+</UL>
+<div style="display:none;">
+<UL class="trend_nt mar_top8 l20" style="height:208px;" id="bg_ph_1" name="bg_ph_1" >
+<LI><SPAN class=h >01</SPAN><A href="http://info.xcar.com.cn/201012/news_169694_1.html" target="_blank">2010年国内十大新闻事件</A></LI>
+<LI><SPAN class=h >02</SPAN><A href="http://info.xcar.com.cn/201012/news_170216_1.html" target="_blank">合资车型历史之操控篇</A></LI>
+<LI><SPAN class=h >03</SPAN><A href="http://info.xcar.com.cn/201012/news_170773_1.html" target="_blank">未来将普及的高科技配置</A></LI>
+<LI><SPAN class=n >04</SPAN><A href="http://info.xcar.com.cn/201012/news_171330_1.html" target="_blank">一周精彩文章回顾</A></LI>
+</UL>
+</div>
+<div  id="bg_ph_2" name="bg_ph_2">
+<UL class="trend_nt mar_top8 l20" style="height:208px;">
+<LI><SPAN class=h >01</SPAN><A href="http://info.xcar.com.cn/201009/news_134724_1.html" target="_blank">本周精彩文章连连看</A></LI>
+<LI><SPAN class=h >02</SPAN><A href="http://info.xcar.com.cn/201008/news_128081_1.html" target="_blank">多款被人忽视的好车</A></LI>
+<LI><SPAN class=h >03</SPAN><A href="http://info.xcar.com.cn/201008/news_127620_1.html" target="_blank">买车最不该“埋单”的配置</A></LI>
+<LI><SPAN class=n >04</SPAN><A href="http://info.xcar.com.cn/201008/news_127619_1.html" target="_blank">盛夏自驾畅游承德避暑山庄</A></LI>
+<LI><SPAN class=n >05</SPAN><A href="http://info.xcar.com.cn/201008/news_127518_1.html" target="_blank">本周不可错过的实用信息</A></LI>
+<LI><SPAN class=n >06</SPAN><A href="http://info.xcar.com.cn/201008/news_126706_1.html" target="_blank">新车新手如何选择车险种类</A></LI>
+<LI><SPAN class=n >07</SPAN><A href="http://info.xcar.com.cn/201008/news_125433_1.html" target="_blank">消费者买车就看价</A></LI>
+<LI><SPAN class=n >08</SPAN><A href="http://info.xcar.com.cn/201008/news_125337_1.html" target="_blank">旅行车!国内水土定不服</A></LI>
+<LI><SPAN class=n >09</SPAN><A href="http://info.xcar.com.cn/201008/news_124530_1.html" target="_blank">自主车8月要打翻身仗</A></LI>
+<LI><SPAN class=n >10</SPAN><A href="http://info.xcar.com.cn/201008/news_123157_1.html" target="_blank">旅行车叫板SUV</A></LI>
+</UL>
+</div><!--$--17*内容-17--$-->
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+<div class="content_nt mar_top8 bgfix1_nt">
+	<div class="box_left">
+    	<div class="borderRBL_box">
+        <!--$--18*内容-18--$--><h2 class="title_nt"><a class="more" target="_blank" href="http://info.xcar.com.cn/list/288/">更多</a><span class="t2"> <a target="_blank" href="http://info.xcar.com.cn/list/288/">新车碟照</a></span></h2><!--$--18*内容-18--$-->
+            <!--$--19*内容-19--$--><UL class=pictxt_nt3>
+<LI><a href="http://info.xcar.com.cn/200905/21/1315/news_55409_1.html" target=_blank ><IMG src="http://pic.xcar.com.cn/img/07news/QY34ht17BE2268.jpg" width=120 height=90 alt="骏捷FSV内饰照片首曝"></a><p><a href="http://info.xcar.com.cn/200905/21/1315/news_55409_1.html" target=_blank >骏捷FSV内饰照片首曝</A></P></LI><LI><a href="http://info.xcar.com.cn/200905/20/1315/news_55387_1.html" target=_blank ><IMG src="http://pic.xcar.com.cn/img/07news/uJoL8z9s8u7212.jpg" width=120 height=90 alt="2011款途锐路试谍照"></a><p><a href="http://info.xcar.com.cn/200905/20/1315/news_55387_1.html" target=_blank >2011款途锐路试谍照</A></P></LI><LI><a href="http://info.xcar.com.cn/200905/05/1315/news_53796_1.html" target=_blank ><IMG src="http://pic.xcar.com.cn/img/07news/CewZyAakFA7848.jpg" width=120 height=90 alt="大发Bego轻度伪装照"></a><p><a href="http://info.xcar.com.cn/200905/05/1315/news_53796_1.html" target=_blank >大发Bego轻度伪装照</A></P></LI><LI><a href="http://info.xcar.com.cn/200904/29/1315/news_53490_1.html" target=_blank ><IMG src="http://pic.xcar.com.cn/img/07news/f837S2PpQK4125.jpg" width=120 height=90 alt="乐风中期改款谍照"></a><p><a href="http://info.xcar.com.cn/200904/29/1315/news_53490_1.html" target=_blank >乐风中期改款谍照</A></P></LI><LI><a href="http://info.xcar.com.cn/200904/16/1315/news_52132_1.html" target=_blank ><IMG src="http://pic.xcar.com.cn/img/07news/pgNsq7Axv72384.jpg" width=120 height=90 alt="新一代萨博9-5谍照"></a><p><a href="http://info.xcar.com.cn/200904/16/1315/news_52132_1.html" target=_blank >新一代萨博9-5谍照</A></P></LI></UL><!--$--19*内容-19--$-->
+             <div class="clear"></div>
+    	</div>
+   		<div class="box_left mar_top8 bgfix1_nt">
+    	<div class="subbox2_left">
+      <div class="borderRL_box">
+      <!--$--20*内容-20--$--><H2 class=title_nt><A class=more href="http://info.xcar.com.cn/list/506/" target=_blank>更多</A><SPAN><a href="http://info.xcar.com.cn/list/506/" target="_blank">精彩评析</a></SPAN></H2>
+<!--$--20*内容-20--$-->
+        <!--$--21*内容-21--$--><UL class=txtlist1_nt>
+ <LI><EM>12月11日</EM><A href="http://info.xcar.com.cn/201012/news_171330_1.html" target="_blank">·配置、SUV再成热点 一周精彩文章回顾</A></LI> <LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_170773_1.html" target="_blank">·实用很重要 未来汽车将普及的领先配置</A></LI> <LI><EM>12月09日</EM><A href="http://info.xcar.com.cn/201012/news_170216_1.html" target="_blank">·GTI领衔 狂侃现款合资车型历史之操控篇</A></LI> <LI><EM>12月08日</EM><A href="http://info.xcar.com.cn/201012/news_169694_1.html" target="_blank">·回味与铭记  2010年国内十大新闻事件</A></LI> <LI><EM>12月06日</EM><A href="http://info.xcar.com.cn/201012/news_168290_1.html" target="_blank">·2010年度盘点 多款合资SUV拼杀国内车市</A></LI> <LI><EM>12月04日</EM><A href="http://info.xcar.com.cn/201012/news_168540_1.html" target="_blank">·本周要闻汇总 热点SUV盘点!小钢炮测试!</A></LI> <LI><EM>12月03日</EM><A href="http://info.xcar.com.cn/201012/news_167732_1.html" target="_blank">·可商用也可家用 2010年重点MPV新车盘点</A></LI> <LI><EM>11月29日</EM><A href="http://info.xcar.com.cn/201011/news_165887_1.html" target="_blank">·内外兼修 爱卡实拍详解全新一代别克GL8</A></LI> <LI><EM>11月29日</EM><A href="http://info.xcar.com.cn/201011/news_165648_1.html" target="_blank">·新品加改款! 11月多款上市热点新车盘点</A></LI> </UL><!--$--21*内容-21--$-->
+      </div>
+    </div>
+        <div class="subbox2_right">
+          <div class="borderR_box">
+          <!--$--22*内容-22--$--><H2 class=title_nt><A class=more href="http://info.xcar.com.cn/list/163/" target=_blank>更多</A><SPAN><a href="http://info.xcar.com.cn/list/163/" target="_blank">编辑有话说</a></SPAN></H2>
+<!--$--22*内容-22--$-->
+            <!--$--23*内容-23--$--><UL class=txtlist1_nt>
+<LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171059_1.html" target="_blank">·或搭载新君威动力 新一代MG7效果图曝光</A></LI><LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171084_1.html" target="_blank">·来头都不小 2010广州车展欧美新车总览</A></LI><LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_170982_1.html" target="_blank">·一汽大众将引入西亚特 明年初中国首发</A></LI><LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171403_1.html" target="_blank">·明年1月发布 福特将推新款SUV替代Kuga</A></LI><LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_170884_1.html" target="_blank">·瑞纳两厢版首发 广州车展现代展区预览</A></LI><LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171405_1.html" target="_blank">·期待中文名! 揽胜Evoque将亮相广州车展</A></LI><LI><EM>12月13日</EM><A href="http://info.xcar.com.cn/201012/news_171404_1.html" target="_blank">·全新紧凑级SUV 马自达CX-5最新谍照曝光</A></LI><LI><EM>12月12日</EM><A href="http://info.xcar.com.cn/201012/news_171414_1.html" target="_blank">·设计很给力 福特新钢炮Capri效果图曝光</A></LI><LI><EM>12月12日</EM><A href="http://info.xcar.com.cn/201012/news_171413_1.html" target="_blank">·5.5秒破百 高尔夫R20 2012年美国上市</A></LI></UL><!--$--23*内容-23--$-->
+          </div>
+        </div>
+    </div>
+   		<div class="box_left mar_top8">
+    	<div class="borderRBL_box">
+        <!--$--24*内容-24--$--><H2 class=title_nt><A class=more href="http://newcar.xcar.com.cn/list/362/" target=_blank>更多</A><SPAN class=t2><a href="http://info.xcar.com.cn/list/362/">爱卡访谈室</a></SPAN></H2>
+<!--$--24*内容-24--$-->
+            <!--$--25*内容-25--$--><UL class=pictxt_nt3>
+<LI><A href='http://newcar.xcar.com.cn/200904/25/1315/news_52979_1.html' target=_blank ><IMG height=90 src='http://pic.xcar.com.cn/img/07news/cXDPy5MMG28921.jpg' width=120 alt='专访沃尔沃安全顾问'></A> <P><A href='http://newcar.xcar.com.cn/200904/25/1315/news_52979_1.html' target=_blank >专访沃尔沃安全顾问</A></P></LI><LI><A href='http://newcar.xcar.com.cn/200904/24/1315/news_52906_1.html' target=_blank ><IMG height=90 src='http://pic.xcar.com.cn/img/07news/fyC5rQqX2u2499.jpg' width=120 alt='专访江铃控股李剑华'></A> <P><A href='http://newcar.xcar.com.cn/200904/24/1315/news_52906_1.html' target=_blank >专访江铃控股李剑华</A></P></LI><LI><A href='http://newcar.xcar.com.cn/200904/24/1315/news_52901_1.html' target=_blank ><IMG height=90 src='http://pic.xcar.com.cn/img/07news/Ql7gTWZTF64223.jpg' width=120 alt='专访福特中国刘泰迪'></A> <P><A href='http://newcar.xcar.com.cn/200904/24/1315/news_52901_1.html' target=_blank >专访福特中国刘泰迪</A></P></LI><LI><A href='http://newcar.xcar.com.cn/200904/24/1315/news_52899_1.html' target=_blank ><IMG height=90 src='http://pic.xcar.com.cn/img/07news/bL1sGCnrHh4443.jpg' width=120 alt='专访丰田中国堀全克'></A> <P><A href='http://newcar.xcar.com.cn/200904/24/1315/news_52899_1.html' target=_blank >专访丰田中国堀全克</A></P></LI><LI><A href='http://newcar.xcar.com.cn/200904/23/1315/news_52864_1.html' target=_blank ><IMG height=90 src='http://pic.xcar.com.cn/img/07news/YCXhb7Y3el2141.jpg' width=120 alt='专访华泰汽车柏永华'></A> <P><A href='http://newcar.xcar.com.cn/200904/23/1315/news_52864_1.html' target=_blank >专访华泰汽车柏永华</A></P></LI></UL>
+<!--$--25*内容-25--$-->
+             <div class="clear"></div>
+    	</div>
+    </div>
+  		<div class="box_left mar_top8">
+    	<div class="subbox2_left">
+      <div class="borderRL_box">
+      <!--$--26*内容-26--$--><H2 class=title_nt><A class=more href="http://info.xcar.com.cn/list/214/" target=_blank>更多</A><SPAN><a href="http://info.xcar.com.cn/list/214/" target="_blank">行业政策</a></SPAN></H2>
+<!--$--26*内容-26--$-->
+        <!--$--27*内容-27--$--><UL class=txtlist1_nt>
+ <LI><EM>12月08日</EM><A href="http://info.xcar.com.cn/201012/news_169809_1.html" target="_blank">·T+D有何神奇？看宝来如何演绎多快好省</A></LI> <LI><EM>12月08日</EM><A href="http://info.xcar.com.cn/201012/news_169769_1.html" target="_blank">·北京治堵获国务院同意 近期公开征求意见</A></LI> <LI><EM>12月06日</EM><A href="http://info.xcar.com.cn/201012/news_168954_1.html" target="_blank">·"一车两用"助力一汽丰田RAV4持续热销</A></LI> <LI><EM>12月01日</EM><A href="http://info.xcar.com.cn/201012/news_167395_1.html" target="_blank">·全新福特Edge锐界 尊享三亚品质生活！</A></LI> <LI><EM>11月28日</EM><A href="http://info.xcar.com.cn/201011/news_165885_1.html" target="_blank">·收官之作 V3菱悦拉力梦工厂北京站开幕</A></LI> <LI><EM>11月02日</EM><A href="http://info.xcar.com.cn/201011/news_154923_1.html" target="_blank">·科技助力昊锐Superb 全面安全不是奢望</A></LI> <LI><EM>10月25日</EM><A href="http://info.xcar.com.cn/201010/news_151233_1.html" target="_blank">·10月26日凌晨起汽油价格上调230元/吨</A></LI> <LI><EM>10月18日</EM><A href="http://info.xcar.com.cn/201010/news_147453_1.html" target="_blank">·聚焦车船税：百家争鸣共话“7档征税”</A></LI> <LI><EM>10月07日</EM><A href="http://info.xcar.com.cn/201009/news_141863_1.html" target="_blank">·税务总局:车船税征管可以异地代收代缴</A></LI></UL><!--$--27*内容-27--$-->
+      </div>
+    </div>
+        <div class="subbox2_right">
+          <div class="borderR_box">
+          <!--$--28*内容-28--$--><H2 class=title_nt><A class=more href="http://info.xcar.com.cn/list/195/" target=_blank>更多</A><SPAN><a href="http://info.xcar.com.cn/list/195/" target="_blank">企业动态</a></SPAN></H2>
+<!--$--28*内容-28--$-->
+            <!--$--29*内容-29--$--><UL class=txtlist1_nt>
+<LI><EM>12月11日</EM><A href="http://info.xcar.com.cn/201012/news_171386_1.html" target="_blank">·百公里加速3.49秒 标致EX1中国创新纪录</A></LI><LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171221_1.html" target="_blank">·柴油MPV也可以干净安静</A></LI><LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171219_1.html" target="_blank">·“油耗三包”形成MPV热销态势</A></LI><LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171212_1.html" target="_blank">·沃尔沃董事会同意沃尔沃中国的战略方向</A></LI><LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171098_1.html" target="_blank">·盘点2010销量霸主们的“贺岁大片”</A></LI><LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171094_1.html" target="_blank">·以油耗的名义 宝来1.4TSI省字当先</A></LI><LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171090_1.html" target="_blank">·岁末冲击  东风日产创新品质震撼热市</A></LI><LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171079_1.html" target="_blank">·MG3无伪装路试谍照 广州车展即将亮相</A></LI><LI><EM>12月10日</EM><A href="http://info.xcar.com.cn/201012/news_171072_1.html" target="_blank">·荣威inkaNet“车震”不仅是“摇摇乐”</A></LI></UL><!--$--29*内容-29--$-->
+          </div>
+        </div>
+    </div>
+    </div>
+    <div class="box_right">
+    <div class="borderRBL_box">
+        <!--$--34*内容-34--$-->
+      <h2 class="title1_nt"><i></i>热点新闻排行榜</h2>
+      <!--$--34*内容-34--$-->
+      <!--$--35*内容-35--$--><UL class=tabnav1_nt>
+<LI ><A  style="cursor:hand;" id = "rd_ph_a1" class=active 
+onmouseover="this.className = 'active'; getElementById('rd_ph_a2').className = '';document.getElementById('rd_ph_2').style.display='none';getElementById('rd_ph_1').style.display=''"><SPAN>一周</SPAN></A></LI>
+<LI><A   style="cursor:hand;" id = "rd_ph_a2" 
+onmouseover="this.className = 'active'; getElementById('rd_ph_a1').className = '';getElementById('rd_ph_1').style.display='none';getElementById('rd_ph_2').style.display=''" ><SPAN>一月</SPAN></A></LI>
+</UL>
+<div>
+<UL class="trend1_nt mar_top8" id="rd_ph_1" name="rd_ph_1">
+<LI><SPAN class=h >01</SPAN><A href="http://info.xcar.com.cn/201012/news_171414_1.html" target="_blank">福特新钢炮Capri效果图曝光</A></LI>
+<LI><SPAN class=h >02</SPAN><A href="http://info.xcar.com.cn/201012/news_170789_1.html" target="_blank">奔驰SLS AMG敞篷版最新曝光</A></LI>
+<LI><SPAN class=h >03</SPAN><A href="http://info.xcar.com.cn/201012/news_170774_1.html" target="_blank">瑞麒G5自动挡广州车展上市</A></LI>
+<LI><SPAN class=n >04</SPAN><A href="http://info.xcar.com.cn/201012/news_170773_1.html" target="_blank">未来将普及的高科技配置</A></LI>
+<LI><SPAN class=n >05</SPAN><A href="http://info.xcar.com.cn/201012/news_170763_1.html" target="_blank">一汽奔腾B30谍照曝光</A></LI>
+<LI><SPAN class=n >06</SPAN><A href="http://info.xcar.com.cn/201012/news_170745_1.html" target="_blank">上汽新MG3将亮相广州车展</A></LI>
+<LI><SPAN class=n >07</SPAN><A href="http://info.xcar.com.cn/201012/news_170630_1.html" target="_blank">沃尔沃S60明年六月成都下线</A></LI>
+<LI><SPAN class=n >08</SPAN><A href="http://info.xcar.com.cn/201012/news_170452_1.html" target="_blank">二款长安美人鱼量产版露面</A></LI>
+<LI><SPAN class=n >09</SPAN><A href="http://info.xcar.com.cn/201012/news_170420_1.html" target="_blank">MINI征战达喀尔拉力赛</A></LI>
+<LI><SPAN class=n >10</SPAN><A href="http://info.xcar.com.cn/201012/news_170396_1.html" target="_blank">上汽MG6三厢版广州车展上市</A></LI>
+</UL>
+</div>
+<div style="display:none;" id="rd_ph_2" name="rd_ph_2">
+<UL class="trend1_nt mar_top8">
+<LI><SPAN class=h >01</SPAN><A href="http://info.xcar.com.cn/201012/news_168472_1.html" target="_blank">奥迪Q5推低功率版</A></LI>
+<LI><SPAN class=h >02</SPAN><A href="http://info.xcar.com.cn/201012/news_167497_1.html" target="_blank">蓝瑟翼神小改款谍照</A></LI>
+<LI><SPAN class=h >03</SPAN><A href="http://info.xcar.com.cn/201012/news_167395_1.html" target="_blank">全新福特Edge锐界 尊享三亚...</A></LI>
+<LI><SPAN class=n >04</SPAN><A href="http://info.xcar.com.cn/201012/news_167312_1.html" target="_blank">保时捷Cajun确定量产</A></LI>
+<LI><SPAN class=n >05</SPAN><A href="http://info.xcar.com.cn/201012/news_167305_1.html" target="_blank">江铃驭胜详细参数配置曝光</A></LI>
+<LI><SPAN class=n >06</SPAN><A href="http://info.xcar.com.cn/201012/news_167295_1.html" target="_blank">华泰B11年底将正式上市</A></LI>
+<LI><SPAN class=n >07</SPAN><A href="http://info.xcar.com.cn/201012/news_167283_1.html" target="_blank">起亚新远舰K5广州车展亮相</A></LI>
+<LI><SPAN class=n >08</SPAN><A href="http://info.xcar.com.cn/201012/news_167256_1.html" target="_blank">大众高尔夫海外推升级版</A></LI>
+<LI><SPAN class=n >09</SPAN><A href="http://info.xcar.com.cn/201012/news_167182_1.html" target="_blank">比亚迪G6广州车展再度亮相</A></LI>
+<LI><SPAN class=n >10</SPAN><A href="http://info.xcar.com.cn/201012/news_167176_1.html" target="_blank">大众新途安部分配置曝光</A></LI>
+</UL>
+</div><!--$--35*内容-35--$-->
+    </div>
+        <div class="borderRBL_box mar_top8">
+        <!--$--30*内容-30--$-->
+          <h2 class="title1_nt"><i></i>车系一周排行榜</h2>
+          <!--$--30*内容-30--$-->
+          <!--$--31*内容-31--$--><script  language="JavaScript" type="text/javascript"> 
+<!--
+function show_ph_1(id,num,box,btn){
+ 
+    for(var i=1;i<num;i++){
+        if(i == parseInt(id)){			
+            document.getElementById(box+id).style.display = "";
+            document.getElementById(btn+id).className = "active";
+        }else{
+			
+            document.getElementById(box+i).style.display = "none";
+            document.getElementById(btn+i).className = "";
+        }
+    }
+}
+//-->
+</script>
+ 
+ 
+<UL class=tabnav1_nt>
+<LI onmouseover="show_ph_1('1',5,'hot_serBox_n','hot_serP_n')"><A id="hot_serP_n1" class=active href="http://newcar.xcar.com.cn/type/0/" target="_blank"><SPAN>微型</SPAN></A></LI>
+<LI onmouseover="show_ph_1('2',5,'hot_serBox_n','hot_serP_n')"><A id="hot_serP_n2" href="http://newcar.xcar.com.cn/type/1/" target="_blank"><SPAN>小型</SPAN></A></LI>
+<LI onmouseover="show_ph_1('3',5,'hot_serBox_n','hot_serP_n')"><A id="hot_serP_n3" href="http://newcar.xcar.com.cn/type/2/" target="_blank"><SPAN>紧凑</SPAN></A></LI>
+<LI onmouseover="show_ph_1('4',5,'hot_serBox_n','hot_serP_n')"><A id="hot_serP_n4" href="http://newcar.xcar.com.cn/type/3/" target="_blank"><SPAN>中型</SPAN></A></LI>
+</UL>
+ 
+<UL id="hot_serBox_n1" class="trend_nt l20"  >
+<LI class=t><SPAN>&nbsp;</SPAN><I>关注次数</I>车系</LI>
+<LI><SPAN class=h>01</SPAN><I>143582</I><A href="http://newcar.xcar.com.cn/258/" target="_blank">比亚迪F0</A></LI>
+<LI><SPAN class=h>02</SPAN><I>47415</I><A href="http://newcar.xcar.com.cn/172/" target="_blank">奥拓</A></LI>
+<LI><SPAN class=h>03</SPAN><I>41433</I><A href="http://newcar.xcar.com.cn/267/" target="_blank">长安奔奔</A></LI>
+<LI><SPAN class=n>04</SPAN><I>36075</I><A href="http://newcar.xcar.com.cn/143/" target="_blank">乐驰</A></LI>
+<LI><SPAN class=n>05</SPAN><I>22905</I><A href="http://newcar.xcar.com.cn/970/" target="_blank">熊猫</A></LI>
+<LI><SPAN class=n>06</SPAN><I>22548</I><A href="http://newcar.xcar.com.cn/245/" target="_blank">奇瑞QQ3</A></LI>
+<LI><SPAN class=n>07</SPAN><I>17486</I><A href="http://newcar.xcar.com.cn/264/" target="_blank">北斗星</A></LI>
+<LI><SPAN class=n>08</SPAN><I>13656</I><A href="http://newcar.xcar.com.cn/952/" target="_blank">海马王子</A></LI>
+<LI><SPAN class=n>09</SPAN><I>11570</I><A href="http://newcar.xcar.com.cn/1185/" target="_blank">旗云1</A></LI>
+<LI><SPAN class=n>10</SPAN><I>11118</I><A href="http://newcar.xcar.com.cn/639/" target="_blank">奇瑞S18电动轿车</A></LI>
+</UL>
+ 
+ 
+<UL id="hot_serBox_n2" class="trend_nt l20" style="display:none;" >
+<LI class=t><SPAN>&nbsp;</SPAN><I>关注次数</I>车系</LI>
+<LI><SPAN class=h>01</SPAN><I>101915</I><A href="http://newcar.xcar.com.cn/56/" target="_blank">POLO</A></LI>
+<LI><SPAN class=h>02</SPAN><I>85325</I><A href="http://newcar.xcar.com.cn/141/" target="_blank">新赛欧</A></LI>
+<LI><SPAN class=h>03</SPAN><I>78975</I><A href="http://newcar.xcar.com.cn/109/" target="_blank">嘉年华</A></LI>
+<LI><SPAN class=n>04</SPAN><I>65340</I><A href="http://newcar.xcar.com.cn/176/" target="_blank">雨燕</A></LI>
+<LI><SPAN class=n>05</SPAN><I>64355</I><A href="http://newcar.xcar.com.cn/561/" target="_blank">本田锋范</A></LI>
+<LI><SPAN class=n>06</SPAN><I>56670</I><A href="http://newcar.xcar.com.cn/152/" target="_blank">本田飞度</A></LI>
+<LI><SPAN class=n>07</SPAN><I>45006</I><A href="http://newcar.xcar.com.cn/146/" target="_blank">乐风</A></LI>
+<LI><SPAN class=n>08</SPAN><I>42342</I><A href="http://newcar.xcar.com.cn/628/" target="_blank">长安悦翔</A></LI>
+<LI><SPAN class=n>09</SPAN><I>41787</I><A href="http://newcar.xcar.com.cn/941/" target="_blank">夏利N5</A></LI>
+<LI><SPAN class=n>10</SPAN><I>33678</I><A href="http://newcar.xcar.com.cn/536/" target="_blank">晶锐</A></LI>
+</UL>
+ 
+ 
+<UL id="hot_serBox_n3" class="trend_nt l20" style="display:none;" >
+<LI class=t><SPAN>&nbsp;</SPAN><I>关注次数</I>车系</LI>
+<LI><SPAN class=h>01</SPAN><I>140099</I><A href="http://newcar.xcar.com.cn/1110/" target="_blank">别克英朗</A></LI>
+<LI><SPAN class=h>02</SPAN><I>116541</I><A href="http://newcar.xcar.com.cn/1093/" target="_blank">高尔夫6</A></LI>
+<LI><SPAN class=h>03</SPAN><I>114645</I><A href="http://newcar.xcar.com.cn/630/" target="_blank">科鲁兹</A></LI>
+<LI><SPAN class=n>04</SPAN><I>112370</I><A href="http://newcar.xcar.com.cn/199/" target="_blank">骊威</A></LI>
+<LI><SPAN class=n>05</SPAN><I>100145</I><A href="http://newcar.xcar.com.cn/58/" target="_blank">宝来</A></LI>
+<LI><SPAN class=n>06</SPAN><I>97244</I><A href="http://newcar.xcar.com.cn/231/" target="_blank">伊兰特</A></LI>
+<LI><SPAN class=n>07</SPAN><I>96476</I><A href="http://newcar.xcar.com.cn/52/" target="_blank">朗逸</A></LI>
+<LI><SPAN class=n>08</SPAN><I>91842</I><A href="http://newcar.xcar.com.cn/62/" target="_blank">速腾</A></LI>
+<LI><SPAN class=n>09</SPAN><I>76026</I><A href="http://newcar.xcar.com.cn/105/" target="_blank">福克斯</A></LI>
+<LI><SPAN class=n>10</SPAN><I>70716</I><A href="http://newcar.xcar.com.cn/162/" target="_blank">卡罗拉</A></LI>
+</UL>
+ 
+ 
+<UL id="hot_serBox_n4" class="trend_nt l20" style="display:none;" >
+<LI class=t><SPAN>&nbsp;</SPAN><I>关注次数</I>车系</LI>
+<LI><SPAN class=h>01</SPAN><I>76986</I><A href="http://newcar.xcar.com.cn/122/" target="_blank">别克新君威</A></LI>
+<LI><SPAN class=h>02</SPAN><I>70044</I><A href="http://newcar.xcar.com.cn/132/" target="_blank">马自达6</A></LI>
+<LI><SPAN class=h>03</SPAN><I>68381</I><A href="http://newcar.xcar.com.cn/1154/" target="_blank">大众CC</A></LI>
+<LI><SPAN class=n>04</SPAN><I>67089</I><A href="http://newcar.xcar.com.cn/63/" target="_blank">迈腾</A></LI>
+<LI><SPAN class=n>05</SPAN><I>66227</I><A href="http://newcar.xcar.com.cn/553/" target="_blank">奥迪A4L</A></LI>
+<LI><SPAN class=n>06</SPAN><I>60159</I><A href="http://newcar.xcar.com.cn/39/" target="_blank">奔驰C级</A></LI>
+<LI><SPAN class=n>07</SPAN><I>58851</I><A href="http://newcar.xcar.com.cn/189/" target="_blank">天籁</A></LI>
+<LI><SPAN class=n>08</SPAN><I>53187</I><A href="http://newcar.xcar.com.cn/57/" target="_blank">帕萨特新领驭</A></LI>
+<LI><SPAN class=n>09</SPAN><I>50861</I><A href="http://newcar.xcar.com.cn/260/" target="_blank">比亚迪F6</A></LI>
+<LI><SPAN class=n>10</SPAN><I>50663</I><A href="http://newcar.xcar.com.cn/937/" target="_blank">雪铁龙C5</A></LI>
+</UL>
+ 
+<!--$--31*内容-31--$--><div class="clear"></div>
+        </div>
+   		<div class="borderRL_box mar_top8">
+        <!--$--32*内容-32--$-->
+      <h2 class="title1_nt"><i></i>车系一周排行榜</h2>
+      <!--$--32*内容-32--$-->
+      <!--$--33*内容-33--$--><script  language="JavaScript" type="text/javascript"> 
+<!--
+function show_ph_2(id,num,box,btn){
+ 
+    for(var i=1;i<num;i++){
+        if(i == parseInt(id)){			
+            document.getElementById(box+id).style.display = "";
+            document.getElementById(btn+id).className = "active";
+        }else{
+			
+            document.getElementById(box+i).style.display = "none";
+            document.getElementById(btn+i).className = "";
+        }
+    }
+}
+//-->
+</script>
+ 
+ 
+<UL class=tabnav1_nt>
+<LI onmouseover="show_ph_2('1',5,'hot_serBox_','hot_serP_')"><A id="hot_serP_1" class=active href="http://newcar.xcar.com.cn/type/4/" target="_blank"><SPAN>中大型</SPAN></A></LI>
+<LI onmouseover="show_ph_2('2',5,'hot_serBox_','hot_serP_')"><A id="hot_serP_2" href="http://newcar.xcar.com.cn/type/5/" target="_blank"><SPAN>豪华</SPAN></A></LI>
+<LI onmouseover="show_ph_2('3',5,'hot_serBox_','hot_serP_')"><A id="hot_serP_3" href="http://newcar.xcar.com.cn/type/7/" target="_blank"><SPAN>SUV/MPV</SPAN></A></LI>
+<LI onmouseover="show_ph_2('4',5,'hot_serBox_','hot_serP_')"><A id="hot_serP_4" href="http://newcar.xcar.com.cn/type/8/" target="_blank"><SPAN>跑车</SPAN></A></LI>
+</UL>
+ 
+<UL id="hot_serBox_1" class="trend_nt l20"  >
+<LI class=t><SPAN>&nbsp;</SPAN><I>关注次数</I>车系</LI>
+<LI><SPAN class=h>01</SPAN><I>99966</I><A href="http://newcar.xcar.com.cn/8/" target="_blank">奥迪A6L</A></LI>
+<LI><SPAN class=h>02</SPAN><I>47739</I><A href="http://newcar.xcar.com.cn/1089/" target="_blank">别克新君越</A></LI>
+<LI><SPAN class=h>03</SPAN><I>37572</I><A href="http://newcar.xcar.com.cn/22/" target="_blank">宝马5系</A></LI>
+<LI><SPAN class=n>04</SPAN><I>20829</I><A href="http://newcar.xcar.com.cn/163/" target="_blank">皇冠</A></LI>
+<LI><SPAN class=n>05</SPAN><I>19583</I><A href="http://newcar.xcar.com.cn/389/" target="_blank">雷克萨斯ES</A></LI>
+<LI><SPAN class=n>06</SPAN><I>15636</I><A href="http://newcar.xcar.com.cn/35/" target="_blank">奔驰E级(进口)</A></LI>
+<LI><SPAN class=n>07</SPAN><I>15077</I><A href="http://newcar.xcar.com.cn/11/" target="_blank">宝马5系(进口)</A></LI>
+<LI><SPAN class=n>08</SPAN><I>14634</I><A href="http://newcar.xcar.com.cn/120/" target="_blank">林荫大道</A></LI>
+<LI><SPAN class=n>09</SPAN><I>13263</I><A href="http://newcar.xcar.com.cn/40/" target="_blank">奔驰E级</A></LI>
+<LI><SPAN class=n>10</SPAN><I>12641</I><A href="http://newcar.xcar.com.cn/634/" target="_blank">沃尔沃S80L</A></LI>
+</UL>
+ 
+ 
+<UL id="hot_serBox_2" class="trend_nt l20" style="display:none;" >
+<LI class=t><SPAN>&nbsp;</SPAN><I>关注次数</I>车系</LI>
+<LI><SPAN class=h>01</SPAN><I>75272</I><A href="http://newcar.xcar.com.cn/957/" target="_blank">奥迪A7</A></LI>
+<LI><SPAN class=h>02</SPAN><I>31676</I><A href="http://newcar.xcar.com.cn/14/" target="_blank">宝马7系</A></LI>
+<LI><SPAN class=h>03</SPAN><I>23193</I><A href="http://newcar.xcar.com.cn/37/" target="_blank">奔驰S级</A></LI>
+<LI><SPAN class=n>04</SPAN><I>19065</I><A href="http://newcar.xcar.com.cn/7/" target="_blank">奥迪A8L</A></LI>
+<LI><SPAN class=n>05</SPAN><I>17442</I><A href="http://newcar.xcar.com.cn/42/" target="_blank">辉腾</A></LI>
+<LI><SPAN class=n>06</SPAN><I>15254</I><A href="http://newcar.xcar.com.cn/335/" target="_blank">迈巴赫</A></LI>
+<LI><SPAN class=n>07</SPAN><I>14927</I><A href="http://newcar.xcar.com.cn/6/" target="_blank">奥迪S8</A></LI>
+<LI><SPAN class=n>08</SPAN><I>10869</I><A href="http://newcar.xcar.com.cn/358/" target="_blank">幻影</A></LI>
+<LI><SPAN class=n>09</SPAN><I>9162</I><A href="http://newcar.xcar.com.cn/344/" target="_blank">雅致</A></LI>
+<LI><SPAN class=n>10</SPAN><I>7559</I><A href="http://newcar.xcar.com.cn/643/" target="_blank">红旗HQE</A></LI>
+</UL>
+ 
+ 
+<UL id="hot_serBox_3" class="trend_nt l20" style="display:none;" >
+<LI class=t><SPAN>&nbsp;</SPAN><I>关注次数</I>车系</LI>
+<LI><SPAN class=h>01</SPAN><I>135786</I><A href="http://newcar.xcar.com.cn/758/" target="_blank">奥迪Q5</A></LI>
+<LI><SPAN class=h>02</SPAN><I>133841</I><A href="http://newcar.xcar.com.cn/658/" target="_blank">途观</A></LI>
+<LI><SPAN class=h>03</SPAN><I>112706</I><A href="http://newcar.xcar.com.cn/1094/" target="_blank">现代ix35</A></LI>
+<LI><SPAN class=n>04</SPAN><I>106583</I><A href="http://newcar.xcar.com.cn/151/" target="_blank">本田CRV</A></LI>
+<LI><SPAN class=n>05</SPAN><I>72237</I><A href="http://newcar.xcar.com.cn/656/" target="_blank">宝马X1</A></LI>
+<LI><SPAN class=n>06</SPAN><I>65186</I><A href="http://newcar.xcar.com.cn/642/" target="_blank">国产RAV4</A></LI>
+<LI><SPAN class=n>07</SPAN><I>61400</I><A href="http://newcar.xcar.com.cn/677/" target="_blank">汉兰达</A></LI>
+<LI><SPAN class=n>08</SPAN><I>50534</I><A href="http://newcar.xcar.com.cn/190/" target="_blank">逍客</A></LI>
+<LI><SPAN class=n>09</SPAN><I>45582</I><A href="http://newcar.xcar.com.cn/275/" target="_blank">哈弗H3</A></LI>
+<LI><SPAN class=n>10</SPAN><I>39914</I><A href="http://newcar.xcar.com.cn/217/" target="_blank">狮跑</A></LI>
+</UL>
+ 
+ 
+<UL id="hot_serBox_4" class="trend_nt l20" style="display:none;" >
+<LI class=t><SPAN>&nbsp;</SPAN><I>关注次数</I>车系</LI>
+<LI><SPAN class=h>01</SPAN><I>36392</I><A href="http://newcar.xcar.com.cn/347/" target="_blank">布加迪威龙</A></LI>
+<LI><SPAN class=h>02</SPAN><I>29639</I><A href="http://newcar.xcar.com.cn/12/" target="_blank">宝马Z4</A></LI>
+<LI><SPAN class=h>03</SPAN><I>28034</I><A href="http://newcar.xcar.com.cn/587/" target="_blank">尚酷</A></LI>
+<LI><SPAN class=n>04</SPAN><I>27105</I><A href="http://newcar.xcar.com.cn/3/" target="_blank">奥迪TT</A></LI>
+<LI><SPAN class=n>05</SPAN><I>24657</I><A href="http://newcar.xcar.com.cn/5/" target="_blank">奥迪R8</A></LI>
+<LI><SPAN class=n>06</SPAN><I>23880</I><A href="http://newcar.xcar.com.cn/641/" target="_blank">日产GT-R</A></LI>
+<LI><SPAN class=n>07</SPAN><I>21506</I><A href="http://newcar.xcar.com.cn/333/" target="_blank">保时捷911</A></LI>
+<LI><SPAN class=n>08</SPAN><I>18926</I><A href="http://newcar.xcar.com.cn/251/" target="_blank">美人豹</A></LI>
+<LI><SPAN class=n>09</SPAN><I>18086</I><A href="http://newcar.xcar.com.cn/724/" target="_blank">马自达MX-5 </A></LI>
+<LI><SPAN class=n>10</SPAN><I>16667</I><A href="http://newcar.xcar.com.cn/28/" target="_blank">奔驰SLK</A></LI>
+</UL>
+ 
+<!--$--33*内容-33--$-->
+    </div>
+    </div><div class="clear"></div>
+</div>
+<!--$--1001*内容-1001--$--><link href="http://icon.xcar.com.cn/2009/css/xcarnt.css" rel="stylesheet" type="text/css" />
+<link href="http://icon.xcar.com.cn/2009/css/other.css" rel="stylesheet" type="text/css" />
+<script> 
+	function show(id,num,box,btn){for(var i=1;i<num;i++){if(i == parseInt(id)){document.getElementById(box+id).style.display ="block";document.getElementById(btn+id).className = "active";}else{document.getElementById(box+i).style.display = "none";document.getElementById(btn+i).className = "";}}}
+</script>
+<div class="content_nt">
+<ul class="tabnav_nt">
+	<li class="more" style="line-height:24px;margin-top:4px;">
+		<a href="http://newcar.xcar.com.cn/price/" target="_blank" style="margin:0px;padding:0px;width:50px;">汽车报价</a>
+	</li>
+	<li class="t" style="margin-right:2px">热车推荐</li>
+	<li onmouseover="show('1',11,'car_pBox','car_p')">
+	<a href="http://newcar.xcar.com.cn/type/0/" class="active" id="car_p1" target="_blank">微型车</a></li>
+	<li onmouseover="show('2',11,'car_pBox','car_p')"><a href="http://newcar.xcar.com.cn/type/1/" class="" id="car_p2" target="_blank">小型车</a></li>
+	<li onmouseover="show('3',11,'car_pBox','car_p')"><a href="http://newcar.xcar.com.cn/type/2/" class="" id="car_p3" target="_blank">紧凑型车</a></li>
+	<li onmouseover="show('4',11,'car_pBox','car_p')"><a href="http://newcar.xcar.com.cn/type/3/" class="" id="car_p4" target="_blank">中型车</a></li>
+	<li onmouseover="show('5',11,'car_pBox','car_p')"><a href="http://newcar.xcar.com.cn/type/4/" class="" id="car_p5" target="_blank">中大型车</a></li>
+	<li onmouseover="show('6',11,'car_pBox','car_p')"><a href="http://newcar.xcar.com.cn/type/6/" class="" id="car_p6" target="_blank">MPV</a></li>
+	<li onmouseover="show('7',11,'car_pBox','car_p')"><a href="http://newcar.xcar.com.cn/type/7/" class="" id="car_p7" target="_blank">SUV</a></li>
+	<li onmouseover="show('8',11,'car_pBox','car_p')"><a href="http://newcar.xcar.com.cn/price/" class="" id="car_p8" target="_blank">报价</a></li>
+	<li onmouseover="show('9',11,'car_pBox','car_p')"><a href="http://club.xcar.com.cn/" class="" id="car_p9" target="_blank">论坛</a></li>
+	<li onmouseover="show('10',11,'car_pBox','car_p')"><a href="http://search.xcar.com.cn/top/top.htm" class="" id="car_p10" target="_blank">品牌</a></li>
+</ul>
+<div id="car_pBox1" style="display:block;">
+<UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/952/">海马王子</a><p><a target="_blank" href="http://newcar.xcar.com.cn/海马王子/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/海马王子/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=854" title="海马王子论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/571/">丰田IQ</a><p><a target="_blank" href="http://newcar.xcar.com.cn/丰田IQ/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/丰田IQ/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=693" title="进口丰田论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/786/">瑞麒M1</a><p><a target="_blank" href="http://newcar.xcar.com.cn/瑞麒M1/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/瑞麒M1/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=812" title="瑞麒M1论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/566/">Smart fortwo</a><p><a target="_blank" href="http://newcar.xcar.com.cn/Smart fortwo/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/Smart fortwo/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=609" title="smart论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/244/">奇瑞A1</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞A1/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞A1/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=799" title="奇瑞A1论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/685/">标致107</a><p><a target="_blank" href="http://newcar.xcar.com.cn/标致107/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/标致107/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=603" title="进口标致论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/977/">全球鹰IG</a><p><a target="_blank" href="http://newcar.xcar.com.cn/全球鹰IG/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/全球鹰IG/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=860" title="全球鹰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/143/">乐驰</a><p><a target="_blank" href="http://newcar.xcar.com.cn/乐驰/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/乐驰/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=252" title="Spark论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/258/">比亚迪F0</a><p><a target="_blank" href="http://newcar.xcar.com.cn/比亚迪F0/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/比亚迪F0/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=759" title="比亚迪F0论坛">论坛</a></p></li></ul><UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/263/">爱迪尔</a><p><a target="_blank" href="http://newcar.xcar.com.cn/爱迪尔/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/爱迪尔/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=655" title="昌河论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/570/">欧拉</a><p><a target="_blank" href="http://newcar.xcar.com.cn/欧拉/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/欧拉/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=585" title="长城论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/692/">菲亚特熊猫</a><p><a target="_blank" href="http://newcar.xcar.com.cn/菲亚特熊猫/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/菲亚特熊猫/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=615" title="进口菲亚特论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/574/">奇瑞QQme</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞QQme/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞QQme/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=143" title="QQ论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/971/">全球鹰EK-2</a><p><a target="_blank" href="http://newcar.xcar.com.cn/全球鹰EK-2/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/全球鹰EK-2/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=860" title="全球鹰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/172/">奥拓</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奥拓/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奥拓/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=637" title="奥拓论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/568/">菲亚特500</a><p><a target="_blank" href="http://newcar.xcar.com.cn/菲亚特500/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/菲亚特500/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=615" title="进口菲亚特论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/639/">奇瑞S18电动轿车</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞S18电动轿车/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞S18电动轿车/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=56" title="奇瑞论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/598/">福莱尔</a><p><a target="_blank" href="http://newcar.xcar.com.cn/福莱尔/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/福莱尔/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=468" title="比亚迪论坛">论坛</a></p></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target="_blank" href="http://newcar.xcar.com.cn/970/">熊猫</a><p><a target="_blank" href="http://newcar.xcar.com.cn/熊猫/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/熊猫/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=830" title="熊猫论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/978/">熊猫Cross</a><p><a target="_blank" href="http://newcar.xcar.com.cn/熊猫Cross/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/熊猫Cross/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=830" title="熊猫论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/680/">Aygo</a><p><a target="_blank" href="http://newcar.xcar.com.cn/Aygo/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/Aygo/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=693" title="进口丰田论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/670/">雪佛兰Beat</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雪佛兰Beat/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雪佛兰Beat/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=682" title="进口雪佛兰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/793/">海马Me</a><p><a target="_blank" href="http://newcar.xcar.com.cn/海马Me/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/海马Me/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=7" title="海马论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/751/">大众E-UP</a><p><a target="_blank" href="http://newcar.xcar.com.cn/大众E-UP/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/大众E-UP/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=614" title="进口大众论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/238/">奇瑞QQ6</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞QQ6/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞QQ6/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=804" title="奇瑞QQ6论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/271/">精灵</a><p><a target="_blank" href="http://newcar.xcar.com.cn/精灵/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/精灵/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=764" title="长城精灵论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/939/">江淮悦悦</a><p><a target="_blank" href="http://newcar.xcar.com.cn/江淮悦悦/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/江淮悦悦/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=631" title="江淮论坛">论坛</a></p></li></ul></div>
+<div id="car_pBox2" style="display:none;">
+<UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/167/">威驰</a><p><a target="_blank" href="http://newcar.xcar.com.cn/威驰/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/威驰/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=6" title="威驰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/593/">酷熊</a><p><a target="_blank" href="http://newcar.xcar.com.cn/酷熊/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/酷熊/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=672" title="酷熊论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/146/">乐风</a><p><a target="_blank" href="http://newcar.xcar.com.cn/乐风/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/乐风/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=360" title="Lova乐风论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/702/">三菱Colt</a><p><a target="_blank" href="http://newcar.xcar.com.cn/三菱Colt/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/三菱Colt/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=691" title="进口三菱论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/247/">自由舰</a><p><a target="_blank" href="http://newcar.xcar.com.cn/自由舰/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/自由舰/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=837" title="自由舰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/944/">天津一汽TFC-M2</a><p><a target="_blank" href="http://newcar.xcar.com.cn/天津一汽TFC-M2/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/天津一汽TFC-M2/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=19" title="天津一汽论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/56/">POLO</a><p><a target="_blank" href="http://newcar.xcar.com.cn/POLO/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/POLO/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=11" title="POLO论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/199/">骊威</a><p><a target="_blank" href="http://newcar.xcar.com.cn/骊威/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/骊威/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=452" title="骊威论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1161/">雪佛兰AVEO</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雪佛兰AVEO/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雪佛兰AVEO/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=682" title="进口雪佛兰论坛">论坛</a></p></li></ul><UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/932/">MINI E</a><p><a target="_blank" href="http://newcar.xcar.com.cn/MINI E/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/MINI E/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=471" title="MINI论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/264/">北斗星</a><p><a target="_blank" href="http://newcar.xcar.com.cn/北斗星/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/北斗星/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=753" title="北斗星论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/941/">夏利N5</a><p><a target="_blank" href="http://newcar.xcar.com.cn/夏利N5/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/夏利N5/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=828" title="夏利论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1091/">聆风</a><p><a target="_blank" href="http://newcar.xcar.com.cn/聆风/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/聆风/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=696" title="环保动力论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/319/">夏利</a><p><a target="_blank" href="http://newcar.xcar.com.cn/夏利/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/夏利/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=828" title="夏利论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/405/">长城炫丽</a><p><a target="_blank" href="http://newcar.xcar.com.cn/长城炫丽/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/长城炫丽/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=585" title="长城论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/628/">长安悦翔</a><p><a target="_blank" href="http://newcar.xcar.com.cn/长安悦翔/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/长安悦翔/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=668" title="悦翔论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/789/">丘比特</a><p><a target="_blank" href="http://newcar.xcar.com.cn/丘比特/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/丘比特/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=7" title="海马论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/693/">MINI Countryman</a><p><a target="_blank" href="http://newcar.xcar.com.cn/MINI Countryman/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/MINI Countryman/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=471" title="MINI论坛">论坛</a></p></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target="_blank" href="http://newcar.xcar.com.cn/137/">MG3 SW</a><p><a target="_blank" href="http://newcar.xcar.com.cn/MG3 SW/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/MG3 SW/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=571" title="MG 3SW 论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/72/">标致206</a><p><a target="_blank" href="http://newcar.xcar.com.cn/标致206/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/标致206/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=283" title="206论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/943/">天津一汽TFC-M1</a><p><a target="_blank" href="http://newcar.xcar.com.cn/天津一汽TFC-M1/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/天津一汽TFC-M1/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=19" title="天津一汽论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/577/">秀尔</a><p><a target="_blank" href="http://newcar.xcar.com.cn/秀尔/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/秀尔/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=678" title="Soul论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/152/">本田飞度</a><p><a target="_blank" href="http://newcar.xcar.com.cn/本田飞度/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/本田飞度/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=22" title="飞度论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/561/">本田锋范</a><p><a target="_blank" href="http://newcar.xcar.com.cn/本田锋范/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/本田锋范/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=709" title="锋范CITY论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/219/">锐欧</a><p><a target="_blank" href="http://newcar.xcar.com.cn/锐欧/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/锐欧/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=433" title="RIO论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/629/">力帆320</a><p><a target="_blank" href="http://newcar.xcar.com.cn/力帆320/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/力帆320/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=788" title="力帆320论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1100/">玛驰</a><p><a target="_blank" href="http://newcar.xcar.com.cn/玛驰/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/玛驰/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=844" title="玛驰论坛">论坛</a></p></li></ul></div>
+<div id="car_pBox3" style="display:none;">
+<UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/1141/">上海英伦SC7</a><p><a target="_blank" href="http://newcar.xcar.com.cn/上海英伦SC7/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/上海英伦SC7/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=859" title="上海英伦论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1082/">长丰Acumen</a><p><a target="_blank" href="http://newcar.xcar.com.cn/长丰Acumen/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/长丰Acumen/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=" title="">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/770/">帝豪EC7</a><p><a target="_blank" href="http://newcar.xcar.com.cn/帝豪EC7/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/帝豪EC7/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=711" title="帝豪论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/209/">蓝瑟翼神</a><p><a target="_blank" href="http://newcar.xcar.com.cn/蓝瑟翼神/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/蓝瑟翼神/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=416" title="蓝瑟论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/60/">捷达</a><p><a target="_blank" href="http://newcar.xcar.com.cn/捷达/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/捷达/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=123" title="捷达论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/409/">V3菱悦</a><p><a target="_blank" href="http://newcar.xcar.com.cn/V3菱悦/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/V3菱悦/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=576" title="菱悦论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1086/">荣威350</a><p><a target="_blank" href="http://newcar.xcar.com.cn/荣威350/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/荣威350/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=806" title="荣威350论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1085/">速迈</a><p><a target="_blank" href="http://newcar.xcar.com.cn/速迈/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/速迈/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=727" title="速迈论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/218/">赛拉图</a><p><a target="_blank" href="http://newcar.xcar.com.cn/赛拉图/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/赛拉图/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=292" title="赛拉图论坛">论坛</a></p></li></ul><UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/698/">MG6</a><p><a target="_blank" href="http://newcar.xcar.com.cn/MG6/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/MG6/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=723" title="MG6论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/298/">中华骏捷FRV</a><p><a target="_blank" href="http://newcar.xcar.com.cn/中华骏捷FRV/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/中华骏捷FRV/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=553" title="骏捷FRV论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1172/">长城腾翼C30</a><p><a target="_blank" href="http://newcar.xcar.com.cn/长城腾翼C30/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/长城腾翼C30/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=857" title="腾翼C30论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1149/">蓝瑟</a><p><a target="_blank" href="http://newcar.xcar.com.cn/蓝瑟/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/蓝瑟/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=416" title="蓝瑟论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1132/">风神H30</a><p><a target="_blank" href="http://newcar.xcar.com.cn/风神H30/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/风神H30/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=768" title="风神H30论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/150/">思域</a><p><a target="_blank" href="http://newcar.xcar.com.cn/思域/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/思域/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=353" title="思域论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/102/">沃尔沃S40</a><p><a target="_blank" href="http://newcar.xcar.com.cn/沃尔沃S40/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/沃尔沃S40/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=822" title="沃尔沃S40论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/659/">标致308</a><p><a target="_blank" href="http://newcar.xcar.com.cn/标致308/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/标致308/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=677" title="308车论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1144/">比亚迪L3</a><p><a target="_blank" href="http://newcar.xcar.com.cn/比亚迪L3/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/比亚迪L3/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=763" title="比亚迪L3论坛">论坛</a></p></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target="_blank" href="http://newcar.xcar.com.cn/52/">朗逸</a><p><a target="_blank" href="http://newcar.xcar.com.cn/朗逸/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/朗逸/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=542" title="朗逸论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1093/">高尔夫6</a><p><a target="_blank" href="http://newcar.xcar.com.cn/高尔夫6/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/高尔夫6/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=712" title="第六代高尔夫论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/694/">奥迪A3</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奥迪A3/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奥迪A3/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=738" title="奥迪A3论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/779/">上海英伦TX4</a><p><a target="_blank" href="http://newcar.xcar.com.cn/上海英伦TX4/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/上海英伦TX4/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=859" title="上海英伦论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/415/">Lancer</a><p><a target="_blank" href="http://newcar.xcar.com.cn/Lancer/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/Lancer/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=416" title="蓝瑟论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/66/">标致307</a><p><a target="_blank" href="http://newcar.xcar.com.cn/标致307/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/标致307/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=603" title="进口标致论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/393/">翼豹</a><p><a target="_blank" href="http://newcar.xcar.com.cn/翼豹/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/翼豹/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=841" title="翼豹论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/17/">宝马1系</a><p><a target="_blank" href="http://newcar.xcar.com.cn/宝马1系/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/宝马1系/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=744" title="宝马1系论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/239/">奇瑞A3</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞A3/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奇瑞A3/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=801" title="奇瑞A3论坛">论坛</a></p></li></ul></div>
+<div id="car_pBox4" style="display:none;">
+<UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/205/">戈蓝</a><p><a target="_blank" href="http://newcar.xcar.com.cn/戈蓝/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/戈蓝/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=421" title="戈蓝论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/118/">铂锐</a><p><a target="_blank" href="http://newcar.xcar.com.cn/铂锐/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/铂锐/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=514" title="铂锐论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/396/">力狮</a><p><a target="_blank" href="http://newcar.xcar.com.cn/力狮/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/力狮/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=842" title="力狮车论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/39/">奔驰C级</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奔驰C级/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奔驰C级/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=223" title="奔驰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1113/">比亚迪i6</a><p><a target="_blank" href="http://newcar.xcar.com.cn/比亚迪i6/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/比亚迪i6/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=851" title="比亚迪I6论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/24/">奔驰C级(进口)</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奔驰C级(进口)/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奔驰C级(进口)/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=223" title="奔驰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1089/">别克新君越</a><p><a target="_blank" href="http://newcar.xcar.com.cn/别克新君越/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/别克新君越/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=674" title="新君越论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/711/">西亚特Exeo </a><p><a target="_blank" href="http://newcar.xcar.com.cn/西亚特Exeo /price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/西亚特Exeo /photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=869" title="西亚特论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/260/">比亚迪F6</a><p><a target="_blank" href="http://newcar.xcar.com.cn/比亚迪F6/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/比亚迪F6/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=761" title="比亚迪F6论坛">论坛</a></p></li></ul><UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/122/">别克新君威</a><p><a target="_blank" href="http://newcar.xcar.com.cn/别克新君威/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/别克新君威/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=654" title="新君威论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/937/">雪铁龙C5</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雪铁龙C5/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雪铁龙C5/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=669" title="雪铁龙C5论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/374/">萨博93</a><p><a target="_blank" href="http://newcar.xcar.com.cn/萨博93/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/萨博93/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=221" title="Saab论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1154/">大众CC</a><p><a target="_blank" href="http://newcar.xcar.com.cn/大众CC/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/大众CC/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=766" title="大众CC论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/63/">迈腾</a><p><a target="_blank" href="http://newcar.xcar.com.cn/迈腾/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/迈腾/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=429" title="迈腾论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/538/">睿翼</a><p><a target="_blank" href="http://newcar.xcar.com.cn/睿翼/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/睿翼/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=733" title="睿翼论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1153/">现代i40</a><p><a target="_blank" href="http://newcar.xcar.com.cn/现代i40/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/现代i40/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=630" title="进口现代论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1090/">Kizashi</a><p><a target="_blank" href="http://newcar.xcar.com.cn/Kizashi/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/Kizashi/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=846" title="Kizzashi论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/142/">景程</a><p><a target="_blank" href="http://newcar.xcar.com.cn/景程/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/景程/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=291" title="景程论坛">论坛</a></p></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target="_blank" href="http://newcar.xcar.com.cn/359/">拉古娜</a><p><a target="_blank" href="http://newcar.xcar.com.cn/拉古娜/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/拉古娜/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=575" title="雷诺论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1155/">华泰B11</a><p><a target="_blank" href="http://newcar.xcar.com.cn/华泰B11/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/华泰B11/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=417" title="华泰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/21/">宝马3系</a><p><a target="_blank" href="http://newcar.xcar.com.cn/宝马3系/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/宝马3系/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=745" title="宝马3系论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1122/">雷克萨斯HS</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯HS/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯HS/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=189" title="Lexus论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/189/">天籁</a><p><a target="_blank" href="http://newcar.xcar.com.cn/天籁/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/天籁/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=197" title="天籁风度论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/69/">标致407</a><p><a target="_blank" href="http://newcar.xcar.com.cn/标致407/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/标致407/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=603" title="进口标致论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/539/">Alfa Romeo 156</a><p><a target="_blank" href="http://newcar.xcar.com.cn/Alfa Romeo 156/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/Alfa Romeo 156/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=" title="">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/387/">雷克萨斯IS</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯IS/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯IS/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=189" title="Lexus论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1171/">腾翼C50</a><p><a target="_blank" href="http://newcar.xcar.com.cn/腾翼C50/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/腾翼C50/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=585" title="长城论坛">论坛</a></p></li></ul></div>
+<div id="car_pBox5" style="display:none;">
+<UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/1130/">凯迪拉克XTS</a><p><a target="_blank" href="http://newcar.xcar.com.cn/凯迪拉克XTS/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/凯迪拉克XTS/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=785" title="凯迪拉克XTS论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/584/">江淮愿景</a><p><a target="_blank" href="http://newcar.xcar.com.cn/江淮愿景/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/江淮愿景/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=631" title="江淮论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/452/">奥迪S6</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奥迪S6/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奥迪S6/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=109" title="奥迪论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/22/">宝马5系</a><p><a target="_blank" href="http://newcar.xcar.com.cn/宝马5系/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/宝马5系/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=746" title="宝马5系论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/440/">捷豹XF</a><p><a target="_blank" href="http://newcar.xcar.com.cn/捷豹XF/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/捷豹XF/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=526" title="捷豹论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/718/">讴歌TSX</a><p><a target="_blank" href="http://newcar.xcar.com.cn/讴歌TSX/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/讴歌TSX/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=422" title="Acura论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/390/">雷克萨斯GS</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯GS/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯GS/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=189" title="Lexus论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/578/">瑞麒G6</a><p><a target="_blank" href="http://newcar.xcar.com.cn/瑞麒G6/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/瑞麒G6/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=868" title="瑞麒G6论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/119/">克莱斯勒300C</a><p><a target="_blank" href="http://newcar.xcar.com.cn/克莱斯勒300C/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/克莱斯勒300C/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=398" title="300C论坛">论坛</a></p></li></ul><UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/67/">标致607</a><p><a target="_blank" href="http://newcar.xcar.com.cn/标致607/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/标致607/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=603" title="进口标致论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1080/">荣威R95</a><p><a target="_blank" href="http://newcar.xcar.com.cn/荣威R95/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/荣威R95/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=426" title="荣威论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/582/">LEGEND</a><p><a target="_blank" href="http://newcar.xcar.com.cn/LEGEND/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/LEGEND/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=" title="">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/214/">欧菲莱斯</a><p><a target="_blank" href="http://newcar.xcar.com.cn/欧菲莱斯/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/欧菲莱斯/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=629" title="进口起亚论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/909/">凯迪拉克SLS</a><p><a target="_blank" href="http://newcar.xcar.com.cn/凯迪拉克SLS/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/凯迪拉克SLS/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=839" title="凯迪拉克SLS论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/372/">萨博95 </a><p><a target="_blank" href="http://newcar.xcar.com.cn/萨博95 /price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/萨博95 /photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=221" title="Saab论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/506/">雪铁龙C6</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雪铁龙C6/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雪铁龙C6/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=617" title="进口雪铁龙论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/11/">宝马5系(进口)</a><p><a target="_blank" href="http://newcar.xcar.com.cn/宝马5系(进口)/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/宝马5系(进口)/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=746" title="宝马5系论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/634/">沃尔沃S80L</a><p><a target="_blank" href="http://newcar.xcar.com.cn/沃尔沃S80L/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/沃尔沃S80L/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=824" title="沃尔沃S80论坛">论坛</a></p></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target="_blank" href="http://newcar.xcar.com.cn/35/">奔驰E级(进口)</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奔驰E级(进口)/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奔驰E级(进口)/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=755" title="奔驰E级论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/127/">荣御</a><p><a target="_blank" href="http://newcar.xcar.com.cn/荣御/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/荣御/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=" title="">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/516/">英菲尼迪M</a><p><a target="_blank" href="http://newcar.xcar.com.cn/英菲尼迪M/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/英菲尼迪M/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=474" title="Infiniti论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/389/">雷克萨斯ES</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯ES/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯ES/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=189" title="Lexus论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/40/">奔驰E级</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奔驰E级/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奔驰E级/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=755" title="奔驰E级论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/100/">沃尔沃S80</a><p><a target="_blank" href="http://newcar.xcar.com.cn/沃尔沃S80/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/沃尔沃S80/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=824" title="沃尔沃S80论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/163/">皇冠</a><p><a target="_blank" href="http://newcar.xcar.com.cn/皇冠/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/皇冠/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=284" title="皇冠论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/519/">讴歌RL </a><p><a target="_blank" href="http://newcar.xcar.com.cn/讴歌RL /price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/讴歌RL /photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=422" title="Acura论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/413/">劳恩斯</a><p><a target="_blank" href="http://newcar.xcar.com.cn/劳恩斯/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/劳恩斯/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=587" title="劳恩斯论坛">论坛</a></p></li></ul></div>
+<div id="car_pBox6" style="display:none;">
+<UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/1160/">马自达8</a><p><a target="_blank" href="http://newcar.xcar.com.cn/马自达8/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/马自达8/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=733" title="睿翼论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/198/">骏逸</a><p><a target="_blank" href="http://newcar.xcar.com.cn/骏逸/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/骏逸/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=424" title="骏逸车论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1101/">森雅M80</a><p><a target="_blank" href="http://newcar.xcar.com.cn/森雅M80/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/森雅M80/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=815" title="森雅论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/399/">路帝</a><p><a target="_blank" href="http://newcar.xcar.com.cn/路帝/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/路帝/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=412" title="双龙论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/148/">奥德赛</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奥德赛/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奥德赛/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=439" title="奥德赛论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1096/">威麟H5</a><p><a target="_blank" href="http://newcar.xcar.com.cn/威麟H5/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/威麟H5/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=819" title="威麟论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/974/">全球鹰GV5</a><p><a target="_blank" href="http://newcar.xcar.com.cn/全球鹰GV5/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/全球鹰GV5/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=860" title="全球鹰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/215/">威客</a><p><a target="_blank" href="http://newcar.xcar.com.cn/威客/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/威客/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=629" title="进口起亚论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1125/">塞纳</a><p><a target="_blank" href="http://newcar.xcar.com.cn/塞纳/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/塞纳/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=693" title="进口丰田论坛">论坛</a></p></li></ul><UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/752/">雪铁龙C3 毕加索</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雪铁龙C3 毕加索/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雪铁龙C3 毕加索/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=183" title="毕加索论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1180/">奔驰viano</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奔驰viano/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奔驰viano/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=223" title="奔驰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1095/">威麟V5</a><p><a target="_blank" href="http://newcar.xcar.com.cn/威麟V5/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/威麟V5/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=819" title="威麟论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/196/">御轩</a><p><a target="_blank" href="http://newcar.xcar.com.cn/御轩/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/御轩/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=650" title="御轩论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1123/">起亚venga</a><p><a target="_blank" href="http://newcar.xcar.com.cn/起亚venga/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/起亚venga/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=629" title="进口起亚论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/32/">奔驰Viano</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奔驰Viano/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奔驰Viano/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=223" title="奔驰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/986/">威麟V8</a><p><a target="_blank" href="http://newcar.xcar.com.cn/威麟V8/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/威麟V8/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=819" title="威麟论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/733/">丰田Verso</a><p><a target="_blank" href="http://newcar.xcar.com.cn/丰田Verso/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/丰田Verso/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=191" title="MPV论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1151/">福仕达</a><p><a target="_blank" href="http://newcar.xcar.com.cn/福仕达/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/福仕达/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=7" title="海马论坛">论坛</a></p></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target="_blank" href="http://newcar.xcar.com.cn/782/">路尊大霸王</a><p><a target="_blank" href="http://newcar.xcar.com.cn/路尊大霸王/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/路尊大霸王/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=658" title="哈飞论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/966/">多宝</a><p><a target="_blank" href="http://newcar.xcar.com.cn/多宝/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/多宝/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=615" title="进口菲亚特论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/216/">嘉华</a><p><a target="_blank" href="http://newcar.xcar.com.cn/嘉华/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/嘉华/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=191" title="MPV论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/781/">马可波罗</a><p><a target="_blank" href="http://newcar.xcar.com.cn/马可波罗/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/马可波罗/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=223" title="奔驰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/309/">江淮瑞风</a><p><a target="_blank" href="http://newcar.xcar.com.cn/江淮瑞风/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/江淮瑞风/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=809" title="江淮瑞风论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/204/">格蓝迪</a><p><a target="_blank" href="http://newcar.xcar.com.cn/格蓝迪/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/格蓝迪/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=651" title="格蓝迪论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/923/">MP-X蒙派克</a><p><a target="_blank" href="http://newcar.xcar.com.cn/MP-X蒙派克/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/MP-X蒙派克/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=" title="">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1150/">优胜</a><p><a target="_blank" href="http://newcar.xcar.com.cn/优胜/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/优胜/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=56" title="奇瑞论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/107/">S-MAX</a><p><a target="_blank" href="http://newcar.xcar.com.cn/S-MAX/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/S-MAX/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=451" title="S-MAX论坛">论坛</a></p></li></ul></div>
+<div id="car_pBox7" style="display:none;">
+<UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/644/">哈弗M1</a><p><a target="_blank" href="http://newcar.xcar.com.cn/哈弗M1/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/哈弗M1/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=772" title="哈弗M1论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/655/">英菲尼迪QX</a><p><a target="_blank" href="http://newcar.xcar.com.cn/英菲尼迪QX/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/英菲尼迪QX/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=474" title="Infiniti论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/832/">雷克萨斯GX</a><p><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯GX/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/雷克萨斯GX/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=189" title="Lexus论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/900/">陆地巡洋舰</a><p><a target="_blank" href="http://newcar.xcar.com.cn/陆地巡洋舰/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/陆地巡洋舰/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=157" title="SUV论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/404/">奇骏</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奇骏/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奇骏/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=584" title="奇骏论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1133/">新旗胜</a><p><a target="_blank" href="http://newcar.xcar.com.cn/新旗胜/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/新旗胜/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=157" title="SUV论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/820/">卫士</a><p><a target="_blank" href="http://newcar.xcar.com.cn/卫士/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/卫士/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=225" title="路虎论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/590/">威麟X5</a><p><a target="_blank" href="http://newcar.xcar.com.cn/威麟X5/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/威麟X5/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=818" title="威麟X5论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/10/">宝马X5</a><p><a target="_blank" href="http://newcar.xcar.com.cn/宝马X5/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/宝马X5/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=750" title="宝马X5论坛">论坛</a></p></li></ul><UL class="carlist4_nt"><li><a target="_blank" href="http://newcar.xcar.com.cn/229/">圣达菲</a><p><a target="_blank" href="http://newcar.xcar.com.cn/圣达菲/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/圣达菲/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=816" title="圣达菲论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/654/">马自达CX-7</a><p><a target="_blank" href="http://newcar.xcar.com.cn/马自达CX-7/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/马自达CX-7/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=618" title="进口马自达论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/202/">欧蓝德</a><p><a target="_blank" href="http://newcar.xcar.com.cn/欧蓝德/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/欧蓝德/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=170" title="欧蓝德论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1131/">三菱ASX劲炫</a><p><a target="_blank" href="http://newcar.xcar.com.cn/三菱ASX劲炫/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/三菱ASX劲炫/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=845" title="三菱ASX劲炫论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1143/">日产Juke</a><p><a target="_blank" href="http://newcar.xcar.com.cn/日产Juke/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/日产Juke/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=633" title="进口日产论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/658/">途观</a><p><a target="_blank" href="http://newcar.xcar.com.cn/途观/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/途观/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=545" title="Tiguan论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1156/">华泰B35</a><p><a target="_blank" href="http://newcar.xcar.com.cn/华泰B35/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/华泰B35/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=417" title="华泰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/511/">新胜达</a><p><a target="_blank" href="http://newcar.xcar.com.cn/新胜达/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/新胜达/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=732" title="新胜达论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/990/">骑士</a><p><a target="_blank" href="http://newcar.xcar.com.cn/骑士/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/骑士/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=847" title="北汽论坛">论坛</a></p></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target="_blank" href="http://newcar.xcar.com.cn/1039/">战旗</a><p><a target="_blank" href="http://newcar.xcar.com.cn/战旗/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/战旗/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=847" title="北汽论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/195/">帕拉丁</a><p><a target="_blank" href="http://newcar.xcar.com.cn/帕拉丁/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/帕拉丁/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=649" title="帕拉丁论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1094/">现代ix35</a><p><a target="_blank" href="http://newcar.xcar.com.cn/现代ix35/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/现代ix35/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=734" title="IX35论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/328/">乐睿</a><p><a target="_blank" href="http://newcar.xcar.com.cn/乐睿/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/乐睿/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=661" title="众泰论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/171/">超级维特拉</a><p><a target="_blank" href="http://newcar.xcar.com.cn/超级维特拉/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/超级维特拉/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=625" title="维特拉论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/758/">奥迪Q5</a><p><a target="_blank" href="http://newcar.xcar.com.cn/奥迪Q5/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/奥迪Q5/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=589" title="Q5论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/395/">傲虎</a><p><a target="_blank" href="http://newcar.xcar.com.cn/傲虎/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/傲虎/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=736" title="傲虎车论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/1163/">揽胜运动版</a><p><a target="_blank" href="http://newcar.xcar.com.cn/揽胜运动版/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/揽胜运动版/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=787" title="揽胜论坛">论坛</a></p></li><li><a target="_blank" href="http://newcar.xcar.com.cn/642/">国产RAV4</a><p><a target="_blank" href="http://newcar.xcar.com.cn/国产RAV4/price.htm">报价</a><a target="_blank" href="http://newcar.xcar.com.cn/国产RAV4/photo.htm">图片</a><a target="_blank" href="http://www.xcar.com.cn/bbs/forumdisplay.php?fid=627" title="RAV4论坛">论坛</a></p></li></ul></div>
+<div id="car_pBox8" style="display:none;">
+<UL class="carlist4_nt"><li><a target='_blank' href='http://newcar.xcar.com.cn/654/'>马自达CX-7报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/803/'>长城哈弗M2报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/362/'>梅甘娜 报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/66/'>标致307报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/1082/'>长丰Acumen报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/820/'>卫士报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/990/'>骑士报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/1136/'>小柴神报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/1156/'>华泰B35报价</a></li></ul><UL class="carlist4_nt"><li><a target='_blank' href='http://newcar.xcar.com.cn/1144/'>比亚迪L3报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/779/'>上海英伦TX4报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/267/'>长安奔奔报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/1131/'>三菱ASX劲炫报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/8/'>奥迪A6L报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/590/'>威麟X5报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/218/'>赛拉图报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/1058/'>民意报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/698/'>MG6报价</a></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target='_blank' href='http://newcar.xcar.com.cn/347/'>布加迪威龙报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/694/'>奥迪A3报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/1134/'>大柴神报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/758/'>奥迪Q5报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/957/'>奥迪A7报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/171/'>超级维特拉报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/783/'>哈弗H5报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/1148/'>雷诺Wind报价</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/791/'>海马骑士报价</a></li></ul></div>
+<div id="car_pBox9" style="display:none;">
+<UL class="carlist4_nt"><li><a target='_blank' title='沃尔沃S60论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=823'>沃尔沃S60论坛</a></li><li><a target='_blank' title='Kizzashi论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=846'>Kizashi论坛</a></li><li><a target='_blank' title='全球鹰论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=860'>全球鹰GV5论坛</a></li><li><a target='_blank' title='思域论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=353'>思域论坛</a></li><li><a target='_blank' title='雷诺论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=575'>雷诺Wind论坛</a></li><li><a target='_blank' title='维特拉论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=625'>超级维特拉论坛</a></li><li><a target='_blank' title='比亚迪I6论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=851'>比亚迪i6论坛</a></li><li><a target='_blank' title='超跑豪车论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=632'>宾利mulsanne论坛</a></li><li><a target='_blank' title='海马骑士论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=776'>海马骑士论坛</a></li></ul><UL class="carlist4_nt"><li><a target='_blank' title='超跑豪车论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=632'>玛莎拉蒂Gran Cabrio 论坛</a></li><li><a target='_blank' title='风云2论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=722'>风云2论坛</a></li><li><a target='_blank' title='哈弗论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=699'>长城哈弗H6论坛</a></li><li><a target='_blank' title='海马论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=7'>丘比特论坛</a></li><li><a target='_blank' title='' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid='>民意论坛</a></li><li><a target='_blank' title='奥迪论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=109'>奥迪A7论坛</a></li><li><a target='_blank' title='格蓝迪论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=651'>格蓝迪论坛</a></li><li><a target='_blank' title='进口现代论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=630'>现代i40论坛</a></li><li><a target='_blank' title='瑞麒G5论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=811'>瑞麒G5论坛</a></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target='_blank' title='奥迪A6L论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=740'>奥迪A6L论坛</a></li><li><a target='_blank' title='宝马1系论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=744'>宝马1系论坛</a></li><li><a target='_blank' title='超跑豪车论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=632'>古斯特论坛</a></li><li><a target='_blank' title='进口现代论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=630'>现代i20论坛</a></li><li><a target='_blank' title='奔驰论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=223'>奔驰SLK论坛</a></li><li><a target='_blank' title='进口标致论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=603'>标致307论坛</a></li><li><a target='_blank' title='新胜达论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=732'>新胜达论坛</a></li><li><a target='_blank' title='超跑豪车论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=632'>布加迪威龙论坛</a></li><li><a target='_blank' title='哈弗M2论坛' href='http://www.xcar.com.cn/bbs/forumdisplay.php?fid=773'>长城哈弗M2论坛</a></li></ul></div>
+<div id="car_pBox10" style="display:none;">
+<UL class="carlist4_nt"><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb1/'>奥迪</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb2/'>宝马</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb3/'>奔驰</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb4/'>大众</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb5/'>标致</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb6/'>菲亚特</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb7/'>斯柯达</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb8/'>雪铁龙</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb9/'>沃尔沃</a></li></ul><UL class="carlist4_nt"><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb10/'>福特</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb11/'>道奇</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb12/'>克莱斯勒</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb13/'>别克</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb14/'>马自达</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb15/'>名爵</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb16/'>雪佛兰</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb17/'>本田</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb18/'>丰田</a></li></ul><UL class="carlist4_nt  borB_fix" ><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb19/'>铃木</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb20/'>日产</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb21/'>三菱</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb22/'>起亚</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb23/'>现代</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb24/'>青年莲花</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb25/'>奇瑞</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb26/'>吉利</a></li><li><a target='_blank' href='http://newcar.xcar.com.cn/price/pb27/'>比亚迪</a></li></ul></div>
+</div><SCRIPT language=javascript src="http://d0.xcar.com.cn/d0_js.js"></SCRIPT>
+<div align=center>
+<script type="text/javascript"> 
+var arrBaiduCproConfig=new Array();
+arrBaiduCproConfig['n'] ='xcar888_cpr';			
+arrBaiduCproConfig['tm'] =26;					
+arrBaiduCproConfig['cm'] =34;					
+arrBaiduCproConfig['um'] =26;					
+arrBaiduCproConfig['w'] =955;					
+arrBaiduCproConfig['h'] =70;					
+arrBaiduCproConfig['wn'] =4;					
+arrBaiduCproConfig['hn'] =1;					
+arrBaiduCproConfig['ta'] ='right';					
+arrBaiduCproConfig['tl'] ='bottom';				
+arrBaiduCproConfig['bu'] =1;					
+arrBaiduCproConfig['bd'] ='#ffffff';				
+arrBaiduCproConfig['bg'] ='#ffffff';				
+arrBaiduCproConfig['tt'] ='#0000ff';				
+arrBaiduCproConfig['ct'] ='#444444';				
+arrBaiduCproConfig['url'] ='#008000';				
+arrBaiduCproConfig['bdl'] ='#444444';				
+arrBaiduCproConfig['nfr'] =0;				
+arrBaiduCproConfig['rad'] =0;					
+arrBaiduCproConfig['uap'] =1;				   
+arrBaiduCproConfig['cad'] =1;				 
+</script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/ui.js"></script> 
+<script type="text/javascript"> 
+<!--
+document.write(baiduCproIFrame());
+-->
+</script>
+</div>
+<script language="javascript" src="http://d0.xcar.com.cn/push_n.php?pid=35"></script>
+ 
+<div class="content_nt mar_top8">
+  <div class="borderRBL_box">
+    <H2 class=title_nt><A class=more href="http://about.xcar.com.cn/links/">[更多友情链接]</A><SPAN>友情链接</SPAN></H2>
+    <p class="friend_nt">
+    <!--$--1*内容区块-1--$-->
+ 
+<a href="http://www.cnsuv.com" target="_blank">SUV中国汽车网</a>
+ 
+<a href="http://auto.huanqiu.com/" target="_blank">环球网汽车</a>
+ 
+<a href="http://www.qipeiren.com" target="_blank">汽车配件网</a>
+ 
+<a href="http://sh.zyue.com" target="_blank">上海驾校网</a>
+ 
+<a href="http://news.xgo.com.cn/" target="_blank">汽车新闻</a>
+ 
+<a href="http://www.zbcars.com" target="_blank">淄博汽车网</a>
+ 
+<a href="http://www.soche8.com/" target="_blank">搜车吧</a>
+ 
+<a href="http://www.0752qc.com/" target="_blank">惠州汽车网</a>
+ 
+<a href="http://www.0536qiche.com" target="_blank">潍坊汽车网</a>
+ 
+<a href="http://auto.poco.cn/" target="_blank">poco汽车网</a>
+ 
+<a href="http://www.51xiupei.com" target="_blank">汽车服务</a>
+ 
+<a href="http://sz.chetx.com" target="_blank">深圳汽车网</a>
+ 
+<a href="http://www.aojauto.com" target="_blank">苏州汽车网</a>
+ 
+<a href="http://www.521che.com" target="_blank">521车网</a>
+ 
+<a href="http://www.qcwe.com/" target="_blank">搜车网</a>
+ 
+<a href="http://www.carjob.com.cn/" target="_blank">中国汽车人才网</a>
+ 
+<a href="http://www.029car.cn/" target="_blank">西安汽车网</a>
+ 
+<a href="http://www.0090.cn" target="_blank">0090网址大全</a>
+ 
+<a href="http://auto.sdchina.com/" target="_blank">山东汽车网</a>
+ 
+<a href="http://www.i2345.cn/" target="_blank">2345网址导航</a>
+ 
+<a href="http://www.57616.com" target="_blank">57616网址大全</a>
+ 
+<a href="http://www.car1997.com" target="_blank">车港汽车网</a>
+ 
+<!--$--1*内容区块-1--$-->
+    </p>
+    <!--$--2*内容区块-2--$--><!--$--2*内容区块-2--$-->
+  </div>
+</div>
+<link href="http://icon.xcar.com.cn/2009/css/footernt.css" rel="stylesheet" type="text/css" />
+<div class="content_nt mar_top8">
+  <div class="footer_nt">
+    <p><a href="http://www.xcar.com.cn/about/about/" target="_blank">关于爱卡</a>|<a href="http://www.xcar.com.cn/about/job/" target="_blank">招贤纳士</a>|<a href="http://www.xcar.com.cn/about/contact/" target="_blank">联系我们</a>|<a href="http://www.xcar.com.cn/about/links/" target="_blank">友情链接</a>|<a href="http://www.xcar.com.cn" target="_blank">爱卡首页</a>|<a href="http://newcar.xcar.com.cn/price/" target="_blank">汽车报价</a>|<a href="http://newcar.xcar.com.cn/photo/" target="_blank">汽车图片</a>|<a href="http://club.xcar.com.cn" target="_blank">汽车论坛</a>|<a href="http://www.xcar.com.cn/about/sitemap/" target="_blank">站点地图</a>|<a href="http://my.xcar.com.cn/feedback.php" target="_blank">意见反馈</a><br />
+联系地址：北京市海淀区知春路113号银网中心B座16层 邮编：100086 电话：010-82616677-1000 传真：010-62556006 <br />
+COPYRIGHT Xcar.com.cn All Right Reserved  版权所有：爱卡汽车网 京ICP证：010391号</p>
+  </div>
+  
+</div>
+<script language="JavaScript" src="http://www.xcar.com.cn/site_js/new_login2010_cms.php"></script>
+<script src="http://dw.xcar.com.cn/analytics.php" type="text/javascript"></script>
+ 
+<SCRIPT LANGUAGE="JavaScript" src="http://ad.xcar.com.cn/ad_simulate_count.js"></SCRIPT>
+ 
+<script src="http://dw.cbsi.com.cn/js/dw.js" type="text/javascript"></script>
+<script> 
+DW.pageParams = {
+  siteid: 115
+};
+DW.clear();
+</script>
+ 
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-613977-27");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+ 
+ 
+<script type="text/javascript"> 
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F53eb54d089f7b5dd4ae2927686b183e0' type='text/javascript'%3E%3C/script%3E"));
+</script><!-- 流媒体 -->
+ 
+<SCRIPT src="http://ad.xcar.com.cn/xcar/adjs/xcarcommon.js" 
+type=text/javascript></SCRIPT>
+<script language="javascript" src="http://d0.xcar.com.cn/push_n.php?pid=36"></script>
+<!-- 流媒体 -->
+ 
+<!--流媒体 20101210-->
+<script src='http://pre.ra.icast.cn/a/3/7/2/3/11794.js'></script>
+<!--流媒体 20101210--><!--$--1001*内容-1001--$-->
+</body>
+</html>
+

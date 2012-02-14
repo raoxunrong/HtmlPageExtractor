@@ -1,0 +1,622 @@
+http://news.baidu.com/n?cmd=1&class=civilnews&pn=1&from=tab
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<title>百度新闻搜索——国内新闻      </title>
+<meta name="description" content="百度新闻是包含海量资讯的新闻服务平台，真实反映每时每刻的新闻热点。您可以搜索新闻事件、热点话题、人物动态、产品资讯等，快速了解它们的最新进展。" >
+<!--ecombegin-->
+<link rel="alternate" type="application/rss+xml" title="百度国内焦点新闻（RSS 2.0）" href="/n?cmd=1&class=civilnews&tn=rss"><!--ecomend-->
+<script type="text/javascript" src="resource/js/perf_monitor.js"></script>
+<script src="js/news.js?v=1.5"></script>
+<script src="resource/js/usertrack.js?v=20100409"></script>
+<link href="resource/css/search.css" rel="stylesheet" type="text/css"></link>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+        
+ 
+<link href="resource/css/class_1_civil.css" rel="stylesheet" type="text/css"></link>
+</head>
+<body>
+<script type="text/javascript" language="javascript"> 
+ClickMonitor.init('ONE_LEVEL_HOT', 'c=civilnews&cy=0');
+</script>
+<div id="usrbar"></div><!--ecombegin--><script>enterState("xjy2061","");</script><!--ecomend-->
+<div id="__flashdata" style="position:absolute;"></div>
+<script src="resource/js/civilnews.js"></script>
+<div id="wrapper">
+	<div id="header">
+        <form action="/ns" name="fbaidu" class="sbox">
+	<table class="sbox">
+		<tr>
+            <td class="logo">
+                <div class="logo"><a href="/view.html"><img src="http://img.baidu.com/img/logo-news.gif" alt="百度新闻"></a></div>
+                <div class="date"><!--datebegin--><!--dateend--></div>
+            </td>
+            <td class="search">
+                <div class="tab"><span class="cur">新闻</span>　<a href="http://www.baidu.com/" onclick="s(this);">网页</a>　<a  href="http://tieba.baidu.com/" onclick="s(this);">贴吧</a>　<a  href="http://zhidao.baidu.com/" onclick="s(this);">知道</a>　<a href="http://mp3.baidu.com/" onclick="s(this);">MP3</a>　<a href="http://image.baidu.com/" onclick="s(this);">图片</a>　<a href="http://video.baidu.com/" onclick="s(this);">视频</a></div>
+                <table>
+                    <tr>
+                        <td class="box"><div id="sugarea"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"><input class="btn" type="submit" value="百度一下"></div></td>
+                        <td class="help"><a href="http://www.baidu.com/search/news_help.html">帮助</a>&nbsp;|&nbsp;<a href="/advanced_news.html">高级搜索</a>&nbsp;|&nbsp;<A href="/pianhao.html">设置</a></td>
+                    </tr>
+                </table>
+                <!--ecombegin--><label style="float:right;width:300px;margin-top:2px;margin-right:6px;text-align:right;font-size:12px;color:#666;">以下新闻由机器每5分钟自动选取更新</label><!--ecomend-->
+                <label for="news"><input type="radio" name="tn" value="news" checked id="news">新闻全文</label>
+                <label for="newstitle" style="padding:0px;"><input type="radio" name="tn" value="newstitle" id="newstitle">新闻标题</label>
+                <input type="hidden" name="from" value="news">
+                <input type="hidden" name="cl" value="2">
+                <input type="hidden" name="rn" value="20">
+                <input type="hidden" name="ct" value="1">
+            </td></tr>
+	</table>
+    </form><script>read_cookie();</script>
+	</div>
+<!--ecombegin--><div class="ecom" id="ecom_1"><script>if(!g_f_js){var g_f_js=true;document.write('<script src=http://eiv.baidu.com/other/ff.js><\/scr'+'ipt>');}</script>
+ 
+<script src="http://eiv.baidu.com/mapm2/fhnTag/fhHYTagNew.js"></script><script>if (typeof(cf_h)=="function") {cf_h("http://drmcmm.baidu.com/media/id=nH0vnWD1PjR&gp=402&time=nHc4nH6Ln10vrf.swf","984","90","http://www.baidu.com/adrc.php?t=00Kh00000f7m9sm0pVTi0ARfK6KmssNP00000000000_0f00IvZ6T6.THdWpguGUA4-ILn0UWdBmy-bINq9nH0z0ZnqmWD4P1ubP10vmWmvnjPWnsKd5Hmzf1czfWb3nWKDrHbzfbD1wbm4n1Tvf1fkwH-DPRw70ADquZCsU77JyykwphV_RyGKU7FNwydWXW7GHNwonY4VRHPPw7GGHhGuIYYzHgG2UH7JmNIwrRdRfHwPNDd4HNwWUN-RnZ-rNW9Lih4iI7KRp1K2U-uYR7PpIhPVp1-rfdGlu7I2IhPVp1-2UbF4mNfsX6K-5y9YIZ0lQzqWUA--UMf8Tv-8mi4WUvY8mv3EXMfEnW0knjDzpZNGXgN9UBqGUhw-Xa41pZwVU0KWThnqPH03nj0","0","ec_hytag");}</script>
+</div><!--ecomend-->
+<script type="text/javascript" language="javascript"> 
+<!--
+    if(document.getElementById('ecom_1').innerHTML.replace(/(^\s+)|(\s+$)/, '') == '')
+        document.getElementById('ecom_1').style.display = 'none';
+//-->
+</script>
+    <div id="nav"><!--ecombegin-->
+        <ul class="nav_aside">
+            <li><a href="/n?cmd=4&class=rolling&pn=1&from=tab&sub=0">最新</a></li>
+            <li><a href="/newsgx.html">定制</a></li>
+			<li><a href="http://www.baidu.com/search/news_more.html" style="*line-height:29px;">更多&gt;&gt;</a></li>
+        </ul><!--ecomend-->
+        <ul class="nav_main">
+            <li style="background-image:none;"><a href="/view.html">新闻首页</a></li>
+            <li><div><a href="/n?cmd=1&class=civilnews&pn=1&from=tab">国内</a></div></li>
+            <li><a href="/n?cmd=1&class=internews&pn=1&from=tab">国际</a></li>
+            <li><a href="/n?cmd=1&class=mil&pn=1&from=tab">军事</a></li>
+            <li><a href="/n?cmd=1&class=finannews&pn=1&from=tab">财经</a></li>
+            <li><a href="/n?cmd=1&class=internet&pn=1&from=tab">互联网</a></li>
+            <li><a href="/n?cmd=1&class=housenews&pn=1&from=tab">房产</a></li>
+            <li><a href="/n?cmd=1&class=autonews&pn=1&from=tab">汽车</a></li>
+            <li><a href="/n?cmd=1&class=sportnews&pn=1&from=tab">体育</a></li>
+            <li><a href="/n?cmd=1&class=enternews&pn=1&from=tab">娱乐</a></li>
+            <li><a href="/n?cmd=1&class=gamenews&pn=1&from=tab">游戏</a></li>
+            <li><a href="/n?cmd=1&class=edunews&pn=1&from=tab">教育</a></li>
+            <li><a href="/n?cmd=1&class=healthnews&pn=1&from=tab">女人</a></li>
+            <li><a href="/n?cmd=1&class=technnews&pn=1&from=tab">科技</a></li>
+            <li><a href="/n?cmd=1&class=socianews&pn=1&from=tab">社会</a></li><!--ecombegin-->
+			<li class="new"><a href="/n?cmd=10&class=vid2top&pn=1&from=tab&sub=0">视频</a></li>
+            <li><a href="/n?cmd=9&class=pic2top&pn=1&from=tab&sub=0">图片</a></li>
+            <!--ecomend-->
+        </ul>
+	</div>
+    <div id="subnav">
+        <h2><a href="/n?cmd=1&class=civilnews&pn=1&from=tab&sub=0">&nbsp;</a></h2>
+        <ul>
+        <li><a href="/n?cmd=1&class=shizheng&pn=1&from=tab">时政要闻</a></li><li class="sep"></li>
+        <li><a href="/n?cmd=1&class=taiwan&pn=1&from=tab">台湾</a></li><li class="sep"></li>
+        <li><a href="/n?cmd=1&class=gangaotai&pn=1&from=tab">港澳</a></li>
+        </ul>
+        <div class="left-border"></div><div class="right-border"></div>
+    </div>
+    <div id="container">
+        <div class="row">
+            <div id="hotarea" class="row_cont">
+                <div class="row_cont_main">
+                    <div id="hotarea_main" class="inner_cont">
+                        <div class="inner_cont_nav">
+                            <div class="nav_main"><h2>焦点新闻</h2></div>
+                            <div class="nav_aside"></div>
+                        </div>
+                        <div class="inner_cont_main">
+                            <ul class="topnews">
+                                <li class="main"><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%68%75%61%6e%65%74%2e%63%6f%6d%2f%66%6f%72%74%75%6e%65%2f%32%30%31%30%2d%31%32%2f%31%33%2f%63%5f%31%32%38%37%34%31%39%37%2e%68%74%6d&cls=civilnews" target="_blank" mon="col=1&a=1">中央经济工作会议提出明年经济工作的主要任务</a></li>
+                                <li><a href="http://news.xinhuanet.com/politics/2010-12/13/c_12874570.htm" target="_blank" mon="col=1&a=36">中央经济工作会议为何特别强调“开局”和“起步”</a></li>
+                                <li><a href="http://news.xinhuanet.com/politics/2010-12/13/c_12874558.htm" target="_blank" mon="col=1&a=36">中央经济工作会议的“民生味”为啥特浓？</a></li>
+                            </ul>
+                            <ul class="list hotnews">
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%61%6c%6c%6e%65%77%73%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%35%30%37%34%35%35%36%31%34%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=1">南京市民悼念大屠杀同胞遇难73周年</a><i>14:31</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%63%68%69%6e%61%2f%6e%65%77%73%7a%68%2f%79%61%6f%77%65%6e%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%35%30%37%34%35%33%33%38%36%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=2">提升公共交通运力和服务水平成京治理拥堵措施亮点</a><i>08:38</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%6d%69%6e%2e%63%6e%2f%72%6f%6c%6c%6e%65%77%73%2f%32%30%31%30%2f%31%32%2f%31%33%2f%38%32%36%36%38%39%30%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=3">停车场管理出新规 小区公共道路场地可划停车位</a><i>08:02</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%67%75%6e%64%6f%6e%67%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%35%30%37%34%35%32%37%39%33%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=4">兰州天然气供热涨30% 官方称两年前已开听证会</a><i>06:03</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%68%75%61%6e%65%74%2e%63%6f%6d%2f%70%6f%6c%69%74%69%63%73%2f%32%30%31%30%2d%31%32%2f%31%33%2f%63%5f%31%32%38%37%33%32%35%31%2e%68%74%6d&cls=civilnews" target="_blank" mon="col=1&a=2&pn=5">中国官员选任制度改革提速 创新公开促“接地气”</a><i>09:44</i></li>
+                            </ul>
+                            <ul class="list hotnews">
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%65%64%75%2e%64%62%77%2e%63%6e%2f%73%79%73%74%65%6d%2f%32%30%31%30%2f%31%32%2f%31%33%2f%30%35%32%38%37%37%31%39%34%2e%73%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=6">武大后勤窝案背后的腐败生态</a><i>08:09</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%67%75%6e%64%6f%6e%67%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%35%30%37%34%35%32%38%39%37%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=7">拆迁补偿原则有望城乡统一 行政强拆存废尚未定</a><i>07:26</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%63%71%2e%63%71%6e%65%77%73%2e%6e%65%74%2f%62%79%7a%6c%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%34%37%33%34%37%35%33%2e%68%74%6d&cls=civilnews" target="_blank" mon="col=1&a=2&pn=8">改称“失足妇女”体现执法理性的回归</a><i>10:45</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%61%6c%6c%6e%65%77%73%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%35%30%37%34%35%35%35%34%33%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=9">强降雪降温袭击东北 未来三天降雪向南推进(图)</a><i>14:03</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%64%6c%66%77%2f%6a%72%64%6c%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%35%30%37%34%35%34%39%35%39%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=10">本周最低气温可达-10℃是入冬以来最冷一周</a><i>11:19</i></li>
+                            </ul>
+                            <ul class="list hotnews">
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%68%69%6e%61%6e%65%77%73%2e%63%6f%6d%2e%63%6e%2f%63%6a%2f%32%30%31%30%2f%31%32%2d%31%33%2f%32%37%31%37%38%34%35%2e%73%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=11">铁路春运明年1月19日开始</a><i>13:38</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%6d%69%6e%2e%63%6e%2f%72%6f%6c%6c%6e%65%77%73%2f%32%30%31%30%2f%31%32%2f%31%33%2f%38%32%37%36%33%33%34%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=12">伍皓宣布放弃起诉李鸿文 “希望给我认个错”</a><i>13:24</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%68%75%61%6e%65%74%2e%63%6f%6d%2f%70%6f%6c%69%74%69%63%73%2f%32%30%31%30%2d%31%32%2f%31%33%2f%63%5f%31%32%38%37%32%39%32%31%2e%68%74%6d&cls=civilnews" target="_blank" mon="col=1&a=2&pn=13">&quot;拼爹&quot;刺激社会神经 消弭&quot;二代&quot;问题须建公平竞技场</a><i>09:08</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%71%63%62%2e%63%6f%6d%2f%63%62%6e%65%77%73%2f%69%6e%73%74%61%6e%74%2f%32%30%31%30%2d%31%32%2d%31%33%2f%33%36%32%37%35%30%2e%68%74%6d%6c&cls=civilnews" target="_blank" mon="col=1&a=2&pn=14">官员隐性利益催生腐败 专家建议完善财产申报</a><i>11:32</i></li>
+                                <li><a href="/n?cmd=2&class=civilnews&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%73%6f%75%74%68%63%6e%2e%63%6f%6d%2f%69%2f%32%30%31%30%2d%31%32%2f%31%33%2f%63%6f%6e%74%65%6e%74%5f%31%38%33%39%36%36%37%39%2e%68%74%6d&cls=civilnews" target="_blank" mon="col=1&a=2&pn=15">温家宝将访问印度和巴基斯坦 逾百工商界代表随行</a><i>14:35</i></li>
+                            </ul>
+                    <!--MONITOR CIVILNEWS_FOCUS OK 15 HOTAREA-->   
+                        </div>
+                        <div class="inner_cont_aside"><table class="imglist imglist_2">
+<tr><td><a href="http://news.xinhuanet.com/photo/2010-12/13/c_12872113.htm" target="_blank" mon="col=2&a=12&pn=1"><img src="http://news.baidu.com/z/resource/r/image/2010-12-13/be80317762a88f52a929f958cf0a461b.jpg"></a><div class="imgtitle"><a href="http://news.xinhuanet.com/photo/2010-12/13/c_12872113.htm" target="_blank" mon="col=2&a=9&pn=1">南京各界悼念南京大屠杀30万遇难同胞</a></div></td></tr>
+<tr><td><a href="http://ganzhi.china.com.cn/news/txt/2010-12/13/content_21527409.htm" target="_blank" mon="col=2&a=12&pn=2"><img src="http://news.baidu.com/z/resource/r/image/2010-12-13/f715eba0d8c04173cb3cb10e60bc21f1.jpg"></a><div class="imgtitle"><a href="http://ganzhi.china.com.cn/news/txt/2010-12/13/content_21527409.htm" target="_blank" mon="col=2&a=9&pn=2">内蒙古根河市最低气温达零下45摄氏度</a></div></td></tr>
+<tr><td><a href="http://www.chinanews.com.cn/tp/hd/2010/12-12/18379.shtml" target="_blank" mon="col=2&a=12&pn=3"><img src="http://news.baidu.com/z/resource/r/image/2010-12-13/a867ee41bbd525a13125f8078cb63acb.jpg"></a><div class="imgtitle"><a href="http://www.chinanews.com.cn/tp/hd/2010/12-12/18379.shtml" target="_blank" mon="col=2&a=9&pn=3">广州亚残运会开幕式隆重举行</a></div></td></tr>
+ 
+</table>
+ 
+                        </div>
+                    </div>
+                </div>
+                <div class="row_cont_aside">
+                    <div id="hotarea_aside" class="inner_cont">
+                        <dl class="section_2 block_4">
+                            <dt>
+                                <div class="nav_main"><a href="/n?cmd=10&class=vid2civil&pn=1&from=tab" target="_blank">国内视频</a></div>
+                                <div class="nav_aside"><a href="/n?cmd=10&class=vid2civil&pn=1&from=tab" target="_blank"></a></div>
+                            </dt>
+                            <dd>
+                            <table class="imglist imglist_1"><tr>
+                                <td>
+                                    <a href="http://home.cs.soufun.com/news/2010-12-13/4188929.htm" target="_blank" mon="col=3&a=12&pn=1"><img src="http://t1.baidu.com/it/u=2631218972,2133636493&fm=20"></a>
+                                    <div class="imgtitle">
+                                    <a href="http://home.cs.soufun.com/news/2010-12-13/4188929.htm" target="_blank" mon="col=3&a=9&pn=1">视频：大卫地板董事长专访</a></div>
+                                    <div class="source"><i>搜房网12-13 11:45</i></div>
+                                </td>
+                                <td>
+                                    <a href="http://news.qq.com/a/20101213/000927.htm" target="_blank" mon="col=3&a=12&pn=2"><img src="http://t2.baidu.com/it/u=470787150,4038780913&fm=20"></a>
+                                    <div class="imgtitle">
+                                    <a href="http://news.qq.com/a/20101213/000927.htm" target="_blank" mon="col=3&a=9&pn=2">视频：深圳药监局查出6个在售减肥品含有害成分</a></div>
+                                    <div class="source"><i>腾讯网12-13 11:19</i></div>
+                                </td>
+                            </tr></table>
+                            <ul class="list vlist">
+                                <li><a href="http://tv.sohu.com/20101213/n278264625.shtml" target="_blank" mon="col=3&pn=3">视频：默认召妓？ 陈致中逾期未上诉</a></li>
+                                <li><a href="http://china.huanqiu.com/roll/2010-12/1337133.html" target="_blank" mon="col=3&pn=4">视频：广州2010年亚残运会开幕式回顾</a></li>
+                                <li><a href="http://china.huanqiu.com/roll/2010-12/1337128.html" target="_blank" mon="col=3&pn=5">视频：亚残会开幕式6万人合唱《飞得更高》感彻全场</a></li>
+                                <li><a href="http://news.iqilu.com/china/gedi/2010/1213/377563.html" target="_blank" mon="col=3&pn=6">视频：苏州市民撞断两棵树 遭“天价”索赔13万</a></li>
+                                <li><a href="http://news.iqilu.com/china/gedi/2010/1213/377558.html" target="_blank" mon="col=3&pn=7">视频：北京严查酒驾司机 乘客撒泼闹事</a></li>
+                                <li><a href="http://news.xilele.com/guonei/280282.htm" target="_blank" mon="col=3&pn=8">视频：北京治堵方案今起征求民意 停车…</a></li>
+                                <li><a href="http://news.iqilu.com/china/gedi/2010/1213/377546.html" target="_blank" mon="col=3&pn=9">视频：世界最深地下实验室在四川投入使用</a></li>
+                                <li><a href="http://news.iqilu.com/china/gedi/2010/1213/377543.html" target="_blank" mon="col=3&pn=10">视频：17大类174种药品大降价 平均降幅达19%</a></li>
+                            </ul>
+                    <!--MONITOR CIVILNEWS_GNSP OK 10 HOTAREA-->   
+                            </dd>
+                        </dl>
+                        <dl class="section_2 hotwords">
+                            <dt>
+                                <div class="nav_main">国内热搜词</div>
+                                <div class="nav_aside"><a href="#" target="_blank"></a></div>
+                            </dt>
+                            <dd>
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=最好不相见" target="_blank" mon="col=4">最好不相见</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=南京大屠杀 祭日" target="_blank" mon="col=4">南京大屠杀 祭日</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=亚残会点火" target="_blank" mon="col=4">亚残会点火</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=最猛料网站" target="_blank" mon="col=4">最猛料网站</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=江苏省委组织部" target="_blank" mon="col=4">江苏省委组织部</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=根河市" target="_blank" mon="col=4">根河市</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=网络水军 加入水" target="_blank" mon="col=4">网络水军 加入水</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=武大后勤窝案" target="_blank" mon="col=4">武大后勤窝案</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=北京+拥堵+双号" target="_blank" mon="col=4">北京 拥堵 双号</a>
+ 
+<a href="http://news.baidu.com/ns?cl=2&ct=9&rn=20&sp=hotquery&word=山西+国家+发改委" target="_blank" mon="col=4">山西 国家 发改委</a>
+ 
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+<!--ecombegin-->
+<script type="text/javascript"> 
+var ObjectArea = {
+    currentcity_name: '',//当前城市名
+    currentcity_id: '',//当前城市json数据id
+    html_cityid: 'displaycity',// 显示当前城市div的id 例如：北京新闻
+    html_choose: 'choosecity',//城市选择div的id
+    html_citylistparent: 'displaylayer',//城市列表、返回、关闭等div的父级
+    html_citylist: 'citylist', //城市列表
+    html_citylist_bg: 'displaylayer_bg',//城市列表CSS样式背景
+    html_triganle: 'triganle',//城市列表CSS样式箭头
+    html_close: 'close',//关闭
+    html_back: 'back',//返回
+    html_content: 'content',//新闻展示div
+    html_conectstauts: 'conectstauts',//网络请求状态
+    pro: '武汉',//获取用户所在省份
+    city: '武汉',//获取用户所在城市
+    cityid: '4812'
+};
+</script>
+        <div class="ecom_bottom row">
+            <div class="row_cont">
+                <div class="row_cont_main">                
+                    <div class="inner_cont_nav">
+                        <div class="cont_nav_main">
+                        <h2 id="displaycity">地区新闻</h2><h2 id="choosecity">[更换地区]</h2></div>
+                        <div class="cont_nav_aside"><h2 id="conectstauts">正在加载中，请稍后</h2></div>
+                    </div>
+                    <div class="inner_cont">
+                        <div id="displaylayer_bg" style="display:none;"></div>
+                        <div id="triganle" style="display:none;"></div>                        
+                        <div id="displaylayer" style="display:none;">
+                            <div id="citylist"></div>
+                            <span class="cl" id="close" ></span>
+                            <span class="back" id="back">返回上一层</span>
+                        </div>
+                        <div class="inner_cont_main" id="content">
+                            <ul class="list hotnews">
+                                <li class="main"><a href="#" target="_blank" mon="col=5&a=1"></a></li>
+                            </ul>
+                            <ul class="list hotnews">
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=1"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=2"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=3"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=4"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=5"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=6"></a><i></i></li>
+                            </ul>
+                            <ul class="list hotnews">
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=7"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=8"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=9"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=10"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=11"></a><i></i></li>
+                                <li><a href="#" target="_blank" mon="col=5&a=2&pn=12"></a><i></i></li>
+                            </ul>
+                        </div>
+                        <div class="inner_cont_aside">
+                            <table class="imglist">
+                                <tr><td><a href="http://news.21cn.com/domestic/yaowen/2010/12/13/8000735.shtml" target="_blank" mon="col=6&a=12&pn=1"><img src="http://t1.baidu.com/it/u=%68%74%74%70%3a%2f%2f%69%6d%67%30%30%31%2e%70%68%6f%74%6f%2e%32%31%63%6e%2e%63%6f%6d%2f%70%68%6f%74%6f%73%2f%61%6c%62%75%6d%2f%32%30%31%30%30%37%30%36%2f%6f%2f%41%44%44%35%45%46%39%37%45%31%42%34%35%32%36%35%44%30%42%37%35%35%35%31%31%45%43%45%38%30%31%32%2e%6a%70%67&fm=30"></a><div class="imgtitle"><a href="http://news.21cn.com/domestic/yaowen/2010/12/13/8000735.shtml" target="_blank" mon="col=6&a=9&pn=1">2010年中国官员选任制度改革提速</a></div></td></tr>
+                                <tr><td><a href="http://news.21cn.com/domestic/shiyong/2010/12/13/8000734.shtml" target="_blank" mon="col=6&a=12&pn=2"><img src="http://t2.baidu.com/it/u=%68%74%74%70%3a%2f%2f%69%6d%67%30%30%31%2e%70%68%6f%74%6f%2e%32%31%63%6e%2e%63%6f%6d%2f%70%68%6f%74%6f%73%2f%61%6c%62%75%6d%2f%32%30%31%30%31%32%31%33%2f%6f%2f%35%32%35%37%41%34%36%41%45%31%41%32%33%44%33%39%43%31%37%34%32%43%43%33%32%41%35%44%44%34%37%46%2e%6a%70%67&fm=30"></a><div class="imgtitle"><a href="http://news.21cn.com/domestic/shiyong/2010/12/13/8000734.shtml" target="_blank" mon="col=6&a=9&pn=2">老板厨房电器带领厨电市场跨出决胜一步</a></div></td></tr>
+                            </table>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div class="row_cont_aside">                
+                    <div class="inner_cont_nav tab_nav">
+                        <ul id="tabs_1">
+                            <li class="cur" prop="hotclick_list"><a href="javascript:void(0)">热门点击</a></li>
+                            <li prop="newspp_wrapper"><a href="javascript:void(0)">地方报纸订阅</a></li>
+                        </ul>
+                    </div>
+                    <div class="inner_cont">
+                        <dl class="section_1">
+                            <dd id="newspp_wrapper" style="display:none">
+                                <div id="newspp_tip"></div>
+                                <div id="newspp_choose">
+                                    <h3>请选择您要订阅的报纸：</h3>
+                                    <select id="newspp_names" tabindex="2">
+<option value="">请选择</option> 
+<option value="northnews.cn">B 北方新报</option> 
+<option value="morningpost.com.cn">B 北京晨报</option> 
+<option value="ynet.com">B 北京青年报</option> 
+<option value="cnhubei.com">C 楚天都市报</option> 
+<option value="cqcb.com">C 重庆晨报</option> 
+<option value="cqsb.cqnews.net">C 重庆商报</option> 
+<option value="www.cqwb.com.cn">C 重庆晚报</option> 
+<option value="dahe.cn">D 大河网</option> 
+<option value="jinbw.com.cn">D 东方今报</option> 
+<option value="dfdaily.com">D 东方早报</option> 
+<option value="fjcns.com">F 福建新闻网</option> 
+<option value="www.gxrb.com.cn">G 广西日报</option> 
+<option value="hznews.hangzhou.com.cn">H 杭州网</option> 
+<option value="hkwb.net">H 海口晚报</option> 
+<option value="hntqb.com">H 海南特区报</option> 
+<option value="www.hljnews.cn">H 黑龙江日报</option> 
+<option value="hlbrdaily.com.cn">H 呼伦贝尔日报</option> 
+<option value="chinajilin.com.cn">J 吉林日报</option> 
+<option value="jxnews.com.cn">J 江西大江网</option> 
+<option value="jwb.com.cn">J 今晚报</option> 
+<option value="gog.com.cn">J 金黔在线</option> 
+<option value="jinghua.cn">J 京华时报</option> 
+<option value="lnd.com.cn">L 辽宁北国网</option> 
+<option value="gansudaily.com.cn">M 每日甘肃</option> 
+<option value="nddaily.com">N 南方都市报</option> 
+<option value="hinews.cn">N 南海网</option> 
+<option value="nxnet.net">N 宁夏日报</option> 
+<option value="qlwb.com.cn">Q 齐鲁晚报</option> 
+<option value="qhnews.com">Q 青海新闻网</option> 
+<option value="sanqindaily.com">S 三秦都市报</option> 
+<option value="wbnews.daynews.com.cn">S 山西晚报</option> 
+<option value="sxdaily.com.cn">S 陕西日报</option> 
+<option value="whb.news365.com.cn">W 文汇报</option> 
+<option value="xxcb.com.cn">X 潇湘晨报</option> 
+<option value="bjnews.com.cn">X 新京报</option> 
+<option value="xmwb.news365.com.cn">X 新民晚报</option> 
+<option value="yzdsb.hebnews.cn">Y 燕赵都市报</option> 
+<option value="yangtse.com">Y 扬子晚报</option> 
+<option value="ycwb.com">Y 羊城晚报</option> 
+<option value="yndaily.com">Y 云南日报</option> 
+<option value="zjdaily.zjol.com.cn">Z 浙江日报</option> 
+<option value="anhuinews.com">Z 中安在线</option> 
+                                    </select>
+                                    <button id="subscribe" tabindex="3">订阅</button>
+                                    <p>百度地方报纸订阅功能为您提供了全国各地的热门报纸媒体，您可以根据自己的兴趣和习惯来选择订阅您需要的新闻内容。</p>
+                                </div>
+                                <div id="newspp_title"><h3>您订阅的报纸：<span id="newspp_name"></span><a id="cancelsub" href="javascript:void(0)">[取消订阅]</a></h3></div>
+                                <div id="newspp_list">
+                                </div>
+                            </dd>
+                            <dd id="hotclick_list">
+                                <ul class="list">
+                                    <li><a href="http://china.eastday.com/c/20101212/u1a5603485.html" target="_blank" mon="col=7&pn=1">媒体称我国十二五期间酝酿大规模减税</a></li>
+                                    <li><a href="http://society.people.com.cn/GB/42735/13455650.html" target="_blank" mon="col=7&pn=2">公安部：将加大巡查力度防止涉黄犯罪反弹</a></li>
+                                    <li><a href="http://news.qq.com/a/20101212/000053.htm" target="_blank" mon="col=7&pn=3">公安部禁扫黄曝光失足妇女：特殊人群也需尊重</a></li>
+                                    <li><a href="http://legal.people.com.cn/GB/13456416.html" target="_blank" mon="col=7&pn=4">网上散播挖脏抛尸案谣言 广州警方行政拘留3人</a></li>
+                                    <li><a href="http://www.yangtse.com/news/gn/201012/t20101212_777637.htm" target="_blank" mon="col=7&pn=5">外交部人事变动密集展开 精英外交梯队渐成型</a></li></ul><ul class="list">
+                                    <li><a href="http://gb.cri.cn/27824/2010/12/12/2225s3086851.htm" target="_blank" mon="col=7&pn=6">首都机场反驳T3航站楼工程质量差说法</a></li>
+                                    <li><a href="http://news.xinmin.cn/rollnews/2010/12/12/8255817.html" target="_blank" mon="col=7&pn=7">美勘探器械公司被控向中国官员行贿170万美元</a></li>
+                                    <li><a href="http://news.qq.com/a/20101212/000598.htm" target="_blank" mon="col=7&pn=8">世界最深地下实验室在四川建成 将研究暗物质</a></li>
+                                    <li><a href="http://china.cnr.cn/gdgg/201012/t20101212_507451603.html" target="_blank" mon="col=7&pn=9">十七大类174种药品12日起降价 平均降幅19%</a></li>
+                                    <li><a href="http://china.eastday.com/c/20101212/u1a5603522.html" target="_blank" mon="col=7&pn=10">重庆奉节乡政府花10万元摆万人宴请村民开会</a></li></ul><ul class="list">
+                                    <li><a href="http://news.sohu.com/20101211/n278242764.shtml" target="_blank" mon="col=7&pn=11">江西旱情蔓延 长江九江段发布枯水预警(图)</a></li>
+                                    <li><a href="http://www.cqcb.com/cbnews/instant/2010-12-12/351838.html" target="_blank" mon="col=7&pn=12">河南巨源矿难实际入井人数为82人</a></li>
+                                    <li><a href="http://politics.people.com.cn/GB/14562/13456474.html" target="_blank" mon="col=7&pn=13">兰州天然气供热价格未经听证上涨30%</a></li>
+                                    <li><a href="http://news.xinhuanet.com/politics/2010-12/12/c_12871272.htm" target="_blank" mon="col=7&pn=14">安徽宣城市宣州区副区长章宏斌涉嫌故意杀人被批捕</a></li>
+                                    <li><a href="http://www.cqcb.com/cbnews/instant/2010-12-12/347676.html" target="_blank" mon="col=7&pn=15">公安部：扫黄禁游街示众</a></li>
+                                </ul>
+                    <!--MONITOR CIVILNEWS_RMDJ OK 15 HOTAREA-->   
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+<!--ecomend-->
+<!--ecombegin--><div align="center" style="margin-top:-3px;" class="ecom" id="ecom_2">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><div style="position:relative;text-align:left; height:90px;width:984px;font-family:宋体"><embed style="position:absolute;z-index:0" src="http://drmcmm.baidu.com/media/id=rHnLPWc4P6&gp=402&time=nHc3rjn1nWfYPf.swf" quality="high" width="984" height="90" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" wmode="opaque"></embed><a href="http://www.baidu.com/adrc.php?t=000y06000fZKXfm015Cw0c-hafKmssNP00000000000_0f00IvZ6T6.THdWpguGUA4-ILn0UWY60ZnqmWD4P1ubP10vmWmvnjPWnsKd5Hmzf1czfWb3nWKDrHbzfbD1wbm4n1Tvf1fkwH-DPRw70ADquZCsU77JwykwNDd_RHKuU7FDNydWXW7GHNwonY4VRHPPw7GGHhGuIYYzHgG2UH7JmNIwrRqRu17rND-3HRPpp7KRUAuPfdCsm-fsUywgnj-2UH-4mNfsnDG8HW7uUH-4mNfsUyPciMKfNDY-nYf0uHdCIZwsrBtEILILQhPCpy49UA-huidsQhPEUi4WUBqbpy78XA-9Uz4CIAd_0APzm1YvnH6sP6" target="_blank" style="cursor:pointer;z-index:1; position:absolute;display:block;background:white;filter:alpha(opacity=0);opacity:0;width:984px;height:90px;"></a><a style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src=http://eiv.baidu.com/mapm2/hyjjtag/tag_houyi.png,sizingMethod=image);width:77px;cursor:default;height:15px;z-index:20;position:absolute;right:0;bottom:0;"><img src='http://eiv.baidu.com/mapm2/hyjjtag/tag_houyi.png' style='filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0)' width='77' height='15' border='0'/></a></div></td></tr></table>
+</div><!--ecomend-->
+<script type="text/javascript" language="javascript"> 
+<!--
+    if(document.getElementById('ecom_2').innerHTML.replace(/(^\s+)|(\s+$)/, '') == '')
+        document.getElementById('ecom_2').style.display = 'none';
+//-->
+</script>
+        <div class="row">
+            <div class="row_cont">
+                <div class="row_cont_main rcm_1">
+                    <div class="inner_cont_nav">
+                        <div class="cont_nav_main">
+                            <h2>港澳台</h2>
+                        </div>
+                        <div class="cont_nav_aside"></div>
+                    </div>
+                    <div class="inner_cont">
+                        <div class="inner_cont_main">
+                            <h3><a href="/n?cmd=1&class=taiwan&pn=1">台湾</a></h3>
+                            <ul class="list hotnews smallsec_1">
+                                <li><a href="/n?cmd=2&class=taiwan&page=%68%74%74%70%3a%2f%2f%74%76%2e%73%6f%68%75%2e%63%6f%6d%2f%32%30%31%30%31%32%31%33%2f%6e%32%37%38%32%36%36%36%33%34%2e%73%68%74%6d%6c&cls=taiwan" target="_blank" mon="col=9&a=2&z=taiwan&pn=1">视频：连胜文枪击案弹鉴完成 误击可能性低</a><i>12:38</i></li>
+                                <li><a href="/n?cmd=2&class=taiwan&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%73%6f%75%74%68%63%6e%2e%63%6f%6d%2f%68%2f%32%30%31%30%2d%31%32%2f%31%33%2f%63%6f%6e%74%65%6e%74%5f%31%38%33%39%36%34%39%32%2e%68%74%6d&cls=taiwan" target="_blank" mon="col=9&a=2&z=taiwan&pn=2">陈致中召妓案不上诉遭讽:心知肚明自知理亏</a><i>14:04</i></li>
+                                <li><a href="/n?cmd=2&class=taiwan&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%71%71%2e%63%6f%6d%2f%61%2f%32%30%31%30%31%32%31%33%2f%30%30%30%38%32%38%2e%68%74%6d&cls=taiwan" target="_blank" mon="col=9&a=2&z=taiwan&pn=3">连胜文案枪支来源说法多 检方：案情已渐明朗</a><i>10:28</i></li>
+                                <li><a href="/n?cmd=2&class=taiwan&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%6d%69%6e%2e%63%6e%2f%72%6f%6c%6c%6e%65%77%73%2f%32%30%31%30%2f%31%32%2f%31%33%2f%38%32%37%37%37%36%32%2e%68%74%6d%6c&cls=taiwan" target="_blank" mon="col=9&a=2&z=taiwan&pn=4">苏嘉全今回锅当民进党秘书长 称将改2012提名条例</a><i>14:40</i></li>
+                                <li><a href="/n?cmd=2&class=taiwan&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%67%75%6e%64%6f%6e%67%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%35%30%37%34%35%35%32%38%36%2e%68%74%6d%6c&cls=taiwan" target="_blank" mon="col=9&a=2&z=taiwan&pn=5">马英九:两岸减少不必要的对立冲突 已现和平曙光</a><i>12:53</i></li>
+                                <li><a href="/n?cmd=2&class=taiwan&page=%68%74%74%70%3a%2f%2f%74%77%2e%70%65%6f%70%6c%65%2e%63%6f%6d%2e%63%6e%2f%47%42%2f%31%34%38%31%32%2f%31%34%38%37%35%2f%31%33%34%36%30%33%34%34%2e%68%74%6d%6c&cls=taiwan" target="_blank" mon="col=9&a=2&z=taiwan&pn=6">出马角逐2012选举 吕秀莲传本月底将正式宣布</a><i>08:21</i></li>
+                                <li><a href="/n?cmd=2&class=taiwan&page=%68%74%74%70%3a%2f%2f%74%77%2e%70%65%6f%70%6c%65%2e%63%6f%6d%2e%63%6e%2f%47%42%2f%31%34%38%31%32%2f%31%34%38%37%35%2f%31%33%34%36%37%36%39%35%2e%68%74%6d%6c&cls=taiwan" target="_blank" mon="col=9&a=2&z=taiwan&pn=7">台新健保改革将公布 马英九：须符公平原则</a><i>14:06</i></li>
+                                <li><a href="/n?cmd=2&class=taiwan&page=%68%74%74%70%3a%2f%2f%74%77%2e%70%65%6f%70%6c%65%2e%63%6f%6d%2e%63%6e%2f%47%42%2f%31%34%38%31%32%2f%31%34%38%37%35%2f%31%33%34%36%33%36%33%33%2e%68%74%6d%6c&cls=taiwan" target="_blank" mon="col=9&a=2&z=taiwan&pn=8">陈水扁监狱编号成彩票热门号码 一周三中</a><i>09:43</i></li>
+                    <!--MONITOR CIVILNEWS_GATTW OK 8 HOTAREA-->   
+                            </ul>
+                            <h3><a href="/n?cmd=1&class=gangaotai&pn=1">港澳</a></h3>
+                            <ul class="list hotnews smallsec_2">
+                                <li><a href="/n?cmd=2&class=gangaotai&page=%68%74%74%70%3a%2f%2f%68%6d%2e%70%65%6f%70%6c%65%2e%63%6f%6d%2e%63%6e%2f%47%42%2f%38%35%34%32%33%2f%31%33%34%36%37%33%34%35%2e%68%74%6d%6c&cls=gangaotai" target="_blank" mon="col=10&a=2&z=gangaotai&pn=1">港平均物价高三成 深圳人赴港打酱油言过其实</a><i>13:48</i></li>
+                                <li><a href="/n?cmd=2&class=gangaotai&page=%68%74%74%70%3a%2f%2f%69%6e%74%65%72%6e%61%6c%2e%64%62%77%2e%63%6e%2f%73%79%73%74%65%6d%2f%32%30%31%30%2f%31%32%2f%31%33%2f%30%35%32%38%37%38%34%33%39%2e%73%68%74%6d%6c&cls=gangaotai" target="_blank" mon="col=10&a=2&z=gangaotai&pn=2">圣诞节近8成港人拟送礼 调查显示女比男出手阔绰</a><i>11:21</i></li>
+                                <li><a href="/n?cmd=2&class=gangaotai&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%68%69%6e%61%6e%65%77%73%2e%63%6f%6d%2e%63%6e%2f%67%61%2f%32%30%31%30%2f%31%32%2d%31%33%2f%32%37%31%36%34%36%39%2e%73%68%74%6d%6c&cls=gangaotai" target="_blank" mon="col=10&a=2&z=gangaotai&pn=3">澳门“公益金百万行”今年筹得善款逾千万</a><i>01:20</i></li>
+                                <li><a href="/n?cmd=2&class=gangaotai&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%68%69%6e%61%6e%65%77%73%2e%63%6f%6d%2e%63%6e%2f%67%61%2f%32%30%31%30%2f%31%32%2d%31%33%2f%32%37%31%37%36%33%37%2e%73%68%74%6d%6c&cls=gangaotai" target="_blank" mon="col=10&a=2&z=gangaotai&pn=4">香港花园街纵火案侦破 疑犯称只为看消防员救火</a><i>11:31</i></li>
+                    <!--MONITOR CIVILNEWS_GATGA OK 4 HOTAREA-->   
+                            </ul>                                     
+                        </div>
+                        <div class="inner_cont_aside">
+                            <table class="imglist">
+                                <tr><td><a href="http://www.chinadaily.com.cn/hqjs/zjtw/2010-12-12/content_1376074.html" target="_blank" mon="col=11&a=12&pn=1&z=taiwan"><img src="http://t1.baidu.com/it/u=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%68%69%6e%61%64%61%69%6c%79%2e%63%6f%6d%2e%63%6e%2f%68%71%6a%73%2f%7a%6a%74%77%2f%32%30%31%30%31%32%2f%34%61%32%36%39%64%35%62%61%62%63%64%30%34%36%32%36%62%38%63%33%61%36%66%63%30%64%61%36%64%32%61%2e%6a%70%67&fm=30"></a><div class="imgtitle"><a href="http://www.chinadaily.com.cn/hqjs/zjtw/2010-12-12/content_1376074.html" target="_blank" mon="col=11&a=9&pn=1&z=taiwan">北京大学两岸校友台北首度联谊</a></div></td></tr>
+                                <tr><td><a href="http://internal.dbw.cn/system/2010/12/09/052873635.shtml" target="_blank" mon="col=11&a=12&pn=2&z=taiwan"><img src="http://t3.baidu.com/it/u=%68%74%74%70%3a%2f%2f%70%69%63%2e%64%62%77%2e%63%6e%2f%30%2f%30%33%2f%37%32%2f%37%32%2f%33%37%32%37%32%34%35%5f%39%37%37%30%38%37%2e%6a%70%67&fm=30"></a><div class="imgtitle"><a href="http://internal.dbw.cn/system/2010/12/09/052873635.shtml" target="_blank" mon="col=11&a=9&pn=2&z=taiwan">狱中室友妻子转述：陈水扁要狱友为他换洗内裤</a></div></td></tr>
+                            </table>                                     
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div class="row_cont_aside">                
+                    <div class="inner_cont_nav">
+                        <div class="cont_nav_main"><a href="/n?cmd=4&class=twms&pn=1" target="_blank">台湾民生</a></div>
+                        <div class="cont_nav_aside"><a href="/n?cmd=4&class=twms&pn=1" target="_blank">更多&gt;&gt;</a></div>
+                    </div>
+                    <div class="inner_cont">
+                        <dl class="section_1 block_1">
+                            <dd>
+                                <ul class="list list_2">
+                                    <li class="with_img"><h4><a href="http://internal.dbw.cn/system/2010/12/13/052878246.shtml" target="_blank" mon="col=12&a=9&pn=1&z=twms">台湾胖女孩完成拥抱万人计划 曾被拒一万次(图)</a></h4>
+                                        <table>
+                                            <tr>
+                                     <td class="thumbnail"><a href="http://internal.dbw.cn/system/2010/12/13/052878246.shtml" target="_blank" mon="col=12&a=12&pn=1&z=twms"><img src="http://t3.baidu.com/it/u=%68%74%74%70%3a%2f%2f%70%69%63%2e%64%62%77%2e%63%6e%2f%30%2f%30%33%2f%37%33%2f%32%32%2f%33%37%33%32%32%35%39%5f%39%38%30%37%38%34%2e%6a%70%67&fm=30"></a></td>
+                                                <td class="text">  叶若羚(左)昨日在桃园火车站拥抱第一万人，虽然她也被拒绝一万次，仍信心满满面对人生。图片来源：联合报  据台湾《联合报》报 ... </td>
+                                            </tr>
+                                        </table>
+                                        </li>
+                                    <li><a href="http://www.chinanews.com.cn/tw/2010/12-13/2717444.shtml" target="_blank" mon="col=12&pn=1&z=twms">金门携七大项目来厦招商 将打造国际观光休闲岛</a></li>
+                                    <li><a href="http://news.southcn.com/h/2010-12/13/content_18376983.htm" target="_blank" mon="col=12&pn=2&z=twms">连胜文枪击案渐明朗 检方查实枪支十年前购自美国</a></li>
+                    <!--MONITOR CIVILNEWS_TWMS OK 3 HOTAREA-->   
+                                </ul>
+                            </dd>
+                        </dl>                
+                        <dl class="section_1">
+                            <dt>
+                                <div class="nav_main"><a href="/n?cmd=4&class=lishi&pn=1" target="_blank">历史档案</a></div>
+                                <div class="nav_aside"><a href="/n?cmd=4&class=lishi&pn=1" target="_blank">更多&gt;&gt;</a></div>
+                            </dt>
+                            <dd>
+                                <ul class="list list_2">
+                                    <li><a href="http://news.xinhuanet.com/politics/2010-12/13/c_12874243.htm" target="_blank" mon="col=13&pn=1&z=lishi">西安纪事——中共代表团解决“西安事变”的前前..</a></li>
+                                    <li><a href="http://www.chinadaily.com.cn/dfpd/shaanxi/2010-12-13/content_1378033.html" target="_blank" mon="col=13&pn=2&z=lishi">“张学良向爱国学生讲话纪念碑”在西安揭幕</a></li>
+                                    <li><a href="http://news.163.com/10/1213/14/6NPROKR500014JB6.html" target="_blank" mon="col=13&pn=3&z=lishi">宜兰一处民宅今晨发生大火 5人受伤送医</a></li>
+                                    <li><a href="http://taiwan.huanqiu.com/news/2010-12/1336999.html" target="_blank" mon="col=13&pn=4&z=lishi">蒋经国病逝前原声重现 浙江口音提“反攻大陆”</a></li>
+                                    <li><a href="http://life.cb.com.cn/12724987/20101213/173384.html" target="_blank" mon="col=13&pn=5&z=lishi">蒋介石病故前的三次公开露面</a></li>
+                    <!--MONITOR CIVILNEWS_LSDA OK 5 HOTAREA-->   
+                                </ul>
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="row_cont">
+                <div class="row_cont_main">                
+                    <div class="inner_cont_nav">
+                        <div class="cont_nav_main">
+                        <h2><a href="/n?cmd=1&class=shizheng&pn=1">时政要闻</a></h2><ul></ul></div>
+                        <div class="cont_nav_aside"></div>
+                    </div>
+                    <div class="inner_cont">
+                        <div class="inner_cont_main">
+                            <ul class="list hotnews">
+                                <li class="main"><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%6d%69%6e%2e%63%6e%2f%72%6f%6c%6c%6e%65%77%73%2f%32%30%31%30%2f%31%32%2f%31%33%2f%38%32%37%36%39%32%39%2e%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=1&z=shizheng">山西获批国家资源型经济转型综合配套改革试验区</a></li>
+                            </ul>
+                            <ul class="list hotnews">
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%68%75%61%6e%65%74%2e%63%6f%6d%2f%70%6f%6c%69%74%69%63%73%2f%32%30%31%30%2d%31%32%2f%31%33%2f%63%5f%31%32%38%37%34%35%35%38%2e%68%74%6d&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=1">中央经济工作会议的“民生味”为啥特浓？</a><i>14:32</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%68%69%6e%61%70%65%61%63%65%2e%6f%72%67%2e%63%6e%2f%70%61%62%62%2f%32%30%31%30%2d%31%32%2f%31%33%2f%63%5f%31%33%36%34%37%30%32%30%2e%68%74%6d&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=2">广西公安厅：加强部门协作严打涉黄犯罪</a><i>14:34</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%68%69%6e%61%64%61%69%6c%79%2e%63%6f%6d%2e%63%6e%2f%64%66%70%64%2f%67%75%61%6e%67%64%6f%6e%67%2f%32%30%31%30%2d%31%32%2d%31%33%2f%63%6f%6e%74%65%6e%74%5f%31%33%37%38%33%34%35%2e%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=3">2011年春运，“买票贵”将取代“买票难”？</a><i>10:38</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%65%6e%6f%72%74%68%2e%63%6f%6d%2e%63%6e%2f%73%79%73%74%65%6d%2f%32%30%31%30%2f%31%32%2f%31%33%2f%30%30%35%34%37%31%35%30%38%2e%73%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=4">透视官员选任制度改革 80后官员雨后春笋般涌现</a><i>14:11</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%68%6b%73%74%6f%63%6b%2e%63%6e%66%6f%6c%2e%63%6f%6d%2f%31%30%31%32%31%33%2f%31%33%32%2c%31%33%35%38%2c%38%39%36%36%35%35%33%2c%30%30%2e%73%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=5">商务部：中国将与巴基斯坦开拓核能合作</a><i>14:35</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%6d%69%6e%2e%63%6e%2f%72%6f%6c%6c%6e%65%77%73%2f%32%30%31%30%2f%31%32%2f%31%33%2f%38%32%37%32%39%36%33%2e%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=6">怎能根据两年前听证会结果涨价？</a><i>10:43</i></li>
+                            </ul>
+                            <ul class="list hotnews">
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%69%6e%68%75%61%6e%65%74%2e%63%6f%6d%2f%70%6f%6c%69%74%69%63%73%2f%32%30%31%30%2d%31%32%2f%31%33%2f%63%5f%31%32%38%37%33%37%38%34%2e%68%74%6d&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=7">国办印发中央预算单位明后年政府采购目录及标准</a><i>10:55</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%68%65%78%75%6e%2e%63%6f%6d%2f%32%30%31%30%2d%31%32%2d%31%33%2f%31%32%36%31%35%30%32%30%39%2e%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=8">174种常用药降价 最高降幅30%</a><i>14:23</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%6e%65%77%73%2e%78%68%62%79%2e%6e%65%74%2f%73%79%73%74%65%6d%2f%32%30%31%30%2f%31%32%2f%31%33%2f%30%31%30%38%36%31%39%32%36%2e%73%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=9">卫生部官员称：农村儿童存在严重“隐性饥饿”</a><i>13:41</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%67%73%63%6e%2e%63%6f%6d%2e%63%6e%2f%70%75%62%2f%6e%65%77%73%2f%67%6e%73%73%2f%32%30%31%30%2f%31%32%2f%31%33%2f%31%32%39%32%32%32%31%33%36%32%38%30%38%2e%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=10">云南昆明今年前11个月平均每月问责57名干部</a><i>14:22</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%61%6c%6c%6e%65%77%73%2f%32%30%31%30%31%32%2f%74%32%30%31%30%31%32%31%33%5f%35%30%37%34%35%35%30%35%33%2e%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=11">发改委：今后五年将推动中国区域合作纵深发展</a><i>11:32</i></li>
+                                <li><a href="/n?cmd=2&class=shizheng&page=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%68%69%6e%61%6e%65%77%73%2e%63%6f%6d%2e%63%6e%2f%63%6a%2f%32%30%31%30%2f%31%32%2d%31%33%2f%32%37%31%37%30%37%37%2e%73%68%74%6d%6c&cls=shizheng" target="_blank" mon="col=14&a=2&z=shizheng&pn=12">专家解读：改善民生成中国宏观经济政策着力点</a><i>09:49</i></li>
+                            </ul>
+                    <!--MONITOR CIVILNEWS_SZYW OK 12 HOTAREA-->   
+                        </div>
+                        <div class="inner_cont_aside">
+                            <table class="imglist">
+                                <tr><td><a href="http://opinion.people.com.cn/GB/13459423.html" target="_blank" mon="col=15&a=12&z=shizheng&pn=1"><img src="http://t3.baidu.com/it/u=%68%74%74%70%3a%2f%2f%70%61%70%65%72%2e%70%65%6f%70%6c%65%2e%63%6f%6d%2e%63%6e%2f%72%6d%72%62%2f%72%65%73%2f%31%2f%32%30%31%30%31%32%31%33%2f%31%32%39%32%31%37%35%36%30%38%37%36%35%5f%31%2e%6a%70%67&fm=30"></a><div class="imgtitle"><a href="http://opinion.people.com.cn/GB/13459423.html" target="_blank" mon="col=15&a=9&z=shizheng&pn=1">别让好政策卡了壳（民生观）</a></div></td></tr>
+                                <tr><td><a href="http://www.cnr.cn/jrdt/201012/t20101212_507452428.html" target="_blank" mon="col=15&a=12&z=shizheng&pn=2"><img src="http://t3.baidu.com/it/u=%68%74%74%70%3a%2f%2f%77%77%77%2e%63%6e%72%2e%63%6e%2f%6a%72%64%74%2f%32%30%31%30%31%32%2f%57%30%32%30%31%30%31%32%31%32%38%31%32%39%36%36%32%34%32%32%32%30%2e%6a%70%67&fm=30"></a><div class="imgtitle"><a href="http://www.cnr.cn/jrdt/201012/t20101212_507452428.html" target="_blank" mon="col=15&a=9&z=shizheng&pn=2">11:00-11:30 中国之声北京治堵征求意见方案今出台</a></div></td></tr>
+                            </table>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div class="row_cont_aside">                
+                    <div class="inner_cont_nav">
+                        <div class="cont_nav_main"><a href="/n?cmd=4&class=gaoceng&pn=1" target="_blank">高层动态</a></div>
+                        <div class="cont_nav_aside"><a href="/n?cmd=4&class=gaoceng&pn=1" target="_blank">更多&gt;&gt;</a></div>
+                    </div>
+                    <div class="inner_cont">
+                        <dl class="section_1 block_1">
+                            <dd>
+                                <ul class="list list_2">
+                                    <li><a href="http://news.southcn.com/i/2010-12/13/content_18396679.htm" target="_blank" mon="col=16&z=gaoceng&pn=1">温家宝将访问印度和巴基斯坦 逾百工商界代表随行</a></li>
+                                    <li><a href="http://news.xinmin.cn/rollnews/2010/12/13/8272055.html" target="_blank" mon="col=16&z=gaoceng&pn=2">李克强会见亚洲残奥委会主席阿布扎林</a></li>
+                                    <li><a href="http://www.cnr.cn/allnews/201012/t20101213_507455452.html" target="_blank" mon="col=16&z=gaoceng&pn=3">温家宝在中央经济工作会议上作重要讲话</a></li>
+                                    <li><a href="http://news.xinhuanet.com/politics/2010-12/09/c_12864476.htm" target="_blank" mon="col=16&z=gaoceng&pn=4">贺国强海南考察：坚持在开发中保护、在保护中开发</a></li>
+                                    <li><a href="http://news.xinhuanet.com/lianzheng/2010-12/13/c_12874114.htm" target="_blank" mon="col=16&z=gaoceng&pn=5">感悟贺国强在海南调研强调实干</a></li>
+                                    <li><a href="http://news.ifeng.com/mainland/detail_2010_12/13/3477805_0.shtml" target="_blank" mon="col=16&z=gaoceng&pn=6">王岐山率团赴美出席商贸联委会会议 美盼中国派红包</a></li>
+                                    <li><a href="http://news.xinhuanet.com/video/2010-12/09/c_12864720.htm" target="_blank" mon="col=16&z=gaoceng&pn=7">贾庆林会见中国天主教代表会议代表</a></li>
+                                    <li><a href="http://finance.ifeng.com/news/special/zmsmlwh21/20101213/3048231.shtml" target="_blank" mon="col=16&z=gaoceng&pn=8">王岐山将出席第二十一届中美商贸联委会会议</a></li>
+                                </ul>
+                    <!--MONITOR CIVILNEWS_GCDT OK 8 HOTAREA-->   
+                            </dd>
+                        </dl>                
+                        <dl class="section_1">
+                            <dt>
+                                <div class="nav_main"><a href="/n?cmd=4&class=renmian&pn=1" target="_blank">人事任免</a></div>
+                                <div class="nav_aside"><a href="/n?cmd=4&class=renmian&pn=1" target="_blank">更多&gt;&gt;</a></div>
+                            </dt>
+                            <dd>
+                                <ul class="list list_2">
+                                    <li><a href="http://www.npc.gov.cn/npc/xinwen/dfrd/fujian/2010-12/13/content_1608542.htm" target="_blank" mon="col=17&z=renmian&pn=1">宁德市人民代表大会常务委员会免职的机关工作人..</a></li>
+                                    <li><a href="http://www.cb.com.cn/1634427/20101210/172940.html" target="_blank" mon="col=17&z=renmian&pn=2">苗圩接替李毅中担任工信部党组书记</a></li>
+                                    <li><a href="http://society.news.mop.com/gdxwzx/n2076058.shtml" target="_blank" mon="col=17&z=renmian&pn=3">工信部党组书记苗圩|苗圩简历|苗圩资料|苗圩图片</a></li>
+                                    <li><a href="http://hb.qq.com/a/20101210/001297.htm" target="_blank" mon="col=17&z=renmian&pn=4">苗圩接任工业和信息化部党组书记 李毅中卸任</a></li>
+                                    <li><a href="http://politics.people.com.cn/GB/14562/13443695.html" target="_blank" mon="col=17&z=renmian&pn=5">甘肃限制引咎辞职者再任职</a></li>
+                                </ul>
+                    <!--MONITOR CIVILNEWS_RSRM OK 5 HOTAREA-->   
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="row h_row">
+            <div class="row_nav">
+                <div class="row_nav_main">
+                    <h2><a href="/n?cmd=4&class=civilnews&pn=1" target="_blank">最新新闻</a></h2>
+                </div>
+                <div class="row_nav_aside"></div>
+                <div class="clear"></div>
+            </div>
+            <div class="row_cont">
+                <ul class="list rollnews">
+                    <li><a href="http://news.xinhuanet.com/politics/2010-12/13/c_12874589.htm" target="_blank" mon="col=18&pn=1">北京新停车收费方案开始公开征求社会意见</a><i>14:42</i></li>
+                    <li><a href="http://www.chinahighway.com/news/2010/462049.php" target="_blank" mon="col=18&pn=2">徐州：治超检测站召开安全教育学习会</a><i>14:42</i></li>
+                    <li><a href="http://www.chinaacc.com/new/184_900_201012/13li270189415.shtml" target="_blank" mon="col=18&pn=3">湖北茅箭区“十二五”注重民生改善</a><i>14:42</i></li>
+                    <li><a href="http://www.chinahighway.com/news/2010/462046.php" target="_blank" mon="col=18&pn=4">徐州：三环站与开发区市容市政执法局共谋新区发..</a><i>14:42</i></li>
+                    <li><a href="http://www.chinahighway.com/news/2010/462050.php" target="_blank" mon="col=18&pn=5">临海高等级公路射阳段开工建设</a><i>14:42</i></li>
+                    <li><a href="http://life.hf365.com/system/2010/12/13/010351629.shtml" target="_blank" mon="col=18&pn=6">香港明年2月将拍卖更多3G 4G频谱</a><i>14:41</i></li>
+                    <li><a href="http://house.ifeng.com/rollnews/detail_2010_12/13/3478366_0.shtml" target="_blank" mon="col=18&pn=7">通过验收 亦庄线月底开通</a><i>14:42</i></li>
+                    <li><a href="http://www.chinanews.com.cn/ga/2010/12-13/2718121.shtml" target="_blank" mon="col=18&pn=8">香港月底将发型一套五枚”香港灯塔“特别邮票</a><i>14:42</i></li>
+                    <li><a href="http://www.ce.cn/cysc/newmain/yc/jsxw/201012/13/t20101213_20591788.shtml" target="_blank" mon="col=18&pn=9">庆元旦 法门寺新年鸣钟祈福系列活动即将开启</a><i>14:41</i></li>
+                    <li><a href="http://www.chinaacc.com/new/184_900_201012/13li1477062158.shtml" target="_blank" mon="col=18&pn=10">湖北武当太极湖已完成投资10亿元</a><i>14:41</i></li>
+                </ul>
+                <ul class="list rollnews">
+                    <li><a href="http://honghe.yunnan.cn/html/2010-12/13/content_1438531.htm" target="_blank" mon="col=18&pn=11">中国地质科学院专家考察老厂分矿资源工作</a><i>14:41</i></li>
+                    <li><a href="http://news.xinmin.cn/rollnews/2010/12/13/8277767.html" target="_blank" mon="col=18&pn=12">徐州持续干旱百枚火箭弹待命发射</a><i>14:41</i></li>
+                    <li><a href="http://news.xinmin.cn/rollnews/2010/12/13/8277765.html" target="_blank" mon="col=18&pn=13">路畅金陵，夯实南京“门户城市”地位</a><i>14:41</i></li>
+                    <li><a href="http://news.xinmin.cn/rollnews/2010/12/13/8277763.html" target="_blank" mon="col=18&pn=14">徐州举办百人书《放鹤亭记》活动</a><i>14:41</i></li>
+                    <li><a href="http://news.xinmin.cn/rollnews/2010/12/13/8277770.html" target="_blank" mon="col=18&pn=15">邳州：精神文明建设工程给力发展</a><i>14:41</i></li>
+                    <li><a href="http://news.xinhuanet.com/world/2010-12/13/c_13647039.htm" target="_blank" mon="col=18&pn=16">柬埔寨首相洪森抵京访华</a><i>14:40</i></li>
+                    <li><a href="http://www.chinanews.com.cn/estate/2010/12-13/2718104.shtml" target="_blank" mon="col=18&pn=17">北京东二环、西二环将建地下隧道</a><i>14:40</i></li>
+                    <li><a href="http://www.chinapeace.org.cn/pabb/2010-12/13/c_13647044.htm" target="_blank" mon="col=18&pn=18">苏州：群众对涉黄涉赌信访明显减少</a><i>14:40</i></li>
+                    <li><a href="http://news.xinmin.cn/rollnews/2010/12/13/8277762.html" target="_blank" mon="col=18&pn=19">苏嘉全今回锅当民进党秘书长 称将改2012提名条例</a><i>14:40</i></li>
+                    <li><a href="http://www.tech-food.com/news/2010-12-13/n0462638.htm" target="_blank" mon="col=18&pn=20">中日签订备忘录 日本农产品扩大对华出口</a><i>14:39</i></li>
+                </ul>
+                    <!--MONITOR CIVILNEWS_ZXXW OK 20 HOTAREA-->   
+                <div class="clear"></div>
+                <p class="more"><a href="/n?cmd=4&class=civilnews&pn=1" target="_blank">更多国内新闻&gt;&gt;</a></p>
+            </div>
+        </div>
+    </div>
+<script> 
+document.write("<img src='http://news.baidu.com/mp/b.jpg?cmd=1&class=civilnews&cy=0&"+Math.random()+"' style='display:none;'>");
+document.write("<img id='cgif' src='http://c.baidu.com/c.gif?t=5&p=2&"+Math.random()+"' style='display:none'>");
+</script>
+    <!--ecombegin-->
+	<div id="rss">
+		<p><a href="/n?cmd=1&class=civilnews&tn=rss" target="_blank"><img src="http://www.baidu.com/search/img/rss.gif"></a><a href="/n?cmd=1&class=civilnews&tn=rss" target="_blank">RSS订阅<b>国内焦点</b>新闻</a></p>
+		<a href="http://www.baidu.com/search/rss.html#02" target="_blank" style="margin-left:46px;">→更多RSS订阅</a>
+	</div><!--ecomend-->
+ 
+<div id="ft" >
+<p>百度新闻搜索源于互联网新闻网站和频道，系自动分类排列，百度不刊登或转载任何完整的新闻内容</p>
+<font style="color:#7777CC;">&copy;2010 Baidu</font> <a href="http://www.baidu.com/duty/" class="cy">使用百度前必读</a> <a href="http://net.china.cn/chinese/index.htm" target=_blank><img src="http://gimg.baidu.com/img/net.gif"></a>&nbsp;<a href="http://www.bj.cyberpolice.cn/index.htm" target=_blank><img src="http://gimg.baidu.com/img/110.gif" alt="首都网络110报警服务"></a></div>
+</div>
+</body>
+</html>
+<script> 
+	if (navigator.cookieEnabled && !/sug?=0/.test(document.cookie)){document.write('<script src=resource/js/sug.js><'+'/script>')};
+	//window.onunload = function(){document.fbaidu.word.focus()};	
+</script>

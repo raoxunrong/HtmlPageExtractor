@@ -1,0 +1,1426 @@
+http://www.autohome.com.cn/news/
+ 
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta content="text/html; charset=gb2312" http-equiv="Content-Type" /><title>
+	新闻中心_汽车之家
+</title><link href="http://www.autohome.com.cn/css/ForcePic.css" rel="Stylesheet" type="text/css" />
+ 
+    <script language="javascript" src="http://www.autohome.com.cn/css/forcePic.js?1=2" type="text/javascript"></script>
+    
+    <link type="text/css" rel="Stylesheet" href="http://www.autohome.com.cn/Style/Style.css?1=2" />
+   <style>   
+/*10/03/29 友情链接*/
+.public_footer{width:958px; font-size:12px; margin-top:8px; border:1px solid #dfdfdf; background:#FFF; text-align:left; overflow:hidden}
+.public_footer .pub_nt{ line-height:30px; color:#5f5f5f }
+.public_footer .pub_nt a,.public_footer .pub_nt a:visited{color:#5f5f5f; text-decoration:none}
+.public_footer .pub_nt a:hover{color:#f00; text-decoration:none}
+.public_footer .pub_nt .pub_ntf { float:left; background:#F6F6F6; font-weight: bold; width:9%; text-align:center; margin:1px; display:inline; color:#000; }
+.public_footer .pub_nt .pub_ntr { float: right; width:90% }
+.clear{clear:both; height:0; overflow:hidden;}
+   </style>
+    <script type="text/javascript">
+    function change_act(v)
+    {
+       var oform=document.getElementById("soform");
+       if (!oform)return;
+       if (v==6)oform.action="http://so.autohome.com.cn/cgi-bin/dl";
+       else if (v==5)oform.action="http://so.autohome.com.cn/cgi-bin/frm";
+       else if (v==4)oform.action="http://so.autohome.com.cn/cgi-bin/is";
+       else if (v==3)oform.action="http://so.autohome.com.cn/cgi-bin/prc";
+       else if (v==2)oform.action="http://so.autohome.com.cn/cgi-bin/spec";
+       else oform.action="http://so.autohome.com.cn/cgi-bin/atc";
+    }
+    </script>
+</head>
+<body>
+    <div style="clear:both;margin:auto;text-align:center;">
+        <div id="ad_960_a"></div>
+    </div>
+    
+    <style> 
+h1,h2,h3,h4,h5,h6,dl,dt,dd,ul,li{
+	margin:0;
+	padding:0;
+}
+.auto_top_box{
+	margin:0 auto;
+	text-align:center;
+	width:960px;
+	height:120px;
+	font-size:12px;
+}
+ 
+.auto_top_0_new{
+	width:960px;
+	height:27px;
+	background:#d7e8ff;
+}
+ 
+.auto_top_title{
+	float:left;
+	width:188px;
+	border:1px solid #5793c9;
+	background:#003769;
+}
+.auto_top_title h3{
+	font-weight:normal;
+	height:19px;
+	padding-top:6px;
+}
+.auto_top_title h3 a,.auto_top_title h3 a:visited{
+	font-size:12px;
+	color:#FFF;
+	text-decoration:none;
+}
+.auto_top_title h3 a:hover{
+	color:#FFF;
+	text-decoration:none;
+}
+ 
+.auto_top_login{
+	float:left;
+	width:540px;
+	padding:2px 0 0 5px;
+}
+.iframeclass{
+	margin:0;
+	padding:0;
+	height:23px;
+	width:530px;
+}
+ 
+.auto_toolbar{
+	float:left;
+	padding:7px 5px 0 0;
+}
+.auto_toolbar a,.auto_toolbar a:visited{
+	color:#565656;
+	text-decoration:none;
+}
+.auto_toolbar a:hover{
+	color:#F00;
+	text-decoration:none;
+}
+.color_s{
+	color:#F00;
+}
+ 
+.auto_top_1{
+	border:1px solid #CDCDCD;
+	width:958px;
+	height:90px;
+}
+.auto_logo{
+	float:left;
+	border-right:1px solid #CDCDCD;
+}
+ 
+.auto_city{
+	float:left;
+	height:22px;
+	width:769px;
+	background:#4b9fbb;
+}
+.auto_city h4{
+	padding-top:5px;
+	font-weight:normal;
+	font-size:12px;
+	color:#FFF;
+	word-spacing:0.01em;
+	height:17px;
+}
+.auto_city h4 a,.auto_city h4 a:visited{
+	color:#FFF;
+	text-decoration:none;
+}
+.auto_city h4 a:hover{
+	color:#F00;
+	text-decoration:none;
+}
+.auto_car_nav{
+	float:left;
+	width:761px;
+	height:43px;
+	padding:3px 0 0 8px;
+        background-color:#fff; 
+}
+.auto_car_nav ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.auto_car_nav ul li{
+	float:left;
+	width:83px;
+	height:40px;
+	background:url(http://www.autohome.com.cn/images/c-bg.gif) right top no-repeat;
+}
+.auto_car_nav ul li.last_car_nav{
+	background:none;
+}
+.auto_car_nav ul li dl{
+	padding-top:1px;
+}
+.auto_car_nav ul li dl dt{
+	height:17px;
+	padding-top:2px;
+}
+.auto_car_nav ul li dl dt a,.auto_car_nav ul li dl dt a:visited{
+	color:#414141;
+	text-decoration:none;
+}
+.auto_car_nav ul li dl dt a:hover{
+	color:#F00;
+	text-decoration:none;
+}
+.auto_car_nav ul li dl dd{
+	height:23px;
+	margin:0 auto;
+}
+.auto_car_nav ul li dl dd a{
+	display:block;
+	height:23px;
+}
+.icon_1{
+	width:36px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) no-repeat;
+}
+ 
+.icon_2{
+	width:41px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) 0 -23px no-repeat;
+}
+ 
+.icon_3{
+	width:47px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) 0 -46px no-repeat;
+}
+.icon_4{
+	width:51px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) 0 -69px no-repeat;
+}
+.icon_5{
+	width:55px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) 0 -92px no-repeat;
+}
+.icon_6{
+	width:60px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) 0 -115px no-repeat;
+}
+.icon_7{
+	width:57px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) 0 -138px no-repeat;
+}
+.icon_8{
+	width:50px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) 0 -161px no-repeat;
+}
+.icon_9{
+	width:46px;
+	background:url(http://img.autohome.com.cn/news/index/indexgrade.gif) 0 -184px no-repeat;
+}
+ 
+.auto_car_nav2{
+	float:left;
+	width:769px;
+	background:#528ab5;
+	height:22px;
+}
+.auto_car_nav2 h3{
+	font-size:12px;
+	font-weight:normal;
+	color:#FFF;
+	padding-top:5px;
+	word-spacing:0.1em;
+}
+.auto_car_nav2 h3 a,.auto_car_nav2 h3 a:visited{
+	color:#FFF;
+	text-decoration:none;
+}
+.auto_car_nav2 h3 a:hover{
+	color:#F00;
+	text-decoration:none;
+}
+.auto{clear:both;width:960px; margin: auto; padding:0px; text-align:left;}
+.auto_end{clear:both;float:left; width:960px; height:23px; margin:10px 0px 0px 0px; padding:10px 0px 0px 0px; background-color:#00106B; color:#FFFFFF; text-align:center;}
+.auto_end a{color:#FFFFFF; text-decoration:none}
+.auto_end a:hover{color:#FFFFFF; text-decoration: underline}
+</style>
+<script>
+function areamoreover()
+{
+    document.getElementById("areamore").style.display='block';   
+}
+var temp;
+function areamoremove(obj)
+{    
+    if(obj==1)
+    {  
+       temp=setTimeout("document.getElementById('areamore').style.display='none'",1000);  
+    }
+    else
+    {
+        clearTimeout(temp);
+       document.getElementById("areamore").style.display='none';  
+    }   
+}
+    </script>
+<div class="auto_top_box">
+	<div class="auto_top_0_new">
+    	<div class="auto_top_title">
+        	<h3><a href="javascript:void(0);" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.autohome.com.cn/');return(false);">我的汽车网站，我的汽车之家</a></h3>
+        </div>
+        <div class="auto_top_login">
+        	<iframe class="iframeclass" id="hometoplogin" frameborder="0" scrolling="no" src="http://www.autohome.com.cn/tools/hometoplogin.html">
+			</iframe>
+        </div>
+        <div class="auto_toolbar">
+        	<span><a href="javascript:void(0)" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.autohome.com.cn/');return(false);">设为主页</a> <a href="http://www.autohome.com.cn/bug/default.aspx" target="_blank">内容纠错</a> <a href="http://hr.autohome.com.cn/front/index.aspx" target="_blank"><span class="color_s">招贤纳士</span></a> <a href="http://www.autohome.com.cn/topic/2009/09/wap/wap.aspx" target="_blank">手机选车</a></span>
+        </div>
+    </div>
+    <div class="auto_top_1">
+    	<div class="auto_logo"><a href="http://www.autohome.com.cn/"  target="_self"><img src="http://www.autohome.com.cn/images/log.gif" border="0" /></a></div>
+        <div class="auto_city">
+        	<h4>
+            	<a href="http://www.autohome.com.cn/beijing/" target="_blank">北京</a> 
+                <a href="http://www.autohome.com.cn/shanghai/" target="_blank">上海</a> 
+                <a href="http://www.autohome.com.cn/guangzhou/" target="_blank">广州</a> 
+                <a href="http://www.autohome.com.cn/shenzhen/" target="_blank">深圳</a> 
+                <a href="http://www.autohome.com.cn/changchun/" target="_blank">长春</a> 
+                <a href="http://www.autohome.com.cn/changsha/" target="_blank">长沙</a>
+                <a href="http://www.autohome.com.cn/chengdu/" target="_blank">成都</a>
+                <a href="http://www.autohome.com.cn/chongqing/" target="_blank">重庆</a>      
+                <a href="http://www.autohome.com.cn/fuzhou/" target="_blank">福州</a> 
+                <a href="http://www.autohome.com.cn/haerbin/" target="_blank">哈尔滨</a>
+                <a href="http://www.autohome.com.cn/hangzhou/" target="_blank">杭州</a>
+                <a href="http://www.autohome.com.cn/jinan/" target="_blank">济南</a>
+                <a href="http://www.autohome.com.cn/kunming/" target="_blank">昆明</a>
+                <a href="http://www.autohome.com.cn/nanjing/" target="_blank">南京</a>
+                <a href="http://www.autohome.com.cn/nanning/" target="_blank">南宁</a>
+                <a href="http://www.autohome.com.cn/shenyang/" target="_blank">沈阳</a> 
+                <a href="http://www.autohome.com.cn/shijiazhuang/" target="_blank">石家庄</a>
+                <a href="http://www.autohome.com.cn/suzhou/" target="_blank">苏州</a>
+                <a href="http://www.autohome.com.cn/tianjin/" target="_blank">天津</a>
+                <a href="http://www.autohome.com.cn/wuhan/" target="_blank">武汉</a> 
+                <a href="http://www.autohome.com.cn/xian/" target="_blank">西安</a>
+                <a href="http://www.autohome.com.cn/zhengzhou/" target="_blank">郑州</a>
+                <a href="http://www.autohome.com.cn/AreaList.html" target="_blank">302个城市>></a>
+           </h4>
+      </div>
+        <div class="auto_car_nav">
+        	<ul>
+            	<li>
+                	<dl>
+                   	  <dd class="icon_1"><a href="http://www.autohome.com.cn/a00/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/a00/" target="_blank">微型车</a></dt>
+                    </dl>
+                </li>
+                <li>
+                	<dl>
+                    	<dd class="icon_2"><a href="http://www.autohome.com.cn/a0/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/a0/" target="_blank">小型车</a></dt>
+                    </dl>
+                </li>
+                <li>
+                	<dl>
+                    	<dd class="icon_3"><a href="http://www.autohome.com.cn/a/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/a/" target="_blank">紧凑型车</a></dt>
+                    </dl>
+                </li>
+                <li>
+                	<dl>
+                    	<dd class="icon_4"><a href="http://www.autohome.com.cn/b/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/b/" target="_blank">中型车</a></dt>
+                    </dl>
+                </li>
+                <li>
+                	<dl>
+                    	<dd class="icon_5"><a href="http://www.autohome.com.cn/c/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/c/" target="_blank">中大型车</a></dt>
+                    </dl>
+                </li>
+                <li>
+                	<dl>
+                    	<dd class="icon_6"><a href="http://www.autohome.com.cn/d/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/d/" target="_blank">豪华车</a></dt>
+                    </dl>
+                </li>
+                <li>
+                	<dl>
+                    	<dd class="icon_7"><a href="http://www.autohome.com.cn/mpv/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/mpv/" target="_blank">MPV</a></dt>
+                    </dl>
+                </li>
+                <li>
+                	<dl>
+                    	<dd class="icon_8"><a href="http://www.autohome.com.cn/suv/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/suv/" target="_blank">SUV</a></dt>
+                    </dl>
+                </li>
+                <li class="last_car_nav">
+                	<dl>
+                    	<dd class="icon_9"><a href="http://www.autohome.com.cn/s/" target="_blank"></a></dd>
+                        <dt><a href="http://www.autohome.com.cn/s/" target="_blank">跑车</a></dt>
+                    </dl>
+                </li>
+            </ul>
+        </div>
+    <div class="auto_car_nav2">
+        	<h3>
+           	<a href="http://www.autohome.com.cn/" target="_self">首页</a> |
+                <a href="http://www.autohome.com.cn/news/" target="_blank">新闻</a>
+                <a href="http://www.autohome.com.cn/drive/" target="_blank">试驾</a>
+                <a href="http://www.autohome.com.cn/bestauto/" target="_blank">评测</a>
+                <a href="http://www.autohome.com.cn/advice/" target="_blank">导购</a>
+                <a href="http://v.autohome.com.cn/" target="_blank">视频</a>
+                <a href="http://www.autohome.com.cn/Industry/" target="_blank">行业</a> |
+                <a href="http://car.autohome.com.cn/" target="_blank">汽车报价</a>
+                <a href="http://car.autohome.com.cn/pic/index.html" target="_blank">汽车图片</a>
+                <a href="http://www.autohome.com.cn/compare/" target="_blank">车型对比</a>
+                <a href="http://www.autohome.com.cn/compare/series_pic_compare.aspx" target="_blank">图片对比</a> |
+                <a href="http://y.autohome.com.cn/jiyou.html" target="_blank">机油</a>
+                <a href="http://y.autohome.com.cn/luntai.html" target="_blank">轮胎</a>
+                <a href="http://2sc.autohome.com.cn/" target="_blank">二手车</a> |
+                <a href="http://www.pcpop.com/" target="_blank">泡泡网</a> |
+                <a href="http://club.autohome.com.cn/" target="_blank">论坛</a>
+                <a href="http://sou.autohome.com.cn/" target="_blank">搜索</a>
+                <a href="http://dealer.autohome.com.cn/" target="_blank">经销商</a>
+            </h3>
+        </div>
+    </div>
+</div>
+    <div style="clear:both;margin:auto;text-align:center;padding:2px 0px 2px 2px;">
+        <div id="ad_760_11"></div>
+    </div>
+    <div style="clear:both;margin:auto;text-align:center;padding:2px 0px 2px 2px;">
+        <div id="ad_760_12"></div>
+    </div>
+    <div style="clear:both;width:960px; margin: auto;text-align:left;">
+      
+      <div style=" float:left; width:960px; padding-top:2px;">
+      <div style="height:46px; width:960px;background:url('http://img.autohome.com.cn/news/newsheader.jpg') no-repeat;">
+         <div style="float:right;padding-right:60px; ">
+         <div style="float:left;margin-top:13px; font-weight:bold ; color:White; font-size:12px; padding-right:6px;"><a href="http://www.autohome.com.cn/list/c70-1.html" style="color:White; text-decoration:none;" target="_blank">国产新车</a> | </div>
+         <div style="float:left;margin-top:13px; font-weight:bold ; color:White; font-size:12px; padding-right:6px;"><a href="http://www.autohome.com.cn/list/c71-1.html" style="color:White; text-decoration:none;" target="_blank">进口新车</a> | </div>
+         <div style="float:left;margin-top:13px; font-weight:bold ; color:White; font-size:12px; padding-right:6px;"><a href="http://www.autohome.com.cn/list/c7-1.html" style="color:White; text-decoration:none;" target="_blank">行业动态</a> | </div>
+         <div style="float:left;margin-top:13px; font-weight:bold ; color:White; font-size:12px; padding-right:6px;"><a href="http://www.autohome.com.cn/list/c40-1.html" style="color:White; text-decoration:none;" target="_blank">八卦花边</a> | </div>
+         <div style="float:left;margin-top:13px; font-weight:bold ; color:White; font-size:12px; padding-right:6px;"><a href="http://www.autohome.com.cn/list/c66-1.html" style="color:White; text-decoration:none;" target="_blank">人物访谈</a></div>
+         </div>
+      </div>
+      </div>
+      
+     <div style=" float:left; width:762px;">
+       <div style=" height:252px;">
+        <div style=" float:left;">
+        
+                   <div style="clear:both;float:left; height:30px;color:#0F0CBF; text-align:left; overflow:hidden;width:380px;">
+                        <div style="float:left;width:370px;height:30px; padding:0px 0px 0px 6px; text-align:left;">
+                            <div id="ad_370_1"></div>
+                        </div>
+                    </div>
+                  
+                   <div style="clear:both;float:left; padding:4px 0px 5px 6px; height: 210px; width:370px;">
+                        <span id="focuspic">
+                            <div id="NewsPic"><a href='http://www.autohome.com.cn/news/201012/159727.html' title='明年亮相 奥迪发布全新R18 LMP1赛车' target=_blank style="visibility:visible;display:block;"><img class="Picture" src='http://img.autohome.com.cn/2010/12/13/x_a3f5_e6bffd58.jpg' alt='明年亮相 奥迪发布全新R18 LMP1赛车' /></a><a href='http://www.autohome.com.cn/news/201012/159521.html' title='本周改装车集锦第61期 1200马力保时捷' target=_blank style="visibility:hidden;display:none;"><img class="Picture" src='http://img.autohome.com.cn/2010/12/10/x_dac7_8fa5cb7c.jpg' alt='本周改装车集锦第61期 1200马力保时捷' /></a><a href='http://www.autohome.com.cn/news/201012/159321.html' title='458 Italia领衔 法拉利车展阵容预览' target=_blank style="visibility:hidden;display:none;"><img class="Picture" src='http://img.autohome.com.cn/2010/12/10/x_41de_b1ab43e4.jpg' alt='458 Italia领衔 法拉利车展阵容预览' /></a></div><div id="NewsPicTxt" style="width:370px;" ></div>
+                        </span>
+                        <script language="javascript">
+                           init();
+                        </script>
+                   </div>
+ 
+       </div>             
+       <div style=" float:right; ">
+              
+<style> 
+.auto_r1_1{font-size:16px; font-weight:bold; height:28px; padding-top:12px; width:374px; color:#d60000;text-align:center;}
+.auto_r1_1 a,.auto_r1_1 a:visited{color:#d60000; text-decoration:none;} /*红色字体链接样式*/
+.auto_r1_1 a:hover{color:#d60000; text-decoration:underline}
+.auto_r1_2{color:#6C6C6C; width:374px;text-align:center;}
+.w_color a,.w_color a:visited{color:#5f5f5f; text-decoration:none} /*灰色字体链接样式*/
+.w_color a:hover{color:#ff0000; text-decoration:none}
+ 
+ 
+dl,dd{margin:0; padding:0}
+.tnTop .tilte{font-size:16px; font-weight:bold; height:28px; padding-top:13px; text-align:center}
+.tnTop .tilte a,.tnTop .tilte a:visited{color:#d60000; text-decoration:none; font-weight:bold; font-size:16px}
+.tnTop .tilte a:hover{color:#d60000; text-decoration:underline}
+.tnTop .subtitle{font-size:12px;text-align:center;}
+.tnTop .subtitle a,.tnTop .subtitle a:visited{color:#5f5f5f; text-decoration:none; font-size:12px}
+.tnTop .subtitle a:hover{color:#f00; text-decoration:none}
+</style>
+ 
+<div class="top" style="width:375px; border:solid #BFC9E2 1px; height:250px;">
+<dl class="tnTop">
+<DD class=tilte><A href="http://www.autohome.com.cn/news/201012/159784.html" target=_blank>饕餮盛宴 广州车展豪华车/跑车预览</A> 
+<DD class=subtitle>[<A href="http://www.autohome.com.cn/news/201012/159383.html" target=_blank>现代汽车车展预览</A>][<A href="http://www.autohome.com.cn/news/201012/159178.html" target=_blank>瑞麒G5自动挡将上市</A>][<A href="http://www.autohome.com.cn/news/201012/159277.html" target=_blank>广汽吉奥正式成立</A>]</DD>
+</dl>
+<div style=" height:8px; padding-top:3px;">
+  <div style=" margin-left:15px; height:1px; background-color:#DFDFDF; width:340px; font-size:0px;"></div>
+</div>
+<div style=" padding:5px 0px 2px 0px;color:#000000; font-size:14px; " >
+<table style="width:100%;" cellpadding="0" cellspacing="0" >  
+            
+             <tr style="height:23px"><td style="padding-left:8px;">·<a title="牛人将保时捷改为布加迪" href="http://www.autohome.com.cn/news/201012/159908.html" target="_blank">牛人将保时捷改为布加迪</a></td>
+        
+          <td >·<a title="帕加尼推Zonda Absolute" href="http://www.autohome.com.cn/news/201012/159698.html" target="_blank">帕加尼推Zonda Absolute</a></td>
+               
+             <tr style="height:23px"><td style="padding-left:8px;">·<a title="新一期环保目录车型解析" href="http://www.autohome.com.cn/news/201012/159866.html" target="_blank">新一期环保目录车型解析</a></td>
+        
+          <td >·<a title="2010广州车展场馆分布图" href="http://www.autohome.com.cn/news/201012/159875.html" target="_blank">2010广州车展场馆分布图</a></td>
+               
+             <tr style="height:23px"><td style="padding-left:8px;">·<a title="全新一代MG7效果图曝光" href="http://www.autohome.com.cn/news/201012/159662.html" target="_blank">全新一代MG7效果图曝光</a></td>
+        
+          <td >·<a title="福特推出2012款野马302S" href="http://www.autohome.com.cn/news/201012/159790.html" target="_blank">福特推出2012款野马302S</a></td>
+               
+             <tr style="height:23px"><td style="padding-left:8px;">·<a title="奇瑞旗云E3轿车谍照曝光" href="http://www.autohome.com.cn/news/201012/159855.html" target="_blank">奇瑞旗云E3轿车谍照曝光</a></td>
+        
+          <td >·<a title="蒙迪欧致胜高性能版首曝" href="http://www.autohome.com.cn/news/201012/159844.html" target="_blank">蒙迪欧致胜高性能版首曝</a></td>
+               
+             <tr style="height:23px"><td style="padding-left:8px;">·<a title="揽胜Evoque将不推混动版" href="http://www.autohome.com.cn/news/201012/159838.html" target="_blank">揽胜Evoque将不推混动版</a></td>
+        
+          <td >·<a title="奇瑞旗云6谍照再次曝光" href="http://www.autohome.com.cn/news/201012/159823.html" target="_blank">奇瑞旗云6谍照再次曝光</a></td>
+               
+             <tr style="height:23px"><td style="padding-left:8px;">·<a title="曝奥迪新A4旅行车效果图" href="http://www.autohome.com.cn/news/201012/159812.html" target="_blank">曝奥迪新A4旅行车效果图</a></td>
+        
+          <td >·<a title="广州车展豪华/跑车预览" href="http://www.autohome.com.cn/news/201012/159784.html" target="_blank">广州车展豪华/跑车预览</a></td>
+               
+             <tr style="height:23px"><td style="padding-left:8px;">·<a title="捷豹将计划开发SUV车型" href="http://www.autohome.com.cn/news/201012/159730.html" target="_blank">捷豹将计划开发SUV车型</a></td>
+        
+          <td >·<a title="三菱将推出全新微型小车" href="http://www.autohome.com.cn/news/201012/159728.html" target="_blank">三菱将推出全新微型小车</a></td>
+                
+</table>  
+</div>
+</div>
+ 
+ 
+ 
+       </div>
+     </div>
+      <div style="height:4px;_font-size:0px;"></div>
+        <div class="auto" style="width:760px;">
+        <div id="ad_760_21"></div>
+        </div>
+      <div style="height:4px;_font-size:0px;"></div>
+      <div style="height: 452px;">
+            
+ 
+<div style="width:760px; border:solid #BFC9E2 1px; height: 450px;">
+   <div >
+    <div class="left"></div>
+    <div class="type"><div class="title"><a href="http://www.autohome.com.cn/list/c70-1.html" style="text-decoration:none;color:#17469e;" target="_blank" >国产新车</a></div></div>
+    <div class="right"></div>
+    <div class="center"><a href="http://www.autohome.com.cn/list/c70-1.html" class="more" target="_blank">更多</a></div>   
+   </div>
+   <div style=" clear:both; padding-left:5px;">
+       
+            <div class="picitem">
+               <div style="text-align:center;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159866.html"><img style="border: solid 1px #000000;" width="240px" height="180px" alt="新索纳塔/S60等 新一期环保目录曝光" src="http://img.autohome.com.cn/2010/12/13/y_2839_96f11ce9.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159866.html">新一期环保目录车型解析</a></div>
+            </div>
+        
+            <div class="picitem">
+               <div style="text-align:center;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159855.html"><img style="border: solid 1px #000000;" width="240px" height="180px" alt="上海车展或亮相 奇瑞旗云E3谍照曝光" src="http://img.autohome.com.cn/2010/12/13/y_3c90_339eee3b.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159855.html">奇瑞旗云E3轿车谍照曝光</a></div>
+            </div>
+        
+            <div class="picitem">
+               <div style="text-align:center;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159844.html"><img style="border: solid 1px #000000;" width="240px" height="180px" alt="或将推出 蒙迪欧致胜240马力车型首曝" src="http://img.autohome.com.cn/2010/12/13/y_39f2_d79b3ad2.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159844.html">蒙迪欧致胜高性能版首曝</a></div>
+            </div>
+          
+   </div>
+   <div style="height:1px; _font-size:0px; border-bottom:solid 1px #bfc9e2; clear:both; width:740px; margin-left:10px; padding-top:8px;"></div>
+   <div style=" clear:both; padding-left:20px; ">
+      <div style="float:left; width:370px; padding-top:15px;">
+          
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159866.html">新索纳塔/S60等 新一期环保目录曝光</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159855.html">上海车展或亮相 奇瑞旗云E3谍照曝光</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159823.html">明年将上市 奇瑞旗云6谍照再次曝光</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159660.html">增加运动版 奥迪A6L将推出小改款车型</a></span><span class="date">12月11日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159524.html">本周新闻汇总 两厢瑞纳/新POLO近期上市</a></span><span class="date">12月11日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159560.html">2013年引入 斯柯达Yeti官方确定国产</a></span><span class="date">12月10日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159449.html">近期或上市 威麟V8量产车型谍照曝光</a></span><span class="date">12月10日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159423.html">车型代号A16 奇瑞全新车型重伪装谍照</a></span><span class="date">12月10日</span>
+              </div> 
+              
+              
+                 </div>
+                 <div style="float:left; width:340px;padding-top:15px;">
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159387.html">预计7万元起 长安CX30三厢版车展上市</a></span><span class="date">12月10日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159383.html">两厢瑞纳首发上市 现代汽车车展预览</a></span><span class="date">12月10日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159309.html">配置升级 瑞麒G5纽博格林限量版将上市</a></span><span class="date">12月10日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159315.html">避开车展 新途安/POLO将于18日上市</a></span><span class="date">12月9日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159178.html">配置增加 瑞麒G5自动挡广州车展上市</a></span><span class="date">12月9日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159166.html">多款设计方案 曝长安美人鱼新版申报图</a></span><span class="date">12月9日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159133.html">广州车展亮相 上汽全新MG3实车照片曝光</a></span><span class="date">12月9日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159128.html">没有大变化 疑似改款三厢POLO谍照曝光</a></span><span class="date">12月9日</span>
+              </div> 
+                    
+      </div>
+   </div>
+</div>
+      </div>
+        
+          
+ 
+      
+      
+      <div style="height:8px;_font-size:0px; clear:both;"></div>
+      <div style="height:162px;">
+              
+    
+    <div  style="width:760px; border:solid #BFC9E2 1px; height:160px;">
+    <div >
+    <div class="left"></div>
+    <div class="type"><div class="title">即将上市</div></div>
+    <div class="rightnull"></div>
+    <div class="center"></div>
+    </div>
+    <div style="clear:both; padding-left:15px;">
+     
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/684/"><img alt="12月15日 福特锐界" src="http://img.autohome.com.cn/2010/11/27/z_21fd_7917b62d.jpg" style="border:solid 1px #000000;" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a style="text-decoration:none; font-size:12px;" target="_blank" href="http://www.autohome.com.cn/684/">12月15日 福特锐界</a></div>
+            </div>
+        
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/2192/"><img alt="12月17日 全球鹰GX2" src="http://img.autohome.com.cn/2010/11/30/z_2be9_728b8b2d.jpg" style="border:solid 1px #000000;" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a style="text-decoration:none; font-size:12px;" target="_blank" href="http://www.autohome.com.cn/2192/">12月17日 全球鹰GX2</a></div>
+            </div>
+        
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/145/"><img alt="12月18日 大众POLO" src="http://img.autohome.com.cn/2010/11/30/z_df74_2949dcf4.jpg" style="border:solid 1px #000000;" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a style="text-decoration:none; font-size:12px;" target="_blank" href="http://www.autohome.com.cn/145/">12月18日 大众POLO</a></div>
+            </div>
+        
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/724/"><img alt="12月19日 标致3008" src="http://img.autohome.com.cn/2010/11/27/z_3ba6_4865f666.jpg" style="border:solid 1px #000000;" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a style="text-decoration:none; font-size:12px;" target="_blank" href="http://www.autohome.com.cn/724/">12月19日 标致3008</a></div>
+            </div>
+        
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/65/"><img alt="12月20日 宝马520Li" src="http://img.autohome.com.cn/2010/12/8/z_df31_f8810ddc.jpg" style="border:solid 1px #000000;" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a style="text-decoration:none; font-size:12px;" target="_blank" href="http://www.autohome.com.cn/65/">12月20日 宝马520Li</a></div>
+            </div>
+          
+    </div>
+    </div>
+ 
+      </div>
+      
+        
+ 
+      
+      
+      <div style="height:8px;_font-size:0px;clear:both;"></div>
+       <div style="height:452px;">
+              
+ 
+<div style="width:760px; border:solid #BFC9E2 1px; height: 450px;">
+   <div >
+    <div class="left"></div>
+    <div class="type"><div class="title"><a href="http://www.autohome.com.cn/list/c71-1.html" style="text-decoration:none;color:#17469e;" target="_blank" >进口新车</a></div></div>
+    <div class="right"></div>
+    <div class="center"><a href="http://www.autohome.com.cn/list/c71-1.html" class="more" target="_blank">更多</a></div>   
+   </div>
+   <div style=" clear:both; padding-left:5px;">
+       
+            <div class="picitem">
+               <div style="text-align:center;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159698.html"><img style="border: solid 1px #000000;" width="240px" height="180px" alt="中国买家定制 帕加尼推Zonda Absolute" src="http://img.autohome.com.cn/2010/12/12/y_7c13_a53138b3.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159698.html">帕加尼推Zonda Absolute</a></div>
+            </div>
+        
+            <div class="picitem">
+               <div style="text-align:center;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159662.html"><img style="border: solid 1px #000000;" width="240px" height="180px" alt="借用新君威平台 全新MG7效果图曝光" src="http://img.autohome.com.cn/2010/12/11/y_0e94_d1a1a008.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159662.html">全新一代MG7效果图曝光</a></div>
+            </div>
+        
+            <div class="picitem">
+               <div style="text-align:center;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159790.html"><img style="border: solid 1px #000000;" width="240px" height="180px" alt="为赛道而生 福特推2012款野马BOSS 302S" src="http://img.autohome.com.cn/2010/12/12/y_29e0_3746fbbf.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:14px;" href="http://www.autohome.com.cn/news/201012/159790.html">福特推出2012款野马302S</a></div>
+            </div>
+          
+   </div>
+   <div style="height:1px; _font-size:0px; border-bottom:solid 1px #bfc9e2; clear:both; width:740px; margin-left:10px; padding-top:8px;"></div>
+   <div style=" clear:both; padding-left:20px; ">
+      <div style="float:left; width:370px; padding-top:15px;">
+          
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159698.html">中国买家定制 帕加尼推Zonda Absolute</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159662.html">借用新君威平台 全新MG7效果图曝光</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159838.html">价格压力 揽胜Evoque将不推出混动版</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159812.html">2012年亮相 奥迪新A4旅行版效果图曝光</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159784.html">饕餮盛宴 广州车展豪华车/跑车预览</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159730.html">SUV/旅行版 捷豹将推新车型丰富产品线</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159728.html">明年正式亮相 三菱将推出全新微型小车</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159727.html">明年亮相 奥迪发布全新R18 LMP1赛车</a></span><span class="date">12月13日</span>
+              </div> 
+              
+              
+                 </div>
+                 <div style="float:left; width:340px;padding-top:15px;">
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159708.html">2012年正式亮相 福特双门新车Capri曝光</a></span><span class="date">12月12日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159697.html">5.6秒破百 高尔夫R20 2012年美国上市</a></span><span class="date">12月12日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159694.html">采用四门设计 兰博基尼Estoque或将量产</a></span><span class="date">12月12日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159691.html">猜测不断 新一代马自达MX-5最新假想图</a></span><span class="date">12月12日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159661.html">与嘉年华同平台 福特B-MAX将亮相日内瓦</a></span><span class="date">12月11日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159656.html">国内首秀 揽胜Evoque中文名车展公布</a></span><span class="date">12月11日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159654.html">车展首发 保时捷将推911 Edition Style</a></span><span class="date">12月11日</span>
+              </div> 
+              
+              
+              <div class="bottomitem">
+			     <span class="bottomtitle" style=" width:285px;">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159647.html">最强越野MPV 大众Rocktan 4Motion发布</a></span><span class="date">12月11日</span>
+              </div> 
+                    
+      </div>
+   </div>
+</div>
+      </div>
+      
+       <div style="height:8px;_font-size:0px;clear:both;"></div>
+      <div style="height:197px;">
+                  
+  
+  <div class="carss" style="width:760px; border:solid #BFC9E2 1px;height:195px;">
+    <div >
+    <div class="left"></div>
+    <div class="type"><div class="title"><a href="http://www.autohome.com.cn/newbrand/" style="text-decoration:none;color:#17469e;" target="_blank" >上市新车</a></div></div>
+    <div class="right"></div>
+    <div class="center"><a href="http://www.autohome.com.cn/newbrand/" class="more" target="_blank">更多</a></div>   
+   </div>
+   <div style="clear:both; padding-left:15px;">
+      
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/news/201012/158921.html"><img style="border: solid 1px #000000;" alt="2011款C5售价17.69万起" src="http://img.autohome.com.cn/2010/12/8/z_a899_d0777f1c.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:12px;" href="http://www.autohome.com.cn/news/201012/158921.html">2011款C5售价17.69万起</a></div>
+               <div class="ssprice"><a href="http://car.autohome.com.cn/price/s792/" target="_blank" style=" color:Red; font-size:12px;text-decoration:none;">17.69-29.89万</a><br />[<a href="http://car.autohome.com.cn/pic/s792/" target="_blank" style="font-size:12px;text-decoration:none;">图片</a>][<a href="http://www.autohome.com.cn/792/options.html" target="_blank" style="font-size:12px;text-decoration:none;">配置</a>][<a href="http://club.autohome.com.cn/bbs/forum-c-792-1.html" target="_blank" style="font-size:12px;text-decoration:none;">论坛</a>]</div>
+               
+            </div>
+        
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/news/201012/158422.html"><img style="border: solid 1px #000000;" alt="骑士丝路限量纪念版上市" src="http://img.autohome.com.cn/2010/12/7/z_e74b_9bc3ea2b.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:12px;" href="http://www.autohome.com.cn/news/201012/158422.html">骑士丝路限量纪念版上市</a></div>
+               <div class="ssprice"><a href="http://car.autohome.com.cn/price/s823/" target="_blank" style=" color:Red; font-size:12px;text-decoration:none;">11.38-13.68万</a><br />[<a href="http://car.autohome.com.cn/pic/s823/" target="_blank" style="font-size:12px;text-decoration:none;">图片</a>][<a href="http://www.autohome.com.cn/823/options.html" target="_blank" style="font-size:12px;text-decoration:none;">配置</a>][<a href="http://club.autohome.com.cn/bbs/forum-c-823-1.html" target="_blank" style="font-size:12px;text-decoration:none;">论坛</a>]</div>
+               
+            </div>
+        
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/news/201012/158100.html"><img style="border: solid 1px #000000;" alt="江铃驭胜售价13.88万起" src="http://img.autohome.com.cn/2010/12/5/z_30f6_db9643f3.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:12px;" href="http://www.autohome.com.cn/news/201012/158100.html">江铃驭胜售价13.88万起</a></div>
+               <div class="ssprice"><a href="http://car.autohome.com.cn/price/s2228/" target="_blank" style=" color:Red; font-size:12px;text-decoration:none;">13.88-16.38万</a><br />[<a href="http://car.autohome.com.cn/pic/s2228/" target="_blank" style="font-size:12px;text-decoration:none;">图片</a>][<a href="http://www.autohome.com.cn/2228/options.html" target="_blank" style="font-size:12px;text-decoration:none;">配置</a>][<a href="http://club.autohome.com.cn/bbs/forum-c-2228-1.html" target="_blank" style="font-size:12px;text-decoration:none;">论坛</a>]</div>
+               
+            </div>
+        
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/news/201012/158048.html"><img style="border: solid 1px #000000;" alt="江淮悦悦售4.38万元起" src="http://img.autohome.com.cn/2010/11/30/z_96b3_e0573665.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:12px;" href="http://www.autohome.com.cn/news/201012/158048.html">江淮悦悦售4.38万元起</a></div>
+               <div class="ssprice"><a href="http://car.autohome.com.cn/price/s828/" target="_blank" style=" color:Red; font-size:12px;text-decoration:none;">4.38-5.68万</a><br />[<a href="http://car.autohome.com.cn/pic/s828/" target="_blank" style="font-size:12px;text-decoration:none;">图片</a>][<a href="http://www.autohome.com.cn/828/options.html" target="_blank" style="font-size:12px;text-decoration:none;">配置</a>][<a href="http://club.autohome.com.cn/bbs/forum-c-828-1.html" target="_blank" style="font-size:12px;text-decoration:none;">论坛</a>]</div>
+               
+            </div>
+        
+            <div class="jsitem">
+               <div><a  target="_blank" href="http://www.autohome.com.cn/news/201012/157043.html"><img style="border: solid 1px #000000;" alt="2011款S80L 36.8万起" src="http://img.autohome.com.cn/2010/12/1/z_40ff_dc1f83e6.jpg" /></a></div>
+               <div style="text-align:center;padding-top:5px;"><a target="_blank" style="text-decoration:none; font-size:12px;" href="http://www.autohome.com.cn/news/201012/157043.html">2011款S80L 36.8万起</a></div>
+               <div class="ssprice"><a href="http://car.autohome.com.cn/price/s693/" target="_blank" style=" color:Red; font-size:12px;text-decoration:none;">36.80-67.86万</a><br />[<a href="http://car.autohome.com.cn/pic/s693/" target="_blank" style="font-size:12px;text-decoration:none;">图片</a>][<a href="http://www.autohome.com.cn/693/options.html" target="_blank" style="font-size:12px;text-decoration:none;">配置</a>][<a href="http://club.autohome.com.cn/bbs/forum-c-693-1.html" target="_blank" style="font-size:12px;text-decoration:none;">论坛</a>]</div>
+               
+            </div>
+         
+   </div>
+  </div>
+             
+      </div>
+      
+      
+      <div style="height:8px;_font-size:0px;"></div>
+      <div style="height:227px;">
+        <div style=" float:left">
+              
+ 
+<div style="width:375px; border:solid #BFC9E2 1px;">
+    <div >
+    <div class="left"></div>
+    <div class="type"><div class="title"><a href="http://www.autohome.com.cn/list/c7-1.html" style="text-decoration:none;color:#17469e;" target="_blank" >行业动态</a></div></div>
+    <div class="right"></div>
+    <div class="center"><a href="http://www.autohome.com.cn/list/c7-1.html" class="more" target="_blank">更多</a></div>   
+   </div>
+   <div style=" padding-left:12px;">
+      <div style="padding-top:12px; padding-bottom:6px;">
+         
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159875.html">在家也能看车展 2010广州车展场馆图</a></span><span class="date">12月13日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159483.html">最高1万元 比亚迪汽车多款车型官方优惠</a></span><span class="date">12月10日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159416.html">在杭州建厂 东风裕隆公司将于14日成立</a></span><span class="date">12月10日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159313.html">汽车工业协会：11月全国汽车产销综述</a></span><span class="date">12月9日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159277.html">广汽吉奥汽车有限公司12月9日正式成立</a></span><span class="date">12月9日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159145.html">互用发动机 奔驰/雷诺-日产合作将深化</a></span><span class="date">12月9日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159112.html">或引入国内 西亚特将亮相明年上海车展</a></span><span class="date">12月9日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/158889.html">电动机入选 Ward公布2011年十佳发动机</a></span><span class="date">12月8日</span>
+            </div>
+           
+      </div>
+   </div>
+</div>
+        </div> 
+        <div style="float:right; ">
+              
+ 
+<div style="width:375px; border:solid #BFC9E2 1px;">
+    <div >
+    <div class="left"></div>
+    <div class="type"><div class="title"><a href="http://www.autohome.com.cn/list/c40-1.html" style="text-decoration:none;color:#17469e;" target="_blank" >八卦花边</a></div></div>
+    <div class="right"></div>
+    <div class="center"><a href="http://www.autohome.com.cn/list/c40-1.html" class="more" target="_blank">更多</a></div>   
+   </div>
+   <div style=" padding-left:12px;">
+      <div style="padding-top:12px; padding-bottom:6px;">
+         
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159908.html">外国牛人改保时捷Boxster为布加迪威航</a></span><span class="date">12月13日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159648.html">F1将从2013年起正式换用1.6T发动机</a></span><span class="date">12月11日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159521.html">本周改装车集锦第61期 1200马力保时捷</a></span><span class="date">12月11日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159638.html">阅读一周重点车型文章 品网友精彩评论</a></span><span class="date">12月11日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159522.html">2010年广州车展车模预览：东南汽车</a></span><span class="date">12月10日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/159158.html">BMW M传奇体验日 全国总决赛在上海收官</a></span><span class="date">12月9日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/158985.html">458 Italia/SLS AMG现身《变形金刚3》</a></span><span class="date">12月8日</span>
+            </div>
+           
+            <div class="bottomitem">
+			<span class="bottomtitle">·<a target="_blank"  href="http://www.autohome.com.cn/news/201012/158977.html">征战明年达喀尔 X-Raid推出新MINI赛车</a></span><span class="date">12月8日</span>
+            </div>
+           
+      </div>
+   </div>
+</div>
+        </div> 
+      </div>
+   </div>
+  
+  <div style=" float:right; width:190px;">
+ 
+    
+    <div style=" width:190px;">
+             
+ 
+<div style="width:190px; ">
+             <div style=" height:22px;">
+               <div class="rleft" ></div>
+               <div class="rright" ></div> 
+               <div style="padding-left:165px;"><div class="rfangdajing" style="width:24px; height:29px; position:absolute;">&nbsp;</div></div>
+               <div class="rcenter" ><div class="rtitle">搜索</div></div>               
+            </div>
+            
+            <div class="rbottom" style=" overflow:hidden; height:28px; padding-left:8px;">  
+                <form id="soform" name="soform" action="http://sou.autohome.com.cn/search.aspx" target="_blank">
+                <input type="text" id="q" name="q" value="" style="width: 120px;"/>               
+                <input type="submit" value="搜索"style="width: 37px"/>
+                </form>
+            </div>
+         </div>
+    </div>
+    <div style="height:8px;_font-size:0px;"></div>
+    <div style=" width:190px;">
+ 
+         <div style="border:solid #dfdfdf 1px;height:271px;text-align:center;" >
+	    <div style="center;padding-top:8px;">
+        	<div id="ad_164_1"></div>
+	    </div>
+             <div style="padding-top:8px;">
+               <div id="ad_164_2"></div>
+             </div>
+             <div style="padding-top:8px;">
+                <div id="ad_164_3"></div>
+             </div>
+         </div>
+         
+    </div>
+    
+    <div style="height:8px;_font-size:0px;"></div>
+  
+    <div >
+	  
+ 
+  <div style="width:190px;">
+    <div style=" height:22px;">
+        <div class="rleft" ></div>
+        <div class="rright" ></div>
+        <div class="rcenter" >
+		<div class="rtitle">
+			<a href="http://www.autohome.com.cn/list/c66-1.html"  style="text-decoration:none;color:black;" target="_blank" >人物访谈</a>
+		</div>
+	</div>  
+ 
+    </div>
+    <div style=" height:742px; background-color:#F5F5F5;border-bottom:solid #DFDFDF 1px; border-left:solid #DFDFDF 1px; border-right:solid #DFDFDF 1px;">  
+        <div style="padding-bottom:10px;">
+          
+            <div style="padding-top:10px;">
+               <div style="text-align:center;height:92px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201012/159684.html"><img style="border:solid 1px #000000;" alt="访鹏宇4S店总经理李秀和" src="http://img.autohome.com.cn/2010/12/11/z_5676_56c8f193.jpg" /></a></div>
+               <div style="text-align:center; padding-top:5px;height:15px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201012/159684.html">访鹏宇4S店总经理李秀和</a></div>
+            </div>
+           
+            <div style="padding-top:10px;">
+               <div style="text-align:center;height:92px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201012/159457.html"><img style="border:solid 1px #000000;" alt="专访宝马市场总监朱力威" src="http://img.autohome.com.cn/2010/12/10/z_98f8_089db054.jpg" /></a></div>
+               <div style="text-align:center; padding-top:5px;height:15px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201012/159457.html">专访宝马市场总监朱力威</a></div>
+            </div>
+           
+            <div style="padding-top:10px;">
+               <div style="text-align:center;height:92px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201012/157891.html"><img style="border:solid 1px #000000;" alt="专访一汽马自达于洪江！" src="http://img.autohome.com.cn/2010/12/3/z_75f7_6c5a2d00.jpg" /></a></div>
+               <div style="text-align:center; padding-top:5px;height:15px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201012/157891.html">专访一汽马自达于洪江！</a></div>
+            </div>
+           
+            <div style="padding-top:10px;">
+               <div style="text-align:center;height:92px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201012/157154.html"><img style="border:solid 1px #000000;" alt="专访大昌行总经理黄立新" src="http://img.autohome.com.cn/2010/12/1/z_59c9_eac5b22f.jpg" /></a></div>
+               <div style="text-align:center; padding-top:5px;height:15px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201012/157154.html">专访大昌行总经理黄立新</a></div>
+            </div>
+           
+            <div style="padding-top:10px;">
+               <div style="text-align:center;height:92px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201011/150311.html"><img style="border:solid 1px #000000;" alt="访标致汽车高层管理人员" src="http://img.autohome.com.cn/2010/11/1/z_2d63_2538ca5e.jpg" /></a></div>
+               <div style="text-align:center; padding-top:5px;height:15px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201011/150311.html">访标致汽车高层管理人员</a></div>
+            </div>
+           
+            <div style="padding-top:10px;">
+               <div style="text-align:center;height:92px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201010/149585.html"><img style="border:solid 1px #000000;" alt="访奇瑞汽车总经理马德骥" src="http://img.autohome.com.cn/2010/10/28/z_ac5b_a659df8d.jpg" /></a></div>
+               <div style="text-align:center; padding-top:5px;height:15px;"><a target="_blank" style="text-decoration:none;" href="http://www.autohome.com.cn/news/201010/149585.html">访奇瑞汽车总经理马德骥</a></div>
+            </div>
+            
+       </div>
+    </div>
+  </div>
+    </div>
+    
+ 
+    
+    <div style="height:8px;_font-size:0px;"></div>
+    
+    <div >
+          
+   
+    
+<div style="width:190px; ">
+     <div style=" height:22px;">
+        <div class="rleft" ></div>
+        <div class="rright" ></div>
+        <div class="rcenter" ><div class="rtitle">新闻点击排行</div></div>       
+    </div>
+    <div class="rbottom">
+        <div class="rcontentimg">
+            <a href="http://www.autohome.com.cn/news/201011/152919.html" title=" 周末改装车集锦第59期！" target="_blank">
+                <img  style="border:solid 1px black;"   title= 周末改装车集锦第59期！ alt="" src="http://img.autohome.com.cn/2010/11/11/z_b5e5_fdb87765.jpg" />
+            </a>
+         </div>
+        <div class="rcontent1">
+            <div class="rcontentNum rankNum1">
+            </div>
+            <div class="rcontentTitle">
+                <a href="http://www.autohome.com.cn/news/201011/152919.html" target="_blank" title=" 周末改装车集锦第59期！">
+                    周末改装车集锦第59期！
+                </a>
+            </div>
+        </div>
+        <div class="rcontentline">
+            <div class="rline">
+            </div>
+        </div>
+        
+        <div>
+            <div class="rcontentlist">
+                
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum2">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="新款国产奥迪Q5正式上市" href="http://www.autohome.com.cn/news/201011/155281.html">新款国产奥迪Q5正式上市
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum3">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="大众T系列车型历史简介" href="http://www.autohome.com.cn/news/201012/157631.html">大众T系列车型历史简介
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum4">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="奔驰A级上市售价23.8万" href="http://www.autohome.com.cn/news/201011/154629.html">奔驰A级上市售价23.8万
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum5">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="2011款沃尔沃S80L上市！" href="http://www.autohome.com.cn/news/201012/157043.html">2011款沃尔沃S80L上市！
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum6">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="新/2011款GL8 22.8万起" href="http://www.autohome.com.cn/news/201011/156410.html">新/2011款GL8 22.8万起
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum7">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="全新一代途锐公布售价！" href="http://www.autohome.com.cn/news/201011/156425.html">全新一代途锐公布售价！
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum8">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="英伦SC5-RV上市5.53万起" href="http://www.autohome.com.cn/news/201011/155921.html">英伦SC5-RV上市5.53万起
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum9">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="2011款东风雪铁龙C5上市" href="http://www.autohome.com.cn/news/201012/158921.html">2011款东风雪铁龙C5上市
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum10">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="奥迪新一代产品规划解读" href="http://www.autohome.com.cn/news/201011/154251.html">奥迪新一代产品规划解读
+                                </a>                            
+                            </div>
+                        </div>
+                    
+            </div>
+        </div>
+        <div style=" height: 6px;_font-size:0px;"></div>
+    </div>
+</div>
+ 
+    </div>
+    
+    <div style="height:8px;_font-size:0px;"></div>
+  
+    <div >
+          
+   
+    
+<div style="width:190px; ">
+     <div style=" height:22px;">
+        <div class="rleft" ></div>
+        <div class="rright" ></div>
+        <div class="rcenter" ><div class="rtitle">热点评论排行</div></div>       
+    </div>
+    <div class="rbottom">
+        <div class="rcontentimg">
+            <a href="http://www.autohome.com.cn/news/201012/158100.html" title=" 江铃驭胜售价13.88万起" target="_blank">
+                <img  style="border:solid 1px black;"   title= 江铃驭胜售价13.88万起 alt="" src="http://img.autohome.com.cn/2010/12/5/z_ba44_12052ec1.jpg" />
+            </a>
+         </div>
+        <div class="rcontent1">
+            <div class="rcontentNum rankNum1">
+            </div>
+            <div class="rcontentTitle">
+                <a href="http://www.autohome.com.cn/news/201012/158100.html" target="_blank" title=" 江铃驭胜售价13.88万起">
+                    江铃驭胜售价13.88万起
+                </a>
+            </div>
+        </div>
+        <div class="rcontentline">
+            <div class="rline">
+            </div>
+        </div>
+        
+        <div>
+            <div class="rcontentlist">
+                
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum2">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="江淮悦悦售价4.38万元起" href="http://www.autohome.com.cn/news/201012/158048.html">江淮悦悦售价4.38万元起
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum3">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="吉利帝豪EX7参展车曝光" href="http://www.autohome.com.cn/news/201012/157872.html">吉利帝豪EX7参展车曝光
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum4">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="全新一代途锐公布售价！" href="http://www.autohome.com.cn/news/201011/156425.html">全新一代途锐公布售价！
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum5">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="2011款沃尔沃S80L上市！" href="http://www.autohome.com.cn/news/201012/157043.html">2011款沃尔沃S80L上市！
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum6">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="新款国产奥迪Q5正式上市" href="http://www.autohome.com.cn/news/201011/155281.html">新款国产奥迪Q5正式上市
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum7">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="英伦SC5-RV上市5.53万起" href="http://www.autohome.com.cn/news/201011/155921.html">英伦SC5-RV上市5.53万起
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum8">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="全新一代奥迪A6官图曝光" href="http://www.autohome.com.cn/news/201012/157117.html">全新一代奥迪A6官图曝光
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum9">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="奔驰A级上市售价23.8万" href="http://www.autohome.com.cn/news/201011/154629.html">奔驰A级上市售价23.8万
+                                </a>                            
+                            </div>
+                        </div>
+                    
+                        <div class="rcontentitem">
+                            <div class="rcontentNum rankNum10">
+                            </div>
+                            <div class="rcontentTitle">
+                                <a target="_blank" title="现代MPV车型H-1辉翼上市" href="http://www.autohome.com.cn/news/201012/156682.html">现代MPV车型H-1辉翼上市
+                                </a>                            
+                            </div>
+                        </div>
+                    
+            </div>
+        </div>
+        <div style=" height: 6px;_font-size:0px;"></div>
+    </div>
+</div>
+ 
+    </div>
+    
+  
+  </div>
+ 
+  </div>
+  <div style="height:8px;clear:both;"></div>
+  <div class="public_footer" style="text-align: left; margin: auto; width: 960px; clear: both;">
+     <DIV class=pub_nt>
+        <DIV class=pub_ntf>友情链接：</DIV>
+        <DIV class=pub_ntr>
+        
+              <A target="_blank" href="http://www.carxoo.com/">车讯网</A> | 
+           
+              <A target="_blank" href="http://auto.enet.com.cn/">硅谷动力汽车</A> | 
+           
+              <A target="_blank" href="http://www.che310.com">车人网</A> | 
+           
+              <A target="_blank" href="http://auto.youth.cn/">中国青年网汽车</A> | 
+           
+              <A target="_blank" href="http://www.315che.com/pic/">汽车图库</A> | 
+           
+              <A target="_blank" href="http://www.jcauto.com.cn/">成龙汽车网</A> | 
+           
+              <A target="_blank" href="http://www.bowenwang.com.cn/">博闻网</A> | 
+           
+              <A target="_blank" href="http://www.carfan.cn">汽车爱好者网</A> | 
+           
+              <A target="_blank" href="http://news.ucar.cn/">二手车新闻</A> | 
+           
+              <A target="_blank" href="http://www.2345.com/car.htm">2345导航</A> | 
+           
+              <A target="_blank" href="http://car.bitauto.com/">汽车大全</A> | 
+           
+              <A target="_blank" href="http://industry.yidaba.com/dzdgdq/">一大把汽车</A> | 
+           
+              <A target="_blank" href="http://auto.shangdu.com">商都汽车</A> | 
+           
+              <A target="_blank" href="http://news.16888.com">深圳汽车新闻</A> | 
+           
+              <A target="_blank" href="http://www.3gcar.cc">3G汽车用品网</A> | 
+           
+              <A target="_blank" href="http://cheshi.carschina.com">车市</A> | 
+           
+              <A target="_blank" href="http://beijing.taotaocar.com/">北京二手车</A> | 
+           
+              <A target="_blank" href="http://www.0536qiche.com/">潍坊汽车在线</A> | 
+           
+              <A target="_blank" href="http://www.lscsw.cn/">乐山汽车网</A> | 
+           
+              <A target="_blank" href="http://www.0754cars.com/">潮汕汽车网</A> | 
+           
+              <A target="_blank" href="http://www.thmz.com">太湖汽车网</A> | 
+           
+              <A target="_blank" href="http://www.autov.com.cn">autov汽车网</A> | 
+           
+              <A target="_blank" href="http://www.jumayizhan.com">车马驿站</A> | 
+           
+              <A target="_blank" href="http://auto.poco.cn/">poco汽车网</A> | 
+           
+              <A target="_blank" href="http://www.jndfzt.com">江南专用汽车</A> | 
+           
+              <A target="_blank" href="http://www.mycar168.com/">深圳汽车大世界网</A> | 
+           
+              <A target="_blank" href="http://www.wxqcw.com/index.html">无锡汽车网</A> | 
+           
+              <A target="_blank" href="http://xian.qq.com/auto">腾讯大秦汽车</A> | 
+           
+              <A target="_blank" href="http://www.capia.com.cn">中国汽车门户网</A> | 
+           
+              <A target="_blank" href="http://www.szcw.cn">苏州车网</A> | 
+           
+        <A style="COLOR: rgb(2,87,174)" href="http://topic.pcpop.com/game2/link/index_3_2.html" target="_blank">点击申请</A></DIV>
+        <DIV class=clear></DIV>
+    </DIV>
+  </div>
+  
+  <style type="text/css"> 
+h1,h2,h3,h4,h5,h6,ol,dl,dt,dd,ul,li,form{ margin:0; padding:0; }
+.footer_960 p{margin:0; padding:0}
+ul{list-style:none}
+.clear{clear:both; height:0; overflow:hidden; }	/*
+ 
+清除浮动
+ 
+*/
+.foot_pic{ vertical-align:middle; }
+/*
+ 
+12号白色字体
+ 
+*/
+.font12White { color:#fff; font-size:12px; }
+.font12White a,.font12White a:visited{font-size:12px; color:#fff; text-decoration:none}
+.font12White a:hover{color:#f00; text-decoration:none}
+/*
+ 
+12号浅色字体
+ 
+*/
+.font12_foot{ color:#afcbff; font-size:12px; }
+.font12_foot a,.font12_foot a:visited{font-size:12px; color:#afcbff; text-decoration:none}
+.font12_foot a:hover{color:#f00; text-decoration:none}
+.footer_960{width:855px; margin:8px auto auto auto; font-size:12px; background:#003769; height:69px; padding:0 0 0 105px;clear:both;}
+.footer_960 ul li{float:left; text-align:left}
+.footer_960 ul li.txt{line-height:22px; padding-top:13px}
+.footer_960 ul li.pic{padding:10px 0 0 15px}
+</style>
+    
+<div style="clear:both;"></div>
+<div class="footer_960">
+	<ul>
+		<li class="txt">
+			<p class="font12White">汽车之家 版权所有 | <span class="font12_foot"><a target="_blank" href="http://www.autohome.com.cn/about/index.htm">关于我们</a></span> | <span class="font12_foot"><a target="_blank" href="http://www.autohome.com.cn/about/lianxi.htm">联系我们</a></span> | <span class="font12_foot"><a href="http://www.autohome.com.cn/about/xukezheng.html" target="_blank">信息网络传播视听节目许可证0110553号</a></span> | <span class="font12_foot"><a href="http://www.autohome.com.cn/about/shipinxuke.html" target="_blank">广播电视节目制作经营许可证（京）字第1125号</a></span></p>
+			<p class="font12White">北京市公安局海淀分局网监中心备案编号：1101081535 | <span class="font12_foot"><a target="_blank" href="http://www.autohome.com.cn/about/jingyingxuke.html">电信与信息服务业务经营许可证：京ICP证070240号</a></span></p>
+		</li>
+		<li class="pic"><a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200005"><img class="foot_pic" border="0" src="http://www.autohome.com.cn/biaoshi.GIF" alt="" /></a></li>
+	</ul>
+</div>
+  <script src='http://33.autohome.com.cn/js/6.js?temp=150317'></script>
+  <script type="text/javascript">BeginLoadAdvertise();</script>
+</body>
+</html>
+ 
+<script language="javascript"> 
+function PVSend(){document.getElementById('PageView').src='http://pv.autohome.com.cn/pv.ashx?Siteid=1&Categoryid=49&SubCategoryId=7&ref=' + escape(document.referrer) + '&scr=' + screen.width+'x'+screen.height + '&cur=' + escape(document.URL);}
+document.write('<iframe id="PageView" src="" style="display:none;"></iframe>');
+setTimeout('PVSend()',3000);
+</script>
+<script language="javacript" type="text/javascript" src="http://img.autohome.com.cn/pvpv0.js"></script>

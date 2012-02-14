@@ -1,0 +1,1000 @@
+http://huangyangtan.blog.sohu.com/163834293.html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<title>农民工培训成&#8220;唐僧肉&#8221;的生意经-黄羊滩-搜狐博客</title>
+<meta name="Keywords" content="博客,Blog,Blogger,搜狐,Sohu,网络日志 黄羊滩" />
+<meta name="description" content="黄羊滩 黄羊滩" />
+<meta name="robots" content="index,follow" />
+<script type="text/javascript">
+var JSPATH = {},
+HCP='http://js2.pp.sohu.com.cn/ppp/js/common_v_081016/',
+HMP='http://js4.pp.sohu.com.cn/ppp/js/module_v_100528/',
+HTP='http://js5.pp.sohu.com.cn/ppp/js/tool_v_090418/';
+JSPATH.util={common:HCP+'common.js',module:HMP,tool:HTP};
+
+var BLOG_SP = 'http://js3.pp.sohu.com.cn/ppp/blog/js_ppp_v_090323/';
+JSPATH.blog={_path:BLOG_SP};
+
+var TP = 'http://js2.pp.sohu.com.cn/ppp/group/toolbar_v_090827/';
+
+</script>
+
+<link href="http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/def/style.css" rel="stylesheet" type="text/css" />
+
+
+<link id="themeCss" href="http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/p1008/style.css" themeid="p1008" rel="stylesheet" type="text/css" />
+
+<style type="text/css" id="customTheme">
+#header{background-repeat: repeat-x;}
+#header-bak{background-image: url(http://1802.img.pp.sohu.com.cn/images/blog/2009/3/26/17/16/120ecf50724g214.jpg);}
+#header{height: 300px;}
+#header{background-position: left top;}
+#header{background-image: url(http://1802.img.pp.sohu.com.cn/images/blog/2009/3/26/17/16/120ecf50724g214.jpg);}
+
+</style>
+
+<script type="text/javascript">
+document.write('<link href="'+TP+'themes/p01/style.css" rel="stylesheet" type="text/css"/>');
+</script>
+<link rel="stylesheet" type="text/css" href="http://js3.pp.sohu.com.cn/ppp/blog/entry_v_100528/css/revoArticle.v.100811.css" /> 
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://huangyangtan.blog.sohu.com/rss" />
+
+</head>
+<body>
+<a name="top"></a>
+<script type="text/javascript">
+var _blog_base_url = 'http://huangyangtan.blog.sohu.com/';
+var _blog_base_path = 'http://huangyangtan.blog.sohu.com/';
+var _blog_domain='huangyangtan';
+var _ebi = 'e12602e792';
+var _ept = 'huangyangtan';
+var _xpt = 'aHVhbmd5YW5ndGFuQHNvaHUuY29t';
+</script>
+
+<script type="text/javascript">
+// 2007-12-25
+// Modify：springwang 2009-03-30
+var _w = {
+	c: ['您好', '欢迎', 'Hi～', 'Hello!', '欢迎到搜狐博客','淡定～淡定～','嘿咻嘿咻～', '海盗船长嘿咻嘿咻','粉红娘娘哎哎哎哎','乐呵乐呵得了', '相逢的人会再相逢', '努力构建和谐社会', '换个模板换个心情', '看看好友动态吧', '兰怕德', '爱护环境从我做起', '我是来打酱油的', '又被雷到了*o*', '彪悍的人生不解释'],
+	m: ['早上好', '天亮了', '新的一天', '小鸟在歌唱~', '记得吃早点', '又堵车了:(', '!o!要打起精神', '一起去晨练', '*_*天气热了', '注意防晒', 'Morning~', '不想上班@@', '早饭要吃好', '开开心心上班来', '走自己的路...', '少开一天车', 'omg！衣服又瘦了', '尾号还没轮换？'],
+	a: ['上午好', '好忙', '忙么？', '喝杯咖啡', '休息一下', '抓紧时间', '提高工作效率', '伸伸胳膊扭扭腰', '眼睛累了，眺望远方'],
+	n: ['中午好', '午饭时间', '×_×小睡一会', '∮听会儿音乐吧', '多吃青菜', '饭要七成饱', '午饭要吃饱', '还不去吃饭？', '休息，休息一会儿', '鱼香肉丝里没有鱼', '又晒黑了:(', '番茄原来是西红柿'],
+	p: ['下午好', '屋里好热～','屋里好冷～', '工作完成了？', '提高工作效率', '#_#有些困', '打起精神来', '多喝水', '洗把脸', '忙啊忙啊~', '还不发工资'],
+	d: ['傍晚好', '又堵车了:(', '还不下班？', '吃些什么？', '一会儿去买菜', '^O^今天我来做饭', '抓紧时间啦～', '晚饭要吃少', '没堵车:)', '不吃了，减肥~', '高高兴兴回家去', '走自己的路不打的', '回家家找妈妈', '难得不堵车～'],
+	e: ['晚上好', '吃些什么？', ')o(要控制饮食', '饭后吃个水果', '去散散步', '有人请客么？', '还在加班？', '陪她去看电影哦～', '晚上去跑步', '西瓜，自熟的', '各回各家找妈妈', '今晚去FB，嘿嘿～'],
+	l: ['夜里好', '还没睡？', '今夜星光灿烂～', '还在工作么？', '早睡早起身体好', '今天有何收获？', '给她发晚安短信吧～',  '洗洗睡吧~'],
+	w: ['凌晨好', '+_+好困啊', '通宵么？', '...zzZZ~~', '嘘～小声点', '不要睡太晚', '你在他乡还好吗', '几点了―_―', '睡吧，明天还上班', '你不是一个人在战斗', '长夜漫漫无心睡眠', '夜漫漫其修远兮~~', '醒醒～～醒醒～', '讲鬼故事喽~~'],
+	k: ['周末好', '好好休息一下', '去郊游吧～', '周末睡个懒觉', '给家里打个电话吧', '该出去晒太阳了', '约朋友去打球', '一起去健身吧', '伸个懒腰~', '好兴奋！', '没有人在线:(', '秋天适宜出游']
+};
+</script>
+
+<script type="text/javascript">
+/**
+ * 广告出现的几率，_p = 3 表示 10次平均有3次会出现广告
+ */
+var _p = 3;
+/**
+ * 不同时段的广告语
+ */
+var _a = {
+         // 常用广告语，每个时间段都可能出现
+         c: [],
+//
+        // 6 点到 9 点时段的广告语
+         m: [],
+//
+        // 9 点 到12 点 时段的广告语
+         a: [],
+//
+        // 12 点 到14 点 时段的广告语
+         n: [],
+//
+        // 14 点 到17 点 时段的广告语
+         p: [],
+//
+        // 17 点 到19 点 时段的广告语
+         d: [],
+//
+        // 19 点 到21 点 时段的广告语
+         e: [],
+//
+        // 21 点 到24 点 时段的广告语
+         l: [],
+//
+        // 0 点 到6 点 时段的广告语
+         w: [],
+//
+        // 周末时段的广告语
+         k: []
+//
+};
+</script>
+
+<div id="toolBar" class="toolBar clearfix" pdt="blog" sohu3="false">
+	<div id="innerToolBar" class="innerToolBar clearfix">
+                <div id="tb_logo" onmousedown="CA.q('toolbar_blogLogo');">
+                         <a style="margin:0" href="http://blog.sohu.com" title="搜狐博客" target="_blank"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/logotb.gif" alt="搜狐博客" /></a> 
+                </div>
+                <div id="tb_user" class="clearfix"><span class="txt">loading ...</span></div>
+				<div id="tb_nav" style="display:none;"></div>
+                <div id="tb_tool" style="display:none;"></div>
+                <div id="tb_sys">
+					<span id="logoutBtn" style="display:none;"><a href="javascript:ToolBar.doLogout();" onmousedown="CA.q('toolbar_logout');">离开</a>|</span>
+				<!--	<a href="http://blogsearch.sogou.com/" target="_blank" onmousedown="CA.q('toolbar_search');">搜索</a>| -->
+					<a href="http://blog.sohu.com/help.html" title="帮助" target="_blank" onmousedown="CA.q('toolbar_help');">帮助</a>
+					
+				</div>
+                <div id="tb_addon">
+        <script type="text/javascript">
+        var toolbarSysRec = [
+				
+                   {"tip" : {"title": "<FONT size=2>英语很烂请点这里</FONT>","url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201009&TargetID=sohu&Values=40c0a8f2,daece376,703121ba,e012a60c&AdID=10537"}},
+{"tip" : {"title": "<FONT size=2>英语很烂请点这里</FONT>","url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201009&TargetID=sohu&Values=40c0a8f2,daece376,703121ba,e012a60c&AdID=10537"}},
+
+                   
+];
+try {
+	if (toolbarSysRec) {
+		var len = toolbarSysRec.length;
+		if (!toolbarSysRec[len - 1]) {
+			len = len - 1;
+		}
+		var n = Math.floor(Math.random() * len);
+		var rd = toolbarSysRec[n];
+		document.write('<a href="'+ rd.tip.url + '" target="_blank" style="font-weight:bold;" onmousedown="CA.q(\'toolbar_tips\');">'
+						+ rd.tip.title + '</a>');
+	}
+} catch (err) {
+
+}       
+               
+        </script>
+        </div>
+        </div>
+</div>
+<div id="toolbarPadding"></div>
+
+<div id="_preLoadText" style="text-align:center;">loading...</div>
+
+<script type="text/javascript">
+var SP = BLOG_SP;
+var ThP = 'http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/';
+var WP = '/ppp/blog/widgets_v_101109/';
+var UWAP = 'http://js3.pp.sohu.com.cn/ppp/blog/widgets_v_080920/uwa_widget/';
+document.write('<scr'+'ipt type="text/javascript" src="'+ SP + 'sohublog.js"></scr'+'ipt>');
+var SL = [SP+'log.js', 'http://js2.pp.sohu.com.cn/ppp/blog/js_v_100326/pp18030_all.v.10051701.js', 'http://', HCP+'common.js', SP+'common.v.101109.js', HTP+'effect.js'];
+</script>
+<script type="text/javascript">
+//var noToolBar = true;
+lsl(SL);
+</script>
+<script type="text/javascript">
+if (isPPLogin() && (getPPP() != getP())) {
+	document.write('<scr'+'ipt src="http://blog.sohu.com/service/passport.jsp" type="text/javascript"></scr'+'ipt>');
+}
+</script>
+<script type="text/javascript">
+//toolbar 在setcookie后加载
+lsl([TP+'toolbar.v.101111.js']); 
+</script>
+<script type="text/javascript">
+if (typeof ToolBar != 'undefined') {
+	ToolBar.init();
+	/*if (isLoginBlogUser()) {
+		Starter.add(ToolBar.psptCardDefaultShow.bind(ToolBar));
+	}*/
+}
+</script>
+<div id="wrapper">
+	<div id="innerWrapper" >
+		
+<div id="topPadding"></div>
+<div id="header">
+  <div id="playerBox"><div id="innerPlayerBox"></div></div>
+  <div id="innerHeader">
+  
+	<div id="blogLogo"><a href="http://blog.sohu.com"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/spacer.gif" id="logo" alt="搜狐博客" /></a></div>
+	<h1 id="blogTitle"><a href="http://huangyangtan.blog.sohu.com/"  id="blogAdmin" onmousedown="CA.q('blog_header_title');">黄羊滩</a></h1>
+	<div id="blogUrl">
+		<!-- a href="http://huangyangtan.blog.sohu.com/">http://huangyangtan.blog.sohu.com/</a --> 
+        <a href="http://huangyangtan.blog.sohu.com/profile/" target="_blank" class="navUrl" title="查看黄羊滩的个人档案" onmousedown="CA.q('blog_header_profile');"><img  border ="0" src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_profile.gif" alt="档案" align="absmiddle" /></a><a href="http://huangyangtan.blog.sohu.com/profile/" target="_blank" class="navUrl" title="查看黄羊滩的个人档案" onmousedown="CA.q('blog_header_profile');">档案</a> 
+        <a href="http://t.sohu.com/people/!aHVhbmd5YW5ndGFuQHNvaHUuY29t" target="_blank" class="navUrl" title="查看黄羊滩的微博" onmousedown="CA.q('blog_header_mini');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_tblog.gif" alt="微博" align="absmiddle" border="0" /></a><a href="http://t.sohu.com/people/!aHVhbmd5YW5ndGFuQHNvaHUuY29t" target="_blank" class="navUrl" title="查看黄羊滩的微博" onmousedown="CA.q('blog_header_mini');">微博</a> 
+        <a href="http://huangyangtan.blog.sohu.com/entry/" target="_blank" class="navUrl" title="查看黄羊滩的日志" onmousedown="CA.q('blog_header_entry');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_entry.gif" alt="日志" align="absmiddle"  border="0"/></a><a href="http://huangyangtan.blog.sohu.com/entry/" target="_blank" class="navUrl" title="查看黄羊滩的日志" onmousedown="CA.q('blog_header_entry');">日志</a> 
+        <a href="http://huangyangtan.blog.sohu.com/album/" target="_blank" class="navUrl" title="查看黄羊滩的相册" onmousedown="CA.q('blog_header_photo');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_picture.gif" alt="相册" align="absmiddle" border="0" /></a><a href="http://huangyangtan.blog.sohu.com/album/" target="_blank" class="navUrl" title="查看黄羊滩的相册" onmousedown="CA.q('blog_header_photo');">相册</a> 
+        <a href="http://v.blog.sohu.com/people/aHVhbmd5YW5ndGFuQHNvaHUuY29t" target="_blank" class="navUrl" title="查看黄羊滩的视频" onmousedown="CA.q('blog_header_video');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_video.gif" alt="视频" align="absmiddle" border="0" /></a><a href="http://v.blog.sohu.com/people/aHVhbmd5YW5ndGFuQHNvaHUuY29t" target="_blank" class="navUrl" title="查看黄羊滩的视频" onmousedown="CA.q('blog_header_video');">视频</a> 
+        <a href="http://huangyangtan.blog.sohu.com/app/soShare/" target="_blank" class="navUrl" title="查看黄羊滩的分享" onmousedown="CA.q('blog_header_share');"><img src="http://js1.pp.sohu.com.cn/ppp/images/icons/ico_share2.gif" alt="分享" align="absmiddle"  border="0"/></a><a  href="http://huangyangtan.blog.sohu.com/app/soShare/" target="_blank" class="navUrl" title="查看黄羊滩的分享" onmousedown="CA.q('blog_header_share');">分享</a> 
+		<a href="http://huangyangtan.blog.sohu.com/rss" target="_blank" onmousedown="CA.q('blog_header_rss');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_rss.gif" alt="RSS订阅" align="absmiddle" /></a>
+		<a href="javascript:void(0)" name="onlineIcon" style="display:none" rel="" param="aHVhbmd5YW5ndGFuQHNvaHUuY29t;黄羊滩"></a>
+	</div>
+	<div id="blogDesc">黄羊滩</div>
+  </div>
+</div>
+<div id="navBar">
+  <div id="innerNavBar">
+		<ul id="mainNav">
+			<li><a href="http://huangyangtan.blog.sohu.com/#tp_e12602e792"><script type="text/javascript">document.write(getNavIco('', '首页'));</script><span>首页</span></a></li> 
+			<li><a href="http://huangyangtan.blog.sohu.com/#tp_c13ac8a012a"><script type="text/javascript">document.write(getNavIco('0', '新页面'));</script><span>新页面</span></a></li> 
+
+		</ul>
+	<ul id="optionNav">
+	  <li id="mngOpr"></li>
+	</ul>
+	<div class="clear"></div>
+  </div>
+</div>
+<div id="neckWrapper"><div id="innerNeckWrapper"></div></div>
+		<div id="mainWrapper">
+		<div id="innerMainWrapper" class="revolution">
+			<div id="articleContent">
+                <div id="articleInnerContent">
+                <div id="contentLabelBox" style="display:none">
+  					<div id="innerContentLabelBox" style="height:25px;">
+   						 <a href="http://blog.sohu.com">搜狐博客</a> 
+							&gt; <a href="http://huangyangtan.blog.sohu.com/">黄羊滩</a>
+							&gt; <a href="http://huangyangtan.blog.sohu.com/entry/">日志</a>
+    					
+  					</div>
+ 
+  					<div class="clear"></div>
+				</div>
+					
+					
+					
+
+
+
+<div id="contentLabelBox" style="display:none">
+  <div id="innerContentLabelBox" style="height:25px;" style="display:none">
+    <a href="http://blog.sohu.com">搜狐博客</a> 
+	&gt; <a href="http://huangyangtan.blog.sohu.com/">黄羊滩</a>
+	&gt; <a href="http://huangyangtan.blog.sohu.com/entry/">日志</a>
+    
+  </div>
+ 
+  <div class="clear"></div>
+</div>
+<div class="content-top"></div>
+<div 
+ 
+class="revoWarrper profileL"
+> 
+
+
+
+
+
+
+
+<div class="revoArtLeft">
+	<div class="mod" id="m_1"><div class="modFrame"><table cellspacing="0" cellpadding="0" class="modTable"><thead><tr>
+		<td class="mheader lt"></td>
+		<td class="mheader t">
+			<div class="modHeader clearfix">
+				<div class="modIco" style=""><img src="http://js1.pp.sohu.com.cn/ppp/blog/widgets_v_100427/profile/ico_widget.gif"></div>
+				<div class="modTitle">个人档案</div>
+			</div>
+		</td><td class="mheader rt"></td></tr></thead><tbody><tr style="display: none;"><td class="mneck l"></td><td class="mneck ec"><div class="modEditCon"></div></td><td class="mneck r"></td></tr><tr><td class="mbody l"></td><td class="mbody c"><div class="modCon profile-content"><div>
+    <div id="profile_photo" style="background:url(http://1822.img.pp.sohu.com.cn/images/blog/2008/5/6/22/17/11a62fd5830.jpg) no-repeat center center"; title="用户头像">
+    </div>
+    <div class="revoMyname"><a href ="http://huangyangtan.blog.sohu.com/" onmousedown="CA.q('blog_entry_profile_blogName');"><strong>黄羊滩</strong></a></div>
+    <div class="revoBtns">
+   
+    	<div >
+    <a onmousedown="CA.q('blog_entry_profile_viewProfile');" target="_blank" title="查看个人档案" href="http://huangyangtan.blog.sohu.com/profile/" class="i-myprofile">看档案</a>
+    <a onmousedown="CA.q('blog_entry_profile_addFriend');" title="将 黄羊滩 加为我的好友" onclick="if (isLogin()) {addToFav({sign:'entryProfile',obj:this});} else {this.href='http://blog.sohu.com/login/logon.do?bru='+encodeURIComponent(window.location.href);}" href="javascript:void(0);" class="i-addfriend" >加好友</a><br>
+    <a onmousedown="CA.q('blog_entry_profile_leaveMessage');" target="_blank" title="给他留言" href="http://huangyangtan.blog.sohu.com/message/" class="i-leavemsg">写留言</a>
+    <a onclick="pokeMe(true,_xpt)" blogico="http://512.img.pp.sohu.com.cn/images/blog/2010/3/25/23/14/12847e420f7g214.jpg" title="向他打招呼" href="javascript:void(0);" onmousedown="CA.q('blog_entry_profile_poke');" class="i-poke">打招呼</a><br />
+    	</div>
+    	
+     <a onmousedown="CA.q('blog_entry_profile_t');" href="http://t.sohu.com/people/!aHVhbmd5YW5ndGFuQHNvaHUuY29t" target="_blank" class="i-tblogs">查看博主的微博</a>
+    </div>
+    <div class="revoBtns03">
+    
+   
+    </div>
+    <style>
+    #sideBlogStat ul{margin:0;overflow:hidden;white-space:nowrap;list-style:none;padding:0;}
+    #sideBlogStat ul li{line-height:20px;}
+    </style>
+    <!-- <div class="revoBtns02" id="sideBlogStat">
+    数据加载中
+    </div> -->
+    
+    <div class="profile_list"></div>
+    <div class="profile_content"><div style="text-align: right; display: none;"><a onmousedown="CA.q('blog_widget_profile_editIntro');" target="_blank" href="http://blog.sohu.com/manage/setting.do">修改个性介绍</a></div>
+     
+    </div></div></div><div style="text-align: right; display: none;" class="modSuffix"><hr><a onmousedown="CA.a('widget_share_' + (isPPLogin() ? (isMyBlog() ? 'admin' : 'blogger') : 'guest'))" href="javascript:void(0);"><img align="absmiddle" src="http://js2.pp.sohu.com.cn/ppp/images/icons/ico_share.gif">推荐给好友</a></div></td><td class="mbody r"></td></tr></tbody><tfoot><tr><td class="mfooter lb"></td><td class="mfooter b"></td><td class="mfooter rb"></td></tr></tfoot></table></div>
+	</div>
+	<script>
+//showBlogStat(); 
+	</script>
+    
+    <!--模块二-->
+    
+    <div class="mod revoSelect" id="m_2">
+    <div class="revoSelInt"></div>
+  <div class="modFrame">
+    <table cellspacing="0" cellpadding="0" class="modTable">
+      <thead>
+        <tr>
+          <td class="mheader lt"></td>
+          <td class="mheader t">
+          <div class="modHeader clearfix">
+              <div class="modIco" style=""><img src="http://js3.pp.sohu.com.cn/ppp/blog/entry/i/1_22.gif"></div>
+              <div class="modTitle">博主被推荐文章</div>
+            </div>
+            </td>
+          <td class="mheader rt"></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="mbody l"></td>
+          <td class="mbody c">
+          	<div class="modCon profile-content">
+              <ul class="revoArticleLists" onmousedown="CA.q('blog_entry_recommend_list');">
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163834293.html">农民工培训成&#8220;唐僧肉&#8221;的生意经</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163689203.html">鹤岗矿难罚400万是一次&#8220;轻轻抚摸&#8221;</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163623226.html">乡村任教像充军只缘乡村太悲情</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163558216.html">&#8220;污染经适房&#8221;是底层人群权利贫困的样本</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163496404.html">&#8220;年终突击花钱&#8221;难祛，缘于公众监督缺乏</a><br /><a href="http://blog.sohu.com/">搜狐博客</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163428603.html">曹操墓考古屡起风波不该归咎媒体</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163286476.html">文物免于受损远比单位级别要紧</a><br /><a href="http://blog.sohu.com/pinglun/">搜狐博客</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163206335.html">农民工&#8220;被升职&#8221;质量总负责不是一个冷笑话</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163078426.html">花祭殇海之后，该是花一样新鲜的真相</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              	<li><a href="http://huangyangtan.blog.sohu.com/163015709.html">&#8220;腐败日记&#8221;发帖者是谁本来就不重要</a><br /><a href="http://blog.sohu.com/news/">搜狐传媒博客群</a> </li>
+              
+              </ul>
+              <div class="revoArticlrMore"><a href="http://huangyangtan.blog.sohu.com/entry/?recmd=1"  onmousedown="CA.q('blog_entry_recommend_list_more');">更多推荐文章&gt;&gt;</a></div>
+            </div>            </td>
+          <td class="mbody r"></td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td class="mfooter lb"></td>
+          <td class="mfooter b"></td>
+          <td class="mfooter rb"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>
+
+<!--模块三-->
+
+ 
+    
+ 
+<div class="mod" id="m_3">
+  <div class="modFrame">
+    <table cellspacing="0" cellpadding="0" class="modTable">
+      <thead>
+        <tr>
+          <td class="mheader lt"></td>
+          <td class="mheader t"><div class="modHeader clearfix">
+              <div class="modIco" style=""><img src="http://js3.pp.sohu.com.cn/ppp/blog/entry/i/1_29.gif"></div>
+              <div class="modTitle">博主最新文章</div>
+            </div></td>
+          <td class="mheader rt"></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="mbody l"></td>
+          <td class="mbody c">
+          	<div class="modCon profile-content">
+              <ul class="revoArticleLists"  onmousedown="CA.q('blog_entry_latest_list');">
+              
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/163141858.html">不能听任官员福祉和民众幸福越来越对立</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162903423.html">更应反思&#8220;武汉史上最大规模拆违建&#8221;</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162870410.html">富是富的理由，则穷只能是穷的原因</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162806399.html">保留进城农民宅基地，更要预留发展空间</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162777309.html">甘肃发改委的&#8220;选择性&#8221;顺应民意</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162742234.html">郴州限摩，草率禁令后面的真问题</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162692555.html">还是要记住春天里的那些悲伤</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162679522.html">车祸都能公款埋单，还是当公务员好</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162615726.html">清华学堂过火怎样才算不影响主体结构</a>
+                </li>
+                
+              	<li>
+                	<a href="http://huangyangtan.blog.sohu.com/162482756.html">叫停强制&#8220;撤村圈地&#8221;不能盲目乐观</a>
+                </li>
+                
+              </ul>
+              <div class="revoArticlrMore"><a href="http://huangyangtan.blog.sohu.com/entry/" onmousedown="CA.q('blog_entry_lastest_list_more');" target="_blank">更多文章&gt;&gt;</a></div>
+            </div>
+            </td>
+          <td class="mbody r"></td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td class="mfooter lb"></td>
+          <td class="mfooter b"></td>
+          <td class="mfooter rb"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>
+
+<!--模块四-->
+<div  onmousedown="CA.q('blog_entry_editor_list');">
+<div class=mod id=m_4>
+<div class=modFrame>
+<table class=modTable cellSpacing=0 cellPadding=0>
+<thead>
+<tr>
+<td class="mheader lt"></td>
+<td class="mheader t">
+<div class="modHeader clearfix">
+<div class=modTitle>推荐博文</div></div></td>
+<td class="mheader rt"></td></tr></thead>
+<tbody>
+<tr>
+<td class="mbody l"></td>
+<td class="mbody c">
+<div class="modCon profile-content">
+<div class=revoArticleCom>
+<div class=artComPhoto><a href="http://jiayingwang.blog.sohu.com/163715443.html" target=_blank><img height=56 alt=时装周后台名模花絮 src="http://i3.itc.cn/20101203/3ab_4eb8d8a7_f45a_4ae3_b78d_bff223d2edfd_0.jpg" width=88></a> <span><a href="http://jiayingwang.blog.sohu.com/163715443.html" target=_blank>时装周后台名模花絮</a></span></div>
+<div class=artComPhoto><a href="http://xsccmbtt.blog.sohu.com/163685227.html" target=_blank><img height=56 alt=实拍西藏帕里草原美景 src="http://i1.itc.cn/20101203/3ab_4eb8d8a7_f45a_4ae3_b78d_bff223d2edfd_1.jpg" width=88></a> <span><a href="http://xsccmbtt.blog.sohu.com/163685227.html" target=_blank>实拍西藏帕里草原美景</a></span> </div></div>
+<ul class=revoArticleLists>
+<li><a href="http://wuyuesanren.blog.sohu.com/163697284.html " target=_blank>最后流氓悲剧人生</a><br><a href="http://wuyuesanren.blog.sohu.com/ " target=_blank>五岳散人</a></li>
+
+<li><a href="http://vipxueyong.blog.sohu.com/163724419.html " target=_blank>美国议员在办公室里蜗居</a><br><a href="http://vipxueyong.blog.sohu.com/ " target=_blank>薛涌</a></li>
+
+<li><a href="http://cloud19731.blog.sohu.com/163689105.html " target=_blank>北京警方扫黄中一件怪事</a><br><a href="http://cloud19731.blog.sohu.com/" target=_blank>乐云</a></li>
+
+<li><a href="http://hanhaoyue.blog.sohu.com/163688518.html " target=_blank>“蛋形蜗居”该不该被拆</a><br><a href="http://hanhaoyue.blog.sohu.com/ " target=_blank>韩浩月</a></li>
+
+<li><a href="http://bianhongdeng.blog.sohu.com/163692669.html  " target=_blank>跨境抓错人赔偿谁买单</a><br><a href="http://bianhongdeng.blog.sohu.com/ " target=_blank>卞洪登</a></li>
+
+<li><a href="http://shishusi.blog.sohu.com/163680397.html " target=_blank>国企老总怎成“洗澡帝”</a><br><a href="http://shishusi.blog.sohu.com/ " target=_blank>石述思</a></li>
+</ul>
+
+<div class=revoArticlrMore><a href="http://blog.sohu.com/" target=_blank>更多相关文章&gt;&gt;</a></div></div></td>
+<td class="mbody r"></td></tr></tbody>
+<tfoot>
+<tr>
+<td class="mfooter lb"></td>
+<td class="mfooter b"></td>
+<td class="mfooter rb"></td></tr></tfoot></table></div></div>
+</div>
+<!--Ads模块-->
+<div  onmousedown="CA.q('blog_entry_left_ads');">
+<div align="center"><iframe width=160 height=260 marginwidth=0 marginheight=0 hspace=0 frameborder=0 scrolling=no bordercolor=#000000 src=http://images.sohu.com/bill/s2010/yuanma/taobao/201012/motianlou/20101203/1602601203.html></iframe></div>
+
+</div>
+</div>
+
+
+<div class="revoArtRight">
+	
+    <div class="mod">
+    <div class="modFrame">
+    <table cellspacing="0" cellpadding="0" class="modTable">
+     <thead>
+                <tr>
+                  <td class="mheader lt"></td>
+                  <td class="mheader t"><div class="modHeader clearfix">
+                      
+                      
+                     
+                      <div style="" class="modIco"><img src="http://js5.pp.sohu.com.cn/ppp/blog/widgets_v_100427/entries/ico_widget.gif"></div>
+                      <div class="modTitle">日志正文</div>
+                    </div></td>
+                  <td class="mheader rt"></td>
+                </tr>
+              </thead>
+               <tbody>
+                <tr style="display: none;">
+                  <td class="mneck l"></td>
+                  <td class="mneck ec"><div class="modEditCon"></div></td>
+                  <td class="mneck r"></td>
+                </tr>
+                <tr>
+                <td class="mbody l"></td>
+                  <td class="mbody c">
+                  <div class="modCon profile-content">
+<div class="item">
+  <div class="item-top"></div>
+  <div id="entry">
+    <div class="item-title">
+      <h3>农民工培训成&#8220;唐僧肉&#8221;的生意经
+        
+        <span style="position:absolute; height:0px; width:0px;"><img style="position:absolute; left:50px; top:-40px;" src="http://js.pp.sohu.com/ppp/blog/styles_ppp/images/stamp_jian.gif" alt="该日志已被收录" title="该日志已被收录" align="absmiddle" /></span>
+        
+      </h3>
+      
+      
+      <div class="item-label">
+
+      <span class="itemOpr"><a onmousedown="CA.q('blog_entryview_share_topright');" href="javascript:void(0);" entryTitle="农民工培训成&#8220;唐僧肉&#8221;的生意经" data-shareType="31" data-title="#{@entryTitle}" data-url="http://huangyangtan.blog.sohu.com/163834293.html" data-abstracts="#{#main-content@innerText<51}" data-ext="{v:'1',xpt:'#{$_xpt}'}" onclick="shareIt(this)" style="margin-right:10px;"><img src="http://js2.pp.sohu.com.cn/ppp/blog/styles_ppp/images/btn_share_s2.gif" alt="分享" title="分享" /></a></span><span id="itemId_163834293" class="itemOpr"></span>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="item-body">
+      
+      <div  class="item-title revoArtlabel"><span class="revoLeft">标签：
+        
+         <a href="http://tag.blog.sohu.com/%C5%E0%D1%B5/" target="_blank">培训</a>&nbsp;
+        
+         <a href="http://tag.blog.sohu.com/%C5%A9%C3%F1%B9%A4/" target="_blank">农民工</a>&nbsp;
+        
+         <a href="http://tag.blog.sohu.com/%D6%D8%C7%EC/" target="_blank">重庆</a>&nbsp;
+        
+         <a href="http://tag.blog.sohu.com/%C9%FA%D2%E2%BE%AD/" target="_blank">生意经</a>&nbsp;
+        
+         <a href="http://tag.blog.sohu.com/%C5%E0%D1%B5%D1%A7%D0%A3/" target="_blank">培训学校</a>&nbsp;
+        
+        </span>
+        
+        <span class="revoRight">2010-12-06 09:18</span></div>
+      
+      <div class="item-content" id="main-content"> <div style="line-height:160%;font-size:14px;"><p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;重庆检察机关日前挖出一条农民工培训&ldquo;贪腐利益链&rdquo;：为了捞到国家补贴，培训学校有的炮制&ldquo;空气考生&rdquo;，和厂家负责人分赃；有的在完全不具备办学条件的情况下胡乱培训，赚&ldquo;高额利润&rdquo;；有的以重金行贿&ldquo;买&rdquo;指标。农民工培训指标成了一些人眼中的&ldquo;唐僧肉&rdquo;。（新华网12月5日）</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;培训&ldquo;贪腐利益链&rdquo;加诸最为弱势的农民工身上，愈见其骇人听闻。公众不禁追问，培训学校为何能够成功炮制出&ldquo;空气考生&rdquo;？农民工培训指标为何成为可以流通的有价证券？一个国家的温情和善意为何会在部门的运作中失去监管而沦落为少数人赚钱的工具？</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从报道中可知，培训学校与劳动就业部门领导能够&ldquo;粘合&rdquo;在一起的关键，是每名农民工500元的培训补贴。这些机构一方面上下其手，争夺培训指标，另一方面采取欺瞒的办法，弄虚作假，虚构考生，以骗取培训费用。而主管部门的官员则装傻充愣，拿了好处后睁一眼闭一眼，让大量&ldquo;空气考生&rdquo;轻易过关。在这样的利益输送中，受到损害的只能是那些缺乏技能却没能受到培训的农民工。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;培训机构疯狂的逐利行为固然应该受到法律的严惩，但是，那些负有执行政策落实的劳动就业部门官员，责任显然要更重一些。某种程度上讲，农民工培训市场上的乱象，正是主管部门的监管不严、甚至主动放水造成的。这也不是什么失职的问题，而是典型的权力设租、权力寻租；当然也不是偶然失察的问题，而是劳动部门与培训机构同流合污骗取国家财政补贴的权钱交易。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这些年来，国家在提高劳动者技能和素质方面出台了很多政策，农民工培训就是其中很重要的一项政策，国务院办公厅在今年年初下发的《关于进一步做好农民工培训工作的指导意见》中明确规定，各地要加强对农民工培训资金的管理，防止出现冒领行为。然而，堂皇的规定一转眼就被扭曲为个别人、个别机构圈钱自肥的生意经，这样的行为让人气愤之余，更多的却是悲哀。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;农民工培训变成任人宰割的&ldquo;唐僧肉&rdquo;，也暴露出国家的利好政策普惠基层民众的艰难。这中间，往往需要跨过太多的人为障碍，往往需要主管部门强有力的监管和明晰的底线意识。然而，无论过程有多艰难，利益有多分殊，都应该坚定不移地走下去。因为，底层民众、广大的农民工嗷嗷待哺，迫切需要政策的阳光照临他们的头上。他们的肩膀已经很脆弱了，他们的机会已经很稀缺了，不应该再被割上一刀了。<br /></p></div>
+		
+<div id="miniAd" style="display:none;padding-top:20px"></div>
+      <script>
+      	function showMiniAd(){
+      		var vn = "tinfo";
+      		var dataURL = "http://t.sohu.com/third/user.jsp?passport="+window._xpt+"&vn="+vn;
+      		new LinkFile(dataURL, {
+				type: 'script',
+				noCache: false,
+				callBack: {
+					variable: vn,
+					onLoad: function(){
+						var data = eval("(" + vn + ")")
+						if(data != null && data.status == 1){
+							var userLink = data.url;
+							//var userLink = data.icon;
+							$('miniAd').innerHTML = "<font style='font-size:14px;font-weight:bold;color:#e30000;'>我正在玩搜狐微博，快来“关注”我，了解我的最新动态吧。</font><br/><a href='"+userLink+"' target='_blank' onmousedown=\"CA.q('tmini_entry_promotion');\">"+userLink+"</a>";
+							$('miniAd').show();
+						}
+					},
+					onFailure: function(){}
+			}});
+      	}
+      	showMiniAd();
+      	</script>
+		
+		<div >
+		<div class="shareToTblog" style="float:right"><a onmousedown="CA.q('blog_entryview_share_bottomright');" href="javascript:void(0);" entryTitle="农民工培训成&#8220;唐僧肉&#8221;的生意经" data-shareType="31" data-title="#{@entryTitle}" data-url="http://huangyangtan.blog.sohu.com/163834293.html" data-abstracts="#{#main-content@innerText<51}" data-ext="{v:'1',xpt:'#{$_xpt}'}"id="shareMenuButton1" onclick="shareTo('mini')">分享到搜狐微博</a></div>
+		</div>
+		
+		<div class="clear"></div>
+       <div class="pn_na">
+                   <div class="previous">
+                   
+                   <div class="previous_txt"></div>
+                   <div class="previous_txt">  </div>
+         </div>
+                   
+                   <div class="next">
+                   <div class="next_txt">下一篇：</div>
+                   <div class="next_txt"><a onmousedown="CA.q('blog_entryview_next');" href="http://huangyangtan.blog.sohu.com/163689203.html">鹤岗矿难罚400万是一次&#8220;轻轻抚摸&#8221; </a></div>
+                  
+                   <div class="next_r"></div>
+                   
+                   </div>
+         </div>
+     
+       <div class="clear"></div>
+      </div>
+      <div class="item-info">
+      <a onmousedown="CA.q('blog_entryview_share_bottom');" href="javascript:void(0);" entryTitle="农民工培训成&#8220;唐僧肉&#8221;的生意经" data-shareType="31" data-title="#{@entryTitle}" data-url="http://huangyangtan.blog.sohu.com/163834293.html" data-abstracts="#{#main-content@innerText<51}" data-ext="{v:'1',xpt:'#{$_xpt}'}" onclick="shareIt(this)"><img align="absmiddle" src="http://js2.pp.sohu.com.cn/ppp/images/icons/ico_share2.gif" alt="分享" title="分享" /> 分享</a>&nbsp;|&nbsp; 
+	  	评论&nbsp;(<span>10</span>)&nbsp;|&nbsp;
+		阅读&nbsp;(<span id="itemReadCount_163834293" class="itemReadCount">?</span>) &nbsp;|&nbsp;
+		<a href="#" onclick="Element.toggle('folder0_f'); return false;">固定链接</a>&nbsp;|&nbsp;
+        
+        发表于 09:18 
+		</div>
+      
+	  
+		  
+	      <div style="border:1px solid #ccc; padding:5px;background-color: #ffffe1;">该日志已被搜狐传媒博客群录用：<a href="http://blog.sohu.com/news/" target="_blank">http://blog.sohu.com/news/</a></div>
+	      
+    </div>
+
+    <div id="folder0_f" style="display:none;" class="item-infoBox"><span class="item-infoBoxTit"><strong>提示：</strong>“固定链接”为您显示此篇文章的固定不变链接，如果您有还有疑问<a href="/help.html">请点击帮助</a></span><br />
+      链接地址：<a target="_blank" href="http://huangyangtan.blog.sohu.com/163834293.html">http://huangyangtan.blog.sohu.com/163834293.html</a> <a href="javascript:var url=window.clipboardData.setData('text','http://huangyangtan.blog.sohu.com/163834293.html');alert('地址已保存到剪切板。');">复制此地址</a><br />
+    </div>
+  </div>
+  <div id="tagEntryList" style="display:none;"> </div>
+  
+  <div id="entrycommentlist"> <a name="comment"></a>
+    <div id="messageWrapper"></div>
+    <div class="item-title">
+      <h3>评论&nbsp;&nbsp;&nbsp;<img align="absmiddle" class="icon" src="http://js2.pp.sohu.com.cn/ppp/images/icons/ico_question.gif"/>&nbsp;&nbsp;<a href=" http://admin.blog.sohu.com/85634919.html" target=”_blank” style="font-weight: normal;"  onmousedown="CA.a('entry_commemt_first');">想第一时间抢沙发么？</a></h3>
+      <div class="clear"></div>
+    </div>
+    
+   <div style="color:#FF0000;BORDER-RIGHT: #ccc 3px solid; PADDING-RIGHT: 5px; BACKGROUND-POSITION: 7px 10px; BORDER-TOP: #ccc 3px solid; PADDING-LEFT: 24px; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; BORDER-LEFT: #ccc 3px solid; COLOR: #666; PADDING-TOP: 5px; BORDER-BOTTOM: #ccc 3px solid; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #ffffe1">
+<b>友情提示：</b>非http://www.sohu.com为域名的活动均不是搜狐公司组织的活动。如有任何问题，请您联系搜狐公司客服（联系方式请见搜狐网）。请广大用户提高警惕，增强防范意识，谨防上当受骗。
+<script language='JavaScript' type='text/javascript' src='http://images.sohu.com/cs/jsfile/js/lu.js'></script>
+</div>
+    
+    <div id="commentlist">
+      <div style="line-height:100px;">正在读取评论信息...</div>
+    </div>
+    <div class="item-info">
+      <div id="pageText"></div>
+    </div>
+    
+  </div>
+  <div id="tipBoxDiv"></div>
+  <script type="text/javascript">
+var entryId = '163834293';
+var blogId = '19968829';
+
+var pageTextContainer = $('pageText');
+var curPage = 1;
+var itemPerPage = 20;
+var startPage = 1;
+var totalCount = 10;
+var chagePageAction = 'chagePage';
+var jumpAnchor = false;
+var noCache = (location.href.indexOf('?') > 0);
+chagePage();
+
+Entries.insertItemOpr('view');
+Entries.insertItemReadCount('view');
+</script>
+  <a name="commenterror"></a>
+  <div id="errormsgWrapper"></div>
+  <div>
+    
+    
+      
+
+<a name="commentbox" id="commentbox"></a>
+<div class="info-content" id="commentForm">
+  <form name="commentForm" method="post" action="/page/comment.do" onsubmit="return checkCForm()">
+    <input type="hidden" name="entryId" value="163834293" />
+    
+    <input type="hidden" name="blogId" value="19968829" />
+    
+    <input type="hidden" name="parentId" id="parentId"/>
+    <table width="100%" border="0" cellspacing="2" cellpadding="0">
+	  <tr id="aNotice">
+	  	<td colspan="2" style="padding:10px 0;">您还未登录，只能匿名发表评论。或者您可以 <a href="http://blog.sohu.com/login/logon.do">登录</a> 后发表。</td>
+	  </tr>
+      <tr id="aNickname">
+        <td></td>
+        <td><input type="hidden" name="authorName" id="authorName" class="text" value="" size="30" /> <!-- span title="此项必须填写" style="cursor:help">*</span --></td>
+      </tr>
+	  <!-- for olympic -->
+	  <tbody style="display:none">
+      <tr id="aEmail">
+        <td><label for="authorEmail">邮　　箱:</label></td>
+        <td><input type="text" name="authorEmail" id="authorEmail" class="text" value="" size="30" /></td>
+      </tr>
+      <tr id="aSite">
+        <td><label for="authorSite">网站链接:</label></td>
+        <td><input type="text" name="authorSite" id="authorSite" class="text" value="" size="30" /></td>
+      </tr>
+      <tr id="aRemember">
+        <td>&nbsp;</td>
+        <td><label for="rememberme">
+          <input type="checkbox" name="rememberme" id="rememberme" />
+          记住我，下次匿名回复时不用重新输入个人信息</label></td>
+      </tr>
+	  </tbody>
+	  <tr>
+	  	<td>&nbsp;</td>
+		<td height="30" valign="bottom">
+		<!--<a href="http://www.sogou.com/pinyin/redirect.php?pid=27021101" target="_blank" style="margin-left: 10px;">*搜狗拼音输入法，中文处理专家&gt;&gt;</a>-->
+		<!--  a href="http://campus.chinaren.com/s2008/shurufa/index.shtml" target="_blank" style="margin-left: 10px;">*中国人爱国心，搜狗输入法爱国主题皮肤下载&gt;&gt;</a>  -->
+		<a target="_blank" href="http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201011&TargetID=sohu&Values=2f32cc8b,444185ab,2e161120,19265f9c&AdID=33754476">告别单身有绝招，包你找到意中人！</a>|<a target="_blank" href="http://my.tv.sohu.com/u/vw/5059953">超强震撼！宿舍楼大战泡泡龙</a>
+
+		</td>
+	  </tr>
+      <tr>
+        <td valign="top" style="width: 65px;"><label for="commentContent">评论内容:</label></td>
+        <td><textarea id="commentContent" name="commentContent" class="text" style="width:330px;height:140px;float:left;" onfocus="showC_code()"></textarea><div class="comment_bigbutton" style="float:left;margin:2px 0 0 10px;width:160px;height:140px;"><script src="http://www.sohu.com/sohuflash_1.js" type=text/javascript></script>
+<div id=3396d4ccb03f1eb3e241492254f99071></div>
+<script type="text/javascript" >
+var sohuFlash2 = new sohuFlash
+("http://images.sohu.com/bill/s2010/ranzhang/lef/1203/160140.swf","_3396d4ccb03f1eb3e241492254f99071","160","140","7");
+sohuFlash2.addParam("quality", "high");
+sohuFlash2.addParam("wmode", "opaque");
+sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-
+plus.cn/event.ng/Type=click&FlightID=201011&TargetID=sohu&Values=3396d4cc,b03f1eb3,e2414922,54f99071&AdID=32754977"));
+sohuFlash2.write("3396d4ccb03f1eb3e241492254f99071");
+if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image();
+_a.src='http://alpha.brand.sogou.com/brand_pv?md5=3396d4ccb03f1eb3e241492254f99071';document.pv.push(_a);
+_b.src='http://imp.ad-plus.cn/201011/3396d4ccb03f1eb3e241492254f99071.php?a=99';document.pv.push(_b);
+</script>
+</div></td>
+      </tr>
+	  <tr>
+        <td valign="top">表　　情:</td>
+        <td>
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="'+ HMP + 'emote.js"></scr'+'ipt>');
+</script>
+<div id="emotionBox">
+加载中...
+</div>
+<script type="text/javascript">
+var commentContentEl = null;
+function addEmote(ubb) {
+	if (!commentContentEl) commentContentEl = $('commentContent');
+	commentContentEl.value += ' ' + ubb; 
+	commentContentEl.focus();
+}
+Emote.init({parent: 'emotionBox', callback: addEmote, stat: 'reply'});
+</script>
+        </td>
+	  </tr>
+      <tr style="display:none;">
+        <td class="redfont">回复通知:</td>
+        <td><input type="checkbox" id="notifyEle" name="notify" checked="checked" value="true" />同时用小纸条通知对方该回复<span id="notifyLoginTip"></span></td>
+      </tr>
+      <tr>
+        <td class="redfont" id="c_codeTextBox"></td>
+        <td id="c_codeInputBox"></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>
+        <input type="hidden" name="m" value="save" />
+    	<input type="submit" id="commentSubmit" name="submit" value="发 表" class="button-submit" />
+		 </td>
+      </tr>
+    </table>
+  </form>
+</div>
+
+<script type="text/javascript">
+var commentPermission = '2';
+setCPShow();
+// for olympic
+if($('authorSite')){
+	$('authorSite').value = 'http://blog.sohu.com';
+}
+if($('commentContent')){
+	if (haveValue(getCookie('cc'))){
+		$('commentContent').value = unescape(getCookie('cc'));
+		setCookie('cc', '', '', '/', 'blog.sohu.com');
+	}
+}
+
+initCForm();
+
+//if($('emotionBox')){
+//        $('emotionBox').innerHTML = Emotion.getEmotionIcons();
+//        setCmtEmoEvent();
+//}
+</script>
+    
+    
+  </div>
+  <div class="item-bottom"></div>
+</div>
+</div>
+</td>
+ <td class="mbody r"></td>
+</tr>
+</tbody>
+ <tfoot>
+        <tr>
+          <td class="mfooter lb"></td>
+          <td class="mfooter b"></td>
+          <td class="mfooter rb"></td>
+        </tr>
+</tfoot>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="content-bottom"></div>
+<script type="text/javascript">
+// load correlative entry
+var tags = '';
+
+tags = '培训 农民工 重庆 生意经 培训学校';
+
+// getEntries: function(element, etags, inNum, outNum, by(system/person))
+//CorEntry.getEntries($('tagEntryList'), tags, 1, 10, 'person');
+// load correlative entry end
+</script>
+
+<link type="text/css" rel="stylesheet" href="http://zt.blog.sohu.com/upload/cj09081817/blog_w.css">
+ <style>
+ *html .fixed-bottom {position:absolute;bottom:auto;top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-parseInt(this.currentStyle.bottom)));}
+ 
+ #popup{
+ position:fixed;
+ _position:absolute;
+ display:none;
+ }
+ </style>
+<div id=popup>
+ <div class=b_w>
+ <div class=bar>
+ <div class=bar01><img alt=博客推荐 src="http://zt.blog.sohu.com/upload/cj09081817/images/bt_01.gif"></div>
+ <div class=bar02><a onmousedown="CA.q('popup_close')" href="javascript:void(0)"><img id=closepopup src="http://zt.blog.sohu.com/upload/cj09081817/images/b_x.gif"></a></div></div>
+ <div class=content_1>
+ <div class=content_2 onmousedown="CA.q('popup_tu')"><a href="http://pp.sohu.com/" target=_blank><img alt=街拍台湾槟榔西施 src="http://i1.itc.cn/20101206/3ab_e9b9eb0f_fa19_4472_ae38_b148af30b56c_0.jpg"></a><br><a href="http://pp.sohu.com/" target=_blank>街拍台湾"槟榔西施"</a></div>
+ <div class=content_3>
+ <p><a onmousedown="CA.q('popup_toutiao')" href="http://blog.sohu.com/" target=_blank>四川道孚草原火灾致22人亡</a></p>
+ <ul onmousedown="CA.q('popup_list1')">
+ <li>·<a href="http://luozhongxustar.blog.sohu.com/163798586.html" target=_blank>罗中旭：火灾中如何逃生</a></li>
+ 
+ <li>·<a href="http://lvqiuluwei.blog.sohu.com/163808519.html" target=_blank>闾丘露薇：网民为何烦周立波</a></li>
+ 
+ <li>·<a href="http://wencaifeng.blog.sohu.com/163791275.html" target=_blank>文裁缝：古代女子选美标准</a></li>
+ 
+ <li>·<a href="http://i.sohu.com/hot/?lk=37485#local" target=_blank>“情色”西江恐怖实拍(图)</a></li>
+ </ul>
+ </div></div>
+ <div class=content_4>
+ <ul onmousedown="CA.q('popup_list2')">
+ <li>·<a href="http://dayashan.blog.sohu.com/163683772.html" target=_blank>副局长坐拥29套房(图)</a> <a href="http://newsliugang.blog.sohu.com/163687305.html" target=_blank>陕西干部送花圈禁超1米</a></li>
+ 
+ <li>·<a href="http://tongkuai.blog.sohu.com/163660204.html" target=_blank>假市长涉黑五年身家千万</a> <a href="http://cn555888.blog.sohu.com/163656144.html" target=_blank>奥迪轿车自燃现场(图)</a></li>
+ 
+ <li></li>
+ </ul>
+ </div></div></div><!-- popup ad end --><script type="text/javascript" src="http://js2.pp.sohu.com.cn/ppp/bms/bms.popup.v.5.js"></script>
+ <script>
+ var popupAd = new bms.popup();
+ popupAd.init('popup','closepopup',false,120,function(){CA.q('popup_show')});
+ setTimeout(popupAd.popupAd,2000);
+ 
+ //window.onload=function(){setTimeout(popupAd.popupAd,500)};
+ </script>
+
+                </div>
+            </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+		
+<div id="footer">
+  <div id="innerFooter">
+	<div id="powered"><a href="http://blog.sohu.com" target="_blank" title="搜狐博客提供技术支持"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/logo_powered.gif" alt="搜狐博客提供技术支持" /></a></div>
+	<div id="contact"><a href="http://q.sohu.com/forum/21" target="_blank">客服留言板</a> | <a href="http://sohucallcenter.blog.sohu.com/" target="_blank">客服博客</a> | <a href="mailto:sohublog@sohu-inc.com">客服邮箱</a> | 24小时客服热线:010-58511234(人工8:00-24:00) | <a href="http://me.sohu.com/online_service.jsp?pid=5" target="_blank">在线客服<img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_onlineservice.gif" alt="在线客服" /></a>
+<script type="text/javascript">
+function writeReport() {
+	if (typeof entryId == 'undefined' || !entryId) return;
+	var url = 'http://act.blog.sohu.com/plus/impeach.jsp?rp='+escape(location.href)+'&p='+escape(getP());
+	var str = '';
+	str += ' | <a href="'+ url +'" target="_blank">举报不良信息</a>';
+	document.write(str);
+}
+writeReport();
+</script>
+	</div>
+	<div id="copyright">Copyright &copy; 2010 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有 </div>
+  </div>
+</div>
+<script type="text/javascript">document.write('<scr'+'ipt type="text/javascript" src="http://js.sohu.com/pv.js" type="text/javascript"></scr'+'ipt>');</script>
+
+
+<!-- sohu im -->
+<script type="text/javascript">
+SohuIM.setCandleMenParam();
+document.write('<scr'+'ipt type="text/javascript" src="http://images.sohu.com/cs/sohuim/xiaozt/version/2.0/js/loader.sohu.js"></scr'+'ipt>');
+</script>
+<!-- sohu im end -->
+<script language="javascript">
+var  _wratingId = '860010-0601020100';
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://js.sohu.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<script type="text/ecmascript">
+function checkLogonUserCount() {
+	if (getCookie('lastdomain') && getCookie('lastdomain') != '') {
+		var _lastdomain = getCookie('lastdomain').split('|')[1];
+		if (_lastdomain) {
+			var _url = 'http://bgt.blog.sohu.com/blogping.gif?sohupp='+ _lastdomain;
+			_url += '&refer='+ escape(document.referrer);
+			_url += '&c='+ timeStamp();
+			if (isLogin()) {
+				_url += '&logon='+ getXP();
+			}
+			document.write('<img src="'+ _url +'" />');
+		}
+	}
+}
+checkLogonUserCount();
+</script>
+
+	</div>
+</div>
+<img src="http://js.pp.sohu.com/ppp/blog/styles/images/spacer.gif" style="display:none" id="spacerImg" />
+<script type="text/javascript">
+Starter.start();
+</script>
+
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="'+SP+'counter.js"></scr'+'ipt>');
+</script>
+
+
+<script type="text/javascript">
+if($('errormsgWrapper')){
+	var err = Info.readInfo(true);
+	if(err){
+		var str = '<div id="errormsg" style="background-color: #ffffe1; border: 2px solid #ccc; color: red; padding: 10px; padding-left: 30px; margin: 20px; background-image:url(http://js.pp.sohu.com/ppp/blog/styles/images/ico_error.gif); background-position: 7px 10px; background-repeat: no-repeat;">';
+		str += err;
+		str += '</div>';
+		$('errormsgWrapper').innerHTML = str;
+		try{flashErr('errormsg');}catch(e){}
+	}
+}
+if($('messageWrapper')){
+	var msg = Info.readInfo(false);
+	if(msg){
+		var str = '<div id="message" style="background-color: #ffffe1; color: 6D6D6D; border: 2px solid #ccc; padding: 10px; padding-left: 30px; margin: 20px; background-image:url(http://js.pp.sohu.com/ppp/blog/styles/images/ico_ok.gif); background-position: 7px 10px; background-repeat: no-repeat;">';
+		str += msg;
+		str += '</div>';
+		$('messageWrapper').innerHTML = str;
+		try{flashMsg('message');}catch(e){}
+	}
+}
+</script>
+
+</body>
+</html>

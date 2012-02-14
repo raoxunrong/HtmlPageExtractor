@@ -1,0 +1,565 @@
+http://www.pcauto.com.cn/news/changshang/
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>厂商要闻_动态频道_太平洋汽车网动态频道</title>
+<meta name="description" content="太平洋汽车网汽车资讯频道提供全面、及时的厂商资讯" />
+<meta name="keywords" content="汽车厂商,汽车资讯,汽车动态" />
+<link href="http://www1.pcauto.com.cn/global/2010list/css/qc_list.css" rel="stylesheet" type="text/css" />
+<!--[if IE 6]><script>document.execCommand("BackgroundImageCache", false, true)</script><![endif]-->
+<script> 
+"doc@http://zzb.pcauto.com.cn/svn/tips/defineJS.js";(function(b,m){function n(f){b.defineJSlog+="\n"+f};b.needJS=b.needJS||v;function v(i,o,c){c=c||function(){};if(i)return c(false);var s=m.___needJS__||(m.___needJS__=[]);var h=s[o]||(s[o]={loaded:false,callbacks:[]});if(h.loaded)return c(false);var j=h.callbacks;if(j.push(c)==1){var d=m.createElement("script");d.onload=d.onreadystatechange=function(){var f=d.readyState;if(f&&f!="loaded"&&f!="complete")return;h.loaded=true;for(var k=0;k<j.length;k++)j[k](true)};d.src=o;m.getElementsByTagName("head")[0].appendChild(d)}}b.defineJS=function(a){if(!a)return;a=a.split("=");var p="o",B="name",e=a[1];a=a[0];if(/,/.test(a)){for(var w=a.split(","),g=0;g<w.length;g++)defineJS(w[g]+"="+e);return}var q=e.match(/^(\d*):(.*)$/);if(q){e=q[2];q=q[1]}var x=/^!/.test(a);if(x){a=a.substring(1);if(/^https?:/i.test(e))return n("sync function "+a+"() must be relative path!\n"+e)}if(a=="")return;var l=a.lastIndexOf(".");if(l>0)for(var t=a.split("."),u=b,g=0;g<t.length-1;g++)u=u[t[g]]=u[t[g]]||{};var y=eval("window."+a);if("function"==typeof y&&y.toString().indexOf("defineJSlog")<0)return;var r=l<0?b:eval.call(b,a.substring(0,l)),z="t",C="h"+p,A=l<0?a:a.substring(1+l),D="ca"+z,p=b["l"+p+D+"i"+p+"n"];r[A]=!p[C+"s"+z+B].match(/^$|\.pc|^(127|192)\.|localhost/i)?r[A]=function(){return[]}:function(){var c=arguments,s=this instanceof c.callee;b.defineJSlog;if(!r)return h();function h(){if(r)n(a+"("+c[0]+")");var f=eval(a);if(f==c.callee)return n(a+"() not in "+e);r=0;if(s){m.__=c;for(var k="",i=0;i<c.length;i++)k+=(i>0?",":"")+"document.__["+i+"]";return eval("new "+a+"("+k+")")}var o=l<0?b:eval.call(b,a.replace(/\.[^.]*$/,""));return f.apply(o,c)}if(!x)return setTimeout(function(){v(0,e,h)},1*q);var j=b.XMLHttpRequest||b.ActiveXObject;if(!j)return n("Browser can not AJAX!");var d=new j("Microsoft.XMLHTTP");d.open("GET",e,false);d.send(null);if(d.status!=200)return n("target file failed! file="+e+"\nstatus="+d.status);eval.call(b,d.responseText);return h()}}})(window,document);/*defineJS_v1 修复局部变量不被覆盖*/
+defineJS('usejquery,!$,!jQuery,!$.cookie=/www1/js/pc.jquery1.3.js'); if(/^$|^cms\./i.test(location.hostname))document.write("<script src=http://www1.pconline.com.cn/js/pc.jquery1.3.js class=' defer'><\/script>");
+defineJS("featuredcontentslider.init=http://js.3conline.com/js/min_contentslider.js");
+defineJS("setSelect=http://www1.pckids.com.cn/global/2008/js/setSelect.js");
+</script>
+</head>
+<body>
+<script>if(!window._addIvyID) document.write('<script src="http://www.pconline.com.cn/js/ivy.js"><\/script>');</script>
+<div id="ivy_div" style="display: none;"><script src="http://ivy.pconline.com.cn/adpuba/show?id=auto.qcdt.neiye.test15.&media=js&channel=dynamic&"></script></div>
+<!--栏目计数器 -->
+<span class="spanclass">
+<script>_cntUrl = "http://count.pcauto.com.cn/count.php?channel=176&screen=" + screen.width + "*" + screen.height + "&refer=" + escape(document.referrer);
+</script>
+</span>
+<!--头部-->
+<style> 
+.mainNav{width:1000px;margin:0 auto;height:26px;background:#fff url(http://www1.pcauto.com.cn/2010/login/images/nav.png) 0 -76px repeat-x;line-height:26px;font-size:12px;text-align:left;position:relative;z-index:700}
+.mainNav i{font-style:normal;}
+.mainNav a{text-decoration:none;}
+.loginArea{width:470px;float:left;padding-left:10px;}
+.loginForm{float:left;}
+/*登陆前*/
+#off .userName,#off .password{float:left;width:97px;height:17px;line-height:17px;background:url(http://www1.pcauto.com.cn/2010/login/images/nav.png) #ffffff no-repeat;padding:1px 0 0 1px;margin:3px 5px 0 0;border:1px solid #cccccc;}
+#off .userName{background-position:-16px -40px;}
+#off .password{background-position:-16px -57px;}
+#off .sel_passport{float:left;}
+#off .sel_passport .sel_box{position:relative;width:80px;height:20px;margin:3px 0 0 0;}
+#off .sel_passport .seled_site,
+#off .sel_passport .seled_site2
+{background:url(http://www1.pcauto.com.cn/2010/login/images/nav.png) no-repeat;width:80px;height:20px;line-height:20px;text-indent:6px;color:#000000;cursor:pointer;display:block}
+#off .sel_passport .sel_con{position:absolute;left:0;top:0;width:80px;margin:0;padding:0;background:#ffffff;}
+#off .sel_passport .sel_list{margin:-1px 0 0 0;padding:0 1px 1px 1px;list-style:none;border:1px solid #b7b7b7;}
+#off .sel_passport .sel_list .hover{background:#bcc8d1;color:#ffffff;}
+#off .sel_passport .sel_list li{cursor:pointer;zoom:1;padding-left:4px;line-height:24px;}
+#off .btn_submit{width:50px;height:20px;margin:3px 5px 0;font-size:12px;background:url(http://www1.pcauto.com.cn/2010/login/images/nav.png) #ffffff 0 -20px no-repeat;border:none;line-height:20px; cursor:pointer;font-size:12px;}
+/*登陆前*/
+/*登陆后*/
+#on .messImg{width:11px;height:9px;background:url(http://www1.pcauto.com.cn/2010/login/images/nav.png) no-repeat -2px -43px;vertical-align:middle;}
+#on .wel_wrap{color:#777}
+#on #manageWrap{height:26px;width:74px;position:relative;display:inline-block;}
+#on .manage s{width:7px;height:4px;background:url(http://www1.pcauto.com.cn/2010/login/images/nav.png) no-repeat -4px -58px;position:absolute;top:11px;left:53px;overflow:hidden;line-height:0;}
+#on .manageCon{display:none;left:-6px;top:23px;width:72px;text-indent:4px;position:absolute;padding:1px;background:#ffffff;border:1px solid #d7d7d7;z-index:100;}
+#on .aHover .manageCon{display:block;}
+#on .manageCon a{display:inline;display:block;height:22px;overflow:hidden;line-height:22px;margin:0;}
+#on .manageCon a:hover{background:#bcc8d1;color:#ffffff;}
+#on .manageCon .more{background:#ffffff;font-weight:bold;border:1px solid #d7d7d7;border-bottom:none;position:absolute;top:-24px;left:-1px;z-index:10;line-height:22px;height:23px;width:72px;padding:1px;white-space:nowrap;}
+#on .manageCon .more:hover{background:#ffffff;font-weight:bold;}
+#on .manageCon .more s{width:7px;height:4px;background:url(http://www1.pcauto.com.cn/2010/login/images/nav.png) no-repeat -4px -58px;position:absolute;top:10px;left:59px;overflow:hidden;line-height:0;}
+/*登陆后*/
+.mainLinks{float:right;position:relative;}
+.hotLinks{float:left;width:70px;}
+.hotSites{float:left;margin:0 6px 0 0;}
+.hotSites .t{color:#777}
+.wap,.sites{position:relative;padding:0 7px 0 12px;float:left;}
+.wap s,.sites s{width:10px;height:13px;background:url(http://www1.pcauto.com.cn/2010/login/images/nav.png) no-repeat;position:absolute;top:6px;left:0;cursor:pointer}
+.wap s{background-position:-51px -22px;}
+.sites s{background-position:-63px -22px;}
+</style>
+<div class="mainNav">
+<div class="loginArea" id="ajaxLogon">
+数据读取中...
+</div>
+<script> 
+setTimeout(function(){
+var js=document.createElement("script");
+js.src="http://www1.pcauto.com.cn/2010/login/logon.js";
+document.getElementsByTagName("head")[0].appendChild(js);
+},2000);
+</script>
+<script> 
+</script>
+<div class="mainLinks">
+<span class="hotSites"><i class="t">太平洋网络：</i><a href="http://www.pconline.com.cn/" target="_blank">电脑网</a> <a href="http://www.pcauto.com.cn/" target="_blank">汽车网</a> <a href="http://www.pcgames.com.cn/" target="_blank">游戏网</a> <a href="http://www.pclady.com.cn/" target="_blank">女性网</a> <a href="http://www.pcbaby.com.cn/" target="_blank">亲子网</a> <a href="http://www.pchouse.com.cn/" target="_blank">家居网</a> |</span> <span class="hotLinks"><a target="_blank" class="sites" href="http://www.pcauto.com.cn/sitemap/sitemap.html"><s></s>网站地图</a></span>
+</div>
+</div>
+<style> 
+#header {width:1000px;height:73px;overflow:hidden;padding-bottom:2px;background:#EFEFEF url(http://www1.pcauto.com.cn/global/09channel/images/pcauto_headbg.png) no-repeat; margin:auto; text-align:left;font-size:12px;}
+#logo {float:left;width:150px;height:72px; text-indent:-9999px;}
+#logo a {display:block;width:150px;height:73px;}
+ul,li{list-style:none; margin:0px; padding:0px;}
+em,i{ font-style:normal;}
+a{text-decoration:none;}
+#nav a {color:#000;}
+#nav i{ margin:0 2px;}
+#nav a:hover{text-decoration:underline;color:#ff0000;}
+#typeNav{float:left;width:849px;height:38px;text-align:center;line-height:38px; padding:0px 0 0 1px; overflow:hidden;}
+#typeNav a{ overflow:hidden; text-indent:-9999px; display:block; height:38px; cursor:pointer; float:left; background-image:url(http://www1.pcauto.com.cn/global/09channel/images/pcauto_headbg.png); background-repeat:no-repeat;}
+#typeNav a.an1{ width:73px; background-position:-151px -96px;}
+#typeNav a.an1:hover{ background-position:-151px -150px;}
+#typeNav a.an2{ width:77px;background-position:-224px -96px;}
+#typeNav a.an2:hover{background-position:-224px -150px;}
+#typeNav a.an3{ width:89px;background-position:-301px -96px;}
+#typeNav a.an3:hover{background-position:-301px -150px;}
+#typeNav a.an4{ width:84px;background-position:-390px -96px;}
+#typeNav a.an4:hover{background-position:-390px -150px;}
+#typeNav a.an5{ width:92px;background-position:-474px -96px;}
+#typeNav a.an5:hover{background-position:-474px -150px;}
+#typeNav a.an6{ width:89px;background-position:-566px -96px;}
+#typeNav a.an6:hover{background-position:-566px -150px;}
+#typeNav a.an7{ width:97px;background-position:-655px -96px;}
+#typeNav a.an7:hover{background-position:-655px -150px;}
+#typeNav a.an8{ width:97px;background-position:-752px -96px;}
+#typeNav a.an8:hover{background-position:-752px -150px;}
+#typeNav a.an9{ width:82px;background-position:-849px -96px;}
+#typeNav a.an9:hover{background-position:-849px -150px;}
+#typeNav a.an10{ width:65px;background-position:-931px -96px;}
+#typeNav a.an10:hover{background-position:-931px -150px;}
+#nav {float:left;width:835px;height:34px;overflow:hidden;padding:1px 0 0 15px; line-height:34px;}
+</style>
+<div id="header" style="overflow:visible">
+<div id="logo"><a href="http://www.pcauto.com.cn/" target="_blank">太平洋汽车网</a></div>
+<div id="nav">
+<i><a href="http://www.pcauto.com.cn/" target="_blank">首页</a></i><i>|</i><i><strong><a href="http://www.pcauto.com.cn/nation/" target="_blank">选车</a></strong>: </i><i><a href="http://www.pcauto.com.cn/nation/" target="_blank">新车</a></i><i><a href="http://www.pcauto.com.cn/news/" target="_blank">动态</a></i><i><a href="http://roadtest.pcauto.com.cn/" target="_blank">评测</a></i><i><a href="http://www.pcauto.com.cn/teach/" target="_blank">导购</a></i><i><a href="http://www.pcauto.com.cn/qcbj/xctj/" target="_blank">图解</a></i><i><a href="http://v.pcauto.com.cn/" target="_blank">视频</a></i><i>|</i><i><strong><a href="http://price.pcauto.com.cn/cars/" target="_blank">购车</a></strong>: </i><i><a href="http://price.pcauto.com.cn/cars/" target="_blank">车型</a></i><i><a href="http://price.pcauto.com.cn" target="_blank">报价</a></i><i><a href="http://piclib.pcauto.com.cn" target="_blank">图库</a></i><i>|</i><i><strong><a href="http://www.pcauto.com.cn/qcbj/citymap/" target="_blank">车市</a></strong>: </i><i><a href="http://bj.pcauto.com.cn/" target="_blank">北京</a></i><i><a href="http://sh.pcauto.com.cn/" target="_blank">上海</a></i><i><a href="http://gz.pcauto.com.cn/" target="_blank">广州</a></i><i><a href="http://sz.pcauto.com.cn/" target="_blank">深圳</a></i><i><a href="http://www.pcauto.com.cn/qcbj/citymap/" target="_blank">更多</a></i><i>|</i><i><strong><a href="http://drivers.pcauto.com.cn/" target="_blank">用车</a></strong>: <a href="http://drivers.pcauto.com.cn/yangche/" target="_blank">维修</a></i><i><a href="http://drivers.pcauto.com.cn/yongpin/" target="_blank">用品</a></i><i>|</i><i><strong><a href="http://bbs.pcauto.com.cn/" target="_blank">社区</a></strong>: </i><i><a href="http://bbs.pcauto.com.cn/" target="_blank">论坛</a></i><i><a href="http://blog.pcauto.com.cn/" target="_blank">博客</a></i><i><a href="http://k.pcauto.com.cn/" target="_blank">快问</a></i>
+</div>
+<div id="typeNav">
+<a href="http://price.pcauto.com.cn/cars/c76/" target="_blank" class="an1">微型车</a>
+<a href="http://price.pcauto.com.cn/cars/c110/" target="_blank" class="an2">小型车</a>
+<a href="http://price.pcauto.com.cn/cars/c73/" target="_blank" class="an3">紧凑型车</a>
+<a href="http://price.pcauto.com.cn/cars/c72/" target="_blank" class="an4">中型车</a>
+<a href="http://price.pcauto.com.cn/cars/c71/" target="_blank" class="an5">中大型车</a>
+<a href="http://price.pcauto.com.cn/cars/c70/" target="_blank" class="an6">豪华型车</a>
+<a href="http://price.pcauto.com.cn/cars/c74/" target="_blank" class="an7">MPV</a>
+<a href="http://price.pcauto.com.cn/cars/c75/" target="_blank" class="an8">SUV</a>
+<a href="http://price.pcauto.com.cn/cars/c111/" target="_blank" class="an9">跑车</a>
+<a href="http://price.pcauto.com.cn/cars/c112/" target="_blank" class="an10">商用车</a>
+</div>
+</div>
+<div class="wrap ivy_tl">
+<script #src="http://ivy.pconline.com.cn/adpuba/show?id=auto.qcdt.neiye.zu.tl1.&media=js&channel=inline&trace=1">var __loc123486=_ivyRandom(2);
+if (__loc123486 == 0){(function(SRC,URL){
+var w = 1*SRC.replace(/^.*#(\d+)x(\d+).*$|^.*$/,'$1'); if(w<1)w=950;
+var h = 1*SRC.replace(/^.*#(\d+)x(\d+).*$|^.*$/,'$2'); if(h<1)h=90;
+var js = SRC.replace(/^.*#js=([^#]+).*$|^.*$/,'$1');
+var img = SRC.replace(/^.*#img=([^#]+).*$|^.*$/,'$1');
+var trans = /#transparent/i.test(SRC)?'transparent':'opaque';
+var close = /#close/i.test(SRC),close2 = /#close2/i.test(SRC);
+SRC = SRC.replace(/#.*$/,'');
+document_write((close?'<div id="adDiv153280" style="position:relative;">':'')+'<OBJECT id=ad153280 class="auto.qcdt.neiye.tl1." classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 WIDTH='+w+' HEIGHT='+h+'><PARAM name=flashvars value=id=ad153280><PARAM NAME=movie VALUE='+SRC+' ><EMBED id=ad153280b src='+SRC+' WIDTH='+w+' HEIGHT='+h+' flashvars=id=ad153280b TYPE=application/x-shockwave-flash PLUGINSPAGE=http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash wmode='+trans+'></EMBED><param name=wmode value='+trans+'></OBJECT>'
++(close?'<span style=" display:block; width:41px; height:15px; cursor:pointer; background:url(http://www1.pconline.com.cn/test/20100309/bg.png) no-repeat -154px 0;position:absolute;right:0px; overflow:hidden;'+(close2?'top:'+(h-15)+'px':'top:0px;')+'" onClick="document.getElementById(\'ad153280\').style.display=\'none\';this.style.display=\'none\';" title="关闭"></span></div>':''));
+if(js) document_write('<script src="'+js+'"><\/script>');
+if(img) document_write('<img src="'+img+'" style="display:none;" />');
+})('http://imgad1.3conline.com/ivy/image/201012/10/1291947440703.swf##990x90','http://ivy.pconline.com.cn/adpuba/click?adid=153280&id=auto.qcdt.neiye.tl1.');_addIvyID("123486_153280");}if (__loc123486 == 1){(function(SRC,URL){
+var w = 1*SRC.replace(/^.*#(\d+)x(\d+).*$|^.*$/,'$1'); if(w<1)w=950;
+var h = 1*SRC.replace(/^.*#(\d+)x(\d+).*$|^.*$/,'$2'); if(h<1)h=90;
+var js = SRC.replace(/^.*#js=([^#]+).*$|^.*$/,'$1');
+var img = SRC.replace(/^.*#img=([^#]+).*$|^.*$/,'$1');
+var trans = /#transparent/i.test(SRC)?'transparent':'opaque';
+var close = /#close/i.test(SRC),close2 = /#close2/i.test(SRC);
+SRC = SRC.replace(/#.*$/,'');
+document_write((close?'<div id="adDiv155733" style="position:relative;">':'')+'<OBJECT id=ad155733 class="auto.qcdt.neiye.tl1." classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 WIDTH='+w+' HEIGHT='+h+'><PARAM name=flashvars value=id=ad155733><PARAM NAME=movie VALUE='+SRC+' ><EMBED id=ad155733b src='+SRC+' WIDTH='+w+' HEIGHT='+h+' flashvars=id=ad155733b TYPE=application/x-shockwave-flash PLUGINSPAGE=http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash wmode='+trans+'></EMBED><param name=wmode value='+trans+'></OBJECT>'
++(close?'<span style=" display:block; width:41px; height:15px; cursor:pointer; background:url(http://www1.pconline.com.cn/test/20100309/bg.png) no-repeat -154px 0;position:absolute;right:0px; overflow:hidden;'+(close2?'top:'+(h-15)+'px':'top:0px;')+'" onClick="document.getElementById(\'ad155733\').style.display=\'none\';this.style.display=\'none\';" title="关闭"></span></div>':''));
+if(js) document_write('<script src="'+js+'"><\/script>');
+if(img) document_write('<img src="'+img+'" style="display:none;" />');
+})('http://imgad1.3conline.com/ivy/image/201012/10/1291962730533.swf##990x90','http://ivy.pconline.com.cn/adpuba/click?adid=155733&id=auto.qcdt.neiye.tl1.');_addIvyID("123486_155733");}</script>
+</div>
+<!--导航-->
+<div class="wrap chaNav">
+<div class="chaTop">
+<div class="chaLogo"><a href="http://www.pcauto.com.cn/news/"><img src="http://www1.pcauto.com.cn/global/2010channel/images/logocs_dt.gif" width="116" height="35" alt="动态频道" /></a></div>
+<div class="chaMenu">
+<ul>
+<li class="last"><a href="http://www.pcauto.com.cn/news/changshang/" target="_blank">厂家要闻</a></li>
+<li class="subMenuA"><a href="http://www.pcauto.com.cn/news/person/csft/" target="_blank">车市访谈</a></li>
+<li class="subMenuA"><a href="http://www.pcauto.com.cn/news/person/gczf/" target="_blank">高层访谈</a></li>
+<li class="subMenuA"><a href="http://www.pcauto.com.cn/news/yjpl/" target="_blank">媒体评论</a></li>
+<li class="subMenuA"><a href="http://www.pcauto.com.cn/news/gjdt/" target="_blank">国外动态</a></li>
+<li class="subMenuA"><a href="http://www.pcauto.com.cn/news/hyxw/" target="_blank">国内动态</a></li>
+<li class="subMenuA"><a href="http://www.pcauto.com.cn/news/" target="_blank">动态首页</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+<!--快搜,快问-->
+<div class="chaSearch">
+<div class="ksTem1">
+<form name="mainSNSSearchFrom" id="mainSNSSearchFromId" action="http://ks.pcauto.com.cn/" method="post"  onkeydown="if(event.keyCode==13){setFormAction();return false;}" target="_blank">
+<div class="searchB">
+<input class="inputBox" type="text" id="ksWord" name="searchWord" value="" />
+<div class="Simulation">
+<select name="snsSearchType" id="snsSearchTypeId" >
+<option value="" selected="selected" id="http://ks.pcauto.com.cn/auto_composite.jsp?">综合</option>
+<option value="" id="http://ks.pcauto.com.cn/auto_price.jsp?">车型</option>
+<option value="" id="http://ks.pcauto.com.cn/auto_cms.jsp?">文章</option>
+<option value="" id="http://k.pcauto.com.cn/sr/all?">快问</option>
+<option value="" id="http://ks.pcauto.com.cn/auto_bbs.jsp?">论坛</option>
+<option value="" id="http://ks.pcauto.com.cn/auto_photo.jsp?">图片</option>
+<option value="" id="http://ks.pcauto.com.cn/auto_video.jsp?">视频</option>
+<option value="" id="http://ks.pcauto.com.cn/auto_blog.jsp?">博客</option></select>
+</div>
+<script type="text/javascript">setSelect("snsSearchTypeId");function setFormAction(){var form = document.getElementById("mainSNSSearchFromId");jsp=form.snsSearchType.options[form.snsSearchType.selectedIndex].id;form.action = jsp + "q=" +document.getElementById("ksWord").value;form.submit();}</script>
+<input class="bot" type="button" onclick="setFormAction()"  name="Submit" value="搜索" />
+</div>
+</form>
+</div>
+<div class="ksTem2 gray">
+<p>热词：<a class="red" title="广州车展" target="_blank" href="http://www.pcauto.com.cn/guangzhou/"><strong>广州车展</strong></a> <a target="_blank" href="http://www1.pcauto.com.cn/zt/2010beauty/index.html">美丽大中华</a> <a target="_blank" href="http://www.pcauto.com.cn/qknow/rd/chechuanshui/"><strong>新车船税</strong></a> <a target="_blank" href="http://www.pcauto.com.cn/sj/yhdc/1011/1314045.html">需求调查</a></p>
+</div>
+<div class="ksTem3">
+<span class="sKw">
+<p><a target="_blank" href="http://www.pcauto.com.cn/qknow/rd/5wan/">5万</a> <a target="_blank" href="http://www.pcauto.com.cn/qknow/rd/8wan/">8万</a> <a target="_blank" href="http://www.pcauto.com.cn/qknow/rd/10wan/">10万</a> <a target="_blank" href="http://www.pcauto.com.cn/qknow/rd/12wan/">12万买什么车好？</a></p>
+</span>
+<a href="http://k.pcauto.com.cn/toqueadd.html" target="_blank" class="aBtn">我要提问</a>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="layA modBoxB">
+<div class="thB">您现在的位置：<a href="http://www.pcauto.com.cn">首页</a> > <a href="http://www.pcauto.com.cn/news/" target="_blank">汽车动态</a>  >  <a href="http://www.pcauto.com.cn/news/changshang/" target="_blank">厂商要闻</a> </div>
+<div class="tbB">
+<ul>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1338823.html" target="_blank">BMW携Discovery 呈现中国人物志梦想篇</a></strong><i class="iData">[2010-12-09]</i><i class="iDes">　　北京展现当代中国人的梦想，诠释梦想者的拼搏历程。BMW中国于近日携手享誉世界的Discovery探索频道在京宣布，筹拍首个以中国当代梦想人物为拍摄核心的纪录片专辑《中国人物志-梦想篇》。专辑将用当代中国人身边真实的故事，为“中国梦”做出时代的独特诠释。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1338823.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1338823.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/09/1338823_1_thumb.jpg" alt="发布会" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1339873.html" target="_blank">完美驾控 11城思铂睿试驾会销售火爆</a></strong><i class="iData">[2010-12-10]</i><i class="iDes">　　激扬动感的愉悦操控，是以人为尊;领衔未来的高端科技，是梦想所系。11月20日至12月4日，激荡人心的思铂睿读者试驾会，席卷全国11个城市。3周时间800人从思铂睿读者试驾会现场深入了解思铂睿、爱上思铂睿，39人现场订购思铂睿开始运动汽车新生活。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1339873.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1339873.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/10/1339873_4.jpg" alt="思铂睿" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1339396.html" target="_blank">自主品牌如何插上腾飞之翼？</a></strong><i class="iData">[2010-12-10]</i><i class="iDes">　　中国汽车工业的快速崛起，打造了独立自主的国有品牌，圆了百姓购车的梦想。说起自主品牌，更多人会想到吉利、奇瑞、比亚迪和长城。只因为这些品牌在近两年来的突出表现，不止赢得了市场的赞誉，也为自主品牌价值的提升贡献了足够多的支持。尤其以长城、奇瑞等为主的自主品牌车企，他们国内、国外两线齐发，旗下很多产品远销 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1339396.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1339396.html" target="_blank"></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1339264.html" target="_blank">全新天籁透视 创变中高级车市新格局</a></strong><i class="iData">[2010-12-10]</i><i class="iDes">　　今年以来中高级车市场总不缺乏闪耀登场的新面孔，但回顾全年的销售表现，却发现真正能够影响到一线热销梯队的新车型可谓寥寥可数。如此局面或将会在年末的这一时刻得到改写，因为经过内外提升的东风日产全新天籁已于11月25日正式全国同步上市，除了延续天籁在舒适和品质上的领先优势，新车型更在创新科技应用方面取得全面突 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1339264.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1339264.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/10/1339264_1.jpg" alt="新天籁" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1338782.html" target="_blank">比拼亚运健儿 长城腾翼C30变身冠军英雄</a></strong><i class="iData">[2010-12-09]</i><i class="iDes">　　艾哈迈德亲王亲切地用汉语说出“感谢广州，感谢中国”后，在灯光璀璨的海心沙市民广场，广州亚运会圆满落幕。赛场上中国健儿争金夺银，199枚金牌再次刷新了中国参加亚运会的夺牌记录。与此同时在亚运赛场外，中国车市也有一番龙争虎斗，家轿市场更是中外品牌逐一角力。中国自主品牌在与洋品牌的这场较量中的表现就一如我们 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1338782.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1338782.html" target="_blank"></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1338374.html" target="_blank">感恩圣诞购物潮 四款精品两厢车推荐</a></strong><i class="iData">[2010-12-09]</i><i class="iDes">　　感恩节之后的疯狂购物已经成为了美国人的习俗。从感恩节到圣诞节这一个月，美国零售业总销售额能占到全年的1/3，是各个商家传统的打折促销旺季。这一习惯其实跟我们在年底的节日性消费非常类似，汽车、电子产品等等尤为明显。如果您打算在年底的促销热潮中购买一台经济型两厢车，犒劳自己辛劳的一年，那么以下几款精品车型 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1338374.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1338374.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/09/1338374_2.jpg" alt="两厢车" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1338305.html" target="_blank">乐驰年末团购再掀购车热潮</a></strong><i class="iData">[2010-12-09]</i><i class="iDes">　　又到一年年末时，各类促销、团购等优惠开始集中出动。据悉，从12月15日到明年的1月31日期间，上汽通用五菱乐驰将展开新一轮的团购活动，此次团购共有全国35个城市的40家经销商参加，规模盛大。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1338305.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1338305.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/09/1338305_image002.jpg" alt="乐驰" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1337683.html" target="_blank">超值哈弗H5自动挡预计售价13-16万</a></strong><i class="iData">[2010-12-09]</i><i class="iDes">　　2010年度，国内SUV市场，哈弗H5自动挡预计售价13—16万。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1337683.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1337683.html" target="_blank"></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1337072.html" target="_blank">腾翼C30冲击20000台销量势不可挡</a></strong><i class="iData">[2010-12-08]</i><i class="iDes">　　“腾翼速度”已成为今年车市的新标志，9月，10000辆;10月，12000辆;11月，15000辆，蹦床式猛增的销售业绩，平均20%以上的环比增长，震撼了波涛不惊的车市。作为长城旗下A级轿车代表之作腾翼c30，自六月上市以来，在连续三个月强势入围“万辆俱乐部”的高位上仍然后劲十足，其销量的延长线直指冠军宝座。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1337072.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1337072.html" target="_blank"><img src="http://img.pcauto.com.cn/images/pcautogallery/modle/article/201012/8/12917930862712980_custom.jpg" alt="" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1336901.html" target="_blank">从意甲到达喀尔 风骏皮卡全球奔跑</a></strong><i class="iData">[2010-12-08]</i><i class="iDes">　　意甲联赛和达喀尔拉力赛，两个世界级的赛事，因为风骏皮卡联系到了一起，成为国人关注这两项比赛的另一个重要原因。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1336901.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1336901.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/08/1336901_A_thumb.jpg" alt="风骏皮卡5" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1335751.html" target="_blank">Q族有爱 80万Q友爱心大行动</a></strong><i class="iData">[2010-12-07]</i><i class="iDes">　　Q族有爱  80万Q友爱心大行动 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1335751.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1335751.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/07/1335751_9_thumb.jpg" alt="1" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1335747.html" target="_blank">“高校环保科研应用项目支持计划”方案征集全面结束</a></strong><i class="iData">[2010-12-07]</i><i class="iDes">　　“高校环保科研应用项目支持计划”方案征集全面结束 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1335747.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1335747.html" target="_blank"></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1335736.html" target="_blank">热门中级车的性价比之争</a></strong><i class="iData">[2010-12-07]</i><i class="iDes">　　热门中级车的性价比之争 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1335736.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1335736.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/07/1335736_image001_thumb.jpg" alt="1" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1334297.html" target="_blank">东风日产创新品质震撼“热”市</a></strong><i class="iData">[2010-12-06]</i><i class="iDes">　　燃油价格再度攀升、车船税改革势在必行、私人用车限购限行悄然酝酿……种种不明朗的外部因素难免为年底车市蒙上一层阴影。但反观各个级别的乘用车市场，新车上市接连不断，渠道终端让利持续放大。到底是12月份冲量优惠的风头更盛，还是观望待购的情绪更浓呢?记者带着这一疑问走访了本地各大汽车卖场。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1334297.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1334297.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/06/1334297_2.jpg" alt="东风日产" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1329842.html" target="_blank">一目不能了然 三种目光共选“大-从容”</a></strong><i class="iData">[2010-12-01]</i><i class="iDes">　　恋爱中的双向选择还能有个互动，可要在茫茫车海里选择一个属于自己的爱车，就全凭自己的眼力了，有些车可以一眼看透，有些车则像个多面镜，有不同的“入射角”，能经过全面审美考验的，才能共聚在一个焦点上。下面请出三位408车主，来跟大家聊聊他们的选择。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1329842.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1329842.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/01/1329842_1.jpg" alt="标致" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1334046.html" target="_blank">都市M族爱上哈弗M2后的幸福生活</a></strong><i class="iData">[2010-12-06]</i><i class="iDes">　　哈弗M2自今年三月份上市以来，市场持续升温，充分展现出家用SUV的独特魅力。这款魅力车型在消费者中形成广泛知名度、用户人群激增的同时，还簇生了一个极富个性特征的汽车族群——“都市M族”。而都市M族之所以选择哈弗M2，是因为它代表了一种独特的汽车文化和精神：追求时尚、自由却又不失理性的人生享受。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1334046.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1334046.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/06/1334046_1.jpg" alt="M2" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1332846.html" target="_blank">续写六冠荣耀 世嘉连续三月“破万”</a></strong><i class="iData">[2010-12-03]</i><i class="iDes">　　今年各路产品价格持续走高，继“蒜你狠”、“豆你玩”、“糖高宗”之后，“苹什么”和“棉花糖”也正如火如荼地上演着价格战。“虚”高的价格让人憎恶幕后炒作者，而与此形成鲜明对比的是，高性价比的产品不断赢得用户认可，赢得高销量，在“虚伪”与“炒作”面前，品质好才是真的好。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1332846.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1332846.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/03/1332846_image003.jpg" alt="世嘉" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1333539.html" target="_blank">10万公里零故障 长安CX30品质之旅抵京</a></strong><i class="iData">[2010-12-05]</i><i class="iDes">　　12月4日，“长安CX30 三十万公里品质之旅”车队一行近十人风尘仆仆地抵达北京。自10月26日重庆大本营发车距今的40多天的时间里，三辆CX30马不停蹄、日以继夜地跋涉在CX30的品质征途上。长安汽车领导、测试车手和现场观众在北京燕长风4S店共同见证了这一创举。 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1333539.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1333539.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/05/1333539_11_thumb.jpg" alt="cx30" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1333537.html" target="_blank">V3菱悦拉力梦工厂争霸赛上演最终对决</a></strong><i class="iData">[2010-12-05]</i><i class="iDes">　　2010年12月3日，V3菱悦拉力梦工厂年度争霸赛在北京怀柔隆重开战。历时四个多月、多达近千人的层层角逐后，在郑州、深圳、南京、北京四场分区训练营中挑出的12名优胜者将一决高下，决出年度冠、亚、季军。同时，演艺明星景岗山、王啸坤、周晓欧等也出席助阵并与赛手同场竞技。最终，杨发军勇夺冠军，获得了一辆V3菱悦的10年 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1333537.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1333537.html" target="_blank"><img src="http://img2.pcauto.com.cn/pcauto/1012/05/1333537_1_thumb.jpg" alt="v3" ></a></i></li>
+<li><strong><a href="http://www.pcauto.com.cn/news/changshang/1012/1332935.html" target="_blank">完成首轮产品升级 新雅力士全新价值赢得口碑</a></strong><i class="iData">[2010-12-03]</i><i class="iDes">　　经历了上半年的调整和理性回归，在环保节能车型补贴以及呼之欲出的新车船税方案等一系列利好政策的刺激下，中国小型车市场再度升温。而一直以来作为小型车标杆车型的广汽丰田雅力士，也在九月份进行了全新改款。售价8.7万元起的新雅力士，结合中国消费者需求，创新的提出“大气、动感、实用”的全新产品价值，成为名副其实 ...<a href="http://www.pcauto.com.cn/news/changshang/1012/1332935.html" target="_blank">阅读全文>></a></i><i class="iPic"><a href="http://www.pcauto.com.cn/news/changshang/1012/1332935.html" target="_blank"></a></i></li>
+</ul>
+<div class="clear"></div>
+<div class="pcauto_page">
+<span>1</span><a href="http://www.pcauto.com.cn/news/changshang/index_1.html">2</a><a href="http://www.pcauto.com.cn/news/changshang/index_2.html">3</a><a href="http://www.pcauto.com.cn/news/changshang/index_3.html">4</a><a href="http://www.pcauto.com.cn/news/changshang/index_4.html">5</a><a href="http://www.pcauto.com.cn/news/changshang/index_5.html">6</a><a href="http://www.pcauto.com.cn/news/changshang/index_6.html">7</a><a href="http://www.pcauto.com.cn/news/changshang/index_7.html">8</a>...<a href="http://www.pcauto.com.cn/news/changshang/index_14.html">15</a><a href="http://www.pcauto.com.cn/news/changshang/index_1.html" class="next">下一页</a>
+</div>
+</div>
+</div>
+<!--栏目列表页右侧-->
+<div class="layB">
+<div class="modBoxA">
+<div class="thA"><span class="mark"><a href="http://www.pcauto.com.cn/" target="_blank">资讯排行榜</a></span></div>
+<div class="tbA">
+<ul class="expTxtA dTop">
+<li><i class="iTitle"><a href="http://sz.pcauto.com.cn/cspl/1012/1339147.html" target="_blank" title="车价最低8万！北京现代6款车型降价汇总">车价最低8万！北京现代6款车型降价汇总</a></i><i class="iNums">105571</i></li>
+<li><i class="iTitle"><a href="http://sh.pcauto.com.cn/cxpl/1012/1335642.html" target="_blank" title="经得起折腾 五款自主品牌SUV市场解析">经得起折腾 五款自主品牌SUV市场解析</a></i><i class="iNums">89198</i></li>
+<li><i class="iTitle"><a href="http://gz.pcauto.com.cn/xcrs/1012/1338654.html" target="_blank" title="史上跑得最快的宾利 实拍宾利欧陆超跑">史上跑得最快的宾利 实拍宾利欧陆超跑</a></i><i class="iNums">56606</i></li>
+<li><i class="iTitle"><a href="http://www.pcauto.com.cn/nation/gwkx/1012/1337700.html" target="_blank" title="3.3万美元 2012款大众高尔夫R豪华升级">3.3万美元 2012款大众高尔夫R豪华升级</a></i><i class="iNums">51590</i></li>
+<li><i class="iTitle"><a href="http://drivers.pcauto.com.cn/yongpin/qcyx/new/1012/1339363.html" target="_blank" title="完美感受 2011款途锐音响体验">完美感受 2011款途锐音响体验</a></i><i class="iNums">47719</i></li>
+<li><i class="iTitle"><a href="http://gz.pcauto.com.cn/xcrs/1012/1339888.html" target="_blank" title="千呼万唤始出来 PCauto实拍大众新POLO">千呼万唤始出来 PCauto实拍大众新POLO</a></i><i class="iNums">45952</i></li>
+<li><i class="iTitle"><a href="http://www.pcauto.com.cn/nation/jkkx/1012/1339038.html" target="_blank" title="全新斯巴鲁Coupe曝光 预售2.5万英镑">全新斯巴鲁Coupe曝光 预售2.5万英镑</a></i><i class="iNums">42675</i></li>
+<li><i class="iTitle"><a href="http://gz.pcauto.com.cn/cxpl/1012/1339101.html" target="_blank" title="小得有道理 荐5款有才有特色精品微车">小得有道理 荐5款有才有特色精品微车</a></i><i class="iNums">42406</i></li>
+<li><i class="iTitle"><a href="http://www.pcauto.com.cn/nation/gckx/1012/1339911.html" target="_blank" title="比亚迪S6/G6/G3R三款新车亮相广州车展">比亚迪S6/G6/G3R三款新车亮相广州车展</a></i><i class="iNums">41735</i></li>
+<li><i class="iTitle"><a href="http://www.pcauto.com.cn/news/changshang/1012/1340093.html" target="_blank" title="东风裕隆公司14日成立 首推纳智捷SUV">东风裕隆公司14日成立 首推纳智捷SUV</a></i><i class="iNums">39779</i></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="ivy_1">
+<script #src="http://ivy.pconline.com.cn/adpuba/show?id=auto.qcdt.neiye.yc1.&media=js&channel=inline&trace=1"></script>
+</div>
+<div class="modBoxA mt10">
+<div class="thA"><span class="mark"><a href="http://bbs.pcauto.com.cn/" target="_blank">帖子排行榜</a></span></div>
+<div class="tbA dTop">
+<ul class="bbs_topics">
+<li class="odd">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-393.html"><span class="bracket">[</span>汽车模型<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457064.html">1/43新车-R敞篷B救护车A1A8ROADSTER</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/20182433">新城市男子</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">19</span>
+<span class="viewCount">407</span>
+<span class="createTime">12-11 23:06</span>
+<span class="lastUpdate">12-12 21:25</span>
+<span class="bar">
+</span>
+</li>
+<li class="even">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-16000.html"><span class="bracket">[</span>江西分会<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457062.html">马自达3改装前包围、侧裙、后包及轮毂喷白</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/8098181">383-恺帝</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">28</span>
+<span class="viewCount">378</span>
+<span class="createTime">12-11 23:11</span>
+<span class="lastUpdate">12-12 22:28</span>
+<span class="bar">
+</span>
+</li>
+<li class="odd">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-16000.html"><span class="bracket">[</span>江西分会<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457028.html">上次可以帮人便宜消违章的TX哪去了？我超速了。</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/1382035">点点</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">18</span>
+<span class="viewCount">299</span>
+<span class="createTime">12-11 22:25</span>
+<span class="lastUpdate">12-12 20:52</span>
+<span class="bar">
+</span>
+</li>
+<li class="even">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-16805.html"><span class="bracket">[</span>奇骏<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457056.html">浪漫巴里岛，豪华美图游</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/9721133">坦克</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">40</span>
+<span class="viewCount">252</span>
+<span class="createTime">12-11 22:56</span>
+<span class="lastUpdate">12-12 19:30</span>
+<span class="bar">
+</span>
+</li>
+<li class="odd">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-393.html"><span class="bracket">[</span>汽车模型<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457037.html">【黑山洞系列】第一集：汕头威尔 东风悦达起亚·千里马</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/12658988">AMG and ABT</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">13</span>
+<span class="viewCount">237</span>
+<span class="createTime">12-11 22:40</span>
+<span class="lastUpdate">12-12 23:00</span>
+<span class="bar">
+</span>
+</li>
+<li class="even">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-15963.html"><span class="bracket">[</span>佛山分会<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457090.html">报到</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/9830475">禅城女飞盗2009</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">11</span>
+<span class="viewCount">131</span>
+<span class="createTime">12-11 23:46</span>
+<span class="lastUpdate">12-12 20:06</span>
+<span class="bar">
+</span>
+</li>
+<li class="odd">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-14144.html"><span class="bracket">[</span>奥德赛<span class="bracket">]</span></a></span>
+<span class="type">转载</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457063.html">玻璃工艺品</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/20078306">周围畅</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">7</span>
+<span class="viewCount">113</span>
+<span class="createTime">12-11 23:00</span>
+<span class="lastUpdate">12-12 18:35</span>
+<span class="bar">
+</span>
+</li>
+<li class="even">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-16000.html"><span class="bracket">[</span>江西分会<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457032.html">想把汽车换个颜色，有人知道该怎么办手续吗</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/1382035">点点</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">5</span>
+<span class="viewCount">95</span>
+<span class="createTime">12-11 22:34</span>
+<span class="lastUpdate">12-12 10:58</span>
+<span class="bar">
+</span>
+</li>
+<li class="odd">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-15963.html"><span class="bracket">[</span>佛山分会<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457088.html">回顾亚运精彩赛事</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/8736027">UFO</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">6</span>
+<span class="viewCount">69</span>
+<span class="createTime">12-11 23:40</span>
+<span class="lastUpdate">12-12 10:32</span>
+<span class="bar">
+</span>
+</li>
+<li class="even">
+<span class="forum"><a target="_blank" href="http://bbs.pcauto.com.cn/forum-15003.html"><span class="bracket">[</span>广州分会<span class="bracket">]</span></a></span>
+<span class="type">原创</span>
+<span class="title"><a target="_blank" href="http://bbs.pcauto.com.cn/topic-2457024.html">青竹相映</a></span>
+<span class="author"><a target="_blank" href="http://my.pcauto.com.cn/20078306">周围畅</a></span>
+<span class="award">0</span>
+<span class="awardLeft">0</span>
+<span class="replyCount">7</span>
+<span class="viewCount">59</span>
+<span class="createTime">12-11 22:22</span>
+<span class="lastUpdate">12-12 08:50</span>
+<span class="bar">
+</span>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="modBoxA mt10">
+<div class="thA"><span class="mark"><a href="http://blog.pcauto.com.cn/" target="_blank">博客排行榜</a></span></div>
+<div class="tbA">
+<ul class="expTxtA dTop">
+<script class=" defer" src="http://blog.pcauto.com.cn/_blogTotalRankJS.jsp?type=22&max=10&showClick=true"></script>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="ivy_1">
+<script #src="http://ivy.pconline.com.cn/adpuba/show?id=auto.qcdt.neiye.yc2.&media=js&channel=inline&trace=1"></script>
+</div>
+<div class="modBoxA mt10 modHot">
+<div class="thA pagination" id="paginate-hotCar">
+<i class="toc toc1">热门车型</i>
+<i class="toc">热门关键词</i>
+</div>
+<div class="sliderwrapper" id="hotCar">
+<div class="contentdiv">
+<ul class="erShou">
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=1044" target="_blank">比亚迪F3</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3286" target="_blank">新宝来</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3543" target="_blank">新君威</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3148" target="_blank">奥迪R8</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=1633" target="_blank">速腾</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=4174" target="_blank">新乐风</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=1584" target="_blank">骏捷</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3805" target="_blank">迈腾</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3374" target="_blank">马自达睿翼</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3539" target="_blank">本田锋范</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=1053" target="_blank">雨燕</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3537" target="_blank">标致207</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3555" target="_blank">新奥拓</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3234" target="_blank">荣威550</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=4132" target="_blank">思铂睿</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3174" target="_blank">伊兰特悦动</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3556" target="_blank">领翔</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3557" target="_blank">海马欢动</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=1177" target="_blank">锐志</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3224" target="_blank">新飞度</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3188" target="_blank">新凯越</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=2543" target="_blank">骊威</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3337" target="_blank">V3菱悦</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3187" target="_blank">新爱丽舍</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3729" target="_blank">昊锐</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=4375" target="_blank">标致307</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=2734" target="_blank">卡罗拉</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=1649" target="_blank">马自达3</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3624" target="_blank">奔腾B50</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3275" target="_blank">奇瑞A3</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3734" target="_blank">福瑞迪</a></li>
+<li>·<a href="http://price.pcauto.com.cn/serial.jsp?sid=3565" target="_blank">新奥德赛</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="contentdiv">
+<ul class="hotKeys">
+<p><a title="PCauto快聚" target="_blank" href="http://ju.pcauto.com.cn/"><strong>PCauto快聚</strong></a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=631">CR-V</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=2743">奇瑞QQ6</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=356">神行者2</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=36">雷克萨斯ES</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3178">奔驰C级</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3685">奇瑞M14</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=2763">英菲尼迪FX</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3684">奇瑞QQme</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=744">华普海域</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4326">捷豹XKR</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=1646">凯旋</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=1953">沃尔沃S40</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=1984">荣威750</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=2643">悍马H2</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=2143">蒙迪欧致胜</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3765">哈弗</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3614">酷熊</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3001">自由舰</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=2443">奇瑞A1</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4019">帝豪EC7</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=2323">锐欧</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3514">炫丽</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=164">宝马7系</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4074">索兰托</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=267">奔驰S级</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4647">MG3</a>&nbsp; <a target="_blank" href=" http://price.pcauto.com.cn/serial.jsp?sid=3633">奔驰GLK</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=358">哈飞民意</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=2723">五菱鸿途</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4705">旗云</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4004">瑞麒M1</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=25">羚羊</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3324">同悦</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4406">欧蓝德</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3728">现代i30</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3904">风神S30</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=294">福美来</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=250">金杯海狮</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4388">起亚Venga</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=686">起亚远舰</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3185">雅力士</a>&nbsp;<a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=3785">骏捷FSV运动版</a> <a target="_blank" href="http://price.pcauto.com.cn/serial.jsp?sid=4437">高尔夫</a>&nbsp;<a target="_blank" href="http://beauty.pclady.com.cn/zxzq/bushui/">补水面膜</a> <a target="_blank" href="http://www.pcgames.com.cn/huodong/shengdanjie/zhufu/"><strong>圣诞节祝福短信</strong></a> <a target="_blank" href="http://beauty.pclady.com.cn/hairstyle/"><strong>祛痘</strong></a> <a target="_blank" href="http://emotion.pclady.com.cn/zhufuduanxin/xinnianduanxin/">元旦祝福语</a> <a target="_blank" href="http://wow.pcgames.com.cn/wowui/kfgj/wlkqt/1011/2056702.html">魔兽魔方</a> <a target="_blank" href="http://edu.pcbaby.com.cn/resource/zt/shengdan/">圣诞歌曲</a> <a target="_blank" href="http://edu.pcbaby.com.cn/book/zt/xngq/">新年歌曲</a> <a target="_blank" href="http://www.pcauto.com.cn/guangzhou/"><strong>广州车展</strong></a>&nbsp;<a target="_blank" href="http://www.pcauto.com.cn/zt/weizhang/"><strong>交通违章查询</strong></a> <a target="_blank" href="http://www.pcauto.com.cn/qknow/rd/12wan/">12万元买什么车好</a> <a target="_blank"href="http://www.pcauto.com.cn/qknow/rd/chechuanshui/">2010新车船税</a></p>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript"> 
+featuredcontentslider.init({id: "hotCar",contentsource: ["inline", ""],toc: "markup",nextprev: ["", ""],revealtype: "click",enablefade: [false, 0.2],autorotate: [false, 0],onChange: function(previndex, curindex){
+}})
+</script>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<style> 
+#footer {width:1000px;margin:auto;color:#FFF;font-size:12px;}
+#footer a {color:#FFF;}
+#footer a:hover{text-decoration:underline;}
+#footer .ftop {height:38px;background:url(http://www1.pcauto.com.cn/www1/global/2008/images/foot.png) repeat-x 0 0;text-align:center;line-height:33px;color:#000;}
+#footer .ftop a {margin-right:14px;color:#000; text-decoration:none;}
+#footer .ftop a:hover {text-decoration:underline}
+#footer .flead {height:35px;line-height:35px; text-align:center;}
+#footer .finfo {width:600px;height:100px;margin:auto;line-height:24px;}
+#footer .finfo .finfol {float:left;width:108px;height:100px;padding-right:20px;}
+#footer .finfo .finfol a.flogo {display:block;width:108px;height:40px;margin:5px 0;background:url(http://www1.pcauto.com.cn/global/2008/images/pclogo.gif) no-repeat;}
+#footer .finfo .finfor {float:left;width:472px;height:100px;text-align:left;}
+</style>
+<div id="footer">
+<div class="ftop"><a href="http://corp.pconline.com.cn/english/index-auto.htm" target="_blank">About_Us</a> <a href="http://corp.pconline.com.cn/index-auto.htm" target="_blank">关于我们</a> <a href="http://zhaopin.pconline.com.cn/" target="_blank">诚聘精英</a> <a href="http://www.pcauto.com.cn/intro/syzc.html" target="_blank">隐私政策</a> <a href="http://www.pcauto.com.cn/intro/ggzn.html" target="_blank">广告指南</a> <a href="http://www.pcauto.com.cn/intro/Contribute.htm" target="_blank">投稿指南</a> <a href="http://www.pcauto.com.cn/intro/Lawyer.htm" target="_blank">网站律师</a> <a href="http://www1.pcauto.com.cn/hdzt/2008/0523/investment/index.html" target="_blank">分站加盟</a> <a href="http://corp.pconline.com.cn/contact-auto.htm" target="_blank">联系我们</a> <a href='http://ued.pconline.com.cn/' target="_blank"><b>用户体验提升计划</b></a></div>
+<div class="flead">太平洋网络:　<a href="http://www.pconline.com.cn" target="_blank">太平洋电脑网</a>　┊　<a href="http://www.pcauto.com.cn" target="_blank">太平洋汽车网</a>　┊　<a href="http://www.pcgames.com.cn" target="_blank">太平洋游戏网</a>　┊　<a href="http://www.pclady.com.cn" target="_blank">太平洋女性网</a>　┊　<a href="http://www.pcbaby.com.cn" target="_blank">太平洋亲子网</a>　┊　<a href="http://www.pchouse.com.cn/" target="_blank">太平洋家居网</a></div>
+<div class="finfo">
+<div class="finfol"><a class="flogo" href="http://www.pconline.cn/"></a><a href="http://www.gdca.gov.cn/" target="_blank" class="link_number">广东省通信管理局</a><br />
+ICP证粤B2-20040647</div>
+<div class="finfor">版权所有 @太平洋汽车网<br />
+如有任何问题，请点击 <a href="http://www.pcauto.com.cn/zt/wy/automail/index.html" target="_blank">全能信箱</a><br />
+PCauto版权所有,未经授权禁止转载、摘编、复制或建立镜像..如有违反,追究法律责任.<br />
+精准<a href="http://price.pcauto.com.cn/" target="_blank">报价</a>，权威评测；<a href="http://www.pcauto.com.cn/" target="_blank">汽车</a>世界，由此精彩！ </div>
+<div class="clear"></div>
+</div>
+</div>
+<script class=" defer" src="http://ivy.pconline.com.cn/adpuba/show?id=auto.fubiao.&media=js&channel=inline&trace=1"></script>
+<script type="text/javascript"> 
+/*点击监测代码*/
+(function(){
+var heatmapURLs = ['http://dl.pcgames.com.cn/','http://photos.pcgames.com.cn/','http://www.pclady.com.cn/','http://web.pcgames.com.cn/','http://v.pcgames.com.cn/','http://price.pcauto.com.cn/','http://goods.pcbaby.com.cn/mami/dgzn/1010/964622.html','http://product.pconline.com.cn/mobile/nokia/364844.html','http://dl.pconline.com.cn/','http://www1.pconline.com.cn/act/weekzt20101106/index.html','http://price.pcauto.com.cn/brand.jsp?bid=5','http://product.pconline.com.cn/notebook/','http://try.pcbaby.com.cn/prod_1269.html','http://www.pcbaby.com.cn/shipu/diy/jtys/1011/967292.html','http://yuer.pcbaby.com.cn/youer/huli/1011/969778.html','http://edu.pcbaby.com.cn/center/hot/1011/970685.html','http://product.pconline.com.cn/mobile/nokia/364844_detail.html','http://product.pconline.com.cn/mobile/nokia/364844_compare.html','http://www.pchouse.com.cn/','http://dl.pconline.com.cn/download/55136.html','http://m.pconline.com.cn/','http://www.pcgames.com.cn/','http://www.pcauto.com.cn/','http://www.pcbaby.com.cn/','http://www.pcgames.com.cn/flashgames/','http://game.pcgames.com.cn/','http://product.pconline.com.cn/mobile/nokia/364844_price.html','http://itbbs.pconline.com.cn/diy/','http://edu.pcbaby.com.cn/brain/action/1011/966875.html','http://price.pcauto.com.cn/new_brand.jsp?bid=2','http://product.pconline.com.cn/pdlib/364844_picture.html','http://product.pconline.com.cn/mobile/nokia/364844_review.html','http://product.pconline.com.cn/mobile/nokia/364844_download.html','http://product.pconline.com.cn/mobile/nokia/364844_comment.html','http://price.pcauto.com.cn/serial.jsp?sid=3539','http://huaiyun.pcbaby.com.cn/redian/1011/968130.html','http://try.pcbaby.com.cn/','http://game.pcgames.com.cn/item/9014.html','http://price.pcauto.com.cn/m11133/','http://price.pcauto.com.cn/auto_price.jsp?ps=0&clusterQuery=cluster_brand%7E%B4%F3%D6%DA','http://product.pconline.com.cn/mobile/apple/399872_detail.html','http://huaiyun.pcbaby.com.cn/2010/1124/zt971037.html','http://edu.pcbaby.com.cn/brain/action/1011/968506.html','http://www1.pconline.com.cn/act/weekzt1126/index.html','http://www1.pconline.com.cn/act/weekzt1120/index.html','http://dl.pconline.com.cn/download/55136-1.html','http://dl.pcgames.com.cn/download/47957.html','http://dl.pcgames.com.cn/download/47437.html','http://dl.pcgames.com.cn/download/58216.html','http://dl.pcgames.com.cn/download/46817.html','http://dl.pcgames.com.cn/download/48482.html','http://dl.pcgames.com.cn/download/57332.html','http://dl.pcgames.com.cn/html/3/4/dlid=43074&dltypeid=3&pn=0&.html','http://price.pcauto.com.cn/auto_price.jsp?ps=0&clusterQuery=cluster_price%7E5-8%CD%F2',''];
+;
+if(typeof(heatmapURLs)!="undefined"&&heatmapURLs.length>0)for(var h=0;h<heatmapURLs.length;h++){var u=heatmapURLs[h];if(u==window.location.href)document.body.onclick=function($){var D=C($),A=B(),_=document.createElement("script");_.src="http://heatmap.pconline.com.cn/count.php?_docx="+A.PageW+"&_docy="+A.PageH+"&refer="+escape(document.referrer)+"&_xxx="+D.x+"&_yyy="+D.y;document.body.insertBefore(_,document.body.firstChild);function C(_){$=_||window.event;if($.pageX||$.pageY)return{x:$.pageX,y:$.pageY};return{x:$.clientX+(document.documentElement.scrollLeft?document.documentElement.scrollLeft:document.body.scrollLeft),y:$.clientY+(document.documentElement.scrollTop?document.documentElement.scrollTop:document.body.scrollTop)}}function B(){var C,A;if(window.innerHeight&&window.scrollMaxY){C=window.innerWidth+window.scrollMaxX;A=window.innerHeight+window.scrollMaxY}else if(document.body.scrollHeight>document.body.offsetHeight){C=document.body.scrollWidth;A=document.body.scrollHeight}else if(document.body){C=document.body.offsetWidth;A=document.body.offsetHeight}var $,_;if(window.innerHeight){$=window.innerWidth;_=window.innerHeight}else if(document.documentElement&&document.documentElement.clientHeight){$=document.documentElement.clientWidth;_=document.documentElement.clientHeight}else if(document.body){$=document.body.clientWidth;_=document.body.clientHeight}var B=(C<$)?$:C,D=(A<_)?_:A;return{PageW:B,PageH:D,WinW:$,WinH:_}}}}
+})();
+/*
+调查弹窗
+*/
+(function(){
+var random = Math.round(Math.random()*10000);
+if(!getCookie('isPopWindow') && random>=0 && random<=2000  && /\.pcauto\.com\.cn/i.test(window.location.href)){
+window.open("http://www.pcauto.com.cn/sj/yhdc/1011/1314045.html","pop","height=600, width=1000, top=0, left=0, toolbar=no, menubar=no, scrollbars=yes, resizable=yes,location=no, status=no");
+self.focus();
+setCookie("isPopWindow","1",30,".pcauto.com.cn","/"); 
+}
+;function setCookie(name,value,days,domain,path){ document.cookie = name + "=" + escape(value) +("; expires=" + new Date(new Date().getTime() + ((!!days)?days*1:1)*24*60*60*1000).toGMTString()) + ((!!path) ? "; path=" + path : "/") + ((!!domain) ? "; domain=" + domain : "domain="+window.location.host); }
+;function getCookie(name){ return unescape(document.cookie.replace(new RegExp(".*(?:^|; )"+name+"=([^;]*).*|.*"),"$1"));}
+})();
+</script>
+<script> 
+function hiddenFB(){document.getElementById('expFB').style.display='none';document.getElementById('floBG').style.display='none';document.getElementById("iframeUE").src=defaURL;return false;}
+function showFB(){document.getElementById('expFB').style.display='block';document.getElementById('floBG').style.display='block';}
+var defaURL = "http://www1.pconline.com.cn/ued/js/src1.html";
+function getCookieUE(name){return unescape(document.cookie.replace(new RegExp(".*(?:^|; )"+name+"=([^;]*).*|.*"),"$1"));}
+function setCookieUE(name,value){
+var domain=".pcauto.com.cn";
+var s = name + "=" + escape(value) + ((domain) ? "; domain=" + domain : "");
+document.cookie=s;
+}
+(function(){
+var HTML ='';
+document.write("<style>#floBG { width:100%; display:none; z-index:998; top:0; left:0; margin:0; padding:0; height:100%; background:#000; position:fixed; _position:absolute; _height:expression(documentElement.scrollTop+documentElement.clientHeight);filter:alpha(opacity=40); opacity: 0.4; }#showFB { background:#FEBE7C url(http://www1.pconline.com.cn/ued/show/rbg.png) repeat-y 1px 0; width:26px; padding:1px; border:1px solid #FF8A44; color:#fff; z-index:999; position:fixed; top:45%; _position:absolute; _top:expression(documentElement.scrollTop+(documentElement.clientHeight)/2);right:0; font-size:12px; }.closeFB { background:url(http://www1.pconline.com.cn/ued/show/showBg.png) no-repeat -4px -51px; width:10px; height:10px; cursor:pointer; overflow:hidden; text-indent:-999px; margin:0 0 3px 16px; display:block; }.sTxtFB { display:block; line-height:15px; text-align:center; padding:0 4px; cursor:pointer; }.sTxtFB strong { display:block; }#expFB { z-index:999; background:#fff; display:none; font-size:12px; position:fixed; _position:absolute; left:50%; top:50%; _top:expression(documentElement.scrollTop+(documentElement.clientHeight/2));margin:-132px 0 0 -240px; border:1px solid #666; height:265px; overflow:hidden; line-height:22px; width:480px; font-style:normal; }#expFB .th { background:url(http://www1.pconline.com.cn/ued/show/bg1.png) repeat-x; height:31px; overflow:hidden; padding:0 10px; font-size:14px; line-height:31px; }#expFB .close { background:url(http://www1.pconline.com.cn/ued/show/showBg.png) no-repeat 0 -29px; cursor:pointer; display:block; height:20px; margin:4px 0 0; width:20px; overflow:hidden; text-indent:-999px; }#expFB .close:hover { background-position:-19px -29px; }#expFB .close:active { background-position:-38px -29px; }#expFB .dTxt { margin:0 10px; border-top:1px dashed #ccc; padding:15px 0; }#expFB iframe { width:100%; height:190px; }.joinUE { background:#fff url(http://www1.pconline.com.cn/ued/show/bg1.png) repeat-x 0 -30px; display:block; width:50px; text-align:center; padding:0 15px; overflow:hidden; height:20px; border:1px solid #D3D3D3; text-decoration:none; color:#000; }#expFB .mark { height:100%; float:left; font-weight:bold; }#expFB .subMark { height:100%; float:right; }<\/style>");
+HTML +='<div id="floBG" ></div>';
+HTML +='<div id="showFB"><span class="closeFB"  onclick=this.parentNode.style.display="none";setCookieUE("showTimes","true") >关闭</span><span class="sTxtFB" onclick="showFB();"><strong>向太平洋汽车网提意见</strong><<</span></div>';  
+HTML +='<div id="expFB" >';
+HTML +='<div class="th"><span class="mark">向太平洋汽车网提意见</span><span class="subMark"><a href="javascript:void(0)" onclick="hiddenFB();" target="_self" class="close" >关闭</a></span></div>';
+HTML +='<iframe id="iframeUE" src="'+ defaURL +'" frameborder="0" scrolling="no"></iframe>';
+HTML +='<div class="dTxt"><span style="float:left;">太平洋网络诚意邀请您加入我们的 <a style="color:#c00" href="http://ued.pconline.com.cn/" target="_blank">用户体验提升计划</a></span><span style="float:right;"><a href="http://ued.pconline.com.cn/joinus/"  class="joinUE" target="_blank">立即加入</a></span></div>';
+HTML +='</div>';
+if( /piclib.pcauto.com.cn\/cars\/image/i.test(window.location.href) || /4s.pcauto.com.cn\/shangjia/i.test(window.location.href)){if(!getCookieUE('showTimes')){document.write(HTML)}} 
+})();
+</script>
+<script>//广告置标</script>
+<script>//广告置标</script>
+<script>_submitIvyID();</script>
+</body>
+</html>

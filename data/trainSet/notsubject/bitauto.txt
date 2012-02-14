@@ -1,0 +1,956 @@
+http://baa.bitauto.com/
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link rel="stylesheet" type="text/css" href="http://image.bitautoimg.com/uimg/css/0000/bit_common_style_old-20101207112916.css" /><link href="http://css.inc.baa.bitautotech.com/200909/baahome/style.css?5" rel="stylesheet" type="text/css" /><meta name="Copyright" content="www.baa.com.cn" />
+    <title>【汽车论坛|汽车社区-易车会】-易车网BitAuto.com</title>
+    <meta name="keywords" content="汽车论坛,汽车社区,车友会，汽车俱乐部,易车会" />
+    <meta name="description" content="易车会(汽车论坛)：全国最热的汽车社区,包含各个品牌汽车论坛、汽车俱乐部以及车友会等。交流看车、买车、用车经验，分享车友聚会快乐。上易车网汽车论坛，汽车生活更精彩！" />
+<title>
+ 
+</title></head>
+<body>
+    <div class="bit_top">
+    <div class="bit950">
+        <ul>
+            <li><a target="_blank" href="http://www.bitauto.com/">易车网首页</a></li>
+     <li><a href="http://chezhan.bitauto.com/guangzhou-chezhan/" target="_blank">广州车展</a></li>
+            <li><a href="http://easy.bitauto.com/" target="_blank">车易通</a></li>
+            <li><a href="http://www.cheyisou.com/" target="_blank">车易搜</a></li>
+            <li><a href="http://wireless.bitauto.com/" target="_blank">无线易车网</a></li>
+            <li><a href="http://price.bitauto.com/" target="_blank" class="last">汽车报价</a></li>
+            <li><a href="http://wireless.bitauto.com/iphone/" target="_blank">汽车通</a></li>
+        </ul>
+        <div class="bt_login_box" id="divLoginDivID">
+        </div>
+    </div>
+</div>
+<div class="btnav_b">
+  <div class="cartabs100312">
+    <ul>
+      <li class="f1"><a target="_blank" href="http://car.bitauto.com/weixingche/">微型车</a></li>
+      <li class="f2"><a target="_blank" href="http://car.bitauto.com/xiaoxingche/">小型车</a></li>
+      <li class="f3"><a target="_blank" href="http://car.bitauto.com/jincouxingche/">紧凑型车</a></li>
+      <li class="f4"><a target="_blank" href="http://car.bitauto.com/zhongxingche/">中型车</a></li>
+      <li class="f5"><a target="_blank" href="http://car.bitauto.com/zhongdaxingche/">中大型车</a></li>
+      <li class="f6"><a target="_blank" href="http://car.bitauto.com/haohuaxingche/">豪华车</a></li>
+      <li class="f7"><a target="_blank" href="http://car.bitauto.com/mpv/">MPV多用途车</a></li>
+      <li class="f8"><a target="_blank" href="http://car.bitauto.com/suv/">SUV越野车</a></li>
+      <li class="f9"><a target="_blank" href="http://car.bitauto.com/paoche/">跑车</a></li>
+   <li class="f10"><a target="_blank" href="http://car.bitauto.com/mianbaoche/">面包车</a></li>
+    </ul>
+  </div>
+  <ul class="interval">
+    <li><a target="_blank" href="http://car.bitauto.com/price/1/">5万以下</a></li>
+    <li><a target="_blank" href="http://car.bitauto.com/price/2/">5万-10万</a></li>
+    <li><a target="_blank" href="http://car.bitauto.com/price/3/">10万-15万</a></li>
+    <li><a target="_blank" href="http://car.bitauto.com/price/4/">15万-20万</a></li>
+    <li><a target="_blank" href="http://car.bitauto.com/price/5/">20万-25万</a></li>
+     <li id="interval_more" class="interval_more"><span>更多</span>
+          <dl id="interval_pop" class="interval_pop">
+          	<dt>更多</dt>
+            <dd><a target="_blank" href="http://car.bitauto.com/price/6/">25万-40万</a></dd>
+            <dd><a target="_blank" href="http://car.bitauto.com/price/7/">40万-80万</a></dd>
+            <dd><a target="_blank" href="http://car.bitauto.com/price/8/">80万以上</a></dd>              
+          </dl>
+    	</li>  
+  </ul>
+</div>
+<dl class="bt_nav">
+	<dt class="first"><a target="_blank" href="http://kan.bitauto.com/">看车</a></dt>
+    <dd><a target="_blank" href="http://car.bitauto.com/" class="hot">车型</a></dd>
+    <dd><a target="_blank" href="http://photo.bitauto.com/">图片</a></dd>
+    <dd><a target="_blank" href="http://kan.bitauto.com/xinche/">新车</a></dd>
+    <dd><a target="_blank" href="http://kan.bitauto.com/jinkou/">进口</a></dd>
+    <dd><a target="_blank" href="http://v.bitauto.com/">视频</a></dd>
+    <dd><a target="_blank" href="http://koubei.bitauto.com/" class="hot">口碑</a></dd>
+    
+    <dt><a target="_blank" href="http://mai.bitauto.com/">买车</a></dt>
+    <dd><a target="_blank" href="http://price.bitauto.com/">报价</a></dd>
+    <dd><a target="_blank" href="http://dealer.bitauto.com/">经销商</a></dd>
+    <dd><a target="_blank" href="http://city.bitauto.com/jiangjia.shtml">降价</a></dd>
+    <dd><a target="_blank" href="http://life.bitauto.com/huodong/">团购</a></dd>
+    
+    <dt><a target="_blank" href="http://use.bitauto.com/">用车</a></dt>
+    <dd><a target="_blank" href="http://use.bitauto.com/weixiu/">维修</a></dd>
+    <dd><a target="_blank" href="http://koubei.bitauto.com/youhao/">查油耗</a></dd>
+    <dd><a target="_blank" href="http://use.bitauto.com/jiashi/">驾驶</a></dd>
+    <dd><a target="_blank"  href="http://www.bitauto.com/weizhang/">查违章</a></dd>
+    
+    <dt><a target="_blank" href="http://news.bitauto.com/">新闻</a></dt>
+    <dd><a target="_blank" href="http://news.bitauto.com/changjia/">厂家</a></dd>
+    <dd><a target="_blank" href="http://news.bitauto.com/renwu/">人物</a></dd>
+    <dd><a target="_blank" href="http://news.bitauto.com/chanxiao/">销量</a></dd>
+    <dd><a target="_blank" href="http://index.bitauto.com/">指数</a></dd>
+    
+    <dt><a target="_blank" href="http://life.bitauto.com/">生活</a></dt>
+    <dd><a target="_blank" href="http://baa.bitauto.com/">论坛</a></dd>
+    <dd><a target="_blank" href="http://life.bitauto.com/huodong/RedirectToNetFriend.aspx">聚会</a></dd>
+    <dd><a target="_blank" href="http://ask.bitauto.com/">答疑</a></dd>
+</dl>
+ 
+    <div class="bt_page">
+        
+        <div class="bt_ad">
+            <ins id="div_1a34bf92-529b-457d-bd20-fd21ca4cdce3" type="ad_play" adplay_ip="" adplay_areaname=""
+                adplay_cityname="" adplay_brandid="" adplay_brandname="" adplay_brandtype=""
+                adplay_blockcode="1a34bf92-529b-457d-bd20-fd21ca4cdce3"></ins>
+        </div>
+        <!--smenu start-->
+<div class="bt_smenu">
+      <div class="bt_navigate">
+    	<a href="http://www.bitauto.com/" target="_blank" class="bt_logo">易车网</a> 
+		<a href="http://baa.bitauto.com/" target="_blank"class="bt_luntan"></a>
+    </div>
+  <div class="bt_search">
+    <fieldset>
+    <legend>车易搜</legend>
+	<style  type="text/css"> 
+/*search pop*/
+#sug { border:1px solid #817F82; position:absolute; z-index: 200; width: 350px; top: 21px; background:#fff; display:none; white-space:nowrap; text-align:left; }
+#sug ul { margin:0; padding:0; list-style:none; }
+#sug ul li { background:#fff; color:#000; line-height:10px; padding:5px; margin:0 0 1px 0; cursor:default; float:none; height:10px; overflow:hidden; border-right:none; font-size:14px; width:auto; }
+#sug ul li.mo { background:#014da2; color:#fff }
+#sug ul li.right { text-align:right; }
+#sug ul li.ml_l {background:#fff; color:#164A84}
+#sug a:link, #sug a:visited { color:#014da2; text-decoration:none; }
+#sug a:hover { color:#d01d19; text-decoration:none; }
+</style>
+<div style="position: relative; float: left; text-align: left;">
+          <input type="text" class="text"   id="sug_txt_keyword"  name="wd" onfocus="sug_reset()"  value=""/>
+		  <DIV onselectstart="return false" id=sug style="top:24px;float:left;overflow:hidden;"></DIV>
+          <input name="" type="button"  onclick="sug_redirect()"  class="bt_input" value="搜索"  />
+		   <input id="sug_hidurl" value=""  type="hidden" />
+</div>      
+       
+    </fieldset>
+  </div>
+</div>
+<!--smenu end-->
+<div class="col-all">
+	<div class="publicTab1">
+		<ul class="tab">
+			<li class="on"><a href="/">论坛首页</a></li>
+			<li class=""><a href="/foruminterrelated/moretopic.html">论坛精华</a></li>
+			<li class=""><a href="/foruminterrelated/forumalbum.html">论坛图库</a></li>
+			<li class=""><a href="http://i.bitauto.com/friend.html" target="_blank">以车会友</a></li>
+			<li class=""><a href="http://news.bitauto.com/hot/#rank6" target="_blank">互动排行</a></li>
+			<li class="last "><a href="/foruminterrelated/brandforumlist.html">论坛大全</a></li>
+		 </ul>
+        <div class="buycar_pop">
+            <a class="baa_hd_button" href="http://www.bitauto.com/zhuanti/huodong/hdly/" target="_blank">一言九顶</a>
+            <a class="baa_hd_button" href="http://www.bitauto.com/zhuanti/huodong/ycb/" target="_blank">礼品兑换</a>
+        </div>
+	</div>
+</div>
+        
+    <div class="col-all jg">
+<div class="lift_list"><a target="_blank" href="http://i.bitauto.com/square/">[<span><em>易车</em>]</span></a>&nbsp;<a target="_blank" href="http://go.bitauto.com/"><em>车易购</em></a>&nbsp;|&nbsp;<a target="_blank" href="http://i.bitauto.com/routing.aspx?modulekey=guanjia"><em>车管家</em></a>&nbsp;|&nbsp;<a target="_blank" href="http://i.bitauto.com/friend.html"><em>以车会友</em></a>&nbsp;|&nbsp;<a target="_blank" href="http://life.bitauto.com/huodong/RedirectToNetFriend.aspx"><em>聚会</em></a>&nbsp;|&nbsp;<a target="_blank"href="http://i.bitauto.com/bitauto/!gift/convert.html"><em>礼物兑换</em></a>&nbsp;|&nbsp;<a target="_blank" href="http://ask.bitauto.com/"><em>答疑</em></a>&nbsp;|&nbsp;<a target="_blank" href="http://i.bitauto.com/hottopicsw.html">热帖</a>&nbsp;|&nbsp;<a target="_blank" href="http://i.bitauto.com/HotMicrobo.html">语录</a>&nbsp;|&nbsp;<a target="_blank" href="http://i.bitauto.com/HotAlbum.html">相册</a>&nbsp;|&nbsp;<a target="_blank" href="http://i.bitauto.com/HotBlog.html">日志</a>&nbsp;|&nbsp;<a target="_blank" href="http://i.bitauto.com/HotGames.html">游艺厅</a>&nbsp;|&nbsp;<a target="_blank" href="http://i.bitauto.com/Toolbox.html">工具箱</a>|<a target="_blank" href="http://baa.bitauto.com/gaoerfugti/thread-1302914.html">品牌达人活动开始啦</a></div>
+</div>
+    <!--分类star-->
+    <div class="col-all">
+        <div class="baaTab">
+    <ul class="tab" id="ulForumTab">
+        <li class="current"><a href="http://www.baa.com.cn/foruminterrelated/brandforumlist.html" target="_blank">车型论坛</a></li>
+        <li><a href="http://www.baa.com.cn/foruminterrelated/grouplist_3.html" target="_blank">地方论坛</a></li>
+        <li><a href="http://www.baa.com.cn/foruminterrelated/grouplist_2.html" target="_blank">主题论坛</a></li>
+        <li><a href="http://www.baa.com.cn/foruminterrelated/camplist.html" target="_blank">品牌大本营</a></li>
+    </ul>
+<a class="yjdc" target="_blank" href="http://dingche.bitauto.com/">有奖订车</a>
+ 
+</div>
+<div class="baaTablist" id="ForumData_0">
+<div class="noborderline">
+<div class="onebaaTablist onebaaTablisttwo">
+<h3><span><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie微型车">微型车</a></span></h3>
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/alto/">新奥拓</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/Spark/">乐驰</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/benbenmini/">奔奔mini</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/F0/">比亚迪F0</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/QQ/">奇瑞QQ3</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/rlm1/">瑞麒M1</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/benben/">奔奔</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/s6/">小贵族</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/qqme/">奇瑞qqme</a></li>
+    <li><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie微型车">更多>></a></li>
+</ul>
+</div>
+<div class="onebaaTablist onebaaTablisttwo">
+<h3><span><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie小型车">小型车</a></span></h3>
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/yuexiang/">悦翔</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/chevroletsail/">新赛欧</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/crosspolo/">crosspolo</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/accent/">雅绅特</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/xl/">夏利</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/livina/">骊威</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/fabia/">晶锐</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/yonglehui/">乐风</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/swift/">雨燕</a></li>
+    <li><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie小型车">更多>></a></li>
+</ul>
+</div>
+<div class="onebaaTablist onebaaTablisttwo">
+<h3><span><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie紧凑型车">紧凑型车</a></span></h3>
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/bora/">宝来</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/ayt/">凯越</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/A3/">奇瑞A3</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/c30/">腾翼C30</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/frv/">骏捷FRV</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/elysee/">新爱丽舍</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/fulwin2/">风云2</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/sagitar/">速腾</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/city/">锋范</a></li>
+    <li><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie紧凑型车">更多>></a></li>
+</ul>
+</div>
+<div class="onebaaTablist">
+<h3><span><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie中型车">中型车</a></span></h3>
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/camry/">凯美瑞</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/passat/">帕萨特</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/teana/">天籁</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/mazda6/">马自达6</a></li>
+    <li><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie中型车">更多>></a></li>
+</ul>
+</div>
+<div class="onebaaTablist">
+<h3><span><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie中大型车">中大型车</a></span></h3>
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/lexus/">雷克萨斯</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/SAAB/">萨博9-5</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/crown/">新皇冠</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/buick/">林荫大道</a></li>
+    <li><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie中大型车">更多>></a></li>
+</ul>
+</div>
+<div class="onebaaTablist">
+<h3><span><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie豪华车">豪华车</a></span></h3>
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/bmw/">宝马</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/audi/">奥迪</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/benz/">奔驰</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/volkswagen/">辉腾</a></li>
+    <li><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibie豪华车">更多>></a></li>
+</ul>
+</div>
+<div class="onebaaTablist">
+<h3><span><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibieSUV">SUV</a></span></h3>
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/sportage/">狮跑</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/ruiying">瑞鹰</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/qashqai/">逍客</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/ix35/">现代ix35</a></li>
+    <li><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibieSUV">更多>></a></li>
+</ul>
+</div>
+<div class="onebaaTablist">
+<h3><span><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibieMPV">MPV</a></span></h3>
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/rs/">和悦RS</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/touran/">途安</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/v5/">威麟V5</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/xenia/">森雅M80</a></li>
+    <li><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/brandforumlist_by_jibie.html#jibieMPV">更多>></a></li>
+</ul>
+</div>
+</div>
+</div><div class="baaTablist" id="ForumData_1" style="display: none">
+<div class="noborderline">
+<div class="twobaaTablist">
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/bj/">北京</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/sh/">上海</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/gd/">广东</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/sz/">深圳</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/hn/">河南</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/cq/">重庆</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/tj/">天津</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/sx/">陕西</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/jl/">吉林</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/gx/">广西</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/js/">江苏</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/zj/">浙江</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/ah/">安徽</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/fujian/">福建</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/jx/">江西</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/sd/">山东</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/sc/">四川</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/yn/">云南</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/yt/">烟台</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/shanxi/">山西</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/zb/">淄博</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/ln/">辽宁</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/nmg/">内蒙古</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/hb/">河北</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/guizhou/">贵州</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/nx/">宁夏</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/hlj/">黑龙江</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/gs/">甘肃</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/dl/">大连</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/hunan/">湖南</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/aq/">安庆</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/hubei/">湖北</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/anyang/">安阳</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/hainan/">海南</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/xj/">新疆</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/tibet/">西藏</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/tw/">台湾</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/macau/">澳门</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/hk/">香港</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/foruminterrelated/grouplist_3.html">更多地区论坛>></a></li>
+</ul>
+</div>
+</div>
+</div><div class="baaTablist" id="ForumData_2" style="display: none">
+<div class="noborderline">
+<div class="twobaaTablist">
+<ul>
+    <li><a target="_blank" href="http://baa.bitauto.com/chezhan/forum-662722.html">2010广州车展</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/wmsh/">玩美生活</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/cls/">冲浪手俱乐部</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/ht/">无线电易车会</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/radio/">主流电台联盟</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/buycar/">购车用车</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/drive/">自驾游</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/baadzh/">易车大杂烩</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/cheyu/">汽车天天听</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/cheshidai/">车时代俱乐部</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/rldsy/">汽车娱乐</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/kdc/">卡丁车易车会</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/bagua/">大嘴八卦</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/filmlover/">电影发烧友</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/tv/">影音天地</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/naimao/">GPS大本营</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/jinglv/">京驴易车会</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/lr/">极限狂飙</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/music/">汽车影音</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/succor/">汽车救援</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/autophoto/">汽车图吧</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/qhf0/">青海F0车友会</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/xiaoqie/">越野联盟</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/baapm/">社区站务管理</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/hn918/">车舞飞扬</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/carsfun/">车趣团购易车会</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/qcmx/">汽车模型</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/121/">拼车易车会</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/f1/">F1易车会</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/magazine/">汽车周刊</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/photo/">摄影之友</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/lowerclub/">lower-club</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/happy/">快乐生活</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/autoreport/">汽车产经报道</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/wx/">风光无限</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/gzcz/">改装车大赛</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/overseas/">海外汽车生活</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/chechejulebu/">车车俱乐部</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/pv/">专业志愿者联盟</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/foruminterrelated/grouplist_2.html">更多主题论坛>></a></li>
+</ul>
+</div>
+</div>
+</div><div class="baaTablist" id="ForumData_3" style="display:none;">		    <div class="noborderline">
+			    <div class="twobaaTablist">
+				   <ul>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-volkswagen/">大众</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-peugeot/">标致</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-toyota/">丰田</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-mazda/">马自达</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-byd/">比亚迪</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-bmw/">宝马</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-audi/">奥迪</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-honda/">本田</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-faw/">一汽</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-zhonghua/">中华</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-gw/">长城</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-roewe/">荣威</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-dongfeng/">东风</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-ford/">福特</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-chery/">奇瑞</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-lifan/">力帆</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-buick/">别克</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-mg/">名爵</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-hummer/">悍马</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-benz/">奔驰</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-suzuki/">铃木</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-nissan/">日产</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-jac/">江淮</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-chevrolet/">雪佛兰</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-landrover/">路虎</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-acura/">讴歌</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-fiat/">菲亚特</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-geely/">吉利</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-saab/">萨博</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-lifan/">力帆</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-kia/">起亚</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-benteng/">奔腾</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-hyundai/">现代</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-porsche/">保时捷</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-ferrari/">法拉利</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-landwind/">陆风</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-skoda/">斯柯达</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-huatai/">华泰</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/dby-cadillac/">凯迪拉克</a></li>
+						<li><a target="_blank" href="http://baa.bitauto.com/foruminterrelated/camplist.html">更多&gt;&gt;</a></li>
+				   </ul>
+				</div>
+			</div>
+		</div>
+    </div>
+    <!--分类end-->
+    <!--焦点图部分star-->
+    <div class="col-all">
+        <div class="col-sub">
+            <!--焦点图_公共开始-->
+            <div class="col-sub">
+<div id="focus_chart" class="focus_chart">
+<p><a target="_blank" href="http://baa.bitauto.com/ayt/thread-1496361.html"><img class="imgborder" border="1" alt="凯越车友会精彩年会花絮" width="300" height="200" src="http://pic.baa.bitautotech.com/temp/2010121391830861.jpg" /></a></p>
+<div id="focus_d1" class="current"><a target="_blank" href="http://baa.bitauto.com/ayt/thread-1496361.html"><em>1</em>凯越车友会精彩年会花絮</a></div>
+<p><a target="_blank" href="http://baa.bitauto.com/bora/thread-1496163.html"><img class="imgborder" border="1" alt="宝来车友游马鞍山雨山湖" width="300" height="200" src="http://pic.baa.bitautotech.com/temp/2010121394035402.jpg" /></a></p>
+<div id="focus_d2"><a target="_blank" href="http://baa.bitauto.com/bora/thread-1496163.html"><em>2</em>宝来车友游马鞍山雨山湖</a></div>
+<p><a target="_blank" href="http://baa.bitauto.com/chezhan/showtopicphoto-1391039-12548377-un.html"><img class="imgborder" border="1" alt="广州车展性感靓模抢先看" width="300" height="200" src="http://pic.baa.bitautotech.com/temp/2010127104634715.jpg" /></a></p>
+<div id="focus_d3"><a target="_blank" href="http://baa.bitauto.com/chezhan/showtopicphoto-1391039-12548377-un.html"><em>3</em>广州车展性感靓模抢先看</a></div>
+<p><a target="_blank" href="http://www.bitauto.com/zhuanti/ad_topic/ppdr/"><img border="0" alt="参加品牌达人赢取IPAD大奖" width="300" height="200" src="http://pic.baa.bitautotech.com/temp/201012914451600.jpg" /></a></p>
+<div id="focus_d4"><a target="_blank" href="http://www.bitauto.com/zhuanti/ad_topic/ppdr/"><em>4</em>参加品牌达人赢取IPAD大奖</a></div>
+<p><a target="_blank" href="http://baa.bitauto.com/cc/thread-1496755.html"><img border="0" alt="CC国产艾尼灰真实油耗作业" width="300" height="200" src="http://pic.baa.bitautotech.com/temp/2010121393326120.jpg" /></a></p>
+<div id="focus_d5"><a target="_blank" href="http://baa.bitauto.com/cc/thread-1496755.html"><em>5</em>CC国产艾尼灰真实油耗作业</a></div>
+<p><a target="_blank" href="http://ad-apac.doubleclick.net/clk;231990188;55917236;s?http://www.bora.com.cn/sportline"><img border="0" alt="热酷宣言 赢超值大礼" width="300" height="200" src="http://pic.baa.bitautotech.com/temp/2010121392112459.jpg" /></a></p>
+<div id="focus_d6"><a target="_blank" href="http://ad-apac.doubleclick.net/clk;231990188;55917236;s?http://www.bora.com.cn/sportline"><em>6</em>热酷宣言 赢超值大礼</a></div>
+</div>
+</div>
+            <!--焦点图_广告结束-->
+        </div>
+        <div class="col-main">
+            <div class="line_box mainlist_box loginpart">
+<h2><a style="color: #cc0000" target="_blank" href="http://baa.bitauto.com/ayt/thread-1496296.html">2010年凯越车友会年会跟踪报道</a></h2>
+<ul class="list_date">
+    <li><span><a target="_blank" href="http://baa.bitauto.com/ruiyi/">[睿翼论坛]</a></span><a target="_blank" href="http://baa.bitauto.com/ruiyi/thread-1477613.html">海外睿翼轿跑提车作业 动力很强</a><small><a target="_blank" href="http://i.bitauto.com/u899290/">tonyl</a></small></li>
+    <li><span><a target="_blank" href="http://baa.bitauto.com/yuexiang/">[悦翔论坛]</a></span><a target="_blank" href="http://baa.bitauto.com/yuexiang/thread-1495127.html">年度巨献 悦翔车友会周年回忆录</a><small><a target="_blank" href="http://i.bitauto.com/u827352/">山东卡布</a></small></li>
+    <li><span><a target="_blank" href="http://baa.bitauto.com/passat/">[帕萨特论坛]</a></span><a target="_blank" href="http://baa.bitauto.com/sagitar/thread-1417336.html">裸车18.53万元 提帕萨特1.8T作业</a><small><a target="_blank" href="http://i.bitauto.com/u899738/">鬼斧神工</a></small></li>
+    <li><span><a target="_blank" href="http://baa.bitauto.com/sagitar/">[速腾论坛]</a></span><a target="_blank" href="http://baa.bitauto.com/sagitar/thread-1392855.html">GTI中网 速腾外观内饰小改全过程</a><small><a target="_blank" href="http://i.bitauto.com/u900044/">陶小陶</a></small></li>
+    <li><span><a target="_blank" href="http://baa.bitauto.com/excellext/">[英朗论坛]</a></span><a target="_blank" href="http://baa.bitauto.com/excellext/thread-1381604.html">英朗GT 1.8L自动时尚款提车作业</a><small><a target="_blank" href="http://i.bitauto.com/u912610/">nandaomei</a></small></li>
+    <li><span><a target="_blank" href="http://baa.bitauto.com/fulwin2/">[风云2论坛]</a></span><a target="_blank" href="http://baa.bitauto.com/fulwin2/thread-1382677.html">黑色风云2购、提、装饰系列作业</a><small><a target="_blank" href="http://i.bitauto.com/u875463/">疯狂的蚂蚁</a></small></li>
+    <li><span><a target="_blank" href="http://baa.bitauto.com/chezhan/forum-662722.html">[车展论坛]</a></span><a target="_blank" href="http://baa.bitauto.com/chezhan/thread-1390128.html">2010广州车展抢票活动火热举行中</a><small><a target="_blank" href="http://i.bitauto.com/u926651/">活动编辑</a></small></li>
+    <li><span><a target="_blank" href="http://baa.bitauto.com/chezhan/">[车展论坛]</a></span><a target="_blank" href="http://baa.bitauto.com/chezhan/thread-1370478.html">猜广州车展新车价格 拿易车大奖</a><small><a target="_blank" href="http://i.bitauto.com/u926651/">活动编辑</a></small></li>
+</ul>
+<div class="clear">&nbsp;</div>
+</div>
+        </div>
+        <div class="col-side">
+            <div class="line_box loginpart" id="loginDiv">
+                正在读取登录信息...
+            </div>
+        </div>
+    </div>
+    <!--焦点图社区头条登录end-->
+    <!--提车作业到社区公告部分部分start-->
+    <div class="col-all">
+        <div class="col-sub">
+            <div class="line_box mainlist_box cheyou">
+                <h3 class="commu"><span><span class="caption"><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/moretopic_type_1.html">提车作业</a></span></span></h3>
+<dl><dt><a title="白色英朗GT 1.8L提车" target="_blank" href="http://baa.bitauto.com/excellext/thread-1381604.html"><img height="80" alt="白色英朗GT1.8L提车" width="120" border="0" src="http://pic.baa.bitautotech.com/temp/201012794634546.jpg" />白色英朗GT1.8L提车</a> </dt><dd>开了一个月了，才开了300公里而已，公司离家太近，，车是1.8L自动时尚&hellip;&hellip;<a target="_blank" href="http://baa.bitauto.com/excellext/thread-1381604.html">详细>></a> </dd></dl>
+<div class="more"><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/moretopic_type_1.html">更多>></a></div><ul class="list_date"><li><span><a href="http://baa.bitauto.com/c30/" target="_blank">[腾翼C30_翼]</a></span><a href="http://baa.bitauto.com/c30/thread-1495673.html" target="_blank">腾翼C30红色手豪提车装饰作业</a></li><li><span><a href="http://baa.bitauto.com/crosspolo/" target="_blank">[cross polo]</a></span><a href="http://baa.bitauto.com/crosspolo/thread-1452861.html" target="_blank">CrossPolo柠檬绿补交提车作业</a></li><li><span><a href="http://baa.bitauto.com/chevroletsail/" target="_blank">[新赛欧]</a></span><a href="http://baa.bitauto.com/chevroletsail/thread-1433505.html" target="_blank">新赛欧三箱优逸银手动提车作业</a></li><li><span><a href="http://baa.bitauto.com/chevroletsail/" target="_blank">[新赛欧]</a></span><a href="http://baa.bitauto.com/chevroletsail/thread-1391629.html" target="_blank">新赛欧提车及装潢小饰品作业</a></li><li><span><a href="http://baa.bitauto.com/fulwin2/" target="_blank">[风云2]</a></span><a href="http://baa.bitauto.com/fulwin2/thread-1386252.html" target="_blank">风云2提车及简单装饰密封作业</a></li><li><span><a href="http://baa.bitauto.com/yuexiang/" target="_blank">[悦翔-悦家]</a></span><a href="http://baa.bitauto.com/yuexiang/thread-1384839.html" target="_blank">红色悦翔提车及第一次装饰作业</a></li></ul>
+            </div>
+        </div>
+        <div class="col-main">
+            <div class="line_box mainlist_box gouche">
+                <h3 class="commu"><span><span class="caption"><a href="http://baa.bitauto.com/foruminterrelated/moretopic_type_2.html" target="_blank">用车作业</a></span></span></h3>
+<div class="more"><a href="http://baa.bitauto.com/foruminterrelated/moretopic_type_2.html" target="_blank">更多&gt;&gt;</a></div>
+<ul class="list_date"><li><span><a href="http://baa.bitauto.com/passat/" target="_blank">[帕萨特、领]</a></span><a href="http://baa.bitauto.com/passat/thread-1342078.html" target="_blank">新领域500公里 疯狂选购小饰品</a><small><a href="http://i.bitauto.com/u921496" target="_blank">天意使然                </a></small></li><li><span><a href="http://baa.bitauto.com/cruze/" target="_blank">[科鲁兹_百]</a></span><a href="http://baa.bitauto.com/cruze/thread-1337544.html" target="_blank">秀秀我的爱-科鲁兹带给我的欢乐</a><small><a href="http://i.bitauto.com/u905941" target="_blank">西西的小八号              </a></small></li><li><span><a href="http://baa.bitauto.com/frv/" target="_blank">[V笑中华-骏]</a></span><a href="http://baa.bitauto.com/frv/thread-1336519.html" target="_blank">骏捷FRV与电线杆"亲密接触"之后</a><small><a href="http://i.bitauto.com/u928422" target="_blank">c3706972            </a></small></li><li><span><a href="http://baa.bitauto.com/A3/" target="_blank">[奇瑞A3_A3]</a></span><a href="http://baa.bitauto.com/A3/thread-1331307.html" target="_blank">奇瑞A3 1500公里体验及改进建议</a><small><a href="http://i.bitauto.com/u873302" target="_blank">蓬莱小三                </a></small></li><li><span><a href="http://baa.bitauto.com/xl/" target="_blank">[夏利-夏令]</a></span><a href="http://baa.bitauto.com/xl/thread-1330258.html" target="_blank">[原创]2010-史上最艰难的验车记</a><small><a href="http://i.bitauto.com/u76755" target="_blank">a23                 </a></small></li><li><span><a href="http://baa.bitauto.com/A3/" target="_blank">[奇瑞A3_A3]</a></span><a href="http://baa.bitauto.com/A3/thread-1328934.html" target="_blank">5000公里的最后一批老A3 上作业</a><small><a href="http://i.bitauto.com/u900841" target="_blank">阿三快跑                </a></small></li><li><span><a href="http://baa.bitauto.com/chevroletsail/" target="_blank">[新赛欧]</a></span><a href="http://baa.bitauto.com/chevroletsail/thread-1297794.html" target="_blank">[图]新赛欧1.4手优银 贴TYPER膜</a><small><a href="http://i.bitauto.com/u830622" target="_blank">havengao            </a></small></li><li><span><a href="http://baa.bitauto.com/bora/" target="_blank">[宝来]</a></span><a href="http://baa.bitauto.com/bora/thread-1297793.html" target="_blank">新手行车日记：4档上班、3档回家</a><small><a href="http://i.bitauto.com/u913901" target="_blank">宝来858               </a></small></li><li><span><a href="http://baa.bitauto.com/chevroletsail/" target="_blank">[新赛欧]</a></span><a href="http://baa.bitauto.com/chevroletsail/thread-1244529.html" target="_blank">新赛欧1.4“养病”中 痛心上传</a><small><a href="http://i.bitauto.com/u869513" target="_blank">baobeio             </a></small></li><li><span><a href="http://baa.bitauto.com/frv/" target="_blank">[V笑中华-骏]</a></span><a href="http://baa.bitauto.com/frv/thread-1239529.html" target="_blank">骏捷FRV全车锁芯更换 欢迎祝贺</a><small><a href="http://i.bitauto.com/u627776" target="_blank">frv380              </a></small></li></ul>
+            </div>
+        </div>
+        <div class="col-side">
+            <div class="line_box xinshoubidu">
+<h3><span><a target="_blank" href="http://life.bitauto.com/help/">新手必读</a></span></h3>
+<div class="more"><a target="_blank" href="http://life.bitauto.com/help/">更多>></a></div>
+<ul class="list">
+    <li><a target="_blank" href="http://life.bitauto.com/help/index.shtml">什么是i易车</a> <a target="_blank" href="http://life.bitauto.com/help/index.shtml">为什么要激活邮箱？</a></li>
+    <li><a target="_blank" href="http://life.bitauto.com/help/baa.shtml">如何在论坛发表主题或回帖？</a></li>
+    <li><a target="_blank" href="http://life.bitauto.com/help/baa.shtml">如何上传图文并茂的帖子？</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/baapm/thread-1170920.html">会长管理规范 申请流程及会长职责 </a></li>
+</ul>
+</div>
+<div class="line_box xinshoubidu">
+<h3><span>社区公告</span></h3>
+<ul class="list">
+    <li><a target="_blank" href="http://baa.bitauto.com/chezhan/thread-1370478.html">猜广州车展新车价格 拿易车大奖</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/gaoerfugti/thread-1302914.html">2010易车网品牌达人活动火热开启</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/baapm/thread-1034824.html">易车网发作业奖励易车币活动开始</a></li>
+    <li><a target="_blank" href="http://gaj.bjhd.gov.cn/tabid/159/Default.aspx">温馨提示：北京海淀警方预防诈骗</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/baapm/thread-1009323.html">易车币实物礼品兑换网友作业汇总</a></li>
+</ul>
+</div>
+        </div>
+    </div>
+    <!--提车作业到社区公告部分end-->
+    <!--装饰改装到车型论坛排行部分start-->
+    <div class="col-all">
+        <div class="col-sub">
+            <div class="line_box mainlist_box cheyou">
+                <h3 class="commu"><span><span class="caption"><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/moretopic_type_3.html">装饰改装</a></span></span></h3>
+<dl><dt><a title="风云2加装倒车影像" target="_blank" href="http://baa.bitauto.com/fulwin2/thread-1390989.html"><img height="80" alt="风云2加装倒车影像" width="120" border="0" src="http://pic.baa.bitautotech.com/temp/201012710158571.jpg" /></a><a title="风云2加装倒车影像" target="_blank" href="http://baa.bitauto.com/fulwin2/thread-1390989.html">风云2加装倒车影像</a> </dt><dd>每次倒车都有点怕，虽然车上有倒车雷达，但屁股有点高，有的地方探不到&hellip;&hellip;<a target="_blank" href="http://baa.bitauto.com/fulwin2/thread-1390989.html">详细>></a> </dd></dl>
+<div class="more"><a target="_blank" href="http://www.baa.com.cn/foruminterrelated/moretopic_type_3.html">更多>></a></div><ul class="list_date"><li><span><a href="http://baa.bitauto.com/fulwin2/" target="_blank">[风云2]</a></span><a href="http://baa.bitauto.com/fulwin2/thread-1476105.html" target="_blank">风云2卡钳和鼓刹红色喷漆作业</a></li><li><span><a href="http://baa.bitauto.com/frv/" target="_blank">[V笑中华-骏]</a></span><a href="http://baa.bitauto.com/frv/thread-1431611.html" target="_blank">自己动手 十分钟更换LED顶灯</a></li><li><span><a href="http://baa.bitauto.com/chevroletsail/" target="_blank">[新赛欧]</a></span><a href="http://baa.bitauto.com/chevroletsail/thread-1392014.html" target="_blank">新赛欧1.4L白色提车20天补作业</a></li><li><span><a href="http://baa.bitauto.com/A3/" target="_blank">[奇瑞A3_A3]</a></span><a href="http://baa.bitauto.com/A3/thread-1382085.html" target="_blank">奇瑞A3加装雷神整流器使用感受</a></li><li><span><a href="http://baa.bitauto.com/v3/" target="_blank">[V3菱悦]</a></span><a href="http://baa.bitauto.com/v3/thread-1372089.html" target="_blank">小改怡情 V3菱悦改装变身纪录</a></li><li><span><a href="http://baa.bitauto.com/Sportage/" target="_blank">[狮跑-狮友]</a></span><a href="http://baa.bitauto.com/Sportage/thread-1351594.html" target="_blank">自己动手 狮跑换空气滤芯作业</a></li></ul>
+            </div>
+        </div>
+        <div class="col-main">
+            <div class="line_box mainlist_box gouche">
+                <h3 class="commu"><span><span class="caption"><a href="http://baa.bitauto.com/foruminterrelated/moretopic_type_6.html" target="_blank">维修保养</a></span></span></h3>
+<div class="more"><a href="http://baa.bitauto.com/foruminterrelated/moretopic_type_6.html" target="_blank">更多&gt;&gt;</a></div>
+<ul class="list_date"><li><span><a href="http://baa.bitauto.com/frv/" target="_blank">[V笑中华-骏]</a></span><a href="http://baa.bitauto.com/frv/thread-1364924.html" target="_blank">[图]骏捷FRV 7400公里才做二保</a><small><a href="http://i.bitauto.com/u899724" target="_blank">gedatang            </a></small></li><li><span><a href="http://baa.bitauto.com/yuexiang/" target="_blank">[悦翔-悦家]</a></span><a href="http://baa.bitauto.com/yuexiang/thread-1352256.html" target="_blank">悦翔更换前减震 效果确实很不错</a><small><a href="http://i.bitauto.com/u906174" target="_blank">feng_zhq            </a></small></li><li><span><a href="http://baa.bitauto.com/elysee/" target="_blank">[爱丽舍_大]</a></span><a href="http://baa.bitauto.com/elysee/thread-1337740.html" target="_blank">大城小爱-新爱丽舍13175公里保养</a><small><a href="http://i.bitauto.com/u901289" target="_blank">风吹稻花                </a></small></li><li><span><a href="http://baa.bitauto.com/fulwin2/" target="_blank">[风云2]</a></span><a href="http://baa.bitauto.com/fulwin2/thread-1337481.html" target="_blank">高音喇叭有异响 解决不了真苦恼</a><small><a href="http://i.bitauto.com/u841659" target="_blank">雪山狼lq286            </a></small></li><li><span><a href="http://baa.bitauto.com/bora/" target="_blank">[宝来]</a></span><a href="http://baa.bitauto.com/bora/thread-1330160.html" target="_blank">宝来2000公里换机油 总花费40元</a><small><a href="http://i.bitauto.com/u897698" target="_blank">爱死了小宝               </a></small></li><li><span><a href="http://baa.bitauto.com/yuexiang/" target="_blank">[悦翔-悦家]</a></span><a href="http://baa.bitauto.com/yuexiang/thread-1329199.html" target="_blank">15年一遇的故障——车轮轴承噪音</a><small><a href="http://i.bitauto.com/u835449" target="_blank">四川老國                </a></small></li><li><span><a href="http://baa.bitauto.com/chevroletsail/" target="_blank">[新赛欧]</a></span><a href="http://baa.bitauto.com/chevroletsail/thread-1325492.html" target="_blank">新赛欧提车啦！50天用车作业记录</a><small><a href="http://i.bitauto.com/u876941" target="_blank">小廖仔                 </a></small></li><li><span><a href="http://baa.bitauto.com/elysee/" target="_blank">[爱丽舍_大]</a></span><a href="http://baa.bitauto.com/elysee/thread-1289458.html" target="_blank">新爱丽舍缺缸维修作业 超级详细</a><small><a href="http://i.bitauto.com/u792100" target="_blank">fisher_my           </a></small></li><li><span><a href="http://baa.bitauto.com/passat/" target="_blank">[帕萨特、领]</a></span><a href="http://baa.bitauto.com/passat/thread-1286890.html" target="_blank">领驭28000公里五保 (附费用详情)</a><small><a href="http://i.bitauto.com/u843168" target="_blank">山野之人                </a></small></li><li><span><a href="http://baa.bitauto.com/ruiying/" target="_blank">[瑞鹰]</a></span><a href="http://baa.bitauto.com/ruiying/thread-1269644.html" target="_blank">瑞鹰冬季保养：洗发动机、进气道</a><small><a href="http://i.bitauto.com/u851829" target="_blank">不抽烟真酷               </a></small></li></ul>
+            </div>
+        </div>
+        <!-- 品牌论坛排行 -->
+        <div class="col-side">
+    <div class="line_box">
+        <h3>
+            <span><a  target="_blank" href="foruminterrelated/grouplist_1.html">品牌论坛排行</a></span></h3>
+        <ol class="hot_ranking">
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/yuexiang/" target="_blank">悦翔-悦家军</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/passat/" target="_blank">帕萨特、领驭</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/crosspolo/" target="_blank">cross polo-C友邦</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/bora/" target="_blank">宝来</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/Sportage/" target="_blank">狮跑-狮友会</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/fulwin2/" target="_blank">风云2</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/xl/" target="_blank">夏利-夏令营</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/haima/" target="_blank">海马车友会</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/ayt/" target="_blank">凯越_爱越团</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/chevroletsail/" target="_blank">新赛欧</a></li>
+            
+        </ol>
+        <div class="more">
+            <a  target="_blank" href="foruminterrelated/grouplist_1.html">更多&gt;&gt;</a></div>
+        <div class="clear">
+        </div>
+    </div>
+</div>
+ 
+    </div>
+    <!--装饰改装到车型论坛排行部分end-->
+    <!--自驾游到地区论坛排行部分start-->
+    <div class="col-all">
+        <div class="col-sub">
+            <div class="line_box mainlist_box cheyou">
+                <h3 class="commu"><span><span class="caption"><a target="_blank" href="http://baa.bitauto.com/foruminterrelated/moretopic_type_5.html">自驾游</a></span></span></h3>
+<dl><dt><a title="京美会车友自驾游" target="&rdquo;_blank" href="http://baa.bitauto.com/camry/thread-1417362.html"><img height="80" alt="京美会车友自驾游" width="120" src="http://pic.baa.bitautotech.com/temp/2010129133133857.jpg" /></a><a title="京美会车友自驾游" target="&rdquo;_blank" href="http://baa.bitauto.com/camry/thread-1417362.html">京美会车友自驾游</a> </dt><dd>京美会2010年会系列纪实三 午后， 休闲 登山 搓麻&hellip;&hellip;<a target="&rdquo;_blank" href="http://baa.bitauto.com/camry/thread-1417362.html">详细>></a> </dd></dl>
+<div class="more"><a target="_blank" href="http://baa.bitauto.com/foruminterrelated/moretopic_type_5.html">更多>></a></div><ul class="list_date"><li><span><a href="http://baa.bitauto.com/qashqai/" target="_blank">[逍客易车会]</a></span><a href="http://baa.bitauto.com/qashqai/thread-1403532.html" target="_blank">惠州惠东沿海渡假区自驾游作业 </a></li><li><span><a href="http://baa.bitauto.com/qashqai/" target="_blank">[逍客易车会]</a></span><a href="http://baa.bitauto.com/qashqai/thread-1401592.html" target="_blank">车友避开人潮世外桃源自驾露营 </a></li><li><span><a href="http://baa.bitauto.com/fulwin2/" target="_blank">[风云2]</a></span><a href="http://baa.bitauto.com/fulwin2/thread-1381932.html" target="_blank">风云2车友会雪中自驾游作业贴</a></li><li><span><a href="http://baa.bitauto.com/hn/" target="_blank">[河南]</a></span><a href="http://baa.bitauto.com/hn/thread-1371039.html" target="_blank">南阳南召莲花温泉水城自驾游帖</a></li><li><span><a href="http://baa.bitauto.com/yuexiang/" target="_blank">[悦翔-悦家]</a></span><a href="http://baa.bitauto.com/yuexiang/thread-1365559.html" target="_blank">悦翔车友到台儿庄自驾游活动贴</a></li><li><span><a href="http://baa.bitauto.com/crosspolo/" target="_blank">[cross polo]</a></span><a href="http://baa.bitauto.com/crosspolo/thread-1361871.html" target="_blank">属于cross polo车友的快乐时光</a></li></ul>
+            </div>
+        </div>
+        <div class="col-main">
+            <div class="line_box mainlist_box gouche">
+                <h3 class="commu"><span><span class="caption"><a href="http://baa.bitauto.com/foruminterrelated/moretopic_type_4.html" target="_blank">车友聚会</a></span></span></h3>
+<div class="more"><a href="http://baa.bitauto.com/foruminterrelated/moretopic_type_4.html" target="_blank">更多&gt;&gt;</a></div>
+<ul class="list_date"><li><span><a href="http://baa.bitauto.com/hubei/" target="_blank">[湖北]</a></span><a href="http://baa.bitauto.com/hubei/thread-1377150.html" target="_blank">车友走马观车看车展之车型篇帖</a><small><a href="http://i.bitauto.com/u464243" target="_blank">胖猫                  </a></small></li><li><span><a href="http://baa.bitauto.com/ruiying/" target="_blank">[瑞鹰]</a></span><a href="http://baa.bitauto.com/ruiying/thread-1375239.html" target="_blank">驾鹰穿越林海雪原第二季精彩帖</a><small><a href="http://i.bitauto.com/u934391" target="_blank">别这么可爱               </a></small></li><li><span><a href="http://baa.bitauto.com/hubei/" target="_blank">[湖北]</a></span><a href="http://baa.bitauto.com/hubei/thread-1375147.html" target="_blank">2010德国房车大师赛上海站报道</a><small><a href="http://i.bitauto.com/u567415" target="_blank">奥林鸡汤                </a></small></li><li><span><a href="http://baa.bitauto.com/gx/" target="_blank">[广西]</a></span><a href="http://baa.bitauto.com/gx/thread-1371470.html" target="_blank">南宁国际汽车展览会归来作业贴</a><small><a href="http://i.bitauto.com/u934280" target="_blank">靖靖mm                </a></small></li><li><span><a href="http://baa.bitauto.com/gx/" target="_blank">[广西]</a></span><a href="http://baa.bitauto.com/gx/thread-1370863.html" target="_blank">12月2日欣赏南宁车展美女车模</a><small><a href="http://i.bitauto.com/u907981" target="_blank">wenghaiming         </a></small></li><li><span><a href="http://baa.bitauto.com/Sportage/" target="_blank">[狮跑-狮友]</a></span><a href="http://baa.bitauto.com/Sportage/thread-1355377.html" target="_blank">狮跑车友会大型贴标活动作业贴</a><small><a href="http://i.bitauto.com/u900732" target="_blank">猫猫818               </a></small></li><li><span><a href="http://baa.bitauto.com/yuexiang/" target="_blank">[悦翔-悦家]</a></span><a href="http://baa.bitauto.com/yuexiang/thread-1352426.html" target="_blank">悦翔车友队VS文轩队足球友谊赛</a><small><a href="http://i.bitauto.com/u831664" target="_blank">忙忙碌碌cd银豪            </a></small></li><li><span><a href="http://baa.bitauto.com/gd/" target="_blank">[广东]</a></span><a href="http://baa.bitauto.com/gd/thread-1342503.html" target="_blank">广东车友参加新丰云髻山登山赛</a><small><a href="http://i.bitauto.com/u603903" target="_blank">王毛1                 </a></small></li><li><span><a href="http://baa.bitauto.com/yaris/" target="_blank">[雅力士(YAR]</a></span><a href="http://baa.bitauto.com/yaris/thread-1339699.html" target="_blank">雅力士车友-净月烤全羊聚会贴</a><small><a href="http://i.bitauto.com/u929111" target="_blank">wjr1314             </a></small></li><li><span><a href="http://baa.bitauto.com/yuexiang/" target="_blank">[悦翔-悦家]</a></span><a href="http://baa.bitauto.com/yuexiang/thread-1325702.html" target="_blank">四川悦翔车友--运动会 其乐无穷 </a><small><a href="http://i.bitauto.com/u875754" target="_blank">个人来问                </a></small></li></ul>
+            </div>
+        </div>
+        <!-- 地区论坛排行 -->
+        <div class="col-side">
+    <div class="line_box">
+        <h3>
+            <span><a  target="_blank" href="foruminterrelated/grouplist_3.html">地区论坛排行</a></span></h3>
+        <ol class="hot_ranking">
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/tj/" target="_blank">天津</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/gd/" target="_blank">广东</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/sh/" target="_blank">上海</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/bj/" target="_blank">北京</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/sc/" target="_blank">四川</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/gx/" target="_blank">广西</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/sz/" target="_blank">深圳</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/sd/" target="_blank">山东</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/yn/" target="_blank">云南易车会</a></li>
+            
+            <li><a  target="_blank" href="http://baa.bitauto.com/hn/" target="_blank">河南</a></li>
+            
+        </ol>
+        <div class="more">
+            <a  target="_blank" href="foruminterrelated/grouplist_3.html">更多&gt;&gt;</a></div>
+        <div class="clear">
+        </div>
+    </div>
+</div>
+ 
+    </div>
+    <!--自驾游到地区论坛排行部分end-->
+    <!--车友达人star-->
+    <div class="col-all">
+        <div class="line_box pic_album gonggao">
+            <h3 class="commu">
+                <span><span class="caption"><a href="http://i.bitauto.com/idaren.html" target="_blank">车友达人</a></span></span></h3>
+            <ul class="list_pic">
+<li><a target=”_blank href="http://i.bitauto.com/u533756/"><img title="stephen" src="http://image.bitautoimg.com/bitauto//2010/12/185700905.jpg"></a><a target=”_blank  href="http://i.bitauto.com/u533756/">stephen</a></li>
+ 
+<li><a target=”_blank  href="http://i.bitauto.com/u921394/"><img title="仿真宠物" src="http://image.bitautoimg.com/bitauto//2010/11/131916994.jpg"></a><a target=”_blank  href="http://i.bitauto.com/u921394/">王小雪</a></li>
+ 
+<li><a target=”_blank  href="http://i.bitauto.com/u920751/"><img title="亲亲飞儿
+" src="http://image.bitautoimg.com/bitauto//2010/11/102246305.jpg"></a><a target=”_blank  href="http://i.bitauto.com/u920751/">亲亲飞儿</a></li>
+ 
+<li><a target=”_blank  href="http://i.bitauto.com/u911647/"><img title="婀娜公主" src="http://image.bitautoimg.com/bitauto//2010/11/115514352.jpg"></a><a target=”_blank  href="http://i.bitauto.com/u911647/">婀娜公主</a></li>
+ 
+<li><a target=”_blank href="http://i.bitauto.com/u920882/"><img title="620帅哥" src="http://image.bitautoimg.com/bitauto//2010/11/115544415.jpg"></a><a target=”_blank  href="http://i.bitauto.com/u920882/">620帅哥</a></li>
+ 
+<li><a target=”_blank  href="http://i.bitauto.com/u914569/"><img title="sosofier
+" src="http://image.bitautoimg.com/bitauto//2010/11/152857380.jpg"></a><a target=”_blank  href="http://i.bitauto.com/u914569/">sosofier</a></li>
+ 
+<li><a target=”_blank  href="http://i.bitauto.com/u911420/"><img title="百兹会小兔子"src="http://image.bitautoimg.com/bitauto//2010/11/152831205.jpg"></a><a target=”_blank  href="http://i.bitauto.com/u911420/">百兹会小兔子</a></li>
+ 
+            </ul>
+<div class="more"><a href="http://i.bitauto.com/idaren.html" target="_blank">更多>></a></div>
+ 
+    </div>
+    <div class="col-all">
+        <div class="line_box pic_album meinvpic" id="albumtabpans">
+            <h3 class="commu">
+    <span><span class="caption"><a href="/foruminterrelated/forumalbum.html" target="_blank">社区图库</a></span></span></h3>
+<div class="h3_tab ">
+    <ul id="albumtabs">
+        <li class="current"><a href="http://baa.bitauto.com/foruminterrelated/forumalbummore_digest_3.html" target="_blank" onmouseover="toggleAlbumTabs(0);">
+            装饰改装</a></li>
+        <li><a href="http://baa.bitauto.com/foruminterrelated/forumalbummore_digest_5.html" target="_blank" onmouseover="toggleAlbumTabs(1);">
+            自驾游记</a></li>
+        <li><a href="http://baa.bitauto.com/foruminterrelated/forumalbummore_digest_4.html" target="_blank" onmouseover="toggleAlbumTabs(2);">
+            车友聚会</a></li>
+        <li><a href="http://baa.bitauto.com/foruminterrelated/forumalbummore_digest_14.html" target="_blank" onmouseover="toggleAlbumTabs(3);">
+            香车美女</a></li>
+        <li><a href="http://baa.bitauto.com/foruminterrelated/forumalbummore_digest_12.html" target="_blank" onmouseover="toggleAlbumTabs(4);">
+            交通事故</a></li>
+  </ul>
+</div>
+<div class="more">
+<a href="/foruminterrelated/forumalbum.html" target="_blank">更多&gt;&gt;</a></div>
+ 
+            <ul class="list_pic">
+                <li><a target="_blank" href="http://baa.bitauto.com/lowerclub/showtopicphoto-1352297-12531914-1.html"><img title="装饰改装" height="90" alt="宝来复古化大改装" width="126" src="http://pic.baa.bitautotech.com/temp/2010126145844645.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/lowerclub/showtopicphoto-1352297-12531914-1.html">宝来复古化大改装</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/lowerclub/showtopicphoto-1361571-12536257-1.html"><img title="装饰改装" height="90" alt="超酷的绿色改装" width="126" src="http://pic.baa.bitautotech.com/temp/201012295630825.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/lowerclub/showtopicphoto-1361571-12536257-1.html">超酷的绿色改装</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/lowerclub/showtopicphoto-1364935-12537343-1.html"><img title="装饰改装" height="90" alt="BMW的黑白双煞" width="126" src="http://pic.baa.bitautotech.com/temp/201012295145698.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/lowerclub/showtopicphoto-1364935-12537343-1.html">BMW的黑白双煞</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/lowerclub/thread-1339639.html"><img title="装饰改装" height="90" alt="大众的各种改装" width="126" src="http://pic.baa.bitautotech.com/temp/2010113010262833.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/lowerclub/thread-1339639.html">大众的各种改装</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/lowerclub/showtopicphoto-1256972-12493056-1.html"><img title="装饰改装" height="90" alt="暴改的高尔夫MK4" width="126" src="http://pic.baa.bitautotech.com/temp/2010112510174018.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/lowerclub/showtopicphoto-1337670-12525401-1.html">暴改的高尔夫MK4</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/frv/thread-1322197.html"><img title="装饰改装" height="90" alt="骏捷拉花+改灯" width="126" src="http://pic.baa.bitautotech.com/temp/2010112310168338.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/frv/thread-1322197.html">骏捷拉花+改灯</a></div>
+</li>
+            </ul>
+            <ul class="list_pic" style="display: none;">
+                <li><a target="&rdquo;_blank" href="http://baa.bitauto.com/bora/thread-1402479.html"><img title="树海行&mdash;云南昆明植物园" alt="" src="http://pic.baa.bitautotech.com/temp/201012914021445.jpg" /></a>
+<div><a target="&rdquo;_blank" href="http://baa.bitauto.com/bora/thread-1402479.html">树海行&mdash;云南昆明植物园</a></div>
+</li>
+<li><a target="&rdquo;_blank" href="http://baa.bitauto.com/crosspolo/thread-1355557.html"><img title="京西十八潭&ldquo;抽风&rdquo;作业" alt="" src="http://pic.baa.bitautotech.com/temp/2010127101124463.jpg" /></a>
+<div><a target="&rdquo;_blank" href="http://baa.bitauto.com/crosspolo/thread-1355557.html">京西十八潭&ldquo;抽风&rdquo;作业</a></div>
+</li>
+<li><a target="&rdquo;_blank" href="http://baa.bitauto.com/gd/thread-1355695-1.html"><img title="广东车友自驾游活动" alt="" src="http://pic.baa.bitautotech.com/temp/2010122102339842.jpg" /></a>
+<div><a target="&rdquo;_blank" href="http://baa.bitauto.com/gd/thread-1355695-1.html">广东车友自驾游活动</a></div>
+</li>
+<li><a target="&rdquo;_blank" href="http://baa.bitauto.com/haima/thread-1351696-1.html"><img title="海马邯郸车友自驾游" alt="" src="http://pic.baa.bitautotech.com/temp/201011309512637.jpg" /></a>
+<div><a target="&rdquo;_blank" href="http://baa.bitauto.com/haima/thread-1351696-1.html">海马邯郸车友自驾游</a></div>
+</li>
+<li><a target="&rdquo;_blank" href="http://baa.bitauto.com/mazda6/thread-1310552.html"><img title="马6车友会青龙峡自驾游" alt="" src="http://pic.baa.bitautotech.com/temp/2010112510338523.jpg" /></a>
+<div><a target="&rdquo;_blank" href="http://baa.bitauto.com/mazda6/thread-1310552.html">马6车友会青龙峡自驾游</a></div>
+</li>
+<li><a target="&rdquo;_blank" href="http://baa.bitauto.com/cruze/thread-1322225.html"><img title="小科带给我的欢乐" alt="" src="http://pic.baa.bitautotech.com/temp/2010112393328445.jpg" /></a>
+<div><a target="&rdquo;_blank" href="http://baa.bitauto.com/cruze/thread-1322225.html">小科带给我的欢乐</a></div>
+</li>
+            </ul>
+            <ul class="list_pic" style="display: none;">
+                <li><a target="_blank" href="http://baa.bitauto.com/chevroletsail/thread-1418696.html"><img title="徐州赛欧车主首聚" height="84" alt="" width="120" src="http://pic.baa.bitautotech.com/temp/2010129141516258.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/chevroletsail/thread-1418696.html">徐州赛欧车主首聚</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/yuexiang/thread-1351865.html"><img title="47辆悦翔游古城&mdash;山东" height="84" alt="" width="120" src="http://pic.baa.bitautotech.com/temp/201012710936184.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/yuexiang/thread-1351865.html">47辆悦翔游古城&mdash;山东</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/ruiying/thread-1360606.html"><img title="车友驾鹰穿越林海雪原" height="84" alt="" width="120" src="http://pic.baa.bitautotech.com/temp/2010122102219174.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/ruiying/thread-1360606.html">车友驾鹰穿越林海雪原</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/A3/thread-1352249.html"><img title="资阳A3壹族1128聚会" height="84" alt="" width="120" src="http://pic.baa.bitautotech.com/temp/2010113094844777.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/A3/thread-1352249.html">资阳A3壹族1128聚会</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/yuexiang/thread-1304399.html"><img title="四川悦翔金堂聚会" height="84" alt="" width="120" src="http://pic.baa.bitautotech.com/temp/201011259594150.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/yuexiang/thread-1304399.html">四川悦翔金堂聚会</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/alto/thread-1296921-1.html"><img title="奥拓车友昌平FB归来" height="84" alt="" width="120" src="http://pic.baa.bitautotech.com/temp/20101123931243.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/alto/thread-1296921-1.html">奥拓车友昌平FB归来</a></div>
+</li>
+            </ul>
+            <ul class="list_pic" style="display: none;">
+                <li><a target="_blank" href="http://baa.bitauto.com/sagitar/showtopicphoto-1336813-12524358-1.html"><img title="性感车模变身宅男女神" border="0" alt="性感车模变身宅男女神" width="120" height="84" src="http://pic.baa.bitautotech.com/temp/2010112582845338.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/sagitar/showtopicphoto-1336813-12524358-1.html">性感车模变身宅男女神</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/sagitar/showtopicphoto-1310370-12514405-1.html"><img title="绝望主妇与豪车调情" border="0" alt="绝望主妇与豪车调情" width="120" height="84" src="http://pic.baa.bitautotech.com/temp/2010112583159970.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/sagitar/showtopicphoto-1310370-12514405-1.html">绝望主妇与豪车调情</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1328477-12520283-1.html"><img title="亚运宝贝火热大胆" border="0" alt="亚运宝贝火热大胆" width="120" height="84" src="http://pic.baa.bitautotech.com/temp/2010112316304271.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1328477-12520283-1.html">亚运宝贝火热大胆</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/frv/showtopicphoto-1281026-12503354-1.html"><img title="性感MM火辣赛车队" border="0" alt="性感MM火辣赛车队" width="120" height="84" src="http://pic.baa.bitautotech.com/temp/20101116105517166.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/frv/showtopicphoto-1281026-12503354-1.html">性感MM火辣赛车队</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/ix35/showtopicphoto-1274692-12500135-1.html"><img title="嫩模共舞敞篷宝马" border="0" alt="嫩模共舞敞篷宝马" width="120" height="84" src="http://pic.baa.bitautotech.com/temp/2010111110404148.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/ix35/showtopicphoto-1274692-12500135-1.html">嫩模共舞敞篷宝马</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1244446-12490063-1.html"><img title="情趣古朴黑丝尤物" border="0" alt="情趣古朴黑丝尤物" width="120" height="84" src="http://pic.baa.bitautotech.com/temp/201011914594416.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1244446-12490063-1.html">情趣古朴黑丝尤物</a></div>
+</li>
+            </ul>
+            <ul class="list_pic" style="display: none;">
+                <li><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1328554-12520458-1.html"><img title="世嘉与小货惨烈车祸" alt="世嘉与小货惨烈车祸" src="http://pic.baa.bitautotech.com/temp/20101123163239807.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1328554-12520458-1.html">世嘉与小货惨烈车祸</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/Sportage/showtopicphoto-1307792-12512667-1.html"><img title="狮跑车祸面目全非" alt="狮跑车祸面目全非" src="http://pic.baa.bitautotech.com/temp/201011181037475.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/Sportage/showtopicphoto-1307792-12512667-1.html">狮跑车祸面目全非</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/ix35/showtopicphoto-1297226-12509682-1.html"><img title="宝马保时捷狂飙相撞" alt="宝马保时捷狂飙相撞" src="http://pic.baa.bitautotech.com/temp/201011161057675.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/ix35/showtopicphoto-1297226-12509682-1.html">宝马保时捷狂飙相撞</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1296036-12508569-1.html"><img title="远景与三轮惨烈车祸" alt="远景与三轮惨烈车祸" src="http://pic.baa.bitautotech.com/temp/20101116105951508.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1296036-12508569-1.html">远景与三轮惨烈车祸</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1238778-12488374-1.html"><img title="帝豪卡罗拉对撞" alt="帝豪卡罗拉对撞" src="http://pic.baa.bitautotech.com/temp/201011915458855.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1238778-12488374-1.html">帝豪卡罗拉对撞</a></div>
+</li>
+<li><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1261574-12495262-1.html"><img title="新飞度与大巴车对碰" alt="新飞度与大巴车对碰" src="http://pic.baa.bitautotech.com/temp/20101191534525.jpg" /></a>
+<div><a target="_blank" href="http://baa.bitauto.com/autophoto/showtopicphoto-1261574-12495262-1.html">新飞度与大巴车对碰</a></div>
+</li>
+            </ul>
+        </div>
+    </div>
+    <!--排行start-->
+    <div class="col-all">
+        <div class="baapaihagn">
+            <div class="line_box">
+                <h3 class="commu">
+                    <span><span class="caption"><a href="/foruminterrelated/moretopic_type_10.html" target="_blank">
+                        帖子排行</a></span></span></h3>
+                <ol class="hot_ranking">
+                    <li><a target="_blank" title="新人携自己新购买的小凯来交作业！                                            " href="http://baa.bitauto.com/ayt/thread-1095412.html">新人携自己新购买的小凯来交作业！    </a></li><li><a target="_blank" title="皖宿州新赛欧1.2EMT精彩作业~！（另有论坛副会长与女车友合影照）                          " href="http://baa.bitauto.com/chevroletsail/thread-1097965.html">皖宿州新赛欧1.2EMT精彩作业~！（另有论</a></li><li><a target="_blank" title="广西南宁时尚浩空蓝提车作业（部份装修）                                         " href="http://baa.bitauto.com/chevroletsail/thread-1103375.html">广西南宁时尚浩空蓝提车作业（部份装修</a></li><li><a target="_blank" title="【转】车祸后的反省！（带图）                                              " href="http://baa.bitauto.com/golf/thread-1096954.html">【转】车祸后的反省！（带图）            </a></li><li><a target="_blank" title="选车、提车、验车、装饰车一条龙日记，与大家共享！！！（申请加精）                            " href="http://baa.bitauto.com/ayt/thread-1091216.html">选车、提车、验车、装饰车一条龙日记，与</a></li><li><a target="_blank" title="第二季【梦蓝灰悦翔换195/55/R15轮胎轮毂】                                   " href="http://baa.bitauto.com/yuexiang/thread-1094844.html">第二季【梦蓝灰悦翔换195/55/R15轮胎轮</a></li><li><a target="_blank" title="精彩作业之小橙                                                     " href="http://baa.bitauto.com/benbenmini/thread-1095263.html">精彩作业之小橙                     </a></li><li><a target="_blank" title="从小白到骨灰，150元玩转EC718保养！达人为你悉数帝豪全部保养明细！易车首发                    " href="http://baa.bitauto.com/dihaoec7/thread-1097702.html">从小白到骨灰，150元玩转EC718保养！达</a></li><li><a target="_blank" title="明天去上牌了，今天来交份作业，2200公里用车感受                                   " href="http://baa.bitauto.com/excellext/thread-1100363.html">明天去上牌了，今天来交份作业，2200公</a></li><li style="background:none"><a target="_blank" title="【天窗版新奥拓，首发】秀一下我的新奥拓，天窗+天使眼                                  " href="http://baa.bitauto.com/alto/thread-1090320.html">【天窗版新奥拓，首发】秀一下我的新奥拓</a></li>
+                </ol>
+                <div class="more">
+                    <a href="/foruminterrelated/moretopic_type_10.html" target="_blank">更多&gt;&gt;</a></div>
+            </div><div class="line_box">
+                <h3 class="commu">
+                    <span><span class="caption"><a href="http://koubei.bitauto.com" target="_blank">口碑排行</a></span></span></h3>
+                <ol class="hot_ranking">
+                <li><a target="_blank" href="http://car.bitauto.com/changchengh5/koubei/241130/">不是支不支持国货的问题</a></li><li><a target="_blank" href="http://car.bitauto.com/hongguang/koubei/241376/">五菱宏光新车底盘生锈严重</a></li><li><a target="_blank" href="http://car.bitauto.com/verna/koubei/241058/">垃圾瑞纳 大家千万别买 这个价格劳资不如买帝豪 草</a></li><li><a target="_blank" href="http://car.bitauto.com/hongguang/koubei/241773/">经销商加价太狠</a></li><li><a target="_blank" href="http://car.bitauto.com/hongguang/koubei/241774/">失望</a></li><li><a target="_blank" href="http://car.bitauto.com/tiguan/koubei/241367/">大众途观会为车主着想吗？</a></li><li><a target="_blank" href="http://car.bitauto.com/xiaoke/koubei/241084/">车究竟是多少钱？？？？？？？？？？？？？</a></li><li><a target="_blank" href="http://car.bitauto.com/jieda/koubei/241227/">我的捷达救了我一命</a></li><li><a target="_blank" href="http://car.bitauto.com/verna/koubei/241078/">瑞纳1.4GT AT</a></li><li style="background:none"><a target="_blank" href="http://car.bitauto.com/verna/koubei/241152/">7-8W之间能买什么车 多一分不行 少一分不行</a></li>
+                </ol>
+                <div class="more">
+                    <a href="http://koubei.bitauto.com" target="_blank">更多&gt;&gt;</a></div>
+            </div>           
+ <div class="line_box">
+                <h3 class="commu">
+                    <span><span class="caption"><a href="http://ask.bitauto.com" target="_blank">答疑排行</a></span></span></h3>
+                <ol class="hot_ranking">
+            <li><a target="_blank" title="急求~各位高手帮忙参考一下裸车8.5W左右的家用轿车。急急急~~" href="http://ask.bitauto.com/detail/1321004">急求~各位高手帮忙参考一下裸车8.5W左</a></li><li><a target="_blank" title="5-6万能买啥车好啊" href="http://ask.bitauto.com/detail/1348651">5-6万能买啥车好啊</a></li><li><a target="_blank" title="请专家团，帮忙参考一下裸车10W以内的保有量高，保值率高的三厢车。" href="http://ask.bitauto.com/detail/1325279">请专家团，帮忙参考一下裸车10W以内的</a></li><li><a target="_blank" title="科鲁兹，荣威550，锋范哪款性能要好一点" href="http://ask.bitauto.com/detail/1348609">科鲁兹，荣威550，锋范哪款性能要好一点</a></li><li><a target="_blank" title="请问买车到底是买手动还是买自动的好呢？" href="http://ask.bitauto.com/detail/1331131">请问买车到底是买手动还是买自动的好</a></li><li><a target="_blank" title="10万块总价，买什么车比较合适，请高手帮忙解答，现在整天纠结啊" href="http://ask.bitauto.com/detail/1348541">10万块总价，买什么车比较合适，请高手</a></li><li><a target="_blank" title="冷车启动时发动机响声很大" href="http://ask.bitauto.com/detail/1348583">冷车启动时发动机响声很大</a></li><li><a target="_blank" title="专家，您好，我现有7w，能买什么车啊，给我推荐一下吧" href="http://ask.bitauto.com/detail/1383191">专家，您好，我现有7w，能买什么车啊，给</a></li><li><a target="_blank" title="睿翼2.5加多少标号的汽油比较好" href="http://ask.bitauto.com/detail/1348548">睿翼2.5加多少标号的汽油比较好</a></li><li style="background:none"><a target="_blank" title="明锐、速腾和奔腾买哪款更好" href="http://ask.bitauto.com/detail/1360271">明锐、速腾和奔腾买哪款更好</a></li>
+                </ol>
+                <div class="more">
+                    <a href="http://ask.bitauto.com" target="_blank">更多&gt;&gt;</a></div>
+            </div>            
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <!--友情链接start-->
+    <div class="col-all">
+<div class="line_box ">
+<h3 class="commu"><span><span class="caption"><a href="/others/friendlink.html">友情链接</a></span></span></h3>
+<ul class="friendlink">
+    <li><a target="_blank" href="http://www.ucar.cn/">二手车</a></li>
+    <li><a target="_blank" href="http://www.carsfun.com/">车趣网</a></li>
+    <li><a target="_blank" href="http://auto.hexun.com/">和讯汽车</a></li>
+    <li><a target="_blank" href="http://www.uncars.com/">卓众汽车网</a></li>
+    <li><a target="_blank" href="http://auto.daqi.com/">大旗汽车</a></li>
+    <li><a target="_blank" href="http://auto.mop.com/">猫扑汽车</a></li>
+    <li><a target="_blank" href="http://www.12edu.cn">教育城</a></li>
+    <li><a target="_blank" href="http://bbs.kshot.com/">昆山论坛</a></li>
+    <li><a target="_blank" href="http://www.m9m.com/">九脉网</a></li>
+    <li><a target="_blank" href="http://www.mycar168.com/">深圳汽车大世界</a></li>
+    <li><a target="_blank" href="http://zone.it.sohu.com">搜狐数码公社</a></li>
+    <li><a target="_blank" href="http://bbs.taskcn.com/">任务中国</a></li>
+    <li><a target="_blank" href="http://article.zhaopin.com/">求职简历</a></li>
+    <li><a target="_blank" href="http://www.carboxing.com.cn/">车擂台改装网</a></li>
+    <li><a target="_blank" href="http://www.gaibar.com/">改吧</a></li>
+    <li><a target="_blank" href="http://www.molei.net">雷网</a></li>
+    <li><a target="_blank" href="http://itbbs.pconline.com.cn/dc/">摄影论坛</a></li>
+    <li><a target="_blank" href="http://www.ins.com.cn/">保网</a></li>
+    <li><a target="_blank" href="http://u.zhubajie.com/">西游记</a></li>
+    <li><a target="_blank" href="http://www.xincheping.com/">新车评网</a></li>
+    <li><a target="_blank" href="http://www.ccn.com.cn/">中国消费网</a></li>
+    <li><a target="_blank" href="http://www.yiitoo.com/">摄影图库</a></li>
+    <li><a target="_blank" href="http://car.bitauto.com">汽车大全</a></li>
+    <li><a target="_blank" href="http://www.ouraudi.com/forum/">奥迪汇</a></li>
+    <li><a target="_blank" href="http://www.yccar.com/">盐城汽车网</a></li>
+    <li><a target="_blank" href="http://bbs.chinabyte.com/">比特网论坛</a></li>
+    <li><a target="_blank" href="http://bbs.chetx.com/">汽车论坛</a></li>
+    <li><a target="_blank" href="http://www.i365auto.com/">365赛车网</a></li>
+    <li><a target="_blank" href="http://www.hubai.com/">虎拜车友网</a></li>
+    <li><a target="_blank" href="http://bbs.newssc.org/">麻辣社区</a></li>
+    <li><a target="_blank" href="http://www.520dx.com">东西动漫社</a></li>
+    <li><a target="_blank" href="http://bbs.haixiachina.com/">海峡社区</a></li>
+    <li><a target="_blank" href="http://bbs.goodcar.cn/">好车社区</a></li>
+    <li><a target="_blank" href="http://bbs.poco.cn/">POCO论坛</a></li>
+    <li><a target="_blank" href="http://bbs.tiexue.net/">铁血社区</a></li>
+    <li><a target="_blank" href="http://bbs.ctw.cn/">长汀论坛</a></li>
+    <li><a target="_blank" href="http://q.yesky.com/">天极群乐</a></li>
+    <li><a target="_blank" href="http://www.itworld.cn/">IT世界网</a></li>
+    <li><a target="_blank" href="http://geek.techweb.com.cn/">极客社区</a></li>
+    <li><a target="_blank" href="http://www.feelcars.com/">汽车探索</a></li>
+    <li><a target="_blank" href="http://bbs.iqilu.com/">齐鲁社区</a></li>
+    <li><a target="_blank" href="http://bbs.zdface.com/">妆点社区</a></li>
+    <li><a target="_blank" href="http://bbs.qianlong.com">京华论坛</a></li>
+    <li><a target="_blank" href="http://bbs.cnwest.com/">陕西论坛</a></li>
+    <li><a target="_blank" href="http://www.frponline.com.cn/">玻璃钢网</a></li>
+    <li><a target="_blank" href="http://www.bbsbz.net/">滨州论坛</a></li>
+    <li><a target="_blank" href="http://bbs.exam8.com/">考试论坛</a></li>
+    <li><a target="_blank" href="http://www.taorun.com">购物论坛</a></li>
+    <li><a target="_blank" href="http://www.coent.cn/">工资查询</a></li>
+    <li><a target="_blank" href="http://www.qilooo.com">齐鲁家园</a></li>
+    <li><a target="_blank" href="http://bbs.cnnb.com/">宁波论坛</a></li>
+    <li><a target="_blank" href="http://www.pet2008.cn/">萍萍家园</a></li>
+    <li><a target="_blank" href="http://bbs.211600.com/">金湖论坛</a></li>
+    <li><a target="_blank" href="http://bbs.anhuinews.com/">中安论坛</a></li>
+    <li><a target="_blank" href="http://bbs.66163.com/">福建论坛</a></li>
+    <li><a target="_blank" href="http://bbs.076299.com/">河源论坛</a></li>
+    <li><a target="_blank" href="http://www.0575bbs.com/">上虞论坛</a></li>
+    <li><a target="_blank" href="http://www.qzbbs.com/">泉州论坛</a></li>
+    <li><a target="_blank" href="http://bbs.zxip.com">慈溪论坛</a></li>
+    <li><a target="_blank" href="http://bbs.cheshi.com/">汽车论坛</a></li>
+    <li><a target="_blank" href="http://bbs.tuniu.com/">旅游论坛</a></li>
+    <li><a target="_blank" href="http://www.52che.com/">我爱车</a></li>
+    <li><a target="_blank" href="http://bbs.zg2sc.cn/">爱车论坛</a></li>
+    <li><a target="_blank" href="http://www.kugz.net/">广州论坛</a></li>
+    <li><a target="_blank" href="http://bbs.cnw.com.cn/">网界论坛</a></li>
+ 
+    <li><a target="_blank" href="http://bbs.sdchina.com/">山东网社区</a></li>
+    <li><a target="_blank" href="http://bbs.yingjiesheng.com/">应届生论坛</a></li>
+    <li><a target="_blank" href="http://bbs.chinaue.com/">大学生论坛</a></li>
+    <li><a target="_blank" href="http://bbs.wm090.com/">常熟零距离</a></li>
+    <li><a target="_blank" href="http://bbs.sjzcity.com/">石家庄论坛</a></li>
+    <li><a target="_blank" href="http://bbs.ywnews.cn/">新义乌论坛</a></li>
+    <li><a target="_blank" href="http://bbs.lotour.com/">乐途旅游网</a></li>
+    <li><a target="_blank" href="http://www.chizhou0566.cn/">池州小鱼网</a></li>
+    <li><a target="_blank" href="http://www.ermudi.com/">石家庄二亩地</a></li>
+    <li><a target="_blank" href="http://bbs.railcn.net/">中国铁路论坛</a></li>
+    <li><a target="_blank" href="http://www.51xue.org.cn/">中国职工学习网</a></li>
+    <li><a target="_blank" href="http://gpsbbs.zol.com.cn/">中关村GPS论坛</a></li>
+    <li><a target="_blank" href="http://bbs.autofan.com.cn/">汽车之友论坛</a></li>
+    <li><a target="_blank" href="http://club.heima.com/">黑马游戏论坛</a></li>
+    <li><a target="_blank" href="http://bbs.xywy.com/">寻医问药论坛</a></li>
+    <li><a target="_blank" href="http://my.pcbaby.com.cn/">PCbaby亲子部落</a></li>
+    <li><a target="_blank" href="http://bbs.ddmap.com/21/">盯盯上海社区</a></li>
+    <li><a target="_blank" href="http://cy.78.cn/">创业加盟</a></li>
+    <li><a target="_blank" href="http://www.piao.com/">中国票务网</a></li>
+    <li><a target="_blank" href="http://www.gjjx.com.cn/">北京公交驾校</a></li>
+</ul>
+<div class="more"><a href="/others/friendlink.html">更多>></a></div>
+</div>
+</div>
+ 
+    <script type="text/javascript" src="http://js.inc.baa.bitautotech.com/200905/prototype.js"></script>
+ 
+    <script type="text/javascript" src="http://js.inc.baa.bitautotech.com/200909/baahome/indexcommon090913.js"></script>
+ 
+    <script type="text/javascript" src="http://js.inc.baa.bitautotech.com/200909/baahome/default200909.js?2"></script>
+ 
+    <!-- bitauto ADstat begin -->
+ 
+    <script type="text/javascript" src="http://g.bitauto.com/js/senseNew.js"></script>
+ 
+    <script type="text/javascript" src="http://g.bitauto.com/stat/site.js"></script>
+ 
+    <!-- bitauto ADstat end -->
+ 
+        <!--footer start-->
+<div class="footer0904">
+<div class="footer_c">免长途费购车咨询热线：4008-898-198 传真：(010)68492726 <a target="_blank" href="http://www.bitauto.com/feedback/">[易车在线意见反馈]</a></div>
+<div class="footer_about">
+<ul class="about">
+    <li class="first"><a target="_blank" href="http://corp.bitauto.com/">关于易车</a></li>
+    <li><a target="_blank" href="http://corp.bitauto.com/business/">业务介绍</a></li>
+    <li><a target="_blank" href="http://corp.bitauto.com/news/">易车新闻</a></li>
+    <li><a target="_blank" href="http://corp.bitauto.com/job/">加入易车</a></li>
+    <li><a target="_blank" href="http://corp.bitauto.com/about/contact-us.shtml">联系我们</a></li>
+    <li><a target="_blank" href="http://corp.bitauto.com/about/legal-notices.shtml">法律声明</a></li>
+    <li><a target="_blank" href="http://www.bitauto.com/map/map.shtml">网站地图</a></li>
+    <li><a target="_blank" href="http://easy.bitauto.com/">车易通</a></li>
+    <li><a target="_blank" href="http://baa.bitauto.com/">汽车论坛</a></li>
+    <li class="last"><a target="_blank" href="http://ir.bitauto.com/">Investor Relations</a></li>
+</ul>
+</div>
+<div class="footer_c">CopyRight 2010 BitAuto,All Rights Reserved 版权所有 北京易车互联信息技术有限公司</div>
+</div>
+<!--footer end-->
+ 
+ 
+<!--login-->
+<script src="http://image.bitauto.com/themes/2009/js/headcommon.js" type="text/javascript"></script>
+<script src="http://js.inc.baa.com.cn/bitauto/Bitauto.Login.js" type="text/javascript"></script>
+ 
+ 
+ 
+        <div class="footer_beian">
+            <div>
+                <a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202001041200160" target="_blank"
+                    class="icp"><span>工商</span></a>
+                <p>
+                    电信业务审批[2006]字第92号；经营许可证编号：<a target="_blank" href="http://www.bitauto.com/license/ICP.shtml">京ICP证060175号</a><a target="_blank" href="http://www.bitauto.com/license/video.shtml">网络视听许可证0110543号</a></p>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var sug_encode = "utf-8";
+            var sug_type = "luntan"; //qiche 全部 chexing车型 tupian图片 dianping点评 dayi答疑 koubei口碑 dayi答疑 baojia报价 jingxiaoshang经销商
+            var sug_txt_name = "sug_txt_keyword";
+            var sug_open_type = "location" //open 新窗口打开，location本地窗口
+            document.getElementById(sug_txt_name).setAttribute('autocomplete', 'off');
+            var so = document.createElement('SCRIPT');
+            so.src = 'http://img1.bitauto.com/asearch/sug/sug100111.js';
+            document.getElementsByTagName('HEAD')[0].appendChild(so);
+            var ti = setInterval(function() { if (!window.bitauto) { return } else { window.bitauto.init(); clearInterval(ti) } }, 180)
+            window.onunload = function() { };
+        </script>
+ 
+        <script type="text/javascript" src="http://www.bitauto.com/themes/2009/js/search.js"></script>
+ 
+        <!-- START OF SmartSource Data Collector TAG -->
+ 
+        <script src="http://js.bitauto.com/bt/webtrends/dcs_tag_baa9.js" type="text/javascript"></script>
+ 
+        <!-- END OF SmartSource Data Collector TAG -->
+        <!--NRS START-->
+ 
+        <script type="text/javascript">    var _rsCI = "cn-bitauto"; var _rsCG = "0"; var _rsDN = "//secure-cn.imrworldwide.com/"; var _rsCC = 0; var _rsSE = 1; var _rsSM = 0.01; var _rsSS = 1500;</script>
+ 
+        <script type="text/javascript" src="//secure-cn.imrworldwide.com/v52.js"></script>
+ 
+        <noscript>
+            <img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-bitauto&amp;cg=0" alt="" /></noscript>
+        <!--NRS END-->
+        <!--footer end-->
+    </div>
+</body>
+</html>
+
