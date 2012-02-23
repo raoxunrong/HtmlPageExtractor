@@ -11,13 +11,6 @@ import catfish.model.FetchedDocument;
 import catfish.transport.exception.TransportException;
 import catfish.transport.http.HttpTransport;
 
-/**  
- * Filename:    PageUtils.java  
- * Description:   
- * @author:     chenran  
- * @version:    1.0  
- * Create at:   2012-2-13 下午4:07:26  
- */
 
 public class PageUtils {
 

@@ -19,28 +19,13 @@ import train.TrainConstants;
 import train.model.DocModel;
 
 
-
-
-
-
-/**  
- * Filename:    PageTrainer.java  
- * Description:   
- * @author:     chenran  
- * @version:    1.0  
- * Create at:   2012-2-13 下午4:49:10  
- */
-
 public class PageTrainer {
-	/** 训练集位置 */
+
 	private String trainSetLocation = "";
 
-	/** 训练生成模型位置 */
 	private String modelLocation = "";
 	
-	/** 训练集编码*/
 	private final String trainSetCharset = "GBK";
-	
 	
 	public PageTrainer(String trainSetLocation, String modelLocation) {
 		this.trainSetLocation = trainSetLocation;

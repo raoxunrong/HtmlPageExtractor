@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package train.utils;
 import java.io.BufferedReader;
 import java.io.File;
@@ -20,44 +18,37 @@ import train.model.DocModel;
 import catfish.model.FetchedDocument;
 
 
-/**  
- * Filename:    PageClassifier.java  
- * Description:   
- * @author:     chenran  
- * @version:    1.0  
- * Create at:   2012-2-13 下午4:15:34  
- */
-
 public class PageClassifier {
-	/** 训练文档模型列表 */
+	
 	private List<DocModel> trainSetModel = new ArrayList<DocModel>();
 
-	/** 类别列表 */
 	private List<String> typeList = new ArrayList<String>();
 
-	/** 训练集中最大url深度 */
 	private double maxUrlDepth = 0;
 
-	/** 训练集中最大句号个�?*/
 	private double maxMarkNum = 0;
 
-	/** 训练集中最大行块长�?*/
 	private double maxLineBlockLen = 0;
 
-	/** 训练集中url含数字的最大个�?*/
 	private double maxFigureNum = 0;
 
-	/** knn算法中取最近邻居的数目 */
 	private static final int k = 15;
+
+	private FeatureExtractor featureExtractor;
 	
 	
-	public PageClassifier(String featuremarixLocation) {
-		init(featuremarixLocation);
+	public PageClassifier(String modelLocation ) {
+		init(modelLocation);
+		featureExtractor = new FeatureExtractor();
 	}
 
+	
+	public PageClassifier(String modelLocation , FeatureExtractor featureExtractor) {
+		init(modelLocation);
+		this.featureExtractor = featureExtractor;
+	}
 	private void init(String modelLocation ) {
 		File modelFile = new File(modelLocation);
-		/*如果modelFile文件不存在，说明还没有训练过*/
 		if(!modelFile.exists()){
 			PageTrainer pageTrainer = new PageTrainer(TrainConstants.TRAINSET_LOCATION, modelLocation);
 			pageTrainer.train();
@@ -111,14 +102,10 @@ public class PageClassifier {
 
 
 	
-	/**
-	 * 返回页面类型
-	 * @return  "notsubject", "notsubject"
-	 * */
+	
 	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public PageType doClassify(FetchedDocument fetchedDocument) {
 		String classification = "";
-		FeatureExtractor featureExtractor = new FeatureExtractor();
 		Vector<Double> featureVec = featureExtractor.getFeature(fetchedDocument);
 		Vector<Double> normalizedFeatureVec = FeatureUtils.normalizeVec(featureVec, maxUrlDepth, maxMarkNum, maxLineBlockLen, maxFigureNum);
 

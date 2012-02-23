@@ -5,19 +5,12 @@ package train.model;
 
 import java.util.Vector;
 
-/**  
- * Filename:    DocModel.java  
- * Description:   
- * @author:     chenran  
- * @version:    1.0  
- * Create at:   2012-2-13 下午4:18:25  
- */
+
 
 public class DocModel {
-	/** 网页类型 */
+
 	private String type = "";
 	
-	/** 网页的特征向量 */
 	private Vector<Double> featureVector = new Vector<Double>();
 	
 	public DocModel(String type, Vector<Double> featureVector){
