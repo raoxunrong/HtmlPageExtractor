@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<!--[4,319,1] published at 2011-01-04 09:38:46 from #202 by 32-->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<META http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="author" content="chinanews" />
+<meta name="copyright" content="www.chinanews.com,版权所有" /> 
+<meta name="keywords" content="新闻,时事,时政,国际,国内,社会,法治,聚焦,评论,文化,教育,新视点,深度,网评,专题,环球,传播,论坛,图片,军事,焦点,排行,环保,校园,法治,奇闻,真情" />
+<meta name="description" content="中国新闻网是知名的中文新闻门户网站，也是全球互联网中文新闻资讯最重要的原创内容供应商之一。依托中新社遍布全球的采编网络,每天24小时面向广大网民和网络媒体，快速、准确地提供文字、图片、视频等多样化的资讯服务。在新闻报道方面，中新网动态新闻及时准确，解释性报道角度独特，稿件被国内外网络媒体大量转载。" />
+<base target="_blank">
+<title>关于我们</title>
+<link href="http://www.chinanews.com.cn/css_style/c_style1.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+#navigation{}
+.nav_1{width:229px;}
+.nav_2{width:721px;}
+.nav_3{width:721px;height:43px;background-color:#E5F9F8;line-height:43px;overflow:hidden;}
+.nav_3 ul{}
+.nav_3 li{float:left;text-align:center;}
+
+a.p1:link{display:block;width:75px;height:43px;background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-09/U76P4T47D10450F980DT20090309085555.jpg);text-decoration:none;color:#316572;}
+a.p1:visited{display:block;width:75px;height:43px;background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-09/U76P4T47D10450F980DT20090309085555.jpg);text-decoration:none;color:#316572;}
+a.p1:hover{display:block;width:75px;height:43px;background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-23/U76P4T47D10538F981DT20090323150726.jpg);text-decoration:none;color:#fff;}
+
+a.p2:link{display:block;width:75px;height:43px;background-image:url(http://i8.chinanews.com/cnsdh/30.jpg);text-decoration:none;color:#316572;}
+a.p2:visited{display:block;width:75px;height:43px;background-image:url(http://i8.chinanews.com/cnsdh/30.jpg);text-decoration:none;color:#316572;}
+a.p2:hover{display:block;width:75px;height:43px;background-image:url(http://i8.chinanews.com/cnsdh/32.jpg);text-decoration:none;color:#fff;}
+
+a.p3:link{display:block;width:75px;height:43px;background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-23/U76P4T47D10538F981DT20090323150726.jpg);text-decoration:none;color:#fff;}
+a.p3:visited{display:block;width:75px;height:43px;background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-23/U76P4T47D10538F981DT20090323150726.jpg);text-decoration:none;color:#fff;}
+a.p3:hover{display:block;width:75px;height:43px;background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-23/U76P4T47D10538F981DT20090323150726.jpg);text-decoration:none;color:#fff;}
+
+#banner{}
+.ban_1{width:229px;}
+.ban_2{width:721px;}
+#text{width:950px!important;width:953px;}
+.txt_1{width:230px;color:#706F6D;font-size:14px;}
+.txt_2{width:713px;}
+.txt_3{width:7px;background-image:url(http://i8.chinanews.com/cnsdh/6.jpg);background-repeat:no-repeat;height:350px;}
+.txt_2_1{border-left:1px solid #DAD9D5;border-right:1px solid #DAD9D5;width:711px;}
+
+.txt_1 a:link{color:#706F6D;text-decoration:none;}
+.txt_1 a:visited{color:#706F6D;text-decoration:none;}
+.txt_1 a:hover{color:#706F6D;text-decoration:none;}
+
+.txt_2_0{width:713px;height:57px;background-image:url(http://i8.chinanews.com/cnsdh/18.jpg);}
+.txt_2_0 img{margin:20px 0px 0px 25px;}
+.txt_2_2{width:672px;height:41px;background-image:url(http://i8.chinanews.com/cnsdh/20.jpg);margin:0 auto;}
+.txt_2_4{width:672px;margin:0 auto;padding-top:15px;font-size:14px;}
+
+.l_txt_bt{}
+.h_0{width:230px;height:11px;background-image:url(http://i8.chinanews.com/cnsdh/35.jpg);line-height:11px;}
+.h_1{width:230px;height:27px;background-image:url(http://i8.chinanews.com/cnsdh/36.jpg);line-height:27px;}
+.h_2{width:230px;height:29px;background-image:url(http://i8.chinanews.com/cnsdh/37.jpg);line-height:29px;}
+.h_3{width:230px;height:27px;background-image:url(http://i8.chinanews.com/cnsdh/48.jpg);line-height:27px;}
+.h_4{width:230px;height:27px;background-image:url(http://i8.chinanews.com/cnsdh/11.jpg);line-height:27px;}
+.h_5{width:230px;height:347px;background-image:url(http://i8.chinanews.com/cnsdh/16.jpg);}
+.h_1 ul{margin-left:40px;}
+.h_2 ul{margin-left:40px;}
+.h_3 ul{margin-left:40px;}
+.h_4 ul{margin-left:40px;}
+.end_1{background-color:#F5F2ED;}
+
+.txt_2_4 img{border:10px solid #F0EEF1;float:left;margin-right:10px;}
+
+.bottom{width:950px;margin:0 auto;}
+.bottom_1{background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-09/U76P4T47D10450F978DT20090309092324.jpg);height:33px;line-height:33px;}
+.bottom_2{text-align:center;height:30px;line-height:30px;}
+p{margin-top:12px;}
+-->
+</style>
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+</head>
+
+<body>
+<!--全局样式-->
+<div id=all class="color_write">
+<!--导航-->
+<div id=navigation>
+<div class="nav_1 div_left"><img src="http://www.chinanews.com/fileftp/2011/01/2011-01-06/U76P4T47D17077F981DT20110107091837.gif" /></div>
+<div class="nav_2 div_left">
+<div><img src="http://i8.chinanews.com/cnsdh/23.jpg" /><a href="http://www.chinanews.com/home/"><img src="http://i8.chinanews.com/cnsdh/24.jpg" /></a><a href="http://www.chinanews.com/"><img src="http://i8.chinanews.com/cnsdh/25.jpg" /></a></div>
+<div class="nav_3 font_px14 font_strong">
+<ul>
+<li style="width:34px;"><img src="http://i8.chinanews.com/cnsdh/29.jpg" /></li>
+<li><a class=p3 href="/common/footer/intro.shtml">关于我们</a></li>
+<li><a class=p1 href="/common/footer/aboutus.shtml">About us</a></li>
+<li><a class=p1 href="/common/footer/contact.shtml">联系我们</a></li>
+<li><a class=p1 href="http://ad.chinanews.com/">广告服务</a></li>
+<li><a class=p1 href="/common/footer/news-service.shtml">供稿服务</a></li>
+<li><a class=p1 href="/common/footer/law.shtml">法律声明</a></li>
+<li><a class=p1 href="http://hr.chinanews.com/">招聘信息</a></li>
+<li><a class=p1 href="/common/footer/sitemap.shtml">网站地图</a></li>
+<li><a class=p2 href="/common/footer/feedback.shtml">留言反馈</a></li>
+</ul>
+</div>
+<div><img src="http://i8.chinanews.com/cnsdh/26.jpg" /></div>
+</div>
+<div class=clear></div>
+</div>
+<!--导航-->
+<!--旗帜-->
+<div id=banner>
+<div class="ban_1 div_left"><img src="http://i8.chinanews.com/cnsdh/3.jpg" /></div>
+<div class="ban_2 div_left"><img src="http://www.chinanews.com.cn/fileftp/2009/03/2009-03-24/U76P4T47D10541F971DT20090324095257.jpg" /></div>
+<div class=clear></div>
+</div>
+<!--旗帜-->
+<!--内容-->
+<div id=text>
+<!--左-->
+<div class="txt_1 div_left font_strong">
+<div class="l_txt_bt"><img src="http://i8.chinanews.com/cnsdh/47.jpg" width="230" height="79" /></div>
+<div class="h_0"></div>
+<div class="h_1"><ul>
+中国新闻社简介
+</ul></div>
+<div class="h_2"><ul><a href="/common/footer/intro-1.shtml">中国新闻网简介</a>
+</ul></div>
+<div class="h_3"><ul></ul></div>
+<div class="h_5"></div>
+</div><!--左-->
+<!--中-->
+<div class="txt_2 div_left">
+<div class="txt_2_0"><img src="http://www.chinanews.com.cn/fileftp/2009/03/2009-03-30/U76P4T47D10571F974DT20090330153846.gif" /></div>
+<div class="txt_2_1">
+<div class=txt_2_4>
+<img src="http://i8.chinanews.com/cnsdh/39.jpg"/>
+<p>　　中国新闻社，简称“中新社”，是中国以对外报道为主要新闻业务的国家级通讯社，是以台港澳同胞、海外华侨华人和与之有联系的外国人为主要服务对象的国际性通讯社。</p>
+<p>　　1952年10月1日，中新社由中国新闻界和侨界知名人士发起成立。前全国人大常委会副委员长廖承志是中新社的创办人和领导者。发起创建中新社的还有金仲华、胡愈之、洪丝丝等文化界、新闻界知名人士。著名国际问题专家金仲华担任第一任社长。中新社前身是由范长江、胡愈之1938年成立的国际新闻社。</p>
+<p>　　中新社担负的职能是：对外新闻报道的国家级通讯社，世界华文媒体信息总汇，国际性通讯社。履行职能主要通过四种形式：一是传统形式的报道，包括文字、图片、专稿等；二是新形式的报道，主要是网络、信息、视频、手机短信等；三是对海外华文报纸供版；四是社办报刊。</p>
+<p>　　中新社现在员工1000余人。总社设在北京，在中国内地及香港、澳门共设有28个分社，在台湾派有驻点记者。在东京、曼谷、吉隆坡、纽约、华盛顿、洛杉矶、旧金山、温哥华、伦敦、巴黎、悉尼、莫斯科等地设有分社或记者站。在北京、纽约、香港设立发稿中心。</p>
+<p>　　中新社建有多渠道、多层次、多功能的新闻信息发布体系，每天24小时不间断向世界各地播发文字、图片、网络、视频、手机短信等各类新闻信息产品。客户和合作伙伴遍及世界各地。</p>
+<p>　　中新社是亚洲上网最早的中文媒体。www.chinanews.com于1995年在香港创建。1999年1月1日，中新社总社在北京开办中国新闻网，简称“中新网”，域名为：www.chinanews.com.cn。中新网是中国重要的新闻网站。</p>
+<p>　　中新社编辑出版的《中国新闻周刊》是中国最知名的时政周刊之一。中新社每两年主办一次“世界华文传媒论坛”，是规模最大的全球华文传媒领袖峰会，已先后在南京、武汉、长沙、成都、上海举办五届。</p>
+<p><a href="/common/footer/aboutus.shtml"><img src="http://i8.chinanews.com/cnsdh/49.jpg" border="0" style="border:0px;margin:10px;"/></a></p>
+</div>
+</div>
+</div>
+<!--中-->
+<!--右-->
+<div class="txt_3 div_right"></div><!--右-->
+<div class=clear></div>
+</div>
+<div><img src="http://i8.chinanews.com/cnsdh/8.jpg" /></div>
+<!--内容-->
+<!--结尾-->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="end_1">
+  <tr>
+    <td width="600"><a href="http://www.chinanews.com.cn/"><img src="http://www.chinanews.com/fileftp/2011/01/2011-01-06/U76P4T47D17077F980DT20110107091837.jpg" /></a></td>
+    <td>中国新闻网版权所有 1024*768为本网页内容最佳分辨率</td>
+  </tr>
+</table>
+</div>
+<!--结尾-->
+<!--END-->
+<div style="background-color:#CCC2B9;height:30px;width:950px;margin:0 auto;"></div>
+<!--END-->
+</div><!--全局样式-->
+</body>
+</html>
+
+<!--[4,365,5] published at 2011-01-20 14:51:55 from #10 by 龚伊--> 

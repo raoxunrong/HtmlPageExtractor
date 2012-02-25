@@ -1,0 +1,930 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>吴樾_新浪博客</title>
+<meta name="keywords" content="吴樾_新浪博客,吴樾,娱乐,西游记,孙悟空,萌,娱乐,吴越,西游记,孙悟空,娱乐,吴樾,群英盛典,西游记,孙悟空,杂谈,吴樾,南方盛典,西游记,孙悟空,娱乐,吴樾,孙悟空,爱电影,杂谈,吴樾,西游记,建元风云,牛魔王,红孩儿,娱乐,吴樾,片场,娱乐,吴樾,微剧本,娱乐" />
+<meta name="description" content="吴樾_新浪博客,吴樾,纯素颜的孙悟空您见过吗？,孙悟空“萌”什么？！,孙悟空也可以很时尚,新《西游记》要播了，阳历农历新年双贺岁,“孙悟空”拿奖，《西游记》将播，双喜临门,变身孙悟空大闹香蕉林,不听话我就“收拾”你！,金鸡奖的独家“黑”幕,片场众目睽睽之下公然蒸桑拿,做个微剧本连续剧怎么样？" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<!–[if lte IE 6]>
+<script type="text/javascript">
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+</script>
+<![endif]–>
+<script type="text/javascript">
+window.staticTime=new Date().getTime();
+
+var locInterval = setInterval(function(){
+var tc = document.getElementById('trayContainer');
+if(tc) {
+var isLogin = false;var sup = document.cookie.match(/sup=([^;]+);/gi);if(sup != null){ sup = decodeURIComponent(sup[0]);var uid = sup.match(/uid=([^&]+)/gi); isLogin = (uid != null); } if (isLogin){ tc.innerHTML = '<div class="topbar_loading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div>'; } else { tc.innerHTML = '<div class="topbar_menu"><span class="link"><a href="http://blog.sina.com.cn" target="_blank">博客首页</a></span><span class="line_s"></span></div><div class="topbar_login"><a href="#" class="login" id="linkTrayLogin" onclick="return false;">登录</a><a href="http://login.sina.com.cn/signup/signupmail.php?entry=blog&r=&srcuid=&src=blogicp" class="register" target="_blank" id="linkReg">注册</a></div><div class="topbar_ad" id="divPopularize"></div><div id="phprender" ></div>';}
+clearInterval(locInterval);
+locInterval = null;
+}
+},50);
+
+</script>
+<link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd" />
+<link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest" />
+<link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1216834843.xml" title="RSS" />
+<link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet" /><style id="tplstyle" type="text/css">@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/1/1_3/t.css");
+</style>
+<style id="positionstyle"  type="text/css">
+.sinabloghead .blogtoparea{ left:103px;top:43%;}
+.sinabloghead .blognav{ left:57px;top:64%;}
+</style>
+<style id="bgtyle"  type="text/css">
+</style>
+<style id="headtyle"  type="text/css">
+</style>
+<style id="navtyle"  type="text/css">
+</style>
+</head>
+<body>
+<!--$sinatopbar-->
+<div style="z-index:512;" class="sinatopbar">
+			<div class="topbar_main">
+				<a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"><img class="topbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"/></a>
+
+				<div id="trayContainer" style="float:left">
+								</div>
+				<div class="topbar_floatR">
+					<span class="tb_wrtBlog">
+						<a target="_blank" href="http://control.blog.sina.com.cn/admin/article/article_add.php"><img class="SG_icon SG_icon15" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" title="博文" align="absmiddle"/>	发博文</a>
+
+						<span id="arrowAddArticle" class="wrtblog_arrow"></span>
+					</span>
+					<div class="topbar_search">
+						<form action="" target="_blank" method="get" id="loginBarSearchForm">
+							<div class="topbar_input">
+								<input id="loginBarSearchInput" name="k" class="topbar_txt" type="text" value=""/>
+							</div>
+							<div id="searchSelect" class="topbar_list">
+								<div id="loginBarSearchMenuLabel" class="anainp">博文</div>
+
+								<div class="arrow"></div>
+							</div>
+							<input type="submit" class="topbar_searchBtn" value="搜索"/>
+							<input type="hidden" id="ie" value="utf-8" name="ie"/>
+							<input type="hidden" id="loginBarSearchT" value="" name="t"/>
+							<input type="hidden" id="loginBarSearchTS" value="" name="ts"/>
+							<input type="hidden" id="loginBarSearchS" value="" name="s"/>
+							<input type="hidden" id="loginBarSearchType" value="" name="type"/>
+							<input type="hidden" id="loginBarSearchSType" value="" name="stype"/>
+
+							<input type="hidden" id="e" value="utf-8" name="e"/>
+						</form>
+					</div>
+					
+				</div>
+			</div>
+			<div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"></div>
+		</div>
+		
+<!--$end sinatopbar-->
+
+
+<div class="sinabloga" id="sinabloga">
+	<div id="sinablogb" class="sinablogb">
+
+	       
+ <div id="sinablogHead" class="sinabloghead">
+    <div style="display: none;" id="headflash" class="headflash"></div>
+   <div id="headarea" class="headarea">
+      <div id="blogTitle" class="blogtoparea">
+      <h1 id="blogname" class="blogtitle"><a href="http://blog.sina.com.cn/wuyueblog"><span id="blognamespan">吴樾的BLOG</span></a></h1>
+      <div id="bloglink" class="bloglink"><a href="http://blog.sina.com.cn/wuyueblog">http://blog.sina.com.cn/wuyueblog</a>  <a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss">[<cite>订阅</cite>]</a><a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1216834843'));">[<cite>手机订阅</cite>]</a></div>
+      </div>
+      <div class="blognav" id="blognav">
+      			  <div id="blognavBg" class="blognavBg"></div> <div class="blognavInfo"> 
+		<span><a  class="on" href="http://blog.sina.com.cn/wuyueblog">首页</a></span>
+      <span><a  href="http://blog.sina.com.cn/s/articlelist_1216834843_0_1.html">博文目录</a></span>
+      <span><a href="http://photo.blog.sina.com.cn/wuyueblog">图片</a></span>
+      <span class="last"><a  href="http://blog.sina.com.cn/s/profile_1216834843.html">关于我</a></span></div>
+      </div>
+      		      		 	
+      
+             <div class="autoskin" id="auto_skin">
+       </div>
+
+<div class="adsarea">
+     <a href="#"><div id="template_clone_pic" class="pic"></div></a>
+     <div id="template_clone_link" class="link wdc_HInf"></div>
+     <div id="template_clone_other" class="other"></div>        
+</div>
+    </div>
+    	    	    </div>    
+    <!--主题内容开始 -->
+    <div class="sinablogbody" id="sinablogbody">
+		
+	<!--第一列start-->
+    <div id="column_1" class="SG_colW21 SG_colFirst"><div class="SG_conn" id="module_901">
+    <div class="SG_connHead">
+            <span class="title" comp_title="个人资料">个人资料</span>
+            <span class="edit">
+                        </span>
+    </div>
+    <div class="SG_connBody">
+        <div class="info">
+            		        
+			<div class="info_img" id="comp_901_head"><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://portrait4.sinaimg.cn/1216834843/blog/180" id="comp_901_head_image" width="180" height="180" alt="吴樾" title="吴樾" /></div>
+			
+       	    <div class="info_txt">
+		      <div class="info_nm">
+		        <img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />
+		        <span class="SG_txtb"><strong id="ownernick">吴樾</strong></span>
+		        
+                <div class="clearit"></div>
+              </div>
+		      <div class="info_btn1">
+			  <!--user['qing_url'] -->
+		        <a target="_blank" href="http://qing.weibo.com/discovery.html" onclick="v7sendLog && v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"><cite><img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />Qing</cite></a>
+		        <a target="_blank" href="http://weibo.com/u/1216834843?source=blog" class="SG_aBtn SG_aBtn_ico"><cite><img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />微博</cite></a>
+		        <div class="clearit"></div>
+		      </div>
+	<div class="SG_j_linedot"></div>		<div class="info_locate" id = "info_locate_id">
+<div class="SG_j_linedot"></div>
+<div class="info_btn2">
+	<p>
+	<a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"><cite >加好友</cite></a>
+	<a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"><cite >发纸条</cite></a>
+	</p>
+	<p>
+	<a href="http://blog.sina.com.cn/s/profile_1216834843.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"><cite>写留言</cite></a>
+	<a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"><cite onclick="Module.SeeState.add()">加关注</cite></a>
+	</p>
+	<div class="clearit"></div>
+</div>
+<div class="SG_j_linedot"></div>
+</div>
+			      <div class="info_list">	  
+			   					<ul class="info_list1">
+					<li><span class="SG_txtc">博客等级：</span><span id="comp_901_grade"><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"  /><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/1.gif"  /></span></li>
+					<li><span class="SG_txtc">博客积分：</span><span id="comp_901_score"><strong>372</strong></span></li>
+					</ul>
+					<ul class="info_list2">
+					<li><span class="SG_txtc">博客访问：</span><span id="comp_901_pv"><strong>2,517,127</strong></span></li>
+					<li><span class="SG_txtc">关注人气：</span><span id="comp_901_attention"><strong>1,382</strong></span></li>
+					</ul>
+		</div>
+<div class="clearit"></div>
+	</div>
+	<div class="clearit"></div>
+</div>
+            </div>       
+            <div class="SG_connFoot"></div>
+</div>
+<div class="SG_conn" id="module_93">
+            <div class="SG_connHead">
+            <span class="title" comp_title="新浪微博">新浪微博</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="cloneWidget"><div class="wdtLoading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div> <div class="cloneLink"><a href="javascript:;" onclick="return false;" class="SG_comClone"><img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif" />添加到我的博客</a></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_10005">
+            <div class="SG_connHead">
+            <span class="title" comp_title="视频播放器">视频播放器</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="cloneWidget"><div class="diywidget"><div align=center><embed FlashVars="delay=-1" type="application/x-shockwave-flash"  src="http://widget.say-on.com/widgets/wgt_static/loader.swf?p=sina&uid=1216834843&app=minitv" allowScriptAccess="always" width="190" height="28" wmode="transparent" /></div></div> <div class="cloneLink"><a href="javascript:;" onclick="return false;" class="SG_comClone"><img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif" />添加到我的博客</a></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1004">
+            <div class="SG_connHead">
+            <span class="title" comp_title="公告">公告</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><DIV><FONT STYLE="FonT-siZe: 16px" COLOR="#0000FF">工作联络：</FONT></DIV><DIV><A HREF="mailto:woyaoyule@163.com"><FONT STYLE="FonT-siZe: 16px" COLOR="#0000FF">woyaoyule@163.com</FONT></A></DIV><DIV>&nbsp;<wbr></DIV><DIV><FONT STYLE="FonT-siZe: 16px" COLOR="#0000FF">经纪公司：华诚传媒</FONT></DIV></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1003">
+            <div class="SG_connHead">
+            <span class="title" comp_title="吴樾近期行程">吴樾近期行程</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><DIV><STRONG><FONT STYLE="FonT-siZe: 12px">近期拍摄：</FONT></STRONG></DIV><DIV><STRONG>古装剧《建元风云》拍摄中<BR /></STRONG><SPAN STYLE="font-weight: bold;">拍摄</SPAN><STRONG>角色：</STRONG><SPAN STYLE="font-weight: bold;">阿里不哥<BR /></SPAN><SPAN STYLE="font-weight: bold;">拍摄</SPAN><SPAN STYLE="font-weight: bold;">地点：宁波象山 横店<BR /><BR /></SPAN></DIV><DIV>&nbsp;<wbr></DIV><DIV>&nbsp;<wbr></DIV></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1001">
+            <div class="SG_connHead">
+            <span class="title" comp_title="吴樾官方链接">吴樾官方链接</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://www.wuyue0425.com/" target="_blank">吴樾官方中文网</a><p>吴樾官方中文网站</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://www.wuyue0425.com/bbs" target="_blank">吴樾官方影迷论坛</a><p>吴樾官方影迷论坛，欢迎支持！</p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_10004">
+            <div class="SG_connHead">
+            <span class="title" comp_title="图片播放器">图片播放器</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="cloneWidget"><div class="diywidget"><div align=center><embed FlashVars="delay=-1" type="application/x-shockwave-flash" src="http://widget.say-on.com/widgets/wgt_static/loader.swf?p=sina&uid=1216834843&app=slide" allowScriptAccess="always" width="190" height="28" wmode="transparent"/></div></div> <div class="cloneLink"><a href="javascript:;" onclick="return false;" class="SG_comClone"><img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif" />添加到我的博客</a></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1">
+            <div class="SG_connHead">
+            <span class="title" comp_title="评论">评论</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="wdtLoading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_2">
+            <div class="SG_connHead">
+            <span class="title" comp_title="留言">留言</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="wdtLoading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+</div>
+	<!--第一列end-->
+	
+	<!--第二列start-->
+	<div id="column_2" class="SG_colW73"><div id="module_10001" class="SG_conn">
+	<div class="SG_connHead">
+		<span comp_title="博文" class="title">博文</span>
+		<span class="edit">
+        		</span>
+	</div>
+	<div class="SG_connBody">
+															<div class="bloglist">
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b0101e99u" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b0101e99u.html" target="_blank">纯素颜的孙悟空您见过吗？</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2012-02-09 21:57)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b0101e99u'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101e99u');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D3%E9%C0%D6&ts=bpost&stype=tag" target="_blank">娱乐</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p>
+这两天我为《西游记》演唱的《多保重》的MV跟大家见面了，我发现好多网友都给我留言说，“啊！原来孙悟空是你演的啊！”哎？您这是夸我演得好呢？还是夸面具捂得够严实啊？<a href='http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101e99u&amp;url=http://s1.sinaimg.cn/orignal/48876d1bgb8886cbe3cd0'
+target='_blank'><img height='400' src=
+'http://s1.sinaimg.cn/middle/48876d1bgb8886cbe3cd0&amp;690' width=
+'600' name='image_operate_42601328796442609' alt='' title='' id=
+"image_operate_42601328796442609" /></a></p>
+<p style='MArGin: 0cm 0cm 0pt'><span style=
+'FonT-FAMiLY: 宋体; mso-ascii-font-family:' times="" new=""
+mso-hansi-font-family:="Times" new=
+"">今儿个行者我翻开黄历一看，吴式黄历上说了，今天忌猴脸，忌除妖，忌筋斗云，宜素颜出门，宜乔装打扮，宜七十二变。得嘞，那就来几张“素颜”的孙悟空，顺天行事吧！</span></p>
+<p>&nbsp;<wbr></p>
+<p><br />
+<br />
+<a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101e99u&amp;url=http://s3.sinaimg.cn/orignal/48876d1bgb8886d30f102'
+target='_blank'><img height='400' src=
+'http://s3.sinaimg.cn/middle/48876d1bgb8886d30f102&amp;690' width=
+'600' name='image_operate_7411328796444281' alt='' title='' id=
+"image_operate_7411328796444281" /></a></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b0101e99u" href="http://blog.sina.com.cn/s/blog_48876d1b0101e99u.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b0101e99u.html#comment" id="c_10001_48876d1b0101e99u">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101e99u');return false;">转载</a><a id="z_10001_48876d1b0101e99u" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b0101e99u');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b0101e99u" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b0101e99u.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b0101e99u"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://www.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到新浪首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b0101e3rg" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b0101e3rg.html" target="_blank">孙悟空“萌”什么？！</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2012-02-01 01:41)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b0101e3rg'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101e3rg');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%F7%D3%CE%BC%C7&ts=bpost&stype=tag" target="_blank">西游记</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CB%EF%CE%F2%BF%D5&ts=bpost&stype=tag" target="_blank">孙悟空</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C3%C8&ts=bpost&stype=tag" target="_blank">萌</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D3%E9%C0%D6&ts=bpost&stype=tag" target="_blank">娱乐</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p>
+自从《西游记》开始播，就听好多人跟我说“萌”这个字，本来我还真不知道是什么意思，后来上网查了查，想着大概就是大家觉得这个孙悟空还挺可爱的吧！我这理解对不？</p>
+<p>&nbsp;<wbr></p>
+<p>
+我倒是觉得，“萌”这个字用在某些特定情境下的孙悟空身上还挺恰当的。他本身就是猴子，猴子的调皮好动有灵性，他一样都没落下，在适当的时候耍耍嘴皮啊、戏弄别人啊等等吧，也都是他的天性使然。既然大家说他“萌”，那我也来“萌”一下，活跃一下取经路上降妖除魔的气氛。</p>
+<p><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101e3rg&amp;url=http://s16.sinaimg.cn/orignal/48876d1bgb7d67e64198f'
+target='_blank'><img height='460' src=
+'http://s16.sinaimg.cn/middle/48876d1bgb7d67e64198f&amp;690' width=
+'690' name='image_operate_74201328033533718' alt='' title='' id=
+"image_operate_74201328033533718" /></a><br /></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b0101e3rg" href="http://blog.sina.com.cn/s/blog_48876d1b0101e3rg.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b0101e3rg.html#comment" id="c_10001_48876d1b0101e3rg">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101e3rg');return false;">转载</a><a id="z_10001_48876d1b0101e3rg" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b0101e3rg');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b0101e3rg" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b0101e3rg.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b0101e3rg"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b0101duux" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b0101duux.html" target="_blank">孙悟空也可以很时尚</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2012-01-13 08:46)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b0101duux'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101duux');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%E2%D4%BD&ts=bpost&stype=tag" target="_blank">吴越</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%F7%D3%CE%BC%C7&ts=bpost&stype=tag" target="_blank">西游记</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CB%EF%CE%F2%BF%D5&ts=bpost&stype=tag" target="_blank">孙悟空</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D3%E9%C0%D6&ts=bpost&stype=tag" target="_blank">娱乐</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p>
+孩儿们，孩儿们！我们《西游记》在北京台播了有些日子了，你们可看了？俺老孙这几天和师父师弟们各地宣传，啧啧啧，也没顾上看啊！不知道你们看过之后觉得如何？</p>
+<p>&nbsp;<wbr></p>
+<p>最近参加了一些时尚活动，有人问了一个问题，让我印象很深，问我孙悟空跟时尚有啥关系嘞？先看这两张图吧！</p>
+<p>&nbsp;<wbr></p>
+<p><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101duux&amp;url=http://s13.sinaimg.cn/orignal/48876d1btb65e37b5ac7c'
+target='_blank'><img height='400' src=
+'http://s13.sinaimg.cn/middle/48876d1btb65e37b5ac7c&amp;690' width=
+'600' name='image_operate_52961326416705640' alt='' title='' id=
+"image_operate_52961326416705640" /></a><br />
+<br />
+<a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101duux&amp;url=http://s14.sinaimg.cn/orignal/48876d1bt78a305a1debd'
+target='_blank'></a><br />
+<a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101duux&amp;url=http://s9.sinaimg.cn/orignal/48876d1btb65e71d309b8'
+target='_blank'><img src=
+'http://s9.sinaimg.cn/middle/48876d1btb65e71d309b8&amp;690' name=
+'image_operate_15101326416729500' alt='' title='' id=
+"image_operate_15101326416729500" /></a></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b0101duux" href="http://blog.sina.com.cn/s/blog_48876d1b0101duux.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b0101duux.html#comment" id="c_10001_48876d1b0101duux">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101duux');return false;">转载</a><a id="z_10001_48876d1b0101duux" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b0101duux');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b0101duux" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b0101duux.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b0101duux"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b0101divh" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b0101divh.html" target="_blank">新《西游记》要播了，阳历农历新年双贺岁</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2011-12-26 23:14)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b0101divh'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101divh');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%E2%E9%D0&ts=bpost&stype=tag" target="_blank">吴樾</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C8%BA%D3%A2%CA%A2%B5%E4&ts=bpost&stype=tag" target="_blank">群英盛典</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%F7%D3%CE%BC%C7&ts=bpost&stype=tag" target="_blank">西游记</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CB%EF%CE%F2%BF%D5&ts=bpost&stype=tag" target="_blank">孙悟空</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D4%D3%CC%B8&ts=bpost&stype=tag" target="_blank">杂谈</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p>
+一到年底就有各种热闹可凑，这不，前几天中国电视剧产业20周年群英盛典，我们正在横店赶工的《建元风云》剧组，就在导演徐小明同志的带领下集体“翘班”前去恭贺。其实我每年都特别喜欢这样的活动，不为别的，只为一年忙到头，唯有这些场合是新朋老友聚得最全的，算是以公谋点儿小私吧！</p>
+<p>&nbsp;<wbr></p>
+<p><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101divh&amp;url=http://s6.sinaimg.cn/orignal/48876d1bhb50043c68405'
+target='_blank'><img height='460' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s6.sinaimg.cn/middle/48876d1bhb50043c68405&amp;690" width=
+'690' alt='' title='' /></a></p>
+<p>先来张合影</p>
+<p><br />
+<a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101divh&amp;url=http://s5.sinaimg.cn/orignal/48876d1bhb5004517e244'
+target='_blank'><img height='460' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s5.sinaimg.cn/middle/48876d1bhb5004517e244&amp;690" width=
+'690' alt='' title='' /></a><br />
+这算黑白……后面的字你们想吧！<img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___6724EN00SIGG.gif"
+type='face' alt='' title='' /></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b0101divh" href="http://blog.sina.com.cn/s/blog_48876d1b0101divh.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b0101divh.html#comment" id="c_10001_48876d1b0101divh">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101divh');return false;">转载</a><a id="z_10001_48876d1b0101divh" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b0101divh');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b0101divh" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b0101divh.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b0101divh"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/lm/ent/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到娱乐博客，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b0101dfz6" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b0101dfz6.html" target="_blank">“孙悟空”拿奖，《西游记》将播，双喜临门</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2011-12-22 22:51)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b0101dfz6'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101dfz6');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%E2%E9%D0&ts=bpost&stype=tag" target="_blank">吴樾</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C4%CF%B7%BD%CA%A2%B5%E4&ts=bpost&stype=tag" target="_blank">南方盛典</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%F7%D3%CE%BC%C7&ts=bpost&stype=tag" target="_blank">西游记</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CB%EF%CE%F2%BF%D5&ts=bpost&stype=tag" target="_blank">孙悟空</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D3%E9%C0%D6&ts=bpost&stype=tag" target="_blank">娱乐</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='left'>
+这两天一看新闻，突然有一个想法——我觉得我们家可以考虑辟个空地盖座后花园了。为什么这么说呢？很简单，听说北京台影视频道1月5日就播我们的新版《西游记》了，又听说随后就是卫视播出，到那时，我当然愿意多收点儿鲜花了，但您拍几块掷地有声的板砖过来我也照单全收，盖后花园光有花不砌墙怎么成？心里那点儿小鲜花小得意迟早得被偷没了。所以鲜花我留着，板砖我也接着，谁让我是——“五百年前上打过玉帝、下闹过阎王殿，钢筋铁骨、火眼金睛，特奉菩萨西天取经之命的使者、花果山水帘洞的美猴王孙悟空吴樾！”</p>
+<p align='left'>&nbsp;<wbr></p>
+<p><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101dfz6&amp;url=http://s11.sinaimg.cn/orignal/48876d1bhb4af854cb5aa'
+target='_blank'><img style='WiDTH: 398px; HeiGHT: 596px' height=
+'600' src=
+'http://s11.sinaimg.cn/middle/48876d1bhb4af854cb5aa&amp;690' width=
+'400' alt='' title='' /></a></p>
+<p>说话算话！这就算按手印了，五个手指头都按，防伪<img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___7399ZH00SIGG.gif"
+type='face' alt='' title='' /></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b0101dfz6" href="http://blog.sina.com.cn/s/blog_48876d1b0101dfz6.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b0101dfz6.html#comment" id="c_10001_48876d1b0101dfz6">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101dfz6');return false;">转载</a><a id="z_10001_48876d1b0101dfz6" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b0101dfz6');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b0101dfz6" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b0101dfz6.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b0101dfz6"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b0101dan4" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b0101dan4.html" target="_blank">变身孙悟空大闹香蕉林</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2011-12-15 21:57)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b0101dan4'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101dan4');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%E2%E9%D0&ts=bpost&stype=tag" target="_blank">吴樾</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CB%EF%CE%F2%BF%D5&ts=bpost&stype=tag" target="_blank">孙悟空</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B0%AE%B5%E7%D3%B0&ts=bpost&stype=tag" target="_blank">爱电影</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D4%D3%CC%B8&ts=bpost&stype=tag" target="_blank">杂谈</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<div>
+<p><span style='FonT-FAMiLY: 宋体; mso-ascii-font-family:' times=""
+new="" mso-hansi-font-family:="Times" new=
+"">前几天跟随“《爱电影》送·学”活动送电影到了云南红河。经常关注“《爱电影》送·学”的朋友知道，每次送电影下乡，我们不仅会跟当地人联欢，还会深入田间地头，与他们同吃同住同劳动。但这次比较特别，因为我们劳动的地点在香蕉林，主要工作便是砍香蕉。对了，问题这就来了，你说孙悟空是喜欢香蕉多一些还是蟠桃多嘞？不管了，先甩开膀子拉开筋砍香蕉去了！</span></p>
+</div>
+<div><br /></div>
+<div><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101dan4&amp;url=http://s11.sinaimg.cn/orignal/48876d1bhb421dfadd96a'
+target='_blank'><img style='DispLAY: block; MArGin: 0pt auto'
+height='460' src=
+'http://s11.sinaimg.cn/middle/48876d1bhb421dfadd96a&amp;690' width=
+'690' name='image_operate_70771323958063594' alt='' title='' id=
+"image_operate_70771323958063594" /></a><br /></div>
+<div>
+<p><span style='FonT-FAMiLY: 宋体; mso-ascii-font-family:' times=""
+new="" mso-hansi-font-family:="Times" new="">要说砍香蕉</span></p>
+</div>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b0101dan4" href="http://blog.sina.com.cn/s/blog_48876d1b0101dan4.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b0101dan4.html#comment" id="c_10001_48876d1b0101dan4">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101dan4');return false;">转载</a><a id="z_10001_48876d1b0101dan4" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b0101dan4');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b0101dan4" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b0101dan4.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b0101dan4"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b0101d0hr" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b0101d0hr.html" target="_blank">不听话我就“收拾”你！</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2011-12-09 00:11)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b0101d0hr'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101d0hr');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%E2%E9%D0&ts=bpost&stype=tag" target="_blank">吴樾</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%F7%D3%CE%BC%C7&ts=bpost&stype=tag" target="_blank">西游记</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BD%A8%D4%AA%B7%E7%D4%C6&ts=bpost&stype=tag" target="_blank">建元风云</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C5%A3%C4%A7%CD%F5&ts=bpost&stype=tag" target="_blank">牛魔王</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BA%EC%BA%A2%B6%F9&ts=bpost&stype=tag" target="_blank">红孩儿</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D3%E9%C0%D6&ts=bpost&stype=tag" target="_blank">娱乐</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p><span style=
+'font-family:宋体;mso-ascii-font-family:"Times new roman"; mso-hansi-font-family:"Times new roman"'>
+&nbsp;<wbr>孙悟空？牛魔王？红孩儿？说到这三个名字，你想到的是什么？《西游记》？吁</span><span lang='EN-US'
+xml:lang='EN-US'>~~~</span><span style=
+'font-family:宋体;mso-ascii-font-family:"Times new roman"; mso-hansi-font-family:"Times new roman"'>！</span><span lang='EN-US'
+xml:lang='EN-US'>stop</span><span style=
+'font-family:宋体;mso-ascii-font-family:"Times new roman";mso-hansi-font-family: "Times new roman"'>！你肯定不会想到，这仨巨头会在我们《建元风云》剧组聚首。</span><span style='font-family: 宋体;'>缘，妙不可盐，加点儿就咸。所以我就想，缘分这种事情如果不出什么意外的话基本上大致也许差不多估计就能够约等于命中注定。刚在张老师的《西游记》中演过孙悟空，来到《建元风云》演蒙古大汗阿里布哥，试装的时候一看服装老师为我准备的这身戎装，嘿！你说像不像牛魔王？这还不算，更让人傻眼的是，我胯下这匹宝马大名竟叫红孩儿！巧不巧？</span></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b0101d0hr" href="http://blog.sina.com.cn/s/blog_48876d1b0101d0hr.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b0101d0hr.html#comment" id="c_10001_48876d1b0101d0hr">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101d0hr');return false;">转载</a><a id="z_10001_48876d1b0101d0hr" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b0101d0hr');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b0101d0hr" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b0101d0hr.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b0101d0hr"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b0101913j" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b0101913j.html" target="_blank">金鸡奖的独家“黑”幕</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2011-10-24 00:31)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b0101913j'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101913j');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=&ts=bpost&stype=tag" target="_blank"></a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=&ts=bpost&stype=tag" target="_blank"></a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=&ts=bpost&stype=tag" target="_blank"></a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p><span style=
+'font-family:宋体;mso-ascii-font-family:"Times new roman"; mso-hansi-font-family:"Times new roman"'>
+&nbsp;<wbr>
+趁着《建元风云》转场的空档，去参加金鸡百花电影节，又趁着仅多出来的那么一丢丢时间，抓紧回了趟北京，飞机一落地走出机舱，嗬，北京那叫一个冷！听说是第一天降温，难道老天爷是怕我在寒冷的内蒙古待久了不习惯，专门降温迎接我？哈哈！太隆重了！</span></p>
+<p><span lang='EN-US' xml:lang=
+'EN-US'>&nbsp;<wbr>&nbsp;<wbr></span><span style=
+'font-family: 宋体;'>这次参加金鸡百花电影节，对我来说真是一举多得——首先是第一次看到了我们《钱学森》的首款预告片，牛大发了！其次呢，在这次电影人的盛会上，遇见了很多老朋友，聊天啊、合影啊，特开心！尤其是遇着了斯琴高娃老师，刚好我们合作的《我是传奇》正在播出，希望今后有机会能继续和老师合作。具体都遇着谁了？嘿！不多说了，看照片吧！</span><a href='http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b0101913j&amp;url=http://s10.sinaimg.cn/orignal/48876d1btaffac2faa769'
+target='_blank'></a><a href=
+'http://photo.blog.sina.com.cn/showpic.html#'></a></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b0101913j" href="http://blog.sina.com.cn/s/blog_48876d1b0101913j.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b0101913j.html#comment" id="c_10001_48876d1b0101913j">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b0101913j');return false;">转载</a><a id="z_10001_48876d1b0101913j" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b0101913j');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b0101913j" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b0101913j.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b0101913j"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/lm/ent/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到娱乐博客，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b01018luh" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b01018luh.html" target="_blank">片场众目睽睽之下公然蒸桑拿</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2011-10-18 23:47)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b01018luh'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b01018luh');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%E2%E9%D0&ts=bpost&stype=tag" target="_blank">吴樾</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C6%AC%B3%A1&ts=bpost&stype=tag" target="_blank">片场</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D3%E9%C0%D6&ts=bpost&stype=tag" target="_blank">娱乐</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p><span style=
+'font-family:宋体;mso-ascii-font-family:"Times new roman"; mso-hansi-font-family:"Times new roman"'>
+&nbsp;<wbr>
+&nbsp;<wbr>最近一直在内蒙古多伦大草原上拍戏，每天迎日出送晚霞，今天猛然掐指这么一算，哟，北京已经进入一年中最美的深秋季了！</span><span style='font-family: 宋体;'>天气渐凉，大家最近有没有为即将到来的寒冬做什么准备？是狂扫冬装呢，还是储备脂肪呢？我觉得吧，前者伤心——短暂的快乐后看着长长的账单心都在滴血啊，但后者呢，又伤神——到了春天就得开始琢磨怎么甩掉这些个贴身“宝膘”了。反正就是怎么着都有伤不起的时候啊！</span></p>
+<p><span lang='EN-US' xml:lang='EN-US'>&nbsp;<wbr>
+&nbsp;<wbr></span><span style=
+'font-family: 宋体;'>跟大家汇报一下，我已经在内蒙提前进入伤不起阶段了。内蒙现在每天最低温度能跌破零度，而且这个最低值就出现早晨四点来钟，正是我们早起化妆的点，外头都结冰了，怎一个冷字了得。总觉得羽绒服也不管什么用，看来可以考虑一下是不是应该“内外兼修”，羽绒加“宝膘”，双保险，哈哈！</span></p>
+<p>&nbsp;<wbr> &nbsp;<wbr><span style=
+'font-family: 宋体;'>前几天做了一个采访，顺</span></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b01018luh" href="http://blog.sina.com.cn/s/blog_48876d1b01018luh.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b01018luh.html#comment" id="c_10001_48876d1b01018luh">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b01018luh');return false;">转载</a><a id="z_10001_48876d1b01018luh" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b01018luh');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b01018luh" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b01018luh.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b01018luh"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_48876d1b01016e13" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_48876d1b01016e13.html" target="_blank">做个微剧本连续剧怎么样？</a>
+							</div>
+																	<img height="15" width="15" align="absmiddle" title="此博文包含图片" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" class="SG_icon SG_icon18"/>
+														<span class="time SG_txtc">(2011-09-23 00:08)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'48876d1b01016e13'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b01016e13');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%E2%E9%D0&ts=bpost&stype=tag" target="_blank">吴樾</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%A2%BE%E7%B1%BE&ts=bpost&stype=tag" target="_blank">微剧本</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D3%E9%C0%D6&ts=bpost&stype=tag" target="_blank">娱乐</a></h3>
+																												</td>
+									<td class="blog_class">
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p>&nbsp;<wbr>
+今天猛然点开自己的博客一看，真吓一跳，自从微博家变得门庭若市，博客家就成了门可罗雀，竟然有快一年的时间没有更新过了！再不写点什么，海底捞都无法阻止微博占据生活的脚步了。<a href='http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b01016e13&amp;url=http://s16.sinaimg.cn/orignal/48876d1btad8bd13072ef'
+target='_blank'><img src=
+'http://s16.sinaimg.cn/middle/48876d1btad8bd13072ef&amp;690' width=
+'690' height='459' name='image_operate_89201316715939671' alt=''
+title='' id="image_operate_89201316715939671" /></a><br />
+<br /></p>
+<p>&nbsp;<wbr></p>
+<p>&nbsp;<wbr>
+微博短、平、快，可以随时分享任何你愿意分享的事情，前天还满屏“神马都是浮云”，昨天就被“hold住全场”刷爆，今天呢？TVB体是不是早过时了？这两天趁着工作的空档，正好有时间刷微博，在微小说之后，又发现一挺好玩的东西——微剧本。<a href='http://photo.blog.sina.com.cn/showpic.html#blogid=48876d1b01016e13&amp;url=http://s14.sinaimg.cn/orignal/48876d1btad8bd31a33ad'
+target='_blank'><img src=
+'http://s14.sinaimg.cn/middle/48876d1btad8bd31a33ad&amp;690' width=
+'690' height='459' name='image_operate_55361316715981578' alt=''
+title='' id="image_operate_55361316715981578" /></a></p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_48876d1b01016e13" href="http://blog.sina.com.cn/s/blog_48876d1b01016e13.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_48876d1b01016e13.html#comment" id="c_10001_48876d1b01016e13">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('48876d1b01016e13');return false;">转载</a><a id="z_10001_48876d1b01016e13" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('48876d1b01016e13');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_48876d1b01016e13" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_48876d1b01016e13.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_48876d1b01016e13"></div>
+						<div class="SG_j_linedot"></div>
+											<div favmd5='{"48876d1b0101e99u":"612b9752da8f0afa80c2788373cd3242","48876d1b0101e3rg":"39eed1648de4a4479b98b85b41a26b9c","48876d1b0101duux":"392f9ca824818f1c91f67fa05c95ee8f","48876d1b0101divh":"5ae2011bd627cecf742830bc6bce6bef","48876d1b0101dfz6":"b5409407a73f751fb42f65c2d70efed8","48876d1b0101dan4":"b7e92fc9b2f3a573515be2ba5e176a87","48876d1b0101d0hr":"61f26be73ea07187ee315d2674756bc2","48876d1b0101913j":"0f55296267a37f0e69cf89b753b9c6ae","48876d1b01018luh":"42a522be7e4f9f1a1661380b6aa9d39d","48876d1b01016e13":"30601f36ca9539b437745cbb14d4f71a"}' classid="0" pagesize="10" total="240" id="pagination_10001" class="SG_page"></div>
+					</div>
+							  
+				</div>  
+    <div class="SG_connFoot"></div>
+</div></div>
+	<!--第二列start-->
+	
+	<!--第三列start-->
+	<div id="column_3" class="SG_colWnone"><div style="width:0px;height:0.1px;margin:0px;">&nbsp;&nbsp;</div></div>
+	<!--第三列end-->
+
+	
+    </div>
+   <!--主题内容结束 -->
+  
+
+	<div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"></div>
+    <div class="sinablogfooter" id="sinablogfooter"  style="position:relative;">
+      
+      <p class="SG_linka"><a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank">新浪BLOG意见反馈留言板</a>　<a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');">不良信息反馈</a>　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正</p>
+   
+      <p class="SG_linka"><a href="http://corp.sina.com.cn/chn/" target="_blank">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/" target="_blank">About Sina</a> | <a href="http://emarketing.sina.com.cn/" target="_blank">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html" target="_blank">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a> | <a href="http://english.sina.com" target="_blank">SINA English</a> | <a href="http://members.sina.com.cn/apply/" target="_blank">会员注册</a> | <a href="http://help.sina.com.cn/" target="_blank">产品答疑</a> </p>
+      <p class="copyright SG_linka"> Copyright &copy; 1996 - 2012 SINA Corporation,  All Rights Reserved</p>
+      <p class="SG_linka"> 新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a></p>
+	  <a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"></a>
+    </div>
+  </div>
+</div>
+<div id="swfbox"></div>
+<script id="PVCOUNTER_FORIE" type="text/javascript"></script>
+</body>
+<script type="text/javascript">
+var scope = {
+	$setDomain : true,
+	$uid : "1216834843",
+	$PRODUCT_NAME : "blog7",		//blog7photo,blog7icp
+	$pageid : "index",
+	$key :  "1dfc524e85ced82dc6c050933c1300bd",
+	$uhost : "wuyueblog",
+	$private: {"cms":0,"hidecms":0,"blogsize":0,"ad":0,"sms":0,"adver":0,"tj":1,"p4p":0,"spamcms":1,"topblogid":0,"pageset":1,"invitationset":1,"top":0,"active":"4","headpic":1},
+	$playids :{"10005":0,"10004":0},
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,	component_lists:{"2":{"size":730,"list":[10001]},"1":{"size":210,"list":[901,93,10005,1004,1003,1001,10004,1,2]}},
+	formatInfo:1,
+	UserPic:[{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":""},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":""},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":""}],
+	UserBabyPic:{"photoX":null,"photoY":null,"photoURL":null,"angle":null,"zoom":null,"maskX":null,"maskY":null,"maskURL":null,"frameURL":null},
+	UserColor:1,
+	backgroundcolor:"#fff",
+	tpl:"1_3"};
+var	$encrypt_code = "e6d8ea0817587ee425ac1be7f01074d5";
+</script>
+
+<script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"></script>
+<script type="text/javascript">__load_js();</script>
+<script type="text/javascript">__render_page();</script>
+
+
+
+<!-- ALL CODE START--><!-- SUDA_CODE_START --> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'><img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+
+</noScript> 
+<!-- SUDA_CODE_END --> 
+
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://sina.wrating.com/a1.js"></script>
+<script type="text/javascript">
+try{
+var vjAcc="860010-0328010000";
+var wrUrl="http://sina.wrating.com/";
+vjTrack("");
+}catch(e){};
+</script>
+<noscript><img src="http://sina.wrating.com/a.gif?a=&amp;c=860010-0328010000" width="1" height="1" style="display: none;"/></noscript>
+<!-- END WRating v1.0 -->
+
+<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+<script type="text/javascript">
+	var _rsCI="cn-sina2006";
+	var _rsCG="0";
+	var _rsDN="//secure-cn.imrworldwide.com/";
+	var _rsCC=0;
+	var _rsSE=1;
+	var _rsSM=0.01;
+	var _rsSS=1500;
+</script>
+<script type="text/javascript" src="//secure-cn.imrworldwide.com/v52.js"></script>
+
+<noscript><img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&cg=0" alt=""/> </noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+
+</html>

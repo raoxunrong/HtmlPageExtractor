@@ -87,7 +87,7 @@ public class FeatureExtractor {
 			linkProportion = getLinkProportion(content);
 			content = preProcess(content);
 			for (int i = 0; i < content.length(); i++) {
-				if (content.charAt(i) == 0x3002)//'ã€?
+				if (content.charAt(i) == 0x3002)
 					markNum++;
 			}
 			maxLineBlockLength = getMaxLineBlockLength(content);

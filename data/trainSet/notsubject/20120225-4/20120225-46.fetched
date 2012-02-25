@@ -1,0 +1,1157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[4,26,3] published at 2012-02-10 22:23:37 from #10 by 谢萍 designer:yangyianli，maker:gongyi-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<META http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<base target="_blank" />
+<base href="http://www.chinanews.com/" />
+<title>中新网-中国侨界</title>
+<link type="text/css" rel="stylesheet" href="http://www.chinanews.com/common/css/main.css" media="screen" />
+
+<style type="text/css">
+<!--
+body{ background-color:#f7f4e3;}
+.dht {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b1.jpg);
+	height: 54px;
+	width: 850px;
+	margin: 0 auto;
+	font-size: 14px;
+	padding-left: 104px;
+	padding-top: 25px;
+}
+.font-gray a:link,.font-gray a:hover,.font-gray a:visited{color:#a5a5a5}
+.color-afafaf,.color-afafaf a:link,.color-afafaf a:hover,.color-afafaf a:visited{ color:#afafaf;}
+.color-87a133,.color-87a133 a:link,.color-87a133 a:hover,.color-87a133 a:visited{ color:#556dc7;}
+.color-9c3306,.color-9c3306 a:link,.color-9c3306 a:hover,.color-9c3306 a:visited{ color:#7d5f45;}
+.color-e56700,.color-e56700 a:link,.color-e56700 a:hover,.color-e56700 a:visited{ color:#a15f25;}
+.color-b3641f,.color-b3641f a:link,.color-b3641f a:hover,.color-b3641f a:visited{ color:#7d5f45;}
+.padding-x5y10{ padding:10px 5px 10px 5px;}
+.padding-top10{ padding-top:10px;}
+.padding-top16{ padding-top:16px;}
+.padding-top20{ padding-top:20px;}
+.padding-top30{ padding-top:30px;}
+.padding-right10{ padding-right:10px;}
+.padding-right30{ padding-right:30px;}
+.padding-bottom10{ padding-bottom:10px;}
+.padding10{ padding:10px;}
+.scroll {
+	background-image: url(http://i4.chinanews.com/zgqj/img/b2.jpg);
+	height: 42px;
+         padding-top:5px;
+	width: 674px;
+	margin: 0 auto;
+	padding-left: 180px;
+	padding-right: 100px;
+}
+.dd {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b3.jpg);
+	background-repeat: repeat-y;
+	width: 934px;
+	margin: 0 auto;
+	padding: 10px;
+}
+.dd-left {
+	float: left;
+	height: 535px;
+	width: 300px;
+	overflow: hidden;
+}
+.qwlt {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b5.jpg);
+	height: 164px;
+	width: 280px;
+	margin: 0 auto;
+	padding: 10px;
+}
+.dd-middle {
+	float: left;
+	height: 534px;
+	width: 366px;
+	margin-left: 10px;
+	border: 1px solid #e6e3c4;
+	overflow: hidden;
+}
+.dd-b{
+	width:20px;
+	float:left;
+	padding-top: 8px;
+}
+.dd-t{
+	width:320px;
+	float:left;
+	line-height: 32px;
+}
+.dd-right {
+	float: left;
+	width: 235px;
+	margin-left: 10px;
+	height: 535px;
+	overflow: hidden;
+}
+.qjsy {
+	height: 356px;
+	width: 231px;
+	border: 1px solid #eeddc9;
+	clear:both;
+	overflow: hidden;
+}
+.qjsy-t {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b11.jpg);
+	height: 26px;
+	width: 231px;
+	line-height: 26px;
+	overflow: hidden;
+}
+.dd-r-l {
+	float: left;
+	width: 120px;
+	color: #d67210;
+	font-size: 14px;
+	font-weight: 700;
+}
+.dd-r-m {
+	float: right;
+	width: 100px;
+	padding-right: 10px;
+	text-align: right;
+	padding-top:0px !important;
+	padding-top:8px;
+}
+.ztch {
+	height: 140px;
+	width: 231px;
+	margin-top:5px;
+	border: 1px solid #eeddc9;
+	overflow: hidden;
+}
+.zgqw {
+	background-image: url(http://www.chinanews.com/fileftp/2009/09/2009-09-14/U32P4T47D11664F979DT20090914101013.jpg);
+	height: 48px;
+	width: 934px;
+	padding-top: 29px;
+	text-align: right;
+	padding-right: 20px;
+	margin: 0 auto;
+}
+.zgqw-l {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b42.jpg);
+	background-repeat: repeat-y;
+	width: 943px;
+	margin: 0 auto;
+	padding-left: 15px;
+}
+.zgqw-left {
+	float: left;
+	height: 620px;
+	width: 658px;
+}
+.zgqw-l-1 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b16.jpg);
+	float: left;
+	height: 381px;
+	width: 269px;
+	overflow: hidden;
+}
+.zgqw-l-2 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b17.jpg);
+	float: left;
+	height: 381px;
+	width: 389px;
+}
+.zgqw-l-3 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b18.jpg);
+
+	clear: both;
+	height: 222px;
+	width: 578px;
+	padding-left: 80px;
+	padding-top: 15px;
+}
+.zgqw-l-4 {
+	height: 210px;
+	width: 570px;
+}
+.qkjc-l {
+	float: left;
+	height: 210px;
+	width: 290px;
+}
+.qkjc-r {
+	float: left;
+	height: 210px;
+	width: 260px;
+}
+.zgqw-r {
+	background-color: #ebe1c8;
+	float: left;
+	height: 618px;
+	width: 268px;
+}
+.dfqx {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b23.jpg);
+	height: 80px;
+	width: 954px;
+	margin: 0 auto;
+}
+.dgqx-list {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b42.jpg);
+	background-repeat: repeat-y;
+	width: 908px;
+	margin: 0 auto;
+	padding: 20px 20px 20px 30px;
+}
+.dfqx-1 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b24.jpg);
+	height: 217px;
+	width: 899px;
+}
+.dfqx-1-l {
+	float: left;
+	width: 410px;
+	padding-left: 20px;
+	text-align: left;
+}
+.dfgx-r-1 {
+	float: left;
+	width: 400px;
+	padding-left: 50px;
+	text-align: left;
+}
+.dfqx-2 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b25.jpg);
+	height: 14px;
+	width: 898px;
+}
+.dfqx-3 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b26.jpg);
+	height: 215px;
+	width: 898px;
+}
+.dfqx-4 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b27.jpg);
+	height: 16px;
+	width: 898px;
+}
+.dfqx-5 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b28.jpg);
+	height: 216px;
+	width: 898px;
+}
+.qjjj {
+	width: 958px;
+	margin: 0 auto;
+	background-image: url(http://i5.chinanews.com/zgqj/img/b42.jpg);
+	background-repeat: repeat-y;
+}
+.qjjj-l {
+	float: left;
+	height: 656px;
+	width: 666px;
+}
+.qjjj-r {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b34.jpg);
+	float: left;
+	height: 596px;
+	width: 292px;
+	overflow: hidden;
+	padding-top: 60px;
+}
+.qjjj-l-1 {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b32.jpg);
+	height: 551px;
+	width: 649px;
+	margin-left: 10px;
+	padding-top: 10px;
+	background-repeat: no-repeat;
+}
+.gjjj-l-1-t {
+	float: left;
+	height: 310px;
+	width: 260px;
+	overflow: hidden;
+}
+.height80 {
+	clear: both;
+	height: 80px;
+}
+.qjjj-l-2 {
+	clear: both;
+	height: 200px;
+	padding-left: 10px;
+	padding-top: 5px;
+	overflow: hidden;
+}
+.qjjj-ll {
+	float: left;
+	width: 265px;
+}
+.qjjj-l-2-p {
+	float: left;
+	height: 100px;
+	width: 130px;
+}
+.qjjj-l-2-t {
+	float: left;
+	width: 110px;
+	height: 100px;
+	text-align: left;
+	padding-left: 10px;
+}
+.qjjj-l-m {
+	float: left;
+	height: 500px;
+	width: 340px;
+	padding: 5px 15px 5px 15px;
+}
+.gxjx {
+	width: 240px;
+	margin: 0 auto;
+	height: 213px;
+}
+.qjry {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b37.jpg);
+	height: 355px;
+	width: 954px;
+	margin: 0 auto;
+}
+.qjry-left {
+	float: left;
+	height: 260px;
+	width: 650px;
+	padding-top: 90px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+}
+.xjrw {
+	float: left;
+	height: 250px;
+	width: 360px;
+	padding-left: 20px;
+	border-right: dashed 1px #666666;
+}
+.xjrw-img li {
+	width:105px;
+	height:100px;
+	float:left;
+	margin-left:5px;
+	margin-top: 5px;
+}
+.hjnd {
+	float: right;
+	width: 265px;
+	padding-top: 20px;
+}
+.hjnd-bq {
+	background-image: url(http://i5.chinanews.com/zgqj/img/bg44.jpg);
+	height: 26px;
+	width: 210px;
+	float: left;
+	background-repeat: no-repeat;
+	padding-left: 10px;
+	text-align: left;
+}
+.hjnd-dsj {
+	clear: both;
+	width: 230px;
+	text-align: left;
+}
+.sqjg {
+	float: left;
+	width: 267px;
+	padding-top: 40px;
+	padding-left: 25px;
+	padding-right: 10px;
+}
+.sqzz {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b38.jpg);
+	height: 66px;
+	width: 954px;
+	margin: 0 auto;
+}
+.sqzz-list {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b42.jpg);
+	background-repeat: repeat-y;
+	width: 928px;
+	margin: 0 auto;
+	padding: 10px 15px 10px 15px;
+}
+.sqzz-left {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b39.jpg);
+	float: left;
+	height: 325px;
+	width: 408px;
+	padding-left: 152px;
+}
+.sqzz-right {
+	background-image: url(http://i5.chinanews.com/zgqj/img/b40.jpg);
+	float: right;
+
+	height: 265px;
+	width: 359px;
+	padding-top: 60px;
+}
+.dfqb{
+	width:64px;
+	line-height:50px;
+	padding-top:40px;
+	text-align: left;
+	font-size: 14px;
+	float: left;
+}
+.yd {
+	background-image: url(http://www.chinanews.com/fileftp/2009/09/2009-09-12/U32P4T47D11662F979DT20090914103104.jpg);
+	height: 101px;
+	width: 954px;
+	margin: 0 auto;
+	padding-top: 16px;
+}
+.bgff{ width:100%; background-color:#FFFFFF;}
+.logo-bg {
+	background-image: url(http://i5.chinanews.com/zgqj/img/logo-bg.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	width: 100%;
+}
+.ba1{float:left;width:250px;}
+.ba2{float:left;width:700px;}.width352 {
+	float: left;
+	width: 352px;
+}
+.div950{ margin:0 auto; width:950px;}
+.height30 {
+	height: 30px;
+	overflow: hidden;
+}
+-->
+</style>
+</head>
+<body>
+<!--top开始-->
+
+<div class="bgff">
+<style type="text/css">
+
+<!--
+
+#top{margin: 0 auto;padding:0px;width:965px;text-align:center;letter-spacing:0px;font-size:12px;color:#000;border-bottom:1px solid #000;margin-top:3px;}
+
+#top a:link{color:#000;text-decoration:none;}
+
+#top a:visited{color:#000;text-decoration:none;}
+
+#top a:hover{color:#000;text-decoration:underline;}
+
+-->
+
+</style>
+
+<div id=top>
+
+<a href="http://www.chinanews.com/home/" target="_blank">首页</a>|<a href="http://www.chinanews.com/" target="_blank">新闻</a>|<a href="http://bbs.chinanews.com/" target="_blank">社区</a>|<a href="http://blog.chinanews.com/" target="_blank">博客</a>|<a href="http://world.chinanews.com/" target="_blank">国际</a>|<a href="http://www.chinanews.com/fz/" target="_blank">法治</a>|<a href="http://www.chinanews.com/gangao/" target="_blank">港澳</a>|<a href="http://www.chinanews.com/taiwan/" target="_blank">台湾</a>|<a href="http://www.chinaqw.com/" target="_blank">侨网</a>|<a href="http://www.chinanews.com/huaren/" target="_blank">华人</a>|<a href="http://www.chinanews.com/hb/" target="_blank">华报</a>|<a href="http://www.chinanews.com/hwjy/" target="_blank">华教</a>|<a href="http://finance.chinanews.com/" target="_blank">财经</a>|<a href="http://fortune.chinanews.com/" target="_blank">金融</a>|<a href="http://stock.chinanews.com/" target="_blank">证券</a>|<a href="http://chinanews.caixun.com/" target="_blank">理财</a>|<a href="http://house.chinanews.com/" target="_blank">房产</a>|<a href="http://energy.chinanews.com/" target="_blank">能源</a>|<a href="http://it.chinanews.com/" target="_blank">IT</a>|<a href="http://game.chinanews.com/" target="_blank">游戏</a>|<a href="http://auto.chinanews.com/" target="_blank">汽车</a>|<a href="http://ent.chinanews.com/">娱乐</a>|<a href="http://sports.chinanews.com/" target="_blank">体育</a>|<a href="http://edu.chinanews.com/" target="_blank">教育</a>|<a href="http://health.chinanews.com/" target="_blank">健康</a>|<a href="http://life.chinanews.com/" target="_blank">生活</a>|<a href="http://www.chinanews.com/shipin/" target="_blank">视频</a>|<a href="http://photo.chinanews.com/" target="_blank">图片</a>|<a href="http://www.chinanews.com/piaowu/index.html" target="_blank">演出</a>|<a href="http://www.chinanews.com/special/wap.html" target="_blank">手机版</a>|<a href="http://www.ecns.cn/" target="_blank"><span style="color:#FF0000">English</span></a></div>
+<div class="div950">
+
+  <div>
+		<div class=ba1>
+		  <div><!--[4,248,1] published at 2012-02-10 00:01:01 from #202 by system-->
+2012年02月10日   星期五
+          </div>
+			<div><a href="http://www.chinanews.com/"><img src="http://i2.chinanews.com/gjimg/01.jpg" border="0" /></a>
+            </div>
+		</div>
+	<div class=ba2><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="495"><!--英语学习2011-->
+<a href="http://www.world90.com.cn/dhcns/" target="_blank"><img src="http://i8.chinanews.com/gg/111116/111603.jpg" width="495" height="90" /></a></td>
+    <td align="right">
+       <!--法治形象-->
+     <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="160" height="90">
+      <param name="movie" value="http://i8.chinanews.com/gg/100708/070818.swf">
+      <param name="quality" value="high">
+      <embed src="http://i8.chinanews.com/gg/100708/070818.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="90"></embed>
+    </object>
+   </td>
+    <td  width="10"></td>
+  </tr>
+</table>
+    </div>
+        <div class="div-clear"></div>
+  </div>
+    <div class="div-clear"></div>
+</div>
+<!--top结束-->
+<!--导航条开始-->
+<div class="logo-bg">
+<div class="dht color-afafaf">
+	<div><a href="http://channel.chinanews.com/cns/cl/zgqj-zgqx.shtml">中国侨讯</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-qwlt.shtml">侨务论坛</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-yzyz.shtml">引资引智</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-fwjl.shtml">访问交流</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-qjxx.shtml">侨界信箱</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-sqfg.shtml">涉侨法规</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-qkjc.shtml">侨刊集粹</a> | <a  href="http://www.chinanews.com.cn/allspecial/index.shtml">专题</a></div>
+    <div><a href="http://channel.chinanews.com/cns/cl/zgqj-gqgs.shtml">归侨故事</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-qsgc.shtml">侨史钩沉</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-qjxy.shtml">侨界撷英</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-gxjx.shtml">故乡纪行</a> | <a href="#xjrw" target="_top">侨界荣誉</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-hqnc.shtml">华侨农场 </a>| <a href="http://channel.chinanews.com/cns/cl/zgqj-qxsz.shtml">情系桑梓</a> | <a href="http://channel.chinanews.com/cns/cl/zgqj-tpbd.shtml">图片</a></div>
+</div>
+</div>
+</div>
+<!--导航条结束-->
+<!--滚动开始-->
+<div class="scroll">
+	<div><marquee scrollamount="1" scrolldelay="1">-<a href="/zgqj/2012/02-10/3660900.shtml">巴西利亚侨领家宴款待“四海同春”艺术团</a>22:23:11-<a href="/zgqj/2012/02-10/3660856.shtml">“四海同春”五洲巡演过半 中国文化盛宴受追捧</a>21:24:42-<a href="/zgqj/2012/02-10/3660855.shtml">上海侨务官员顶风冒雪走访慰问暖侨心　　</a>21:23:08-<a href="/zgqj/2012/02-10/3660854.shtml">上海虹口区召开侨务工作会议 商讨2012年工作</a>21:23:08-<a href="/zgqj/2012/02-10/3660852.shtml">上海市侨办官员会见台湾青年中华文化研习营团长</a>21:18:42-<a href="/zgqj/2012/02-10/3660846.shtml">上海静安侨界参政议政 建言献策促文化大发展</a>21:14:52-<a href="/zgqj/2012/02-10/3660845.shtml">获上海“白玉兰纪念奖”加拿大华人建言侨务工作</a>21:14:52-<a href="/zgqj/2012/02-10/3660835.shtml">海外温籍侨商回乡 拜访温州市侨办</a>21:08:40-<a href="/zgqj/2012/02-10/3660793.shtml">陕西96岁高龄“南侨机工”李兴培辞世</a>20:26:47-<a href="/zgqj/2012/02-10/3660536.shtml">广西隆安华侨管理区开展系列招聘会 解决用工难题</a>17:00:47-<a href="/zgqj/2012/02-10/3660534.shtml">法国华侨华人喜迎“文化中国·四海同春”艺术团</a>17:00:39-<a href="/zgqj/2012/02-10/3660516.shtml">江西省侨联召开机关全体大会 学习省“两会”精神</a>16:54:20-<a href="/zgqj/2012/02-10/3660494.shtml">安徽侨企坚持献爱心 助养淮北市首例龙凤四胞胎</a>16:49:58-<a href="/zgqj/2012/02-10/3660471.shtml">重庆南岸区侨界人士旁听市政协大会 畅谈参与感受</a>16:44:30-<a href="/zgqj/2012/02-10/3660459.shtml">安徽省侨联五届六次常委会在合肥召开 </a>16:40:48-<a href="/zgqj/2012/02-10/3660453.shtml">贵州省侨联与贵阳市侨联共同举行机关团拜会</a>16:37:50-<a href="/zgqj/2012/02-10/3660432.shtml">山东省侨联青年委员会在济南举行联谊活动</a>16:34:55-<a href="/zgqj/2012/02-10/3660404.shtml">济南市侨联召开新一届侨界人大代表政协委员座谈会</a>16:32:36-<a href="/zgqj/2012/02-10/3660389.shtml">厦门市筹备第十五次归侨侨眷代表大会</a>16:27:24-<a href="/zgqj/2012/02-10/3660253.shtml">简汉生盛赞云南省侨联“忠魂归国”公益活动</a>16:01:15-<a href="/zgqj/2012/02-10/3660218.shtml"><a href="/zgqj/2012/02-10/3660856.shtml" target="_blank">“四海同春”五洲巡演过半</a> <a href="/zgqj/2012/02-10/3659905.shtml" target="_blank">任启亮纽约听侨声</a> <a href="/zgqj/z/2012shtc/index.shtml" target="_blank">专题</a></a>15:53:41-<a href="/hr/2012/02-10/3660116.shtml">“亲情中华”荷兰阿纳姆市献艺 唤起侨胞思乡情</a>15:30:00-<a href="/zgqj/2012/02-10/3660108.shtml">“亲情中华·欢聚南佛州”晚会在迈阿密精彩上演 </a>15:24:36-<a href="/zgqj/2012/02-10/3660105.shtml">浙江官员赴意大利佛罗伦萨调研侨情 慰问华侨华人</a>15:23:02-<a href="/zgqj/2012/02-10/3659969.shtml">上海侨界志愿者称“我志愿我快乐” 官员冀再接再厉</a>15:03:31-<a href="/zgqj/2012/02-10/3659968.shtml">上海侨务部门向爱心侨商颁发“心系侨界”奖牌</a>15:01:21-<a href="/zgqj/2012/02-10/3659971.shtml">上海侨资企业伸援手 助36名困难学生圆梦</a>14:57:02-<a href="/hr/2012/02-10/3659987.shtml">“四海同春”伦敦慰问侨胞 艺术家对华人赞誉有加</a>14:51:04-<a href="/zgqj/2012/02-10/3659966.shtml">广西玉林市侨联干部深入基层慰问困难归侨侨眷 </a>14:47:26-<a href="/zgqj/2012/02-10/3659917.shtml">驻纽约总领馆办招待会 欢迎“四海同春”艺术团</a>14:39:48-<a href="/zgqj/2012/02-10/3659905.shtml">任启亮率四海同春艺术团访纽约 听侨声慰侨团</a>14:37:42-<a href="/zgqj/2012/02-10/3659890.shtml">“四海同春”艺术团抵达巴黎 受侨胞热烈欢迎</a>14:34:43-<a href="/zgqj/2012/02-10/3659862.shtml">董文华、蔡国庆等亮相四海同春伦敦演出 颇受追捧</a>14:30:55-<a href="/zgqj/2012/02-10/3659685.shtml">长沙芙蓉区侨联进驻社区开展“四联三为”工作</a>14:22:47-<a href="/zgqj/2012/02-10/3659684.shtml">新加坡教育家崔世杰博士回故乡探亲并义务讲学</a>14:22:07-<a href="/zgqj/2012/02-10/3659683.shtml">常州侨办主任：主动定位做配角 侨务才能HOLD住</a>14:20:09-<a href="/zgqj/2012/02-10/3659678.shtml">四川成都外办与澳中商会新州分会建立经贸合作关系</a>14:09:37-<a href="/zgqj/2012/02-10/3659732.shtml">美各级政要发贺函赞"四海同春"带来中国文化盛宴</a>14:08:28-<a href="/zgqj/2012/02-10/3659702.shtml">任启亮：“海外春晚”迎合华侨华人文化需求(图)</a>14:01:39-<a href="/zgqj/2012/02-10/3659262.shtml">中国侨联代表团访美 促成洛杉矶华侨之友联谊会</a>11:16:33-<a href="/zgqj/2012/02-10/3659147.shtml">广东省侨办主任率团拜访驻中国法兰克福总领馆</a>11:12:19-<a href="/zgqj/2012/02-10/3659146.shtml">吴锐成与德国中部地区侨团侨领畅叙情谊</a>11:11:18-<a href="/zgqj/2012/02-10/3659145.shtml">佛山市侨联接待香港南海同乡会乡亲</a>11:10:11-<a href="/zgqj/2012/02-10/3659144.shtml">广东省侨办副主任会见印尼千岛日报社代社长</a>11:00:23-<a href="/zgqj/2012/02-10/3659143.shtml">香港中山隆镇同乡会回乡团拜</a>11:00:23-<a href="/zgqj/2012/02-10/3659140.shtml">潮州市侨联助新加坡侨领翁烈强出版自传</a>11:00:23-<a href="/zgqj/2012/02-10/3658978.shtml">“亲情中华”架起中巴文化交流桥梁 赴意巴团收官</a>10:45:10-<a href="/zgqj/2012/02-10/3658842.shtml">宁夏侨联主席应邀考察浙江丽水经济开发区</a>10:21:45-<a href="/zgqj/2012/02-10/3658704.shtml">南京出台十二五侨务规划 将打造华人华侨人才之都</a>10:03:26-<a href="/zgqj/2012/02-10/3658414.shtml">福建漳州市侨联“建功海西” 招商引资开门红  </a>09:50:58</marquee></div>
+</div>
+<!--滚动结束-->
+<!--导读区开始-->
+<div class="dd">
+<div class="dd-left">
+    	<!--主图开始-->
+
+        <!--[4,27,13] published at 2012-02-10 15:53:50 from #202 by 250-->
+<div style="width:300px; height:296px; background-color:#FF9900">
+        <script language="JavaScript" type="text/javascript" src="http://www.chinanews.com.cn/javascript/swfobject.js"></script>
+	<div id="switchPlayer" style="text-align:center;">
+	<script type="text/javascript">
+	var so = new SWFObject("http://i4.chinanews.com/entertainment/focus.swf", "focus", "290", "296", "6", "#ffffff", true);
+	var infoArr = new Array();
+	var infoStr = "";
+	infoArr.push("/zgqj/part/U250P4T27D13F12830DT20120210155350.jpg#http://www.chinanews.com/zgqj/2012/02-10/3659905.shtml#任启亮率团访纽约 听侨声慰侨团|");
+	infoArr.push("/zgqj/part/U250P4T27D13F12833DT20120210155350.jpg#http://www.chinanews.com/zgqj/2012/02-10/3659146.shtml#吴锐成与德国中部地区侨团侨领畅叙情谊 |");
+	infoArr.push("/zgqj/part/U250P4T27D13F12836DT20120210155350.jpg#http://www.chinanews.com/zgqj/2012/02-10/3659969.shtml#上海侨界志愿者称“我志愿我快乐”|");
+	infoArr.push("/zgqj/part/U250P4T27D13F12839DT20120210155350.jpg#http://www.chinanews.com/zgqj/2012/02-10/3659683.shtml#常州侨办主任：做配角侨务才能HOLD住");
+	for (var i=0; i<infoArr.length; i++)
+	{
+	infoStr += infoArr[i];
+	}
+	so.addParam("quality", "best");
+	so.addParam("allowScriptAccess", "sameDomain");
+	so.addParam("wmode", "transparent");
+	so.addVariable("mylinkpic", infoStr);
+	so.write("switchPlayer");
+	</script>
+</div>
+        </div>
+          <!--主图结束-->
+        <!--侨务论坛开始-->
+      <div style="height:45px; overflow:hidden; margin-top:10px;">
+        	<a href="http://channel.chinanews.com/cns/cl/zgqj-qwlt.shtml"><img src="http://i5.chinanews.com/zgqj/img/b4.jpg" width="300" height="45" /></a>
+      </div>
+
+        <div class="qwlt">
+<ul class="font-14 text-left line-height30">
+            	<li>·<a href="/zgqj/2012/02-09/3657101.shtml">“三个落实”提升为侨服务水平</a></li><li>·<a href="/zgqj/2012/02-07/3651125.shtml">河南许昌三环节促进侨法宣传工作</a></li><li>·<a href="/zgqj/2012/02-03/3643384.shtml">适应创新管理要求 开展社区侨务</a></li><li>·<a href="/zgqj/2012/02-02/3639572.shtml">创先争优在“实”处</a></li><li>·<a href="/zgqj/2012/01-29/3627204.shtml">围绕“三项重点”抓好外侨工作</a></li>
+          </ul>
+        </div>
+        <!--侨务论坛结束-->
+  </div>
+<!--导读左侧结束-->
+<!--导读中间开始-->
+  <div class="dd-middle">
+     <!--大导读开始-->
+  	<div><a href="http://channel.chinanews.com/cns/cl/zgqj-ywdd.shtml"><img src="http://i5.chinanews.com/zgqj/img/b6.jpg" width="362" height="39" /></a></div>
+    <!--[4,27,8] published at 2012-02-10 15:47:50 from #202 by 250-->
+<div class="color-87a133 line-height40 font-strong font-18"><a href="http://www.chinanews.com/zgqj/2012/02-09/3657712.shtml">中国艺术家献艺四海同春 情暖侨心</a></div>
+    <div class="color-afafaf"><a href="/zgqj/2012/02-08/3654576.shtml">[四海同春频访侨社 国侨办官员察侨情]</a><a href="/hr/2012/02-06/3648831.shtml">[演绎地域风]</a><a href="/zgqj/z/2012shtc/index.shtml">[专题]</a> </div>
+    <!--导读结束-->
+    <div class="margin-top10 margin-top10"><img src="http://i5.chinanews.com/zgqj/img/b7.jpg" /></div>
+    <!--要闻导读开始-->
+    <div class="margin-top10">
+   	  <ul class="text-left font-14 padding-left15">
+       	<li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/hr/2012/02-10/3660116.shtml">“亲情中华”荷兰阿纳姆市献艺 唤起侨胞思乡情</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659905.shtml">任启亮率四海同春艺术团访纽约 听侨声慰侨团</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659262.shtml">中国侨联代表团访美 促成洛杉矶华侨之友联谊会</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3658409.shtml">云南政协委员提案呼吁扶持散居归侨侨眷经济发展</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-09/3657712.shtml">中国艺术家献艺“四海同春” 视听盛宴情暖侨心</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-09/3656327.shtml">“四海同春”唱响芝加哥 任启亮深入侨社听侨声</a></div></li>
+      </ul>
+      <div class="div-clear"></div>
+    </div>
+    <div class="div-clear margin-top10 margin-bottom10"><img src="http://i5.chinanews.com/zgqj/img/b7.jpg" /></div>
+     <div>
+   	  <ul class="text-left font-14 padding-left15 ">
+       	<li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3660516.shtml">江西省侨联召开机关全体大会 学习省“两会”精神</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3660459.shtml">安徽省侨联五届六次常委会在合肥召开 </a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3660453.shtml">贵州省侨联与贵阳市侨联共同举行机关团拜会</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3660432.shtml">山东省侨联青年委员会在济南举行联谊活动</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659968.shtml">上海侨务部门向爱心侨商颁发“心系侨界”奖牌</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659683.shtml">常州侨办主任：主动定位做配角 侨务才能HOLD住</a></div></li>
+      </ul>
+      <div class="div-clear"></div>
+    </div>
+    <!--要闻导读结束-->
+
+  </div>
+<!--导读中间结束-->
+<!--导读右侧开始-->
+  <div class="dd-right">
+	<!--检索开始-->
+
+    <div class="height30">
+   	  <form name="sumitForm" method="post" action="http://search.chinanews.com/search.do" target="_blank" onsubmit="return submitFun()" style="width:235px;">
+   	    <div style="width:94px; float:left;">
+	      <input type="text" name="keyword" id="keyword" autocomplete="off" maxlength="15"  value="关键词" onfocus="this.value=''" style="width:90px; height:14px; overflow:hidden; font-size:12px;border:1px solid #eeddc9; "/>
+        </div>
+              <div style="width:68px; float:left; margin-left:5px; font-size:12px;">
+
+  <select name="filed" id="filed" style="width:68px;">
+				  <option value="title" selected>标 题</option>
+				  <option value="content">内 容</option>
+</select>
+
+        </div>
+                  <div style="width:60px; float:left; padding-left:5px; padding-top:2px;">
+                 	<input type="image" src="http://i5.chinanews.com/zgqj/img/search.jpg" name="submitBtn" id="submitBtn" value=" 搜索 "/>
+              </div>
+                 <input type="hidden" name="pageIndex" id="pageIndex" value="1" />
+       			 <input type="hidden" name="isEncode" id="isEncode" value="false" />
+        		 <input type="hidden" name="day1" id="day1" />
+        		 <input type="hidden" name="day2" id="day2" />
+       			 <input type="hidden" name="ad_is" id="ad_is" value="false" />
+      </form>
+    </div>
+    <!--检索结束-->
+    <!--侨界声音开始-->
+    <div class="qjsy">
+    <!--侨界声音栏目条开始-->
+   	  <div class="qjsy-t">
+   		<div class="dd-r-l">侨界声音</div>
+
+        <div class="dd-r-m">
+
+        </div>
+   	  </div>
+     <!--侨界声音栏目条结束-->
+     <!--侨界声音列表-->
+     <div class="text-left padding-x5y10">
+     	<!--[4,27,7] published at 2012-01-29 11:28:17 from #202 by 250-->
+<div><p class="font-14 color-e56700">--<a href="/zgqj/2011/12-29/3567736.shtml">“华侨华人是促进经济社会发展的重要资源。中国现有海外侨胞5000万，归侨侨眷3000多万，侨企数量占来华投资外企的70%，其投资额占外资投资总额的60%以上。凝聚侨心、汇聚侨力，引领侨资融入社会是当前侨务工作的重点。”</a></p>
+        	<p class="font-gray">-- <a href="/zgqj/2011/12-29/3567736.shtml">国侨办副主任马儒沛在与湖南省副省长李友志会谈时说</a></p>
+        </div>
+        <div class="div-clear"><img src="http://i5.chinanews.com/zgqj/img/b12.jpg" /></div>
+        <div class="padding-top10"><p class="font-14 color-e56700">--<a href="/zgqj/2011/12-23/3553348.shtml">“侨商组织在侨商投诉协调工作中发挥了重要作用。”</a></p>
+        	<p class="font-gray">-- <a href="/zgqj/2011/12-23/3553348.shtml">国侨办副主任任启亮在中国侨商投诉协调工作会议上指出</a></p>
+        </div>
+        <div class="div-clear"></div>
+
+     </div>
+     <!--侨界声音列表-->
+    </div>
+    <!--侨界声音结束-->
+    <!--专题策划开始-->
+    <div class="ztch">
+     <!--专题策划栏目条开始-->
+
+   	  <div class="qjsy-t">
+   		<div class="dd-r-l">专题策划</div>
+
+        <div class="dd-r-m">
+       	  <a href="http://www.chinanews.com/allspecial/index.shtml"><img src="http://i5.chinanews.com/zgqj/img/b10.jpg" /></a>
+        </div>
+   	  </div>
+     <!--专题策划栏目条结束-->
+      <!--专题策划列表开始-->
+     <div class="text-left padding10 font-14 line-height30">
+     	<ul>
+        	<!--[4,27,6] published at 2012-01-13 17:02:59 from #202 by 250-->
+<li>·<a href="http://www.chinanews.com/zgqj/z/2012shtc/index.shtml">2012年“文化中国·四海同春”</a></li>
+<li>·<a href="http://www.chinanews.com/zgqj/z/qqzh/index.shtml">2012年“亲情中华”</a></li>
+<li>·<a href="http://www.chinanews.com/zgqj/z/qiaowugongzuohuiyi/index.shtml">全国侨务工作会议</a></li>
+
+        </ul>
+     </div>
+     <!--专题策划列表结束-->
+    </div> 
+    <!--专题策划结束-->
+  </div>	
+<!--导读右侧结束-->
+  <div class="div-clear"></div>
+
+</div>
+<div ><img src="http://www.chinanews.com/fileftp/2009/09/2009-09-14/U32P4T47D11664F978DT20090914101013.jpg" /></div>
+<!--第一通栏广告位-->
+<div style="width:950px; margin:0 auto; line-height:1px;">
+	
+</div>
+<!--第一通栏广告位-->
+<!--导读区结束-->
+<!--中国侨务开始-->
+<div class="zgqw color-9c3306">
+	<a href="http://channel.chinanews.com/cns/cl/zgqj-zgqx.shtml">更多>></a>
+</div>
+<!--中国侨务内容区开始-->
+<div class="zgqw-l">
+  <!--中国侨务内容区左侧开始-->
+  <div class="zgqw-left">
+     <!--左侧1开始-->
+  	<div class="zgqw-l-1">
+    	<div class="padding10">
+        <!--侨界信箱开始-->
+        	<div>
+        		<a href="http://channel.chinanews.com/cns/cl/zgqj-qjxx.shtml"><img src="http://i5.chinanews.com/zgqj/img/b14.jpg" width="238" height="29" /></a>            </div>
+        <div>
+       	  <ul class="text-left color-b3641f font-14 padding-x5y10 line-height30">
+                	<li>·<a href="/zgqj/2012/02-07/3651613.shtml">“夹心层”华侨子女能否参加高考</a></li><li>·<a href="/zgqj/2012/02-03/3643259.shtml">归侨侨眷对在沪私有房屋享何种权利</a></li><li>·<a href="/zgqj/2012/01-25/3623257.shtml">办理华侨在京子女身份证明条件</a></li><li>·<a href="/zgqj/2012/01-12/3599626.shtml">上海早期归侨享受哪些医疗便利</a></li>
+          </ul>
+              <div class="div-clear"></div>
+          </div>
+            <!--侨界信箱结束-->
+             <!--涉侨法规开始-->
+        	<div>
+        		<a href="http://channel.chinanews.com/cns/cl/zgqj-sqfg.shtml"><img src="http://i5.chinanews.com/zgqj/img/b15.jpg" width="238" height="29" /></a>            </div>
+        <div>
+       	  <ul class="text-left color-b3641f font-14 padding-x5y10 line-height30">
+                	<li>·<a href="/zgqj/2012/02-10/3658704.shtml">南京市“十二五”侨务规划</a></li><li>·<a href="/zgqj/2012/02-06/3648045.shtml">江苏省人才居住证制度</a></li><li>·<a href="/zgqj/2012/01-29/3625906.shtml">湖北省侨属企业条例（修正）</a></li><li>·<a href="/zgqj/2012/01-29/3625864.shtml">贯彻《山东省万人计划》的意见</a></li>
+          </ul>
+              <div class="div-clear"></div>
+          </div>
+            <!--涉侨法规结束-->
+        </div>
+    </div>
+    <!--左侧1结束-->
+    <!--左侧2开始-->
+    <div class="zgqw-l-2">
+   	  <div>
+       	<ul class="text-left font-14 padding-left15 padding-top20 padding-bottom10 ">
+   		  <li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3660534.shtml">法国华侨华人喜迎“文化中国·四海同春”艺术团</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/hr/2012/02-10/3660116.shtml">“亲情中华”荷兰阿纳姆市献艺 唤起侨胞思乡情</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3660108.shtml">“亲情中华·欢聚南佛州”晚会在迈阿密精彩上演 </a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/hr/2012/02-10/3659987.shtml">“四海同春”伦敦慰问侨胞 艺术家对华人赞誉有加</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659905.shtml">任启亮率四海同春艺术团访纽约 听侨声慰侨团</a></div></li>
+
+   	    </ul>
+         <div class="div-clear"></div>
+
+      </div>
+        <div><img src="http://i5.chinanews.com/zgqj/img/b7.jpg" /></div>
+        <div>
+       	  <ul class="text-left font-14 padding-left15 padding-top10">
+       		<li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659890.shtml">“四海同春”艺术团抵达巴黎 受侨胞热烈欢迎</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659732.shtml">美各级政要发贺函赞"四海同春"带来中国文化盛宴</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659702.shtml">任启亮：“海外春晚”迎合华侨华人文化需求(图)</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3659262.shtml">中国侨联代表团访美 促成洛杉矶华侨之友联谊会</a></div></li><li class="div-clear"><div class="dd-b"><img src="http://i5.chinanews.com/zgqj/img/b8.jpg" /></div><div  class="dd-t"><a href="/zgqj/2012/02-10/3658978.shtml">“亲情中华”架起中巴文化交流桥梁 赴意巴团收官</a></div></li>
+
+     	 </ul>
+         <div class="div-clear"></div>
+
+        </div>
+    </div>
+    <!--左侧2开始-->
+    <!--左侧3开始-->
+    <div class="zgqw-l-3">
+	  <div class="zgqw-l-4 font-14">
+      		<!--侨刊集粹左侧开始-->
+      		<div class="qkjc-l">
+           	  <div><!--[4,27,15] published at 2011-11-25 16:54:13 from #202 by 250-->
+<a href="http://www.chinaqw.com/hnyhw/241/index.shtml"><img src="http://i5.chinanews.com/zgqj/img/bg43.jpg" width="218" height="73"></a>
+
+</div>
+                <div class="text-left padding-left10 padding-top10 line-height30 ">·<span class="color-e56700">[海内与海外]</span> <a href="/zgqj/2012/02-06/3648276.shtml"><span class="color-b3641f">絮语的分量有多重？从人生的行知中去体味</span></a><br>·<span class="color-e56700">[福建侨报]</span> <a href="/zgqj/2012/01-29/3625816.shtml"><span class="color-b3641f">河南北部“官兵里”：穿越时空的“闽南村”</span></a><br></div>
+            </div>
+        <!--侨刊集粹左侧结束-->
+            <!--侨刊集粹右侧开始-->
+      		<div class="qkjc-r">
+      		  <div class="text-left padding-left10 padding-top10 line-height30">·<span class="color-e56700">[地平线月刊]</span> <a href="/zgqj/2012/01-13/3604073.shtml"><span class="color-b3641f">云南省凤庆县的古墨村：乡村的记忆与梦境</span></a><br>·<span class="color-e56700">[海内与海外]</span> <a href="/zgqj/2012/01-13/3604059.shtml"><span class="color-b3641f">“回”字的迷思：“回去”与“回来”</span></a><br>·<span class="color-e56700">[侨务工作研究]</span> <a href="/zgqj/2012/01-13/3604025.shtml"><span class="color-b3641f">在“科学化”理念下拓展侨务工作的新思路</span></a><br></div>
+              <div class="text-right p"><a href="http://channel.chinanews.com/cns/cl/zgqj-qkjc.shtml"><img src="http://i5.chinanews.com/zgqj/img/b10.jpg" /></a></div>
+	    </div>
+      		<!--侨刊集粹右侧结束-->
+      </div>
+    </div>
+    <!--左侧3开始-->
+  </div>
+  <!--中国侨务内容区左侧结束-->
+  <!--中国侨务右侧开始-->
+  <div class="zgqw-r">
+  		<!--活动预告开始-->
+  		<div><img src="http://i4.chinanews.com/zgqj/img/b19.jpg" /></div>
+        <div>
+       	  <ul class="text-left color-b3641f font-14 padding10 line-height28">
+                	<!--[4,27,14] published at 2011-11-28 18:41:15 from #202 by 208-->
+<li>·<a href="http://www.chinanews.com/zgqj/2011/11-28/3489695.shtml">第十二届世界海南乡团联谊大会</a></li>
+<li>·<a href="http://www.chinanews.com/hr/2011/09-07/3311939.shtml">第十五届中国国际投资贸易洽谈会</a></li>
+<li>·<a href="http://www.chinanews.com/zgqj/2011/08-24/3279268.shtml">2011侨界海外精英创业创新峰会</a></li>
+<li>·<a href="http://www.chinanews.com/zgqj/2011/08-10/3247387.shtml">第八届海外人才常州创新创业洽谈会</a></li>
+<li>·<a href="http://www.chinanews.com/zgqj/2011/07-07/3163964.shtml">第三届苏州国际精英创业周</a></li>
+          </ul>
+        </div>
+        <!--活动预告结束-->
+        <!--引资引智开始-->
+        <div><a href="http://channel.chinanews.com/cns/cl/zgqj-yzyz.shtml"><img src="http://i5.chinanews.com/zgqj/img/b20.jpg" /></a></div>
+<div>
+       	  <ul class="text-left color-b3641f font-14 padding10 line-height28">
+                	<li>·<a href="/zgqj/2012/02-10/3658414.shtml">福建漳州市侨联“建功海西”</a></li><li>·<a href="/zgqj/2012/02-09/3655885.shtml">常州“侨务引智”之路</a></li><li>·<a href="/zgqj/2012/02-09/3655884.shtml">江苏吴江市加大海外引智力度</a></li><li>·<a href="/zgqj/2012/02-08/3652953.shtml">天津市去年吸引侨资超百亿</a></li><li>·<a href="/zgqj/2012/02-08/3652884.shtml">常州市侨办官员赴沪引资引智</a></li>
+      </ul>
+    </div>
+        <!--引资引智结束-->
+         <!--访问交流开始-->
+        <div><a href="http://channel.chinanews.com/cns/cl/zgqj-fwjl.shtml"><img src="http://i5.chinanews.com/zgqj/img/b21.jpg" /></a></div>
+<div>
+       	  <ul class="text-left color-b3641f font-14 padding10 line-height28">
+                	<li>·<a href="/zgqj/2012/02-10/3660105.shtml">浙江官员赴意大利佛罗伦萨调研侨情</a></li><li>·<a href="/zgqj/2012/02-10/3659146.shtml">吴锐成与德国侨团侨领畅叙情谊</a></li><li>·<a href="/zgqj/2012/02-07/3652054.shtml">国侨办副主任马儒沛与英国侨界代表共度元宵佳节</a></li><li>·<a href="/zgqj/2012/02-01/3637159.shtml">四川侨办组织艺术团赴中美洲慰问</a></li><li>·<a href="/zgqj/2012/02-01/3635851.shtml">潍坊市侨联组团赴欧开展经贸洽谈</a></li>
+      </ul>
+    </div>
+        <!--访问交流结束-->
+  </div>
+  <!--中国侨务右侧结束-->
+  <div class="div-clear"></div>
+</div>
+<!--中国侨务内容区结束-->
+<!--中国侨务结束-->
+
+<!--地方侨讯开始-->
+<div class="dfqx">
+</div>
+
+<div class="dgqx-list">
+	<!--第一排开始-->
+    <div class="dfqx-1">
+   	  <div class="dfqx-1-l">
+      	<div class="text-right font-gray padding-top20">[<a href="/zgqj/fjqw/fj.html">福建</a>] [<a href="/zgqj/jsqw/js.html">江苏</a>] [<a href="/zgqj/zjqw/zj.html">浙江</a>] [<a href="/zgqj/sdqw/sd.html">山东</a>] [<a href="/zgqj/ahqw/ah.html">安徽</a>] [<a href="/zgqj/shqw/sh.html">上海</a>] [<a href="/zgqj/jxqw/jx.html">江西</a>] </div>
+        <div class="font-14 padding-top10 line-height30"><span class="color-e56700">[<a href="/zgqj/shqw/sh.html">上海</a>]</span> <a href="/zgqj/2012/02-10/3660855.shtml">上海侨务官员顶风冒雪走访慰问暖侨心　　</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/shqw/sh.html">上海</a>]</span> <a href="/zgqj/2012/02-10/3660854.shtml">上海虹口区召开侨务工作会议 商讨2012年工作</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/shqw/sh.html">上海</a>]</span> <a href="/zgqj/2012/02-10/3660852.shtml">上海市侨办官员会见台湾青年中华文化研习营团长</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/shqw/sh.html">上海</a>]</span> <a href="/zgqj/2012/02-10/3660846.shtml">上海静安侨界参政议政 建言献策促文化大发展</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/shqw/sh.html">上海</a>]</span> <a href="/zgqj/2012/02-10/3660845.shtml">获上海“白玉兰纪念奖”加拿大华人建言侨务工作</a> <span class="font-12 font-gray">2-10</span><br></div>
+
+      </div>
+
+      <div class="dfgx-r-1">
+      	<div class="text-right font-gray padding-top20"> [<a href="/zgqj/gdqw/gd.html">广东</a>] [<a href="/zgqj/gxqw/gx.html">广西</a>] [<a href="/zgqj/nhqw/nh.html">海南</a>] </div>
+        <div class="font-14 padding-top10 line-height30"><span class="color-e56700">[<a href="/zgqj/gxqw/gx.html">广西</a>]</span> <a href="/zgqj/2012/02-10/3660536.shtml">广西隆安华侨管理区开展系列招聘会 解决用工难题</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/gxqw/gx.html">广西</a>]</span> <a href="/zgqj/2012/02-10/3659966.shtml">广西玉林市侨联干部深入基层慰问困难归侨侨眷 </a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/gdqw/gd.html">广东</a>]</span> <a href="/zgqj/2012/02-10/3659147.shtml">广东省侨办主任率团拜访驻中国法兰克福总领馆</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/gdqw/gd.html">广东</a>]</span> <a href="/zgqj/2012/02-10/3659146.shtml">吴锐成与德国中部地区侨团侨领畅叙情谊</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/gdqw/gd.html">广东</a>]</span> <a href="/zgqj/2012/02-10/3659145.shtml">佛山市侨联接待香港南海同乡会乡亲</a> <span class="font-12 font-gray">2-10</span><br></div>
+      </div>
+    </div>
+    <!--第一排结束-->
+  <div class="dfqx-2"></div>
+  <!--第二排开始-->
+  <div class="dfqx-3">
+  	<!--第二排左侧开始-->
+
+    <div class="dfqx-1-l">
+   	  <div class="text-right font-gray padding-top16">[<a href="/zgqj/bjqw/bj.html">北京</a>] [<a href="/zgqj/tjqw/tj.html">天津</a>] [<a href="/zgqj/bhqw/bh.html">河北</a>] [<a href="/zgqj/sxqw/sx.html">山西</a>] [<a href="/zgqj/nmqw/nm.html">内蒙古</a>]  </div>
+      <div class="font-14 padding-top10 line-height30"><span class="color-e56700">[<a href="/zgqj/tjqw/tj.html">天津</a>]</span> <a href="/zgqj/2012/02-08/3652953.shtml">搭建创业舞台培育兴业沃土 天津去年引侨资超百亿</a> <span class="font-12 font-gray">2-8</span><br><span class="color-e56700">[<a href="/zgqj/bjqw/bj.html">北京</a>]</span> <a href="/zgqj/2012/02-03/3643684.shtml">北京市侨办官员会见美中科协名誉会长</a> <span class="font-12 font-gray">2-3</span><br><span class="color-e56700">[<a href="/zgqj/bjqw/bj.html">北京</a>]</span> <a href="/zgqj/2012/02-02/3639238.shtml">北京市海淀区召开侨友新春联谊会 </a> <span class="font-12 font-gray">2-2</span><br><span class="color-e56700">[<a href="/zgqj/bhqw/bh.html">河北</a>]</span> <a href="/zgqj/2012/02-01/3635705.shtml">河北省侨界人大代表喜获省年度优秀代表建议表彰 </a> <span class="font-12 font-gray">2-1</span><br><span class="color-e56700">[<a href="/zgqj/sxqw/sx.html">山西</a>]</span> <a href="/zgqj/2012/01-31/3633423.shtml">山西晋城侨联副主席获“国家特聘专家”证书</a> <span class="font-12 font-gray">1-31</span><br></div>
+
+    </div>
+
+    <!--第二排左侧结束-->
+    <!--第二排右侧开始-->
+    <div class="dfgx-r-1">
+   	  <div class="text-right font-gray padding-top16"> [<a href="/zgqj/hbqw/hb.html">湖北</a>] [<a href="/zgqj/huqw/hu.html">湖南</a>] [<a href="/zgqj/hnqw/hn.html">河南</a>]</div>
+      <div class="font-14 padding-top10 line-height30"><span class="color-e56700">[<a href="/zgqj/huqw/hu.html">湖南</a>]</span> <a href="/zgqj/2012/02-10/3659685.shtml">长沙芙蓉区侨联进驻社区开展“四联三为”工作</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/hnqw/hn.html">河南</a>]</span> <a href="/zgqj/2012/02-09/3657390.shtml">台湾中华侨联总会筹划与固始合建开漳圣王祖庙</a> <span class="font-12 font-gray">2-9</span><br><span class="color-e56700">[<a href="/zgqj/hnqw/hn.html">河南</a>]</span> <a href="/zgqj/2012/02-09/3657101.shtml">许昌侨联“三个落实”提升为侨服务水平</a> <span class="font-12 font-gray">2-9</span><br><span class="color-e56700">[<a href="/zgqj/huqw/hu.html">湖南</a>]</span> <a href="/zgqj/2012/02-09/3656940.shtml">长沙芙蓉区侨联开展“访侨情维侨权”问卷调查活动</a> <span class="font-12 font-gray">2-9</span><br><span class="color-e56700">[<a href="/zgqj/huqw/hu.html">湖南</a>]</span> <a href="/zgqj/2012/02-09/3656938.shtml">湖南省市侨联干部看望慰问“感动中国”人物李丽</a> <span class="font-12 font-gray">2-9</span><br></div>
+    </div>
+    <!--第二排右侧结束-->
+
+  </div>
+  <!--第二排结束-->
+  <div class="dfqx-4"></div>
+  <!--第三排开始-->
+  <div class="dfqx-5">
+  			<!--第二排左侧开始-->
+
+   	  <div class="dfqx-1-l">
+      	<div class="text-right font-gray padding-top16">[<a href="/zgqj/cqqw/cq.html">重庆</a>][<a href="/zgqj/nxqw/nx.html">宁夏</a>][<a href="/zgqj/xjqw/xj.html">新疆</a>][<a href="/zgqj/qhqw/qh.html">青海</a>][<a href="/zgqj/xsqw/xs.html">陕西</a>][<a href="/zgqj/gsqw/gs.html">甘肃</a>][<a href="/zgqj/scqw/sc.html">四川</a>][<a href="/zgqj/ynqw/yn.html">云南</a>][<a href="/zgqj/gzqw/gz.html">贵州</a>]  </div>
+        <div class="font-14 padding-top10 line-height30"><span class="color-e56700">[<a href="/zgqj/xsqw/xs.html">陕西</a>]</span> <a href="/zgqj/2012/02-10/3660793.shtml">陕西96岁高龄“南侨机工”李兴培辞世</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/cqqw/cq.html">重庆</a>]</span> <a href="/zgqj/2012/02-10/3660471.shtml">重庆南岸区侨界人士旁听市政协大会 畅谈参与感受</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/gzqw/gz.html">贵州</a>]</span> <a href="/zgqj/2012/02-10/3660453.shtml">贵州省侨联与贵阳市侨联共同举行机关团拜会</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/ynqw/yn.html">云南</a>]</span> <a href="/zgqj/2012/02-10/3660253.shtml">简汉生盛赞云南省侨联“忠魂归国”公益活动</a> <span class="font-12 font-gray">2-10</span><br><span class="color-e56700">[<a href="/zgqj/scqw/sc.html">四川</a>]</span> <a href="/zgqj/2012/02-10/3659678.shtml">四川成都外办与澳中商会新州分会建立经贸合作关系</a> <span class="font-12 font-gray">2-10</span><br></div>
+
+      </div>
+
+    <!--第二排左侧结束-->
+    <!--第二排右侧开始-->
+    <div class="dfgx-r-1">
+   	  <div class="text-right font-gray padding-top16">  [<a href="/zgqj/hlqw/hlj.html">黑龙江</a>] [<a href="/zgqj/jlqw/jl.html">吉林</a>] [<a href="/zgqj/lnqw/ln.html">辽宁</a>]</div>
+
+      <div class="font-14 padding-top10 line-height30"><span class="color-e56700">[<a href="/zgqj/lnqw/ln.html">辽宁</a>]</span> <a href="/zgqj/2012/02-08/3653134.shtml">中国侨联及省市侨联干部走访慰问沈阳归侨侨眷</a> <span class="font-12 font-gray">2-8</span><br><span class="color-e56700">[<a href="/zgqj/lnqw/ln.html">辽宁</a>]</span> <a href="/zgqj/2012/02-06/3648157.shtml">辽宁省大连市侨联青年委员会召开新春座谈会</a> <span class="font-12 font-gray">2-6</span><br><span class="color-e56700">[<a href="/zgqj/jlqw/jl.html">吉林</a>]</span> <a href="/zgqj/2012/01-31/3632577.shtml">厚植感情造福家乡 吉林省政协主席看望侨界代表</a> <span class="font-12 font-gray">1-31</span><br><span class="color-e56700">[<a href="/zgqj/lnqw/ln.html">辽宁</a>]</span> <a href="/zgqj/2012/01-29/3626868.shtml">中国侨联慰问组赴辽宁走访侨联工作者与侨界群众</a> <span class="font-12 font-gray">1-29</span><br><span class="color-e56700">[<a href="/zgqj/lnqw/ln.html">辽宁</a>]</span> <a href="/zgqj/2012/01-12/3599143.shtml">沈阳市启动“新侨创业基地” 拓展新侨交流合作</a> <span class="font-12 font-gray">1-12</span><br></div>
+    </div>
+    <!--第二排右侧结束-->
+  </div>
+  <!--第三排结束-->
+  <div class="div-clear"></div>
+</div>
+<!--地方侨讯结束-->
+<!--侨界聚焦开始-->
+<div class="qjjj">
+	<!--侨界聚焦左侧开始-->
+  <div class="qjjj-l">
+   	  <div class="padding-bottom10"><img src="http://i5.chinanews.com/zgqj/img/b29.jpg" /></div>
+
+    <div class="qjjj-l-1">
+        <!--侨界聚焦左侧开始-->
+        <div class="qjjj-ll">
+       	  <div class="gjjj-l-1-t">
+          <!--归侨更多开始-->
+          	<div style="padding-left:20px; padding-top:165px; width:10px; float:left"><a href="http://channel.chinanews.com/cns/cl/zgqj-gqgs.shtml"><img src="http://i4.chinanews.com/special/guoqing/images/blank.gif" width="10" height="40"></a></div>
+            <!--归侨更多结束-->
+             <!--归侨故事内容开始-->
+            <div style=" padding-left:20px; width:210px; height:258px; float:right">
+            <!--归侨故事图文开始-->
+       			<!--[4,27,2] published at 2011-12-13 09:51:16 from #202 by 250-->
+<div class="padding-top10"><a href="http://www.chinanews.com/zgqj/2011/12-13/3526873.shtml"><img src="/zgqj/part/U250P4T27D2F12830DT20111213095106.jpg" width="159" height="108" style="border:solid 1px #d5c2a2; padding:3px;" /></a></div>
+               		 <div class=" color-e56700 font-strong line-height30 font-14"><a href="http://www.chinanews.com/zgqj/2011/12-13/3526873.shtml">日本归侨：口琴吹出梦想与人生</a></div>
+                <!--归侨故事图文结束-->
+                <!--归侨故事列表开始-->
+                	<div class="text-left font-14 color-9c3306">
+               	 	 <ul>
+                <li>·<a href="/zgqj/2012/02-06/3647870.shtml">上海侨界杰出艺术家汤晓丹辞世</a></li><li>·<a href="/zgqj/2012/02-03/3643525.shtml">老归侨回忆录：我的出生地</a></li><li>·<a href="/zgqj/2012/01-26/3623442.shtml">归侨携子在沪过大年</a></li>
+                	</ul>
+               		<div class="div-clear"></div>
+             	</div>
+               <!--归侨故事列表结束--> 
+
+			</div>
+            <!--归侨故事内容结束-->
+            <div style="text-align:right"><a href="http://channel.chinanews.com/cns/cl/zgqj-qjxy.shtml"><img src="http://i4.chinanews.com/special/guoqing/images/blank.gif" width="40" height="10" /></a></div>
+       	  </div>
+
+          <!--侨界精英开始-->
+          <div class="qjjj-l-2">
+          	  <!--图开始-->
+              <div class="padding-top10">
+              	<!--[4,27,3] published at 2011-12-13 09:44:52 from #202 by 250-->
+<div class="qjjj-l-2-p"><a href="http://www.chinanews.com/zgqj/2011/12-12/3525387.shtml"><img src="/zgqj/part/U250P4T27D3F12830DT20111213094412.jpg" width="120" height="90" style="border:solid 1px #d5c2a2; padding:3px;" /></div>
+
+                <div class="qjjj-l-2-t">
+               	  <div class="color-e56700 font-strong "><a href="http://www.chinanews.com/zgqj/2011/12-12/3525387.shtml"></a></div>
+                    <div class="font-gray">因为热爱武术，他成为传播中国传统文化的使者，将中华武术带向世界【<a href="http://www.chinanews.com/zgqj/2011/12-12/3525387.shtml">详细</span></a>】</div>
+                </div>
+               <div class="div-clear"></div>
+              </div>
+              <!--图结束-->
+              <!--列表开始-->
+            <div class="text-left font-14 color-9c3306 padding-top10">
+           	  <ul class="padding-right10">
+                <li>·<a href="/zgqj/2012/02-10/3659140.shtml">新加坡侨领翁烈强出版自传</a></li><li>·<a href="/zgqj/2012/02-06/3647349.shtml">旅菲侨亲戴国兴乐善好施</a></li><li>·<a href="/zgqj/2012/02-03/3642245.shtml">纪甲城辞世 生前慷慨解囊兴公益</a></li>
+              </ul>
+                <div class="div-clear"></div>
+            </div>
+              <!--列表结束-->
+          </div>
+          <!--侨界精英结束-->
+      </div>
+
+          <!--侨界聚焦左侧结束-->
+          <!--侨界聚集中间开始-->
+          <div class="qjjj-l-m">
+          <!--情系桑梓开始-->
+                <div><a href="http://channel.chinanews.com/cns/cl/zgqj-qxsz.shtml"><img src="http://i5.chinanews.com/zgqj/img/b30.jpg" width="347" height="43" /></a></div>
+            <div class="font-14 padding-top10 line-height29">
+                	<ul class="text-left">
+                <li>·<a href="/zgqj/2012/02-10/3660494.shtml">安徽侨企坚持献爱心 助养淮北市首例龙凤四胞胎</a></li><li>·<a href="/zgqj/2012/02-10/3659971.shtml">上海侨资企业伸援手 助36名困难学生圆梦</a></li><li>·<a href="/zgqj/2012/02-10/3658411.shtml">琼籍香港委员吴秉坚：将支持海南的教育事业发展</a></li><li>·<a href="/zgqj/2012/02-09/3656509.shtml">广东化州港胞陈华伟连续六年给力家乡元宵节 </a></li><li>·<a href="/zgqj/2012/02-08/3652381.shtml">爱心华侨赴温州苍南贫困山区开展新春助学活动</a></li><li>·<a href="/zgqj/2012/02-07/3651486.shtml">广东中山举行2012年慈善万人行活动</a></li><li>·<a href="/zgqj/2012/02-06/3648353.shtml">港胞金维明捐助浙江余姚老区幼教事业</a></li>
+
+              </ul>
+                <div class="div-clear"></div>
+            </div>
+
+                <!--情系桑梓结束-->
+          		<!--华侨农场开始-->
+                <div><a href="http://channel.chinanews.com/cns/cl/zgqj-hqnc.shtml"><img src="http://i5.chinanews.com/zgqj/img/b31.jpg" width="347" height="43" /></a></div>
+            <div class="font-14 padding-top10 line-height29">
+                	<ul class="text-left">
+               <li>·<a href="/zgqj/2012/02-10/3658413.shtml">福建龙海市双第华侨农场文艺汇演庆元宵聚侨心</a></li><li>·<a href="/zgqj/2012/02-07/3650055.shtml">福建首个华侨农场成立商会 林培南当选会长</a></li><li>·<a href="/zgqj/2012/02-02/3638646.shtml">广西百色市外侨办主任到华侨农场调研</a></li><li>·<a href="/zgqj/2012/01-31/3633426.shtml">万宁市委书记到兴隆华侨旅游经济区开展新春慰问 </a></li><li>·<a href="/zgqj/2012/01-21/3621492.shtml">柳州外侨办开展春节送温暖慰问困难归侨侨眷活动</a></li><li>·<a href="/zgqj/2012/01-18/3613138.shtml">海南省外侨办为儋州市归侨侨眷送温暖</a></li><li>·<a href="/zgqj/2012/01-17/3611801.shtml">广东省侨办开展归侨侨眷关爱工程送温暖慰问活动</a></li>
+              </ul>
+                <div class="div-clear"></div>
+            </div>
+
+                <!--华侨农场结束-->
+          </div>
+<!--侨界聚集中间结束-->
+
+  </div>
+  </div>
+  <!--侨界聚集左侧结束-->
+  <!--侨界聚焦右侧开始-->
+  <div class="qjjj-r">
+  		<!--故乡纪行图开始-->
+    <div  class="text-right padding-right30"><a href="http://channel.chinanews.com/cns/cl/zgqj-gxjx.shtml"><img src="http://i5.chinanews.com/zgqj/img/b33.jpg" /></a></div>
+        <!--[4,27,4] published at 2011-12-13 09:37:51 from #202 by 250-->
+<div  class="padding-top30">
+       	  <img src="/zgqj/part/U250P4T27D4F12830DT20111213093751.jpg" width="204" height="108" style="border:solid 1px #d5c2a2; padding:3px;" />
+
+    </div>
+        <!--故乡纪行图结束-->
+
+        <!--故乡纪行图说开始-->
+        <div class="gxjx">
+        	 <!--[4,27,5] published at 2011-12-13 09:45:54 from #202 by 250-->
+<div class=" color-e56700 font-strong line-height30 font-14"><a href="http://www.chinanews.com/zgqj/2011/11-30/3498522.shtml">新西兰华裔青年到开平寻根问祖</a></div>
+             <div class="font-gray text-left">11月29日，新西兰籍华裔青年黄国炽以及联合总会华裔青少年寻根冬令营一行，来到了开平市赤水镇进行寻根问祖。【<a href="http://www.chinanews.com/zgqj/2011/11-30/3498522.shtml">详细</span></a>】</div>
+          <div class="text-left font-14 color-9c3306 line-height30 padding-bottom10">
+               	  <ul>
+                <li>·<a href="/zgqj/2012/02-10/3659684.shtml">新加坡教育家回乡义务讲学</a></li><li>·<a href="/zgqj/2012/02-10/3659143.shtml">香港中山隆镇同乡会回乡团拜</a></li><li>·<a href="/zgqj/2012/02-09/3656510.shtml">澳门新会古井同乡联谊会回乡拜年</a></li><li>·<a href="/zgqj/2012/02-08/3654092.shtml">香港常平同乡会回乡欢度元宵佳节</a></li>
+            </ul>
+                <div class="div-clear"></div>
+          </div>
+              <!--故乡纪行图说结束-->
+    </div>
+              <!--故乡纪行结束-->
+
+    <!--侨史钩沉开始-->
+    <div style="width:240px; margin:0 auto">
+    <div  class="text-right padding-top10 padding-right10"><a href="http://channel.chinanews.com/cns/cl/zgqj-qsgc.shtml"><img src="http://i5.chinanews.com/zgqj/img/b33.jpg" /></a></div>
+    <div class="text-left font-14 color-9c3306 line-height30 padding-top30">
+               	  <ul>
+                <li>·<a href="/hr/2012/02-08/3652837.shtml">东南亚华人历史人文资源有待挖掘</a></li><li>·<a href="/zgqj/2012/01-30/3628776.shtml">姑嫂塔传说入选福建省级非遗</a></li><li>·<a href="/zgqj/2012/01-27/3624076.shtml">南洋老机工平淡无悔60年</a></li><li>·<a href="/zgqj/2012/01-17/3611631.shtml">一张86年前未能兑付的汇票</a></li><li>·<a href="/zgqj/2012/01-13/3604191.shtml">文化专家力促福建侨批档案申遗</a></li>
+        </ul>
+                <div class="div-clear"></div>
+      </div>
+    <!--侨史钩沉结束-->
+    </div>
+
+  </div>
+  <!--侨界聚集右侧结束-->
+  <div class="div-clear"></div>
+</div>
+<!--侨界聚焦结束--> 
+<!--侨界荣誉开始-->
+<div class="qjry">
+	<!--侨界荣誉左侧开始-->
+    <div class="qjry-left">
+    	<!--先进人物开始-->
+        <div class="xjrw" id="xjrw">
+       	  <div  class="color-e56700 font-14 color-e56700 font-strong text-left">>> 先进人物</div>
+            <div class="xjrw-img">
+        	<ul>
+            <!--[4,27,11] published at 2009-08-25 15:54:33 from #10 by 59-->
+<li><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774975.shtml"><img src="/zgqj/part/U59P4T27D11F12830DT20090825154817.jpg" width="95" height="75" style="border:solid 1px #d5c2a2; padding:2px;"></a><p><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774975.shtml">"侨界十杰"吴文俊</a></p></li>
+                <li><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774968.shtml"><img src="/zgqj/part/U59P4T27D11F12833DT20090825155433.jpg" width="95" height="75" style="border:solid 1px #d5c2a2; padding:2px;"></a><p><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774968.shtml">"侨界十杰"罗益锋</a></p></li>
+              <li><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774972.shtml"><img src="/zgqj/part/U59P4T27D11F12836DT20090825155433.jpg" width="95" height="75" style="border:solid 1px #d5c2a2; padding:2px;"></a><p><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774972.shtml">"侨界十杰"郑守仪</a></p></li>
+           	  <!--[4,27,12] published at 2009-08-25 15:59:26 from #10 by 59-->
+<li><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774974.shtml"><img src="/zgqj/part/U59P4T27D12F12830DT20090825155926.jpg" width="95" height="75" style="border:solid 1px #d5c2a2; padding:2px;"></a><p><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774974.shtml">"侨界十杰"彭隆荣</a></p></li>
+                <li><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774976.shtml"><img src="/zgqj/part/U59P4T27D12F12833DT20090825155926.jpg" width="95" height="75" style="border:solid 1px #d5c2a2; padding:2px;"></a><p><a href=""侨界十杰"黄玉斌">"侨界十杰"黄玉斌</a></p></li>
+              <li><a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774971.shtml"><img src="/zgqj/part/U59P4T27D12F12836DT20090825155926.jpg" width="95" height="75" style="border:solid 1px #d5c2a2; padding:2px;"></a><p><a href=""侨界十杰"赖爱光">"侨界十杰"赖爱光</a></p></li>
+
+            </ul>
+            <div class="div-clear"></div>
+          </div>
+          <div class="div-clear"></div>
+      </div>
+
+      <!--先进人物结束-->
+      <!--获奖年代开始 -->
+      <div class="hjnd">
+      	<!--[4,27,10] published at 2009-08-25 16:29:58 from #10 by 59-->
+<div class="hjnd-bq color-e56700 font-14 font-strong line-height26">2009年</div>
+        
+        <div class="hjnd-dsj ">·<a href="http://www.chinanews.com.cn/kong/news/2009/07-14/1774968.shtml">全国“侨界十杰”</a></div>
+        <div class="hjnd-bq color-e56700 font-14 font-strong line-height26">2008年</div>
+        <div class="hjnd-dsj ">·<a href="http://www.chinaqw.com/news/200809/28/132409.shtml">全国侨办系统抗震(雪)救灾先进</a></div>
+        
+        <div class="hjnd-bq color-e56700 font-14 font-strong line-height26">2007年</div>
+       
+       <div class="hjnd-dsj ">·<a href="http://www.gqb.gov.cn/news/2007/0322/1/4323.shtml">全国社区侨务工作先进单位</a></div>
+       <div class="hjnd-dsj ">·<a href="http://www.gqb.gov.cn/news/2007/0322/1/4322.shtml">全国社区侨务工作先进单位</a></div>
+       <div class="hjnd-dsj ">·<a href="http://www.gqb.gov.cn/news/2007/0322/1/4321.shtml">全国社区侨务工作先进个人</a></div>   
+       <div class="hjnd-dsj ">·<a href="http://www.gqb.gov.cn/news/2007/0322/1/4320.shtml">全国侨务系统侨法宣传先进个人</a></div>    
+
+      </div>
+      <!--获奖年代结束-->
+      <div class="div-clear"></div>
+    </div>
+  <!--侨界荣誉左侧结束-->
+    <!--侨界荣誉右侧开始-->
+    <div class="sqjg">
+   	  <div><img src="http://i5.chinanews.com/zgqj/img/b35.jpg" width="267" /></div>
+        <div>
+       	  <ul class="text-left font-14 color-b3641f line-height30 padding-top20 padding-left15">
+            	<!--[4,27,9] published at 2009-08-25 16:14:20 from #10 by 59-->
+<li>·<a href="http://www.npc.gov.cn/npc/bmzz/huaqiao/node_1627.htm">全国人大华侨委员会</a></li>
+                <li>·<a href="http://www.fmprc.gov.cn/chn/gxh/tyb/">中国外交部</a></li>
+               <li> ·<a href="http://www.gqb.gov.cn/">国务院侨务办公室</a></li>
+               <li> ·<a href="http://www.chinaqw.com/news/2005/0919/68/128.shtml">全国政协港澳台侨委员会</a></li>
+                <li> ·<a href="http://www.chinazhigongparty.org.cn/">中国致公党</a></li>
+               <li> ·<a href="http://www.chinaql.org/">中华全国归国华侨联合会</a></li>
+               <li>·<a href="http://www.chinaqw.com/news/2005/0920/68/172.shtml">中国海外交流协会</a></li>
+          </ul>
+            <div class="div-clear"></div>
+        </div>
+    </div>
+  <!--侨界荣誉右侧结束-->
+</div>
+<!--侨界荣誉结束-->
+<!--第二通栏广告位-->
+<div style="margin:0 auto; width:954px; line-height:1px;">
+
+</div>
+<!--第二通栏广告位-->
+<!--涉侨组织开始-->
+<div class="sqzz"></div>
+
+<div class="sqzz-list">
+    <!--地方侨办开始-->
+	<div class="sqzz-left">
+   	  <div class="dfqb color-b3641f">
+        	<ul>
+            	<li><a href="http://www.bjqb.gov.cn/index.htm">北京</a></li>
+              <li><a href="http://www.lnfao.gov.cn/wqb/">辽宁</a></li>
+                <li><a href="http://www.jxwqb.gov.cn/">江西</a></li>
+              <li><a href="http://www.gxqb.gov.cn/">广西</a></li>
+              <li><a href="http://www.gsfao.gov.cn/">甘肃</a></li>
+        </ul>
+            <div class="div-clear"></div>
+      </div>
+      <div class="dfqb color-b3641f">
+        	<ul>
+            	<li><a href="http://www.overseas.sh.cn/">上海</a></li>
+              <li><a href="http://wb.jl.gov.cn/">吉林</a></li>
+                <li><a href="http://www.sdqb.gov.cn/">山东</a></li>
+              <li><a href="http://dfoca.hainan.gov.cn/">海南</a></li>
+              <li><a href="http://www.nxfao.gov.cn/SiteAcl.srv">宁夏</a></li>
+        </ul>
+            <div class="div-clear"></div>
+      </div>
+      <div class="dfqb color-b3641f">
+        	<ul>
+            	<li><a href="http://www.tjqwbgs.gov.cn/">天津</a></li>
+                <li><a href="http://www.jsqw.com/web/Default.aspx">江苏</a></li>
+                <li><a href="http://www.hnfo.gov.cn/">河南</a></li>
+              <li><a href="http://www.sc-overseasinfo.net/">四川</a></li>
+              <li><a href="http://www.qhwq.gov.cn/">青海</a></li>
+        </ul>
+            <div class="div-clear"></div>
+      </div>
+      <div class="dfqb color-b3641f">
+        	<ul>
+            	<li><a href="http://bqw.cq.gov.cn/type/common/list_22_1.htm">重庆</a></li>
+              <li><a href="http://qwb.zj.gov.cn/">浙江</a></li>
+                <li><a href="http://www.fohb.gov.cn/">湖北</a></li>
+              <li><a href="http://www.faogz.gov.cn/">贵州</a></li>
+              <li><a href="http://wqb.xinjiang.gov.cn/">新疆</a></li>
+
+        </ul>
+            <div class="div-clear"></div>
+      </div>
+      <div class="dfqb color-b3641f">
+        	<ul>
+            	<li><a href="http://www.hebwb.gov.cn/index.jsp">河北</a></li>
+              <li><a href="http://www.ahie.gov.cn/">安徽</a></li>
+              <li><a href="http://www.hnfao.gov.cn/">湖南</a></li>
+              <li><a href="http://www.ynqb.net.cn/loadcache/www.ynqb.net.cn/qiaowebINDEX.htm">云南</a></li>
+              <li><a href="http://www.hlj.gov.cn/zwgk/jgsz/gzbm/zcbm/wsbgs/">黑龙江</a></li>
+        </ul>
+            <div class="div-clear"></div>
+      </div>
+      <div class="dfqb color-b3641f">
+        	<ul>
+            	<li><a href="http://www.sxfoa.gov.cn/">山西</a></li>
+                <li><a href="http://www.fjqw.gov.cn/">福建</a></li>
+              <li><a href="http://gocn.southcn.com/">广东</a></li>
+                <li><a href="http://www.sxfao.gov.cn/">陕西</a></li>
+              <li><a href="http://www.nmgfao.gov.cn/">内蒙古</a></li>
+        </ul>
+            <div class="div-clear"></div>
+      </div>
+    </div>
+     <!--地方侨办结束-->
+     <!--地方侨联开始-->
+	 <div class="sqzz-right">
+     	<div><iframe scrolling="no" src="http://www.chinanews.com/iframe/dfqw.html" width="327" height="256" frameborder="0"></iframe></div>
+     </div>
+  <!--地方侨联结束-->
+
+  <div class="div-clear"></div>
+</div>
+<div style="margin:0 auto; width:954px; line-height:1px;"><img src="http://www.chinanews.com/fileftp/2009/09/2009-09-12/U32P4T47D11662F978DT20090914103104.jpg"></div>
+<!--涉侨组织结束--> 
+
+<!--bottom开始-->
+<div class="yd">
+<style type="text/css">
+<!--
+/*页底*/
+.pagebottom{width:950px;margin:0 auto;color:#000;font-size:12px;clear:both;margin:0 auto;}
+.pagebottom a:link{color:#000;}
+.pagebottom a:visited{color:#000;}
+.pagebottom a:hover{color:#000;}
+.pagebottom_1{background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-09/U76P4T47D10450F978DT20090309092324.jpg);height:33px;line-height:33px;text-align:center;}
+.pagebottom_2{text-align:center;line-height:20px;}
+-->
+</style>
+
+<!--页底-->
+<div class=pagebottom>
+<div class=pagebottom_1>
+<a href="http://www.chinanews.com/common/footer/intro.shtml">关于我们</a>　| <a href="http://www.chinanews.com/common/footer/aboutus.shtml">About us</a>　|　<a href="http://www.chinanews.com/common/footer/contact.shtml">联系我们</a>　|　<a href="http://ad.chinanews.com/">广告服务</a>　|　<a href="http://www.chinanews.com/common/footer/news-service.shtml">供稿服务</a>　|　<a href="http://www.chinanews.com/common/footer/law.shtml">法律声明</a>　|　<a href="http://hr.chinanews.com/">招聘信息</a>　|　<a href="http://www.chinanews.com/common/footer/sitemap.shtml">网站地图</a>　|　<a href="http://www.chinanews.com/common/footer/feedback.shtml">留言反馈</a>
+</div>
+<div class=pagebottom_2>本网站所刊载信息，不代表中新社和中新网观点。 刊用本网站稿件，务经书面授权。</div>
+<div class=pagebottom_2>未经授权禁止转载、摘编、复制及建立镜像，违者将依法追究法律责任。</div>
+<div class=pagebottom_2>[<a href="http://www.chinanews.com/news/xuke.html">网上传播视听节目许可证（0106168)</a>] [<a href="http://www.miibeian.gov.cn/">京ICP证040655号</a>] [京公网安备：110102003042] 总机：86-10-87826688</div>
+</div>
+<!--页底-->
+<div style="display:none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffaa6017d4c51b2c94d1d16c0117a756e' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+<!--bottom结束-->    	
+</body>
+</html>

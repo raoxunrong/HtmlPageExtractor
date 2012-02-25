@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type"/>
+<meta content="IE=7" http-equiv="X-UA-Compatible"/>
+<link href="http://img.baidu.com/img/baike/wap/iphone4_logo.png" rel="apple-touch-icon"/>
+<title>超文本标记语言_百度百科</title>
+<script>var PDC={_version:"0.1",_render_start:new Date().getTime(),_analyzer:{loaded:false,url:"http://static.tieba.baidu.com/tb/pms/wpo.pda.js?v=0.1",callbacks:[]},_opt:{is_login:false,sample:0,product_id:0,page_id:0,common_resources:[],special_resources:[]},_timing:{},init:function(a){for(var b in a){this._opt[b]=a[b]}},mark:function(a){this._timing[a]=new Date().getTime()},view_start:function(){this.mark("vt")},tti:function(){this.mark("tti")},page_ready:function(){this.mark("fvt")},metadata:function(){var a=this._opt;var b={env:{user:(a.is_login==true?1:0),product_id:a.product_id,page_id:a.page_id},common_resources:a.common_resources,special_resources:a.special_resources,render_start:this._render_start,timing:this._timing};return b}};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("let");PDC._load_analyzer()})}else{window.addEventListener("load",function(){PDC.mark("lt")},false)}})();</script>
+<link href="http://baike.bdimg.com/static/common/css/view.css?@=9ylwgi" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/lemma/css/view.css?@=105rws3" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/css/liteoutput/bk.uc_lemma.css?@=2vcadoz" rel="stylesheet" type="text/css"/><link href="/guanxi/static/css/lemma_insert.css" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/view_top.js?@=22n4xph" type="text/javascript"></script><script src="http://baike.bdimg.com/static/lemma/js/init.js?@=de2co7" type="text/javascript"></script>
+</head>
+<script>PDC.mark("ht");(function(){var a=PDC.ready=function(){var g=false,f=[],c;if(document.addEventListener){c=function(){document.removeEventListener("DOMContentLoaded",c,false);d()}}else{if(document.attachEvent){c=function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",c);d()}}}}function d(){if(!d.isReady){d.isReady=true;for(var k=0,h=f.length;k<h;k++){f[k]()}}}function b(){try{document.documentElement.doScroll("left")}catch(h){setTimeout(b,1);return}d()}function e(){if(g){return}g=true;if(document.addEventListener){document.addEventListener("DOMContentLoaded",c,false);window.addEventListener("load",d,false)}else{if(document.attachEvent){document.attachEvent("onreadystatechange",c);window.attachEvent("onload",d);var h=false;try{h=window.frameElement==null}catch(i){}if(document.documentElement.doScroll&&h){b()}}}}e();return function(h){d.isReady?h():f.push(h)}}();a.isReady=false})();PDC.ready(function(){PDC.mark("drt")});PDC.mark("vt");</script>
+
+<body id="view">
+<div id="userbar">
+</div>
+<div id="wrap">
+<div id="header">
+<div id="search">
+<div id="logo">
+<a href="/"><img alt="到百科首页" border="0" class="nslog:1008" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" width="137"/></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/ns?fr=bk&amp;cl=2&amp;rn=20&amp;tn=news&amp;word=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4" onmousedown="setHeadUrl(this)" wdfield="word">新闻</a><a href="http://www.baidu.com/s?fr=bk&amp;cl=3&amp;wd=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4&amp;t=5" onmousedown="setHeadUrl(this)" wdfield="wd">网页</a><a href="http://tieba.baidu.com/f?fr=bk&amp;kw=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4" onmousedown="setHeadUrl(this)" wdfield="kw">贴吧</a><a href="http://zhidao.baidu.com/q?fr=bk&amp;ct=17&amp;pn=0&amp;tn=ikaslist&amp;rn=10&amp;word=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4" onmousedown="setHeadUrl(this)" wdfield="word">知道</a><a href="http://mp3.baidu.com/m?fr=bk&amp;tn=baidump3&amp;ct=134217728&amp;lm=-1&amp;word=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4" onmousedown="setHeadUrl(this)" wdfield="word">MP3</a><a href="http://image.baidu.com/i?fr=bk&amp;tn=baiduimage&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;word=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4" onmousedown="setHeadUrl(this)" wdfield="word">图片</a><a href="http://video.baidu.com/v?fr=bk&amp;ct=301989888&amp;rn=20&amp;pn=0&amp;db=0&amp;s=24&amp;word=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4" onmousedown="setHeadUrl(this)" wdfield="word">视频</a><strong>百科</strong><a href="http://wenku.baidu.com/search?fr=bk&amp;word=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4&amp;lm=0&amp;od=0" onmousedown="setHeadUrl(this)" wdfield="word">文库</a>
+</p>
+<form action="/searchword/" method="get" name="f1" target="_self">
+<input id="word" maxlength="400" name="word" tabindex="1" value="html"/>
+<input class="search-btn nslog:1010" onclick="document.f1.pic.value=1" tabindex="2" type="submit" value="进入词条"/><input class="search-btn nslog:1011" onclick="document.f1.pic.value=2" tabindex="3" type="submit" value="搜索词条"/>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a><a class="nslog:1013" href="#" onclick="setSug();return false">设置</a>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">/*<![CDATA[*/var baikeHeaderConf={sugProdName:"baike",searchInputId:baidu.g("word")||baidu.g("kw")};void function(A){var _={url:{}};_.url.escapeSymbol=function(_){return String(_).replace(/[#%&+=\/\\\ \\u3000\f\r\n\t]/g,function(_){return"%"+(256+_.charCodeAt()).toString(16).substring(1).toUpperCase();});};window.setHeadUrl=function(B){B.href=B.href.replace(new RegExp("("+B.getAttribute("wdfield")+"=)[^&]*"),"$1"+_.url.escapeSymbol(A.value));};}(baikeHeaderConf.searchInputId);/*]]>*/</script>
+</div><div class="nslog-area" data-nslog-type="1000" id="path">
+
+<ul class="nav f14 clearfix">    
+            <li class="home"><a href="/">首页</a></li>
+                <li><a href="/ziran/">自然</a></li>
+                 <li><a href="/wenhua/">文化</a></li>
+                 <li><a href="/dili/">地理</a></li>
+                 <li><a href="/lishi/">历史</a></li>
+                 <li><a href="/shenghuo/">生活</a></li>
+                 <li><a href="/shehui/">社会</a></li>
+                 <li><a href="/yishu/">艺术</a></li>
+                 <li><a href="/renwu/">人物</a></li>
+                 <li><a href="/jingji/">经济</a></li>
+                 <li><a href="/kexue/">科技</a></li>
+                 <li><a href="/tiyu/">体育</a></li>
+                 <li><a href="/tupian/">图片</a></li>
+             <li>          <a href="http://baike.baidu.com/museum/ " target="_blank" onclick="nslog(location.href,3020);">数字博物馆</a></li>
+     <li>          <a href="http://baike.baidu.com/cms/s/core/index.html" target="_blank" onclick="nslog(location.href,3021);">核心用户</a></li>
+                 <li><a href="/mall/">百科商城</a></li>
+          <style type="text/css" compress>
+#path ul.nav li,ul.nav li{
+position:relative;
+}
+.nav{overflow:visible;position:relative;}
+div.nav-channel-hot{
+ _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img.baidu.com/img/baike/icons/hot.png");
+ background:url("http://img.baidu.com/img/baike/icons/hot.png") no-repeat scroll 0 0 transparent;
+_background:none;
+ height:15px;
+ position:absolute;
+ width: 24px;
+ top: -7px;
+ right:7px
+}
+
+#path .nav li{padding-right:12px !important;}
+
+</style> 
+</ul>
+<script type="text/javascript" >
+   baidu.dom.ready( function(){
+                          baidu.page.loadJsFile('http://baike.baidu.com/cms/s/banner/tmpact.js?t=20110201');
+              nslog(location.href, 5102);
+                                       });
+</script>
+
+
+</div>
+</div>
+<div id="page">
+<script>if(typeof PDC!="undefined"){PDC.view_start();}</script><div class="layout grid-m0s245 w1000" id="content-wrap">
+<div class="col-main article" id="content">
+<div class="main-wrap main-shadow">
+<div class="content-hd">
+<div class="content-hd-wrap"></div>
+</div>
+<div class="content-bd main-body">
+<div class="view-tip-pannel clearfix log-set-param" log-set-param="viewtip:synstd">
+<p><a class="viewtip-icon viewtip-synstd"></a>
+<a class="nslog:1014" href="/history/id=21105966" target="_blank">html</a>和超文本标记语言是<a class="nslog:1015" href="http://www.baidu.com/search/baike_help.html#同义词" target="_blank" title="什么是同义词">同义词</a>，已合并。
+</p>
+</div>
+<div class="text" id="sec-content0">
+<div class="bk-editable-lemma-btns">
+<a class="tpldivide-lemma lemma-top-link" hidefocus="true" href="/tpldivideload?lemmaId=383720" id="tmpdivide" style="display:none;margin-right:14px" target="_blank"></a>
+<a class="dividable-lemma lemma-top-link" data-edit-id="383720" hidefocus="true" href="/divideload?lemmaid=383720" id="polyin" style="display:none">拆分词条</a>
+<span class="editable-lemma " data-edit-id="383720"></span>
+<span style="height:100%"></span>
+</div>
+<h1 class="title">超文本标记语言</h1>
+<script type="text/javascript">/*<![CDATA[*/var hash=window.location.hash.match(/^#sub(\d+)/);bk.view.hash=hash&&hash[1];hash=null;bk.view.expFlag=false;baikeViewInfo={id:"383720",editable:"true",title:"超文本标记语言",expIndex:"0",subLen:"1",isMulit:false};/*]]>*/</script>
+<div class="clear"></div>
+<div class="mod-top">
+<h4 class="card-title">百科名片</h4>
+<div class="card-summary nslog-area" data-nslog-type="72">
+<div class="card-summary-content">
+<p>
+超文本标记语言，即HTML（Hypertext Markup Language），是用于描述网页文档的一种标记语言。</p>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<fieldset class="text_dir nslog-area" data-nslog-type="1016" data-subindex="0" id="catalog-0">
+<p>目录</p>
+<dl class="holder1" id="catalog-holder-0">
+<dd><a href=#1 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">超文本标记语言介绍</a></dd><dd><a href=#2 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">标准的版本历史</a><ol><li><a href="#2_1">HTML</a></li><li><a href="#2_2">XHTML</a></li></ol></dd><dd><a href=#3 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">HTML的特点</a><ol><li><a href="#3_1">编辑HTML</a></li></ol></dd><dd><a href=#4 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">HTML文件的整体结构</a><ol><li><a href="#4_1">文件头部内容</a></li><li><a href="#4_2">文件主体内容</a></li></ol></dd><dd><a href=#5 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">超文本标记语言文档标题</a><ol><li><a href="#5_1">页面主体内容描述</a></li><li><a href="#5_2">正文标记的使用</a></li><li><a href="#5_3">HTML字符集</a></li><li><a href="#5_4">HTML的有关约定</a></li></ol></dd></dl>
+<dl class="holder2" id="catalog-holder-2-0"></dl>
+</fieldset>
+<div class="clear"></div>
+<script type="text/javascript">bk.view.catalog().start("0");</script>
+<div class="lemma-main-content" id="lemmaContent-0">
+<h2 class="headline-1 first bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="383720:383720:1"></span><a name="1"></a><span class="headline-content">超文本标记语言介绍</span></h2>　　<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$1e71f724b9abaf3a4c088dca" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="超文本标记语言" src=http://imgsrc.baidu.com/baike/abpic/item/1e71f724b9abaf3a4c088dca.jpg /></a><p class="pic-info">超文本标记语言</p></div>在WWW上的一个超媒体文档称之为一个<a target=_blank href=/view/305736.htm>页面</a>（page）。作为一个组织或个人在<a target=_blank href=/view/7833.htm>万维网</a>上放置开始点的页面称为主页Homepage，或首页，主页中通常包括有指向其他相关页面或其他节点的指针（<a target=_blank href=/view/15703.htm>超级链接</a>）。在逻辑上将视为一个整体的一系列页面的有机集合称为网站（Website或Site）。
+<div class="spctrl"></div>　　Web页面也就是通常所说的网页，在本文中不作区分。
+<div class="spctrl"></div>　　<div class="album-view log-set-param" log-set-param="album_view" id="alb_5018666" style="float:right;width:219px;"><p class="album-div" style="background-color:#fff;height:201px;width:219px;"><span class="album-border1" style="height:184px;width:202px;"></span><span class="album-border2" style="height:184px;width:202px;"></span><a class="album-overlay  nslog:1212" href="/albums/383720/383720.html#2631445$" target="_blank" style="height:201px;width:219px;"><img class="album-cover hook-lemma-ext-module" data-src="http://imgsrc.baidu.com/baike/abpic/item/29790130063caffea9018ea5.jpg" style="height:181px;width:200px;" /><span class="album-logo"></span></a></p><span class="title">HTML</span><span class="count">(18张)</span></div>HTML是一种规范，一种<a target=_blank href=/view/8079.htm>标准</a>，它通过标记符号来标记要显示的网页中的各个部分。网页文件本身是一种文本文件，通过在文本文件中添加标记符，可以告诉<a target=_blank href=/view/7718.htm>浏览器</a>如何显示其中的内容（如：文字如何处理，画面如何安排，图片如何显示等）。浏览器按顺序阅读网页文件，然后根据标记符解释和显示其标记的内容，对书写出错的标记将不指出其错误，且不停止其解释执行过程，编制者只能通过显示效果来分析出错原因和出错部位。但需要注意的是，对于不同的浏览器，对同一标记符可能会有不完全<a target=_blank href=/view/18237.htm>相</a><a target=_blank href=/view/301392.htm>同</a>的解释，因而可能会有不同的显示效果。
+<div class="spctrl"></div>　　HTML之所以称为超文本标记<a target=_blank href=/view/9793.htm>语言</a>，是因为文本中包含了所谓“超级链接”点。所谓超级链接，就是一种URL指针，通过激活（点击）它，可使浏览器方便地获取新的网页。这也是HTML获得广泛应用的最重要的原因之一。
+<div class="spctrl"></div>　　<div style="float: left; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$a992e31f633fea6c304e15d6" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="html" src=http://imgsrc.baidu.com/baike/abpic/item/a992e31f633fea6c304e15d6.jpg /></a><p class="pic-info">html</p></div>由此可见，网页的本质就是HTML，通过结合使用其他的Web技术（如：脚本语言、CGI、组件等），可以创造出功能强大的网页。因而，HTML是Web编程的基础，也就是说万维网是建立在超文本基础之上的。<div class="album-view log-set-param" log-set-param="album_view" id="alb_5018667" style="float:right;width:219px;"><p class="album-div" style="background-color:#fff;height:131px;width:219px;"><span class="album-border1" style="height:114px;width:202px;"></span><span class="album-border2" style="height:114px;width:202px;"></span><a class="album-overlay  nslog:1212" href="/albums/383720/383720.html#2521457$" target="_blank" style="height:131px;width:219px;"><img class="album-cover hook-lemma-ext-module" data-src="http://imgsrc.baidu.com/baike/abpic/item/00a8270153094e6b7bec2cb9.jpg" style="height:111px;width:200px;" /><span class="album-logo"></span></a></p><span class="title">超文本标记语言</span><span class="count">(15张)</span></div><div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="383720:383720:2"></span><a name="2"></a><span class="headline-content">标准的版本历史</span></h2><h3 class="headline-2 bk-sidecatalog-title"><a name="2_1"></a><span class="headline-content">HTML</span></h3>　　超文本置标语言（第一版）——在1993年6月作为互联网工程工作小组（IETF）工作草案发布（并非标准）：
+<div class="spctrl"></div>　　HTML 2.0——1995年11月作为RFC 1866发布，在RFC 2854于2000年6月发布之后被宣布已经过时 
+<div class="spctrl"></div>　　HTML 3.2——1996年1月14日，W3C推荐标准 
+<div class="spctrl"></div>　　HTML 4.0——1997年12月18日，W3C推荐标准 
+<div class="spctrl"></div>　　HTML 4.01（微小改进）——1999年12月24日，W3C推荐标准 
+<div class="spctrl"></div>　　ISO/IEC 15445:2000（“ISO HTML”）——2000年5月15日发布，基于严格的HTML 4.01语法，是国际标准化组织和国际电工委员会的标准。 
+<div class="spctrl"></div>　　HTML没有1.0版本是因为当时有很多不同的版本。有些人认为蒂姆·伯纳斯-李的版本应该算初版，这个版本没有IMG元素。当时被称为HTML+的后续版的开发工作于1993年开始，最初是被设计成为“HTML的一个超集”。第一个正式规范在为了和当时的各种HTML标准区分开来，使用了2.0作为其版本号。HTML+的发展继续下去，但是它从未成为标准。
+<div class="spctrl"></div>　　HTML3.0规范是由当时刚成立的W3C于1995年3月提出，提供了很多新的特性，例如表格、文字绕排和复杂数学元素的显示。虽然它是被设计用来兼容2.0版本的，但是实现这个标准的工作在当时过于复杂，在草案于1995年9月过期时，标准开发也因为缺乏浏览器支持而中止了。3.1版从未被正式提出，而下一个被提出的版本是开发代号为Wilbur的HTML 3.2，去掉了大部分3.0中的新特性，但是加入了很多特定浏览器，例如Netscape和Mosaic的元素和属性。HTML对数学公式的支持最后成为另外一个标准MathML。
+<div class="spctrl"></div>　　HTML 4.0同样也加入了很多特定浏览器的元素和属性，但是同时也开始“清理”这个标准，把一些元素和属性标记为过时的，建议不再使用它们。HTML的未来和CSS结合会更好。
+<div class="spctrl"></div>　　HTML 5目前仍为草案，并已被W3C接纳。<h3 class="headline-2 bk-sidecatalog-title"><a name="2_2"></a><span class="headline-content">XHTML</span></h3>　　XHTML 1.0——发布于2000年1月26日，是W3C推荐标准，后来经过修订于2002年8月1日重新发布。 
+<div class="spctrl"></div>　　XHTML 1.1，于2001年5月31日发布，W3C推荐标准。 
+<div class="spctrl"></div>　　XHTML 2.0，W3C工作草案。 
+<div class="spctrl"></div>　　XHTML 5，从XHTML 1.x的更新版，基于HTML 5草案。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="383720:383720:3"></span><a name="3"></a><span class="headline-content">HTML的特点</span></h2>　　HTML文档制作不是很复杂，且功能强大，支持不同数据格式的文件镶入，这也是WWW盛行的原因之一，其主要特点如下：
+<div class="spctrl"></div>　　1 简易性，HTML版本升级采用超集方式，从而更加灵活方便。
+<div class="spctrl"></div>　　2 可扩展性，HTML语言的广泛应用带来了加强功能，增加标识符等要求，HTML采取子类元素的方式，为系统扩展带来保证。
+<div class="spctrl"></div>　　3 平台无关性。虽然PC机大行其道，但使用MAC等其他机器的大有人在，HTML可以使用在广泛的平台上，这也是WWW盛行的另一个原因。<h3 class="headline-2 bk-sidecatalog-title"><a name="3_1"></a><span class="headline-content">编辑HTML</span></h3>　　HTML其实是文本，它需要浏览器的解释，HTML的编辑器大体可以分为三种，
+<div class="spctrl"></div>　　1 基本编辑软件，使用WINDOWS自带的记事本或写字版都可以编写，当然，如果你用WPS来编写，也可以。不过存盘时请使用.htm或.html作为扩展名，这样浏览器就可以解释执行了。
+<div class="spctrl"></div>　　2 半所见即所得软件，这种软件能大大提高开发效率，它可以使你在很短的时间内做出HOMEPAGE，且可以学习HTML，这种类型的软件主要有<b>HOTDOG</b>，还有国产的软件<b>网页作坊</b>。
+<div class="spctrl"></div>　　3 所见即所得软件，使用最广泛的编辑器，完全可以一点不懂HTML的知识就可以做出网页，这类软件主要有<a target=_blank href=/view/118446.htm>FRONTPAGE</a>2003，<a target=_blank href=/view/7919.htm>DREAMWEAVER</a>。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="383720:383720:4"></span><a name="4"></a><span class="headline-content">HTML文件的整体结构</span></h2>　　一个网页对应于一个<a target=_blank href=/view/394827.htm>HTML文件</a>，HTML文件以.htm或.html为<a target=_blank href=/view/1080.htm>扩展名</a>。可以使用任何能够生成TXT类型源文件的文本编辑来产生HTML文件。<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$5202e5f2fb229528b07ec5cb" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="超文本标记语言" src=http://imgsrc.baidu.com/baike/abpic/item/5202e5f2fb229528b07ec5cb.jpg /></a><p class="pic-info">超文本标记语言</p></div>标准的HTML文件都具有一个基本的整体结构，即HTML文件的开头与结尾标志和HTML的头部与实体2大部分。有3个双标记符用于页面整体结构的确认。
+<div class="spctrl"></div>　　标记符&lt;HTML&gt;说明该文件是用HTML来描述的。它是<a target=_blank href=/view/345685.htm>文件</a>的开头，而&lt;/HTML&gt;则表示该文件的结尾，它们是HTML文件的始标记和尾标记。<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$0862c354d18d953fd009060f" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="HTML代码" src=http://imgsrc.baidu.com/baike/abpic/item/0862c354d18d953fd009060f.jpg /></a><p class="pic-info">HTML代码</p></div><h3 class="headline-2 bk-sidecatalog-title"><a name="4_1"></a><span class="headline-content">文件头部内容</span></h3>　　&lt;head&gt;&lt;/head&gt;这2个标记符分别表示头部信息的开始和结尾。头部中包含的标记是页面的标题、序言、说明等内容，它本身不作为内容来显示，但影响网页显示的效果。头部中最常用的标记符是标题标记符和<a target=_blank href=/view/953191.htm>meta</a>标记符，其中标题标记符用于定义网页的标题，它的内容显示<div class="album-view log-set-param" log-set-param="album_view" id="alb_5018668" style="float:right;width:218px;"><p class="album-div" style="background-color:#fff;height:126px;width:218px;"><span class="album-border1" style="height:109px;width:201px;"></span><span class="album-border2" style="height:109px;width:201px;"></span><a class="album-overlay  nslog:1212" href="/albums/383720/383720.html#2581732$" target="_blank" style="height:126px;width:218px;"><img class="album-cover hook-lemma-ext-module" data-src="http://imgsrc.baidu.com/baike/abpic/item/cc506c8b4bdf1f74c9fc7a12.jpg" style="height:106px;width:199px;" /><span class="album-logo"></span></a></p><span class="title">关于HTML</span><span class="count">(4张)</span></div>在网页窗口的标题栏中，网页标题可被浏览器用作书签和收藏清单。<h3 class="headline-2 bk-sidecatalog-title"><a name="4_2"></a><span class="headline-content">文件主体内容</span></h3>　　&lt;body&gt;&lt;/body&gt;,网页中显示的实际内容均包含在这2个<a target=_blank href=/view/677631.htm>正文</a>标记符之间。<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$207ea60e5513688037d122c3" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="超文本标记语言" src=http://imgsrc.baidu.com/baike/abpic/item/207ea60e5513688037d122c3.jpg /></a><p class="pic-info">超文本标记语言</p></div>正文标记符又称为实体标记。<div class="album-view log-set-param" log-set-param="album_view" id="alb_5018669" style="float:left;width:161px;"><p class="album-div" style="background-color:#fff;height:220px;width:161px;"><span class="album-border1" style="height:203px;width:144px;"></span><span class="album-border2" style="height:203px;width:144px;"></span><a class="album-overlay  nslog:1212" href="/albums/383720/383720.html#2636116$" target="_blank" style="height:220px;width:161px;"><img class="album-cover hook-lemma-ext-module" data-src="http://imgsrc.baidu.com/baike/abpic/item/8b527d279419d664908f9d16.jpg" style="height:200px;width:142px;" /><span class="album-logo"></span></a></p><span class="title">超文本标记语言相关书籍</span><span class="count">(10张)</span></div><div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="383720:383720:5"></span><a name="5"></a><span class="headline-content">超文本标记语言文档标题</span></h2><h3 class="headline-2 bk-sidecatalog-title"><a name="5_1"></a><span class="headline-content">页面主体内容描述</span></h3>　　&lt;html&gt; 标记网页的开始
+<div class="spctrl"></div>　　&lt;head&gt;标记头部的开始<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$207ea60ee4d79f8236d12286" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="Html编辑工具" src=http://imgsrc.baidu.com/baike/abpic/item/207ea60ee4d79f8236d12286.jpg /></a><p class="pic-info">Html编辑工具</p></div>：头部元素描述，如文档标题等，还可以加入css与javascript的引入标签&lt;script /&gt;与&lt;link /&gt;
+<div class="spctrl"></div>　　&lt;/head&gt;标记头部的结束
+<div class="spctrl"></div>　　&lt;body&gt; 标记页面正文开始
+<div class="spctrl"></div>　　页面实体部分
+<div class="spctrl"></div>　　&lt;/body&gt;标记正文结束
+<div class="spctrl"></div>　　&lt;/html&gt;标记该网页的结束
+<div class="spctrl"></div>　　当然，如果不使用以上基本框架结构，而直接使用在实体部分中出现的标记符，在浏览器下也可以解释执行。<h3 class="headline-2 bk-sidecatalog-title"><a name="5_2"></a><span class="headline-content">正文标记的使用</span></h3>　　每种HTML标记符在使用中可带有不同的属性项，用于<a target=_blank href=/view/491264.htm>描述</a>该标记符说明的内容显示不同的效果。正文标记符中提供以下属性来改变文本的颜色及页面背景。
+<div class="spctrl"></div>　　BGCOLOR 用于定义网页的背景色，<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$72b19c028f9aa2344bfb51d5" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="超文本标记语言" src=http://imgsrc.baidu.com/baike/abpic/item/72b19c028f9aa2344bfb51d5.jpg /></a><p class="pic-info">超文本标记语言</p></div><a target=_blank href=/view/1885292.htm>BACKGROUND</a>用于定义网页背景图案的图像文件
+<div class="spctrl"></div>　　TEXT 用于定义正文字符的颜色，默认为黑色
+<div class="spctrl"></div>　　<a target=_blank href=/view/322970.htm>LINK</a>用于定义网页中超级链接字符的颜色，默认为蓝色
+<div class="spctrl"></div>　　VLINK 用于定义网页中已被访问过的超接链接字符的颜色，默认为紫红色
+<div class="spctrl"></div>　　ALINK 用于定义被鼠标选中，但未使用时超链字符的颜色，默认为红色
+<div class="spctrl"></div>　　例如：标记将定义页面的背景色为黑色，正文<a target=_blank href=/view/285104.htm>字体</a>显示为白色。
+<div class="spctrl"></div>　　以上属性使用中，需要对颜色进行说明，在HTML中对颜色可使用2种方法说明颜色属性值，即颜色名称（英文名）和颜色值。其中颜色值用6个十六进制数来分别描述红、绿、蓝三原色的配方法——称为RGB值，每2个十六进制数表示一种颜色。使用颜色值时，应在值前冠以“#”号。
+<div class="spctrl"></div>　　使用图案代替背景颜色，可以使页面更生动、美观。
+<div class="spctrl"></div>　　可将图像文件image.gif所表示的一幅图像作为页面的背景，若图像幅面不够大，将会将图像重复平铺在窗口中。<h3 class="headline-2 bk-sidecatalog-title"><a name="5_3"></a><span class="headline-content">HTML字符集</span></h3>　　在网页中除了可显示常见的ASCII字符和<a target=_blank href=/view/1712.htm>汉字</a>外，HTML还有许多特殊字符，它们一起构成了HTML<a target=_blank href=/view/51987.htm>字符集</a>。有2种情况需要使用特殊字符，一是网页中有其特殊意义的字符，二是键盘上没有的字符。<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$27d647eee35f149bb2fb95b0" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="字符集" src=http://imgsrc.baidu.com/baike/abpic/item/27d647eee35f149bb2fb95b0.jpg /></a><p class="pic-info">字符集</p></div>HTML字符可以用一些代码来表示，代码可以有2种表示方式。即字符代码（命名实体）和数字代码（编号实体）。字符代码以&amp;符开始，以分号结束，其间是字符名；数字代码也以&amp;符开始，以分号结束，其间是#号加编号。<h3 class="headline-2 bk-sidecatalog-title"><a name="5_4"></a><span class="headline-content">HTML的有关约定</span></h3>　　在编辑HTML文件和使用有关标记符时有一些约定或默认的要求。
+<div class="spctrl"></div>　　<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$73ca591015c4cf9bc2ce791a" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="HTML" src=http://imgsrc.baidu.com/baike/abpic/item/73ca591015c4cf9bc2ce791a.jpg /></a><p class="pic-info">HTML</p></div>(1) 文本标记语言源程序的文件扩展名<a target=_blank href=/view/747987.htm>默认</a>使用htm或html。在使用<a target=_blank href=/view/487023.htm>文本编辑器</a>时，注意修改扩展名。而常用的图像文件的扩展名为gif和jpg。
+<div class="spctrl"></div>　　(2) HTML源程序为文本文件，其列宽可不受限制，即多个标记可写成一行，甚至整个文件可写成一行；若写成多行，浏览器一般忽略文件中的回车符（标记指定除外）；对文件中的空格通常也不按源程序中的效果显示。完整的空格可使用特殊符号(实体符)“&amp;nbsp(注意此字母必须小写，方可空格)”<a target=_blank href=/view/451254.htm>表示</a>非换行空格；表示文件路径时使用符号“/”分隔，文件名及路径描述可用双引号也可不用引号括起。
+<div class="spctrl"></div>　　<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$34bbf8cd80284a340eb3452c" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="HTML" src=http://imgsrc.baidu.com/baike/abpic/item/34bbf8cd80284a340eb3452c.jpg /></a><p class="pic-info">HTML</p></div>(3) 标记符中的标记元素用尖括号括起来，带斜杠的元素表示该标记说明结束；大多数标记符必须成对使用，以表示作用的起始和结束；标记元素忽略大小写，即其作用相同，但完整的空格可使用特殊符号“&amp;nbsp(注意此字母必须小写，方可空格)”；许多标记元素具有属性说明，可用参数对元素作进一步的限定，多个参数或属性项说明次序不限，其间用空格分隔即可；一个标记元素的内容可以写成多行。
+<div class="spctrl"></div>　　(4) 标记符号，包括尖括号、标记元素、属性项等必须使用<a target=_blank href=/view/517188.htm>半角</a>的西文字符，而不能使用<a target=_blank href=/view/41233.htm>全角字符</a>。
+<div class="spctrl"></div>　　(5) <a target=_blank href=/view/998062.htm>HTML注释</a>由惊叹号表示，注释内容由符号<a target=_blank href=/view/300441.htm>结束</a>。注释内容可插入文本中任何位置。任何标记若在其最前插入惊叹号，即被标识为注释，不予显示。
+<div class="spctrl"></div>　　<div style="float: left; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/383720/383720.html#0$8a95ad1c060ddced87d6b6d0" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="html示例" src=http://imgsrc.baidu.com/baike/abpic/item/8a95ad1c060ddced87d6b6d0.jpg /></a><p class="pic-info">html示例</p></div><div class="bpctrl" style="clear:both"></div><div class="clear"></div>
+</div>
+<div class="clear"></div>
+<style type="text/css">.bk-album-collection-box{width:687px;height:228px;border:1px solid #C6E1F5;border-top:2px solid #268BD7;margin-bottom:30px;overflow:hidden}.bacb-head{height:28px;background-color:#F5FBFF;padding-left:10px;position:relative}.bacb-title{font-size:14px;font-weight:bold;line-height:28px}.bacb-more{text-decoration:none;position:absolute;font-size:12px;line-height:1;line-height:14px \9;top:8px;right:8px;padding-right:9px;padding-right:11px;background:url("http://img.baidu.com/img/baike/s/arr.gif") no-repeat 54px -22px;background-position:54px -23px \9}.bacb-more:hover{text-decoration:none}.bacb-left-btn,.bacb-window-outer,.bacb-right-btn{float:left}.bacb-left-btn,.bacb-right-btn{display:block;text-decoration:none;border:1px solid #FFF;width:17px;height:53px;background:url(http://img.baidu.com/img/baike/bkalbumbtn.gif) no-repeat;cursor:default}.bacb-left-btn{margin:59px 3px 0 6px;_margin-left:3px;background-position:3px 16px}.bacb-right-btn{margin:59px 5px 0 6px;background-position:-27px 16px}.left-enable:hover{background-position:-61px 16px;border:1px solid #DDD;cursor:pointer}
+.right-enable:hover{background-position:-91px 16px;border:1px solid #DDD;cursor:pointer}.bacb-window-outer{width:628px;height:185px;position:relative;overflow:hidden;margin-top:15px}.bacb-window-inner{position:absolute;top:0;left:0;width:650px;padding-left:6px;_padding-top:1px}.bacb-window-inner .item{float:left;width:156px;height:195px}.bacb-window-inner .img{zoom:1}.bacb-window-inner .img .b1,.bacb-window-inner .img .b2,.bacb-window-inner .img .b3,.bacb-window-inner .img .img-wrapper{background-color:#FFF}.bacb-window-inner .img .b1{border:1px solid #CDCDCD;float:left;position:relative;left:0;top:6px}.bacb-window-inner .img .b2{border:1px solid #CDCDCD;position:relative;left:3px;top:-3px}.bacb-window-inner .img .b3{border:1px solid #AAA;position:relative;left:3px;top:-3px;padding:2px}.bacb-window-inner .img .img-wrapper{left:9px;bottom:9px;display:block;text-decoration:none;line-height:1px}.bacb-window-inner .item .desc{clear:both;display:inline-block;text-align:center;font-family:宋体;width:145px;margin-top:13px;font-size:12px;line-height:1;line-height:14px \9}
+.bacb-window-inner .item .count{color:#999;white-space:nowrap}</style>
+<script type="text/javascript">/*<![CDATA[*/bk.view.albumCollect=function(E,J,A){var _=baidu.object.keys(E).length;if(_<=4){return;}var H=0,C=4,B=[];for(var N in E){B.push([N,"http://imgsrc.baidu.com/baike/abpic/item/"+E[N].cover+".jpg",E[N].desc,E[N].count]);}if(_>4){baidu.addClass("bacb-right-btn-"+A,"right-enable");}baidu.setStyle("bacb-window-inner-"+A,"width",165*_+100+"px");var I=function(C,B){var _="BkImgGettingSize"+(new Date()).valueOf(),A=window[_]=document.createElement("IMG");A.onload=function(){var A=this;setTimeout(function(){B(A.width,A.height,window[_]);window[_]=null;},10);this.onload=null;};A.onerror=function(){B(0,0);window[_]=null;};A.src=C;},K=function(A,_){var B=baidu.string.getByteLength(A);if(B>_){return baidu.string.subByte(A,_-4)+"...";}else{return A;}},M=null,G=function(){if(M){M.stop();}var B=parseInt(baidu.getStyle("bacb-window-inner-"+A,"left")),_=-H*156;if(B==_){return;}M=new bk.editor.ani(70,function(_){return _;},17);M.start(function(C){baidu.setStyle("bacb-window-inner-"+A,"left",B+(_-B)*C+"px");},function(){baidu.setStyle("bacb-window-inner-"+A,"left",_+"px");M=null;});},F=function(){if(_<5){return;}baidu.on("bacb-left-btn-"+A,"click",function(){if(H<1){return;}H--;G();L();});baidu.on("bacb-right-btn-"+A,"click",function(){if(H>_-5){return;}H++;G();L();});},L=function(){if(H==0){baidu.removeClass("bacb-left-btn-"+A,"left-enable");}else{baidu.addClass("bacb-left-btn-"+A,"left-enable");}if(H==_-4){baidu.removeClass("bacb-right-btn-"+A,"right-enable");}else{baidu.addClass("bacb-right-btn-"+A,"right-enable");}},D=function(){if(C==_){F();return;}var E=B[C][1];I(E,function(I,H){var F=document.createElement("DIV");F.className="item";var _=0,L=0;if(I>H){L=parseInt(133*H/I);_=133;}else{_=parseInt(133*I/H);L=133;}var G="/albums/"+J+"/"+A+".html#"+parseInt(B[C][0])+"$";F.innerHTML='<div class="img" style="margin-top:'+(134-L)+"px; margin-left:"+Math.floor((133-_)/2)+'px;"><div class="b1"><div class="b2"><div class="b3"><a href="'+G+'" target="_blank" class="img-wrapper"><img src="'+E+'"width="'+_+'" height="'+L+'" ondragstart="return false;"/></a></div></div></div></div><p class="desc"><a href="'+G+'" target="_blank" title="'+B[C][2]+'">'+K(B[C][2],18)+'</a><span class="count">('+B[C][3]+"\u5f20)</span></p>";baidu.g("bacb-window-inner-"+A).appendChild(F);C++;D();});};D();};/*]]>*/</script>
+<div class="bk-album-collection-box log-set-param" id="bk-album-collection-box-383720" log-set-param="albcol_view">
+<div class="bacb-head"><span class="bacb-title">词条图册</span><a class="bacb-more nslog:1205" href="/albums/383720/383720.html" target="_blank">更多图册</a></div>
+<a class="bacb-left-btn  nslog:1260" href="javascript:void(0);" id="bacb-left-btn-383720"></a>
+<div class="bacb-window-outer">
+<div class="bacb-window-inner nslog-area" data-nslog-type="1204" id="bacb-window-inner-383720">
+<div class="item" style="visibility:hidden">
+<div class="img">
+<div class="b1">
+<div class="b2">
+<div class="b3">
+<a class="img-wrapper" href="/albums/383720/383720.html#2631445$" target="_blank">
+<img ondragstart="return false" onload="tools.image.sizelimit(this,133,133);var _=baidu.dom.getAncestorByClass(this,&#34;img&#34;);baidu.dom.setAttrs(_,{style:&#34;margin-top:&#34;+(134-this.height)+&#34;px;margin-left:&#34;+(133-this.width)/2+&#34;px;&#34;});_.parentNode.style.visibility=&#34;visible&#34;" src="http://imgsrc.baidu.com/baike/abpic/item/29790130063caffea9018ea5.jpg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<p class="desc"><a href="/albums/383720/383720.html#2631445$" target="_blank" title="HTML">HTML</a><span class="count">(18张)</span>
+</p>
+</div>
+<div class="item" style="visibility:hidden">
+<div class="img">
+<div class="b1">
+<div class="b2">
+<div class="b3">
+<a class="img-wrapper" href="/albums/383720/383720.html#2521457$" target="_blank">
+<img ondragstart="return false" onload="tools.image.sizelimit(this,133,133);var _=baidu.dom.getAncestorByClass(this,&#34;img&#34;);baidu.dom.setAttrs(_,{style:&#34;margin-top:&#34;+(134-this.height)+&#34;px;margin-left:&#34;+(133-this.width)/2+&#34;px;&#34;});_.parentNode.style.visibility=&#34;visible&#34;" src="http://imgsrc.baidu.com/baike/abpic/item/00a8270153094e6b7bec2cb9.jpg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<p class="desc"><a href="/albums/383720/383720.html#2521457$" target="_blank" title="超文本标记语言">超文本标记语言</a><span class="count">(15张)</span>
+</p>
+</div>
+<div class="item" style="visibility:hidden">
+<div class="img">
+<div class="b1">
+<div class="b2">
+<div class="b3">
+<a class="img-wrapper" href="/albums/383720/383720.html#2581732$" target="_blank">
+<img ondragstart="return false" onload="tools.image.sizelimit(this,133,133);var _=baidu.dom.getAncestorByClass(this,&#34;img&#34;);baidu.dom.setAttrs(_,{style:&#34;margin-top:&#34;+(134-this.height)+&#34;px;margin-left:&#34;+(133-this.width)/2+&#34;px;&#34;});_.parentNode.style.visibility=&#34;visible&#34;" src="http://imgsrc.baidu.com/baike/abpic/item/cc506c8b4bdf1f74c9fc7a12.jpg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<p class="desc"><a href="/albums/383720/383720.html#2581732$" target="_blank" title="关于HTML">关于HTML</a><span class="count">(4张)</span>
+</p>
+</div>
+<div class="item" style="visibility:hidden">
+<div class="img">
+<div class="b1">
+<div class="b2">
+<div class="b3">
+<a class="img-wrapper" href="/albums/383720/383720.html#2636116$" target="_blank">
+<img ondragstart="return false" onload="tools.image.sizelimit(this,133,133);var _=baidu.dom.getAncestorByClass(this,&#34;img&#34;);baidu.dom.setAttrs(_,{style:&#34;margin-top:&#34;+(134-this.height)+&#34;px;margin-left:&#34;+(133-this.width)/2+&#34;px;&#34;});_.parentNode.style.visibility=&#34;visible&#34;" src="http://imgsrc.baidu.com/baike/abpic/item/8b527d279419d664908f9d16.jpg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<p class="desc"><a href="/albums/383720/383720.html#2636116$" target="_blank" title="超文本标记语言相关书籍">超文本标记语言...</a><span class="count">(10张)</span>
+</p>
+</div>
+</div>
+</div>
+<a class="bacb-right-btn nslog:1260" href="javascript:void(0);" id="bacb-right-btn-383720"></a>
+</div>
+<script type="text/javascript">baidu.on(window,"load",function(){bk.view.albumCollect({"2631445 ":{"desc":"HTML","count":18,"cover":"29790130063caffea9018ea5","pic":[{"imgId":"906289dde15cba535982dda4","imgDesc":"HTML","owner":"753909030"},{"imgId":"30ecd5ef3e115c51acafd5a4","imgDesc":"HTML","owner":"753909030"},{"imgId":"adee30ddefd46bbe8d1029a4","imgDesc":"HTML","owner":"753909030"},{"imgId":"b84054902f2a64eaa977a4b6","imgDesc":"HTML","owner":"753909030"},{"imgId":"2e6fa738c34858a5d56225a4","imgDesc":"HTML","owner":"753909030"},{"imgId":"7787b9efaf038a71fdfa3ca4","imgDesc":"HTML","owner":"753909030"},{"imgId":"b5ce9254fcf6e7783a2935a4","imgDesc":"HTML","owner":"753909030"},{"imgId":"f392492cedf6be8b8a1399b6","imgDesc":"HTML","owner":"753909030"},{"imgId":"814b07d83d26a65233fa1ca4","imgDesc":"HTML","owner":"753909030"},{"imgId":"d089b986460f685967096ea4","imgDesc":"HTML","owner":"753909030"},{"imgId":"29752a9b2a114cd2c9eaf4b6","imgDesc":"HTML","owner":"753909030"},{"imgId":"d7c9ca3f238cb3a57d1e71a4","imgDesc":"HTML","owner":"753909030"},{"imgId":"389aa8fde27ec77109244da4","imgDesc":"HTML","owner":"753909030"},{"imgId":"00a827017015af697bec2cb6","imgDesc":"HTML","owner":"753909030"},{"imgId":"9c57e3facb7be4b9b48f31b6","imgDesc":"HTML","owner":"753909030"},{"imgId":"f15e242946dff79999250ab6","imgDesc":"HTML","owner":"753909030"},{"imgId":"8a95ad1c6019b6ec87d6b6a5","imgDesc":"HTML","owner":"753909030"},{"imgId":"29790130063caffea9018ea5","imgDesc":"HTML","owner":"753909030"}]},"2521457 ":{"desc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00","count":15,"cover":"00a8270153094e6b7bec2cb9","pic":[{"imgId":"00a8270153094e6b7bec2cb9","imgDesc":"1","owner":"_\u4ec0\u4f1a"},{"imgId":"0b14ad191a83412043a9ad8b","imgDesc":"2","owner":"_\u4ec0\u4f1a"},{"imgId":"b258f5c44502b5cc8226ac8b","imgDesc":"4","owner":"_\u4ec0\u4f1a"},{"imgId":"ea85a945b0ee7443cffca38b","imgDesc":"5","owner":"_\u4ec0\u4f1a"},{"imgId":"b94f65ec21d1c0b42f2e21b9","imgDesc":"7","owner":"_\u4ec0\u4f1a"},{"imgId":"b6045da9766139991e17a28b","imgDesc":"8","owner":"_\u4ec0\u4f1a"},{"imgId":"3790312ec10e6d354fc226b9","imgDesc":"9","owner":"_\u4ec0\u4f1a"},{"imgId":"2e6fa738e266b9a7d56225b9","imgDesc":"10","owner":"_\u4ec0\u4f1a"},{"imgId":"42e89c263abbe8728a82a18b","imgDesc":"11","owner":"_\u4ec0\u4f1a"},{"imgId":"b879855035f42307853524b9","imgDesc":"12","owner":"_\u4ec0\u4f1a"},{"imgId":"9a1151c2ae547350e5dd3bb9","imgDesc":"13","owner":"_\u4ec0\u4f1a"},{"imgId":"4e83cb62f90313b8e7113ab9","imgDesc":"15","owner":"_\u4ec0\u4f1a"},{"imgId":"a6aed01b1e760b9fae513363","imgDesc":"16","owner":"_\u4ec0\u4f1a"},{"imgId":"b3ba5d1640a3b92f21a4e94c","imgDesc":"17","owner":"_\u4ec0\u4f1a"},{"imgId":"f29faa8f04c3628bf11f365a","imgDesc":"18","owner":"_\u4ec0\u4f1a"}]},"2581732 ":{"desc":"\u5173\u4e8eHTML","count":4,"cover":"cc506c8b4bdf1f74c9fc7a12","pic":[{"imgId":"cc506c8b4bdf1f74c9fc7a12","imgDesc":"HTML\u4ee3\u7801","owner":"0\u5043\u67080"},{"imgId":"7c5fcc1b173bbdb3ac6e7512","imgDesc":"HTML\u4ee3\u7801","owner":"0\u5043\u67080"},{"imgId":"b29f82823cb86ad96d8119ec","imgDesc":"HTML","owner":"0\u5043\u67080"},{"imgId":"b0742dfa776b0078a9d311ec","imgDesc":"HTML","owner":"0\u5043\u67080"}]},"2636116 ":{"desc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u76f8\u5173\u4e66\u7c4d","count":10,"cover":"8b527d279419d664908f9d16","pic":[{"imgId":"9f1011b3be9363c0d8335a3b","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d1","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"f99dcf003468ec76738b6515","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d12","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"b3508d1380c6ebe76438db04","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d13","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"8b527d279419d664908f9d16","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d14","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"1a94b36e7c7c70bd80cb4a04","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d15","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"5beeba0ff731da8aaa645716","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d16","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"b3ba5d166fe96e2d21a4e917","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d2","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"1b0d4f0fc132f64d6159f317","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d3","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"3bc6f7501ce1e73b1138c217","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d4","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"},{"imgId":"4bac3073506d927b8601b006","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00\u4e66\u7c4d5","owner":"\u5c0f\u866b\u513f\u5347\u795e\u5566"}]},"0 ":{"desc":"\u8bcd\u6761\u56fe\u7247","count":11,"cover":"1e71f724b9abaf3a4c088dca","pic":[{"imgId":"1e71f724b9abaf3a4c088dca","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00"},{"imgId":"a992e31f633fea6c304e15d6","imgDesc":"html"},{"imgId":"5202e5f2fb229528b07ec5cb","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00"},{"imgId":"0862c354d18d953fd009060f","imgDesc":"HTML\u4ee3\u7801"},{"imgId":"207ea60e5513688037d122c3","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00"},{"imgId":"207ea60ee4d79f8236d12286","imgDesc":"Html\u7f16\u8f91\u5de5\u5177"},{"imgId":"72b19c028f9aa2344bfb51d5","imgDesc":"\u8d85\u6587\u672c\u6807\u8bb0\u8bed\u8a00"},{"imgId":"27d647eee35f149bb2fb95b0","imgDesc":"\u5b57\u7b26\u96c6"},{"imgId":"73ca591015c4cf9bc2ce791a","imgDesc":"HTML"},{"imgId":"34bbf8cd80284a340eb3452c","imgDesc":"HTML"},{"imgId":"8a95ad1c060ddced87d6b6d0","imgDesc":"html\u793a\u4f8b"}]}},"383720","383720");});</script>
+<script type="text/javascript">(function(){window.rsInsertData=window.rsInsertData||[];rsInsertData.push([383720,{"foot":[{"fentryTableId":5829,"entryId":2320465,"templateId":789,"entryTitle":"\u7f51\u9875\u7f16\u7a0b","isManual":0,"isExpand":1}],"top":null}]);})();</script>
+<a id="rs-1" name="rs-1" oid="5829"></a>
+<div id="rs-foot-383720" oid="5829"></div>
+<div class="reinforce" id="lemmaExtend">
+<dl class="nslog-area log-set-param" data-nslog-type="19" id="viewExtCati" log-set-param="module_tag">
+<dt>开放分类：</dt>
+<dd>
+<a href='/taglist?tag=%BB%A5%C1%AA%CD%F8&tagfromview' target='_blank'>互联网</a>，<a href='/taglist?tag=%CD%F8%C2%E7&tagfromview' target='_blank'>网络</a></dd>
+</dl>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<script>baikeViewInfo.cataList=[ {ele:"1", title:"超文本标记语言介绍",level:2,display:true},{ele:"2", title:"标准的版本历史",level:2,display:true},{ele:"2_1",title:"HTML",level:3,display:true},{ele:"2_2",title:"XHTML",level:3,display:true},{ele:"3", title:"HTML的特点",level:2,display:true},{ele:"3_1",title:"编辑HTML",level:3,display:true},{ele:"4", title:"HTML文件的整体结构",level:2,display:true},{ele:"4_1",title:"文件头部内容",level:3,display:true},{ele:"4_2",title:"文件主体内容",level:3,display:true},{ele:"5", title:"超文本标记语言文档标题",level:2,display:true},{ele:"5_1",title:"页面主体内容描述",level:3,display:true},{ele:"5_2",title:"正文标记的使用",level:3,display:true},{ele:"5_3",title:"HTML字符集",level:3,display:true},{ele:"5_4",title:"HTML的有关约定",level:3,display:true}];if(typeof PDC!="undefined"){PDC.tti();}</script>
+</div>
+<div class="clear"></div>
+</div>
+<div class="content-ft">
+<div class="reinforce">
+<dl class="nslog-area" data-nslog-type="18" id="relatedLemmaDown">
+<dt>
+“超文本标记语言”相关词条：
+</dt>
+<dd class="relative">
+<div class="clear"></div>
+<div>
+<a class="relatedhelp" href="http://www.baidu.com/search/baike_help.html#如何完善相关词条" target="_blank" title="什么是相关词条">什么是相关词条</a>
+<a class="myedit nslog:1005" href="#" onclick="userlogin.check(bk.view.editRelated,false,&#34;editrelated&#34;);return false">我来完善</a>
+</div>
+<div class="clear"></div>
+</dd>
+</dl>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="end">
+<p class="declare">百度百科中的词条内容仅供参考，如果您需要解决具体问题（尤其在法律、医学等领域），建议您咨询相关领域专业人士。</p>
+<div class="text_vote1" id="vote_btn"><b id="vote_num"></b><span id="vote_txt">本词条对我有帮助</span></div>
+</div><div class="layout share">
+<div class="share-item-title">
+<a class="cang nslog:99" href="http://cang.baidu.com/do/add" onclick="window.open(&#34;http://cang.baidu.com/do/add?it=&#34;+encodeURIComponent(document.title)+&#34;&amp;iu=&#34;+encodeURIComponent(location.href)+&#34;&amp;tn=%E7%99%BE%E7%A7%91%E8%AF%8D%E6%9D%A1%2C&amp;fr=bk#nw=1&#34;,&#34;_s&#34;,&#34;scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable= yes&#34;);return false" target="_blank" title="添加到搜藏">添加到搜藏</a>
+</div>
+<div class="share-item clearfix" id="bdsharebox">
+<span class="share-tip">分享到:</span>
+<div class="bdshare_t bds_tools get-codes-bdshare" data="{'url':'http://baike.baidu.com/view/383720.htm','text':'【超文本标记语言_百度百科】，即HTML（Hypertext Markup Language），是用于描述网页文档的一种标记语言。......','pic':'http://imgsrc.baidu.com/baike/abpic/item/1e71f724b9abaf3a4c088dca.jpg','wbuid':1647247597}" id="bdshare">
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_douban"></a>
+<a class="bds_tsohu"></a>
+<a class="bds_t163"></a>
+<a class="bds_renren"></a>
+<span class="bds_more">更多</span>
+</div>
+<script data="type=tools&amp;uid=71" id="bdshare_js" type="text/javascript"></script>
+<script id="bdshell_js" type="text/javascript"></script>
+</div>
+</div>
+<dl class="lemma-ext-bottom nslog-area" data-nslog-type="16">
+<dt>合作编辑者</dt>
+<dd>
+<div class="onelineonly">
+<span id="co-editors">
+<span>
+<a title='查看此用户资料' class='usercard' userName='鸡冠无常'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%BC%A6%B9%DA%CE%DE%B3%A3#3'>鸡冠无常</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='一一依依11'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D2%BB%D2%BB%D2%C0%D2%C011#3'>一一依依11</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='sansanlulu_'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=sansanlulu_#3'>sansanlulu_</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='s1986424123'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=s1986424123#3'>s1986424123</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='御剑斩瓜'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D3%F9%BD%A3%D5%B6%B9%CF#3'>御剑斩瓜</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='何必友我'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%BA%CE%B1%D8%D3%D1%CE%D2#3'>何必友我</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='wmjiaju'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=wmjiaju#3'>wmjiaju</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='无知无畏001'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%CE%DE%D6%AA%CE%DE%CE%B7001#3'>无知无畏001</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='张已兵'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D5%C5%D2%D1%B1%F8#3'>张已兵</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='乐乐怪怪123'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%C0%D6%C0%D6%B9%D6%B9%D6123#3'>乐乐怪怪123</a></span>
+</span>
+</div>
+<a class="f12 ref_more" href="/update/id=383720?from=au" id="more-coeditor" style="display:none" target="_blank">更多</a>
+<div class="clear"></div>
+<div class="try f12">如果您认为本词条还需进一步完善，百科欢迎您也来参与<a class="try-edit" href="#" onclick="bk.view.editLemma(&#34;/edit/&#34;,&#34;383720&#34;);return false">编辑词条</a>在开始编辑前，您还可以先学习<a href="http://www.baidu.com/search/baike_help.html#编辑原则" target="_blank">如何编辑词条</a></div>
+</dd>
+</dl>
+<p class="bk-feedback">
+如想投诉，请到<a class="nslog:1006" href="http://tousu.baidu.com/baike" target="_blank">百度百科投诉中心</a>；如想提出意见、建议，请到<a class="nslog:1007" href="http://tieba.baidu.com/f?kw=%b0%d9%b6%c8%b0%d9%bf%c6" target="_blank">百度百科吧</a>。
+</p>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="col-sub" id="side">
+<div class="userinfo-side">
+<div id="userInfoDiv">
+</div>
+</div>
+<div class="box2" id="lemma-overview">
+<div class="box2-inner">
+<h2>词条统计</h2>
+<p class="info f12">
+浏览次数：约 <span id="viewPV"></span>
+次
+<br/>
+编辑次数：33次 <a class="nslog:1021" href="/update/id=383720" target="_blank">历史版本</a>
+<br/>
+最近更新：<span id="lastModifyTime">2012-02-05</span>
+<br/>
+创建者：<span class="nslog:1022"><a title='查看此用户资料' class='usercard' userName='13805361953'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=13805361953#3'>13805361953</a></span>
+</p>
+</div>
+</div>
+<style>.authority-morelink{float:right;text-decoration:underline}</style>
+<div class="box2 nslog-area" id="pro-contributors">
+<div class="box2-inner">
+<h2><span><a href="http://baike.baidu.com/update/id=383720" target="_blank">更多</a></span>贡献光荣榜</h2>
+<div class="usercard-info" title=""><img class="what-contri" src="http://img.baidu.com/img/baike/blank.gif"/>鼠标滑过用户名，我们有名片啦！</div>
+<div id="contri-div">
+<table border="0" cellpadding="0" cellspacing="0" class="topuser f12" width="235px;">
+<tr>
+<td class="contri-type" colspan="4"><strong>辛勤贡献者：</strong><img align="absmiddle" class="what" src="http://img.baidu.com/img/baike/blank.gif" title="贡献复杂版本，被称为辛勤贡献者"/></td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='乐乐怪怪123'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%C0%D6%C0%D6%B9%D6%B9%D6123#3'>乐乐怪怪123</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level3" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=22739238" target="_blank">版本</a>
+</td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='753909030'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=753909030#3'>753909030</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level4" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=22150566" target="_blank">版本</a>
+</td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='_什会'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=_%CA%B2%BB%E1#3'>_什会</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level5" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=21951878" target="_blank">版本</a>
+</td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='宏儿2010'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%BA%EA%B6%F92010#3'>宏儿2010</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level8" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=12034624" target="_blank">版本</a>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="box2" id="bkDynamic" style="display:none">
+<div class="box2-inner">
+<h5 id="profileTitle"></h5>
+<div class="f12">
+<dl class="task nslog-area" data-nslog-type="1023" id="task" style="display:none">
+</dl>
+<dl class="notice nslog-area" data-nslog-type="1024" id="notice">
+</dl>
+</div>
+</div>
+</div>
+<div class="box2" id="mabox" style="display:none">
+<div class="box2-inner" id="box2-inner">
+<script type="text/javascript">var arrBaiduAds=new Array();function BaiduAdsDisplay(_){if(typeof(arrBaiduAds[_])=="undefined"||arrBaiduAds[_]==""){return;}G("mabox").style.display="";nslog.set("maad",1);G("box2-inner").innerHTML=arrBaiduAds[_];}</script>
+<script type="text/javascript">/*<![CDATA[*/baidu.sio.callByBrowser("http://a.baidu.com/ecom?di=216&tm=baiduASPT216S&tn=baidubaike_pg&word=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4",function(){BaiduAdsDisplay(216);});/*]]>*/</script>
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+</div><img src="http://c.baidu.com/c.gif?t=7&amp;q=%B3%AC%CE%C4%B1%BE%B1%EA%BC%C7%D3%EF%D1%D4&amp;p=0" style="display:none"/><input id="titleVal" type="hidden" value="超文本标记语言"/>
+</div>
+<div class="nslog-area" data-nslog-type="1001" id="footer">
+&#169; 2012 Baidu <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>
+</div>
+</div>
+<div id="sidecatalog" style="position:absolute;display:none">
+<div class="sidebar" id="sidebar"></div>
+<a class="gotop" href="#" id="gotop" title="返回顶部"></a>
+</div>
+<div id="side-catalog-content" style="display:none;position:absolute"></div>
+<script src="http://baike.bdimg.com/static/common/js/view_bottom.js?@=bbah3h" type="text/javascript"></script><script charset="utf-8" src="/guanxi/static/js/lemma_insert.js" type="text/javascript"></script><script type="text/javascript">/*<![CDATA[*/if((baikeViewInfo.expIndex!=0)&&!(window.location.hash)){window.location.hash="#sub383720";}nslog.set("page","view");nslog.set("lemmaid","383720");nslog.set("ispolysemy","0");baidu.page.loadJsFile("http://baike.bdimg.com/static/lemma/liteoutput/view.js?@=13csb60");baidu.page.loadJsFile("http://baike.bdimg.com/static/usercenter/js/liteoutput/bk.uc_lemma.js?@=184uzx7");baidu.page.loadJsFile("http://img.baidu.com/hunter/baike.js?st="+parseInt(new Date()/86400000));if(typeof PDC!="undefined"){PDC.init({is_login:false,sample:0.01,product_id:103,page_id:1});}/*]]>*/</script><script type="text/javascript">/*<![CDATA[*/(function(){function _(B){var A="baikelog_"+(new Date()).getTime(),_=window[A]=new Image();_.onload=_.onerror=function(){window[A]=null;};_.src="http://nsclick.baidu.com/v.gif?pid=103&type="+B+"&url="+encodeURIComponent(location.href)+"&t="+(new Date()).getTime();_=null;}if(typeof baidu=="undefined"){_(3601);}})();/*]]>*/</script>
+</body>
+</html>
+<script>PDC._load_js=function(b,c){var a=document.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src",b);a.onload=a.onreadystatechange=function(){if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete"){a.onload=a.onreadystatechange=null;if(typeof c==="function"){c(b,true)}}};a.onerror=function(d){if(typeof c==="function"){c(b,false)}};document.getElementsByTagName("head")[0].appendChild(a)};PDC._load_analyzer=function(){if(PDC._is_sample()==false){return}PDC._analyzer.loaded=true;PDC._load_js(PDC._analyzer.url,function(){var c=PDC._analyzer.callbacks;for(var b=0,a=c.length;b<a;b++){c[b]()}})};PDC.send=function(){if(PDC._analyzer.loaded==true){WPO_PDA.send()}else{PDC._analyzer.callbacks.push(function(){WPO_PDA.send()})}};PDC._is_sample=function(){var e=false,d=this._opt.sample,b=0;if(window.performance&&window.performance.timing){d=d*5}var c=new Date().getHours();if(c>1&&c<8){d=d*5}d=d>0.9?0.9:d;d=d<0.0001?0.0001:d;var a=document.cookie.match(/BAIDUID=(\w*):/);if(a){b=parseInt(a[1].slice(-4),16);b=isNaN(b)?0:b}if(d<=0.5){e=(b%(parseInt(1/d))==1)}else{e=(b%(parseInt(1/(1-d)))!=1)}return e};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("lt")},false)}else{window.addEventListener("load",function(){PDC.mark("let");PDC._load_analyzer()})}})();</script>

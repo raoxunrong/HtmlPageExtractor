@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type"/>
+<meta content="IE=7" http-equiv="X-UA-Compatible"/>
+<link href="http://img.baidu.com/img/baike/wap/iphone4_logo.png" rel="apple-touch-icon"/>
+<title>www_百度百科</title>
+<script>var PDC={_version:"0.1",_render_start:new Date().getTime(),_analyzer:{loaded:false,url:"http://static.tieba.baidu.com/tb/pms/wpo.pda.js?v=0.1",callbacks:[]},_opt:{is_login:false,sample:0,product_id:0,page_id:0,common_resources:[],special_resources:[]},_timing:{},init:function(a){for(var b in a){this._opt[b]=a[b]}},mark:function(a){this._timing[a]=new Date().getTime()},view_start:function(){this.mark("vt")},tti:function(){this.mark("tti")},page_ready:function(){this.mark("fvt")},metadata:function(){var a=this._opt;var b={env:{user:(a.is_login==true?1:0),product_id:a.product_id,page_id:a.page_id},common_resources:a.common_resources,special_resources:a.special_resources,render_start:this._render_start,timing:this._timing};return b}};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("let");PDC._load_analyzer()})}else{window.addEventListener("load",function(){PDC.mark("lt")},false)}})();</script>
+<link href="http://baike.bdimg.com/static/common/css/view.css?@=9ylwgi" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/lemma/css/view.css?@=105rws3" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/css/liteoutput/bk.uc_lemma.css?@=2vcadoz" rel="stylesheet" type="text/css"/><link href="/guanxi/static/css/lemma_insert.css" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/view_top.js?@=22n4xph" type="text/javascript"></script><script src="http://baike.bdimg.com/static/lemma/js/init.js?@=de2co7" type="text/javascript"></script>
+</head>
+<script>PDC.mark("ht");(function(){var a=PDC.ready=function(){var g=false,f=[],c;if(document.addEventListener){c=function(){document.removeEventListener("DOMContentLoaded",c,false);d()}}else{if(document.attachEvent){c=function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",c);d()}}}}function d(){if(!d.isReady){d.isReady=true;for(var k=0,h=f.length;k<h;k++){f[k]()}}}function b(){try{document.documentElement.doScroll("left")}catch(h){setTimeout(b,1);return}d()}function e(){if(g){return}g=true;if(document.addEventListener){document.addEventListener("DOMContentLoaded",c,false);window.addEventListener("load",d,false)}else{if(document.attachEvent){document.attachEvent("onreadystatechange",c);window.attachEvent("onload",d);var h=false;try{h=window.frameElement==null}catch(i){}if(document.documentElement.doScroll&&h){b()}}}}e();return function(h){d.isReady?h():f.push(h)}}();a.isReady=false})();PDC.ready(function(){PDC.mark("drt")});PDC.mark("vt");</script>
+
+<body id="view">
+<div id="userbar">
+</div>
+<div id="wrap">
+<div id="header">
+<div id="search">
+<div id="logo">
+<a href="/"><img alt="到百科首页" border="0" class="nslog:1008" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" width="137"/></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/ns?fr=bk&amp;cl=2&amp;rn=20&amp;tn=news&amp;word=www" onmousedown="setHeadUrl(this)" wdfield="word">新闻</a><a href="http://www.baidu.com/s?fr=bk&amp;cl=3&amp;wd=www&amp;t=5" onmousedown="setHeadUrl(this)" wdfield="wd">网页</a><a href="http://tieba.baidu.com/f?fr=bk&amp;kw=www" onmousedown="setHeadUrl(this)" wdfield="kw">贴吧</a><a href="http://zhidao.baidu.com/q?fr=bk&amp;ct=17&amp;pn=0&amp;tn=ikaslist&amp;rn=10&amp;word=www" onmousedown="setHeadUrl(this)" wdfield="word">知道</a><a href="http://mp3.baidu.com/m?fr=bk&amp;tn=baidump3&amp;ct=134217728&amp;lm=-1&amp;word=www" onmousedown="setHeadUrl(this)" wdfield="word">MP3</a><a href="http://image.baidu.com/i?fr=bk&amp;tn=baiduimage&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;word=www" onmousedown="setHeadUrl(this)" wdfield="word">图片</a><a href="http://video.baidu.com/v?fr=bk&amp;ct=301989888&amp;rn=20&amp;pn=0&amp;db=0&amp;s=24&amp;word=www" onmousedown="setHeadUrl(this)" wdfield="word">视频</a><strong>百科</strong><a href="http://wenku.baidu.com/search?fr=bk&amp;word=www&amp;lm=0&amp;od=0" onmousedown="setHeadUrl(this)" wdfield="word">文库</a>
+</p>
+<form action="/searchword/" method="get" name="f1" target="_self">
+<input id="word" maxlength="400" name="word" tabindex="1" value="万维网"/>
+<input class="search-btn nslog:1010" onclick="document.f1.pic.value=1" tabindex="2" type="submit" value="进入词条"/><input class="search-btn nslog:1011" onclick="document.f1.pic.value=2" tabindex="3" type="submit" value="搜索词条"/>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a><a class="nslog:1013" href="#" onclick="setSug();return false">设置</a>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">/*<![CDATA[*/var baikeHeaderConf={sugProdName:"baike",searchInputId:baidu.g("word")||baidu.g("kw")};void function(A){var _={url:{}};_.url.escapeSymbol=function(_){return String(_).replace(/[#%&+=\/\\\ \\u3000\f\r\n\t]/g,function(_){return"%"+(256+_.charCodeAt()).toString(16).substring(1).toUpperCase();});};window.setHeadUrl=function(B){B.href=B.href.replace(new RegExp("("+B.getAttribute("wdfield")+"=)[^&]*"),"$1"+_.url.escapeSymbol(A.value));};}(baikeHeaderConf.searchInputId);/*]]>*/</script>
+</div><div class="nslog-area" data-nslog-type="1000" id="path">
+
+<ul class="nav f14 clearfix">    
+            <li class="home"><a href="/">首页</a></li>
+                <li><a href="/ziran/">自然</a></li>
+                 <li><a href="/wenhua/">文化</a></li>
+                 <li><a href="/dili/">地理</a></li>
+                 <li><a href="/lishi/">历史</a></li>
+                 <li><a href="/shenghuo/">生活</a></li>
+                 <li><a href="/shehui/">社会</a></li>
+                 <li><a href="/yishu/">艺术</a></li>
+                 <li><a href="/renwu/">人物</a></li>
+                 <li><a href="/jingji/">经济</a></li>
+                 <li><a href="/kexue/">科技</a></li>
+                 <li><a href="/tiyu/">体育</a></li>
+                 <li><a href="/tupian/">图片</a></li>
+             <li>          <a href="http://baike.baidu.com/museum/ " target="_blank" onclick="nslog(location.href,3020);">数字博物馆</a></li>
+     <li>          <a href="http://baike.baidu.com/cms/s/core/index.html" target="_blank" onclick="nslog(location.href,3021);">核心用户</a></li>
+                 <li><a href="/mall/">百科商城</a></li>
+          <style type="text/css" compress>
+#path ul.nav li,ul.nav li{
+position:relative;
+}
+.nav{overflow:visible;position:relative;}
+div.nav-channel-hot{
+ _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img.baidu.com/img/baike/icons/hot.png");
+ background:url("http://img.baidu.com/img/baike/icons/hot.png") no-repeat scroll 0 0 transparent;
+_background:none;
+ height:15px;
+ position:absolute;
+ width: 24px;
+ top: -7px;
+ right:7px
+}
+
+#path .nav li{padding-right:12px !important;}
+
+</style> 
+</ul>
+<script type="text/javascript" >
+   baidu.dom.ready( function(){
+                          baidu.page.loadJsFile('http://baike.baidu.com/cms/s/banner/tmpact.js?t=20110201');
+              nslog(location.href, 5102);
+                                       });
+</script>
+
+
+</div>
+</div>
+<div id="page">
+<script>if(typeof PDC!="undefined"){PDC.view_start();}</script><div class="layout grid-m0s245 w1000" id="content-wrap">
+<div class="col-main article" id="content">
+<div class="main-wrap main-shadow">
+<div class="content-hd">
+<div class="content-hd-wrap"></div>
+</div>
+<div class="content-bd main-body">
+<div class="view-tip-pannel clearfix log-set-param" log-set-param="viewtip:synstd">
+<p><a class="viewtip-icon viewtip-synstd"></a>
+<a class="nslog:1014" href="/history/id=9333802" target="_blank">万维网</a>和www是<a class="nslog:1015" href="http://www.baidu.com/search/baike_help.html#同义词" target="_blank" title="什么是同义词">同义词</a>，已合并。
+</p>
+</div>
+<div class="text" id="sec-content0">
+<div class="bk-editable-lemma-btns">
+<a class="tpldivide-lemma lemma-top-link" hidefocus="true" href="/tpldivideload?lemmaId=1453" id="tmpdivide" style="display:none;margin-right:14px" target="_blank"></a>
+<a class="dividable-lemma lemma-top-link" data-edit-id="1453" hidefocus="true" href="/divideload?lemmaid=1453" id="polyin" style="display:none">拆分词条</a>
+<span class="editable-lemma " data-edit-id="1453"></span>
+<span style="height:100%"></span>
+</div>
+<h1 class="title">www</h1>
+<script type="text/javascript">/*<![CDATA[*/var hash=window.location.hash.match(/^#sub(\d+)/);bk.view.hash=hash&&hash[1];hash=null;bk.view.expFlag=false;baikeViewInfo={id:"1453",editable:"true",title:"www",expIndex:"0",subLen:"1",isMulit:false};/*]]>*/</script>
+<div class="clear"></div>
+<div class="mod-top">
+<h4 class="card-title">百科名片</h4>
+<div class="card-summary nslog-area" data-nslog-type="72">
+<div class="pic" id="cardpic0">
+<a hidefocus="true" href="/albums/1453/1453.html#0$62667cd04fa5f1bfa1ec9c7c" target="_blank">
+<img alt="web图标" class="card-image editorImg" onerror="this.parentNode.parentNode.style.width=&#34;150px&#34;" onload="tools.image.sizelimit(this,200,200);var _=this.parentNode.parentNode;_.style.width=this.width+&#34;px&#34;;baidu.dom.last(_).innerHTML=&#34;web图标&#34;" src="http://imgsrc.baidu.com/baike/abpic/item/62667cd04fa5f1bfa1ec9c7c.jpg" title="web图标"/>
+</a>
+<a class="card-pic-handle" href="/albums/1453/1453.html#0$62667cd04fa5f1bfa1ec9c7c" target="_blank" title="查看图片">&#160;&#160;</a>
+<div></div>
+</div>
+<div class="card-summary-content">
+<p>
+WWW是<a target=_blank href=/view/1269609.htm>环球信息网</a>（World Wide Web ）的缩写，也可以简称为Web，中文名字为“<a target=_blank href=/view/7833.htm>万维网</a>”。另外，www也是世界气象监视网的英文简称。</p>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<fieldset class="text_dir nslog-area" data-nslog-type="1016" data-subindex="0" id="catalog-0">
+<p>目录</p>
+<dl class="holder1" id="catalog-holder-0">
+<dd><a href=#1 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">产品及服务</a><ol><li><a href="#1_1">www 英文名</a></li><li><a href="#1_2">简介</a></li></ol></dd><dd><a href=#2 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">发展简史</a></dd><dd><a href=#3 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">万维网和其他超文本系统的不同之处</a></dd><dd><a href=#4 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">万维网-基本术语</a><ol><li><a href="#4_1">英文名称</a></li><li><a href="#4_2">中文名称</a></li></ol></dd><dd><a href=#5 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">组成</a><ol><li><a href="#5_1">工作原理</a></li><li><a href="#5_2">工作流程</a></li></ol></dd><dd><a href=#6 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">管理团队</a><ol><li><a href="#6_1">构成</a></li><li><a href="#6_2">URL</a></li><li><a href="#6_3">HTTP</a></li><li><a href="#6_4">HTML</a></li><li><a href="#6_5">W3C领导人</a></li></ol></dd><dd><a href=#7 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">社会影响</a></dd><dd><a href=#8 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">相关轶事</a><ol><li><a href="#8_1">迟到的奖赏</a></li><li><a href="#8_2">1989协作中商业价值很大</a></li></ol></dd><dd><a href=#9 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">企业文化</a><ol><li><a href="#9_1">谈“因特网”和“互联网”的区别</a></li><li><a href="#9_2">WWW，万维网，TTT —— 近乎完美的对译</a></li></ol></dd><dd><a href=#10 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">麻烦问题</a></dd><dd><a href=#11 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">WWW常见问题</a></dd></dl>
+<dl class="holder2" id="catalog-holder-2-0"></dl>
+</fieldset>
+<div class="clear"></div>
+<script type="text/javascript">bk.view.catalog().start("0");</script>
+<div class="lemma-main-content" id="lemmaContent-0">
+　　<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1453/1453.html#0$4a77b2af176a8adf7dd92a6f" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="" src=http://imgsrc.baidu.com/baike/abpic/item/4a77b2af176a8adf7dd92a6f.jpg /></a><p class="pic-info"></p></div><div class="bpctrl"></div><h2 class="headline-1 first bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:1"></span><a name="1"></a><span class="headline-content">产品及服务</span></h2><h3 class="headline-2 bk-sidecatalog-title"><a name="1_1"></a><span class="headline-content">www 英文名</span></h3>　　World Wide Web。<h3 class="headline-2 bk-sidecatalog-title"><a name="1_2"></a><span class="headline-content">简介</span></h3>　　万维网（亦作“网络”、“WWW”、“3W”，英文“<a target=_blank href=/view/3912.htm>Web</a>”或“World Wide Web”），是一个资料空间。在这个空间中：一样有用的事物，称为一样“资源”；并且由一个全域“统一资源标识符”（<a target=_blank href=/view/1496.htm>URL</a>）标识。这些资源通过<a target=_blank href=/view/468465.htm>超文本传输协议</a>(Hypertext Transfer Protocol）传送给使用者，而后者通过点击链接来获得资源。从另一个观点来看，万维网是一个透过网络存取的互连超文件(interlinked hypertext document）系统。万维网联盟（World Wide Web Consortium，简称<a target=_blank href=/view/7913.htm>W3C</a>），又称W3C理事会。1994年10月在拥有“世界理工大学之最”称号的<a target=_blank href=/view/1935.htm>麻省理工学院</a>(MIT）计算机科学实验室成立。建立者是万维网的发明者<a target=_blank href=/view/1232221.htm>蒂姆·伯纳斯·李</a>。
+<div class="spctrl"></div>　　万维网常被当成因特网的同义词，不过其实万维网是靠着因特网运行的一项服务。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:2"></span><a name="2"></a><span class="headline-content">发展简史</span></h2>　　<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1453/1453.html#0$b3ba5d16f613c75020a4e9e9" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="200px-First_Web_Server.jpg" src=http://imgsrc.baidu.com/baike/abpic/item/b3ba5d16f613c75020a4e9e9.jpg /></a><p class="pic-info">200px-First_Web_Server.jpg</p></div>最早的网络构想可以追溯到遥远的1980年蒂姆·伯纳斯-李构建的ENQUIRE项目。这是一个类似<a target=_blank href=/view/1245.htm>维基百科</a>的超文本在线编辑数据库。尽管这与我们现在使用的万维网大不相同，但是它们有许多相同的核心思想，甚至还包括一些伯纳斯－李的万维网之后的下一个项目语义网中的构想。
+<div class="spctrl"></div>　　1989年3月，伯纳斯－李撰写了《关于信息化管理的建议》一文，文中提及 ENQUIRE 并且描述了一个更加精巧的管理模型。1990年11月12日他和<a target=_blank href=/view/4678773.htm>罗伯特·卡里奥</a>（Robert Cailliau）合作提出了一个更加正式的关于万维网的建议。在1990年11月13日他在一台NeXT工作站上写了第一个网页以实现他文中的想法。
+<div class="spctrl"></div>　　在那年的圣诞假期，伯纳斯－李制作了要一个网络工作所必须的所有工具&#91;6&#93;：第一个万维网浏览器（同时也是<a target=_blank href=/view/499644.htm>编辑器</a>）和第一个网页服务器。
+<div class="spctrl"></div>　　1991年8月6日，他在alt.hypertext新闻组上贴了万维网项目简介的文章。这一天也标志着因特网上万维网公共服务的首次亮相。
+<div class="spctrl"></div>　　<a target=_blank href=/view/7833.htm>万维网</a>中至关重要的概念超文本起源于1960年代的几个从前的项目。譬如泰德·尼尔森（Ted Nelson）的仙那都项目（Project Xanadu）和道格拉斯·英格巴特（Douglas Engelbart）的NLS。而这两个项目的灵感都是来源于<a target=_blank href=/view/484634.htm>万尼瓦尔·布什</a>在其1945年的论文《和我们想得一样》中为微缩胶片设计的“记忆延伸”（memex）系统。
+<div class="spctrl"></div>　　蒂姆·伯纳斯·李的另一个才华横溢的突破是将超文本嫁接到因特网上。在他的书《编织网络》中，他解释说他曾一再向这两种技术的使用者们建议它们的结合是可行的，但是却没有任何人响应他的建议，他最后只好自己解决了这个计划。他发明了一个全球<a target=_blank href=/view/21050.htm>网络资源</a>唯一认证的系统：统一资源标识符。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:3"></span><a name="3"></a><span class="headline-content">万维网和其他超文本系统的不同之处</span></h2>　　万维网上需要单项连接而不是双向连接，这使得任何人可以在资源拥有者不作任何行动情况下链接该资源。和早期的网络系统相比，这一点对于减少实现<a target=_blank href=/view/813.htm>网络服务器</a>和网络浏览器的困难至关重要，但它的副作用是产生了坏链的慢性问题。
+<div class="spctrl"></div>　　万维网不像某些<a target=_blank href=/view/7886.htm>应用软件</a>如HyperCard，它不是私有的，这使得服务器和<a target=_blank href=/view/930.htm>客户端</a>能够独立地发展和扩展，而不受许可限制。
+<div class="spctrl"></div>　　1993年4月30日，<a target=_blank href=/view/1587404.htm>欧洲核子研究组织</a>宣布万维网对任何人免费开放，并不收取任何费用。两个月之后Gopher宣布不再免费，造成大量用户从Gopher转向万维网。万维网联盟（World Wide Web Consortium，简称W3C），又称W3C理事会。1994年10月在麻省理工学院计算机科学实验室成立。建立者是万维网的发明者蒂姆·伯纳斯·李。
+<div class="spctrl"></div>　　20世纪40年代以来人们就梦想能拥有一个世界性的信息库。在这个数据库中数据不仅能被全球的人们存取，而且应该能轻松地链接其它地方的信息，以便用户可以方便快捷地获得重要的信息。它引发了第五次<a target=_blank href=/view/737000.htm>信息革命</a>。
+<div class="spctrl"></div>　　随着科学技术的迅猛<a target=_blank href=/view/141536.htm>发展</a>，人们的这个梦想已经变成了现实。目前正在使用的最流行的系统叫&quot;环球信息网WWW&quot;(World Wide Web）。它的正式定义是&quot;WWW is a wide-area hypermedia information retrieval initiative to give universal access to large universe of documents.&quot;简而言之，WWW是一个以Internet为基础的<a target=_blank href=/view/25482.htm>计算机网络</a>，它允许用户在一台计算机通过Internet存取另一台计算机上的信息。从技术角度上说，环球信息网是Internet上那些支持WWW协议和超文本传输协议HTTP(Hyper Text Transport Protocol）的客户机与服务器的集合，透过它可以存取世界各地的<a target=_blank href=/view/97038.htm>超媒体</a>文件，内容包括文字、图形、声音、动画、资料库、以及各式各样的<a target=_blank href=/view/37.htm>软件</a>。
+<div class="spctrl"></div>　　理论上说来，环球信息网包括整个两亿人以上的Internet世界，它包含所有的Web站点、Gopher信息站、FTP档案库、Telnet公共存取帐号、News新闻讨论区以及Wais资料库。所以环球信息网可以说是当今全世界最大的电子资料世界，已经可以把World Wide Web当成是Internet 的同义词了。事实上，一般我们日常所说的&quot;上Internet&quot;，其实指的就是连上World Wide Web。WWW是World Wide Web （环球信息网）的缩写，也可以简称为Web，中文名字为“万维网”。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:4"></span><a name="4"></a><span class="headline-content">万维网-基本术语</span></h2>　　超文本（Hypertext）是由一个叫做<a target=_blank href=/view/828.htm>网页</a>浏览器（Web browser）的程序显示。网页浏览器从网页服务器取回称为“文档”或“网页”的信息并显示。通常是显示在计算机显示器。人可以跟随网页上的超链接（Hyperlink），再取回文件，甚至也可以送出数据给服务器。顺着超链接走的行为又叫浏览网页。相关的数据通常排成一群网页，又叫网站。<h3 class="headline-2 bk-sidecatalog-title"><a name="4_1"></a><span class="headline-content">英文名称</span></h3>　　英文短语“surfing the Internet”（“网上冲浪”），即浏览网络，首先由一个叫简·阿莫尔·泡利（Jean Armour Polly）的作家通过他的作品《网上冲浪》使这个概念被大众接受。这本书由<a target=_blank href=/view/62880.htm>威尔逊</a>出版社在1992年6月正式出版。她可能是独立提出这个概念的，但在更早的1991年到1992年间在Usenet就有人使用了。有人记得在这两年之前就有一些黑客使用这个词了。泡利在互联网领域有时被称作“<a target=_blank href=/view/989605.htm>网络妈妈</a>”（NetMom）。
+<div class="spctrl"></div>　　尽管英文单词worldwide通常被写为一个词（没有空格或者连字符），全称World Wide Web 和其简称WWW现在在一些正规的英文中也被广泛使用。最早的文献谈到万维网称其为WorldWideWeb（这正是一个编程序的人喜欢连词字，即把几个词连在一起成一个新词的绝佳例子）或者World-Wide Web（加了连字符，这样这个版本的名字最接近正式的英语用法）。<h3 class="headline-2 bk-sidecatalog-title"><a name="4_2"></a><span class="headline-content">中文名称</span></h3>　　1994年6月，北美的<a target=_blank href=/view/61891.htm>中国</a>新闻计算机网络（China News Digest），即CND，在其电子出版物《华夏文摘》上将 World Wide Web 称为“万维网”，这样其中文名称汉语拼音也是以 WWW 开始。万维网这一名称后来被广泛采用。在中国<a target=_blank href=/view/2200.htm>台湾</a>，“全球资讯网”这一名称则是比较直接的意译。
+<div class="spctrl"></div>　　目前（指2009年），越来越多的公司开始使用万维网服务，提供万维网服务的公司一般称作域名主机服务商，比如<a target=_blank href=/view/4333564.htm>中国万维网</a>就是中国一家知名主机运营商，也是使用万维网的汉语拼音作为网站域名的。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:5"></span><a name="5"></a><span class="headline-content">组成</span></h2>　　<b>客户机　</b>客户机是一个需要某些东西的<a target=_blank href=/view/17674.htm>程序</a>，而<a target=_blank href=/view/899.htm>服务器</a>则是提供某些东西的程序。一个客户机可以向许多不同的服务器请求。一个服务器也可以向多个不同的客户机提供服务。通常情况下，一个客户机启动与某个服务器的对话。服务器通常是等待客户机请求的一个自动程序。客户机通常是作为某个用户请求或类似于用户的每个程序提出的请求而运行的。协议是客户机请求服务器和服务器如何应答请求的各种方法的定义。WWW客户机又可称为<a target=_blank href=/view/7718.htm>浏览器</a>。
+<div class="spctrl"></div>　　通常的环球信息网上的客户机主要包括：<a target=_blank href=/view/703.htm>IE</a>,<a target=_blank href=/view/3279.htm>Firefox</a>,safia,<a target=_blank href=/view/10019.htm>opera</a>等。
+<div class="spctrl"></div>　　在Web中，客户机的任务是：
+<div class="spctrl"></div>　　1.帮助你制作一个请求（通常在单击某个链接点时启动）。
+<div class="spctrl"></div>　　2.将你的请求发送给某个服务器。
+<div class="spctrl"></div>　　3.通过对直接图象适当解码，呈交<a target=_blank href=/view/692.htm>HTML</a>文档和传递各种文件给相应的&quot;观察器&quot;(Viewer），把请求所得的结果报告给你。
+<div class="spctrl"></div>　　一个观察器是一个可被WWW客户机调用而呈现特定类型文件的程序。当一个声音文件被你的WWW客户机查阅并下载时，它只能用某些程序（例如<a target=_blank href=/view/4821.htm>Windows</a>下的&quot;媒体播放器&quot;)来&quot;观察&quot;。
+<div class="spctrl"></div>　　通常WWW客户机不仅限于向Web服务器发出请求，还可以向其他服务器（例如<a target=_blank href=/view/32795.htm>Gopher</a>、<a target=_blank href=/view/369.htm>FTP</a>、<a target=_blank href=/view/14412.htm>news</a>、<a target=_blank href=/view/118321.htm>mail</a>）发出请求。
+<div class="spctrl"></div>　　<b>服务器　</b>1.接受请求
+<div class="spctrl"></div>　　2.请求的合法性检查，包括安全性屏蔽。
+<div class="spctrl"></div>　　3.针对请求获取并制作数据，包括<a target=_blank href=/view/29.htm>Java</a>脚本和程序、CGI脚本和程序、为文件设置适当的<a target=_blank href=/view/160611.htm>MIME</a>类型来对数据进行前期处理和后期处理。
+<div class="spctrl"></div>　　4审核信息的有效性。
+<div class="spctrl"></div>　　5把信息发送给提出请求的客户机。<h3 class="headline-2 bk-sidecatalog-title"><a name="5_1"></a><span class="headline-content">工作原理</span></h3>　　当你想进入万维网上一个网页，或者其他网络资源的时候，通常你要首先在你的浏览器上键入你想访问网页的<a target=_blank href=/view/245485.htm>统一资源定位符</a>（Uniform Resource Locator），缩写URL，或者通过<a target=_blank href=/view/743.htm>超链接</a>方式链接到那个网页或网络资源。这之后的工作首先是URL的服务器名部分，被名为<a target=_blank href=/view/124777.htm>域名系统</a>的分布于全球的因特网数据库解析，并根据解析结果决定进入哪一个<a target=_blank href=/view/3930.htm>IP地址</a>(<a target=_blank href=/view/8370.htm>IP </a>address）。
+<div class="spctrl"></div>　　接下来的步骤是为所要访问的网页，向在那个IP地址工作的服务器发送一个<a target=_blank href=/view/9472.htm>HTTP</a>请求。在通常情况下，HTML文本、图片和构成该网页的一切其他文件很快会被逐一请求并发送回用户。
+<div class="spctrl"></div>　　网络浏览器接下来的工作是把HTML、<a target=_blank href=/view/15916.htm>CSS</a>和其他接受到的文件所描述的内容，加上图像、链接和其他必须的资源，显示给用户。这些就构成了你所看到的“网页”。<h3 class="headline-2 bk-sidecatalog-title"><a name="5_2"></a><span class="headline-content">工作流程</span></h3>　　总体来说，WWW采用客户机/服务器的工作模式，工作流程具体如下：
+<div class="spctrl"></div>　　（1）用户使用浏览器或其他程序建立客户机与服务器连接，并发送浏览请求。
+<div class="spctrl"></div>　　（2）Web服务器接收到请求后，返回信息到客户机。
+<div class="spctrl"></div>　　（3）通信完成，关闭连接。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:6"></span><a name="6"></a><span class="headline-content">管理团队</span></h2><h3 class="headline-2 bk-sidecatalog-title"><a name="6_1"></a><span class="headline-content">构成</span></h3>　　万维网的内核部分是由三个标准构成的：URL/HTTP/HTML<h3 class="headline-2 bk-sidecatalog-title"><a name="6_2"></a><span class="headline-content">URL</span></h3>　　统一资源标识符（URL），这是一个世界通用的负责给万维网上例如网页这样的资源定位的系统。<h3 class="headline-2 bk-sidecatalog-title"><a name="6_3"></a><span class="headline-content">HTTP</span></h3>　　<a target=_blank href=/view/1628025.htm>超文本传送协议</a>（HTTP），它负责规定浏览器和服务器怎样互相交流。<h3 class="headline-2 bk-sidecatalog-title"><a name="6_4"></a><span class="headline-content">HTML</span></h3>　　<a target=_blank href=/view/383720.htm>超文本标记语言</a>（HTML），作用是定义<a target=_blank href=/view/156868.htm>超文本</a>文档的结构和格式。<h3 class="headline-2 bk-sidecatalog-title"><a name="6_5"></a><span class="headline-content">W3C领导人</span></h3>　　蒂姆·伯纳斯·李现在是<a target=_blank href=/view/80669.htm>万维网联盟</a>（W3C）的<a target=_blank href=/view/1189795.htm>领导人</a>，这个组织的作用是使计算机能够在万维网上不同形式的信息间更有效的储存和通信。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:7"></span><a name="7"></a><span class="headline-content">社会影响</span></h2>　　今天，万维网使得全世界的人们以史无前例的巨大规模相互交流。相距遥远的人们，甚至是不同年代的人们可以通过<a target=_blank href=/view/1227765.htm>网络发展</a>亲密的关系或者使彼此思想境界得到升华，甚至改变他们对待小事的态度以及精神。情感经历、政治观点、文化习惯、表达方式、商业建议、艺术、摄影、文学都可以以人类历史上从来没有过的低投入实现数据共享。尽管使用万维网仍然要依靠于存在自身缺陷的物化的工具，但至少它的信息保存方式不是使用人们熟悉的方式如图书馆、出版物那样实在的东西。因此信息传播是经由万维网和英特网来实现，而无须被搬运具体的书卷，或者手工的或实物的复制而限制。而且数字储存方式的优点是，你可以比查阅图书馆或者实在的书籍更容易有效率地查询网络上的信息资源。而且你可以比通过事必躬亲地去找，或通过邮件、电话、电报或者其他通讯方式来找，更加快速地获得信息。
+<div class="spctrl"></div>　　万维网是人类历史上最深远、最广泛的传播媒介。它可以使它的用户可以和分散于这个行星上不同时空的其他人群相互联系，其人数远远超过通过具体接触或其他所有已经存在的通讯媒介的总和所能达到的数目。
+<div class="spctrl"></div>　　由于万维网是全世界性的，有些人认为它将培养人们全球范围的相互理解。万维网可能培育人们的相互同情和合作，但是也有可能煽动全球范围的敌意，甚至给那些善于煽动人们偏激情绪的政客和压制人民的政权以人类历史上从未有过的强大力量。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:8"></span><a name="8"></a><span class="headline-content">相关轶事</span></h2><h3 class="headline-2 bk-sidecatalog-title"><a name="8_1"></a><span class="headline-content">迟到的奖赏</span></h3>　　1989年的时候，如果蒂姆<b>·</b>伯纳斯<b>·</b>李为自己发明的万维网<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1453/1453.html#0$9c57e3fa12d04d92b58f316b" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="蒂姆·伯纳斯·李" src=http://imgsrc.baidu.com/baike/abpic/item/9c57e3fa12d04d92b58f316b.jpg /></a><p class="pic-info">蒂姆·伯纳斯·李</p></div>申请了知识产权，那么如今的<a target=_blank href=/view/6825.htm>互联网</a>世界将完全是另外一个模样。
+<div class="spctrl"></div>　　天下真有免费的午餐。蒂姆将自己的发明无私地奉献给了全世界，分文未取。他给无数人创造了暴富的平台，自己却一直苦于无钱修厨房。
+<div class="spctrl"></div>　　不过，有人却借机发了大财。比如Amazon.com的创办人杰夫·比佐斯，Yahoo的创始人<a target=_blank href=/view/38446.htm>杨致远</a>，Netscape的创始人<a target=_blank href=/view/645958.htm>马克·安德森</a>。
+<div class="spctrl"></div>　　1989年蒂姆将自己的发明公布于众之后不久，网络公司便风起云涌。一夜之间，一批富翁呱呱坠地，宣告诞生。“万维网之父”却依然坚持着自己清贫的科研工作。
+<div class="spctrl"></div>　　2004年“<a target=_blank href=/view/1659176.htm>千年技术奖</a>”众望所归的首位得主
+<div class="spctrl"></div>　　2004年4月15日，在<a target=_blank href=/view/20509.htm>芬兰</a>埃斯波市的一个仪式上，芬兰技术奖基金会指定现年49岁的蒂姆.伯纳斯.李为“千年技术奖”这一全球最大的技术类奖的首位获得者，并颁发给他100万欧元的奖金。别人都是实至名归，蒂姆15年后才名至实归。
+<div class="spctrl"></div>　　“这的确是个惊喜，”蒂姆说，“但金钱还不至于令我疯狂。100万欧元的奖金我得妥善分配。我家住郊区，子女上学不方便，另外，妻子总在抱怨，说我们该修修厨房了。” 
+<div class="spctrl"></div>　　1989年，在<a target=_blank href=/view/98395.htm>欧洲粒子物理研究所</a>工作的蒂姆出于高能物理研究的需要发明了万维网。4年后，美国网景公司推出了万维网产品，顿时风靡全世界。万维网的诞生给全球信息的交流和传播带来了革命性的变化，一举打开了人们获取信息的方便之门。
+<div class="spctrl"></div>　　当芬兰技术奖励基金会今年4月决定将新创立的“千年技术奖”的100万欧元的奖金发给蒂姆的时候，许多人都觉得他是当之无愧的获奖者。
+<div class="spctrl"></div>　　“千年技术奖”评选委员会的主席佩卡·塔亚内将蒂姆的获奖称之为“众望所归”。评委会8名成员在全部78位候选人当中，一致推举蒂姆为“千年技术奖”的首位获奖人。
+<div class="spctrl"></div>　　互联网世界的仓颉 在互联网的发展史中，有许多“之父”，比如<a target=_blank href=/view/8409.htm>E-mail</a>的发明者雷<b>·</b><a target=_blank href=/view/621787.htm>汤姆林森</a>，发明了将不同计算机网络互联和互动系统的维顿·瑟夫和<a target=_blank href=/view/2020429.htm>罗伯特·卡恩</a>。但只有蒂姆发明了World Wide web。
+<div class="spctrl"></div>　　在他之前，没有浏览器，没有“WWW”，网络世界一片空白。如果当初为谋取个人利益，将自己的WWW设想乃至后来的万维网申请知识产权和专利，如今的互联网世界将不可想象。蒂姆假想说：“那样的话，世界上至少会有16种不同的Web，有CERN网，有微软网，有<a target=_blank href=/view/2028368.htm>苹果网</a>……。” 
+<div class="spctrl"></div>　　很多人说蒂姆太傻，放弃了成为超级富翁的机会，但蒂姆不这么想，他认为对软件的专利保护已经危及推动<a target=_blank href=/view/1444237.htm>互联网技术</a>发展的核心精神。“问题是，如果有人正在写某个程序，这时后边来了一个人，瞥了两眼就说‘喂，不好意思，你写的程序里从35句到42句我已经申请了专利’。这无疑伤害了科学技术的发展。如果你认为计算机能做到某件事，就要把这种想法写成计算机程序从而实现它。这就是许多伟大的技术发展的灵魂所在……”<h3 class="headline-2 bk-sidecatalog-title"><a name="8_2"></a><span class="headline-content">1989协作中商业价值很大</span></h3>　　回忆起当年自己发明创造，蒂姆谦虚地说：“它的发现不是源于‘尤里卡’式的瞬间灵感，也不像落到<a target=_blank href=/view/1511.htm>牛顿</a>头上证明了重力概念的苹果。相反，人们逐渐认识到，不拘一格地把各种主意结成一张网（即web），能产生力量。网的诞生是对一种公开挑战的回应。” 
+<div class="spctrl"></div>　　“在超文本和计算机诞生后，我正好时间充裕，又不乏兴趣和爱好。落在我头上的任务就是把它们有机地结合起来。” 
+<div class="spctrl"></div>　　有人曾经问蒂姆：“你认为网上的商业活动和你最初的‘通过共享知识和互相协调实现联系’的动机有没有可能找到平衡点？” 
+<div class="spctrl"></div>　　蒂姆说：“没有必要为这种平衡下定义。在平衡状态下，当商用业务量增长时，协作性业务量就会下降，但它们并非在互相竞争。实际上，协作的商业价值更大。学会使用网络来更好地协同工作的公司也许就是最终胜出的公司。” 
+<div class="spctrl"></div>　　也许，在别人看来，蒂姆的一切举动都超凡脱俗。而在蒂姆眼里，生活就要顺其自然。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:9"></span><a name="9"></a><span class="headline-content">企业文化</span></h2><h3 class="headline-2 bk-sidecatalog-title"><a name="9_1"></a><span class="headline-content">谈“因特网”和“互联网”的区别</span></h3>　　准确的说，万维网、互联网、因特网之间是有区别的。
+<div class="spctrl"></div>　　在《谈电脑和网络术语中一物多名现象》一文中，提到了“因特网”的定名问题。但事实上现在“互联网”一词仍在使用。是不是这两个名称在使用时完全没有区别，抑或是指的是两个不同的概念？答案肯定后者。要回答这个问题，必须先回顾一下因特网的历史。
+<div class="spctrl"></div>　　因特网于1969年诞生于<a target=_blank href=/view/2398.htm>美国</a>。最初名为“阿帕网”（ARPAnet）是一个军用研究系统，后来又成为连接大学及高等院校计算机的学术系统，现在则已发展成为一个覆盖五大洲150多个国家的开放型全球<a target=_blank href=/view/541460.htm>计算机网络系统</a>，拥有许多服务商。普通电脑用户只需要一台个人计算机用电话线通过调制解调器和因特网服务商连接，便可进入因特网。但因特网并不是全球唯一的互联网络。例如在<a target=_blank href=/view/3622.htm>欧洲</a>，跨国的互联网络就有“欧盟网”（Euronet），“欧洲学术与研究网”（EARN），“欧洲信息网”（EIN），在美国还有“国际学术网”（BITNET），世界范围的还有“飞多网”（全球性的<a target=_blank href=/view/66.htm>BBS</a>系统）等。
+<div class="spctrl"></div>　　了解了以上情况，我们就可以知道大写的“Internet”（世界语为“Interreto”）和小写的“internet”（世界语为“interreto”）所指的对象是不同的。当我们所说的是上文谈到的那个全球最大的的也就是我们通常所使用的互联网络时，我们就称它为“因特网”或称为“国际互联网”，虽然后一个名称并不规范。在这里，“因特网”是作为专有名词出现的，因而开头字母必须大写。但如果作为普通名词使用，即开头字母小写的“internet”（“interreto”），则泛指由多个计算机网络相互连接而成一个大型网络。按全国科学技术审定委员会的审定，这样的网络系统可以通称为“互联网”。这就是说，因特网和其他类似的由计算机相互连接而成的大型网络系统，都可算是“互联网”，因特网只是互联网中最大的一个。《<a target=_blank href=/view/98457.htm>现代汉语词典</a>》2002年增补本对“互联网”和“因特网”所下的定义分别是“指由若干电子机网络相互连接而成的网络”和“目前全球最大的一个电子计算机互联网，是由美国的ARPA网发展演变而来的”。
+<div class="spctrl"></div>　　因特网作为专有名词，在使用时除了第一个字母要大写之外，通常在它的前面还要加冠词la，（即la Interreto），而且还可以简称为“la Reto”。<h3 class="headline-2 bk-sidecatalog-title"><a name="9_2"></a><span class="headline-content">WWW，万维网，TTT —— 近乎完美的对译</span></h3>　　凡是上网的人，谁不知道“WWW”的重要作用？要输入网址，首先得打出这三个字母来。这三个字母，就是英语的“World Wide Web”首字母的缩写形式。“WWW”在中国曾被译为“<a target=_blank href=/view/423158.htm>环球网</a>”、“环球信息网”、“超媒体环球信息网”等，最后经<a target=_blank href=/view/1490464.htm>全国科学技术名词审定委员会</a>定译为“万维网”。国柱先生在《胡说集》《妙译WWW》一文中，对它的汉语对译词“万维网”（Wan Wei Wang）大加赞赏，这是毫不过分的。“万维网”这个近乎完美的对译词妙就妙在传意、传形、更传神，真是神来之译！ 
+<div class="spctrl"></div>　　无独有偶，“WWW”的世界语的对译词“TTT”，也是由三个相同字母组成的，译得也令人叫绝。“TTT”是世界语的“Tut-Tera Teksa o”首字母缩写。据<a target=_blank href=/view/2403.htm>俄罗斯</a>世界语者Sergio Pokrovskij编写的《Komputada leksikono》（计算机专业词汇）上的资料，“WWW”最初的对译形式是“Tutmonda Tekso”，就在这一译名出现的当天，即1994年8月5日，便立即有人在网上建议改为“Tut-Tera Tekso”，8天后，也就是8月13日，才经另一人根据一位匿名者的提议，定译为“Tut-Tera Teksa o”（字面义为“全球网”）。这个译名的缩写TTT，形式整齐，语义完全吻合，好读、好记、好写。这是集体智慧的创造。它也雄辩地证明了世界语的表现力是很强大、很灵活、很有适应力的，比起汉语和英语来并不逊色（请比较一下WWW的<a target=_blank href=/view/35595.htm>法语</a>对译词“Forum elektronique mondial”和西班牙语对译词“Telarana Mundial”，它们的缩写形式分别是“FEM”和“TM”）。写到这里我不由得又想起中国近代翻译大师<a target=_blank href=/view/1995.htm>严复</a>先生的一句名言：“一名之立，旬月踟蹰”。一个好的译名只有在译者，有时甚至数位译者，长时间搜肠刮肚、苦苦思索后才能产生出来。
+<div class="spctrl"></div>　　万维网是无数个<a target=_blank href=/view/1473729.htm>网络站点</a>和网页的集合，它们在一起构成了因特网最主要的部分（因特网也包括<a target=_blank href=/view/1524.htm>电子邮件</a>、Usenet以及新闻组）。它实际上是多媒体的集合，是由<a target=_blank href=/view/15703.htm>超级链接</a>连接而成的。我们通常通过网络浏览器上网观看的，就是万维网的内容。关于万维网以及浏览万维网的一些世界语术语，我将在以后所发的帖子中陆续作些介绍。
+<div class="spctrl"></div>　　Internet是一个把分布于世界各地不同结构的计算机网络用各种传输介质互相连接起来的网络。因此，有人称之为网络的网络，中文译名为因特网、英特网、国际互联网等。Internet提供的主要服务有万维网（WWW）、<a target=_blank href=/view/543341.htm>文件传输</a>（FTP）、电子邮件（E-mail）、远程登录（Telnet）、手机 (3GHZ) 等。
+<div class="spctrl"></div>　　WWW(World Wide Web）简称3W，有时也叫Web，中文译名为万维网，环球信息网等。WWW由欧洲核物理研究中心（CERN）研制，其目的是为全球范围的科学家利用Internet进行方便地通信，信息交流和信息查询。
+<div class="spctrl"></div>　　WWW是建立在客户机/服务器模型之上的。WWW是以超文本标注语言HTML(Hyper Markup Language）与超文本传输协议HTTP(Hyper Text Transfer Protocol）为基础。能够提供面向<a target=_blank href=/view/1326829.htm>Internet服务</a>的、一致的用户界面的信息浏览系统。其中WWW服务器采用超文本链路来链接信息页，这些信息页既可放置在同一主机上，也可放置在不同地理位置的主机上；本链路由<a target=_blank href=/view/422160.htm>统一资源定位器</a>(URL）维持，WWW客户端软件（即WWW浏览器）负责信息显示与向服务器发送请求。
+<div class="spctrl"></div>　　Internet采用超文本和超媒体的信息组织方式，将信息的链接扩展到整个Internet上。目前，用户利用WWW不仅能访问到Web Server的信息，而且可以访问到FTP、Telnet等网络服务。因此，它已经成为Internet 上应用最广和最有前途的访问工具，并在商业范围内日益发挥着越来越重要的作用。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:10"></span><a name="10"></a><span class="headline-content">麻烦问题</span></h2>　　由于<a target=_blank href=/view/1706.htm>因特网</a>的基础结构的缺陷，造成的堵塞问题和显现为浏览速度的减慢的延迟，经常让人很烦。结果是有人要给万维网改成 <i>World Wide Wait</i>（全球等）。利用<a target=_blank href=/view/451823.htm>点对点技术</a>和<a target=_blank href=/view/522662.htm>服务质量</a>来提高因特网的速度的讨论一直在进行。其他解决方案也可以在W3C的网站上找到。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1453:1453:11"></span><a name="11"></a><span class="headline-content">WWW常见问题</span></h2>　　<b>1. WWW是什么?</b>
+<div class="spctrl"></div>　　答： WWW是World Wide Web的缩写，中文称为&quot;万维网&quot;,&quot;环球网&quot;等，常简称为Web. 分为Web客户端和Web服务器程序. WWW可以让Web客户端（常用浏览器）访问浏览Web服务器上的页面.
+<div class="spctrl"></div>　　<b>2. WWW有什么作用?</b>
+<div class="spctrl"></div>　　答： WWW提供丰富的文本和图形，音频，视频等多媒体信息，并将这些内容集合在一起，并提供导航功能，使得用户可以方便地在各个页面之间进行浏览. 由于WWW内容丰富，浏览方便，目前已经成为互联网最重要的服务.
+<div class="spctrl"></div>　　<b>3. HTTP是什么?有什么作用?</b>
+<div class="spctrl"></div>　　答： HTTP是Hypertext Transfer Protocol的缩写，即超文本传输协议. 顾名思义，HTTP提供了访问超文本信息的功能. WWW使用HTTP协议传输各种超文本页面和数据.
+<div class="spctrl"></div>　　<b>4. GET命令的作用是什么?</b>
+<div class="spctrl"></div>　　答： HTTP协议使用GET命令向Web服务器传输参数，获取服务器上的数据. 类似的命令还有POST命令.
+<div class="spctrl"></div>　　<b>5. 为何有时无法成功建立WWW连接? 如何解决?</b>
+<div class="spctrl"></div>　　答： 如果服务器不在80号端口，而在其它端口 （例如8080) 等待用户连接，此时WWW将失败，客户端需要更改连接的端口。
+<div class="spctrl"></div>　　另外，有些机构的网关具有网址过滤功能以禁止访问某些网站，会导致失败。此时可以试用代理服务器去访问被禁止的网站.
+<div class="spctrl"></div>　　<b>6. HTTP是明文传送的，具有安全隐患，请问该怎么办?</b>
+<div class="spctrl"></div>　　答： HTTP将用户的数据，包括用户名和密码都明文传送，具有安全隐患，容易被窃听到，对于具有敏感数据的传送，可以使用具有保密功能的HTTPS(Secure Hypertext Transfer Protocol）协议.<div class="bpctrl" style="clear:both"></div><div class="clear"></div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">(function(){window.rsInsertData=window.rsInsertData||[];rsInsertData.push([1453,[]]);})();</script>
+<div class="reinforce" id="lemmaExtend">
+<script type="text/javascript"></script><dl class="nslog-area log-set-param" data-nslog-type="19" id="viewExtCati" log-set-param="module_tag">
+<dt>开放分类：</dt>
+<dd>
+<a href='/taglist?tag=%BB%A5%C1%AA%CD%F8&tagfromview' target='_blank'>互联网</a>，<a href='/taglist?tag=%BF%C6%BC%BC&tagfromview' target='_blank'>科技</a>，<a href='/taglist?tag=wap&tagfromview' target='_blank'>wap</a>，<a href='/taglist?tag=HTTP&tagfromview' target='_blank'>HTTP</a></dd>
+</dl>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<script>baikeViewInfo.cataList=[ {ele:"1", title:"产品及服务",level:2,display:true},{ele:"1_1",title:"www 英文名",level:3,display:true},{ele:"1_2",title:"简介",level:3,display:true},{ele:"2", title:"发展简史",level:2,display:true},{ele:"3", title:"万维网和其他超文本系统的不同之处",level:2,display:true},{ele:"4", title:"万维网-基本术语",level:2,display:true},{ele:"4_1",title:"英文名称",level:3,display:true},{ele:"4_2",title:"中文名称",level:3,display:true},{ele:"5", title:"组成",level:2,display:true},{ele:"5_1",title:"工作原理",level:3,display:true},{ele:"5_2",title:"工作流程",level:3,display:true},{ele:"6", title:"管理团队",level:2,display:true},{ele:"6_1",title:"构成",level:3,display:true},{ele:"6_2",title:"URL",level:3,display:true},{ele:"6_3",title:"HTTP",level:3,display:true},{ele:"6_4",title:"HTML",level:3,display:true},{ele:"6_5",title:"W3C领导人",level:3,display:true},{ele:"7", title:"社会影响",level:2,display:true},{ele:"8", title:"相关轶事",level:2,display:true},{ele:"8_1",title:"迟到的奖赏",level:3,display:true},{ele:"8_2",title:"1989协作中商业价值很大",level:3,display:true},{ele:"9", title:"企业文化",level:2,display:true},{ele:"9_1",title:"谈“因特网”和“互联网”的区别",level:3,display:true},{ele:"9_2",title:"WWW，万维网，TTT —— 近乎完美的对译",level:3,display:true},{ele:"10", title:"麻烦问题",level:2,display:true},{ele:"11", title:"WWW常见问题",level:2,display:true}];if(typeof PDC!="undefined"){PDC.tti();}</script>
+</div>
+<div class="clear"></div>
+</div>
+<div class="content-ft">
+<div class="reinforce">
+<dl class="nslog-area" data-nslog-type="17" id="bkDict">
+<dt>“www”在英汉词典中的解释<span>(来源：<a href="http://dict.baidu.com/s?f=8&amp;wd=www" target="_blank">百度词典</a>)：</span></dt>
+<dd>
+<div class=ptitle>WWW</div><div class=pcixin>abbr.</div><div class=pexplain>1. =World Wide Web 全球资讯网</div></dd>
+</dl>
+</div>
+<div class="reinforce">
+<dl class="nslog-area" data-nslog-type="18" id="relatedLemmaDown">
+<dt>
+<span class="related_edit">
+<a class="nslog:1005" href="#" onclick="userlogin.check(bk.view.editRelated,false,&#34;editrelated&#34;);return false">我来完善</a>
+</span>
+“www”相关词条：
+</dt>
+<dd class="relative">
+<div class="clear"></div>
+<div id="onelinediv" style="visibility:hidden">
+<span id="onelinespan"></span>
+<span></span>
+<span></span>
+</div>
+<div class="word_more1" id="word_more" onclick="bk.view.showMoreRelated()" style="visibility:hidden"><div></div></div>
+<div class="word_more_con" id="word_more_con" style="display:none">
+<a href="/view/9472.htm?func=retitle" target="_blank" title="http">http</a>
+<a href="/view/29.htm?func=retitle" target="_blank" title="java">java</a>
+<a href="/view/1821736.htm?func=retitle" target="_blank" title="JAVA2000">JAVA2000</a>
+<a href="/view/16168.htm?func=retitle" target="_blank" title="javascript">javascript</a>
+<a href="/view/703.htm?func=retitle" target="_blank" title="ie">ie</a>
+<a href="/view/153922.htm?func=retitle" target="_blank" title="netscape">netscape</a>
+<a href="/view/160629.htm?func=retitle" target="_blank" title="VML">VML</a>
+<a href="/view/14121.htm?func=retitle" target="_blank" title="https">https</a>
+<a href="/view/2439650.htm?func=retitle" target="_blank" title="Pogo浏览器">Pogo浏览器</a>
+<a href="/view/329359.htm?func=retitle" target="_blank" title="Solaris">Solaris</a>
+<a href="/view/456607.htm?func=retitle" target="_blank" title="鬼臼毒素酊">鬼臼毒素酊</a>
+<a href="/view/604876.htm?func=retitle" target="_blank" title="宇智波止水">宇智波止水</a>
+<a href="/view/3076063.htm?func=retitle" target="_blank" title="卖腐">卖腐</a>
+</div>
+<div class="clear"></div>
+</dd>
+</dl>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="end">
+<p class="declare">百度百科中的词条内容仅供参考，如果您需要解决具体问题（尤其在法律、医学等领域），建议您咨询相关领域专业人士。</p>
+<div class="text_vote1" id="vote_btn"><b id="vote_num"></b><span id="vote_txt">本词条对我有帮助</span></div>
+</div><div class="layout share">
+<div class="share-item-title">
+<a class="cang nslog:99" href="http://cang.baidu.com/do/add" onclick="window.open(&#34;http://cang.baidu.com/do/add?it=&#34;+encodeURIComponent(document.title)+&#34;&amp;iu=&#34;+encodeURIComponent(location.href)+&#34;&amp;tn=%E7%99%BE%E7%A7%91%E8%AF%8D%E6%9D%A1%2C&amp;fr=bk#nw=1&#34;,&#34;_s&#34;,&#34;scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable= yes&#34;);return false" target="_blank" title="添加到搜藏">添加到搜藏</a>
+</div>
+<div class="share-item clearfix" id="bdsharebox">
+<span class="share-tip">分享到:</span>
+<div class="bdshare_t bds_tools get-codes-bdshare" data="{'url':'http://baike.baidu.com/view/1453.htm','text':'【www_百度百科】WWW是环球信息网（World Wide Web ）的缩写，也可以简称为Web，中文名字为“万维网”。另外，www也是世界气象监视网的英文简称。......','pic':'http://imgsrc.baidu.com/baike/abpic/item/62667cd04fa5f1bfa1ec9c7c.jpg','wbuid':1647247597}" id="bdshare">
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_douban"></a>
+<a class="bds_tsohu"></a>
+<a class="bds_t163"></a>
+<a class="bds_renren"></a>
+<span class="bds_more">更多</span>
+</div>
+<script data="type=tools&amp;uid=71" id="bdshare_js" type="text/javascript"></script>
+<script id="bdshell_js" type="text/javascript"></script>
+</div>
+</div>
+<dl class="lemma-ext-bottom nslog-area" data-nslog-type="16">
+<dt>合作编辑者</dt>
+<dd>
+<div class="onelineonly">
+<span id="co-editors">
+<span>
+ <a href="http://baike.baidu.com/cms/s/kdt/index.html" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/tadpole.gif" title="百科蝌蚪团"/></a>
+<a title='查看此用户资料' class='usercard' userName='yangke19941112'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=yangke19941112#3'>yangke19941112</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='11988120'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=11988120#3'>11988120</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='yjtxgt886'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=yjtxgt886#3'>yjtxgt886</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='jiangshengyou'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=jiangshengyou#3'>jiangshengyou</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='Torron'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=Torron#3'>Torron</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='HENGZICHAO'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=HENGZICHAO#3'>HENGZICHAO</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='泛鱑夜'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B7%BA%F7U%D2%B9#3'>泛鱑夜</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='wuganlin00'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=wuganlin00#3'>wuganlin00</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='zhy985605'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=zhy985605#3'>zhy985605</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='fjinbo'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=fjinbo#3'>fjinbo</a></span>
+</span>
+</div>
+<a class="f12 ref_more" href="/update/id=1453?from=au" id="more-coeditor" style="display:none" target="_blank">更多</a>
+<div class="clear"></div>
+<div class="try f12">如果您认为本词条还需进一步完善，百科欢迎您也来参与<a class="try-edit" href="#" onclick="bk.view.editLemma(&#34;/edit/&#34;,&#34;1453&#34;);return false">编辑词条</a>在开始编辑前，您还可以先学习<a href="http://www.baidu.com/search/baike_help.html#编辑原则" target="_blank">如何编辑词条</a></div>
+</dd>
+</dl>
+<p class="bk-feedback">
+如想投诉，请到<a class="nslog:1006" href="http://tousu.baidu.com/baike" target="_blank">百度百科投诉中心</a>；如想提出意见、建议，请到<a class="nslog:1007" href="http://tieba.baidu.com/f?kw=%b0%d9%b6%c8%b0%d9%bf%c6" target="_blank">百度百科吧</a>。
+</p>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="col-sub" id="side">
+<div class="userinfo-side">
+<div id="userInfoDiv">
+</div>
+</div>
+<div class="box2" id="lemma-overview">
+<div class="box2-inner">
+<h2>词条统计</h2>
+<p class="info f12">
+浏览次数：约 <span id="viewPV"></span>
+次
+<br/>
+编辑次数：64次 <a class="nslog:1021" href="/update/id=1453" target="_blank">历史版本</a>
+<br/>
+最近更新：<span id="lastModifyTime">2012-01-13</span>
+<br/>
+创建者：<span class="nslog:1022"><a title='查看此用户资料' class='usercard' userName='骑士的荣耀'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%C6%EF%CA%BF%B5%C4%C8%D9%D2%AB#3'>骑士的荣耀</a></span>
+</p>
+</div>
+</div>
+<style>.authority-morelink{float:right;text-decoration:underline}</style>
+<div class="box2 nslog-area" id="pro-contributors">
+<div class="box2-inner">
+<h2><span><a href="http://baike.baidu.com/update/id=1453" target="_blank">更多</a></span>贡献光荣榜</h2>
+<div class="usercard-info" title=""><img class="what-contri" src="http://img.baidu.com/img/baike/blank.gif"/>鼠标滑过用户名，我们有名片啦！</div>
+<div id="contri-div">
+<table border="0" cellpadding="0" cellspacing="0" class="topuser f12" width="235px;">
+<tr>
+<td class="contri-type" colspan="4"><strong>辛勤贡献者：</strong><img align="absmiddle" class="what" src="http://img.baidu.com/img/baike/blank.gif" title="贡献复杂版本，被称为辛勤贡献者"/></td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='java2000_net'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=java2000_net#3'>java2000_net</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level3" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=4702306" target="_blank">版本</a>
+</td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='Torron'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=Torron#3'>Torron</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level3" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=22994219" target="_blank">版本</a>
+</td>
+</tr>
+<tr>
+<td width="18">
+<a href="http://baike.baidu.com/cms/s/kdt/index.html" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/userrole/odp3.png" title="百科蝌蚪团"/></a>
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='yangke19941112'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=yangke19941112#3'>yangke19941112</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level12" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=26645547" target="_blank">版本</a>
+</td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='337163207'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=337163207#3'>337163207</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level2" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=4806490" target="_blank">版本</a>
+</td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='duandui'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=duandui#3'>duandui</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level1" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=6204252" target="_blank">版本</a>
+</td>
+</tr>
+<tr id="tr-contri-more"><td align="center" colspan="4"><a class="contri-a" href="#" id="contri-more">查看更多贡献者</a></td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="box2" id="bkDynamic" style="display:none">
+<div class="box2-inner">
+<h5 id="profileTitle"></h5>
+<div class="f12">
+<dl class="task nslog-area" data-nslog-type="1023" id="task" style="display:none">
+</dl>
+<dl class="notice nslog-area" data-nslog-type="1024" id="notice">
+</dl>
+</div>
+</div>
+</div>
+<div class="box2" id="mabox" style="display:none">
+<div class="box2-inner" id="box2-inner">
+<script type="text/javascript">var arrBaiduAds=new Array();function BaiduAdsDisplay(_){if(typeof(arrBaiduAds[_])=="undefined"||arrBaiduAds[_]==""){return;}G("mabox").style.display="";nslog.set("maad",1);G("box2-inner").innerHTML=arrBaiduAds[_];}</script>
+<script type="text/javascript">/*<![CDATA[*/baidu.sio.callByBrowser("http://a.baidu.com/ecom?di=216&tm=baiduASPT216S&tn=baidubaike_pg&word=www",function(){BaiduAdsDisplay(216);});/*]]>*/</script>
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+</div><img src="http://c.baidu.com/c.gif?t=7&amp;q=www&amp;p=0" style="display:none"/><input id="titleVal" type="hidden" value="www"/>
+</div>
+<div class="nslog-area" data-nslog-type="1001" id="footer">
+&#169; 2012 Baidu <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>
+</div>
+</div>
+<div id="sidecatalog" style="position:absolute;display:none">
+<div class="sidebar" id="sidebar"></div>
+<a class="gotop" href="#" id="gotop" title="返回顶部"></a>
+</div>
+<div id="side-catalog-content" style="display:none;position:absolute"></div>
+<script src="http://baike.bdimg.com/static/common/js/view_bottom.js?@=bbah3h" type="text/javascript"></script><script charset="utf-8" src="/guanxi/static/js/lemma_insert.js" type="text/javascript"></script><script type="text/javascript">/*<![CDATA[*/if((baikeViewInfo.expIndex!=0)&&!(window.location.hash)){window.location.hash="#sub1453";}nslog.set("page","view");nslog.set("lemmaid","1453");nslog.set("ispolysemy","0");baidu.page.loadJsFile("http://baike.bdimg.com/static/lemma/liteoutput/view.js?@=13csb60");baidu.page.loadJsFile("http://baike.bdimg.com/static/usercenter/js/liteoutput/bk.uc_lemma.js?@=184uzx7");baidu.page.loadJsFile("http://img.baidu.com/hunter/baike.js?st="+parseInt(new Date()/86400000));if(typeof PDC!="undefined"){PDC.init({is_login:false,sample:0.01,product_id:103,page_id:1});}/*]]>*/</script><script type="text/javascript">/*<![CDATA[*/(function(){function _(B){var A="baikelog_"+(new Date()).getTime(),_=window[A]=new Image();_.onload=_.onerror=function(){window[A]=null;};_.src="http://nsclick.baidu.com/v.gif?pid=103&type="+B+"&url="+encodeURIComponent(location.href)+"&t="+(new Date()).getTime();_=null;}if(typeof baidu=="undefined"){_(3601);}})();/*]]>*/</script>
+</body>
+</html>
+<script>PDC._load_js=function(b,c){var a=document.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src",b);a.onload=a.onreadystatechange=function(){if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete"){a.onload=a.onreadystatechange=null;if(typeof c==="function"){c(b,true)}}};a.onerror=function(d){if(typeof c==="function"){c(b,false)}};document.getElementsByTagName("head")[0].appendChild(a)};PDC._load_analyzer=function(){if(PDC._is_sample()==false){return}PDC._analyzer.loaded=true;PDC._load_js(PDC._analyzer.url,function(){var c=PDC._analyzer.callbacks;for(var b=0,a=c.length;b<a;b++){c[b]()}})};PDC.send=function(){if(PDC._analyzer.loaded==true){WPO_PDA.send()}else{PDC._analyzer.callbacks.push(function(){WPO_PDA.send()})}};PDC._is_sample=function(){var e=false,d=this._opt.sample,b=0;if(window.performance&&window.performance.timing){d=d*5}var c=new Date().getHours();if(c>1&&c<8){d=d*5}d=d>0.9?0.9:d;d=d<0.0001?0.0001:d;var a=document.cookie.match(/BAIDUID=(\w*):/);if(a){b=parseInt(a[1].slice(-4),16);b=isNaN(b)?0:b}if(d<=0.5){e=(b%(parseInt(1/d))==1)}else{e=(b%(parseInt(1/(1-d)))!=1)}return e};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("lt")},false)}else{window.addEventListener("load",function(){PDC.mark("let");PDC._load_analyzer()})}})();</script>

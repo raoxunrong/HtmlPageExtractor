@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type"/>
+<meta content="IE=7" http-equiv="X-UA-Compatible"/>
+<link href="http://img.baidu.com/img/baike/wap/iphone4_logo.png" rel="apple-touch-icon"/>
+<title>即时通信_百度百科</title>
+<script>var PDC={_version:"0.1",_render_start:new Date().getTime(),_analyzer:{loaded:false,url:"http://static.tieba.baidu.com/tb/pms/wpo.pda.js?v=0.1",callbacks:[]},_opt:{is_login:false,sample:0,product_id:0,page_id:0,common_resources:[],special_resources:[]},_timing:{},init:function(a){for(var b in a){this._opt[b]=a[b]}},mark:function(a){this._timing[a]=new Date().getTime()},view_start:function(){this.mark("vt")},tti:function(){this.mark("tti")},page_ready:function(){this.mark("fvt")},metadata:function(){var a=this._opt;var b={env:{user:(a.is_login==true?1:0),product_id:a.product_id,page_id:a.page_id},common_resources:a.common_resources,special_resources:a.special_resources,render_start:this._render_start,timing:this._timing};return b}};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("let");PDC._load_analyzer()})}else{window.addEventListener("load",function(){PDC.mark("lt")},false)}})();</script>
+<link href="http://baike.bdimg.com/static/common/css/view.css?@=9ylwgi" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/lemma/css/view.css?@=105rws3" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/css/liteoutput/bk.uc_lemma.css?@=2vcadoz" rel="stylesheet" type="text/css"/><link href="/guanxi/static/css/lemma_insert.css" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/view_top.js?@=22n4xph" type="text/javascript"></script><script src="http://baike.bdimg.com/static/lemma/js/init.js?@=de2co7" type="text/javascript"></script>
+</head>
+<script>PDC.mark("ht");(function(){var a=PDC.ready=function(){var g=false,f=[],c;if(document.addEventListener){c=function(){document.removeEventListener("DOMContentLoaded",c,false);d()}}else{if(document.attachEvent){c=function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",c);d()}}}}function d(){if(!d.isReady){d.isReady=true;for(var k=0,h=f.length;k<h;k++){f[k]()}}}function b(){try{document.documentElement.doScroll("left")}catch(h){setTimeout(b,1);return}d()}function e(){if(g){return}g=true;if(document.addEventListener){document.addEventListener("DOMContentLoaded",c,false);window.addEventListener("load",d,false)}else{if(document.attachEvent){document.attachEvent("onreadystatechange",c);window.attachEvent("onload",d);var h=false;try{h=window.frameElement==null}catch(i){}if(document.documentElement.doScroll&&h){b()}}}}e();return function(h){d.isReady?h():f.push(h)}}();a.isReady=false})();PDC.ready(function(){PDC.mark("drt")});PDC.mark("vt");</script>
+
+<body id="view">
+<div id="userbar">
+</div>
+<div id="wrap">
+<div id="header">
+<div id="search">
+<div id="logo">
+<a href="/"><img alt="到百科首页" border="0" class="nslog:1008" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" width="137"/></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/ns?fr=bk&amp;cl=2&amp;rn=20&amp;tn=news&amp;word=%BC%B4%CA%B1%CD%A8%D0%C5" onmousedown="setHeadUrl(this)" wdfield="word">新闻</a><a href="http://www.baidu.com/s?fr=bk&amp;cl=3&amp;wd=%BC%B4%CA%B1%CD%A8%D0%C5&amp;t=5" onmousedown="setHeadUrl(this)" wdfield="wd">网页</a><a href="http://tieba.baidu.com/f?fr=bk&amp;kw=%BC%B4%CA%B1%CD%A8%D0%C5" onmousedown="setHeadUrl(this)" wdfield="kw">贴吧</a><a href="http://zhidao.baidu.com/q?fr=bk&amp;ct=17&amp;pn=0&amp;tn=ikaslist&amp;rn=10&amp;word=%BC%B4%CA%B1%CD%A8%D0%C5" onmousedown="setHeadUrl(this)" wdfield="word">知道</a><a href="http://mp3.baidu.com/m?fr=bk&amp;tn=baidump3&amp;ct=134217728&amp;lm=-1&amp;word=%BC%B4%CA%B1%CD%A8%D0%C5" onmousedown="setHeadUrl(this)" wdfield="word">MP3</a><a href="http://image.baidu.com/i?fr=bk&amp;tn=baiduimage&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;word=%BC%B4%CA%B1%CD%A8%D0%C5" onmousedown="setHeadUrl(this)" wdfield="word">图片</a><a href="http://video.baidu.com/v?fr=bk&amp;ct=301989888&amp;rn=20&amp;pn=0&amp;db=0&amp;s=24&amp;word=%BC%B4%CA%B1%CD%A8%D0%C5" onmousedown="setHeadUrl(this)" wdfield="word">视频</a><strong>百科</strong><a href="http://wenku.baidu.com/search?fr=bk&amp;word=%BC%B4%CA%B1%CD%A8%D0%C5&amp;lm=0&amp;od=0" onmousedown="setHeadUrl(this)" wdfield="word">文库</a>
+</p>
+<form action="/searchword/" method="get" name="f1" target="_self">
+<input id="word" maxlength="400" name="word" tabindex="1" value="即时通信"/>
+<input class="search-btn nslog:1010" onclick="document.f1.pic.value=1" tabindex="2" type="submit" value="进入词条"/><input class="search-btn nslog:1011" onclick="document.f1.pic.value=2" tabindex="3" type="submit" value="搜索词条"/>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a><a class="nslog:1013" href="#" onclick="setSug();return false">设置</a>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">/*<![CDATA[*/var baikeHeaderConf={sugProdName:"baike",searchInputId:baidu.g("word")||baidu.g("kw")};void function(A){var _={url:{}};_.url.escapeSymbol=function(_){return String(_).replace(/[#%&+=\/\\\ \\u3000\f\r\n\t]/g,function(_){return"%"+(256+_.charCodeAt()).toString(16).substring(1).toUpperCase();});};window.setHeadUrl=function(B){B.href=B.href.replace(new RegExp("("+B.getAttribute("wdfield")+"=)[^&]*"),"$1"+_.url.escapeSymbol(A.value));};}(baikeHeaderConf.searchInputId);/*]]>*/</script>
+</div><div class="nslog-area" data-nslog-type="1000" id="path">
+
+<ul class="nav f14 clearfix">    
+            <li class="home"><a href="/">首页</a></li>
+                <li><a href="/ziran/">自然</a></li>
+                 <li><a href="/wenhua/">文化</a></li>
+                 <li><a href="/dili/">地理</a></li>
+                 <li><a href="/lishi/">历史</a></li>
+                 <li><a href="/shenghuo/">生活</a></li>
+                 <li><a href="/shehui/">社会</a></li>
+                 <li><a href="/yishu/">艺术</a></li>
+                 <li><a href="/renwu/">人物</a></li>
+                 <li><a href="/jingji/">经济</a></li>
+                 <li><a href="/kexue/">科技</a></li>
+                 <li><a href="/tiyu/">体育</a></li>
+                 <li><a href="/tupian/">图片</a></li>
+             <li>          <a href="http://baike.baidu.com/museum/ " target="_blank" onclick="nslog(location.href,3020);">数字博物馆</a></li>
+     <li>          <a href="http://baike.baidu.com/cms/s/core/index.html" target="_blank" onclick="nslog(location.href,3021);">核心用户</a></li>
+                 <li><a href="/mall/">百科商城</a></li>
+          <style type="text/css" compress>
+#path ul.nav li,ul.nav li{
+position:relative;
+}
+.nav{overflow:visible;position:relative;}
+div.nav-channel-hot{
+ _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img.baidu.com/img/baike/icons/hot.png");
+ background:url("http://img.baidu.com/img/baike/icons/hot.png") no-repeat scroll 0 0 transparent;
+_background:none;
+ height:15px;
+ position:absolute;
+ width: 24px;
+ top: -7px;
+ right:7px
+}
+
+#path .nav li{padding-right:12px !important;}
+
+</style> 
+</ul>
+<script type="text/javascript" >
+   baidu.dom.ready( function(){
+                          baidu.page.loadJsFile('http://baike.baidu.com/cms/s/banner/tmpact.js?t=20110201');
+              nslog(location.href, 5102);
+                                       });
+</script>
+
+
+</div>
+</div>
+<div id="page">
+<script>if(typeof PDC!="undefined"){PDC.view_start();}</script><div class="layout grid-m0s245 w1000" id="content-wrap">
+<div class="col-main article" id="content">
+<div class="main-wrap main-shadow">
+<div class="content-hd">
+<div class="content-hd-wrap"></div>
+</div>
+<div class="content-bd main-body">
+<div class="text" id="sec-content0">
+<div class="bk-editable-lemma-btns">
+<a class="tpldivide-lemma lemma-top-link" hidefocus="true" href="/tpldivideload?lemmaId=1088645" id="tmpdivide" style="display:none;margin-right:14px" target="_blank"></a>
+<a class="dividable-lemma lemma-top-link" data-edit-id="1088645" hidefocus="true" href="/divideload?lemmaid=1088645" id="polyin" style="display:none">拆分词条</a>
+<span class="editable-lemma " data-edit-id="1088645"></span>
+<span style="height:100%"></span>
+</div>
+<h1 class="title">即时通信</h1>
+<script type="text/javascript">/*<![CDATA[*/var hash=window.location.hash.match(/^#sub(\d+)/);bk.view.hash=hash&&hash[1];hash=null;bk.view.expFlag=false;baikeViewInfo={id:"1088645",editable:"true",title:"即时通信",expIndex:"0",subLen:"1",isMulit:false};/*]]>*/</script>
+<div class="clear"></div>
+<div class="mod-top">
+<h4 class="card-title"><span class="throwbtl-link-span" data-edit-id="$$$$1088645"></span>百科名片</h4>
+<div class="card-summary nslog-area" data-nslog-type="72">
+<div class="pic" id="cardpic0">
+<a hidefocus="true" href="/albums/1088645/1088645.html#0$3bc6f7503f5b86661038c288" target="_blank">
+<img alt="即时通信" class="card-image editorImg" onerror="this.parentNode.parentNode.style.width=&#34;150px&#34;" onload="tools.image.sizelimit(this,200,200);var _=this.parentNode.parentNode;_.style.width=this.width+&#34;px&#34;;baidu.dom.last(_).innerHTML=&#34;即时通信&#34;" src="http://imgsrc.baidu.com/baike/abpic/item/3bc6f7503f5b86661038c288.jpg" title="即时通信"/>
+</a>
+<a class="card-pic-handle" href="/albums/1088645/1088645.html#0$3bc6f7503f5b86661038c288" target="_blank" title="查看图片">&#160;&#160;</a>
+<div></div>
+</div>
+<div class="card-summary-content">
+<p>
+即时通信(IM)是指能够即时发送和接收互联网消息等的业务。1998年即时通信的功能日益丰富，逐渐集成了电子邮件、<a target=_blank href=/view/1509.htm>博客</a>、音乐、电视、游戏和搜索等多种功能。即时通信不再是一个单纯的<a target=_blank href=/view/206374.htm>聊天工具</a>，它已经发展成集交流、<a target=_blank href=/view/3731.htm>资讯</a>、娱乐、搜索、<a target=_blank href=/view/757.htm>电子商务</a>、办公协作和企业客户服务等为一体的综合化信息平台。随着<a target=_blank href=/view/1168245.htm>移动互联网</a>的发展，互联网即时通信也在向移动化扩张。目前，微软、AOL、Yahoo等重要即时通信提供<a target=_blank href=/view/19763.htm>商都</a>提供通过手机接入互联网即时通信的业务，用户可以通过手机与其他已经安装了相应客户端软件的手机或电脑收发消息。</p>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<fieldset class="text_dir nslog-area" data-nslog-type="1016" data-subindex="0" id="catalog-0">
+<p>目录</p>
+<dl class="holder1" id="catalog-holder-0">
+<dd><a href=#1 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">简介</a></dd><dd><a href=#2 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">工具</a></dd><dd><a href=#3 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">功能</a></dd><dd><a href=#4 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">市场竞争</a></dd><dd><a href=#5 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">主流手机功能</a><ol><li><a href="#5_1">GPRS资费</a></li><li><a href="#5_2">随e聊</a></li><li><a href="#5_3">邦邦通</a></li></ol></dd><dd><a href=#6 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">发展瓶颈</a><ol><li><a href="#6_1">调查</a></li><li><a href="#6_2">多功能</a></li><li><a href="#6_3">技术难度</a></li><li><a href="#6_4">通信系统</a></li><li><a href="#6_5">商业利益</a></li></ol></dd><dd><a href=#7 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">面临问题</a></dd><dd><a href=#8 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">即时通信相关软件</a><ol><li><a href="#8_1">即时通讯的行业应用</a></li><li><a href="#8_2">优势</a></li></ol></dd></dl>
+<dl class="holder2" id="catalog-holder-2-0"></dl>
+</fieldset>
+<div class="clear"></div>
+<script type="text/javascript">bk.view.catalog().start("0");</script>
+<div class="lemma-main-content" id="lemmaContent-0">
+<h2 class="headline-1 first bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1088645:1088645:1"></span><a name="1"></a><span class="headline-content">简介</span></h2>　　即时通信(<a target=_blank href=/view/15095.htm>IM</a>)是指能够即时发送和接收<a target=_blank href=/view/6825.htm>互联网</a>消息等的业务。<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$4651a712bc8983f4c3fd7894" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/4651a712bc8983f4c3fd7894.jpg /></a><p class="pic-info">即时通信</p></div>自1998年面世以来，特别是近几年的迅速发展，即时通信的功能日益丰富，逐渐集成了<a target=_blank href=/view/1524.htm>电子邮件</a>、博客、<a target=_blank href=/view/5434.htm>音乐</a>、电视、游戏和搜索等多种功能。即时通信不再是一个单纯的<a target=_blank href=/view/206374.htm>聊天工具</a>，它已经发展成集交流、<a target=_blank href=/view/3731.htm>资讯</a>、娱乐、搜索、<a target=_blank href=/view/757.htm>电子商务</a>、办公协作和企业客户服务等为一体的综合化信息平台。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1088645:1088645:2"></span><a name="2"></a><span class="headline-content">工具</span></h2>　　随着<a target=_blank href=/view/1168245.htm>移动互联网</a>的发展，互联网即时通信也在向移动<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$a8ad9413b55222eaf7039e95" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/a8ad9413b55222eaf7039e95.jpg /></a><p class="pic-info">即时通信</p></div>化扩张。目前，<a target=_blank href=/view/2353.htm>微软</a>、<a target=_blank href=/view/74490.htm>AOL</a>、Yahoo、、<a target=_blank href=/view/2034405.htm>UcSTAR</a>等重要即时通信提供<a target=_blank href=/view/19763.htm>商都</a>提供通过手机接入互联网即时通信的业务，用户可以通过手机与其他已经安装了相应客户端软件的手机或电脑收发消息。
+<div class="spctrl"></div>　　产品最早的创始人是三个<a target=_blank href=/view/7835.htm>以色列</a>青年，是他们在1996年做出来的，取名叫<a target=_blank href=/view/698.htm>ICQ</a>。1998年当ICQ注册用户数达到1200万时，被AOL看中，以2.87亿美元的天价买走。目前ICQ有1亿多用户，主要市场在<a target=_blank href=/view/6891.htm>美洲</a>和欧洲，已成为世界上最大的<a target=_blank href=/view/3156069.htm>即时通信系统</a>。
+<div class="spctrl"></div>　　现在国内的即时通信工具按照使用对象分为两类：一类是个人IM，如：<a target=_blank href=/view/1535.htm>QQ</a>，<a target=_blank href=/view/1440505.htm>百度hi</a>，<a target=_blank href=/view/7260.htm>网易泡泡</a>，<a target=_blank href=/view/109990.htm>盛大圈圈</a>，<a target=_blank href=/view/4539.htm>淘宝旺旺</a>等等。QQ的前身OICQ在1999年2月第一次推<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$c856613e0f7f890770cf6c95" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/c856613e0f7f890770cf6c95.jpg /></a><p class="pic-info">即时通信</p></div>出，目前几乎接近垄断中国在线<a target=_blank href=/view/533307.htm>即时通讯软件</a>市场。百度Hi具备文字消息、音视频通话、<a target=_blank href=/view/543341.htm>文件传输</a>等功能，您可通过它找到志同道合的朋友，并随时与好友联络感情；另一类是企业用IM，简称EIM，如：E话通，<a target=_blank href=/view/5630.htm>UC</a>，<a target=_blank href=/view/2604270.htm>EC企业即时通信软件</a>，UcSTAR、商务通等。
+<div class="spctrl"></div>　　即时通信最初是由AOL、微软、<a target=_blank href=/view/1359.htm>雅虎</a>、<a target=_blank href=/view/1591.htm>腾讯</a>等独立于电信运营商的即时通信服务商提供的。但随着其功能日益丰富、应用日益广泛，特别是即时通信增强<a target=_blank href=/view/37.htm>软件</a>的某些功能如IP电话等，已经在分流和替代传统的电信业务，使得电信运营商不得不采取措施应对这种挑战。2006年6月，<a target=_blank href=/view/9113.htm>中国移动</a>已经推出了自己的即时通信工具——<a target=_blank href=/view/647776.htm>Fetion</a>，中国联通也将推出即时通讯工具“<a target=_blank href=/view/1379306.htm>超信</a>”，但由于进入市场较晚，其用户规模和品牌知名度还比不上原有的即时通信服务提供商。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1088645:1088645:3"></span><a name="3"></a><span class="headline-content">功能</span></h2>　　1）清扬qyMesse<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$f7657560f845c77eebf8f896" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/f7657560f845c77eebf8f896.jpg /></a><p class="pic-info">即时通信</p></div>nger支持自建<a target=_blank href=/view/899.htm>服务器</a>。
+<div class="spctrl"></div>　　2）<a target=_blank href=/view/315045.htm>管理员</a>设置客户端的单位组织结构（单位|部门|使用人）信息。
+<div class="spctrl"></div>　　3）客户端不需自行添加联系人。
+<div class="spctrl"></div>　　4）管理员为客户端指定和分配联系人。
+<div class="spctrl"></div>　　5）联系人之间能够发送消息。
+<div class="spctrl"></div>　　6）联系人之间能够互相传送文件。
+<div class="spctrl"></div>　　7）联系人之间能够进行语音和视频对话（允许<a target=_blank href=/view/788.htm>局域网</a>或者<a target=_blank href=/view/67522.htm>VPN网络</a>）。
+<div class="spctrl"></div>　　8）联系人之间能够共享应用程序-远程桌面共享等。（允许局域网或者VPN网络）。
+<div class="spctrl"></div>　　9）联系人之间能够共享白板，进一步方便交流。（允许局域网或者VPN网络）。
+<div class="spctrl"></div>　　10）管理员能够建立联系人分组，加入分组后的联系人允许互相通信。
+<div class="spctrl"></div>　　11）客户端能够属于多个分组。
+<div class="spctrl"></div>　　12）分组成员之间可以群发……<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1088645:1088645:4"></span><a name="4"></a><span class="headline-content">市场竞争</span></h2>　　在<a target=_blank href=/view/61891.htm>中国</a>互联网即时通信领域的两个巨头———微软和腾<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$964b2e4e4768d5f0d1c86a96" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/964b2e4e4768d5f0d1c86a96.jpg /></a><p class="pic-info">即时通信</p></div>讯相继推出了各自最新的杀手级产品MSN Messenger6.0与QQ2003，为最大限度地争夺用户市场展开了面对面的较量，即时通信市场巨鳄同本土盟主QQ小企鹅之间的恶斗不可避免……
+<div class="spctrl"></div>　　互联网即时通信有点像手机无线通信：它们最初都局限在小圈子内作为少数人的玩物而屡遭诟病。不过，它们注定要超越传统通信方式而成为主流通信<a target=_blank href=/view/698784.htm>手段</a>。如今，即使通信的飞速发展与普及令所有预期者大跌眼镜。不过，快速普及、跻身主流还只是即时通信发展的第一步，接下来要走的也许是更重要的一步——— 统一标准、决战市场。
+<div class="spctrl"></div>　　即时通信（IM）工具大浪淘沙，曾几何时，当初风风火火的一大批即时通信工具，由于各操方言，彼此不通，诸侯割据市场，如今大多数已经折戟沉沙。如今IM市场天下一统，基本市场格局已经定型。在全球，MSN Messenger已成为即时通信市场当之无愧的王者，美国在线AOL 的InstantMessenger（以及被其收购旗下的即时通信鼻祖ICQ）元气大伤，沦落到要依傍<a target=_blank href=/view/17641.htm>法律</a>为武器，同中国的QQ争夺名分的地步；Yahoo Messenger偏安一隅。MSN携微软巨无霸强大的Windows操作软件市场优势，逐渐成为<a target=_blank href=/view/79807.htm>桌面</a>PC的标准配置，注册用户数量超过了1.1亿户。
+<div class="spctrl"></div>　　在中国，曾经风风火火的数十个IM软件逐渐销声匿迹，缴械败北，虽然偶尔<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$f29faa8fb22cd4d4f01f3697" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/f29faa8fb22cd4d4f01f3697.jpg /></a><p class="pic-info">即时通信</p></div>还有一些在活跃的新品（例如“网易泡泡”、朗玛UC）闪亮登场，但已难成气候，无法同腾讯抗衡。QQ小企鹅以其不露声色的神秘微笑，逐渐一统江湖，傲视全球，成为即时通信<a target=_blank href=/view/9165.htm>市场</a>的霸主。截至 2003年4月30日，QQ的注册用户已超过1.7亿个，最高在线用户是33.9万，每天独立上线人数超过1600万。
+<div class="spctrl"></div>　　MSN Messenger同腾讯QQ本来在相对分隔的市场中各领风骚，相安无事，但是随着微软全球化战略的日益扩展，MSN也紧随微软<a target=_blank href=/view/880.htm>操作系统</a>一道，在全球桌面 PC市场上攻城掠地，取得了巨大的市场占有率。在中国，即时通信市场长期以来一直是腾讯QQ的天下，从Windows98起，一直到Windowsme、 Windows2000、WindowsXP，以及部署中的Longhorn，微软不断推出新的即时通信产品，通过操作系统以及Outlook等附属软件巩固其即时通信工具的地位。由于MSN Messenger和腾讯QQ不能互联互通，许多中国用户不得不在机器上安装两套软件，以便保持同两个社区的用户沟通。“<a target=_blank href=/view/1949186.htm>一山不容二虎</a>”，当越来越多人厌倦了安装两套功能雷同的工具，而不得不在两者之间做出去留选择的时候，MSN Messenger同腾讯QQ的恶斗就不可避免了。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1088645:1088645:5"></span><a name="5"></a><span class="headline-content">主流手机功能</span></h2><h3 class="headline-2 bk-sidecatalog-title"><a name="5_1"></a><span class="headline-content">GPRS资费</span></h3>　　随着GPRS资费的下调，越来越多的Java手机以及智能手机用<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$43e6c7335ded9179ad4b5f97" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/43e6c7335ded9179ad4b5f97.jpg /></a><p class="pic-info">即时通信</p></div>户开始了移动上网的生活。同时手机聊天软件也就成了广大手机上网爱好者的新宠儿。相比传统的手机短信，手机上网聊天的资费更为低廉，而与PC上网用户的互动性也是短信所无法比拟的。目前市面上种较为流行的手机聊天软件有“随e聊”、邦邦通、<a target=_blank href=/view/369349.htm>PICA</a>以及蜜友等四款。这些手机聊天软件的共同点是能够通过手机 GPRS接入代理登陆常用的QQ以及MSN等服务，其中不少软件还有自己独立的IM系统。本文就这四款软件，做一个横向对比，希望能对大家的选择有一定帮助。<h3 class="headline-2 bk-sidecatalog-title"><a name="5_2"></a><span class="headline-content">随e聊</span></h3>　　在介绍的四款软件中“随e聊”是起步最晚的一个，虽然发展至今的时间并不长，但它总结了邦邦通、蜜友以及PICA等前辈们的优点以及不足，所以在功能方面，“随e聊”起步的台阶就比较高，它除了支持常规的QQ、MSN聊天以外还能够登陆Yahoo Messenger。<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$d041a4a1bd6832b147106490" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/d041a4a1bd6832b147106490.jpg /></a><p class="pic-info">即时通信</p></div>早在MSN Messenger流行之前，中国也有为数不少的Yahoo Messenger的用户，而“随e聊”是首个能够通过普通Java手机登陆Yahoo Messenger聊天服务的软件，<a target=_blank href=/view/260961.htm>雅虎通</a>的用户终于也可以享受随心所欲的移动聊天乐趣了。此外“随e聊”也是目前主流手机聊天软件中唯一一个能够支持 QQ以及MSN好友自定义分组功能的软件。（PICA不支持读取QQ以及MSN的自定义分组）相对PC而言，手机的屏幕较小，通过分组寻找好友会比以下三款软件便捷许多。
+<div class="spctrl"></div>　　在S60以及PPC等<a target=_blank href=/view/375267.htm>智能</a>手机专用版方面与PICA一样，“随e聊”的S60专用版以及PPC版均支持语音对讲、支持即时拍摄发送图片、支持发送附件等。S60以及PPC智能手机的用户还将享受到“随e聊”的移动博客功能（即时拍摄即时上传到自己的独有Pep博客），博客页面还可通过PC访问，一张有纪念意义的照片，一段简单的随笔便可通过“随e聊”发布到博客，成为美好的回忆。 在资讯增值功能方面“随e聊”与PICA一样，提供了诸多的资讯频道，在新闻、天气、电子书等常见的资讯栏目外，“随e聊”还别具一格的提供了互动式的英语学习频道，在休闲娱乐的同时也给用户提供了一个良好的学习平台。
+<div class="spctrl"></div>　　在平台支持方面，“随e聊”应该也是目前最为完善的一个，“随e聊”有适应普通手机的Java<a target=_blank href=/view/26783.htm>版本</a>，以及S60手机的专用高级版本，Pocket PC的专用高级版本。除了<a target=_blank href=/view/1652842.htm>手机平台</a>之外，“随e聊”还是唯一一个拥有PC客户端的手机聊天软件。为了让用户能更多的享受“随e聊”带来的便捷，其开发小组还专门发布了一个PC版本的“随e聊”，用户可以在PC上登录“随e聊”，可以用PC“喊”到手机，如此一来，PC与手机也能够实现push to talk了。<h3 class="headline-2 bk-sidecatalog-title"><a name="5_3"></a><span class="headline-content">邦邦通</span></h3>　　邦邦通是一款Java软件，也是手机上网聊天中起步最早的软件<div style="float: right; visibility: hidden;padding-bottom:3px;" class="text_pic"><a href="/albums/1088645/1088645.html#0$fd428c45aff1940587947390" target="_blank"><img class="editorImg log-set-param" log-set-param="img_view" title="即时通信" src=http://imgsrc.baidu.com/baike/abpic/item/fd428c45aff1940587947390.jpg /></a><p class="pic-info">即时通信</p></div>之一。支持移动GPRS的cmwap以及cmnet两种接入点。它拥有自己独立的即时通信体系，每位用户都需要注册一个邦邦号才能使用聊天功能。在邦邦通本身的即时通信体系中，可以像QQ一样的，通过邦邦号查找添加好友，也可以通过在线用户列表结识新的朋友。不过邦邦通的查找功能没有按照地域进行查找的方式，对于想结识同城好友的用户来说就有些遗憾了。当然邦邦通最大的魅力还是在于可以捆绑 QQ以及MSN的聊天服务。通过绑定帐号，在登陆邦邦通后，用户还可以同时登陆QQ以及MSN两大即时通信服务，任何时间任何地点都可以与PC上的好友畅聊一番。不过由于腾讯近日对第三方QQ软件的封锁，目前邦邦通登陆QQ的功能已经无法使用。此外邦邦通还具有图铃点播以及<a target=_blank href=/view/47743.htm>聊天</a>室等附加功能。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1088645:1088645:6"></span><a name="6"></a><span class="headline-content">发展瓶颈</span></h2><h3 class="headline-2 bk-sidecatalog-title"><a name="6_1"></a><span class="headline-content">调查</span></h3>　　即时通信可以说是继电子邮件、WWW之后，互联网上最具杀伤力的应用。<a target=_blank href=/view/19237.htm>艾瑞</a>咨询的一项调查显示，2003年中国<a target=_blank href=/view/111352.htm>即时通信软件</a>的最高在线人数已达550万人，到2004年底有望突破740万人，2006年则将突破1200万人。
+<div class="spctrl"></div>　　即时通信源自ICQ。四位以色列籍年轻人在1996年7月成立了Mirabilis公司，并于同年11月推出了全世界第一个即时通信软件ICQ(目前ICQ已经归AOL旗下所有)，意为“我在找你”——“I Seek You”，简称ICQ。
+<div class="spctrl"></div>　　相对于传统的电话、<a target=_blank href=/view/8409.htm>E-mail</a>等通信方式来说，即时通信不仅节省费用，而且效率更高。例如企业的即时通信系统可以随时查看各部门在线人员、沟通各分支机构、即时传输文件、进行远程视频会议、群发<a target=_blank href=/view/1455.htm>手机</a>短信等。因此，即时通信很有可能成为继<a target=_blank href=/view/541009.htm>安全软件</a>、ERP软件后又一企业必备的工具，市场潜力不可忽视。
+<div class="spctrl"></div>　　同样，在消费领域，越来越多的个人用户也在转向即时通信应用，有专家认为，从某种意义上说，经营即时通信软件的企业正在发展成一个虚拟的电信运营商。因此，即时通信已经成为现有电信运营商必须介入的领域。<h3 class="headline-2 bk-sidecatalog-title"><a name="6_2"></a><span class="headline-content">多功能</span></h3>　　由于即时通信软件的兴起，能够进行即时互通的“内容”正迅速由语音全面扩展到图像、文字、数据等方面，不过“多功能”还不是即时通信的全部<a target=_blank href=/view/78306.htm>内涵</a>，能够跨越互联网、手机、固定电话等多个平台进行通信才是即时通信未来的价值所在。一位业内人士认为，即时通信已经跨越原来<a target=_blank href=/view/449559.htm>狭义</a>上的“网络”<a target=_blank href=/view/45333.htm>概念</a>，正向更为广义的方向发展，未来的即时通信软件可以随时随地和任何人进行任何方式的沟通，不仅是语音，还包括图像、<a target=_blank href=/view/18710.htm>资料</a>、数据等等，不仅在电脑上，还可以在手机、固定电话等任何<a target=_blank href=/view/105503.htm>终端</a>上。
+<div class="spctrl"></div>　　但是，应该看到，同其他的互联网应用一样，即时通信原本是电脑玩家的<a target=_blank href=/view/8627.htm>宠物</a>，一旦上升到<a target=_blank href=/view/327704.htm>商务</a>层面，其发展面临的问题便日渐突出，其中安全和互联互通便是当前即时通信发展的软肋。
+<div class="spctrl"></div>　　对于服务商来说，不同服务商看待互联互通问题的立场是不一致的。实力较强的服务商多半不愿意实现和其他服务商的<a target=_blank href=/view/977195.htm>软件兼容</a>，而实力相对较弱的服务商则希望通过即时通信软件的兼容，也就是互联互通来扩大自身即时通信软件产品的用户群。实际上，即时通信软件之间要实现互联互通将主要涉及到技术和<a target=_blank href=/view/508359.htm>利益</a>两个方面。<h3 class="headline-2 bk-sidecatalog-title"><a name="6_3"></a><span class="headline-content">技术难度</span></h3>　　在技术上，即时通信软件之间互联互通的技术操作难度并不高，软件之间实现兼容、实现互联互通完全可以做到。去年9月，<a target=_blank href=/view/2398.htm>美国</a>路透社、AOL就签署了一项合作协议以实现两家公司的即时通信服务软件之间的互相开放。这样，路透社即时通信软件的用户将能够“看到”登录到包括AIM、ICQ在内的AOL公司即时通信服务系统上的用户，并与他们互相通信。
+<div class="spctrl"></div>　　目前互联互通难，就难在互联互通企业间的利益分配上。因为多数即时通信软件的用户，都希望通过即时通信软件寻找网友实现网络交流，当然会首先选择使用已经拥有相当多使用者的即时通信软件。一般来说，用户群体庞大的即时通信软件在功能上必定已相当完善，在程序运行上会更加稳定，这也是许多用户青睐QQ、MSN的主要原因。由此，“强者愈强，弱者愈弱”。而对于<a target=_blank href=/view/1593.htm>腾讯QQ</a>、<a target=_blank href=/view/1537.htm>MSN</a>这样已经拥有数百万用户的企业而言，他们更愿意将精力放在对自身即时通信产品的进一步研发上，产品间的互联互通在一定程度上会分流这些企业的潜在用户甚至现有用户。
+<div class="spctrl"></div>　　至于安全方面，无论是个人用户，还是企业用户，都面临新的威胁。对于个人用户来说，通过即时通信软件传播的病毒就像潜藏的炸弹，一旦爆发，轻则资料丢失，重则<a target=_blank href=/view/2358.htm>电脑</a>瘫痪，更有甚者，会造成即时通信用户之间的误会。<h3 class="headline-2 bk-sidecatalog-title"><a name="6_4"></a><span class="headline-content">通信系统</span></h3>　　而对于企业级用户来说，一个重要问题就是大多数即时通信系统是公开的，这意味着用户只要知道另一个用户的即时通信地址，他就可以直接向对方发送信息，这对于员工向外界泄露企业的商业秘密非常便利。而且即时通信的主要特点是两台终端之间可以直接进行<a target=_blank href=/view/149597.htm>交流</a>，而不必通过任何第三方服务器中转。这就使得<a target=_blank href=/view/3498508.htm>网络监管</a>对即时通信用户的数据交换进行监控的难度增加，这让企业管理者大为头疼。IDC公司的数据显示，全球超过2000万的商务人士都在使用即时通信工具，而且这一数字将在2005年之前猛升至3亿人。即时通信的广泛使用以及它本身缺乏安全功能的特性，为向它添加加密、归档和日志功能的产品创造出了很大需求。<h3 class="headline-2 bk-sidecatalog-title"><a name="6_5"></a><span class="headline-content">商业利益</span></h3>　　不过，只要拥有庞大的用户群，并且能够有现实的<a target=_blank href=/view/8211.htm>商业</a>利益，上述的两个难题都会得到解决。最近，AOL、微软和雅虎正相互合作让各自的即时信息服务实现企业环境内的互通，这也是这些业界领袖为了让三种不同系统的电脑用户相互通信的首次重大合作和突破。<a target=_blank href=/view/208554.htm>三巨头</a>将公布为打破各自网络间的“<a target=_blank href=/view/4743958.htm>电子围墙</a>”，让即时通信在商务领域获得更大范围应用的合作计划。为了使用这种新系统，企业要先行获得微软网络软件的授权，这种软件将会充当连接AOL、微软、MSN和雅虎各自运作的系统的网络中心。
+<div class="spctrl"></div>　　在安全方面，企业应用的要求显然更高。即时通信软件为适应用户的需求，不断提高系统的通信能力，即通过防火墙的能力，这就为安全带来负面作用。这就要求企业必须综合考虑<a target=_blank href=/view/3067.htm>防火墙</a>、防病毒、入侵监测、安全评估、VPN等多种产品，根据网络的具体拓扑和应用的具体需求，制订整体的解决方案和安全策略。专家建议，企业可以建置企业内部封闭式的实时<a target=_blank href=/view/1527.htm>信息</a>系统。所谓封闭式实时信息系统是在企业内部建立自己的即时信息服务器，在每台<a target=_blank href=/view/920814.htm>个人计算机</a>上安装特定的实时信息<a target=_blank href=/view/17674.htm>程序</a>，这个程序可以是<a target=_blank href=/view/38340.htm>企业</a>自己开发的，也可以是通用的，比如BQQ、MSN等。实时信息系统完全运作在企业的Intranet环境并不与外界有任何联系。其优点是可以为企业提供更为安全、可靠的音视频文件及信息传输服务，同时<a target=_blank href=/view/3487.htm>网络</a>管理人员还可对企业内部实时信息进行更加有效的管理。此外，在企业内部设置实时信息<a target=_blank href=/view/807.htm>网关</a>也是一种有效的途径，每一个员工都可以使用通用的实时信息程序进行方便、快捷的即时通信，但必须通过公司内部的即时信息网关，通过即时信息网关对信息进行过滤和管理，任何进出的即时通信信息都必须留下记录(日志文件)，必要时信息管理人员可以根据这些记录追查来龙去脉。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1088645:1088645:7"></span><a name="7"></a><span class="headline-content">面临问题</span></h2>　　微软的安全计划经理<a target=_blank href=/view/544450.htm>斯蒂芬</a>将目前的即时通讯威胁比喻为1990年代中期的电子邮<a target=_blank href=/view/258543.htm>件</a>病毒。他认为，为了避免使即时通讯威胁达到象电子邮件威胁那样的泛滥程度，对<a target=_blank href=/view/88584.htm>客户</a>进行教育的影响要大于对即时通讯采取的技术性安全措施。
+<div class="spctrl"></div>　　发现的大多数即时通讯威胁都不是新威胁，类似的威胁在电子邮件中都出现过，只是换了一种新的传播媒介。
+<div class="spctrl"></div>　　反病毒专技术专家<a target=_blank href=/view/189428.htm>西蒙</a>说，要攻击即时通讯软件，黑客无须使用新的方法，目前的即时通讯软件仍然向特洛伊木马病毒敞开着大门。
+<div class="spctrl"></div>　　由于即时通讯服务软件的协议非常开放，易于使用，因此黑客可以很轻松地利用它们发动攻击。
+<div class="spctrl"></div>　　AOL 表示，它正在开发新的安全<a target=_blank href=/view/45517.htm>技术</a>，但它同时指出，使用户意识到面临的危险对于减轻这一问题的影响有更大的影响。AOL 的发言人<a target=_blank href=/view/1333463.htm>安德鲁</a>说，在有些情况下，可以采取技术性的措施保护用户，例如过滤恶意的链接。
+<div class="spctrl"></div>　　但认为最好的方法是向用户灌输良好的行为习惯，即使是链接好象是来自好友，也要再向好友证实一下。
+<div class="spctrl"></div>　　目前，所有发现的即时通讯威胁都是在即时通讯软件之上运行的特洛伊木马代码，而不是利用软件缺陷<a target=_blank href=/view/69730.htm>传播</a>的蠕虫，但一些专家认为，出现这样的蠕虫<a target=_blank href=/view/2584.htm>病毒</a>只是一个时间问题。历史已经证明，所有软件都存在<a target=_blank href=/view/1122313.htm>缺陷</a>，总会有黑客利用这些缺陷。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="1088645:1088645:8"></span><a name="8"></a><span class="headline-content">即时通信相关软件</span></h2>　　叮当旺业通是上海富可信息技术发展有限公司所研发的以先进的点对点通讯技术为基础的基于Internet的即时通信软件。它分为PC版、手机版、网页版等多个版本，各个版本之间实现消息互通。它支持文字对话、音视频对话、文件传输、远程协助、网络硬盘、资源共享、电子传真及VOIP等强大功能。在集团和企业内部，它是一套有效的沟通利器，提供了一个可靠而灵活的集成平台，可方便快捷地接入应用程序和复杂的业务流程。在电子商务领域，它可轻松融合各种大型电子商务网站，帮助买卖双方快捷高效沟通，从而提高交易成功率，是电子商务网站不可或缺的法宝。在其它行业，即时通讯作为一个中间基础平台，其开放的接口可方便融合各种平台，真正实现统一通信。<h3 class="headline-2 bk-sidecatalog-title"><a name="8_1"></a><span class="headline-content">即时通讯的行业应用</span></h3>　　即时通可与一些电子商务网站（如：B2B/C2C/B2C等交易网）完美整合，买卖双方的在线状态在网站的页面同步显示， 网页版功能使用户即使不下载软件，通过网页就能实现消息互通。企业版集中式用户管理将为企业建立起网上沟通渠道，使企业员工之间达到“零距离”交互，以提高办公效率。 
+<div class="spctrl"></div>　　通过实现手机版与PC版即时通讯软件的消息互通，无论何时何地，企业成员都可以与集团其他成员保持高效的沟通，重要信息部再被错过。此外，通过将手机版即时通讯软件与其他系统如OA、EPR等系统进行紧密整合，真正实现了anytime、anywhere、anything的全新办公模式。叮当手机即时通适用于企事业单位、政府机关、电子政务、等移动办公需要，为大型电子商务网站提供移动即时通讯解决方案。 
+<div class="spctrl"></div>　　电子政务作为政府信息化的一个重要平台，办公效率的高低和沟通是否及时成为电子政务中的一个重要指标！在电子政务中引入手机即时通讯，可以让员工无论在何时何地都能轻松的应对工作，不受办公环境和地点的局限，从而更快更好的提高工作效率。 
+<div class="spctrl"></div>　　集团公司的办事处一般都分散在全国各处，那么各个分公司之间互相只有靠电话联系。如果要进行会议就更加麻烦，各个分公司都要派人去总公司进行集团性的会议。这样不仅浪费了时间而且还增加了差旅费的开支。当公司有重大事件需要公司各懂事进行商议时，由于各股东不能即时的聚在一起开会商讨，就有可能导致决策上的失误。而即时通讯软件就为公司解决了这些问题。<h3 class="headline-2 bk-sidecatalog-title"><a name="8_2"></a><span class="headline-content">优势</span></h3>　　1. 采用专业强大的即时通讯服务器集群构架。 
+<div class="spctrl"></div>　　2. 可实现办公即时通讯、网络IP电话、协同办公、视频会议、远程协助等多种应用。 
+<div class="spctrl"></div>　　3. 用户一次登陆，既可在多个系统中切换，实现单点登陆。 
+<div class="spctrl"></div>　　4. 接入企业应用系统、与现有的系统无缝集成：可以从现有的系统中提取部门、用户列表，支持树形组织架构。 
+<div class="spctrl"></div>　　5. 客户端自动升级功能：所有应用的客户端都具有自动安装、自动升级的功能。 
+<div class="spctrl"></div>　　6. 性能稳定，安全可靠，二次开发扩展，插件等强大功能。 
+<div class="spctrl"></div>　　7. 严谨的用户权限机制，身份验证、访客控制。
+<div class="spctrl"></div>　　8. 3A办公，这种全新的办公模式，可以摆脱时间和空间对办公人员的束缚、提高工作效率、加强远程协助，尤其是可以处理常规办公模式下难以解决的紧急事务背景。<div class="bpctrl" style="clear:both"></div><div class="clear"></div>
+</div>
+<div class="clear"></div>
+<style type="text/css">.bk-album-collection-box{width:687px;height:228px;border:1px solid #C6E1F5;border-top:2px solid #268BD7;margin-bottom:30px;overflow:hidden}.bacb-head{height:28px;background-color:#F5FBFF;padding-left:10px;position:relative}.bacb-title{font-size:14px;font-weight:bold;line-height:28px}.bacb-more{text-decoration:none;position:absolute;font-size:12px;line-height:1;line-height:14px \9;top:8px;right:8px;padding-right:9px;padding-right:11px;background:url("http://img.baidu.com/img/baike/s/arr.gif") no-repeat 54px -22px;background-position:54px -23px \9}.bacb-more:hover{text-decoration:none}.bacb-left-btn,.bacb-window-outer,.bacb-right-btn{float:left}.bacb-left-btn,.bacb-right-btn{display:block;text-decoration:none;border:1px solid #FFF;width:17px;height:53px;background:url(http://img.baidu.com/img/baike/bkalbumbtn.gif) no-repeat;cursor:default}.bacb-left-btn{margin:59px 3px 0 6px;_margin-left:3px;background-position:3px 16px}.bacb-right-btn{margin:59px 5px 0 6px;background-position:-27px 16px}.left-enable:hover{background-position:-61px 16px;border:1px solid #DDD;cursor:pointer}
+.right-enable:hover{background-position:-91px 16px;border:1px solid #DDD;cursor:pointer}.bacb-window-outer{width:628px;height:185px;position:relative;overflow:hidden;margin-top:15px}.bacb-window-inner{position:absolute;top:0;left:0;width:650px;padding-left:6px;_padding-top:1px}.bacb-window-inner .item{float:left;width:156px;height:195px}.bacb-window-inner .img{zoom:1}.bacb-window-inner .img .b1,.bacb-window-inner .img .b2,.bacb-window-inner .img .b3,.bacb-window-inner .img .img-wrapper{background-color:#FFF}.bacb-window-inner .img .b1{border:1px solid #CDCDCD;float:left;position:relative;left:0;top:6px}.bacb-window-inner .img .b2{border:1px solid #CDCDCD;position:relative;left:3px;top:-3px}.bacb-window-inner .img .b3{border:1px solid #AAA;position:relative;left:3px;top:-3px;padding:2px}.bacb-window-inner .img .img-wrapper{left:9px;bottom:9px;display:block;text-decoration:none;line-height:1px}.bacb-window-inner .item .desc{clear:both;display:inline-block;text-align:center;font-family:宋体;width:145px;margin-top:13px;font-size:12px;line-height:1;line-height:14px \9}
+.bacb-window-inner .item .count{color:#999;white-space:nowrap}</style>
+<script type="text/javascript">/*<![CDATA[*/bk.view.albumCollect=function(E,J,A){var _=baidu.object.keys(E).length;if(_<=4){return;}var H=0,C=4,B=[];for(var N in E){B.push([N,"http://imgsrc.baidu.com/baike/abpic/item/"+E[N].cover+".jpg",E[N].desc,E[N].count]);}if(_>4){baidu.addClass("bacb-right-btn-"+A,"right-enable");}baidu.setStyle("bacb-window-inner-"+A,"width",165*_+100+"px");var I=function(C,B){var _="BkImgGettingSize"+(new Date()).valueOf(),A=window[_]=document.createElement("IMG");A.onload=function(){var A=this;setTimeout(function(){B(A.width,A.height,window[_]);window[_]=null;},10);this.onload=null;};A.onerror=function(){B(0,0);window[_]=null;};A.src=C;},K=function(A,_){var B=baidu.string.getByteLength(A);if(B>_){return baidu.string.subByte(A,_-4)+"...";}else{return A;}},M=null,G=function(){if(M){M.stop();}var B=parseInt(baidu.getStyle("bacb-window-inner-"+A,"left")),_=-H*156;if(B==_){return;}M=new bk.editor.ani(70,function(_){return _;},17);M.start(function(C){baidu.setStyle("bacb-window-inner-"+A,"left",B+(_-B)*C+"px");},function(){baidu.setStyle("bacb-window-inner-"+A,"left",_+"px");M=null;});},F=function(){if(_<5){return;}baidu.on("bacb-left-btn-"+A,"click",function(){if(H<1){return;}H--;G();L();});baidu.on("bacb-right-btn-"+A,"click",function(){if(H>_-5){return;}H++;G();L();});},L=function(){if(H==0){baidu.removeClass("bacb-left-btn-"+A,"left-enable");}else{baidu.addClass("bacb-left-btn-"+A,"left-enable");}if(H==_-4){baidu.removeClass("bacb-right-btn-"+A,"right-enable");}else{baidu.addClass("bacb-right-btn-"+A,"right-enable");}},D=function(){if(C==_){F();return;}var E=B[C][1];I(E,function(I,H){var F=document.createElement("DIV");F.className="item";var _=0,L=0;if(I>H){L=parseInt(133*H/I);_=133;}else{_=parseInt(133*I/H);L=133;}var G="/albums/"+J+"/"+A+".html#"+parseInt(B[C][0])+"$";F.innerHTML='<div class="img" style="margin-top:'+(134-L)+"px; margin-left:"+Math.floor((133-_)/2)+'px;"><div class="b1"><div class="b2"><div class="b3"><a href="'+G+'" target="_blank" class="img-wrapper"><img src="'+E+'"width="'+_+'" height="'+L+'" ondragstart="return false;"/></a></div></div></div></div><p class="desc"><a href="'+G+'" target="_blank" title="'+B[C][2]+'">'+K(B[C][2],18)+'</a><span class="count">('+B[C][3]+"\u5f20)</span></p>";baidu.g("bacb-window-inner-"+A).appendChild(F);C++;D();});};D();};/*]]>*/</script>
+<div class="bk-album-collection-box log-set-param" id="bk-album-collection-box-1088645" log-set-param="albcol_view">
+<div class="bacb-head"><span class="bacb-title">词条图册</span><a class="bacb-more nslog:1205" href="/albums/1088645/1088645.html" target="_blank">更多图册</a></div>
+<a class="bacb-left-btn  nslog:1260" href="javascript:void(0);" id="bacb-left-btn-1088645"></a>
+<div class="bacb-window-outer">
+<div class="bacb-window-inner nslog-area" data-nslog-type="1204" id="bacb-window-inner-1088645">
+<div class="item" style="visibility:hidden">
+<div class="img">
+<div class="b1">
+<div class="b2">
+<div class="b3">
+<a class="img-wrapper" href="/albums/1088645/1088645.html#0$" target="_blank">
+<img ondragstart="return false" onload="tools.image.sizelimit(this,133,133);var _=baidu.dom.getAncestorByClass(this,&#34;img&#34;);baidu.dom.setAttrs(_,{style:&#34;margin-top:&#34;+(134-this.height)+&#34;px;margin-left:&#34;+(133-this.width)/2+&#34;px;&#34;});_.parentNode.style.visibility=&#34;visible&#34;" src="http://imgsrc.baidu.com/baike/abpic/item/3bc6f7503f5b86661038c288.jpg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<p class="desc"><a href="/albums/1088645/1088645.html#0$" target="_blank" title="词条图片">词条图片</a><span class="count">(10张)</span>
+</p>
+</div>
+</div>
+</div>
+<a class="bacb-right-btn nslog:1260" href="javascript:void(0);" id="bacb-right-btn-1088645"></a>
+</div>
+<script type="text/javascript">baidu.on(window,"load",function(){bk.view.albumCollect({"0 ":{"desc":"\u8bcd\u6761\u56fe\u7247","count":10,"cover":"3bc6f7503f5b86661038c288","pic":[{"imgId":"3bc6f7503f5b86661038c288","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"4651a712bc8983f4c3fd7894","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"a8ad9413b55222eaf7039e95","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"c856613e0f7f890770cf6c95","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"f7657560f845c77eebf8f896","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"964b2e4e4768d5f0d1c86a96","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"f29faa8fb22cd4d4f01f3697","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"43e6c7335ded9179ad4b5f97","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"d041a4a1bd6832b147106490","imgDesc":"\u5373\u65f6\u901a\u4fe1"},{"imgId":"fd428c45aff1940587947390","imgDesc":"\u5373\u65f6\u901a\u4fe1"}]}},"1088645","1088645");});</script>
+<script type="text/javascript">(function(){window.rsInsertData=window.rsInsertData||[];rsInsertData.push([1088645,[]]);})();</script>
+<div class="reinforce" id="lemmaExtend">
+<script type="text/javascript"></script><dl class="nslog-area log-set-param" data-nslog-type="19" id="viewExtCati" log-set-param="module_tag">
+<dt>开放分类：</dt>
+<dd>
+<a href='/taglist?tag=%CD%F8%C2%E7&tagfromview' target='_blank'>网络</a>，<a href='/taglist?tag=%BC%BC%CA%F5&tagfromview' target='_blank'>技术</a>，<a href='/taglist?tag=%CD%A8%D0%C5&tagfromview' target='_blank'>通信</a></dd>
+</dl>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<script>baikeViewInfo.cataList=[ {ele:"1", title:"简介",level:2,display:true},{ele:"2", title:"工具",level:2,display:true},{ele:"3", title:"功能",level:2,display:true},{ele:"4", title:"市场竞争",level:2,display:true},{ele:"5", title:"主流手机功能",level:2,display:true},{ele:"5_1",title:"GPRS资费",level:3,display:true},{ele:"5_2",title:"随e聊",level:3,display:true},{ele:"5_3",title:"邦邦通",level:3,display:true},{ele:"6", title:"发展瓶颈",level:2,display:true},{ele:"6_1",title:"调查",level:3,display:true},{ele:"6_2",title:"多功能",level:3,display:true},{ele:"6_3",title:"技术难度",level:3,display:true},{ele:"6_4",title:"通信系统",level:3,display:true},{ele:"6_5",title:"商业利益",level:3,display:true},{ele:"7", title:"面临问题",level:2,display:true},{ele:"8", title:"即时通信相关软件",level:2,display:true},{ele:"8_1",title:"即时通讯的行业应用",level:3,display:true},{ele:"8_2",title:"优势",level:3,display:true}];if(typeof PDC!="undefined"){PDC.tti();}</script>
+</div>
+<div class="clear"></div>
+</div>
+<div class="content-ft">
+<div class="reinforce">
+<dl class="nslog-area" data-nslog-type="18" id="relatedLemmaDown">
+<dt>
+<span class="related_edit">
+<a class="nslog:1005" href="#" onclick="userlogin.check(bk.view.editRelated,false,&#34;editrelated&#34;);return false">我来完善</a>
+</span>
+“即时通信”相关词条：
+</dt>
+<dd class="relative">
+<div class="clear"></div>
+<div id="onelinediv" style="visibility:hidden">
+<span id="onelinespan"></span>
+<span></span>
+<span></span>
+</div>
+<div class="word_more1" id="word_more" onclick="bk.view.showMoreRelated()" style="visibility:hidden"><div></div></div>
+<div class="word_more_con" id="word_more_con" style="display:none">
+<a href="/view/116905.htm?func=retitle" target="_blank" title="移动商务">移动商务</a>
+<a href="/view/1361106.htm?func=retitle" target="_blank" title="网络新闻">网络新闻</a>
+<a href="/view/1405540.htm?func=retitle" target="_blank" title="社交网络">社交网络</a>
+<a href="/view/15095.htm?func=retitle" target="_blank" title="IM">IM</a>
+<a href="/view/1524.htm?func=retitle" target="_blank" title="电子邮件">电子邮件</a>
+<a href="/view/171770.htm?func=retitle" target="_blank" title="短信服务">短信服务</a>
+<a href="/view/26890.htm?func=retitle" target="_blank" title="网络传真">网络传真</a>
+<a href="/view/3543.htm?func=retitle" target="_blank" title="网络游戏">网络游戏</a>
+<a href="/view/386212.htm?func=retitle" target="_blank" title="统一通信">统一通信</a>
+<a href="/view/6835.htm?func=retitle" target="_blank" title="彩信">彩信</a>
+<a href="/view/718159.htm?func=retitle" target="_blank" title="移动办公">移动办公</a>
+<a href="/view/821.htm?func=retitle" target="_blank" title="网络硬盘">网络硬盘</a>
+<a href="/view/7777.htm?func=retitle" target="_blank" title="网上购物">网上购物</a>
+<a href="/view/9803.htm?func=retitle" target="_blank" title="门户网站">门户网站</a>
+<a href="/view/2034405.htm?func=retitle" target="_blank" title="ucstar">ucstar</a>
+<a href="/view/77923.htm?func=retitle" target="_blank" title="手机游戏">手机游戏</a>
+<a href="/view/2604270.htm?func=retitle" target="_blank" title="EC企业即时通信软件">EC企业即时通信软件</a>
+<a href="/view/1703061.htm?func=retitle" target="_blank" title="T4">T4</a>
+<a href="/view/4425.htm?func=retitle" target="_blank" title="网络电视">网络电视</a>
+</div>
+<div class="clear"></div>
+</dd>
+</dl>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="end">
+<p class="declare">百度百科中的词条内容仅供参考，如果您需要解决具体问题（尤其在法律、医学等领域），建议您咨询相关领域专业人士。</p>
+<div class="text_vote1" id="vote_btn"><b id="vote_num"></b><span id="vote_txt">本词条对我有帮助</span></div>
+</div><div class="layout share">
+<div class="share-item-title">
+<a class="cang nslog:99" href="http://cang.baidu.com/do/add" onclick="window.open(&#34;http://cang.baidu.com/do/add?it=&#34;+encodeURIComponent(document.title)+&#34;&amp;iu=&#34;+encodeURIComponent(location.href)+&#34;&amp;tn=%E7%99%BE%E7%A7%91%E8%AF%8D%E6%9D%A1%2C&amp;fr=bk#nw=1&#34;,&#34;_s&#34;,&#34;scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable= yes&#34;);return false" target="_blank" title="添加到搜藏">添加到搜藏</a>
+</div>
+<div class="share-item clearfix" id="bdsharebox">
+<span class="share-tip">分享到:</span>
+<div class="bdshare_t bds_tools get-codes-bdshare" data="{'url':'http://baike.baidu.com/view/1088645.htm','text':'【即时通信_百度百科】(IM)是指能够即时发送和接收互联网消息等的业务。1998年即时通信的功能日益丰富，逐渐集成了电子邮件、博客、音乐、电视、游戏和搜索等多种功能。即时通信不......','pic':'http://imgsrc.baidu.com/baike/abpic/item/3bc6f7503f5b86661038c288.jpg','wbuid':1647247597}" id="bdshare">
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_douban"></a>
+<a class="bds_tsohu"></a>
+<a class="bds_t163"></a>
+<a class="bds_renren"></a>
+<span class="bds_more">更多</span>
+</div>
+<script data="type=tools&amp;uid=71" id="bdshare_js" type="text/javascript"></script>
+<script id="bdshell_js" type="text/javascript"></script>
+</div>
+</div>
+<dl class="lemma-ext-bottom nslog-area" data-nslog-type="16">
+<dt>合作编辑者</dt>
+<dd>
+<div class="onelineonly">
+<span id="co-editors">
+<span>
+<a title='查看此用户资料' class='usercard' userName='紧急出口'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%BD%F4%BC%B1%B3%F6%BF%DA#3'>紧急出口</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='lzf19680312'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=lzf19680312#3'>lzf19680312</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='yueiqcyue'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=yueiqcyue#3'>yueiqcyue</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='百科ROBOT'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B0%D9%BF%C6ROBOT#3'>百科ROBOT</a></span>
+<span>
+， <a href="http://baike.baidu.com/cms/s/kdt/index.html" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/tadpole.gif" title="百科蝌蚪团"/></a>
+<a title='查看此用户资料' class='usercard' userName='一米新曦'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D2%BB%C3%D7%D0%C2%EA%D8#3'>一米新曦</a></span>
+<span>
+， <a href="http://baike.baidu.com/cms/s/kdt/index.html" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/tadpole.gif" title="百科蝌蚪团"/></a>
+<a title='查看此用户资料' class='usercard' userName='cxh1025'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=cxh1025#3'>cxh1025</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='ucwork'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=ucwork#3'>ucwork</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='paulwxh'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=paulwxh#3'>paulwxh</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='夜来风雨声声声'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D2%B9%C0%B4%B7%E7%D3%EA%C9%F9%C9%F9%C9%F9#3'>夜来风雨声声声</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='douweiwei'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=douweiwei#3'>douweiwei</a></span>
+</span>
+</div>
+<a class="f12 ref_more" href="/update/id=1088645?from=au" id="more-coeditor" style="display:none" target="_blank">更多</a>
+<div class="clear"></div>
+<div class="try f12">如果您认为本词条还需进一步完善，百科欢迎您也来参与<a class="try-edit" href="#" onclick="bk.view.editLemma(&#34;/edit/&#34;,&#34;1088645&#34;);return false">编辑词条</a>在开始编辑前，您还可以先学习<a href="http://www.baidu.com/search/baike_help.html#编辑原则" target="_blank">如何编辑词条</a></div>
+</dd>
+</dl>
+<p class="bk-feedback">
+如想投诉，请到<a class="nslog:1006" href="http://tousu.baidu.com/baike" target="_blank">百度百科投诉中心</a>；如想提出意见、建议，请到<a class="nslog:1007" href="http://tieba.baidu.com/f?kw=%b0%d9%b6%c8%b0%d9%bf%c6" target="_blank">百度百科吧</a>。
+</p>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="col-sub" id="side">
+<div class="userinfo-side">
+<div id="userInfoDiv">
+</div>
+</div>
+<div class="box2" id="lemma-overview">
+<div class="box2-inner">
+<h2>词条统计</h2>
+<p class="info f12">
+浏览次数：约 <span id="viewPV"></span>
+次
+<br/>
+编辑次数：14次 <a class="nslog:1021" href="/update/id=1088645" target="_blank">历史版本</a>
+<br/>
+最近更新：<span id="lastModifyTime">2012-01-31</span>
+<br/>
+创建者：<span class="nslog:1022"><a title='查看此用户资料' class='usercard' userName='阿猫猫猫'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B0%A2%C3%A8%C3%A8%C3%A8#3'>阿猫猫猫</a></span>
+</p>
+</div>
+</div>
+<style>.authority-morelink{float:right;text-decoration:underline}</style>
+<div class="box2 nslog-area" id="pro-contributors">
+<div class="box2-inner">
+<h2><span><a href="http://baike.baidu.com/update/id=1088645" target="_blank">更多</a></span>贡献光荣榜</h2>
+<div class="usercard-info" title=""><img class="what-contri" src="http://img.baidu.com/img/baike/blank.gif"/>鼠标滑过用户名，我们有名片啦！</div>
+<div id="contri-div">
+<table border="0" cellpadding="0" cellspacing="0" class="topuser f12" width="235px;">
+<tr>
+<td class="contri-type" colspan="4"><strong>辛勤贡献者：</strong><img align="absmiddle" class="what" src="http://img.baidu.com/img/baike/blank.gif" title="贡献复杂版本，被称为辛勤贡献者"/></td>
+</tr>
+<tr>
+<td width="18">
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='yueiqcyue'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=yueiqcyue#3'>yueiqcyue</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level1" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=20817065" target="_blank">版本</a>
+</td>
+</tr>
+<tr>
+<td width="18">
+<a href="http://baike.baidu.com/cms/s/kdt/index.html" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/userrole/odp1.png" title="百科蝌蚪团"/></a>
+</td>
+<th width="100"><a title='查看此用户资料' class='usercard' userName='一米新曦'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D2%BB%C3%D7%D0%C2%EA%D8#3'>一米新曦</a></th>
+<td align="right" width="60">
+<a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank"><img align="absmiddle" class="usertitle level8" src="http://img.baidu.com/img/baike/blank.gif" style="width:60px"/></a>
+</td>
+<td align="right" width="74">
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" src="http://img.baidu.com/img/baike/contri/complex.png" title="为词条改进贡献了复杂版本的用户，被称为辛勤贡献者"/></a>&#160;
+<a class="contri-a nslog:1040" href="/history/id=11748708" target="_blank">版本</a>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="box2" id="bkDynamic" style="display:none">
+<div class="box2-inner">
+<h5 id="profileTitle"></h5>
+<div class="f12">
+<dl class="task nslog-area" data-nslog-type="1023" id="task" style="display:none">
+</dl>
+<dl class="notice nslog-area" data-nslog-type="1024" id="notice">
+</dl>
+</div>
+</div>
+</div>
+<div class="box2" id="mabox" style="display:none">
+<div class="box2-inner" id="box2-inner">
+<script type="text/javascript">var arrBaiduAds=new Array();function BaiduAdsDisplay(_){if(typeof(arrBaiduAds[_])=="undefined"||arrBaiduAds[_]==""){return;}G("mabox").style.display="";nslog.set("maad",1);G("box2-inner").innerHTML=arrBaiduAds[_];}</script>
+<script type="text/javascript">/*<![CDATA[*/baidu.sio.callByBrowser("http://a.baidu.com/ecom?di=216&tm=baiduASPT216S&tn=baidubaike_pg&word=%BC%B4%CA%B1%CD%A8%D0%C5",function(){BaiduAdsDisplay(216);});/*]]>*/</script>
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+</div><img src="http://c.baidu.com/c.gif?t=7&amp;q=%BC%B4%CA%B1%CD%A8%D0%C5&amp;p=0" style="display:none"/><input id="titleVal" type="hidden" value="即时通信"/>
+</div>
+<div class="nslog-area" data-nslog-type="1001" id="footer">
+&#169; 2012 Baidu <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>
+</div>
+</div>
+<div id="sidecatalog" style="position:absolute;display:none">
+<div class="sidebar" id="sidebar"></div>
+<a class="gotop" href="#" id="gotop" title="返回顶部"></a>
+</div>
+<div id="side-catalog-content" style="display:none;position:absolute"></div>
+<script src="http://baike.bdimg.com/static/common/js/view_bottom.js?@=bbah3h" type="text/javascript"></script><script charset="utf-8" src="/guanxi/static/js/lemma_insert.js" type="text/javascript"></script><script type="text/javascript">/*<![CDATA[*/if((baikeViewInfo.expIndex!=0)&&!(window.location.hash)){window.location.hash="#sub1088645";}nslog.set("page","view");nslog.set("lemmaid","1088645");nslog.set("ispolysemy","0");baidu.page.loadJsFile("http://baike.bdimg.com/static/lemma/liteoutput/view.js?@=13csb60");baidu.page.loadJsFile("http://baike.bdimg.com/static/usercenter/js/liteoutput/bk.uc_lemma.js?@=184uzx7");baidu.page.loadJsFile("http://img.baidu.com/hunter/baike.js?st="+parseInt(new Date()/86400000));if(typeof PDC!="undefined"){PDC.init({is_login:false,sample:0.01,product_id:103,page_id:1});}/*]]>*/</script><script type="text/javascript">/*<![CDATA[*/(function(){function _(B){var A="baikelog_"+(new Date()).getTime(),_=window[A]=new Image();_.onload=_.onerror=function(){window[A]=null;};_.src="http://nsclick.baidu.com/v.gif?pid=103&type="+B+"&url="+encodeURIComponent(location.href)+"&t="+(new Date()).getTime();_=null;}if(typeof baidu=="undefined"){_(3601);}})();/*]]>*/</script>
+</body>
+</html>
+<script>PDC._load_js=function(b,c){var a=document.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src",b);a.onload=a.onreadystatechange=function(){if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete"){a.onload=a.onreadystatechange=null;if(typeof c==="function"){c(b,true)}}};a.onerror=function(d){if(typeof c==="function"){c(b,false)}};document.getElementsByTagName("head")[0].appendChild(a)};PDC._load_analyzer=function(){if(PDC._is_sample()==false){return}PDC._analyzer.loaded=true;PDC._load_js(PDC._analyzer.url,function(){var c=PDC._analyzer.callbacks;for(var b=0,a=c.length;b<a;b++){c[b]()}})};PDC.send=function(){if(PDC._analyzer.loaded==true){WPO_PDA.send()}else{PDC._analyzer.callbacks.push(function(){WPO_PDA.send()})}};PDC._is_sample=function(){var e=false,d=this._opt.sample,b=0;if(window.performance&&window.performance.timing){d=d*5}var c=new Date().getHours();if(c>1&&c<8){d=d*5}d=d>0.9?0.9:d;d=d<0.0001?0.0001:d;var a=document.cookie.match(/BAIDUID=(\w*):/);if(a){b=parseInt(a[1].slice(-4),16);b=isNaN(b)?0:b}if(d<=0.5){e=(b%(parseInt(1/d))==1)}else{e=(b%(parseInt(1/(1-d)))!=1)}return e};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("lt")},false)}else{window.addEventListener("load",function(){PDC.mark("let");PDC._load_analyzer()})}})();</script>

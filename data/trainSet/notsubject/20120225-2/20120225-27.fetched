@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+
+<head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<title>搜狐客户服务中心-我的搜狐</title>
+<meta name="Keywords" content="博客,Blog,Blogger,搜狐,Sohu,网络日志 搜狐客户服务中心" />
+<meta name="description" content="搜狐客户服务中心 搜狐客户服务中心" />
+<meta name="robots" content="index,follow" />
+<script type="text/javascript">
+var JSPATH = {},
+HCP='http://js2.pp.sohu.com.cn/ppp/js/common_v_110126/',
+HMP='http://js4.pp.sohu.com.cn/ppp/js/module_v_110706/',
+HTP='http://js5.pp.sohu.com.cn/ppp/js/tool_v_090418/';
+JSPATH.util={common:HCP+'common.js',module:HMP,tool:HTP};
+
+var BLOG_SP = 'http://js3.pp.sohu.com.cn/ppp/blog/js_ppp_v_110922/';
+JSPATH.blog={_path:BLOG_SP};
+
+var TP = 'http://js2.pp.sohu.com.cn/ppp/group/toolbar_v_090827/';
+
+</script>
+
+<link href="http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/def/style.css" rel="stylesheet" type="text/css" />
+
+
+<link id="themeCss" href="http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/p1003/style.css" themeid="p1003" rel="stylesheet" type="text/css" />
+
+
+<link rel="stylesheet" type="text/css" href="http://js3.pp.sohu.com.cn/ppp/blog/entry_v_20110921/css/revoArticle.v.110921.css" /> 
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://sohucallcenter.blog.sohu.com/rss" />
+
+</head>
+<body>
+<a name="top"></a>
+<script type="text/javascript">
+var _blog_base_url = 'http://sohucallcenter.blog.sohu.com/';
+var _blog_base_path = 'http://sohucallcenter.blog.sohu.com/';
+var _blog_domain='sohucallcenter';
+var _ebi = 'f8367ba792';
+var _ept = 'kefufeiyuyin';
+var _upt = 'a2VmdWZlaXl1eWluQHNvaHUuY29t';
+var _xpt = 'a2VmdWZlaXl1eWluQHNvaHUuY29t';
+var _theme='p1003';
+// var _ppsrc='http://frag.pp.sohu.com/people/kefufeiyuyin/4.html';
+var _musicbox_data='uid%3Dkefufeiyuyin%40sohu.com%26md5%3DDF83608D13595AE0B1B4375B3FB293E6';
+var _musicbox_path = '/flash/musicbox_070718/';
+var _vchannel_path = '/flash/vchannel_061107/';
+var _vchannel_ver = '2,0,0,68';
+var _pp_set_flash = 'pp_set_061113.swf';
+var _sff = true;
+var _sff_l = true;
+var showNewWidgtTip = false;
+var showNewThemeTip = false;
+</script>
+ 	<!-- <link rel="stylesheet" type="text/css" href="http://js6.pp.sohu.com.cn/core/js/jquery/itoolbar/global.css" charset="utf-8"/> -->
+    <script type="text/javascript">
+          var toolbarSysRec = [
+                                
+                   
+                   
+];
+
+function showToolbarAd(){
+	try {
+	        if (toolbarSysRec) {
+	                var len = toolbarSysRec.length;
+	                if (!toolbarSysRec[len - 1]) {
+	                        len = len - 1;
+	                }
+	                var n = Math.floor(Math.random() * len);
+	                var rd = toolbarSysRec[n];
+	                return '<a href="'+ rd.tip.url + '" target="_blank" onmousedown="CA.q(\'toolbar_tips\');">'
+	                                                + rd.tip.title + '</a>';
+	        }
+	} catch (err) {
+		
+	}
+     return '';
+}
+</script>
+<div id="isohu-topbar" data-appid="1019" data-type="blog" ></div>
+ 
+       
+<div id="_preLoadText" style="text-align:center;">loading...</div>
+
+<script type="text/javascript">
+var SP = BLOG_SP;
+var ThP = 'http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp_v_101026/';
+var WP = '/ppp/blog/widgets_v_120202/';
+var UWAP = 'http://js3.pp.sohu.com.cn/ppp/blog/widgets_v_080920/uwa_widget/';
+document.write('<scr'+'ipt type="text/javascript" src="'+ SP + 'sohublog.js"></scr'+'ipt>');
+var SL = [SP+'log.js', 'http://js2.pp.sohu.com.cn/ppp/blog/js_v_100326/pp18030_all.v.10051701.js', 'http://', HCP+'common.js', SP+'common.v.120202.js', HTP+'effect.js'];
+</script>
+<script type="text/javascript">
+lsl(SL);
+
+var noToolBar = true;
+lsl([TP+'toolbar.v.11032401.js']); 
+</script>
+ <script type="text/javascript" src="http://js6.pp.sohu.com.cn/core/js/jquery/jquery.js" charset="utf-8">
+        </script>
+<script type="text/javascript" src="http://r.suc.itc.cn/combo.action?v.110901&r=/itoolbar/core/base64.js|/itoolbar/core/jquery.cookie.js|/itoolbar/core/jquery.easing.js|/itoolbar/core/jquery.hotmap.js|/itoolbar/core/passport.js&t=js&c=utf-8" charset="utf-8"></script>
+ <script type="text/javascript" src="http://r.suc.itc.cn/loader.itoolbar.public.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+var SPL = [SP+'appOpt.v.10101801.js', SP+'app.v.110921.js'];
+lsl(SPL);
+</script>
+<script type="text/javascript">
+if (App.Permit.ableLog) {
+$LT('js lib loaded');
+Log._t_startLoadPage = new Date().getTime();
+}
+</script>
+<div id="wrapper">
+  <div id="innerWrapper">
+    
+
+
+
+<div id="topPadding"></div>
+<div id="header">
+  <div id="playerBox"><div id="innerPlayerBox"></div></div>
+  <div id="innerHeader">
+  
+	<div id="blogLogo"><a href="http://blog.sohu.com"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/spacer.gif" id="logo" alt="搜狐博客" /></a></div>
+	<h1 id="blogTitle"><a href="http://sohucallcenter.blog.sohu.com/"  id="blogAdmin" onmousedown="CA.q('blog_header_title');">搜狐客户服务中心</a></h1>
+	<div id="blogUrl">
+		<!-- a href="http://sohucallcenter.blog.sohu.com/">http://sohucallcenter.blog.sohu.com/</a --> 
+		<a href="http://sohucallcenter.blog.sohu.com/" class="navUrl" title="查看搜狐客户服务中心的首页"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/custom/icons/house.gif" alt="首页" align="absmiddle"  border="0"/></a><a href="http://sohucallcenter.blog.sohu.com/" class="navUrl" title="查看搜狐客户服务中心的首页">首页</a>
+        <a href="http://sohucallcenter.blog.sohu.com/entry/" class="navUrl" title="查看搜狐客户服务中心的日志" onmousedown="CA.q('blog_header_entry');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_entry.gif" alt="日志" align="absmiddle"  border="0"/></a><a href="http://sohucallcenter.blog.sohu.com/entry/" target="_blank" class="navUrl" title="查看搜狐客户服务中心的日志" onmousedown="CA.q('blog_header_entry');">日志</a> 
+        <a href="http://sohucallcenter.blog.sohu.com/album/" class="navUrl" title="查看搜狐客户服务中心的相册" onmousedown="CA.q('blog_header_photo');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_picture.gif" alt="相册" align="absmiddle" border="0" /></a><a href="http://sohucallcenter.blog.sohu.com/album/" class="navUrl" title="查看搜狐客户服务中心的相册" onmousedown="CA.q('blog_header_photo');">相册</a> 
+        <a href="http://my.tv.sohu.com/people/a2VmdWZlaXl1eWluQHNvaHUuY29t" target="_blank" class="navUrl" title="查看搜狐客户服务中心的视频" onmousedown="CA.q('blog_header_video');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_video.gif" alt="视频" align="absmiddle" border="0" /></a><a href="http://my.tv.sohu.com/people/a2VmdWZlaXl1eWluQHNvaHUuY29t" target="_blank" class="navUrl" title="查看搜狐客户服务中心的视频" onmousedown="CA.q('blog_header_video');">视频</a> 
+        <a href="http://sohucallcenter.i.sohu.com/mblog/index.htm" class="navUrl" title="查看搜狐客户服务中心的微博"><img  border ="0" src="http://s1.suc.itc.cn/myspace/images/icon.gif" alt="微博" align="absmiddle" /></a><a href="http://sohucallcenter.i.sohu.com/mblog/index.htm" class="navUrl" title="查看搜狐客户服务中心的微博">微博</a> 
+        <a href="http://sohucallcenter.i.sohu.com/profile/index.htm" class="navUrl" title="查看搜狐客户服务中心的个人资料" onmousedown="CA.q('blog_header_profile');"><img  border ="0" src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_profile.gif" alt="资料" align="absmiddle" /></a><a href="http://sohucallcenter.i.sohu.com/profile/index.htm" class="navUrl" title="查看搜狐客户服务中心的个人资料" onmousedown="CA.q('blog_header_profile');">资料</a>
+        <a href="http://sohucallcenter.blog.sohu.com/app/soShare/" class="navUrl" title="查看搜狐客户服务中心的分享" onmousedown="CA.q('blog_header_share');"><img src="http://js1.pp.sohu.com.cn/ppp/images/icons/ico_share2.gif" alt="分享" align="absmiddle"  border="0"/></a><a  href="http://sohucallcenter.blog.sohu.com/app/soShare/" class="navUrl" title="查看搜狐客户服务中心的分享" onmousedown="CA.q('blog_header_share');">分享</a> 
+		<a href="http://sohucallcenter.blog.sohu.com/rss" target="_blank" onmousedown="CA.q('blog_header_rss');"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_rss.gif" alt="RSS订阅" align="absmiddle" /></a>
+		<a href="javascript:void(0)" name="onlineIcon" style="display:none" rel="" param="a2VmdWZlaXl1eWluQHNvaHUuY29t;搜狐客户服务中心"></a>
+	</div>
+	<div id="blogDesc">搜狐客户服务中心</div>
+  </div>
+</div>
+<div id="navBar">
+  <div id="innerNavBar">
+		<ul id="mainNav">
+
+		</ul>
+	<ul id="optionNav">
+	  <li id="mngOpr"></li>
+	</ul>
+	<div class="clear"></div>
+  </div>
+</div>
+<div id="neckWrapper"><div id="innerNeckWrapper"></div></div>
+    <div id="mainWrapper">
+<div id="_preLoadImg" style="padding:30px;text-align:center;">
+请稍候，正在下载...<br /><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/loader.gif" alt="loading" />
+</div>
+	</div>
+	<script type="text/javascript">
+		var eccs = {
+				"173768046":5,
+				"163356699":3,
+				"141379479":11,
+				"141378723":3,
+				"137565242":6,
+				"133360065":11,
+				"132659579":0,
+				"111936156":22,
+				"98295534":14,
+				"86094904":14
+		}
+		
+
+		var preloadUserData = [
+			{
+				id: "m_404",
+				type: "order",
+				title: "order",
+				data: [
+{"id": "p_69691fa77e9", "colStyle": "75:25", "title": "搜狐客服中心", "ico": "38", "type": "0", "permit": "0", "mods": [["m_19834321", "m_18343583", "m_39347597", "m_17781671", "m_39313227", "m_17781719", "m_17781567", "m_39313233", "m_18343596", "m_17781613", "m_32358124"], ["m_19833583", "m_17842970", "m_1", "m_12"]]}, 
+{"id": "p_bd070fa77e9", "colStyle": "33:33:33", "title": ".", "ico": "7", "type": "0", "permit": "0", "mods": [["m_17802871", "m_20061630", "m_17802152", "m_17782136", "m_17798817", "m_17803674"], ["m_17803666", "m_20061153", "m_18960854", "m_17797439", "m_17803678", "m_17803671"], ["m_17803664", "m_20062303", "m_17796978", "m_17799245", "m_17803676", "m_17803668"]]}, 
+{"id": "p_69a89edcae9", "colStyle": "25:50:25", "title": "◇So聚互动◇", "ico": "57", "type": "0", "permit": "0", "mods": [["m_19685283", "m_19685252", "m_32358556"], ["m_18944504", "m_6", "m_18862968", "m_14"], ["m_43", "m_45", "m_19653959", "m_32358647"]]}, 
+{"id": "p_92152fa77e9", "colStyle": "33:33:33", "title": "搜狐客服团队", "ico": "103", "type": "0", "permit": "0", "mods": [["m_17940634", "m_17991393", "m_17991389"], ["m_17940313", "m_17987378", "m_17989690", "m_14"], ["m_17940751", "m_17987329", "m_17988055"]]}, 
+{"id": "p_eddb01f4d5a", "colStyle": "33:33:33", "title": "申请表", "ico": "0", "type": "0", "permit": "0", "mods": [["m_35623523"], [], []]}
+]
+			},
+                        { id: "m_19834321", type: "pp_set", title: "", data: {"id":"21338112","name":"搜狐客户服务中心","type":"1","num":"1","ppuserid":20710749} },
+                        { id: "m_18343583", type: "Text_Note", title: "搜狐微博", data: {"content":"■ 客户服务电话：010-58511234-按1键<br />客服服务邮箱：sohublog@sohu-inc.com"} },
+                        { id: "m_39347597", type: "Text_Note", title: "我的搜狐", data: {"content":"“我的搜狐”服务联系方式<br />客户服务电话：01058511234 按4#键"} },
+                        { id: "m_17781671", type: "Text_Note", title: "搜狐邮箱", data: {"content":"■ 搜狐邮箱服务联系方式<br />客户服务电话：010-58511234-按2键<br />客户服务邮箱:webmaster@vip.sohu.com"} },
+                        { id: "m_39313227", type: "Text_Note", title: "搜狐付费视频", data: {"content":"■ 搜狐付费视频服务联系方式<br />客户服务电话：010-58511234-按3键"} },
+                        { id: "m_17781719", type: "Text_Note", title: "搜狐博客", data: {"content":"■ 搜狐博客服务联系方式<br />客户服务电话：010-58511234-按4键<br />客户服务邮箱：sohublog@sohu-inc.com"} },
+                        { id: "m_17781567", type: "Text_Note", title: "搜狐白社会校友录", data: {"color":"transparent","content":"■ 白社会、校友录咨询联系方式<br />客户服务电话： 010-58511234-按5键<br />客户服务邮箱：sohubai@sohu-inc.com<br />客户服务BBS：http://club.chinaren.com/1"} },
+                        { id: "m_39313233", type: "Text_Note", title: "搜狐钱包", data: {"content":"■ 搜狐钱包服务联系方式<br />客户服务电话： 010-58511234-按6键"} },
+                        { id: "m_18343596", type: "Text_Note", title: "搜狐焦点", data: {"content":"■ 搜狐焦点联系方式<br />客户服务电话：4006782020"} },
+                        { id: "m_17781613", type: "Text_Note", title: "搜狐天龙游戏", data: {"content":"■ 搜狐天龙八部游戏服务联系方式<br />客服电话：022-27695566<br />客户服务传真：010-62726942 <br />在线客服地址：http://gm.changyou.com/tl/<br />快递或邮寄地址：中国北京市石景山区石景山路29号京燕饭店东座&nbsp; 搜狐游戏客户服务中心 邮编：100043"} },
+                        { id: "m_32358124", type: "music", title: "", data: {"skin":"2","play":"hand"} },
+                        { id: "m_19833583", type: "Custom_Links", title: "客服中心帮助", data: {"ico":"bookmark","linkList":[{"tit":"客服中心帮助导航","desc":"","url":"http://sohucallcenter.blog.sohu.com/#tp_bd070fa77e9"}]} },
+                        { id: "m_17842970", type: "Custom_Links", title: "在线客服", data: {"ico":"bookmark","linkList":[{"tit":"搜狐*邮箱*在线客服","desc":"","url":"http://me.sohu.com/online_service.jsp?pid=13"},{"tit":"搜狐*博客*在线客服","desc":"","url":"http://me.sohu.com/online_service.jsp?pid=13"},{"tit":"搜狐*校友录*在线客服","desc":"","url":"http://me.sohu.com/online_service.jsp?pid=13"}]} },
+                        { id: "m_1", type: "profile", title: "个人资料", data: "" },
+                        { id: "m_12", type: "messages", title: "留言", data: "" },
+                        { id: "m_17802871", type: "Custom_Links", title: "搜狐通行证帮助", data: {"ico":"bookmark","linkList":[{"tit":"通行证帮助：什么是搜狐通行证?","desc":"","url":"http://sohucallcenter.blog.sohu.com/62587290.html"},{"tit":"通行证帮助：搜狐用户与其的联系","desc":"","url":"http://sohucallcenter.blog.sohu.com/62587654.html"},{"tit":"通行证帮助：通行证的自动登录","desc":"","url":"http://sohucallcenter.blog.sohu.com/62588072.html"},{"tit":"通行证帮助：用户名密码不正确","desc":"","url":"http://sohucallcenter.blog.sohu.com/62588297.html"},{"tit":"通行证帮助：密码忘了，怎么办？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62588688.html"},{"tit":"通行证帮助：自动登陆为何不默认","desc":"","url":"http://sohucallcenter.blog.sohu.com/62589152.html"},{"tit":"通行证帮助：提示浏览器不支持","desc":"","url":"http://sohucallcenter.blog.sohu.com/62589824.html"},{"tit":"|查看更多通行证帮助|","desc":"","url":"http://passport.sohu.com/help/"}]} },
+                        { id: "m_20061630", type: "Custom_Links", title: "搜狐PEAK服务帮助", data: {"ico":"bookmark","linkList":[{"tit":"PEAK服务帮助：搜狐支付中心","desc":"","url":"http://sohucallcenter.blog.sohu.com/71210063.html"},{"tit":"PEAK服务帮助：什么是狐币？","desc":"","url":"http://sohucallcenter.blog.sohu.com/71210122.html"},{"tit":"PEAK服务帮助：如何获得狐币？","desc":"","url":"http://sohucallcenter.blog.sohu.com/71210251.html"},{"tit":"PEAK服务帮助：专用狐币赠币积分","desc":"","url":"http://sohucallcenter.blog.sohu.com/71210341.html"},{"tit":"PEAK服务帮助：网上支付安全吗","desc":"","url":"http://sohucallcenter.blog.sohu.com/71210534.html"},{"tit":"PEAK服务帮助：查询交易记录","desc":"","url":"http://sohucallcenter.blog.sohu.com/71210870.html"},{"tit":"PEAK服务帮助：如何查看余额 ","desc":"","url":"http://sohucallcenter.blog.sohu.com/71211041.html"},{"tit":"|查看更多搜狐PEAK服务帮助|","desc":"","url":"http://up.sohu.com/help.up?catalog=0&item1=0&item=0"}]} },
+                        { id: "m_17802152", type: "Custom_Links", title: "搜狐校友录帮助", data: {"ico":"bookmark","linkList":[{"tit":"校友录帮助：如何加入班级？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62584604.html"},{"tit":"校友录帮助：如何创建新学校？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62584805.html"},{"tit":"校友录帮助：如何寻找学校？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62585016.html"},{"tit":"校友录帮助：如何寻找班级？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62585262.html"},{"tit":"校友录帮助：如何创建新班级？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62585451.html"},{"tit":"校友录帮助：什么是班级邀请功能","desc":"","url":"http://sohucallcenter.blog.sohu.com/62585652.html"},{"tit":"校友录帮助：如何做好班级管理员","desc":"","url":"http://sohucallcenter.blog.sohu.com/62586061.html"},{"tit":"|查看更多校友录帮助|","desc":"","url":"http://help.sohu.com/help_2.php?fatherid=3"}]} },
+                        { id: "m_17782136", type: "Custom_Links", title: "搜狐闪电邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"常见问题：outlook只能收不能发?","desc":"","url":"http://sohucallcenter.blog.sohu.com/62558551.html"},{"tit":"常见问题：Outlook设置","desc":"","url":"http://sohucallcenter.blog.sohu.com/62558736.html"},{"tit":"常见问题：忘记密码后怎么办","desc":"","url":"http://sohucallcenter.blog.sohu.com/62558976.html"},{"tit":"常见问题：如何开通手机邮件？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62559139.html"},{"tit":"常见问题：为什么无法登陆邮箱?","desc":"","url":"http://sohucallcenter.blog.sohu.com/62559311.html"},{"tit":"常见问题：邮件发送时不见了?","desc":"","url":"http://sohucallcenter.blog.sohu.com/62559475.html"},{"tit":"常见问题：发的邮件收不到还退信","desc":"","url":"http://sohucallcenter.blog.sohu.com/62559700.html"},{"tit":"|查看更多常见问题|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=54"}]} },
+                        { id: "m_17798817", type: "Custom_Links", title: "搜狐闪电邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"同名升级VIP：什么是同名升级？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62568577.html"},{"tit":"同名升级VIP：怎样完成同名升级","desc":"","url":"http://sohucallcenter.blog.sohu.com/62568868.html"},{"tit":"同名升级VIP：普通邮件能登陆吗","desc":"","url":"http://sohucallcenter.blog.sohu.com/62569206.html"},{"tit":"同名升级VIP：地址簿邮件怎么办","desc":"","url":"http://sohucallcenter.blog.sohu.com/62569670.html"},{"tit":"同名升级VIP：普邮能收到邮件吗","desc":"","url":"http://sohucallcenter.blog.sohu.com/62569960.html"},{"tit":"同名升级VIP：VIP有什么优点？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62570233.html"},{"tit":"同名升级VIP：不能升级VIP邮箱？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62570397.html"},{"tit":"|查看更多同名升级VIP|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=150"}]} },
+                        { id: "m_17803674", type: "Custom_Links", title: "搜狐VIP邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"手机邮件：如何获得手机提醒功能","desc":"","url":"http://sohucallcenter.blog.sohu.com/62596160.html"},{"tit":"手机邮件：短信提醒条数限制","desc":"","url":"http://sohucallcenter.blog.sohu.com/62596404.html"},{"tit":"手机邮件：设置暂时不接收提醒","desc":"","url":"http://sohucallcenter.blog.sohu.com/62596623.html"},{"tit":"手机邮件：设置后为何收不到了","desc":"","url":"http://sohucallcenter.blog.sohu.com/62597230.html"},{"tit":"手机邮件：更改手机邮件的号码","desc":"","url":"http://sohucallcenter.blog.sohu.com/62597429.html"},{"tit":"手机邮件：如是非手机邮件用户","desc":"","url":"http://sohucallcenter.blog.sohu.com/62597958.html"},{"tit":"手机邮件：退订手机提醒功能？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62598345.html"},{"tit":"|查看更多手机邮件|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=148"}]} },
+                        { id: "m_17803666", type: "Custom_Links", title: "搜狐博客帮助", data: {"ico":"bookmark","linkList":[{"tit":"博客帮助：我如何注册博客服务","desc":"","url":"http://sohucallcenter.blog.sohu.com/62605102.html"},{"tit":"博客帮助：修改博客基本信息？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62605423.html"},{"tit":"博客帮助：更改密码或找回密码","desc":"","url":"http://sohucallcenter.blog.sohu.com/62605658.html"},{"tit":"博客帮助：如何修改个人档案？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62605862.html"},{"tit":"博客帮助：设置自定义页面属性","desc":"","url":"http://sohucallcenter.blog.sohu.com/62606101.html"},{"tit":"博客帮助：标签区各部分功能介绍","desc":"","url":"http://sohucallcenter.blog.sohu.com/62606345.html"},{"tit":"博客帮助：关于博客的彩蛋功能","desc":"","url":"http://sohucallcenter.blog.sohu.com/62607233.html"},{"tit":"|查看更多博客帮助|","desc":"","url":"http://blog.sohu.com/help.html#1"}]} },
+                        { id: "m_20061153", type: "Custom_Links", title: "搜狐无线服务帮助", data: {"ico":"bookmark","linkList":[{"tit":"无线服务帮助：短信资费说明","desc":"","url":"http://sohucallcenter.blog.sohu.com/71208215.html"},{"tit":"无线服务帮助：订阅搜狐短信服务","desc":"","url":"http://sohucallcenter.blog.sohu.com/71208323.html"},{"tit":"无线服务帮助：什么是彩信？ ","desc":"","url":"http://sohucallcenter.blog.sohu.com/71208527.html"},{"tit":"无线服务帮助：彩信有什么应用","desc":"","url":"http://sohucallcenter.blog.sohu.com/71208779.html"},{"tit":"无线服务帮助：彩铃是什么 ","desc":"","url":"http://sohucallcenter.blog.sohu.com/71208897.html"},{"tit":"无线服务帮助：开通彩铃业务","desc":"","url":"http://sohucallcenter.blog.sohu.com/71208996.html"},{"tit":"无线服务帮助：如何下载搜狐彩铃","desc":"","url":"http://sohucallcenter.blog.sohu.com/71209070.html"},{"tit":"|查看更多搜狐无线服务帮助|","desc":"","url":"http://help.sohu.com/help_2.php?fatherid=1"}]} },
+                        { id: "m_18960854", type: "Custom_Links", title: "搜狐社区帮助", data: {"ico":"bookmark","linkList":[{"tit":"常见问题：关于社区删帖流程","desc":"","url":"http://sohucallcenter.blog.sohu.com/66901757.html"},{"tit":"常见问题：关于社区管理员投诉","desc":"","url":"http://sohucallcenter.blog.sohu.com/66901725.html"},{"tit":"常见问题：关于网友纠纷处理流程","desc":"","url":"http://sohucallcenter.blog.sohu.com/66901696.html"},{"tit":"常见问题：关于社区无法发言问题","desc":"","url":"http://sohucallcenter.blog.sohu.com/66901634.html"},{"tit":"常见问题：关于在线时长增长问题","desc":"","url":"http://sohucallcenter.blog.sohu.com/66901652.html"},{"tit":"常见问题：关于社区无法帖图问题","desc":"","url":"http://sohucallcenter.blog.sohu.com/66901788.html"},{"tit":"常见问题：关于用户如何升级问题","desc":"","url":"http://sohucallcenter.blog.sohu.com/66901822.html"},{"tit":"|查看更多社区常见问题|","desc":"","url":"http://sohucallcenter.blog.sohu.com/66902030.html"}]} },
+                        { id: "m_17797439", type: "Custom_Links", title: "搜狐闪电邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"使用问题:outlook收信，网页没了","desc":"","url":"http://sohucallcenter.blog.sohu.com/62565571.html"},{"tit":"使用问题：我的新邮件在垃圾箱中","desc":"","url":"http://sohucallcenter.blog.sohu.com/62565791.html"},{"tit":"使用问题：系统提示发邮件失败","desc":"","url":"http://sohucallcenter.blog.sohu.com/62566094.html"},{"tit":"使用问题：提示重新粘贴附件？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62566320.html"},{"tit":"使用问题:怎样拒收邮件呢?","desc":"","url":"http://sohucallcenter.blog.sohu.com/62566484.html"},{"tit":"使用问题：邮件帐户加到outlook","desc":"","url":"http://sohucallcenter.blog.sohu.com/62566639.html"},{"tit":"使用问题:如何管理我的文件夹？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62566994.html"},{"tit":"|查看更多使用问题|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=60"}]} },
+                        { id: "m_17803678", type: "Custom_Links", title: "搜狐VIP邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"常见问题：Foxmail设置方法","desc":"","url":"http://sohucallcenter.blog.sohu.com/62591208.html"},{"tit":"常见问题：OUTLOOK设置方法","desc":"","url":"http://sohucallcenter.blog.sohu.com/62591382.html"},{"tit":"常见问题：什么是“白名单”？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62591648.html"},{"tit":"常见问题：什么是“黑名单”？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62591854.html"},{"tit":"常见问题：如何举报垃圾邮件？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62592159.html"},{"tit":"常见问题：会不会收到病毒邮件","desc":"","url":"http://sohucallcenter.blog.sohu.com/62592489.html"},{"tit":"常见问题：可以发送多大的附件","desc":"","url":"http://sohucallcenter.blog.sohu.com/62592732.html"},{"tit":"|查看更多VIP邮箱常见问题|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=142"}]} },
+                        { id: "m_17803671", type: "Custom_Links", title: "搜狐VIP邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"网络U盘：什么是网络U盘？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62599330.html"},{"tit":"网络U盘：网络U盘都有什么功能 ","desc":"","url":"http://sohucallcenter.blog.sohu.com/62599546.html"},{"tit":"网络U盘：怎样上传文件？ ","desc":"","url":"http://sohucallcenter.blog.sohu.com/62599888.html"},{"tit":"网络U盘：对上传的文件进行编辑","desc":"","url":"http://sohucallcenter.blog.sohu.com/62600226.html"},{"tit":"网络U盘：与朋友共享上传的文件","desc":"","url":"http://sohucallcenter.blog.sohu.com/62600615.html"},{"tit":"网络U盘：将上传文件下载到本地","desc":"","url":"http://sohucallcenter.blog.sohu.com/62600843.html"},{"tit":"网络U盘：怎样登录使用网络U盘","desc":"","url":"http://sohucallcenter.blog.sohu.com/62601173.html"},{"tit":"|查看更多网络U盘|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=147"}]} },
+                        { id: "m_17803664", type: "Custom_Links", title: "博客声色版帮助", data: {"ico":"bookmark","linkList":[{"tit":"声色博客帮助：什么是声色博客","desc":"","url":"http://sohucallcenter.blog.sohu.com/62607794.html"},{"tit":"声色博客帮助：声色博客的特点","desc":"","url":"http://sohucallcenter.blog.sohu.com/62607952.html"},{"tit":"声色博客帮助：声色视频内容协议","desc":"","url":"http://sohucallcenter.blog.sohu.com/62608114.html"},{"tit":"声色博客帮助：如何转换格式","desc":"","url":"http://sohucallcenter.blog.sohu.com/62608616.html"},{"tit":"声色博客帮助：如何使用配形秀？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62608962.html"},{"tit":"声色博客帮助：支持视频的格式","desc":"","url":"http://sohucallcenter.blog.sohu.com/62609175.html"},{"tit":"声色博客帮助：如何制作节目单？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62609498.html"},{"tit":"|查看更多声色博客帮助|","desc":"","url":"http://v.blog.sohu.com/help/help1.html#1"}]} },
+                        { id: "m_20062303", type: "Custom_Links", title: "搜狐天龙八部帮助", data: {"ico":"bookmark","linkList":[{"tit":"天龙游戏帮助：如何找回登录密码","desc":"","url":"http://sohucallcenter.blog.sohu.com/71213480.html"},{"tit":"天龙游戏帮助：如何找回超级密码","desc":"","url":"http://sohucallcenter.blog.sohu.com/71213561.html"},{"tit":"天龙游戏帮助：修改填写的邮箱","desc":"","url":"http://sohucallcenter.blog.sohu.com/71213601.html"},{"tit":"天龙游戏帮助：忘记密码保护资料","desc":"","url":"http://sohucallcenter.blog.sohu.com/71213652.html"},{"tit":"天龙游戏帮助：忘记密码保护资料","desc":"","url":"http://sohucallcenter.blog.sohu.com/71213833.html"},{"tit":"天龙游戏帮助：未填写保护资料","desc":"","url":"http://sohucallcenter.blog.sohu.com/71213938.html"},{"tit":"天龙游戏帮助：未设置过保密信息","desc":"","url":"http://sohucallcenter.blog.sohu.com/71214011.html"},{"tit":"|查看更多搜狐天龙八部帮助|","desc":"","url":"http://tl.sohu.com/kefu/index.shtml"}]} },
+                        { id: "m_17796978", type: "Custom_Links", title: "搜狐闪电邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"邮件简介：超强垃圾信举报","desc":"","url":"http://sohucallcenter.blog.sohu.com/62560259.html"},{"tit":"邮件简介：全新反垃圾过滤系统","desc":"","url":"http://sohucallcenter.blog.sohu.com/62560396.html"},{"tit":"邮件简介：搜狐用户服务协议","desc":"","url":"http://sohucallcenter.blog.sohu.com/62560543.html"},{"tit":"邮件简介：Wapmail功能 ","desc":"","url":"http://sohucallcenter.blog.sohu.com/62560672.html"},{"tit":"邮件简介：手机邮件的资费标准","desc":"","url":"http://sohucallcenter.blog.sohu.com/62560929.html"},{"tit":"邮件简介：搜狐手机邮件","desc":"","url":"http://sohucallcenter.blog.sohu.com/62561099.html"},{"tit":"邮件简介：搜狐闪电邮件","desc":"","url":"http://sohucallcenter.blog.sohu.com/62561216.html"},{"tit":"|查看更多邮件简介|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=58"}]} },
+                        { id: "m_17799245", type: "Custom_Links", title: "搜狐闪电邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"积分兑换与抽奖:什么是积分？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62570883.html"},{"tit":"积分兑换与抽奖:如何获取积分？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62570986.html"},{"tit":"积分兑换与抽奖:等级规则一览表","desc":"","url":"http://sohucallcenter.blog.sohu.com/62571564.html"},{"tit":"积分兑换与抽奖:积分兑换抽奖","desc":"","url":"http://sohucallcenter.blog.sohu.com/62571796.html"},{"tit":"积分兑换与抽奖:如有作弊现象？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62572352.html"},{"tit":"积分兑换与抽奖:查看等级和积分","desc":"","url":"http://sohucallcenter.blog.sohu.com/62572784.html"},{"tit":"积分兑换与抽奖:用彩信兑换券","desc":"","url":"http://sohucallcenter.blog.sohu.com/62573106.html"},{"tit":"|查看更多积分兑换与抽奖|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=154"}]} },
+                        { id: "m_17803676", type: "Custom_Links", title: "搜狐VIP邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"使用问题:什么是搜狐VIP邮箱","desc":"","url":"http://sohucallcenter.blog.sohu.com/62593439.html"},{"tit":"使用问题:怎样设置垃圾过滤级别","desc":"","url":"http://sohucallcenter.blog.sohu.com/62593683.html"},{"tit":"使用问题:为何新邮件在垃圾箱中","desc":"","url":"http://sohucallcenter.blog.sohu.com/62593924.html"},{"tit":"使用问题:不能上传的附件类型？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62594241.html"},{"tit":"使用问题:系统提示重新粘贴附件","desc":"","url":"http://sohucallcenter.blog.sohu.com/62594635.html"},{"tit":"使用问题:如何发送flash贺卡？","desc":"","url":"http://sohucallcenter.blog.sohu.com/62594974.html"},{"tit":"使用问题:VIP发送邮件失败","desc":"","url":"http://sohucallcenter.blog.sohu.com/62595236.html"},{"tit":"|查看更多VIP邮箱常见问题|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=145"}]} },
+                        { id: "m_17803668", type: "Custom_Links", title: "搜狐VIP邮箱帮助", data: {"ico":"bookmark","linkList":[{"tit":"续费与还原：购买VIP收费邮箱","desc":"","url":"http://sohucallcenter.blog.sohu.com/62603333.html"},{"tit":"续费与还原：怎样购买邮箱卡","desc":"","url":"http://sohucallcenter.blog.sohu.com/62603474.html"},{"tit":"续费与还原：索取VIP邮箱的发票","desc":"","url":"http://sohucallcenter.blog.sohu.com/62603632.html"},{"tit":"续费与还原：如何还原到免费邮箱","desc":"","url":"http://sohucallcenter.blog.sohu.com/62603893.html"},{"tit":"续费与还原：还原后想继续使VIP","desc":"","url":"http://sohucallcenter.blog.sohu.com/62604123.html"},{"tit":"续费与还原：还原后资料会保留么","desc":"","url":"http://sohucallcenter.blog.sohu.com/62604355.html"},{"tit":"|查看更多续费VIP邮箱|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=146"},{"tit":"|查看更多同名还原VIP邮箱|","desc":"","url":"http://help.sohu.com/help_3.php?kindid=151"}]} },
+                        { id: "m_19685283", type: "Feeds", title: "", data: {"rss":"sohuHomeNews","num":"15"} },
+                        { id: "m_19685252", type: "Feeds", title: "", data: {"rss":"clubRssb","num":"15"} },
+                        { id: "m_32358556", type: "Feeds", title: "", data: {"rss":"localNews","num":"15"} },
+                        { id: "m_18944504", type: "pp_set", title: "", data: {"id":"21686583","name":"搜狐客服中心","type":"0","num":"2","ppuserid":20710749} },
+                        { id: "m_6", type: "categories", title: "日志分类", data: "" },
+                        { id: "m_18862968", type: "v_tv", title: "", data: {"type":"1","skin":3,"vid":"78029","float":"1"} },
+                        { id: "m_14", type: "search", title: "搜狗搜索", data: "" },
+                        { id: "m_43", type: "q_uadmingroups", title: "管理的圈子", data: "" },
+                        { id: "m_45", type: "q_tentopic", title: "圈子十大话题", data: "" },
+                        { id: "m_19653959", type: "Feeds", title: "", data: {"rss":"cityNews","num":"15"} },
+                        { id: "m_32358647", type: "Feeds", title: "", data: {"rss":"chinarenRss17","num":"2"} },
+                        { id: "m_17940634", type: "Custom_Links", title: "基本概况", data: {"ico":"bookmark","linkList":[{"tit":"搜狐客户服务中心成立背景","desc":"","url":"http://sohucallcenter.blog.sohu.com/63170492.html"},{"tit":"快乐工作-------- 积极进取","desc":"","url":"http://sohucallcenter.blog.sohu.com/63168726.html"}]} },
+                        { id: "m_17991393", type: "pp_set", title: "", data: {"id":"20914053","name":"工作环境","type":"0","num":"20"} },
+                        { id: "m_17991389", type: "pp_set", title: "", data: {"id":"20914058","name":"内部活动","type":"0","num":"20"} },
+                        { id: "m_17940313", type: "Text_Note", title: "搜狐客服服务宗旨", data: {"color":"transparent","content":"-----------------------客户至上---------------------<br />-----------------------服务为本---------------------<br />-----------------------恪守承诺---------------------<br />★★★★★★尽心尽责为服务标准★★★★★★★<br />★★★★为用户提供人性化的优质服务★★★★★"} },
+                        { id: "m_17987378", type: "Custom_Links", title: "★客服文采★", data: {"ico":"bookmark","linkList":[{"tit":"我 的 耳 麦","desc":"","url":"http://sohucallcenter.blog.sohu.com/63318852.html"},{"tit":"客 服 心 得","desc":"","url":"http://sohucallcenter.blog.sohu.com/63319344.html"},{"tit":"体 味 客 服","desc":"","url":"http://sohucallcenter.blog.sohu.com/63323295.html"},{"tit":"成 长 在 客 服","desc":"","url":"http://sohucallcenter.blog.sohu.com/63318976.html"},{"tit":"成 长 在 这 里 开 始","desc":"","url":"http://sohucallcenter.blog.sohu.com/63320654.html"},{"tit":"不 要 吝 啬 你 的 微 笑","desc":"","url":"http://sohucallcenter.blog.sohu.com/63319666.html"},{"tit":"客 服 心 声 之 春 华 篇","desc":"","url":"http://sohucallcenter.blog.sohu.com/63319542.html"},{"tit":"★★★查看更多客服文采★★★","desc":"","url":"http://sohucallcenter.blog.sohu.com/63320654.html"}]} },
+                        { id: "m_17989690", type: "Text_Note", title: "★建议意见★", data: {"content":"良好的工作环境，专业的客服人员，丰富的内部活动，多彩的外部拓展，打造了我们这支优秀的客服团队！<br /><br />如对我方工作有建议或意见请发送邮件至：<br />serivecenter@sohu-inc.com<br />感谢您对我方工作的支持与合作"} },
+                        { id: "m_14", type: "search", title: "搜狗搜索", data: "" },
+                        { id: "m_17940751", type: "Custom_Links", title: "客服荣誉", data: {"ico":"bookmark","linkList":[{"tit":"中国客户关怀标杆企业奖","desc":"","url":"http://sohucallcenter.blog.sohu.com/63169992.html"},{"tit":"“耳唛人生”最佳内刊奖","desc":"","url":"http://sohucallcenter.blog.sohu.com/63172660.html"}]} },
+                        { id: "m_17987329", type: "pp_set", title: "", data: {"id":"20914074","name":"工作状态","type":"0","num":"20"} },
+                        { id: "m_17988055", type: "pp_set", title: "", data: {"id":"20914063","name":"外部拓展","type":"0","num":"20"} },
+                        { id: "m_35623523", type: "Custom_Links", title: "", data: {"ico":"flag","linkList":[{"tit":"搜狐社区申请表","desc":"","url":"http://u.sohu.com/download/1/12730549725258852570430"},{"tit":"搜狐博客申请表","desc":"","url":"http://u.sohu.com/download/1/12843483290717478162666"},{"tit":"ChinaRen社区申请表","desc":"","url":"http://u.sohu.com/download/1/12843483192717110322186"}]} }
+		];
+	</script>
+	
+    <div id="blogData" style="display:none">
+    	
+    </div>
+	<img src="http://js1.pp.sohu.com.cn/ppp/blog/styles/images/spacer.gif" style="display:none" id="spacerImg" />
+<script type="text/javascript">
+Starter.start();
+</script>
+    
+<div id="footer">
+  <div id="innerFooter">
+	<div id="contact"> <a href="http://blog.sohu.com/help.html" target="_blank">帮助</a> - <a href="http://sohucallcenter.blog.sohu.com/" target="_blank">客服中心</a> - <a href="http://me.sohu.com/online_service.jsp?pid=5" target="_blank">在线客服</a><a href="http://me.sohu.com/online_service.jsp?pid=5" target="_blank"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_onlineservice.gif" /></a> - <a href="http://q.sohu.com/forum/21" target="_blank">意见建议</a> - <a href="mailto:jubao@contact.sohu.com">举报</a> - <a href="http://blog.sohu.com" target="_blank">搜狐博客</a> - <a href="http://www.sohu.com" target="_blank">搜狐首页</a>
+<script type="text/javascript">
+function writeReport() {
+	if (typeof entryId == 'undefined' || !entryId) return;
+	var url = 'http://act.blog.sohu.com/plus/impeach.jsp?rp='+escape(location.href)+'&p='+escape(getP());
+	var str = '';
+	str += ' | <a href="'+ url +'" target="_blank">举报不良信息</a>';
+	document.write(str);
+}
+writeReport();
+</script>
+	</div>
+	<div id="copyright">Copyright &copy; 2012 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有 </div>
+  </div>
+</div>
+<script type="text/javascript">document.write('<scr'+'ipt type="text/javascript" src="http://js.sohu.com/pv.js" type="text/javascript"></scr'+'ipt>');</script>
+
+
+<!-- sohu im -->
+<script type="text/javascript">
+SohuIM.setCandleMenParam();
+document.write('<scr'+'ipt type="text/javascript" src="http://images.sohu.com/cs/sohuim/xiaozt/version/2.0/js/loader.sohu.js"></scr'+'ipt>');
+</script>
+<!-- sohu im end -->
+<script language="javascript">
+var  _wratingId = '860010-0601020100';
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://js.sohu.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<script type="text/ecmascript">
+function checkLogonUserCount() {
+	if (getCookie('lastdomain') && getCookie('lastdomain') != '') {
+		var _lastdomain = getCookie('lastdomain').split('|')[1];
+		if (_lastdomain) {
+			var _url = 'http://bgt.blog.sohu.com/blogping.gif?sohupp='+ _lastdomain;
+			_url += '&refer='+ escape(document.referrer);
+			_url += '&c='+ timeStamp();
+			if (isLogin()) {
+				_url += '&logon='+ getXP();
+			}
+			document.write('<img src="'+ _url +'" />');
+		}
+	}
+}
+checkLogonUserCount();
+</script>
+
+    
+  </div>
+</div>
+<noscript>
+<div style="background:#ffffe1; border:2px solid #ccc; color:black; padding: 10px; line-height: 20px; position: absolute; top: 0px; font-family:'宋体';">
+  <p style="font-weight: bold;">提示：您需要开启Javascript</p>
+  <p>检测到您使用的浏览器不支持脚本语言(javascript)，或该功能已被禁用。</p>
+  <p><a href="http://blog.sohu.com">搜狐博客</a>提供了一套非常强大的用户界面，可以让您很方便地制作出属于自己的个性主页。<br />
+    如果您想体验这些新功能，需要开启浏览器的脚本(javascript)功能，然后<a href="">重试</a>。</p>
+</div>
+</noscript>
+
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="'+SP+'counter.js"></scr'+'ipt>');
+</script>
+
+
+</body>
+</html>

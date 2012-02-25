@@ -1,0 +1,2058 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="robots" content="all" />
+<meta name="author" content="www.17173.com" />
+<meta name="Copyright" content="Copyright (c) 2001-2010 www.17173.com" />
+<meta content="17173,17173.com,17173游戏网,网络游戏" name="Keywords" />
+<meta content="17173是中国游戏第一门户站,全年365天保持不间断更新,您可以在这里获得专业的游戏新闻资讯,完善的游戏攻略专区,人气游戏论坛以及新游戏测试账号等,是游戏玩家首选网络游戏资讯门户网站。" name="Description" />
+<title>::17173.com::中国游戏第一门户站</title>
+<link href="http://ue8.17173.itc.cn/cache/www/index/2012/common.css?t=201202081200" rel="stylesheet" type="text/css" />
+<link type="image/x-icon" rel="icon" href="http://ue2.17173.itc.cn/images/lib/v1/favicon-hd.ico" />
+<link type="image/x-icon" rel="shortcut icon" href="http://ue3.17173.itc.cn/images/lib/v1/favicon.ico" />
+<script type="text/javascript" src="http://ue1.17173.itc.cn/lib-v1/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="http://ue1.17173.itc.cn/spp/spp_core.js"></script>
+<script type="text/javascript" src="http://ue8.17173.itc.cn/cache/www/index/2012/common.js?t=201202081200"></script>
+<script type="text/javascript" src="http://ue2.17173.itc.cn/js/www/ggcommon20110128.js"></script>
+</head>
+
+<body>
+<div class="topad" style="width:980px; margin:0 auto;">
+<style>
+body{ background:#fff;}
+.header-1 {}
+</style>
+<script type="text/javascript">
+var AD_data1 = [
+   {"source":"http://ue2.17173.itc.cn/images/www/index/2012/20120209xg.jpg",
+     "url":"http://news.17173.com/shengdian/2012/",
+     "width":980,"height":25,"id":"1"
+    },
+    {"source":"http://ue2.17173.itc.cn/images/www/index/2012/20120209xg.jpg",
+     "url":"http://news.17173.com/shengdian/2012/",
+     "width":980,"height":25,"id":"2"
+    }
+]
+var GGRAI_TOP= new GGrandomAlternate("REFRESH_INDEX_TOP", AD_data1);
+GGRAI_TOP.execute();
+</script>
+</div>
+<div class=wrapper>
+<div class=header-1>
+      <div class="pp17173 loginin" id="17173passport"></div>
+      <div id="ppcard" class="posa"></div>
+      <div class=header-1-1><a href="http://shendeng.17173.com" target="_blank" class=btn-nav-1 >游戏神灯</a><a href="http://www.37wanwan.com/" target="_blank" class=btn-nav-2 >上去玩玩</a><a class="btn-nav-3 js-btn-mainpage" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.17173.com');return(false);" href="javascript:void(0)">设为首页</a>
+        <div class=clear></div>
+      </div>
+      <span class=logo>中国游戏第一门户站</span>
+      <div class=topnav-1>
+        <!-- cmschiptag:chiptag 新闻中心 begin -->
+<H3><A href="http://news.17173.com/" target=_blank>新闻中心</A></H3>
+<P><A href="http://news.17173.com/dalu/" target=_blank>大陆</A>　<A 
+href="http://news.17173.com/quanqiu/" target=_blank>全球</A>　<A 
+href="http://news.17173.com/chanye/" target=_blank>产业</A>&nbsp;&nbsp;<BR><A 
+href="http://news.17173.com/top/" target=_blank>排行</A>　<A 
+href="http://news.17173.com/zf/" target=_blank>专访</A>　<A 
+href="http://news.17173.com/zhuanti/" target=_blank>专题</A></P><!-- cmschiptag:chiptag 新闻中心 end -->
+      </div>
+      <div class="topnav-1 topnav-2">
+        <!-- cmschiptag:chiptag 新网游 begin --><H3><A href="http://newgame.17173.com/" target=_blank>新网游</A></H3>
+<P><A href="http://newgame.17173.com/xw/test.shtml" target=_blank>试玩</A>　<A href="http://newgame.17173.com/hao/index.php" target=_blank>激活码</A><BR><A href="http://download.17173.com/" target=_blank>下载</A>　<A href="http://newgame.17173.com/top50.shtml" target=_blank>期待榜</A></P><!-- cmschiptag:chiptag 新网游 end -->
+      </div>
+      <div class="topnav-1 topnav-3">
+        <!-- cmschiptag:chiptag 游戏视频 begin -->
+<H3><A href="http://media.17173.com/" target="_blank">游戏视频</A></H3>
+<P><A href="http://media.17173.com/new/" target="_blank">新游视频</A>&nbsp;&nbsp;<A 
+href="http://vlog.17173.com/" target="_blank">播客</A><BR><A 
+href="http://wow.17173.com/wowmv/" target="_blank">魔兽视频</A>&nbsp;&nbsp;<A 
+href="http://media.17173.com/zhuanti/list/index.shtml" target="_blank">专题</A></P><!-- cmschiptag:chiptag 游戏视频 end -->
+      </div>
+      <div class="topnav-1 topnav-4">
+        <!-- cmschiptag:chiptag flash小游戏 begin -->
+<H3><A href="http://flash.17173.com/" target="_blank">Flash小游戏</A></H3>
+<P><A href="http://web.17173.com/" target="_blank">网页游戏</A>&nbsp;&nbsp;<A 
+href="http://game.17173.com/" target="_blank">单机</A>&nbsp;&nbsp;<A 
+href="http://esports.17173.com/" target="_blank">电竞</A><BR><A 
+href="http://www.37wanwan.com/" target="_blank">上去玩玩</A>&nbsp;&nbsp;<A 
+href="http://iphone.17173.com/" target="_blank">iPhone/iPad</A></P><!-- cmschiptag:chiptag flash小游戏 end -->
+      </div>
+      <div class="topnav-1 topnav-5">
+        <!-- cmschiptag:chiptag 互动社区 begin -->
+<H3><A href="http://bbs.17173.com/" target="_blank">互动社区</A></H3>
+<P><A href="http://bk.17173.com/" target="_blank">百科</A>&nbsp;&nbsp;<A 
+href="http://gh.17173.com/" target="_blank">公会</A>&nbsp;&nbsp;<A 
+href="http://book.17173.com/" target="_blank">读书</A><BR><A 
+href="http://blog.17173.com/" target="_blank">博客</A>&nbsp;&nbsp;<A 
+href="http://t.sohu.com/17173" target="_blank">微博</A>&nbsp;&nbsp;<A 
+href="http://act.17173.com/" target="_blank">活动</A></P><!-- cmschiptag:chiptag 互动社区 end -->
+      </div>
+      <div class="topnav-1 topnav-6">
+        <!-- cmschiptag:chiptag 玩家中心 begin -->
+<H3><A href="http://my.17173.com/" target="_blank">玩家中心</A></H3>
+<P><A href="http://shop.17173.com/" target="_blank">商城</A>&nbsp;&nbsp;<A 
+href="http://hao.17173.com/" target="_blank">发号</A><BR><A 
+href="http://job.17173.com/" target="_blank">招聘</A>&nbsp;&nbsp;<A 
+href="http://help.17173.com/" target="_blank">帮助</A></P><!-- cmschiptag:chiptag 玩家中心 end -->
+      </div>
+    </div>
+<div class=wrapper-cnt>
+  <div class=header>
+    <div class=header-2>
+      <!-- cmschiptag:chiptag 首页第一通栏（三轮换） begin -->
+<SCRIPT language=javascript>
+var AD_data1 = [
+/*更新说明
+{"source":"广告源文件地址",
+"url":"广告链接地址(注:flash广告忽略)",
+"width":960,"height":60 //广告宽度和高度
+}*/
+{"source":"http://i1.17173.itc.cn/2012/www/2012/gg/sohu/02/tlbb-0209-96060.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=47aa1bce,5b48dd1e,065c42b1,4c1b8177&AdID=1822735",
+"width":960,"height":60,"id":"1"
+},
+{"source":"http://i1.17173.itc.cn/2012/www/2012/gg/media/01/zhufu-0120-960X60.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=609b4bd8,ec61ce4e,63ed21b3,d1da3933&AdID=14321694",
+"width":960,"height":60,"id":"2"
+},
+{"source":"http://i1.17173.itc.cn/2012/www/2012/gg/media/01/zhufu-0120-960X60.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=e58ef771,25e6c1f9,fc26ac67,1c89f4c5&AdID=9061296",
+"width":960,"height":60,"id":"3"
+}
+];
+var banner= new GGrandomAlternate("banner1_index", AD_data1);
+banner.execute();
+</SCRIPT><!-- cmschiptag:chiptag 首页第一通栏（三轮换） end -->
+    </div>
+    <div class=header-3>
+      <div class=header-3-1>
+        <!-- cmschiptag:chiptag 首页固定对联（三轮换） begin -->
+<SCRIPT language=javascript>
+var AD_data1 = [
+/*更新说明
+{"source":"广告源文件地址",
+"url":"广告链接地址(注:flash广告忽略)",
+"width":190,"height":250 //广告宽度和高度
+}*/
+{"source":"http://i1.17173.itc.cn/2012/www/2012/gg/jiguang/02/jg-0210-90300l.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=933691ef,65946994,25663003,4755bb8b&AdID=5638689",
+"width":90,"height":300,"id":"11"
+},
+{"source":"http://i2.17173.itc.cn/2012/www/2012/gg/sohu/02/tlbb-0210-90300.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=8a2c678c,6a8b5f6a,1d6b1dd2,d39b6744&AdID=10204725",
+"width":90,"height":300,"id":"22"
+},
+{"source":"http://i1.17173.itc.cn/2012/www/2012/gg/hd/01/hd-sd-0119-90300a.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201112&TargetID=sohu&Values=232abbae,4d245d9b,2c4e6dc8,acb60a53&AdID=11941425",
+"width":90,"height":300,"id":"33"
+}
+];
+//显示广告(注:如果一个页面存在多个刷新广告请使用不同的ID(REFRESH_POS_1))
+var duilian1= new GGrandomAlternate("duilian_1", AD_data1);
+duilian1.randomPos = true;
+duilian1.updateLock = true;
+duilian1.execute();
+</SCRIPT><!-- cmschiptag:chiptag 首页固定对联（三轮换） end -->
+      </div>
+      <div class=header-3-2>
+        <div class=header-3-2-1>
+        <!-- cmschiptag:chiptag 导航连接搜索 begin -->
+<DIV class=type-d><A class=d-1 href="http://newgame.17173.com/gametest.shtml" 
+target=_blank>测试表</A><A class=d-2 href="http://f.17173.com/" 
+target=_blank>找游戏</A> 
+<DIV class=clear></DIV></DIV>
+<DIV class=topsrch>
+<FORM action=http://search.17173.com/jsp/game.jsp target=_blank><INPUT 
+name=charset value=gbk type=hidden><INPUT 
+onblur="Javascript:if(this.value==''){this.value=''}" class=btn-topsrch-txt 
+onfocus="this.value=''" name=keyword value=C9> <INPUT style="CURSOR: pointer" class=btn-topsrch-sub value="" type=submit> 
+</FORM></DIV><!-- cmschiptag:chiptag 导航连接搜索 end -->
+          <a href="http://newgame.17173.com/" target="_blank" class="newgame">新网游</a>
+          <ul class=js-header-3-2-1 sizset="0" sizcache="0">
+            <li class=on ><span></span>热门 </li>
+            <li><span></span>ABCD </li>
+            <li><span></span>EFGH </li>
+            <li><span></span>IJKL </li>
+            <li><span></span>MNOP </li>
+            <li><span></span>QRST </li>
+            <li><span></span>WXYZ </li>
+              <div class=clear></div>
+          </ul>
+        </div>
+        <div class="header-3-2-2 js-header-3-2-2" id="hotGame">
+		              <td><div class="header-3-2-2-1">
+            <ul>
+              <li><a class="nav-color1" href="http://zhuxian.17173.com/" target=_blank>诛仙</a></li>
+        <li><a href="http://chibi.17173.com/" target=_blank>赤壁</a></li>
+        <li><a class="nav-color1" href="http://zt.17173.com/" target=_blank>征途</a></li>
+        <li class="wd-1"><a class="nav-color1" href="http://ldj.17173.com/" target=_blank>鹿鼎记</a></li>
+        <li class="wd-1"><a href="http://ddr.17173.com/" target=_blank>劲舞团</a></li>
+        <li class="wd-1"><a href="http://kok3.17173.com/" target=_blank>万王 3</a></li>
+        <li class="wd-2"><a href="http://qqsm.17173.com/" target=_blank>全球使命</a></li>
+        <li class="wd-2"><a class="nav-color1" href="http://xyq.17173.com" target=_blank>梦幻西游</a></li>
+        <li class="wd-2"><a href="http://mk.17173.com/" target=_blank>魔卡精灵</a></li>
+        <li class="wd-2"><a class="nav-color1" href="http://qn.17173.com" target=_blank>倩女幽魂</a></li>
+        <li class="wd-2"><a href="http://dt2.17173.com/" target=_blank>大唐无双</a></li>
+        <li class="wd-2"><a href="http://shuihu.17173.com/" target=_blank>水浒无双</a></li>
+		<li class="wd-3"><a href="http://dnf.17173.com" target=_blank>地下城与勇士</a></li>
+        <li><a class="nav-color1" href="http://moyu.17173.com/" target=_blank>魔域</a></li>
+        <li><a href="http://mir.17173.com/" target=_blank>传奇</a></li>
+        <li><a href="http://jr.17173.com/" target=_blank>巨人</a></li>
+        <li class="wd-1"><a class="nav-color1" href="http://tx3.17173.com/" target=_blank>天下 3</a></li>
+        <li class="wd-1"><a href="http://dzs.17173.com/" target=_blank>斗战神</a></li>
+        <li class="wd-1"><a href="http://mxd.17173.com/" target=_blank>冒险岛</a></li>
+        <li class="wd-2"><a href="http://xajh.17173.com/" target=_blank>笑傲江湖</a></li>
+        <li class="wd-2"><a href="http://9yin.17173.com/" target=_blank>九阴真经</a></li>
+        <li class="wd-2"><a class="nav-color1" href="http://shenmo.17173.com/" target=_blank>神魔大陆</a></li>
+        <li class="wd-2"><a href="http://jd.17173.com/" target=_blank>九鼎传说</a></li>
+        <li class="wd-2"><a href="http://bo.17173.com/" target=_blank>刀剑英雄</a></li>
+        <li class="wd-2"><a href="http://aiai.17173.com/" target=_blank>极光世界</a></li>
+		<li class="wd-3"><a href="http://lol.17173.com/" target=_blank>LOL 英雄联盟</a></li>
+        <li><a href="http://xt.17173.com" target=_blank>仙途</a></li>
+        <li><a href="http://9ren.17173.com/" target=_blank>九刃</a></li>
+        <li><a href="http://bw.17173.com/" target=_blank>兵王</a></li>
+        <li class="wd-1"><a href="http://dota2.17173.com/" target=_blank>DOTA 2</a></li>
+        <li class="wd-1"><a class="nav-color1" href="http://zt2.17173.com/" target=_blank>征途 2</a></li>
+        <li class="wd-1"><a class="nav-color1" href="http://xcb.17173.com/" target=_blank>星辰变</a></li>
+        <li class="wd-2"><a class="nav-color1" href="http://w2i.17173.com/" target=_blank>完美国际</a></li>
+        <li class="wd-2"><a href="http://jxsj.17173.com/" target=_blank>剑侠世界</a></li>
+        <li class="wd-2"><a href="http://bf.17173.com/" target=_blank>泡泡战士</a></li>
+        <li class="wd-2"><a href="http://hero108.17173.com/" target=_blank>大话水浒</a></li>
+        <li class="wd-2"><a class="nav-color1" href="http://wow.17173.com/" target=_blank>魔兽世界</a></li>
+        <li class="wd-2"><a href="http://ctm.17173.com/" target=_blank>魔兽台服</a></li>
+		<li class="wd-3"><a href="http://xyw.17173.com/" target=_blank>大话西游战歌</a></li>
+        <li><a href="http://lh.17173.com/" target=_blank>龙魂</a></li>
+        <li><a href="http://cangsheng.17173.com/" target=_blank>苍生</a></li>
+        <li><a href="http://xian.17173.com/" target=_blank>仙OL</a></li>
+        <li class="wd-1"><a class="nav-color1" href="http://dn.17173.com/" target=_blank>龙之谷</a></li>
+        <li class="wd-1"><a href="http://yzol.17173.com/" target=_blank>远征OL</a></li>
+        <li class="wd-1"><a href="http://ttm.17173.com/" target=_blank>天堂梦</a></li>
+        <li class="wd-2"><a href="http://yb.17173.com/" target=_blank>佣兵天下</a></li>
+        <li class="wd-2"><a class="nav-color1" href="http://giga.17173.com/" target=_blank>核金风暴</a></li>
+        <li class="wd-2"><a href="http://jl.17173.com/" target=_blank>精灵传说</a></li>
+        <li class="wd-2"><a href="http://els.17173.com/" target=_blank>艾尔之光</a></li>
+        <li class="wd-2"><a href="http://aion.17173.com" target=_blank>永恒之塔</a></li>
+        <li class="wd-2"><a href="http://jx3.17173.com/" target=_blank>新剑网叁</a></li>
+        <li class="wd-3"><a href="http://dk.17173.com/" target=_blank>地下城守护者</a></li>
+        <li><a href="http://jz.17173.com/" target=_blank>机战</a></li>
+        <li><a href="http://lieguo.17173.com/" target=_blank>猎国</a></li>
+        <li><a class="nav-color1" href="http://sh3d.17173.com/" target=_blank>神话</a></li>
+        <li class="wd-1"><a href="http://zxy.17173.com/" target=_blank>醉逍遥</a></li>
+        <li class="wd-1"><a href="http://luna2.17173.com/" target=_blank>LUNA 2</a></li>
+        <li class="wd-1"><a href="http://sxz.17173.com/" target=_blank>神仙传</a></li>
+        <li class="wd-2"><a href="http://sgcq.17173.com/" target=_blank>神鬼传奇</a></li>
+        <li class="wd-2"><a href="http://nycs.17173.com" target=_blank>诺亚传说</a></li>
+        <li class="wd-2"><a href="http://allods.17173.com" target=_blank>巫师之怒</a></li>
+        <li class="wd-2"><a href="http://wulin2.17173.com/" target=_blank>武林外传</a></li>
+        <li class="wd-2"><a href="http://ml.17173.com/" target=_blank>梦幻龙族</a></li>
+        <li class="wd-2"><a href="http://lszt.17173.com" target=_blank>绿色征途</a></li>
+        <li class="wd-3"><a href="http://popkart.17173.com/" target=_blank>跑跑卡丁车</a></li>
+        <li><a href="http://5shen.17173.com/" target=_blank>武神</a></li>
+        <li><a href="http://bns.17173.com" target=_blank>剑灵</a></li>
+        <li><a class="nav-color1" href="http://taoyuan.17173.com/" target="_blank">桃园</a></li>
+        <li class="wd-1"><a href="http://speed.17173.com" target=_blank>QQ飞车</a></li>
+        <li class="wd-1"><a href="http://xyol.17173.com/" target=_blank>西游记</a></li>
+        <li class="wd-1"><a href="http://qqxy.17173.com/" target=_blank>QQ西游</a></li>
+        <li class="wd-2"><a href="http://xxz.17173.com/" target=_blank>QQ仙侠传</a></li>
+        <li class="wd-2"><a href="http://zsgd.17173.com/" target=_blank>诸神国度</a></li>
+        <li class="wd-2"><a href="http://fycq.17173.com/" target=_blank>风云传奇</a></li>
+        <li class="wd-2"><a href="http://world2.17173.com/" target=_blank>完美世界</a></li>
+        <li class="wd-2"><a href="http://sj.17173.com/" target=_blank>三界奇缘</a></li>
+        <li class="wd-2"><a href="http://xlzj.17173.com/" target=_blank>降龙之剑</a></li>
+        <li class="wd-3"><a href="http://xljz.17173.com" target=_blank>降龙极致版</a></li>
+        <li><a href="http://gy.17173.com/" target=_blank>古域</a></li>
+        <li><a href="http://shumen.17173.com" target=_blank>蜀门</a></li>
+        <li><a href="http://5dtj.17173.com/" target=_blank>天境</a></li>
+		<li class="wd-1"><a href="http://xy.17173.com/" target="_blank">大话 2</a> </li>
+		<li class="wd-1"><a href="http://d2.17173.com/" target="_blank">刀剑 2</a> </li>
+        <li class="wd-1"><a href="http://jjl.17173.com/" target="_blank">将军令</a> </li>
+        <li class="wd-2"><a class="nav-color1" href="http://cf.17173.com/" target=_blank>穿越火线</a></li>
+
+        <li class="wd-2"><a href="http://csxy.17173.com" target=_blank>创世西游</a></li>
+        <li class="wd-2"><a class="nav-color1" href="http://gfyx.17173.com/" target=_blank>功夫英雄</a></li>
+        <li class="wd-2"><a href="http://age.17173.com/" target=_blank>上古世纪</a></li>
+        <li class="wd-2"><a href="http://sgsj.17173.com/" target=_blank>神鬼世界</a></li>
+        <li class="wd-2"><a href="http://dhqt.17173.com/" target="_blank">东海奇谭</a> </li>
+        <li class="wd-3"><a class="nav-color1" href="http://mh.17173.com/" target=_blank>洛奇英雄传</a></li>
+        <li><a href="http://fengshen.17173.com/" target=_blank>封神</a></li>
+        <li><a href="http://tera.17173.com/" target=_blank>TERA</a></li>
+        <li class="wd-1"><a href="http://avl.17173.com/" target="_blank">阿凡龙</a> </li>
+        <li class="wd-1"><a href="http://csol.17173.com/" target="_blank">创世OL</a> </li>
+        <li class="wd-2"><a href="http://xklz.17173.com/" target="_blank">侠客列传</a> </li>
+        <li class="wd-2"><a href="http://ga.17173.com/" target="_blank">守护之剑</a> </li>
+        <li class="wd-2"><a href="http://wlmj.17173.com/" target="_blank">武林秘籍</a> </li>
+        <li class="wd-2"><a class="nav-color1" href="http://yl.17173.com/" target=_blank>御龙在天</a></li>
+        <li class="wd-4"><a class="nav-color1" href="http://mhzx.17173.com" target=_blank>新梦幻诛仙</a></li>
+        <li class="wd-4"><a href="http://fr.17173.com/" target=_blank>凡人修仙传</a></li>
+        <li class="wd-4"><a class="nav-color1" href="http://tl.17173.com" target=_blank>天龙八部 3</a></li>
+        <li class="wd-3"><a href="http://lx.17173.com/" target=_blank>流星蝴蝶剑</a></li>
+        <li><a href="http://xuanwu.17173.com/" target=_blank>玄武</a></li>
+        <li><a href="http://juxian.17173.com/" target=_blank>聚仙</a></li>
+        <li class="wd-1"><a href="http://qlz.17173.com/" target="_blank">七龙珠</a> </li>
+        <li class="wd-1"><a href="http://xj.17173.com/" target="_blank">QQ仙境</a> </li>
+        <li class="wd-2"><a href="http://sa.17173.com/" target=_blank>突击风暴</a></li>
+        <li class="wd-2"><a href="http://c9.17173.com/" target=_blank>第九大陆</a></li>
+        <li class="wd-2"><a href="http://xytx.17173.com/" target=_blank>西游天下</a></li>
+        <li class="wd-2"><a href="http://wot.17173.com" target=_blank>坦克世界</a></li>
+        <li class="wd-4"><a href="http://ge2.17173.com/" target=_blank>卓越之剑 2</a></li>
+        <li class="wd-4"><a href="http://zdfy.17173.com/" target=_blank>战地风云OL</a></li>
+        <li class="wd-4"><a href="http://sg2.17173.com/" target=_blank>三国群英传2</a></li>
+        <li class="wd-3"><a class="nav-color1" href="http://yitian.17173.com/" target=_blank>倚天屠龙记</a></li>
+        <div class="clear"></div>
+        </ul>
+          </div><div class="header-3-2-2-2" id="newGame">
+        <ul>
+        <!-- cmschiptag:chiptag 最新专区频道 begin -->
+<LI><STRONG><A href="http://www.17173.com/map/zq.shtml" 
+target=_blank>最新专区</A>：</STRONG><A href="http://cyphers.17173.com/" 
+target=_blank>超能勇士</A> | <A href="http://nba2k.17173.com" target=_blank>NBA2K 
+OL</A> | <A href="http://jsol.17173.com" target=_blank>剑圣</A> | <A 
+href="http://qkol.17173.com" target=_blank>乾坤在线</A> | <A 
+href="http://zzqx.17173.com/" target=_blank>战争前线</A> | <A 
+href="http://btr.17173.com/" target=_blank>烈焰行动</A> 
+<LI class=h-li-1><STRONG><A href="http://newgame.17173.com/" 
+target=_blank>新网游</A>：</STRONG> <A href="http://newgame.17173.com/_xajhol/" 
+target=_blank>笑傲江湖</A> | <A href="http://newgame.17173.com/_gsz/" 
+target=_blank>斩魂</A> | <A href="http://newgame.17173.com/_queen/" 
+target=_blank>女王之刃</A> | <A href="http://newgame.17173.com/_h2/" 
+target=_blank>核心格斗</A> 
+<LI><STRONG><A href="http://web.17173.com/" target=_blank>网页游戏</A>：</STRONG> <A 
+href="http://web.17173.com/game/hysj.html" target=_blank>火影世界</A> | <A 
+href="http://7.web.17173.com/" target=_blank>七雄争霸</A> | <A 
+href="http://web.17173.com/game/jzsg.html" target=_blank>决战三国</A> | <A 
+href="http://web.17173.com/game/sqbl.html" target=_blank>石器部落</A> | <A 
+href="http://sssg.web.17173.com/" target=_blank>盛世三国</A> | <A 
+href="http://web.17173.com/game/mxdw.html" target=_blank>梦想帝王</A> 
+<LI class=h-li-1><STRONG><A href="http://game.17173.com/" 
+target=_blank>单&nbsp;&nbsp;机</A>：</STRONG> <A href="http://dota2.17173.com/" 
+target=_blank>DOTA</A> | <A href="http://d3.17173.com/" target=_blank>暗黑</A> | 
+<A href="http://sc2.17173.com/" target=_blank>星际</A> | <A 
+href="http://game.17173.com/zt/battlefield3/" target=_blank>战地</A> | <A 
+href="http://game.17173.com/zt/sangokushi12/" target=_blank>三国志12</A> 
+<LI><STRONG><A href="http://www.37wanwan.com/" target=_blank>上去玩玩</A>：</STRONG> 
+<A href="http://www.37wanwan.com/yxwz/" target=_blank>英雄王座</A> | <A 
+href="http://www.37wanwan.com/sssg/" target=_blank>盛世三国</A> | <A 
+href="http://www.37wanwan.com/sxd/" target=_blank>神仙道</A> | <A 
+href="http://www.37wanwan.com/hysj/" target=_blank>火影世界</A> | <A 
+href="http://www.37wanwan.com/yq/" target=_blank>一骑当先</A> | <A 
+href="http://www.37wanwan.com/fr2/" target=_blank>凡人修真2</A> 
+<LI class=h-li-1><STRONG><A href="http://iphone.17173.com/" 
+target=_blank>iPhone</A>：</STRONG> <A 
+href="http://iphone.17173.com/post-content-2711.html" target=_blank>蚁丘保卫战</A> | 
+<A href="http://iphone.17173.com/post-content-2709.html" 
+target=_blank>愤怒的僵尸!</A> | <A 
+href="http://iphone.17173.com/post-content-2687.html" target=_blank>蹦蹦鼠</A> 
+</LI><!-- cmschiptag:chiptag 最新专区频道 end -->
+          	<div class="clear"></div>
+            </ul>
+          </div></div>
+        <div style="DISPLAY: none" class="header-3-2-2 js-header-3-2-2"></div>
+        <div style="DISPLAY: none" class="header-3-2-2 js-header-3-2-2"></div>
+        <div style="DISPLAY: none" class="header-3-2-2 js-header-3-2-2"></div>
+        <div style="DISPLAY: block" class="header-3-2-2 js-header-3-2-2"></div>
+        <div style="DISPLAY: none" class="header-3-2-2 js-header-3-2-2"></div>
+        <div style="DISPLAY: none" class="header-3-2-2 js-header-3-2-2"></div>
+        <div style="DISPLAY: none" class="header-3-2-2 js-header-3-2-2"></div>
+      </div>
+      <div class=header-3-3>
+        <!-- cmschiptag:chiptag 首页固定对联（三轮换） begin -->
+<SCRIPT language=javascript>
+var AD_data2 = [
+/*更新说明
+{"source":"广告源文件地址",
+"url":"广告链接地址(注:flash广告忽略)",
+"width":90,"height":300 //广告宽度和高度
+}*/
+{"source":"http://i1.17173.itc.cn/2012/www/2012/gg/jiguang/02/jg-0210-90300r.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=933691ef,65946994,25663003,4755bb8b&AdID=5638689",
+"width":90,"height":300,"id":"4"
+},
+{"source":"http://i2.17173.itc.cn/2012/www/2012/gg/sohu/02/tlbb-0210-90300.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=8a2c678c,6a8b5f6a,1d6b1dd2,d39b6744&AdID=10204725",
+"width":90,"height":300,"id":"5"
+},
+{"source":"http://i1.17173.itc.cn/2012/www/2012/gg/hd/01/hd-sd-0119-90300a.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201112&TargetID=sohu&Values=232abbae,4d245d9b,2c4e6dc8,acb60a53&AdID=11941425",
+"width":90,"height":300,"id":"6"
+}
+];
+//显示广告(注:如果一个页面存在多个刷新广告请使用不同的ID(REFRESH_POS_1))
+var duilian2= new GGrandomAlternate("duilian_1", AD_data2);
+duilian2.randomPos = false;
+duilian2.execute();
+</SCRIPT><!-- cmschiptag:chiptag 首页固定对联（三轮换） end -->
+      </div>
+      <div class=clear></div>
+    </div>
+    <div class=header-4>
+      <!-- cmschiptag:chiptag 热点关注 begin --><STRONG>厂商专区:</STRONG> <A href="http://nie.17173.com/" target=_blank>网易</A> / <A 
+href="http://wanmei.17173.com/" target=_blank>完美</A> / <A 
+href="http://sohugame.17173.com/" target=_blank>畅游</A> / <A 
+href="http://91.17173.com/" target=_blank>网龙</A> / <A 
+href="http://juren.17173.com/" target=_blank>巨人</A> / <A 
+href="http://sd.17173.com/" target=_blank>盛大</A> / <A 
+href="http://qq.17173.com/" target=_blank>腾讯</A> / <A 
+href="http://kingsoft.17173.com/" target=_blank>金山</A> / <A 
+href="http://linekong.17173.com/" target=_blank>蓝港</A> / <A 
+href="http://www.17173.com/f/index_fgmore.shtml" 
+target=_blank>更多<EM>&gt;&gt;</EM></A> <SPAN class=split-1>|</SPAN> 
+<STRONG>热点关注:</STRONG> <A 
+href="http://vote.newgame.17173.com/search.php?gameFace=0" target=_blank>3D</A> 
+/ <A href="http://vote.newgame.17173.com/search.php?gameFace=2" 
+target=_blank>2.5D</A> / <A 
+href="http://vote.newgame.17173.com/search.php?gameFace=1" target=_blank>2D</A> 
+/ <A href="http://newgame.17173.com/hao/search.php?openStatus=0" 
+target=_blank>开放注册</A> / <A href="http://newgame.17173.com/corp/" 
+target=_blank>厂商黄页</A><SPAN class=sd-7><A 
+href="http://shendeng.17173.com" 
+target=_blank>游戏神灯</A></SPAN> <!-- cmschiptag:chiptag 热点关注 end -->
+    </div>
+</div>
+ 
+<script type=text/javascript>
+		new Index_Dytab();
+		$('.js-btn-mainpage').click(function(){addBookmark();});
+		PassportSC.appid=1029;PassportSC.registerUrl="http://passport.17173.com/register";PassportSC.recoverUrl="http://passport.17173.com/find/pwd";PassportSC.helpUrl="http://800.17173.com";PassportSC.app17173UserInfoUrl="";PassportSC.app17173LogoutUrl="";PassportSC.otherLink='<A href="http://blog.17173.com" target=_blank>\u5f00\u901a\u6e38\u620f\u535a\u5ba2</A>';PassportSC.loginInfo='\u6b22\u8fce\u60a8\uff0c\u60a8\u5df2\u7ecf\u6210\u529f\u767b\u5f5517173.com\uff01<br />\u73b0\u5728\u60a8\u53ef\u4ee5\u8bbf\u95ee\u6211\u4eec\u7ed9\u60a8\u63d0\u4f9b\u7684\u6240\u6709\u670d\u52a1\u3002';Passport17173.drawPassport17173(document.getElementById("17173passport"),document.getElementById("ppcard"));function infoUpdater(originalRequest){var userInfo=originalRequest.responseText;document.getElementById("spp_app_info").innerHTML=userInfo}function appLogout(originalRequest){}
+    </script>
+  <div class=main sizset="2" sizcache="4">
+
+
+    <div class=main-0>
+      <div class=main-0-lt>
+        <!-- cmschiptag:chiptag 首页第二通栏（三轮换） begin -->
+<SCRIPT language=javascript>
+var AD_data1 = [
+/*更新说明
+{"source":"广告源文件地址",
+"url":"广告链接地址(注:flash广告忽略)",
+"width":730,"height":120 //广告宽度和高度
+}*/
+{"source":"http://i2.17173.itc.cn/2012/www/2012/gg/sx/02/fr-0209-730120.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=3582d057,4f36b5d2,9950d34c,47e5a802&AdID=15070884",
+"width":730,"height":120,"id":"7"
+},
+{"source":"http://i2.17173.itc.cn/2012/www/2012/gg/wm/02/wm-gj-0210-730120.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201112&TargetID=sohu&Values=26cd9449,2d280073,c82ee0ae,2855eeeb&AdID=5642954",
+"width":730,"height":120,"id":"8"
+},
+{"source":"http://i2.17173.itc.cn/2012/www/2012/gg/sx/02/fr-0209-730120.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=5da835d9,825edb38,1b8314cd,7001bb04&AdID=133542",
+"width":730,"height":120,"id":"9"
+}
+];
+var liumeiti= new GGrandomAlternate("liumeiti_index", AD_data1);
+liumeiti.execute();
+</SCRIPT><!-- cmschiptag:chiptag 首页第二通栏（三轮换） end -->
+      </div>
+      <div class=main-0-rt>
+        <!-- cmschiptag:chiptag 文字推荐 begin --><UL>
+<LI>·<A href="http://news.17173.com/game/yzdzh.shtml" target=_blank>17173一周大杂烩</A>　<A href="http://news.17173.com/jiong/" target=_blank>一周雷人囧图集</A> 
+<LI>·<A href="http://news.17173.com/content/2012-02-09/20120209160748453,1.shtml" target=_blank>成人网游《Kabod》精彩试玩视频</A> 
+<LI>·<A href="http://china.17173.com/2011/bdbd.html" target=_blank>2011年中国网游风云榜发布</A> 
+<LI>·<A href="http://news.17173.com/content/2012-02-08/20120208024227948,1.shtml" target=_blank>中国四大名著改编网游大盘点</A> </LI></UL><!-- cmschiptag:chiptag 文字推荐 end -->
+      </div>
+      <div class=clear></div>
+    </div>
+    <div class=main-1 sizset="3" sizcache="1">
+      <div class=main-1-lt>
+        <div class=main-1-lt-1><SCRIPT LANGUAGE="JavaScript">
+<!--
+/**
+* 焦点两轮刷
+*
+* author: Seateng
+* lastmodify: 2011/10/01 1:53
+*/
+//素材更新点
+var focus_float_config = [
+{
+url:"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201112&TargetID=sohu&Values=160d363f,3c174015,be3d0a81,cd44fc2e&AdID=4532237",
+focusUp:"http://i3.17173.itc.cn/2012/www/2012/gg/wm/02/wm-zx-0203-38025.jpg",
+focusCover:"http://images.17173.com/2012/www/2012/gg/wm/02/wm-zx-0203-380340-a.swf",
+focusContent:{
+thumb:'http://i3.17173.itc.cn/2012/www/2012/gg/wm/02/wm-zx-0203-7050.jpg',
+image:'http://i3.17173.itc.cn/2012/www/2012/gg/wm/02/wm-zx-0203-380260tu5-a.jpg',
+alt:''
+}
+},
+{
+url:"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=c334fa2b,4fc467fc,bc5029d3,5f4b997b&AdID=4974700",
+focusUp:"http://i1.17173.itc.cn/2012/www/2012/gg/wy/02/wy-tx-0210-38025.jpg",
+focusCover:"http://images.17173.com/2012/www/2012/gg/wy/02/wy-tx-0210-380340.swf",
+focusContent:{
+thumb:'http://i1.17173.itc.cn/2012/www/2012/gg/wy/02/wy-tx-0210-7050.jpg',
+image:'http://i3.17173.itc.cn/2012/www/2012/gg/wy/02/wy-tx-0210-380260tu5.jpg',
+alt:''
+}
+},
+{
+url:"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=9b3108d4,259c640b,6426ed1d,dc481a0c&AdID=4745468",
+focusUp:"http://i2.17173.itc.cn/2012/www/2012/gg/luan/02/luan-0210-38025.jpg",
+focusCover:"http://images.17173.com/2012/www/2012/gg/luan/02/luan-0210-380340-a.swf",
+focusContent:{
+thumb:'http://i2.17173.itc.cn/2012/www/2012/gg/luan/02/luan-0210-7050.jpg',
+image:'http://i1.17173.itc.cn/2012/www/2012/gg/luan/02/luan-0210-380260tu5.jpg',
+alt:''
+}
+}
+];
+var FocusCover;
+var FocusAlternate= new GGrandomAlternate("focus_float", focus_float_config);
+FocusAlternate.callback = function(pos){
+	if(focus_float_config[pos].url!=""){
+		focus_float_config[pos].focusContent.url = focus_float_config[pos].url;
+		FocusCover = new GGfocusCover(focus_float_config[pos]);
+		FocusCover.execute();
+		window.FocusCoverData = new Array(focus_float_config[pos].focusContent);
+	}
+}
+FocusAlternate.execute();
+function focus_ad_DoFSCommand(command, args){
+	if(command == "colose"){
+		FocusCover.down();
+	}
+}
+//-->
+</SCRIPT><div id="bigeye-trans" class="bigeye"></div>
+<script type="text/javascript">
+new Bigeye.UI.Basic({
+	elem: '#bigeye-trans',
+	theme: 'trans',
+	skin: '2012',
+	effectDuration: 100, // 切换效果持续时间, 0表示直接切换, 不做动画效果
+	slideInterval: 2500, // 滚动等待时间, 0 表示不滚动
+	slideDirection: 'left', // or 'right'
+	images: [ 
+// 图片个数必须大于等于4
+//{ thumb: '小图地址', image: '大图地址', alt: '01', url: '图片链接地址' }
+		{ thumb: ' http://i3.17173.itc.cn/2012/www/bigeye/2012/2/20120208main_bs.jpg ', image: ' http://i3.17173.itc.cn/2012/www/bigeye/2012/2/20120208main_b.jpg ', alt: ' 心醉的魔幻世界！《激战2》精美宣传CG赏 ', url: ' http://news.17173.com/content/2012-02-08/20120208130630039,1.shtml ' },
+		{ thumb: ' http://i2.17173.itc.cn/2012/www/bigeye/2012/2/20120209main_bs.jpg ', image: ' http://i2.17173.itc.cn/2012/www/bigeye/2012/2/20120209main_b.jpg ', alt: ' 史上最贵手办 施华洛世奇水钻版健次郎 ', url: ' http://news.17173.com/content/2012-02-09/20120209030348830,1.shtml ' },
+		{ thumb: ' http://i1.17173.itc.cn/2012/www/bigeye/2012/2/20120209main_as.jpg ', image: ' http://i1.17173.itc.cn/2012/www/bigeye/2012/2/20120209main_a.jpg ', alt: ' 成人网游《Kabod》精彩试玩视频 ', url: ' http://news.17173.com/content/2012-02-09/20120209160748453,1.shtml ' },
+		{ thumb: ' http://i3.17173.itc.cn/2012/www/bigeye/2012/2/20120210main_bs.jpg ', image: ' http://i3.17173.itc.cn/2012/www/bigeye/2012/2/20120210main_b.jpg ', alt: ' 3D版DNF！卡通横板《颓废之心》韩服试玩 ', url: ' http://news.17173.com/content/2012-02-10/20120210094436466,1.shtml ' },
+		{ thumb: ' http://i1.17173.itc.cn/2012/www/bigeye/2012/2/20120208main_as.jpg ', image: ' http://i1.17173.itc.cn/2012/www/bigeye/2012/2/20120208main_a.jpg ', alt: ' 近距离接触八爪鱼--福州新锐网游企业 ', url: ' http://news.17173.com/content/2012-02-08/20120208105111547,1.shtml ' },
+		{ thumb: ' http://i2.17173.itc.cn/2012/www/bigeye/2012/2/20120210main_as.jpg ', image: ' http://i2.17173.itc.cn/2012/www/bigeye/2012/2/20120210main_a.jpg ', alt: ' 《神雕》3月7日开放测试 海量实景截图曝光 ', url: ' http://news.17173.com/content/2012-02-10/20120210090548379.shtml ' }
+	].concat(window.FocusCoverData?window.FocusCoverData:[])
+
+});
+</script>
+          <div class=main-1-lt-1-2>
+            <ul>
+              <!-- cmschiptag:chiptag 视频直播 begin -->
+<LI>&gt; <A href="http://ga.17173.com/news/02092012/152328968.shtml" 
+target=_blank>守护之剑游戏全背景音乐欣赏</A> 
+<LI>&gt; <A 
+href="http://cf.17173.com/content/2012-02-09/20120209093214332,1.shtml" 
+target=_blank>穿越火线女玩家自曝推荐第11期</A> 
+<LI>&gt; <A 
+href="http://xajh.17173.com/content/2012-01-24/20120124170311391.shtml" 
+target=_blank>笑傲江湖特别节目之独家探班</A> 
+<LI>&gt; <A 
+href="http://xyq.17173.com/content/2012-02-06/20120206111624326,1.shtml" 
+target=_blank>梦幻西游爱美福利锦衣混搭组合</A> 
+<LI>&gt; <A 
+href="http://allods.17173.com/content/2012-02-08/20120208175515636.shtml" 
+target=_blank>巫师之怒二测配战斗坐骑系统</A> 
+<LI>&gt; <A 
+href="http://wot.17173.com/content/2012-02-07/20120207162630214,1.shtml" 
+target=_blank>坦克世界动漫美少女涂装大合集</A> </LI><!-- cmschiptag:chiptag 视频直播 end -->
+              <div class=clear></div>
+            </ul>
+          </div>
+        </div>
+        <div class="main-1-lt-2 rel">
+          <div class="hotvideo-slider2"><span class="btn-no-lt"><a href="javascript:void(0)"></a></span><span class="btn-no-rt"><a href="javascript:void(0)"></a></span></div>
+        </div>
+        <div class="main-1-lt-3 main-1-lt-2 main-1-lt-6">
+          <div class=rel>
+            <div class=hotvideo-slider><a href="javascript:void(0)" class="btn-no btn-no1 on">1</a><a href="javascript:void(0)" class="btn-no btn-no2">2</a><a href="javascript:void(0)" class="btn-no btn-no3">3</a></div>
+          </div>
+          <h2><a href="http://media.17173.com/" target="_blank">热门视频</a></h2>
+          <div class=hotvideo-cnt-2>
+            <DIV class="hotvideo-cnt-1 js-hotvideo-cnt-1">
+<DIV class=hotvideo-cnt>
+  <UL>
+    <LI><A href=" http://media.17173.com/new/2012-02-10/20120210105402638.shtml " 
+target=_blank><em></em><IMG height=75 
+src=" http://i2.17173.itc.cn/2012/media/2012/02/10/1731.jpg" alt="  《神武》游戏MV首发 唯美治愈系必看   " width=100><BR>神武唯美治愈MV</A>
+<LI><A href="  http://media.17173.com/mh/2012-02-10/20120210111510400,1.shtml" 
+target=_blank><em></em><IMG height=75 
+src=" http://i1.17173.itc.cn/2012/media/2012/02/10/mh173tj.jpg" alt="洛英双刀狂战BOSS" width=100><BR>
+    洛英双刀狂战BOSS</A>
+<LI><A href="http://media.17173.com/new/2012-02-10/20120210105228699.shtml" 
+target=_blank><em></em><IMG height=75 
+src=" http://i2.17173.itc.cn/2012/media/2012/02/10/1733.jpg
+" alt=" 少儿不宜《悟空传》暴力萝莉女妖狐秀妩媚" 
+width=100><BR>
+  悟空传暴力萝莉秀MV</A>       <DIV class=clear></DIV>
+    </LI>
+  </UL>
+  <DIV class=main-1-lt-2-1>
+    <UL>
+      <LI><img src="http://ue3.17173.itc.cn/images/www/index/2012/video.gif" width="14" height="14" /><A href=" http://17173.tv.sohu.com/v/1/11407/112/MTEyNDk1OA==
+ " 
+target=_blank>《圣境传说》综合宣传视频 </A>
+      <LI>·<A href="http://17173.tv.sohu.com/v/1/11657/112/MTEyNTUyNA== " 
+target=_blank>《兵王》微端下载光速体验PK</A>
+      <LI><img src="http://ue3.17173.itc.cn/images/www/index/2012/video.gif" width="14" height="14" /><A href=" http://17173.tv.sohu.com/v/1/11026/111/MTExOTc1Mw== " target=_blank>《仙途》封神演义仙籍入幻</A>
+      <LI>·<A href="  http://17173.tv.sohu.com/v/1/11551/112/MTEyMzU2NA== " 
+target=_blank>解密《问道外传》触发任务</A>
+        <DIV class=clear></DIV>
+      </LI>
+    </UL>
+  </DIV>
+</DIV>
+<DIV class=hotvideo-cnt>
+    <UL>
+     <LI><A href="http://media.17173.com/lol/hot/demacia.shtml" 
+target=_blank><em></em><IMG height=75 
+src="http://i2.17173.itc.cn/2012/media/2012/02/10/fpage1.jpg" alt="爆笑精彩短片：啦啦啦德玛西亚第七集" width=100><BR>啦啦啦德玛西亚EP7</A> 
+<LI><A href="http://wow.17173.com/videofile/2012-02-08/20120208174800975.shtml" 
+target=_blank><em></em><IMG height=75 
+src="http://i2.17173.itc.cn/2012/media/2012/02/10/fpage2.jpg" alt="80年代的感动 怀旧大作《那段北极的日子》" 
+width=100><BR>那段北极的日子</A> 
+<LI><A href="http://media.17173.com/content/2012-02-01/20120201152022265,1.shtml" 
+target=_blank><em></em><IMG height=75 
+src="http://i2.17173.itc.cn/2012/media/2012/02/07/remen131.jpg" alt="热游视频一月盘点" width=100><BR>热游视频一月盘点</A>
+        <DIV class=clear></DIV>
+      </LI>
+    </UL>
+    <DIV class=main-1-lt-2-1>
+      <UL>
+        <LI><img src="http://ue3.17173.itc.cn/images/www/index/2012/video.gif" width="14" height="14" /> <A href="http://17173.tv.sohu.com/v/11/1/112/MTEyMzY2Mw==" target=_blank>90后大学生倾情作：只为遇到你</A>
+        <LI>·<A href="http://17173.tv.sohu.com/v/11/3/112/MTEyMzY1Ng==" target=_blank>[喵片]这样打情骂俏有违伦理啊</A>
+        <LI><img src="http://ue3.17173.itc.cn/images/www/index/2012/video.gif" width="14" height="14" /> <A href="http://17173.tv.sohu.com/v/11/5/112/MTEyMzQ4OA==" target=_blank>揭秘：野蛮美女是怎么请到假的</A>
+        <LI>·<A href="http://17173.tv.sohu.com/v/11/1/112/MTEyMzQ3MQ==" target=_blank>探索发现：揭秘全球最恐怖蚁穴</A>
+          <DIV class=clear></DIV>
+        </LI>
+      </UL>
+    </DIV>
+  </DIV>
+
+<DIV class=hotvideo-cnt>
+<UL>
+<LI><A href="http://media.17173.com/dnf/2012-02-09/20120209132222543.shtml" 
+target=_blank><em></em><IMG height=75 
+src="http://i3.17173.itc.cn/2012/media/2012/02/10/ddddddddddddddddddddddddsreha3w4etgwa4hweg.jpg
+" alt="街机达人超清解说" 
+width=100><BR> 
+街机达人超清解说</A> 
+<LI><A href="http://media.17173.com/9yin/2012-02-09/20120209153153431.shtml
+" 
+target=_blank><em></em><IMG height=75 
+src="http://i3.17173.itc.cn/2012/media/2012/02/10/jjjjjjjjwarghearhbrewsgjjjj.jpg
+" alt="九阴江湖梦超燃MV" 
+width=100><BR>
+九阴江湖梦超燃MV</A> 
+<LI><A href="http://media.17173.com/c9/2012-02-10/20120210094247821.shtml
+
+" target=_blank><em></em><IMG height=75 
+src="http://i3.17173.itc.cn/2012/media/2012/02/10/wwwwwwwwwwwwwwwbearhrwesgeswg.jpg
+" alt="剑圣与枪手的巅峰对决
+" width=100><BR>
+    剑与枪的巅峰对决</A> 
+  <DIV class=clear></DIV></LI></UL>
+<DIV class=main-1-lt-2-1>
+<UL>
+  <LI><img src="http://ue3.17173.itc.cn/images/www/index/2012/video.gif" width="14" height="14" /><A href="http://media.17173.com/jx3/2012-02-10/20120210090801871.shtml" target="_blank">超有爱MV之《剑三多一点》</A>
+  <LI>·<A href="http://media.17173.com/wsol/2012-02-10/20120210090724542.shtml" target=_blank>《真三OL》之薇薇的无双娱乐<br>
+  </A> 
+  <LI><img src="http://ue3.17173.itc.cn/images/www/index/2012/video.gif" width="14" height="14" /><A href="http://media.17173.com/dn/2012-02-09/20120209171454616.shtml" target=_blank>龙之谷剧情片《夙愿》第十集</A> 
+<LI>·<A href="http://media.17173.com/new/2012-02-09/20120209102021426.shtml" target=_blank>《EVE》全新官网新手宣传片</A> </LI></UL></DIV></DIV></DIV>
+          </div>
+        </div>
+        <div class="main-1-lt-3 main-1-lt-5">
+          <h2><a href="http://act.17173.com/" target="_blank">热点活动</a></h2>
+          <div class="main-1-lt-5-cnt js-main-1-lt-5-cnt">
+            <ul class="js-hd">
+              <LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2682&g_url=http://act.17173.com/define/public/cms/201202/fb0209/" target=_blank><IMG 
+src="http://i2.17173.itc.cn/2012/act/2012/0210/tf-45x45-0210.gif"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2682&g_url=http://act.17173.com/define/public/cms/201202/fb0209/" 
+target=_blank>风暴战区</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2682&g_url=http://act.17173.com/define/public/cms/201202/fb0209/" 
+target=_blank>表白送iPad和手机</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2676&g_url=http://act.17173.com/2012/02/tl0210/" target=_blank><IMG 
+src="http://i1.17173.itc.cn/2012/act/2012/0209/tl.jpg"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2676&g_url=http://act.17173.com/2012/02/tl0210/" 
+target=_blank>天龙八部</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2676&g_url=http://act.17173.com/2012/02/tl0210/" 
+target=_blank>金童玉女上封面</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2677&g_url=http://act.17173.com/2012/01/cb0113/index.html" target=_blank><IMG 
+src="http://i1.17173.itc.cn/2012/act/2012/0117/cb-4545-0117.jpg"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2677&g_url=http://act.17173.com/2012/01/cb0113/index.html" 
+target=_blank>赤壁</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2677&g_url=http://act.17173.com/2012/01/cb0113/index.html" 
+target=_blank>有奖拼图送zippo</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2678&g_url=http://act.17173.com/2011/12/hz1229/" target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/act/2012/0106/giga0106.jpg"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2678&g_url=http://act.17173.com/2011/12/hz1229/" 
+target=_blank>核金风暴</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2678&g_url=http://act.17173.com/2011/12/hz1229/" 
+target=_blank>核女郎评选</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2684&g_url=http://act.17173.com/define/public/cms/201201/sx0119/index.html" target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/act/2012/0120/sxz_45x45_0120.jpg"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2684&g_url=http://act.17173.com/define/public/cms/201201/sx0119/index.html" 
+target=_blank>神仙传</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2684&g_url=http://act.17173.com/define/public/cms/201201/sx0119/index.html" 
+target=_blank>无限制有奖COS秀</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2680&g_url=http://act.17173.com/2012/01/ny0116/" target=_blank><IMG 
+src="http://i2.17173.itc.cn/2012/act/2012/0118/ny.jpg"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2680&g_url=http://act.17173.com/2012/01/ny0116/" 
+target=_blank>诺亚传说</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2680&g_url=http://act.17173.com/2012/01/ny0116/" 
+target=_blank>方舟船票现金大抢购</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2681&g_url=http://act.17173.com/2012/02/bw0208/" target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/act/2012/0209/bw-45x45-0209.gif"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2681&g_url=http://act.17173.com/2012/02/bw0208/" 
+target=_blank>兵王</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2681&g_url=http://act.17173.com/2012/02/bw0208/" 
+target=_blank>情人节爱的告白仪式</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2682&g_url=http://act.17173.com/define/public/cms/201202/fb0209/" target=_blank><IMG 
+src="http://i2.17173.itc.cn/2012/act/2012/0210/tf-45x45-0210.gif"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2682&g_url=http://act.17173.com/define/public/cms/201202/fb0209/" 
+target=_blank>风暴战区</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2682&g_url=http://act.17173.com/define/public/cms/201202/fb0209/" 
+target=_blank>表白送iPad和手机</A></SPAN> </LI>
+<LI><A href="http://17173.tv.sohu.com/vote/201201/ldj0110/" target=_blank><IMG 
+src="http://i1.17173.itc.cn/2012/act/2012/0113/ldj.jpg"></A> 
+<H5><A href="http://17173.tv.sohu.com/vote/201201/ldj0110/" 
+target=_blank>鹿鼎记</A></H5><SPAN><A href="http://17173.tv.sohu.com/vote/201201/ldj0110/" 
+target=_blank>春节视频送祝福</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2684&g_url=http://act.17173.com/define/public/cms/201201/sx0119/index.html" target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/act/2012/0120/sxz_45x45_0120.jpg"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2684&g_url=http://act.17173.com/define/public/cms/201201/sx0119/index.html" 
+target=_blank>神仙传</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2684&g_url=http://act.17173.com/define/public/cms/201201/sx0119/index.html" 
+target=_blank>无限制有奖COS秀</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2681&g_url=http://act.17173.com/2012/02/bw0208/" target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/act/2012/0209/bw-45x45-0209.gif"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2681&g_url=http://act.17173.com/2012/02/bw0208/" 
+target=_blank>兵王</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2681&g_url=http://act.17173.com/2012/02/bw0208/" 
+target=_blank>情人节爱的告白仪式</A></SPAN> </LI>
+<LI><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2676&g_url=http://act.17173.com/2012/02/tl0210/" target=_blank><IMG 
+src="http://i1.17173.itc.cn/2012/act/2012/0209/tl.jpg"></A> 
+<H5><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2676&g_url=http://act.17173.com/2012/02/tl0210/" 
+target=_blank>天龙八部</A></H5><SPAN><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2676&g_url=http://act.17173.com/2012/02/tl0210/" 
+target=_blank>金童玉女上封面</A></SPAN> </LI>
+
+            </ul>
+            <div class=clear></div>
+          </div>
+        </div>
+        <div class=main-1-lt-4>
+          <!-- cmschiptag:chiptag 游戏神灯 begin --><SPAN>官方推荐，不会被封号的游戏辅助工具！</SPAN><A class=sd-1 
+href="http://shendeng.17173.com/lol" target=_blank>LOL</A><A class="sd-1 sd-2" 
+href="http://shendeng.17173.com/dnf" target=_blank>DNF</A><A class="sd-1 sd-3" 
+href="http://shendeng.17173.com/cf" target=_blank>CF</A><A class="sd-1 sd-4" 
+href="http://xyq.17173.com/madown/madow08.htm" target=_blank>梦幻</A><A 
+class="sd-1 sd-5" href="http://shendeng.17173.com/shenmo/" 
+target=_blank>神魔</A><A class="sd-1 sd-6" href="http://shendeng.17173.com" 
+target=_blank>更多</A> <!-- cmschiptag:chiptag 游戏神灯 end -->
+        </div>
+      </div>
+      <div class=main-1-md sizset="3" sizcache="1">
+        <div class=main-1-md-1 sizset="3" sizcache="1">
+          <div class=main-1-md-1-tab sizset="0" sizcache="1">
+            <ul sizset="0" sizcache="1">
+              <li class=on>今日要闻 </li>
+              <li>焦点回顾 </li>
+              <li><span></span>热门攻略</li>
+              <div class=clear></div>
+            </ul>
+          </div>
+          <div style="DISPLAY: block" class=main-1-md-1-cnt>
+            <div>
+              <!-- cmschiptag:chiptag 今日要闻 begin --><H1><A href="http://news.17173.com/content/2012-02-10/20120209204836437,1.shtml" target=_blank>盛大代理挑战魔兽之作RIFT《时空裂痕》</A></H1>
+<P>[<A href="http://news.17173.com/content/2012-02-09/20120209141611633,1.shtml" target=_blank>游戏历程回顾</A>][<A href="http://news.17173.com/content/2012-02-06/20120206161812878,1.shtml" target=_blank>韩国获15禁 Q1内测</A>][<A href="http://news.17173.com/content/2012-02-02/20120202155844361,1.shtml" target=_blank>前20级不限时长免费玩</A>]</P>
+<H2><A href="http://news.17173.com/content/2012-02-09/20120209091249858.shtml" target=_blank>博瑞宣布代理《AU2》</A> <A href="http://news.17173.com/content/2012-02-09/20120209093248773.shtml" target=_blank>对话运营公司CEO</A></H2>
+<P>[<A href="http://news.17173.com/content/2012-02-09/20120209110225020.shtml " target=_blank>T3 CEO:AU2目标是超越劲舞团</A>][<A href="http://news.17173.com/content/2012-02-09/20120209101803136.shtml" target=_blank>九城拖延终放弃</A>][<A href="http://news.17173.com/content/2010-07-20/20100720144003416,1.shtml" target=_blank>台服体验</A>]</P><!-- cmschiptag:chiptag 今日要闻 end -->
+            </div>
+            <div class=main-1-md-1-cnt-news sizset="3" sizcache="1">
+              <!-- cmschiptag:chiptag 今日要闻新闻 begin --><UL>
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210115947439,1.shtml" target=_blank>这些傻事你有没有做过？</A>　<A href="http://news.17173.com/content/2012-02-10/20120210023601680,1.shtml" target=_blank>世界级难度游戏TOP40</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210125942549,1.shtml" target=_blank>成人网游《龙之心》试玩</A>　<A href="http://news.17173.com/content/2012-02-10/20120210152523205,1.shtml" target=_blank>上古世纪攻城战实录</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210000323904,1.shtml" target=_blank>带您探访韩国网游公司：MMORPG《ARA》开发商</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210021913779,1.shtml" target=_blank>盘点中国特色网游系统玩法</A>　<A href="http://news.17173.com/content/2012-02-10/20120210154148990,1.shtml" target=_blank>《大话3》静态电影</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210094931098,1.shtml" target=_blank>《鹿鼎记》真情手绘</A>　<A href="http://news.17173.com/content/2012-02-10/20120210114456841.shtml" target=_blank>《诛仙前传》新服今日开启</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210094045718,1.shtml" target=_blank><STRONG>暗黑3二季度发售</STRONG></A>　<A href="http://news.17173.com/content/2012-02-10/20120210091633524.shtml" target=_blank><STRONG>动视财报:WOW玩家仍在流失</STRONG></A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210114658576.shtml" target=_blank>《完美国际》六年周边赏</A>　<A href="http://news.17173.com/content/2012-02-10/20120210094710768,1.shtml" target=_blank>东海奇谭3月1日封测</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210111007295.shtml" target=_blank>网游婚姻调查:90后最稳定</A> <A href="http://news.17173.com/content/2012-02-10/20120210154117731.shtml" target=_blank>2.5D新游《圣域传奇》</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210110712681,1.shtml" target=_blank>《神仙传》GM玩法</A>　<A href="http://news.17173.com/content/2012-02-10/20120210090252902.shtml" target=_blank>《战国群雄》新服18时开放</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210152713083,1.shtml" target=_blank>游戏中的那些中国龙</A>　<A href="http://news.17173.com/content/2012-02-10/20120210164917104.shtml" target=_blank>创新工场携西山居推新游</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210095109588,1.shtml" target=_blank>空中网副总裁蒋侃：《功夫英雄》主打竞技PK玩法</A> 
+<LI><FONT size=+0>[10]</FONT><A href="http://news.17173.com/content/2012-02-10/20120210114929485.shtml" target=_blank>《兵王》客户端3秒下完</A>　<A href="http://news.17173.com/content/2012-02-10/20120210132220898.shtml" target=_blank>《龙》新服保送100级</A> 　 </LI></UL><!-- cmschiptag:chiptag 今日要闻新闻 end -->
+            </div>
+          </div>
+          <div style="DISPLAY: none" class="main-1-md-1-cnt jdhg">
+            <div>
+              <!-- cmschiptag:chiptag 焦点回顾热点 begin --><H2><A href="http://news.17173.com/content/2012-02-09/20120209160748453,1.shtml" target=_blank>成人网游《Kabod》试玩</A></H2>
+<DIV class=main-1-md-1-cnt-news>
+<UL>
+<LI><SPAN>[新作]</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208093704255,1.shtml" target=_blank>盛大3D格斗网游《兵器时代》试玩</A> 
+<LI><SPAN>[新作]</SPAN><A href="http://news.17173.com/content/2012-02-09/20120209141611633,1.shtml" target=_blank>盛大获《裂痕》国服代理权 游戏历程回顾</A> 
+<LI><SPAN>[新作]</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208130630039,1.shtml" target=_blank>心醉的魔幻世界！《激战2》精美宣传CG赏</A> 
+<LI><SPAN>[新作]</SPAN><A href="http://news.17173.com/content/2012-02-09/20120209091249858.shtml" target=_blank>博瑞获劲舞团开发商新作《AU2》大陆代理权</A> 
+<LI><SPAN>[新作]</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208110205628,1.shtml" target=_blank>卡通FPS《水星计划》韩服公测试玩体验</A> </LI></UL></DIV>
+<H2><A href="http://news.17173.com/content/2012-02-08/20120208024227948,1.shtml" target=_blank>中国四大名著改编网游大盘点</A></H2>
+<DIV class=main-1-md-1-cnt-news>
+<UL>
+<LI><SPAN>[综合]</SPAN><A href="http://news.17173.com/content/2012-02-09/20120209023424706,1.shtml" target=_blank>老外很头疼 外媒探访中国盗版游戏地下工厂</A> 
+<LI><SPAN>[综合]</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208031058960,1.shtml" target=_blank>变废为宝！神人用废旧硬盘改造超赞艺术品</A> 
+<LI><SPAN>[综合]</SPAN><A href="http://news.17173.com/content/2012-02-09/20120209150933540,1.shtml" target=_blank>成龙变身春丽PK张娜拉 明星COS大盘点</A> 
+<LI><SPAN>[综合]</SPAN><A href="http://news.17173.com/content/2012-02-09/20120209030348830,1.shtml" target=_blank>史上最贵手办 施华洛世奇水钻版健次郎售出</A> </LI></UL></DIV>
+<H2><A href="http://news.17173.com/content/2012-02-08/20120208105111547,1.shtml" target=_blank>探访《LUNA2》运营商八爪鱼</A></H2>
+<DIV class=main-1-md-1-cnt-news>
+<UL>
+<LI><SPAN>[业界]</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208144236484,1.shtml" target=_blank>琼瑶爆料：《还珠格格》网游版2012上市</A> 
+<LI><SPAN>[业界]</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208091658743,1.shtml" target=_blank>这哪算网游？暗黑3仅支持四名玩家合作游戏</A> 
+<LI><SPAN>[业界]</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208151142566,1.shtml" target=_blank>游戏黑客亲述盗号全过程 揭露黑客产业链</A> 
+<LI><SPAN>[业界]</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208154600203,1.shtml" target=_blank>《光荣使命》遭泄露 官方声明事关国家机密</A></LI></UL></DIV><!-- cmschiptag:chiptag 焦点回顾热点 end -->
+            </div>
+          </div>
+          <div style="DISPLAY: none" class="main-1-md-1-cnt rmgl">
+          <div class="main-1-md-1-cnt-pic">
+          <!-- cmschiptag:chiptag 热门攻略执点 begin --><UL>
+<LI><A href="http://lol.17173.com/content/2012-02-02/20120202164957995,1.shtml" target=_blank><IMG alt=LOL一周囧闻第九期 src="http://i3.17173.itc.cn/2012/www/2012/zq/02/07/lol.gif" width=160 height=120></A> 
+<LI><A href="http://cf.17173.com/img/index.shtml" target=_blank><IMG alt=17173穿越火线图片站 src="http://i3.17173.itc.cn/2012/www/2012/zq/01/31/cf1.jpg" width=160 height=120></A> 
+<LI><A href="http://gfyx.17173.com/tools/jn.shtml" target=_blank><IMG alt=功夫英雄职业技能加点模拟器 src="http://i3.17173.itc.cn/2012/www/2012/zq/01/31/gfyx1.gif" width=160 height=120></A> 
+<LI><A href="http://dnf.17173.com/act/2012chap2/index.shtml" target=_blank><IMG alt=DNF第二季第2章资料专题 src="http://i3.17173.itc.cn/2012/www/2012/zq/01/20/dnf.gif" width=160 height=120></A> </LI></UL><!-- cmschiptag:chiptag 热门攻略执点 end -->
+                <div class="clear"></div>
+            </div>
+              
+            <div class=main-1-md-1-cnt-news>
+              <!-- cmschiptag:chiptag 热门攻略 begin --><UL>
+<LI><SPAN><A href="http://tl.17173.com/" target=_blank>[天龙八部]</A></SPAN> <A href="http://tl.17173.com/content/2012-02-06/20120206110624303,1.shtml" target=_blank>2012年度情人节热门情侣BB大盘点</A> 
+<LI><SPAN><A href="http://wow.17173.com/" target=_blank>[魔兽世界]</A></SPAN> <A href="http://wow.17173.com/content/2012-02-06/20120206175455778.shtml" target=_blank>巨石之核速刷暗月战利品可爱情人符</A> 
+<LI><SPAN><A href="http://dnf.17173.com/" target=_blank>[DNF 专区]</A></SPAN> <A href="http://dnf.17173.com/content/2012-02-06/20120206150626014,1.shtml" target=_blank>女弹达人分享三套常用女弹药加点</A> 
+<LI><SPAN><A href="http://dzs.17173.com/" target=_blank>[斗 战 神]</A></SPAN> <A href="http://dzs.17173.com/news/02062012/174845096,1.shtml" target=_blank>策划问答：原有职业会做超级大手术</A> 
+<LI><SPAN><A href="http://yitian.17173.com/" target=_blank>[倚天屠龙]</A></SPAN> <A href="http://yitian.17173.com/content/2012-02-06/20120206173910839.shtml" target=_blank>傲视群雄 出类拔萃 武器部位全攻略</A> 
+<LI><SPAN><A href="http://lol.17173.com/" target=_blank>[英雄联盟]</A></SPAN> <A href="http://lol.17173.com/content/2012-02-03/20120203101403075.shtml" target=_blank>爆破鬼才背景故事单人炸翻祖安监狱</A> </LI></UL><!-- cmschiptag:chiptag 热门攻略 end -->
+            </div>
+          </div>
+        </div>
+        <div class=main-1-md-2>
+        <!-- cmschiptag:chiptag 首页美术字广告文字链1  begin --><A 
+href="http://sohu.ad-plus.cn/event.ng/Type=click&amp;FlightID=201202&amp;TargetID=sohu&amp;Values=95ea7507,3b971d77,973cc6fc,9ed8c1d0&amp;AdID=14225600" 
+target=_blank><IMG 
+src="http://i1.17173.itc.cn/2012/www/2012/gg/zt/02/zt-0210-34032.gif"></A> <!-- cmschiptag:chiptag 首页美术字广告文字链1  end -->
+          <ul>
+            <!-- cmschiptag:chiptag 话题 begin --><LI>·<A href="http://news.17173.com/content/2012-02-10/20120210095513233,1.shtml" target=_blank>2.5D动作《武魂》血统玩法</A>　<A href="http://news.17173.com/content/2012-02-10/20120210102603740.shtml" target=_blank>征途2经脉玩法开放</A>　 
+<LI>·<A href="http://news.17173.com/content/2012-02-10/20120210112451121.shtml" target=_blank>《西游记》今开新服</A>　<A href="http://news.17173.com/content/2012-02-10/20120210094740842.shtml" target=_blank>醉逍遥新版前瞻 开服送红包</A> 
+<LI>·<A href="http://news.17173.com/topic/" target=_blank>[话题]</A><A href="http://news.17173.com/content/2012-02-06/20120206100257653,1.shtml" target=_blank>网游续作井喷 带2的作品到底二不二?</A><SPAN><A href="http://comment1.news.17173.com/v2/f/comment/view/10009.html?id=07q1a0d2wvv562e09xh3" target=_blank>(评)</A></SPAN> 
+<LI>·<A href="http://news.17173.com/pandian/" target=_blank>[盘点]</A><A href="http://news.17173.com/content/2012-02-08/20120208024227948,1.shtml" target=_blank>传承还是糟蹋？中国四大名著改编网游大盘点</A><SPAN></SPAN> 
+<LI>·<A href="http://news.17173.com/pandian/" target=_blank>[盘点]</A><A href="http://news.17173.com/content/2012-02-08/20120208000901487,1.shtml" target=_blank>盘点经典FC游戏“普通 文艺 二逼”玩法</A></SPAN> 
+<LI>·<A href="http://t.sohu.com/17173" target=_blank>[微博]</A><A href="http://t.sohu.com/m/2911097888" target=_blank>最容易在游戏里找到对象的星座排行</A><SPAN>&nbsp;<A href="http://t.sohu.com/m/2911097888" target=_blank>(评)</A></SPAN> </LI><!-- cmschiptag:chiptag 话题 end -->
+            </li>
+          </ul>
+        </div>
+        <div class="main-1-md-2 main-1-md-3">
+          <!-- cmschiptag:chiptag 首页美术字广告文字链2 begin --><div class="xuxian">&nbsp;</div><!-- cmschiptag:chiptag 首页美术字广告文字链2 end -->
+          <ul>
+            <!-- cmschiptag:chiptag 频道新闻 begin --><LI>·<A href="http://newgame.17173.com/xw/test.shtml" target=_blank>试玩</A> | <A href="http://news.17173.com/zt/2012/01sw/index.shtml" target=_blank>星球大战主打 1月国内外新游试玩回顾</A> 
+<LI>·<A href="http://download.17173.com/" target=_blank>下载</A> | <A href="http://download.17173.com/11330/10/62794/" target=_blank>桃花源记贺岁版</A> <A href="http://download.17173.com/11461/10/63064/" target=_blank>功夫英雄不删档内测</A> 
+<LI>·<A href="http://blog.17173.com/" target=_blank>博客</A> | <A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2568&amp;g_url=http%3A//blog.17173.com/" target=_blank>第三类性感！盘点能露能掩的5位游戏女主角</A> 
+<LI>·<A href="http://game.17173.com/" target=_blank>单机</A> | <A href="http://game.17173.com/content/2012-02-09/20120209174716955.shtml" target=_blank>日本武将现身《三国志12》 跳票至三月底 </A>
+<LI>·<A href="http://web.17173.com/" target=_blank>页游</A> | <A href="http://web.17173.com/content/2012-02-06/20120206085245893,1.shtml" target=_blank>2月6日-2月12日网页游戏新开测推荐</A> 
+<LI>·<A href="http://shendeng.17173.com" target=_blank>神灯</A> | <A href="http://shendeng.17173.com/dnf/" target=_blank>DNF神灯新增 双开、双开同步等独家功能</A> 
+<LI>·<A href="http://iphone.17173.com/" target=_blank>iPhone</A> | <A href="http://iphone.17173.com" target=_blank>善始善终 让市场告诉你 买iPhone最保值</A> 
+<LI>·<A href="http://flash.17173.com/" target=_blank>flash</A> | <A href="http://flash.17173.com/2012/s/index.html" target=_blank>超爆笑恶搞游戏《1分钟变龙宝宝》</A> </LI><!-- cmschiptag:chiptag 频道新闻 end -->
+          </ul>
+        </div>
+      </div>
+      <div class=main-1-rt>
+        <div class=main-1-rt-1>
+          <!-- cmschiptag:chiptag 首页第一竖通栏（三轮换） begin -->
+<SCRIPT language=javascript>
+var AD_data1 = [
+/*更新说明
+{"source":"广告源文件地址",
+"url":"广告链接地址(注:flash广告忽略)",
+"width":220,"height":430 //广告宽度和高度
+}*/
+{"source":"http://i2.17173.itc.cn/2012/www/2012/gg/sohu/02/tlbb-0209-220510.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=cc5cf648,73cd8ff8,80744f04,94cb096d&AdID=13326341",
+"width":220,"height":510,"id":"77"
+},
+{"source":"http://i2.17173.itc.cn/2012/www/2012/gg/sohu/02/tlbb-0209-220510.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=55501b6d,8956831d,fe8a047f,8e7f6bf7&AdID=8370920",
+"width":220,"height":510,"id":"88"
+},
+{"source":"http://i2.17173.itc.cn/2012/www/2012/gg/sohu/02/tlbb-0209-220510.jpg",
+"url":"http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=bcc770b7,31bdfa73,48327bc9,9eab8e31&AdID=11263266",
+"width":220,"height":510,"id":"99"
+}
+];
+var tuijian= new GGrandomAlternate("tuijian_index", AD_data1);
+tuijian.execute();
+</SCRIPT><!-- cmschiptag:chiptag 首页第一竖通栏（三轮换） end -->
+        </div>
+        <div class=main-1-rt-2>
+          <h2 class=h2-1><a href="http://hao.17173.com/index.action" target="_blank">发号中心</a><span class=xmore><a href="http://hao.17173.com/showToolCard.action" target="_blank">道具卡</a> | <a href="http://hao.17173.com/showActToCode.action" target="_blank">激活码</a></span></h2>
+          <ul>
+            <!-- cmschiptag:chiptag 发号中心 begin --><LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1062.shtml" target=_blank>萌战天下</A></SPAN><SPAN class=fh-2>首测激活码</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1062.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1061.shtml" target=_blank>月光宝盒</A></SPAN><SPAN class=fh-2>17173大礼包</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1061.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1058.shtml" target=_blank>功夫英雄</A></SPAN><SPAN class=fh-2>内测激活码</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1058.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1057.shtml" target=_blank>兵王</A></SPAN><SPAN class=fh-2>玫瑰大礼包</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1057.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1053.shtml" target=_blank>龙之谷</A></SPAN><SPAN class=fh-2>龙年贺岁礼包</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1053.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1052.shtml" target=_blank>诺亚传说</A></SPAN><SPAN class=fh-2>新年独家礼包</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1052.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1047.shtml" target=_blank>传奇世界</A></SPAN><SPAN class=fh-2>财神帐号</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1047.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1040.shtml" target=_blank>桃花源记</A></SPAN><SPAN class=fh-2>新手卡</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1040.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1035.shtml" target=_blank>仙境冒险</A></SPAN><SPAN class=fh-2>内测激活码</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1035.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1027.shtml" target=_blank>QQ仙境</A></SPAN><SPAN class=fh-2>不删档激活码</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1027.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1025.shtml" target=_blank>远征OL</A></SPAN><SPAN class=fh-2>2012黄金卡</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1025.shtml" target=_blank>领取</A></SPAN> 
+<DIV class=clear></DIV>
+<LI><SPAN class=fh-1><A href="http://hao.17173.com/public/pages/1026.shtml" target=_blank>新水浒</A></SPAN><SPAN class=fh-2>专属新手礼包</SPAN><SPAN class=fh-3><A class=btn-lq href="http://hao.17173.com/public/pages/1026.shtml" target=_blank>领取</A></SPAN> </LI><!-- cmschiptag:chiptag 发号中心 end -->
+            <div class=clear></div>
+          </ul>
+        </div>
+      </div>
+      <div class=clear></div>
+    </div>
+<script type=text/javascript>
+		new Index_Tab(".main-1-md-1-tab li",".main-1-md-1-cnt",".main-1-md-1|1");
+		new Index_HD();
+		new Index_Slider({
+			btnR:".btn-no-lt a",
+			btnL:".btn-no-rt a",
+			btnPoint:".btn-no",
+			sliderDiv:".js-hotvideo-cnt-1",
+			distance:370,
+			context:".main-1-lt-2",
+			auto:1
+		});
+    </script>
+    <div class=main-2 sizset="2" sizcache="4">
+      <div class=main-2-lt sizset="2" sizcache="4">
+        <div class=main-2-lt-1>
+          <!-- cmschiptag:chiptag 首页第三通栏 begin --><A 
+href="http://sohu.ad-plus.cn/event.ng/Type=click&amp;FlightID=201112&amp;TargetID=sohu&amp;Values=5e80afbc,835fb38f,3a84f86a,448404dd&amp;AdID=8663227" 
+target=_blank><IMG height=120 
+src="http://i1.17173.itc.cn/2012/www/2012/gg/bbs/02/bbs-0206-730120.jpg" width=730 
+border=0></IMG></A> <!-- cmschiptag:chiptag 首页第三通栏 end -->
+        </div>
+        <div class=main-2-lt-lt>
+          <div class=main-2-lt-2>
+            <h2 class=h2-1><span class=icon-1></span><a href="http://www.17173.com/f/" target="_blank">热门网游</a><span class=xmore><!-- cmschiptag:chiptag 热门网游文字链 begin --><A href="http://xyq.17173.com" target=_blank>梦幻西游</A> | <A href="http://dnf.17173.com" target=_blank>地下城与勇士</A> <!-- cmschiptag:chiptag 热门网游文字链 end --></span></h2>
+            <!-- cmschiptag:chiptag 热门网游 begin --><DIV class=main-2-lt-2-1><A href="http://mh.17173.com/zt/cailiao1.shtml" target=_blank><IMG alt=洛奇英雄传战役材料掉落专题 src="http://i3.17173.itc.cn/2012/www/2012/zq/02/09/mh.gif"></A><A href="http://gfyx.17173.com/zt/zt19.html" target=_blank><IMG alt=功夫英雄3D竞技PK玩法全面解析专题 src="http://i2.17173.itc.cn/2012/www/2012/zq/02/09/gfyx.gif"></A></DIV>
+<DIV class=main-2-lt-2-2>
+<H3><A href="http://bns.17173.com/news/02082012/153054572.shtml" target=_blank>《剑灵》国服官方翻译版游戏截图爆光</A></H3>
+<UL>
+<LI><SPAN><A href="http://els.17173.com/" target=_blank>[艾尔之光]</A></SPAN> <A href="http://els.17173.com/content/2012-02-09/20120209102132164.shtml" target=_blank>情人节前后新角色“伊芙”全解析</A> 
+<LI><SPAN><A href="http://moyu.17173.com/" target=_blank>[魔域]</A></SPAN> <A href="http://moyu.17173.com/beast/nxnkn.shtml" target=_blank>2012年情人节宠物相思鸟金雅详细资料</A> 
+<LI><SPAN><A href="http://xj.17173.com/" target=_blank>[QQ仙境]</A></SPAN> <A href="http://xj.17173.com/zt/proposal0207.shtml" target=_blank>国服不删档内测建议本栏意见交流集锦</A> 
+<LI><SPAN><A href="http://bw.17173.com/" target=_blank>[兵王]</A></SPAN> <A href="http://bw.17173.com/news/02082012/144420768.shtml" target=_blank>强调国战网游六大职业PK能力全面分析</A> </LI></UL></DIV><!-- cmschiptag:chiptag 热门网游 end -->
+            <div class=main-2-lt-2-3>
+            <!-- cmschiptag:chiptag 数据库搜索 begin -->
+<FORM method=post name=frmWOWSEARCHBOX action=http://ldj.db.17173.com/search.php 
+target=_blank>数据库： 
+<DIV class="main-2-lt-2-3-1 js-db"><SELECT id=innerGameList 
+onchange=dbSelect(this.options[this.selectedIndex].value)> <OPTION 
+value=wow>魔兽世界</OPTION> <OPTION value=tl>天龙八部3</OPTION> <OPTION 
+value=aion>永恒之塔</OPTION> <OPTION value=jx3>剑侠情缘3</OPTION> <OPTION 
+value=dnf>地下城与勇士</OPTION> <OPTION value=sg2>三国群英传2</OPTION> <OPTION 
+value=luna>LUNA露娜</OPTION> <OPTION value=wof>名将三国</OPTION> <OPTION 
+value=pk1937>抗战</OPTION> <OPTION value=loong>龙</OPTION> <OPTION 
+value=dn>龙之谷</OPTION> <OPTION value=yzol>远征OL</OPTION> <OPTION 
+value=qn>倩女幽魂</OPTION> <OPTION value=lol>英雄联盟</OPTION> <OPTION selected 
+value=ldj>鹿鼎记</OPTION></SELECT> </DIV>
+<DIV class=main-2-lt-2-3-2><INPUT class=dnf-txt onfocus="this.value=''" 
+value=请输入搜索内容关键字 name=key> <INPUT type=hidden name=gameCode> <INPUT type=hidden 
+name=classStr> <INPUT type=hidden name=varName> <INPUT class=dnf-btn onclick=dbSubmit() value=搜索 type=button> </DIV></FORM>
+<SCRIPT>
+var innerGameList  = ["wow","tl","aion","jx3","dnf","sg2","luna","wof","pk1937","loong","dn","yzol","qn","lol","ldj"];
+var innerGameIndex = 4;
+document.getElementById("innerGameList").value = innerGameList[innerGameIndex];
+dbSelect(innerGameList[innerGameIndex]);
+</SCRIPT><!-- cmschiptag:chiptag 数据库搜索 end -->
+            </div>
+          </div>
+          <div class=main-2-lt-4>
+            <h2 class=h2-1><span class=icon-1></span><a href="http://newgame.17173.com/" target="_blank">新网游</a><span class=xmore><!-- cmschiptag:chiptag 新网游文字链 begin --><A href="http://newgame.17173.com/hao/search.php?gameArea=1" target=_blank>大陆</A> | <A href="http://newgame.17173.com/hao/search.php?gameArea=4" target=_blank>韩国</A> | <A href="http://newgame.17173.com/hao/search.php?gameArea=2" target=_blank>欧美</A> | <A href="http://newgame.17173.com/hao/search.php" target=_blank>更多<EM>&gt;&gt;</EM></A> <!-- cmschiptag:chiptag 新网游文字链 end --></span></h2>
+            <div class=main-2-lt-4-1>
+              <!-- cmschiptag:chiptag 新网游图片 begin -->
+<DIV class=lc><A href="http://newgame.17173.com/top50.shtml" 
+target=_blank>新游期待榜</A> &gt; <A href="http://newgame.17173.com/gametest.shtml" 
+target=_blank>免费测试表</A> &gt; <A href="http://newgame.17173.com/xw/test.shtml" 
+target=_blank>新游试玩</A> &gt; <A href="http://newgame.17173.com/hao/index.php" 
+target=_blank>1分钟抢激活码</A> &gt; </DIV>
+<UL>
+<LI><A 
+href="http://upload.zj.17173.com/ggcount/go.php?g_id=2687&amp;g_url=http://newgame.17173.com/_g/media.shtml" 
+target=_blank><IMG 
+src="http://images.17173.com/2012/vlog/20120206/luochunli2_1123587_1.jpg" 
+width=140 height=105><SPAN>古龙争霸OL现场试玩</SPAN></A> 
+<LI><A 
+href="http://upload.zj.17173.com/ggcount/go.php?g_id=2687&amp;g_url=http://newgame.17173.com/_queen/" 
+target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/newgame/newgamepic/11816/034s.jpg" width=140 
+height=105><SPAN>《女王之刃》最新截图</SPAN></A> </LI></UL><!-- cmschiptag:chiptag 新网游图片 end -->
+              <div class="clear"></div>
+            </div>
+            <div class=main-2-lt-4-2>
+              <!-- cmschiptag:chiptag 新网游新闻 begin -->
+<DIV class=main-2-lt-2-2>
+<H3><A href="http://news.17173.com/content/2012-02-06/20120206100257653,1.shtml" 
+target=_blank>网游续作井喷 带2的新游到底二还是不二</A></H3>
+<UL>
+<LI>发号：<A 
+href="http://newgame.17173.com/hao/showRewardInfo.php?id=1700&amp;type=2" 
+target=_blank>桃花源记礼包【送】</A> <A 
+href="http://newgame.17173.com/hao/showRewardInfo.php?id=1545" 
+target=_blank>泡泡战士礼包【送】</A> 
+<LI>发号：<A href="http://newgame.17173.com/hao/showRewardInfo.php?id=2192" 
+target=_blank>坦克世界龙骑【送】</A> <A 
+href="http://newgame.17173.com/hao/showRewardInfo.php?id=2208" 
+target=_blank>群雄逐鹿礼包【送】</A> 
+<LI><A href="http://news.17173.com/content/2012-02-04/20120204003512938,1.shtml" 
+target=_blank>《自由捷客》试玩</A> | <A 
+href="http://newgame.17173.com/_bqsd/20120208100823862.shtml#subject" 
+target=_blank>国产动作网游《兵器时代》试玩</A> 
+<LI><A href="http://newgame.17173.com/_freerealms/media.shtml" 
+target=_blank>《自由国度》中文宣传片首曝</A> | <A href="http://newgame.17173.com/_rift/" 
+target=_blank>传盛大代理《裂痕》</A> 
+<LI><A href="http://newgame.17173.com/_projectm/media.shtml" 
+target=_blank>韩国动作射击新游《水星计划》试玩视频</A> | <A href="http://newgame.17173.com/" 
+target=_blank>更多新游</A></LI></UL></DIV><!-- cmschiptag:chiptag 新网游新闻 end -->
+            </div>
+            <div class=main-2-lt-4-3>
+              <h3><span><a href="http://news.17173.com/newgame/" target="_blank">新游大盘点</a></span></h3>
+              <ul>
+                <!-- cmschiptag:chiptag 新游视频 begin -->
+<LI><A href="http://news.17173.com/content/2012-02-05/20120205025644554,1.shtml" 
+target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/newgame/newgamepic/11864/005s.jpg" width=140 
+height=105></A><BR><A 
+href="http://news.17173.com/content/2012-02-05/20120205025644554,1.shtml" 
+target=_blank>上周热门新游截图赏析</A> 
+<LI><A href="http://news.17173.com/content/2012-02-05/20120205004347236,1.shtml" 
+target=_blank><IMG src="http://i1.17173.itc.cn/2012/newgame/02/0918092379.jpg" 
+width=140 height=105></A><BR><A 
+href="http://news.17173.com/content/2012-02-05/20120205004347236,1.shtml" 
+target=_blank>上周游戏美图壁纸精选</A> </LI><!-- cmschiptag:chiptag 新游视频 end -->
+                <div class=clear></div>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class=main-2-lt-rt sizset="2" sizcache="4">
+          <div class="main-2-lt-3 js-main-2-lt-3" sizset="2" sizcache="2">
+            <h2 class="h2-1 h2-2"><a href="http://news.17173.com/dalu/" target="_blank">大陆新闻</a><span class=xmore>| <a href="http://news.17173.com/dalu/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <div class=rel>
+              <ul class="tab-1 js-tab-1" sizset="0" sizcache="2">
+                <li class=on><a href="javascript:void(0)">最新</a> </li>
+                <li><a href="javascript:void(0)">最热</a> </li>
+              </ul>
+            </div>
+            <div style="DISPLAY: block" class="tab-1-cnt js-tab-1-cnt">
+              <h2>
+                <!-- cmschiptag:chiptag 大陆新闻最新头条 begin --><A href="http://news.17173.com/content/2012-02-10/20120210023601680,1.shtml" target=_blank>你还在被虐吗？难忘的世界级难度游戏top40</A> <!-- cmschiptag:chiptag 大陆新闻最新头条 end -->
+              </h2>
+              <ul sizset="2" sizcache="2">
+                <!-- cmschiptag:chiptag 大陆最新新闻 begin --><LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210154117731.shtml" target=_blank>巨阵星空首款网游《圣域传奇》即将上市</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210153841101,1.shtml" target=_blank>九城《零纪元》体验服今日开测 新BOSS首爆</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210153650964.shtml" target=_blank>格斗永不熄！《刀剑2》封测十大精彩瞬间</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210152945753.shtml" target=_blank>2012最后福利《绝对火力》个性妹子赏析</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210151747027.shtml" target=_blank>全线开火 《穿越火线》龙年六大赛事前瞻</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210145923287,1.shtml" target=_blank>LOL众美女玩家袒露心声：渴望浪漫的情人节</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210145529037.shtml" target=_blank>礼服长裙争艳 《新誓记》上演新春时装秀</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210145339848,1.shtml" target=_blank>《凡人修仙传》新服今日开放 双修度情人节</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210140054082.shtml" target=_blank>17173第688个专区《超能勇士》正式上线</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210132220898.shtml" target=_blank>不收费不练级 《龙》年双线第一服开启</A></LI><!-- cmschiptag:chiptag 大陆最新新闻 end -->
+              </ul>
+            </div>
+            <div style="DISPLAY: none" class="tab-1-cnt js-tab-1-cnt">
+              <h2>
+                <!-- cmschiptag:chiptag 大陆新闻最热头条 begin --><A href="http://news.17173.com/content/2012-02-10/20120210021913779,1.shtml" target=_blank>真的离不开？盘点中国特色网游系统玩法</A> <!-- cmschiptag:chiptag 大陆新闻最热头条 end -->
+              </h2>
+              <ul sizset="13" sizcache="2">
+                <!-- cmschiptag:chiptag 大陆最热新闻 begin --><LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207125708102,1.shtml" target=_blank>岁月真是杀猪刀？经典动漫人物的儿时对比</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207024345613,1.shtml" target=_blank>合你心意？国内骨灰男玩家评20大游戏女角</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208024227948,1.shtml" target=_blank>传承还是糟蹋？中国四大名著改编网游大盘</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207001917427,1.shtml" target=_blank>DNF一周囧闻：好色街霸 百年一遇的悲剧</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207111157561,1.shtml" target=_blank>名著改编3D网游《三国演义》首曝 3月测试</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208031058960,1.shtml" target=_blank>变废为宝！神人用废旧硬盘改造超赞艺术品</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207113319136,1.shtml" target=_blank>代号H2 腾讯神秘自研2.5D回合制新游曝光</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-09/20120209150933540,1.shtml" target=_blank>成龙变身春丽PK张娜拉 明星COS大盘点</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208093704255,1.shtml" target=_blank>盛大3D格斗网游《兵器时代》试玩体验</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-09/20120209141611633,1.shtml" target=_blank>盛大获《裂痕》国服代理权 游戏历程回顾</A></LI><!-- cmschiptag:chiptag 大陆最热新闻 end -->
+                </li>
+              </ul>
+            </div>
+            <div class=more2><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2068&g_url=http%3A%2F%2Fnews.17173.com%2Ftop%2F" target="_blank">新闻排行</a> | <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2069&g_url=http%3A%2F%2Fnews.17173.com%2Fgame%2F" target="_blank">新闻大全</a> | <a href="http://news.17173.com/main/zh.shtml" target="_blank">综合</a></div>
+          </div>
+          <div class=main-2-lt-5 sizset="2" sizcache="4">
+            <div class="main-2-lt-5-1 js-main-2-lt-5-1" sizset="2" sizcache="3">
+              <h2 class="h2-1 h2-2"><a href="http://news.17173.com/quanqiu/" target="_blank">全球新闻</a><span class=xmore>| <a href="http://news.17173.com/quanqiu/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+              <div class=rel>
+                <ul class="tab-1 js-tab-1">
+                  <li class=on><a href="javascript:void(0)">最新</a> </li>
+                  <li><a href="javascript:void(0)">最热</a> </li>
+                </ul>
+              </div>
+              <div style="DISPLAY: block" class="tab-1-cnt js-tab-1-cnt">
+                <h2>
+                  <!-- cmschiptag:chiptag 全球新闻最新头条 begin --><A href="http://news.17173.com/content/2012-02-10/20120210152523205,1.shtml" target=_blank>陆空协同作战《上古世纪》首个攻城战实录</A> <!-- cmschiptag:chiptag 全球新闻最新头条 end -->
+                </h2>
+                <ul>
+                  <!-- cmschiptag:chiptag 全球新闻最新 begin --><LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210155424771.shtml" target=_blank>韩国去年游戏审核报告 中国游戏占半壁江山</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210152523205,1.shtml" target=_blank>陆空协同作战《上古世纪》首个攻城战实录</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210144730057,1.shtml" target=_blank>堪比FF14 日本画师绘制完美国际超精美壁纸</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210125942549,1.shtml" target=_blank>《龙之心》日服开测 特色系统图文试玩</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210114845786,1.shtml" target=_blank>动作网游《能力者X》韩国终测 新视频公开</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210111204148,1.shtml" target=_blank>《火炬之光2》新官网登场 高清截图赏</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210094436466,1.shtml" target=_blank>3D版DNF！卡通横板《颓废之心》韩服试玩</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210094045718,1.shtml" target=_blank>动视：暗黑3第二季度上线 WOW用户继续下滑</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210023601680,1.shtml" target=_blank>你还在被虐吗？难忘的世界级难度游戏top40</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210000323904,1.shtml" target=_blank>探访韩国网游公司：MMORPG《ARA》开发商</A></LI><!-- cmschiptag:chiptag 全球新闻最新 end -->
+
+                </ul>
+              </div>
+              <div style="DISPLAY: none" class="tab-1-cnt js-tab-1-cnt">
+                <h2>
+                  <!-- cmschiptag:chiptag 全球新闻最新头条 begin --><A href="http://news.17173.com/content/2012-02-08/20120208130630039,1.shtml" target=_blank>心醉的魔幻世界！《激战2》精美宣传CG赏</A> <!-- cmschiptag:chiptag 全球新闻最新头条 end -->
+                </h2>
+                <ul>
+                  <!-- cmschiptag:chiptag 全球新闻最热 begin --><LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-06/20120206161442309,1.shtml" target=_blank>十五年悠长回忆 那些你所不知道的暗黑往</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207162149677,1.shtml" target=_blank>特洛伊战争MMORPG《特洛伊》17日韩国公测</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207112627252,1.shtml" target=_blank>全民偶像化 那些酷到爆表的动漫男主角TOP</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-06/20120206102455013,1.shtml" target=_blank>《女王之刃》新手试玩视频 内衣系统详解</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207161528569,1.shtml" target=_blank>金发大小姐 螺旋猫Vocaloid家族新成员COS</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-06/20120206002454299,1.shtml" target=_blank>全纸质狂潮 国外80后纸模达人作品大搜集</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208093506859,1.shtml" target=_blank>真相只有一个！日本冰雪节初音雪雕杀人事</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-09/20120209023424706,1.shtml" target=_blank>老外很头疼 外媒探访中国盗版游戏地下工</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-08/20120208162606823,1.shtml" target=_blank>你玩过吗？盘点被历史遗忘的经典游戏TOP1</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-07/20120207004841643,1.shtml" target=_blank>游戏好不好看反派坏不坏 盘点十大卑鄙反</A></LI><!-- cmschiptag:chiptag 全球新闻最热 end -->
+                </ul>
+              </div>
+              <div class=more2><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2071&g_url=http%3A%2F%2Fnews.17173.com%2Fworld%2Fkor.shtml" target="_blank">日韩</a> | <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2070&g_url=http%3A%2F%2Fnews.17173.com%2Fworld%2Fom.shtml" target="_blank">欧美</a> | <a href="http://news.17173.com/world/gt.shtml" target="_blank">港台</a> | <a href="http://www.17173.com/if/codejs/code1.htm" target="_blank">免费代码</a></div>
+            </div>
+            <div class="main-2-lt-5-2 js-main-2-lt-5-2" sizset="2" sizcache="4">
+              <h2 class="h2-1 h2-2"><a href="http://news.17173.com/chanye/" target="_blank">产业新闻</a><span class=xmore>| <a href="http://news.17173.com/chanye/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+              <div class=rel>
+                <ul class="tab-1 js-tab-1">
+                  <li class=on><a href="javascript:void(0)">最新</a> </li>
+                  <li><a href="javascript:void(0)">最热</a> </li>
+                </ul>
+              </div>
+              <div style="DISPLAY: block" class="tab-1-cnt js-tab-1-cnt">
+              	<ul>
+                <!-- cmschiptag:chiptag 业界新闻最新 begin --><LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210164917104.shtml" target=_blank>创新工场携西山居推心游 首个MMO将曝光</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210155424771.shtml" target=_blank>韩国去年游戏审核报告 中国游戏占半壁江山</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210152713083,1.shtml" target=_blank>华夏之魂的传承 游戏中的那些中国龙(下)</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210145044663.shtml" target=_blank>谁说门槛高 新网游公司不妨一试资本道路</A></LI>
+<LI><SPAN>[10]</SPAN><A href="http://news.17173.com/content/2012-02-10/20120210142436392.shtml" target=_blank>移动互联网市场规模将增150% 游戏成催化剂</A></LI><!-- cmschiptag:chiptag 业界新闻最新 end -->
+                </ul>
+              </div>
+              <div style="DISPLAY: none" class="tab-1-cnt js-tab-1-cnt">
+                <ul><!-- cmschiptag:chiptag 业界新闻最热 begin --><LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-06/20120206103201214,1.shtml" target=_blank>会员留存率95%!史上最长寿公会度过16岁生</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-06/20120206111210919,1.shtml" target=_blank>华夏之魂的传承 游戏中的那些中国龙(上)</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-04/20120204013458943,1.shtml" target=_blank>韩国总统把游戏比作赌博产业 表示要限制</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-06/20120206100533031,1.shtml" target=_blank>RunicCEO：活在暗黑3的阴影里是我们的命</A></LI>
+<LI><SPAN>·</SPAN><A href="http://news.17173.com/content/2012-02-04/20120204113842575.shtml" target=_blank>日本游戏将米老鼠斩首 迪士尼要求赔款</A></LI><!-- cmschiptag:chiptag 业界新闻最热 end --></ul>
+              </div>
+              <div class=more2><a href="http://news.17173.com/sh/index.shtml" target="_blank">社会</a> | <a href="http://news.17173.com/yanfa/" target="_blank">研发</a> | <a href="http://news.17173.com/chanye/list.shtml" target="_blank">滚动</a> | <a href="http://www.17173.com/if/codejs/code1.htm" target="_blank">免费代码</a></div>
+            </div>
+          </div>
+        </div>
+        <div class=clear></div>
+      </div>
+      <div class=main-2-rt>
+        <div class=main-2-rt-1>
+          <!-- cmschiptag:chiptag 首页第二竖通栏 begin --><div id=e5e493e8c8e7177366c9a87de576e204></div>
+<script type="text/javascript" >
+var sohuFlash2 = new sohuFlash("http://images.17173.com/2012/www/2012/gg/sx/02/fr-0808-220440.swf","_e5e493e8c8e7177366c9a87de576e204","220","440","7");
+sohuFlash2.addParam("quality", "high");
+sohuFlash2.addParam("wmode", "opaque");
+sohuFlash2.addVariable("clickthru",escape("http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201112&TargetID=sohu&Values=e5e493e8,c8e71773,66c9a87d,e576e204&AdID=7802338"));
+sohuFlash2.write("e5e493e8c8e7177366c9a87de576e204");
+if(typeof(document.pv)=='undefined') document.pv = new Array();var _b=new Image();
+_b.src='http://imp.ad-plus.cn/201112/e5e493e8c8e7177366c9a87de576e204.php?a=99';document.pv.push(_b);
+</script><!-- cmschiptag:chiptag 首页第二竖通栏 end -->
+        </div>
+        <div class=rel><span class=bg-2></span></div>
+        <div class=main-2-rt-2>
+          <div class="main-2-rt-2-1"><a href="http://newgame.17173.com/_csws/" target="_blank">
+		    				<img src="http://i3.17173.itc.cn/2012/newgame/02/0916590095.jpg" width="98" height="73"></a> 
+							<p><a href="http://newgame.17173.com/_csws/" target="_blank"><strong>传世无双</strong></a><br />
+							画面：<span><a href="http://newgame.17173.com/hao/search.php?gameFace=1" target="_blank">2D</a></span><br />
+							类型：<span><a href="http://newgame.17173.com/hao/search.php?gameType=0" target="_blank">角色扮演</a></span><br />
+							地区：<span><a href="http://newgame.17173.com/hao/search.php?gameArea=1" target="_blank">大陆</a></span></p></div>
+<ul><li><span class="bxy-1"><a href="http://newgame.17173.com/_qxzl/" target="_blank">群雄逐鹿</a></span><span class="bxy-2">2D</span><span class="bxy-3"><img src="http://i3.17173.itc.cn/2009/newgame/2009/index/dl1.gif" width="36" height="15" /></span>
+			              <div class="clear"></div>
+			            </li>
+<li><span class="bxy-1"><a href="http://newgame.17173.com/_taor/" target="_blank">竞速时代</a></span><span class="bxy-2">3D</span><span class="bxy-3"><img src="http://i1.17173.itc.cn/2009/newgame/2009/index/dl2.gif" width="36" height="15" /></span>
+			              <div class="clear"></div>
+			            </li>
+<li><span class="bxy-1"><a href="http://newgame.17173.com/_qxzol/" target="_blank">潜行者OL</a></span><span class="bxy-2">3D</span><span class="bxy-3"><img src="http://i1.17173.itc.cn/2009/newgame/2009/index/dl2.gif" width="36" height="15" /></span>
+			              <div class="clear"></div>
+			            </li>
+<li><span class="bxy-1"><a href="http://newgame.17173.com/_wuji/" target="_blank">武极</a></span><span class="bxy-2">3D</span><span class="bxy-3"><img src="http://i3.17173.itc.cn/2009/newgame/2009/index/dl4.gif" width="36" height="15" /></span>
+			              <div class="clear"></div>
+			            </li>
+<li><span class="bxy-1"><a href="http://newgame.17173.com/_ddwg/" target="_blank">大地王国OL</a></span><span class="bxy-2">3D</span><span class="bxy-3"><img src="http://i1.17173.itc.cn/2009/newgame/2009/index/dl2.gif" width="36" height="15" /></span>
+			              <div class="clear"></div>
+			            </li>
+<li><span class="bxy-1"><a href="http://newgame.17173.com/_csjzf/" target="_blank">创世纪战4</a></span><span class="bxy-2">3D</span><span class="bxy-3"><img src="http://i3.17173.itc.cn/2009/newgame/2009/index/dl4.gif" width="36" height="15" /></span>
+			              <div class="clear"></div>
+			            </li>
+<li><span class="bxy-1"><a href="http://newgame.17173.com/_xyjwz/" target="_blank">轩辕剑外传</a></span><span class="bxy-2">3D</span><span class="bxy-3"><img src="http://i2.17173.itc.cn/2009/newgame/2009/index/dl3.gif" width="36" height="15" /></span>
+			              <div class="clear"></div>
+			            </li>
+<li><span class="bxy-1"><a href="http://newgame.17173.com/_xkzb/" target="_blank">星矿争霸OL</a></span><span class="bxy-2">3D</span><span class="bxy-3"><img src="http://i1.17173.itc.cn/2009/newgame/2009/index/dl2.gif" width="36" height="15" /></span>
+			              <div class="clear"></div>
+			            </li>
+</ul><div class="main-2-rt-2-2"><a href="http://newgame.17173.com/hao/search.php" target="_blank">共<script src="http://newgame.17173.com/shtml/GameCount.js"></script>款>></a></div>
+        </div>
+        <div class="main-2-rt-3 js-main-2-rt-3">
+          <ul class=js-tab-1>
+            <li>
+              <h2>宝贝面对面<span>-</span><span class=jia>+</span></h2>
+              <div style="DISPLAY: none" class="main-3-lt-2-1 js-tab-1-cnt">
+                <!-- cmschiptag:chiptag 一周大杂烩1 begin --><DIV class=main-3-lt-2-1-img><A href="http://news.17173.com/hongren/004/index.shtml" target=_blank><IMG src="http://i3.17173.itc.cn/2012/news/2012/01/24/y0124dgsytj05.jpg" width=100 height=75></A></DIV>
+<P><A href="http://news.17173.com/hongren/004/index.shtml" target=_blank>小性感小可爱小温柔小淘气的张优专访</A></P><!-- cmschiptag:chiptag 一周大杂烩1 end -->
+              </div>
+            </li>
+            <li>
+              <h2>一周囧图集<span>-</span><span class=jia>+</span></h2>
+              <div style="DISPLAY: none" class="main-3-lt-2-1 js-tab-1-cnt" jQuery1324785714966="37" jQuery1324540420047="39" jQuery1324783395544="37">
+                <!-- cmschiptag:chiptag 一周大杂烩2 begin --><DIV class=main-3-lt-2-1-img><A href="http://news.17173.com/content/2012-02-05/20120205000647392,1.shtml" target=_blank><IMG src="http://i3.17173.itc.cn/2012/news/2012/02/07/y0207dgsytj08.jpg" width=100 height=75></A></DIV>
+<P><A href="http://news.17173.com/content/2012-02-05/20120205000647392,1.shtml" target=_blank>一看吓一跳</A><BR><A href="http://news.17173.com/content/2012-02-05/20120205000647392,1.shtml" target=_blank>雷死人不偿命的囧图集</A></P><!-- cmschiptag:chiptag 一周大杂烩2 end -->
+              </div>
+            </li>
+            <li>
+              <h2>一周大杂烩<span>-</span><span class=jia>+</span></h2>
+              <div style="DISPLAY: none" class="main-3-lt-2-1 js-tab-1-cnt">
+                <!-- cmschiptag:chiptag 一周大杂烩3 begin -->
+<DIV class=main-3-lt-2-1-img><A href="http://news.17173.com/game/yzdzh.shtml" 
+target=_blank><IMG 
+src="http://i1.17173.itc.cn/2012/news/2012/02/05/11_02051536_01.jpg" width=100 
+height=75></A></DIV>
+<P><A href="http://news.17173.com/game/yzdzh.shtml" target=_blank>一周大杂烩：KFC外送小哥 四川真屌丝</A></P><!-- cmschiptag:chiptag 一周大杂烩3 end -->
+              </div>
+            </li>
+            <li class=on>
+              <h2>魔兽囧闻<span>-</span><span class=jia>+</span></h2>
+              <div style="DISPLAY: block" class="main-3-lt-2-1 js-tab-1-cnt">
+                <!-- cmschiptag:chiptag 一周大杂烩4 begin -->
+<DIV class=main-3-lt-2-1-img><A href="http://news.17173.com/game/wowts.shtml" 
+target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/news/2012/02/04/11_02041548_01.jpg" width=100 
+height=75></A></DIV>
+<P><A href="http://news.17173.com/game/wowts.shtml" 
+target=_blank>魔兽一周囧闻：新西游记与魔兽 有爱春联</A></P><!-- cmschiptag:chiptag 一周大杂烩4 end -->
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class=clear></div>
+    </div>
+    <div class=main-3>
+      <div class=main-3-lt>
+        <div class=main-3-lt-1>
+          <!-- cmschiptag:chiptag 首页第四通栏 begin --><A 
+href="http://sohu.ad-plus.cn/event.ng/Type=click&amp;FlightID=201112&amp;TargetID=sohu&amp;Values=2b495c78,192c7c3b,f61a1a5e,07604136&amp;AdID=6319380" 
+target=_blank><IMG height=120 
+src="http://i2.17173.itc.cn/2012/www/2012/gg/sx/02/hyrz-0210-730120.jpg" 
+width=730 border=0></IMG></A> <!-- cmschiptag:chiptag 首页第四通栏 end -->
+        </div>
+        <div class=main-3-lt-lt>
+          <div class=main-3-lt-2>
+            <h2 class=h2-1><span class=icon-1></span><a href="http://bbs.17173.com/" target="_blank">游戏论坛</a><span class=xmore>| <a href="http://bbs.17173.com/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <div class=main-3-lt-2-1>
+              <!-- cmschiptag:chiptag 游戏论坛话题 begin -->
+<DIV class=main-3-lt-2-1-img><A href="http://bbs.17173.com/review/" 
+target=_blank><IMG height=75 
+src="http://i1.17173.itc.cn/2012/bbs/2012/01/24/1201241.jpg" 
+width=100><SPAN>热门新游玩家评测</SPAN></A></DIV>
+<H3><A href="http://bbs.17173.com/talk/20120210/" 
+target=_blank>话题第68期：玩家的愤怒之毁人不倦</A></H3>
+<P><A 
+href="http://bbs.17173.com/thread/620/1231/20120209/4f3378ecc41670c13-1.html" 
+target=_blank>《战争前线》菜鸟需要了解的竞技技巧</A><BR><A 
+href="http://bbs.17173.com/act/index.html" 
+target=_blank>[奖]《战国群雄》皇妃美女宠设计送鼠标,ipod</A><BR><A 
+href="http://bbs.17173.com/act/index.html" target=_blank>[奖]《守护之剑》守护你的X！送手柄 
+卫衣</A></P><!-- cmschiptag:chiptag 游戏论坛话题 end -->
+            </div>
+            <div class=main-2-lt-2-2>
+              <!-- cmschiptag:chiptag 游戏论坛新闻 begin -->
+<UL>
+<LI><A 
+href="http://bbs.17173.com/thread/413/777/19700101/4f3107baf10cc8d13-1.html" 
+target=_blank>《C9第九大陆》萨满系通用技能『魔法屏蔽』翻身解析</A> <A 
+href="http://bbs.17173.com/thread/576/1128/20120119/4f17a957c8181bf13-1.html" 
+target=_blank></A>
+<LI><A 
+href="http://bbs.17173.com/thread/283/600/19700101/4f32414435cafd213-1.html" 
+target=_blank>《鹿鼎记》风筝、陷阱、阻击——王者火枪分析详解</A> <A 
+href="http://bbs.17173.com/thread/576/1128/19700101/4f2ba92428130d013-1.html" 
+target=_blank></A>
+<LI><A 
+href="http://bbs.17173.com/thread/54/113/19700101/4f3219a0e5e3a8513-1.html" 
+target=_blank>《魔兽世界》4.3pve：10人英雄死亡之翼疯狂熊坦心得</A> <A 
+href="http://bbs.17173.com/thread/413/777/19700101/4f27e4eede207dc13-1.html" 
+target=_blank></A>
+<LI><A 
+href="http://bbs.17173.com/thread/550/1047/19700101/4f2f6c1fcccb04113-1.html" 
+target=_blank>[漫画]BT萱《剑灵》之旅【苏莲花与金刚力士二三事】</A> <A 
+href="http://bbs.17173.com/thread/413/777/20120131/4f27e4eede207dc13-1.html" 
+target=_blank></A>
+<LI><A 
+href="http://bbs.17173.com/thread/152/353/20111117/4ec47902dcaa2d113-1.html" 
+target=_blank>盘点武侠中的那些宿敌</A> <A 
+href="http://bbs.17173.com/thread/99/226/19700101/4f337f3ad9c714d13-1.html" 
+target=_blank>带你走进造梦工厂皮克斯</A> </LI></UL><!-- cmschiptag:chiptag 游戏论坛新闻 end -->
+            </div>
+          </div>
+          <div class=main-3-lt-4>
+            <h2 class=h2-1><span class=icon-1></span><a href="http://gh.17173.com" target="_blank">游戏公会</a><span class=xmore>| <a href="http://gh.17173.com" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <div class=main-2-lt-2-2>
+              <!-- cmschiptag:chiptag 游戏公会 begin --><H3><A href="http://gh.17173.com/zt/gh.shtml" target=_blank>史上最长寿公会竟已16岁</A> <A href="http://gh.17173.com/" target=_blank>玩家10万RMB购游戏道具</A></H3>
+<UL>
+<LI><A href="http://gh.17173.com/totalaction.shtml" target=_blank>发号</A>：<A href="http://gh.17173.com/totalaction.shtml" target=_blank>QQ仙境不删档测试码</A> <A href="http://gh.17173.com/totalaction.shtml" target=_blank>功夫英雄不删档内测激活码</A> 
+<LI><A href="http://gh.17173.com/" target=_blank>七十岁的魔兽大型公会会长</A> <A href="http://gh.17173.com/zt/ghgl.shtml" target=_blank>让魔兽世界感到压力的游戏</A> 
+<LI><A href="http://gh.17173.com/content/2012-02-06/20120206153814880,1.shtml" target=_blank>比春运还难抢的“激活码”</A> <A href="http://gh.17173.com/list/guildnews.shtml" target=_blank>激活码出售门引发连锁反应</A> 
+<LI><A href="http://gh.17173.com/content/2012-01-23/20120123122202255.shtml" target=_blank>谁给过蜗牛不坑爹的机会？</A> <A href="http://gh.17173.com/content/2012-01-25/20120125115244187,1.shtml" target=_blank>从EVE经济模式看九阴真经!</A> 
+<LI><A href="http://gh.17173.com/content/2012-01-10/20120110094826115,1.shtml" target=_blank>为黑五万金弃两年兄弟情谊</A> <A href="http://gh.17173.com/content/2012-02-10/1328839617,1.shtml" target=_blank>厂商赚了钱，却输了文化！</A> </LI></UL><!-- cmschiptag:chiptag 游戏公会 end -->
+            </div>
+          </div>
+          <div class=main-3-lt-6>
+          
+<!-- cmschiptag:chiptag 游戏百科搜索 begin -->
+<DIV class=main-3-lt-6-1><A href="http://bk.17173.com/" target=_blank>游戏百科</A> 
+<FORM id=searchask onsubmit="document.charset='utf-8';" method=get 
+name=searchask action=http://bk.17173.com/search.shtml? 
+target=_blankaccept-charset= utf-8??><INPUT class=yxbk-txt name=title> <INPUT class=yxbk-btn value=搜答案 type=submit name=input2></FORM></DIV><!-- cmschiptag:chiptag 游戏百科搜索 end -->
+            <div class=main-3-lt-6-2>
+              <ul>
+                <!-- cmschiptag:chiptag 游戏百科 begin --><LI>[<A href="http://bk.17173.com/asklist.php?parentid=1001673&amp;classtype=3&amp;status=0#status" target=_blank>QQ仙境</A>] <A href="http://bk.17173.com/ask/1000568/2012/02/10/735353.shtml" target=_blank>不删档开启 甜蜜狂欢</A> 
+<LI>[<A href="http://bk.17173.com/asklist.php?parentid=1001679&amp;classtype=3&amp;status=1#status" target=_blank>功夫英雄</A>] <A href="http://bk.17173.com/ask/1001679/2012/01/07/731763.shtml" target=_blank>带兵上限如何计算</A> 
+<LI>[<A href="http://bk.17173.com/asklist.php?parentid=1000823&amp;classtype=3&amp;status=1#status" target=_blank>远征OL</A>] <A href="http://bk.17173.com/ask/1000823/2012/01/06/731408.shtml" target=_blank>青龙雷州落日陵怎么进</A> 
+<LI>[<A href="http://bk.17173.com/asklist.php?parentid=1002650&amp;classtype=3&amp;status=1#status" target=_blank>战国群雄</A>] <A href="http://bk.17173.com/ask/1002650/2011/12/28/729362.shtml" target=_blank>凤凰玉是干什么用的</A> 
+<LI>[<A href="http://bk.17173.com/" target=_blank>热门</A>] <A href="http://bk.17173.com/asklist.php?parentid=1000847&amp;classtype=3&amp;status=1#status" target=_blank>极光世界</A> <A href="http://bk.17173.com/asklist.php?parentid=1001664&amp;classtype=3&amp;status=1#status" target=_blank>全民足球</A> <A href="http://bk.17173.com/asklist.php?parentid=1000172&amp;classtype=3&amp;status=1#status" target=_blank>CF</A> 
+<LI>[<A href="http://bk.17173.com/" target=_blank>热门</A>] <A href="http://bk.17173.com/asklist.php?parentid=1001365&amp;classtype=3&amp;status=1#status" target=_blank>核金风暴</A> <A href="http://bk.17173.com/asklist.php?parentid=1001960&amp;classtype=3&amp;status=1#status" target=_blank>兵王</A> <A href="http://bk.17173.com/help.php?id=317" target=_blank>仙途</A> </LI><!-- cmschiptag:chiptag 游戏百科 end -->
+                  <div class=clear></div>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class=main-3-lt-rt>
+          <div class=main-3-lt-3>
+            <h2 class="h2-1 h2-2"><a href="http://news.17173.com/zhuanti/" target="_blank">专题</a>·<a href="http://news.17173.com/ch/" target="_blank">策划</a>·<a href="http://news.17173.com/zhanhui/" target="_blank">展会</a><span class=xmore>| <a href="http://news.17173.com/zhuanti/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <div class=main-3-lt-2-1>
+              <!-- cmschiptag:chiptag 策划专题话题 begin --><DIV class=main-3-lt-2-1-img><A href="http://news.17173.com/zt/2012/newyear/index.shtml" target=_blank><IMG src="http://i2.17173.itc.cn/2012/www/bigeye/2012/1/0127ztol01.jpg" width=100 height=75><SPAN>2011我们一起宅过</SPAN></A></DIV>
+<H3><A href="http://news.17173.com/cgiac/2011/" target=_blank>2011游戏产业年会</A></H3>
+<P><A href="http://news.17173.com/zt/2011/12ypc/" target=_blank>[专题] 2011年十二月新游试玩TOP10</A><BR><A href="http://news.17173.com/hongren/003/index.shtml" target=_blank>[专题] 宝贝面对面：教你必胜宝典</A><BR><A href="http://news.17173.com/zt/2011/mito/index.shtml" target=_blank>[专题] 2012世纪美图大盘点</A></P><!-- cmschiptag:chiptag 策划专题话题 end -->
+            </div>
+            <div class=main-2-lt-2-2>
+              <!-- cmschiptag:chiptag 策划专题新闻 begin --><UL>
+<LI><A href="http://news.17173.com/content/2012-02-06/20120206161442309,1.shtml" target=_blank>策划：十五年！那些你不知道的暗黑往事</A> 
+<LI><A href="http://news.17173.com/content/2012-01-30/20120130100651509,1.shtml" target=_blank>策划：2012全球最受期待的20款游戏</A> 
+<LI><A href="http://news.17173.com/content/2012-01-27/20120127003116792,1.shtml" target=_blank>策划：谁是主角？数字解读2011网游圈</A> 
+<LI><A href="http://news.17173.com/iece/2011/" target=_blank>展会：第九届中国国际网络文化网络博览会</A> 
+<LI><A href="http://news.17173.com/gstar/2011/" target=_blank>展会：G★2011韩国第一大游戏展</A> </LI></UL><!-- cmschiptag:chiptag 策划专题新闻 end -->
+            </div>
+          </div>
+          <div class=main-3-lt-5>
+            <h2 class="h2-1 h2-2"><a href="http://news.17173.com/zf/" target="_blank">专访</a>·<a href="http://news.17173.com/renwu/" target="_blank">人物</a>·<a href="http://news.17173.com/ana/" target="_blank">语录</a><span class=xmore>| <a href="http://news.17173.com/zf/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <div class=main-3-lt-5-1>
+              <!-- cmschiptag:chiptag 专访语录图片 begin --><UL>
+<LI><A href="http://news.17173.com/content/2012-02-09/20120209093248773.shtml" target=_blank><IMG src="http://images.17173.com/2012/news/2012/02/09/cr0209bo01ss02.jpg" width=90 height=70><SPAN>泥巴网代理AU2</SPAN></A> 
+<LI><A href="http://news.17173.com/content/2012-02-09/20120209012539268,1.shtml" target=_blank><IMG src="http://images.17173.com/2012/news/2012/02/09/cr0209bo01ss01.jpg" width=90 height=70><SPAN>剑灵原画师访谈</SPAN></A> 
+<LI><A href="http://news.17173.com/content/2012-01-27/20120127143203232,1.shtml" target=_blank><IMG src="http://images.17173.com/2012/news/2012/01/27/cr0127cai01ss.jpg" width=90 height=70><SPAN>腾讯新年新动作</SPAN></A> </LI></UL><!-- cmschiptag:chiptag 专访语录图片 end -->
+              <div class=clear></div>
+            </div>
+            <div class=main-3-lt-5-2>
+              <!-- cmschiptag:chiptag 专访语录新闻 begin -->·<A href="http://news.17173.com/content/2012-02-06/20120206100533031,1.shtml" target=_blank>RunicCEO：活在暗黑3的阴影里是我们的命</A><BR>·<A href="http://news.17173.com/content/2012-02-08/20120208000720027,1.shtml" target=_blank>CF开发商：容易爆头使CF在中国大获成功</A><BR>·<A href="http://news.17173.com/content/2012-02-05/20120205124223043,1.shtml" target=_blank>Maiet娱乐CEO：我们要成为韩国第一</A> <!-- cmschiptag:chiptag 专访语录新闻 end -->
+            </div>
+          </div>
+          <div class=main-3-lt-7>
+            <h2 class="h2-1 h2-2"><a href="http://blog.17173.com/" target="_blank">博客</a>·<a href="http://t.sohu.com/17173" target="_blank">微博</a><span class=xmore>| <a href="http://blog.17173.com/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <div class=main-3-lt-2-1>
+              <!-- cmschiptag:chiptag 博客微博 begin --><DIV class=main-3-lt-2-1-img><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2567&amp;g_url=http%3A%2F%2Fblog.17173.com%2F" target=_blank><IMG height=75 src="http://i3.17173.itc.cn/2012/blog/2012/02/b0210tu.jpg" width=100><SPAN>张婉悠性感COS</SPAN></A></DIV>
+<P><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2563&amp;g_url=http%3A%2F%2Fblog.17173.com%2Fmore%2Fyuanchuang2011.shtml" target=_blank>[原创] 盘点能露能掩的五位游戏女主角</A><BR><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2565&amp;g_url=http%3A%2F%2Fblog.17173.com%2Fmore%2Fmanhua2011.shtml" target=_blank>[动漫] 日cos女王 促销性感漫画惹争议</A><BR><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2564&amp;g_url=http%3A%2F%2Fblog.17173.com%2Fmore%2Fbagua2011.shtml" target=_blank>[八卦] LOL玩家现场手绘九尾狐"阿狸"</A><BR><A href="http://upload.zj.17173.com/ggcount/go.php?g_id=2566&amp;g_url=http%3A%2F%2Fblog.17173.com%2Fmore%2Fxinqing2011.shtml" target=_blank>[心情] 留学吐槽姐低胸卖萌引网友争议</A></P><!-- cmschiptag:chiptag 博客微博 end -->
+            </div>
+          </div>
+        </div>
+        <div class=clear></div>
+      </div>
+      <div class=main-3-rt>
+
+
+        <div class=main-3-rt-1>
+          <!-- cmschiptag:chiptag 首页第三竖通栏 begin --><a href="http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201201&TargetID=sohu&Values=108df30e,1a11c0f5,461bdb54,a825324a&AdID=2457826" target=_blank><img src="http://i3.17173.itc.cn/2012/www/2012/gg/netbar/01/job-0118-220440.jpg" border=0 height="440" width="220"></img></a><!-- cmschiptag:chiptag 首页第三竖通栏 end -->
+        </div>
+        <div class=main-3-rt-2>
+          <div class=main-3-rt-2-cnt>
+            <h2>游戏招聘<span><a href="http://job.17173.com/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <ul>
+              <!-- cmschiptag:chiptag 游戏招聘 begin --><LI>·<A href="http://job.17173.com/mem/job_list.php?cid=62718" target=_blank>17173招聘 新闻编辑、视频工程师</A> 
+<LI>·<A href="http://job.17173.com/mem/job_list.php?cid=488" target=_blank>网易游戏北京工作室大量招聘</A> 
+<LI>·<A href="http://job.17173.com/mem/job_list.php?cid=7830" target=_blank>大宇软星聘总助、策划、美工</A> 
+<LI>·<A href="http://job.17173.com/mem/job_list.php?cid=6805" target=_blank>搜狐畅游年后急聘职位</A> 
+<LI>·<A href="http://job.17173.com/mem/job_list.php?cid=15688" target=_blank>网龙天晴数码招聘火热进行</A> 
+<LI>·<A href="http://job.17173.com/mem/job_list.php?cid=7702" target=_blank>深圳中青宝2012招聘大量人才</A> 
+<LI>·<A href="http://job.17173.com/mem/job_list.php?cid=119066" target=_blank>上海网宏诚邀各类人才加盟</A> 
+<LI>·<A href="http://job.17173.com/mem/job_list.php?cid=152084" target=_blank>成都泥巴网络，诚邀你的加入</A> 
+<LI>·<A href="http://job.17173.com/content/2012-02-10/20120210103914349,1.shtml" target=_blank>探访韩国网游《ARA》开发商</A> 
+<LI>·<A href="http://job.17173.com/content/2012-02-08/20120208182310740,1.shtml" target=_blank>就职Facebook四年 10个经验分享</A> 
+<LI>·<A href="http://job.17173.com/mem/hyzx_list.php" target=_blank>80后成主力军 巨人任命85后副总</A> </LI><!-- cmschiptag:chiptag 游戏招聘 end -->
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class=clear></div>
+    </div>
+    <div class=main-a1>
+      <!-- cmschiptag:chiptag 首页第五通栏 begin --><A 
+href="http://sohu.ad-plus.cn/event.ng/Type=click&amp;FlightID=201112&amp;TargetID=sohu&amp;Values=89a9d3ad,b88adcb3,2cb94386,14717845&amp;AdID=7447588" 
+target=_blank><IMG height=120 
+src="http://i1.17173.itc.cn/2012/www/2012/gg/sx/02/zj-0209-960120.jpg" 
+width=960 border=0></IMG></A> <!-- cmschiptag:chiptag 首页第五通栏 end -->
+    </div>
+    <div class=main-4>
+      <div class=main-4-lt>
+
+        <div class=main-4-lt-lt>
+          <div class=main-4-lt-1>
+            <h2 class=h2-1><span class=icon-1></span><a href="http://web.17173.com/" target="_blank">网页游戏</a><span class=xmore><!-- cmschiptag:chiptag 网页游戏文字链 begin --><A href="http://web.17173.com/game/sqbl.html"target=_blank>石器部落</A> | <A 
+href="http://web.17173.com/game/sssg.html"target=_blank>盛世三国</A> | <A 
+href="http://web.17173.com/game"target=_blank>更多<EM>&gt;&gt;</EM></A> <!-- cmschiptag:chiptag 网页游戏文字链 end --></span></h2>
+            <div class=main-3-lt-2-1>
+              <!-- cmschiptag:chiptag 网页游戏话题 begin -->
+<DIV class=main-3-lt-2-1-img><A 
+href="http://web.17173.com/content/2012-02-10/20120210111618226.shtml" 
+target=_blank><IMG src="http://i1.17173.itc.cn/2012/web/focus/02/20120210.jpg" 
+width=100 height=75><SPAN>斗圣10日撼世首测</SPAN></A></DIV>
+<H3><A href="http://web.17173.com/content/2012-02-10/20120210105623330.shtml" 
+target=_blank>《商战创世纪》2月10日首次封测</A></H3>
+<P>[<A href="http://web.17173.com/pingce/" target=_blank>评测</A>] <A 
+href="http://web.17173.com/content/2012-02-09/20120209180053228,1.shtml" 
+target=_blank>微端《朝歌》前瞻：游戏系统完成度高</A><BR>[<A 
+href="http://web.17173.com/news/rwzf.shtml" target=_blank>专访</A>] <A 
+href="http://web.17173.com/content/2012-02-09/20120209085111214.shtml" 
+target=_blank>专访《上兵伐谋》产品主管 特色曝光</A><BR>[<A 
+href="http://web.17173.com/news/znhd.shtml" target=_blank>活动</A>] <A 
+href="http://web.17173.com/content/2012-02-09/20120209100540828.shtml" 
+target=_blank>参与《七十二变》活动 送Ipad2大奖</A></P><!-- cmschiptag:chiptag 网页游戏话题 end -->
+            </div>
+            <div class=main-2-lt-2-2>
+              <!-- cmschiptag:chiptag 网页游戏新闻 begin --><UL>
+<LI><A href="http://web.17173.com/content/2012-02-10/20120210110908503.shtml" target=_blank>宫锁珠帘深处《盛世三国》英雄加强战备</A> 
+<LI><A href="http://web.17173.com/content/2012-02-10/20120210103811861.shtml" target=_blank>《朝歌》2月10日12点封测 各种寂寞全秒杀</A> 
+<LI><A href="http://web.17173.com/content/2012-02-10/20120210091438590,1.shtml" target=_blank>整蛊大作《疯狂邻居》不删档内测14:00开启</A> 
+<LI><A href="http://web.17173.com/content/2012-02-10/20120210112042998.shtml" target=_blank>炮火直轰波兰《二战》首次封测14时盛世开启</A> </LI></UL><!-- cmschiptag:chiptag 网页游戏新闻 end -->
+            </div>
+          </div>
+          <div class=main-4-lt-3>
+            <h2 class=h2-1><span class=icon-1></span><a href="http://flash.17173.com/" target="_blank">Flash小游戏</a><span class=xmore><!-- cmschiptag:chiptag flash小游戏文字链 begin --><A href="http://flash.17173.com/main/zhuanti.shtml" target=_blank>专题</A> | <A 
+href="http://flash.17173.com/lanmu/newgames.shtml" target=_blank>最新游戏</A> | <A 
+href="http://flash.17173.com/" target=_blank>更多<EM>&gt;&gt;</EM></A> <!-- cmschiptag:chiptag flash小游戏文字链 end --></span></h2>
+            <div class=main-4-lt-3-1>
+              <!-- cmschiptag:chiptag 小游戏图片 begin -->
+<UL>
+<LI><A 
+href="http://flash.17173.com/flashfile/2012-02-06/20120206104430329.shtml" 
+target=_blank><IMG height=60 
+src="http://i3.17173.itc.cn/2012/flash/2012/02/06/203utDP0V7L.gif" 
+width=100></A><BR><A 
+href="http://flash.17173.com/flashfile/2012-02-06/20120206104430329.shtml" 
+target=_blank>魔军屠城2中文版</A> 
+<LI><A 
+href="http://flash.17173.com/flashfile/2012-02-04/20120204124016477.shtml" 
+target=_blank><IMG height=60 
+src="http://i3.17173.itc.cn/2012/flash/2012/02/04/32Nw0VR7xm6.gif" 
+width=100></A><BR><A 
+href="http://flash.17173.com/flashfile/2012-02-04/20120204124016477.shtml" 
+target=_blank>僵尸突袭</A> 
+<DIV class=clear></DIV></LI></UL>
+<DIV class=main-4-lt-3-1-img><A 
+href="http://flash.17173.com/zt/2012/02/14/index.html" target=_blank><IMG 
+height=190 src="http://i2.17173.itc.cn/2012/flash/2012/02/10/big.jpg" 
+width=220><SPAN>暴强！情人节终极泡妞攻略！</SPAN></A></DIV><!-- cmschiptag:chiptag 小游戏图片 end -->
+            </div>
+            <div class="main-4-lt-3-2 js-main-4-lt-3-2">
+              <ul class="tab-2 js-tab-1">
+                <li class=on>周 </li>
+                <li>月 </li>
+                <li>年</li>
+                <div class=clear></div>
+              </ul>
+              <div class="tab-2-cnt js-tab-1-cnt"> <a href="http://flash.17173.com/flashfile/2012-02-03/20120203111013027.shtml" target="_blank"><img src="http://i2.17173.itc.cn/2012/flash/2012/02/03/3re0G7vk0m2.gif" width="120" height="70" /></a>
+                <ul>
+                  <li>1&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-03/20120203111013027.shtml" target="_blank">黑天使2勇者试炼</a>
+<li>2&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-04/20120204124016477.shtml" target="_blank">僵尸突袭</a>
+<li>3&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-03/20120203111313626.shtml" target="_blank">宇宙的刻度2</a>
+<li>4&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-03/20120203111229565.shtml" target="_blank">狂飙电吉他4</a>
+<li>5&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-04/20120204123743080.shtml" target="_blank">拳皇wing1.7无敌版</a>
+<li>6&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-04/20120204123823647.shtml" target="_blank">功夫老爹</a>
+<li>7&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-06/20120206104430329.shtml" target="_blank">魔军屠城2中文版</a>
+<li>8&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-06/20120206104137127.shtml" target="_blank">瑞麦斯之旅3</a>
+<li>9&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-09/20120209110352457.shtml" target="_blank">机甲战士</a>
+<li>10&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-08/20120208104139162.shtml" target="_blank">忍者熊</a>                </ul>
+              </div>
+              <div class="tab-2-cnt js-tab-1-cnt" style="display:none"> <a href="http://flash.17173.com/flashfile/2012-01-14/20120114102130699.shtml" target="_blank"><img src="http://i3.17173.itc.cn/2012/flash/2012/01/14/3875U4bc807.gif" width="120" height="70" /></a>
+                <ul>
+                  <li>1&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-01-14/20120114102130699.shtml" target="_blank">经典热血街霸</a>
+<li>2&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-01-31/20120131103727113.shtml" target="_blank">制造绯闻</a>
+<li>3&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-03/20120203111013027.shtml" target="_blank">黑天使2-勇者试炼</a>
+<li>4&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-01-20/20120120105333089.shtml" target="_blank">拳皇wing1.7</a>
+<li>5&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-04/20120204124016477.shtml" target="_blank">僵尸突袭</a>
+<li>6&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-01-18/20120118110905072.shtml" target="_blank">古典音乐盒</a>
+<li>7&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-03/20120203111313626.shtml" target="_blank">宇宙的刻度2</a>
+<li>8&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-01-20/20120120104844680.shtml" target="_blank">决斗传奇</a>
+<li>9&nbsp;&nbsp;<a href="http://flash.17173.com/flashfile/2012-02-03/20120203111229565.shtml" target="_blank">狂飙电吉他4</a>
+<li>10&nbsp;<a href="http://flash.17173.com/flashfile/2012-01-19/20120119102616547.shtml" target="_blank">灵魂小黑人的历险</a>                </ul>
+              </div>
+              <div class="tab-2-cnt js-tab-1-cnt" style="display:none"> <a href="http://flash.17173.com/zt/2011/06/zx/index.html"><img src="http://i1.17173.itc.cn/2011/flash/2011/07/26/7-27-p2.GIF" width="120" height="70" /></a>
+                <ul>
+                  <LI>1&nbsp;&nbsp;<A href="http://flash.17173.com/zt/2011/06/zx/index.html" target=_blank>测你另一半的长相</A> 
+<LI>2&nbsp;&nbsp;<A href="http://flash.17173.com/flashfile/2010-01-29/20100129170617971.shtml" target=_blank>塔防世界单机版</A> 
+<LI>3&nbsp;&nbsp;<A href="http://flash.17173.com/content/2010-03-07/126793092996.shtml" target=_blank>DNF测试版2.0</A> 
+<LI>4&nbsp;&nbsp;<A href="http://flash.17173.com/content/2010-02-17/126640654220.shtml" target=_blank>DNF测试版1.8</A> 
+<LI>5&nbsp;&nbsp;<A href="http://flash.17173.com/content/2010-06-18/127684208613.shtml" target=_blank>传动DNF2.1</A> 
+<LI>6&nbsp;&nbsp;<A href="http://flash.17173.com/zt/201001/jsss.shtml" target=_blank>僵尸小游戏集合</A> 
+<LI>7&nbsp;&nbsp;<A href="http://flash.17173.com/zt/201003/0103.shtml" target=_blank>三月游戏重磅推荐</A> 
+<LI>8&nbsp;&nbsp;<A href="http://flash.17173.com/content/2010-01-06/12627581827.shtml" target=_blank>美女与外星人</A> 
+<LI>9&nbsp;&nbsp;<A href="http://flash.17173.com/flashfile/2010-04-23/20100423115928263.shtml" target=_blank>传动DNF1.1</A> 
+<LI>10&nbsp;<A href="http://flash.17173.com/flashfile/2010-01-15/20100115155445660.shtml" target=_blank>Q版阿凡达空战</A>                </ul>
+              </div></div>
+            <div class=clear></div>
+          </div>
+          <div class=main-4-lt-5>
+            <h2 class=h2-1><span class=icon-1></span><a href="http://esports.17173.com/" target="_blank">竞技游戏</a><span class=xmore><!-- cmschiptag:chiptag 竞技游戏文字链 begin --><A href="http://esports.17173.com/xiaoshuo/index.shtml" target=_blank>小说</A> | <A href="http://esports.17173.com/bl/" target=_blank>辩论</A> | <A href="http://esports.17173.com/g1" target=_blank>G1</A> | <A href="http://esports.17173.com" target=_blank>更多<EM>&gt;&gt;</EM></A> <!-- cmschiptag:chiptag 竞技游戏文字链 end --></span></h2>
+            <div class=main-2-lt-4-1>
+<ul>
+              <!-- cmschiptag:chiptag 竞技游戏图片 begin --><LI><A href="http://pl.17173.com/inc/90023/175/wsf4327.shtml?commentid=1757902@tdate=90023201202" target=_blank><IMG height=105 src="http://i3.17173.itc.cn/2012/sc2/2012/02/07/tttjjjj.jpg" width=140><SPAN>国服终生包拯救星际?</SPAN></A> 
+<LI><A href="http://esports.17173.com/content/2012-02-10/20120210152641518,1.shtml" target=_blank><IMG height=105 src="http://i2.17173.itc.cn/2012/esports/2012/02/08/ssg.jpg" width=140><SPAN>我Dota你介意吗(三)</SPAN></A> </LI><!-- cmschiptag:chiptag 竞技游戏图片 end --><div class=clear></div>
+</ul>
+            </div>
+            <div class=main-2-lt-4-2>
+              <div class=main-2-lt-2-2>
+                <ul>
+                  <!-- cmschiptag:chiptag 竞技游戏新闻 begin -->
+<LI><A 
+href="http://esports.17173.com/content/2012-02-09/20120209151335373.shtml" 
+target=_blank>17173 G-1游戏竞技冠军联赛第三季火爆开启</A> 
+<LI><A 
+href="http://esports.17173.com/content/2012-02-10/20120210155244699,1.shtml" 
+target=_blank>星际2界的奇男子 TL专访枪兵王(上)：我最喜欢IU</A> 
+<LI><A 
+href="http://esports.17173.com/content/2012-02-10/20120210160045784,1.shtml" 
+target=_blank>趣味文章：从羽毛球分析现在的星际2</A> 
+<LI><A 
+href="http://esports.17173.com/content/2012-02-10/20120210162921384.shtml" 
+target=_blank>战术罗正式回归WE 将担任辅助和负责BP</A> </LI><!-- cmschiptag:chiptag 竞技游戏新闻 end -->
+                  <div class=clear></div>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=main-4-lt-rt>
+          <div class=main-4-lt-2>
+            <h2 class="h2-1 h2-2"><a href="http://www.37wanwan.com/" target="_blank">上去玩玩</a><span class=xmore><!-- cmschiptag:chiptag 上去玩玩文字链 begin --><A href="http://www.37wanwan.com/yxwz/" target=_blank>英雄王座</A> | <A href="http://www.37wanwan.com/fr2/" target=_blank>凡人修真2</A> | <A href="http://www.37wanwan.com/" target=_blank>更多<EM>&gt;&gt;</EM></A> <!-- cmschiptag:chiptag 上去玩玩文字链 end -->
+</span></h2>
+            <div class=main-3-lt-2-1>
+              <!-- cmschiptag:chiptag 上去玩玩话题 begin --><DIV class=main-3-lt-2-1-img><A href="http://www.37wanwan.com/hysj/" target=_blank><IMG src="http://i3.37wanwan.itc.cn/2012/www/2012/01/05/17173hysj10075.jpg" width=100 height=75></A></DIV>
+<H3><A href="http://www.37wanwan.com/fr2/guest3.shtml" target=_blank>震屏特效 无限连击</A></H3>
+<P>今日新服开测</P>
+<DIV class=main-3-lt-2-1-btn><A class=btn-gw href="http://www.37wanwan.com/hysj/" target=_blank>官网</A><A class=btn-gw href="http://www.37wanwan.com/hysj/xinshouka.shtml" target=_blank>领卡</A><A class=btn-ksyx href="http://www.37wanwan.com/hysj/server.shtml" target=_blank>&nbsp;</A></DIV><!-- cmschiptag:chiptag 上去玩玩话题 end -->
+            </div>
+            <div class=main-2-lt-2-2>
+              <!-- cmschiptag:chiptag 上去玩玩新闻 begin --><UL>
+<LI><A href="http://www.37wanwan.com/hysj/news/02102012/005909482.shtml" target=_blank>《火影世界》双线11区“雨露千本”浓情献礼</A> 
+<LI><A href="http://www.37wanwan.com/fr2/guest3.shtml" target=_blank>《凡人修真2》不删档开测 五重豪礼八大活动</A> 
+<LI><A href="http://tj.37wanwan.com/data/load.php?code=877" target=_blank>魔兽网页版《英雄王座》 不删档新服火爆开启</A> 
+<LI><A href="http://www.37wanwan.com/yq/news/02022012/165755348.shtml" target=_blank>一妻当先不如玩《一骑当先》 新服闹元宵</A> </LI></UL><!-- cmschiptag:chiptag 上去玩玩新闻 end -->
+            </div>
+          </div>
+          <div class=main-4-lt-4>
+            <h2 class="h2-1 h2-2"><a href="http://game.17173.com/" target="_blank">单机游戏</a><span class=xmore>| <a href="http://game.17173.com/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <div class=main-2-lt-4-3>
+<ul>
+              <!-- cmschiptag:chiptag 单机游戏图片 begin --><LI><A href="http://game.17173.com/content/2012-02-10/20120210144400729,1.shtml" target=_blank><IMG height=90 src="http://i2.17173.itc.cn/2012/game/2012/02/10/hzw.jpg" width=130></A> 
+<P>《海贼王》无双海量精美截图，<A href="http://game.17173.com/content/2011-12-27/20111227150338243.shtml" target=_blank>最新视频影像</A>人物招式全现</P>
+<LI><A href="http://game.17173.com/content/2012-02-08/20120208170053906,1.shtml" target=_blank><IMG height=90 src="http://i2.17173.itc.cn/2012/esports/2012/02/08/cc.jpg" width=130></A> 
+<P>三国志历代人物头像的变化、看时代变迁、沧海桑田...</P></LI><!-- cmschiptag:chiptag 单机游戏图片 end --><div class=clear></div>
+</ul>
+            </div>
+            <div class=main-2-lt-2-2>
+                <ul>
+              <!-- cmschiptag:chiptag 单机游戏新闻 begin --><LI><A href="http://game.17173.com/content/2012-02-09/20120209143950687.shtml" target=_blank>3月15日上市《仙剑奇侠传：逍遥游》首曝</A> 
+<LI><A href="http://game.17173.com/content/2012-02-10/20120210094710630.shtml" target=_blank>《暗黑破坏神3》第一季度发售无望 或延后 </A>
+<LI><A href="http://game.17173.com/content/2012-02-10/20120210143428719,1.shtml" target=_blank>高清画质《生化危机：启示录》壁纸狂送 </A>
+<LI><A href="http://game.17173.com/content/2012-02-10/20120210145539714.shtml" target=_blank>《三国志12》最新武将介绍：孝义吕蒙 </A>
+<LI><A href="http://game.17173.com/content/2012-02-09/20120209113636207.shtml" target=_blank>最后一作?《战神》新作将于近期公布 </A></LI><!-- cmschiptag:chiptag 单机游戏新闻 end --><div class=clear></div>
+                </ul>
+            </div>
+          </div>
+          <div class=main-4-lt-6>
+            <h2 class="h2-1 h2-2"><a href="http://iphone.17173.com/" target="_blank">iPhone·iPad</a><span class=xmore>| <a href="http://iphone.17173.com/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+            <div class=main-4-lt-6-1>
+              <div class=ipp>
+                <div class=rel><a class="btn-game-lt js-btn-game-lt" href="javascript:void(0)"></a><a class="btn-game-lt btn-game-rt js-btn-game-rt" href="javascript:void(0)"></a></div>
+                <div class=ipp-cnt>
+                  <!-- cmschiptag:chiptag ipone-ipad begin -->
+<UL class=js-ipp-cnt>
+<LI><A href="http://iphone.17173.com/post-content-1634.html" target=_blank><IMG 
+src="http://i2.17173.itc.cn/2012/iphone/2012/02/01/n1.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/post-content-1634.html" 
+target=_blank>屠龙勇士</A> 
+<LI><A href="http://iphone.17173.com/post-content-2531.html" target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/iphone/2012/02/01/n2.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/post-content-2531.html" 
+target=_blank>模拟人生</A> 
+<LI><A href="http://iphone.17173.com/app/index.html" target=_blank><IMG 
+src="http://ue1.17173.itc.cn/images/www/2012/img/32.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/app/index.html" 
+target=_blank>17173</A> 
+<LI><A href="http://iphone.17173.com/post-content-2356.html" target=_blank><IMG 
+src="http://i1.17173.itc.cn/2012/iphone/2012/01/17/2222222.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/post-content-2356.html" 
+target=_blank>黑暗之怒</A> 
+<LI><A href="http://iphone.17173.com/post-content-2395.html" target=_blank><IMG 
+src="http://i2.17173.itc.cn/2012/iphone/2012/01/19/7878.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/post-content-2395.html" 
+target=_blank>跳跃飞行</A> 
+<LI><A href="http://iphone.17173.com/post-content-89.html" target=_blank><IMG 
+src="http://i2.17173.itc.cn/2011/iphone/2011/12/30/69x69.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/post-content-89.html" 
+target=_blank>捕鱼达人</A> 
+<LI><A href="http://iphone.17173.com/post-content-2153.html" target=_blank><IMG 
+src="http://i3.17173.itc.cn/2012/iphone/2012/02/06/r1.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/post-content-2153.html" 
+target=_blank>嗨皮恐龙</A> 
+<LI><A href="http://iphone.17173.com/post-content-2624.html" target=_blank><IMG 
+src="http://i1.17173.itc.cn/2012/iphone/2012/02/06/r2.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/post-content-2624.html" 
+target=_blank>玉猴3D</A> 
+<LI><A href="http://iphone.17173.com/post-content-2423.html" target=_blank><IMG 
+src="http://i2.17173.itc.cn/2012/iphone/2012/01/19/5436.jpg" width=69 
+height=69></A><BR><A href="http://iphone.17173.com/post-content-2423.html" 
+target=_blank>鼓之反击</A> </LI></UL><!-- cmschiptag:chiptag ipone-ipad end -->
+                </div>
+              </div>
+            </div>
+            <div class=main-2-lt-2-2>
+              <!-- cmschiptag:chiptag iphone_ipad新闻 begin -->
+<UL>
+<LI><A href="http://iphone.17173.com/news/2012/02/08/103324296.shtml" 
+target=_blank>苹果打击刷排名：国内Top100应用10%靠刷榜</A> 
+<LI><A href="http://iphone.17173.com/news/2012/02/09/165825227.shtml" 
+target=_blank>iPad3高清裸照再次泄漏 最快三月推出？</A>
+<LI><A href="http://iphone.17173.com/news/2012/02/08/075952672.shtml" 
+target=_blank>苹果唯冠暗中博弈：苹果已评估iPad更名成本</A> 
+<LI><A href="http://iphone.17173.com/news/2012/02/07/120336328.shtml" 
+target=_blank>让宅男变得浪漫体贴 好男人APP大推荐 </A> </LI></UL><!-- cmschiptag:chiptag iphone_ipad新闻 end -->
+            </div>
+          </div>
+        </div>
+
+        <div class=clear></div>
+        <div class=main-4-lt-7>
+          <h2><a href="http://news.17173.com/gameview/" target="_blank">游戏大观</a></h2>
+          <div class=xmore2><a href="http://818.17173.com/" target="_blank">818游戏之外</a> | <a href="http://news.17173.com/gameview/jiong/index.shtml" target="_blank">囧图</a> | <a href="http://news.17173.com/gameview/hongren/" target="_blank">美女</a> | <a href="http://news.17173.com/gameview/wallpaper/" target="_blank">壁纸</a></div>
+          <!-- cmschiptag:chiptag 游戏大观 begin --><A class=dg-img-1 href="http://upload.zj.17173.com/ggcount/go.php?g_id=2572&amp;g_url=http%3A%2F%2Fnews.17173.com%2Fgameview%2F" target=_blank><IMG src="http://i2.17173.itc.cn/2012/news/2012/02/09/y0209dgsytj02.jpg" width=380 height=190><SPAN>成龙变身春丽PK张娜拉 明星COS大盘点</SPAN></A><A class=dg-img-2 href="http://upload.zj.17173.com/ggcount/go.php?g_id=2573&amp;g_url=http://news.17173.com/content/2012-02-09/20120209143311752,1.shtml" target=_blank><IMG src="http://i2.17173.itc.cn/2012/news/2012/02/09/y0209dgsytj03.jpg" width=100 height=90><SPAN>游戏明星乱入现实世界</SPAN></A><A class=dg-img-3 href="http://upload.zj.17173.com/ggcount/go.php?g_id=2521&amp;g_url=http://818.17173.com/index.shtml#tuijian" target=_blank><IMG src="http://i2.17173.itc.cn/2012/news/ydtj/0210sy01.jpg" width=100 height=90><SPAN>赐我一个这样的学姐吧！</SPAN></A><A class=dg-img-4 href="http://upload.zj.17173.com/ggcount/go.php?g_id=2521&amp;g_url=http://818.17173.com/index.shtml#tuijian" target=_blank><IMG src="http://i2.17173.itc.cn/2012/news/ydtj/0209sy02.jpg" width=100 height=90><SPAN>方舟子纠结韩寒的真正原因</SPAN></A><A class=dg-img-5 href="http://upload.zj.17173.com/ggcount/go.php?g_id=2573&amp;g_url=http://news.17173.com/content/2012-02-09/20120209161943140,1.shtml" target=_blank><IMG src="http://i2.17173.itc.cn/2012/news/2012/02/09/y0209dgsytj04.jpg" width=100 height=90><SPAN>《天元突破》优子COSPLAY</SPAN></A><A class=dg-img-6 href="http://upload.zj.17173.com/ggcount/go.php?g_id=2521&amp;g_url=http%3A%2F%2F818.17173.com%2F" target=_blank><IMG src="http://i2.17173.itc.cn/2012/news/ydtj/0209sy01.jpg" width=100 height=90><SPAN>日本推出超喷血女体日历</SPAN></A><A class=dg-img-7 href="http://upload.zj.17173.com/ggcount/go.php?g_id=2521&amp;g_url=http%3A%2F%2F818.17173.com%2F" target=_blank><IMG src="http://i2.17173.itc.cn/2012/news/ydtj/0209sy04.jpg" width=100 height=90><SPAN>一对男人的暴强婚纱照…</SPAN></A> <!-- cmschiptag:chiptag 游戏大观 end -->
+        </div>
+      </div>
+      <div class=main-4-rt>
+        <div class=main-4-rt-1>
+          <!-- cmschiptag:chiptag 首页第四竖通栏 begin --><A 
+href="http://sohu.ad-plus.cn/event.ng/Type=click&amp;FlightID=201201&amp;TargetID=sohu&amp;Values=739dc695,6874d0c8,c4693565,cfe2048e&amp;AdID=14832413" 
+target=_blank><IMG height=380 
+src="http://i2.17173.itc.cn/2012/www/2012/gg/sx/02/jtxm-0209-220380.jpg" width=220 
+border=0></IMG></A> <!-- cmschiptag:chiptag 首页第四竖通栏 end -->
+        </div>
+        <div class=main-4-rt-2>
+          <!-- cmschiptag:chiptag 首页第五竖通栏 begin --><A 
+href="http://sohu.ad-plus.cn/event.ng/Type=click&amp;FlightID=201112&amp;TargetID=sohu&amp;Values=a8581152,4da98af0,d04e7427,927be051&amp;AdID=8129583" 
+target=_blank><IMG height=380 
+src="http://i2.17173.itc.cn/2012/www/2012/gg/hd/01/sd-0129-220380.gif" width=220 
+border=0></IMG></A> <!-- cmschiptag:chiptag 首页第五竖通栏 end -->
+        </div>
+        <div class=main-4-rt-3>
+          <!--<div class=rel><span class=tp-bg-1></span></div>-->
+          <!--<div class=main-4-rt-3-cnt>-->
+            <!-- cmschiptag:chiptag 用户调查 begin --><H3>17173用户调查:</H3>
+<DIV class=vote>
+<DIV class=votetitle>你的压岁钱在哪个区间？</DIV>
+<FORM id=voteform method=post name=voteform action=http://vote.17173.com/action/vote_process.php target=vote_opener>
+<DIV class=voteitem><INPUT id=vote_id value=7395 type=hidden name=vote_id> <INPUT id=vote_year type=hidden name=vote_year>
+<DIV><INPUT value=37870 type=radio name=vote_item_7395> <SPAN class=itemtitle>没有压岁钱啦</SPAN></DIV>
+<DIV><INPUT value=37871 type=radio name=vote_item_7395> <SPAN class=itemtitle>0～500</SPAN></DIV>
+<DIV><INPUT value=37872 type=radio name=vote_item_7395> <SPAN class=itemtitle>500～1000</SPAN></DIV>
+<DIV><INPUT value=37873 type=radio name=vote_item_7395> <SPAN class=itemtitle>1000～2000</SPAN></DIV>
+<DIV><INPUT value=37874 type=radio name=vote_item_7395> <SPAN class=itemtitle>2000～10000</SPAN></DIV>
+<DIV><INPUT value=37875 type=radio name=vote_item_7395> <SPAN class=itemtitle>1W以上</SPAN></DIV>
+<DIV><INPUT value=37876 type=radio name=vote_item_7395> <SPAN class=itemtitle>足够买房</SPAN></DIV>
+<DIV><INPUT value=37877 type=radio name=vote_item_7395> <SPAN class=itemtitle>俺是发压岁钱的T_T</SPAN></DIV></DIV>
+<DIV class=vote_button><INPUT id=vote_submit onclick="return  voteOpenWin(0)" value=投票/查看结果 type=submit name=vote_submit><BR>【<A href="http://comment1.news.17173.com/content.do?channel=90032&amp;commentid=39716&amp;tn=90032201202&amp;action=listtp" target=_blank>查看/发表评论</A>】</DIV></FORM></DIV><!-- cmschiptag:chiptag 用户调查 end -->
+          <!--</div>-->
+        </div>
+      </div>
+      <div class=clear></div>
+    </div>
+    <div class=main-5>
+      <div class=main-5-lt-1>
+        <!-- cmschiptag:chiptag 首页第六通栏 begin --><A 
+href="http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=676affde,4e689e02,684ffe31,a51e0d15&AdID=1989631" 
+target=_blank><IMG height=120 
+src="http://i1.17173.itc.cn/2012/www/if/video/yeazone/201202/173sy1c4120210a/A.jpg" width=960 
+border=0></IMG></A> <IMG height=0 
+src="http://imp.ad-plus.cn/201112/74b861ca1175eb414812b0bf6344a836.php?a=99" 
+width=0> <!-- cmschiptag:chiptag 首页第六通栏 end -->
+      </div>
+      <div class=main-5-lt>
+        <div class=main-5-lt-2>
+          <h2 class=ph-1><a href="http://newgame.17173.com/top50.shtml" target="_blank" title="新游排行榜"></a></h2>
+          <div class=ph-th><span class=ph-th-1>排名</span><span class=ph-th-2>游戏</span><span class=ph-th-3>票数</span>
+            <div class=clear></div>
+          </div>
+          <div class="ph-td js-ph-xy"><ul class="js-tab-1"><li><span class="ph-th-1">1</span><span class="ph-th-2"><a href="http://bns.17173.com/" class="ph-td-color1">剑灵</a></span><span class="ph-th-3">43843</span>
+              	<p style="display:block" class="js-tab-1-cnt"><a href="http://bns.17173.com/" target="_blank"><img src="http://i1.17173.itc.cn/2011/newgame/11/2112201221.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">2</span><span class="ph-th-2"><a href="http://newgame.17173.com/_gsz/" class="ph-td-color1">斩魂</a></span><span class="ph-th-3">41553</span>
+              	<p  class="js-tab-1-cnt"><a href="http://newgame.17173.com/_gsz/" target="_blank"><img src="http://i3.17173.itc.cn/2011/newgame/12/3015111824.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">3</span><span class="ph-th-2"><a href="http://xajh.17173.com" class="ph-td-color1">笑傲江湖</a></span><span class="ph-th-3">40595</span>
+              	<p  class="js-tab-1-cnt"><a href="http://xajh.17173.com" target="_blank"><img src="http://i3.17173.itc.cn/2011/newgame/03/0914321944.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">4</span><span class="ph-th-2"><a href="http://newgame.17173.com/_d3/" class="ph-td-color1">暗黑破坏神3</a></span><span class="ph-th-3">36826</span>
+              	<p  class="js-tab-1-cnt"><a href="http://newgame.17173.com/_d3/" target="_blank"><img src="http://i2.17173.itc.cn/2011/newgame/05/3015524072.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">5</span><span class="ph-th-2"><a href="http://allods.17173.com/" class="ph-td-color1">巫师之怒</a></span><span class="ph-th-3">28823</span>
+              	<p  class="js-tab-1-cnt"><a href="http://allods.17173.com/" target="_blank"><img src="http://i2.17173.itc.cn/2011/newgame/02/0910393545.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">6</span><span class="ph-th-2"><a href="http://c9.17173.com/" class="ph-td-color1">C9</a></span><span class="ph-th-3">26366</span>
+              	<p  class="js-tab-1-cnt"><a href="http://c9.17173.com/" target="_blank"><img src="http://i3.17173.itc.cn/2011/newgame/11/2109310639.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">7</span><span class="ph-th-2"><a href="http://newgame.17173.com/_qilongzhu/" class="ph-td-color1">七龙珠OL</a></span><span class="ph-th-3">24910</span>
+              	<p  class="js-tab-1-cnt"><a href="http://newgame.17173.com/_qilongzhu/" target="_blank"><img src="http://i3.17173.itc.cn/2011/newgame/03/0114260074.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">8</span><span class="ph-th-2"><a href="http://newgame.17173.com/_finalcombat/" class="ph-td-color1">大冲锋</a></span><span class="ph-th-3">24508</span>
+              	<p  class="js-tab-1-cnt"><a href="http://newgame.17173.com/_finalcombat/" target="_blank"><img src="http://i2.17173.itc.cn/2011/newgame/06/1614385813.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">9</span><span class="ph-th-2"><a href="http://newgame.17173.com/_queen/" class="ph-td-color1">女王之刃</a></span><span class="ph-th-3">22962</span>
+              	<p  class="js-tab-1-cnt"><a href="http://newgame.17173.com/_queen/" target="_blank"><img src="http://i3.17173.itc.cn/2012/newgame/01/2915453150.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">10</span><span class="ph-th-2"><a href="http://newgame.17173.com/_sdsol/" class="ph-td-color1">圣斗士星矢</a></span><span class="ph-th-3">22440</span>
+              	<p  class="js-tab-1-cnt"><a href="http://newgame.17173.com/_sdsol/" target="_blank"><img src="http://i2.17173.itc.cn/2012/newgame/01/0621410098.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">11</span><span class="ph-th-2"><a href="http://newgame.17173.com/_jizhan2/" target="_blank">激战2</a></span><span class="ph-th-3">22433</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_jizhan2/" target="_blank"><img src="http://i2.17173.itc.cn/newgame/upimage/2008/20080115164347321.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">12</span><span class="ph-th-2"><a href="http://yl.17173.com/" target="_blank">御龙在天</a></span><span class="ph-th-3">22291</span>
+              	<p class="js-tab-1-cnt"><a href="http://yl.17173.com/" target="_blank"><img src="http://i1.17173.itc.cn/2011/newgame/07/1411415399.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">13</span><span class="ph-th-2"><a href="http://newgame.17173.com/_h2/" target="_blank">核心格斗</a></span><span class="ph-th-3">21576</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_h2/" target="_blank"><img src="http://i3.17173.itc.cn/2011/newgame/01/2416594933.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">14</span><span class="ph-th-2"><a href="http://newgame.17173.com/_wkz/" target="_blank">悟空传</a></span><span class="ph-th-3">20101</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_wkz/" target="_blank"><img src="http://i3.17173.itc.cn/2011/newgame/08/3110243382.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">15</span><span class="ph-th-2"><a href="http://qn.17173.com/" target="_blank">倩女幽魂</a></span><span class="ph-th-3">19304</span>
+              	<p class="js-tab-1-cnt"><a href="http://qn.17173.com/" target="_blank"><img src="http://i1.17173.itc.cn/2011/newgame/09/2315022364.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">16</span><span class="ph-th-2"><a href="http://newgame.17173.com/_jingtiandd/" target="_blank">新惊天动地</a></span><span class="ph-th-3">19281</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_jingtiandd/" target="_blank"><img src="http://i2.17173.itc.cn/2011/newgame/11/1818011887.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">17</span><span class="ph-th-2"><a href="http://newgame.17173.com/_ty/" target="_blank">桃园</a></span><span class="ph-th-3">18571</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_ty/" target="_blank"><img src="http://i1.17173.itc.cn/2010/newgame/11/2217401723.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">18</span><span class="ph-th-2"><a href="http://newgame.17173.com/_tt3/" target="_blank">天堂永恒</a></span><span class="ph-th-3">18523</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_tt3/" target="_blank"><img src="http://i3.17173.itc.cn/2011/newgame/11/0816423150.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">19</span><span class="ph-th-2"><a href="http://age.17173.com/" target="_blank">上古世纪</a></span><span class="ph-th-3">18314</span>
+              	<p class="js-tab-1-cnt"><a href="http://age.17173.com/" target="_blank"><img src="http://i1.17173.itc.cn/2011/newgame/05/1815254366.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">20</span><span class="ph-th-2"><a href="http://newgame.17173.com/_dasong/" target="_blank">大宋</a></span><span class="ph-th-3">17596</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_dasong/" target="_blank"><img src="http://i1.17173.itc.cn/2012/newgame/01/0615342917.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">21</span><span class="ph-th-2"><a href="http://gfyx.17173.com/" target="_blank">功夫英雄</a></span><span class="ph-th-3">17507</span>
+              	<p class="js-tab-1-cnt"><a href="http://gfyx.17173.com/" target="_blank"><img src="http://i2.17173.itc.cn/2011/newgame/05/3117084265.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">22</span><span class="ph-th-2"><a href="http://9yin.17173.com" target="_blank">九阴真经</a></span><span class="ph-th-3">17291</span>
+              	<p class="js-tab-1-cnt"><a href="http://9yin.17173.com" target="_blank"><img src="http://i2.17173.itc.cn/2011/newgame/03/1511275330.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">23</span><span class="ph-th-2"><a href="http://newgame.17173.com/_granage/" target="_blank">守护之剑</a></span><span class="ph-th-3">16388</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_granage/" target="_blank"><img src="http://i2.17173.itc.cn/2011/newgame/08/0918054984.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">24</span><span class="ph-th-2"><a href="http://newgame.17173.com/_mu2/" target="_blank">奇迹2</a></span><span class="ph-th-3">16300</span>
+              	<p class="js-tab-1-cnt"><a href="http://newgame.17173.com/_mu2/" target="_blank"><img src="http://i1.17173.itc.cn/2011/newgame/11/logox111111.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li><span class="ph-th-1">25</span><span class="ph-th-2"><a href="http://zdfy.17173.com/" target="_blank">战地风云OL</a></span><span class="ph-th-3">15546</span>
+              	<p class="js-tab-1-cnt"><a href="http://zdfy.17173.com/" target="_blank"><img src="http://i1.17173.itc.cn/2011/newgame/06/0209463549.jpg" width="120" height="90" /></a></p>
+                <div class="clear"></div>
+              </li>
+<li class="more3"><a href="http://newgame.17173.com/top50.shtml" target="_blank" title="新游排行榜">更多<em>>></em></a></li></ul></div></div>
+        <div class=main-5-lt-3>
+          <h2 class=ph-2><a href="http://download.17173.com" target="_blank" title="游戏下载排行"></a></h2>
+          <div class=ph-th><span class=ph-th-1>排名</span><span class=ph-th-2>游戏</span><span class=ph-th-3>升降</span>
+            <div class=clear></div>
+          </div>
+<div class="ph-td js-ph-gc">
+            <ul class="js-tab-1">
+           <li class="on"><span class="ph-th-1">1</span><span class="ph-th-2"><a href="http://download.17173.com/10520/" class="ph-td-color1">QQ飞车</a></span><span class="ph-th-3"><em class="em-0"> </em></span><p style="display:block" class="js-tab-1-cnt"><a href="http://download.17173.com/10520/"><img src="http://i1.17173.itc.cn/2012/downsite/uploadimg/2012/02/09/1328772871.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">2</span><span class="ph-th-2"><a href="http://download.17173.com/10694/" class="ph-td-color1">QQ炫舞</a></span><span class="ph-th-3"><em class="em-0"> </em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/10694/"><img src="http://i1.17173.itc.cn/2012/downsite/uploadimg/2012/01/13/1326436100.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">3</span><span class="ph-th-2"><a href="http://download.17173.com/10735/" class="ph-td-color1">QQ仙境</a></span><span class="ph-th-3"><em class="em-0"> </em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/10735/"><img src="http://i1.17173.itc.cn/2012/downsite/uploadimg/2012/01/04/1325645791.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">4</span><span class="ph-th-2"><a href="http://download.17173.com/10898/" class="ph-td-color1">英雄联盟</a></span><span class="ph-th-3"><em class="em-0"> </em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/10898/"><img src="http://i2.17173.itc.cn/2011/downsite/uploadimg/2011/11/29/1322555266.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">5</span><span class="ph-th-2"><a href="http://download.17173.com/10345/" class="ph-td-color1">穿越火线</a></span><span class="ph-th-3"><em class="em-0"> </em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/10345/"><img src="http://i1.17173.itc.cn/2011/downsite/uploadimg/2011/12/22/1324544876.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">6</span><span class="ph-th-2"><a href="http://download.17173.com/10055/" class="ph-td-color1">跑跑卡丁车</a></span><span class="ph-th-3"><em class="em-0"> </em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/10055/"><img src="http://i2.17173.itc.cn/2011/downsite/uploadimg/2011/08/15/1313387932.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">7</span><span class="ph-th-2"><a href="http://download.17173.com/20011/" class="ph-td-color1">地下城与勇士</a></span><span class="ph-th-3"><em class="em-up">1</em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/20011/"><img src="http://i2.17173.itc.cn/2012/downsite/uploadimg/2012/01/17/1326772201.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">8</span><span class="ph-th-2"><a href="http://download.17173.com/11290/" class="ph-td-color1">坦克世界</a></span><span class="ph-th-3"><em class="em-down">1</em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/11290/"><img src="http://i1.17173.itc.cn/2012/downsite/uploadimg/2012/01/17/1326774481.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">9</span><span class="ph-th-2"><a href="http://download.17173.com/121/" class="ph-td-color1">魔兽世界</a></span><span class="ph-th-3"><em class="em-0"> </em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/121/"><img src="http://i3.17173.itc.cn/2010/downsite/uploadimg/2010/12/12/1292136515.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">10</span><span class="ph-th-2"><a href="http://download.17173.com/10095/" class="ph-td-color1">天龙八部3</a></span><span class="ph-th-3"><em class="em-up">2</em></span><p class="js-tab-1-cnt"><a href="http://download.17173.com/10095/"><img src="http://i1.17173.itc.cn/2012/downsite/uploadimg/2012/02/02/1328172622.jpg" width="120" height="90" /></a></p> <div class="clear"></div></li> <li><span class="ph-th-1">11</span><span class="ph-th-2"><a href="http://download.17173.com/11410/">蜀山神话</a></span><span class="ph-th-3"><em class="em-up">11</em></span><div class="clear"></div></li> <li><span class="ph-th-1">12</span><span class="ph-th-2"><a href="http://download.17173.com/60/">奇迹MU</a></span><span class="ph-th-3"><em class="em-down">1</em></span><div class="clear"></div></li> <li><span class="ph-th-1">13</span><span class="ph-th-2"><a href="http://download.17173.com/11759/">仙尘OL</a></span><span class="ph-th-3"><em class="em-0"> </em></span><div class="clear"></div></li> <li><span class="ph-th-1">14</span><span class="ph-th-2"><a href="http://download.17173.com/11461/">功夫英雄</a></span><span class="ph-th-3"><em class="em-up">4</em></span><div class="clear"></div></li> <li><span class="ph-th-1">15</span><span class="ph-th-2"><a href="http://download.17173.com/10936/">极光世界</a></span><span class="ph-th-3"><em class="em-up">2</em></span><div class="clear"></div></li> <li><span class="ph-th-1">16</span><span class="ph-th-2"><a href="http://download.17173.com/1058/">魔域</a></span><span class="ph-th-3"><em class="em-down">1</em></span><div class="clear"></div></li> <li><span class="ph-th-1">17</span><span class="ph-th-2"><a href="http://download.17173.com/10920/">远征OL</a></span><span class="ph-th-3"><em class="em-up">3</em></span><div class="clear"></div></li> <li><span class="ph-th-1">18</span><span class="ph-th-2"><a href="http://download.17173.com/11324/">醉逍遥</a></span><span class="ph-th-3"><em class="em-up">5</em></span><div class="clear"></div></li> <li><span class="ph-th-1">19</span><span class="ph-th-2"><a href="http://download.17173.com/118/">梦幻西游</a></span><span class="ph-th-3"><em class="em-up">13</em></span><div class="clear"></div></li> <li><span class="ph-th-1">20</span><span class="ph-th-2"><a href="http://download.17173.com/11587/">武林秘籍</a></span><span class="ph-th-3"><em class="em-up">9</em></span><div class="clear"></div></li> <li><span class="ph-th-1">21</span><span class="ph-th-2"><a href="http://download.17173.com/11328/">圣魔之血</a></span><span class="ph-th-3"><em class="em-down">5</em></span><div class="clear"></div></li> <li><span class="ph-th-1">22</span><span class="ph-th-2"><a href="http://download.17173.com/11562/">水浒无双</a></span><span class="ph-th-3"><em class="em-down">1</em></span><div class="clear"></div></li> <li><span class="ph-th-1">23</span><span class="ph-th-2"><a href="http://download.17173.com/11592/">西游3</a></span><span class="ph-th-3"><em class="em-down">13</em></span><div class="clear"></div></li> <li><span class="ph-th-1">24</span><span class="ph-th-2"><a href="http://download.17173.com/10917/">九阴真经</a></span><span class="ph-th-3"><em class="em-up">2</em></span><div class="clear"></div></li> <li><span class="ph-th-1">25</span><span class="ph-th-2"><a href="http://download.17173.com/11635/">龙纹</a></span><span class="ph-th-3"><em class="em-down">1</em></span><div class="clear"></div></li><li class="more3"><a href="http://download.17173.com/rank" target="_blank" title="游戏下载排行">更多<em>>></em></a></li></ul></div>
+          </div>
+        <div class=main-5-lt-4>
+          <h2 class=ph-3><a href="http://newgame.17173.com/gametest.shtml" target="_blank" title="网游测试时间表"></a></h2>
+          <div class=ph-th><span class=ph-th-1>时间</span><span class=ph-th-2>游戏</span><span class=ph-th-3>状态</span><span class=ph-th-4>视频</span><span class=ph-th-5>图片</span><span class=ph-th-6>下载</span><span class=ph-th-7>抢号</span>
+            <div class=clear></div>
+          </div>
+          <div class="ph-td"><ul><li><span class="ph-th-1">2-25</span><span class="ph-th-2"><a href="http://newgame.17173.com/_xianshezhuan/" class="ph-td-color1" target="_blank">仙蛇传OL</a></span><span class="ph-th-3">燃情封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_xianshezhuan/media.shtml" target="_blank">2</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_xianshezhuan/pic.shtml" target="_blank">52</a></span><span class="ph-th-6"><a href="http://download.17173.com/11561/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2207' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-23</span><span class="ph-th-2"><a href="http://newgame.17173.com/_atrix/" class="ph-td-color1" target="_blank">萌战天下</a></span><span class="ph-th-3">首次封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_atrix/media.shtml" target="_blank">9</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_atrix/pic.shtml" target="_blank">22</a></span><span class="ph-th-6"><a href="http://download.17173.com/10324/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2204' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-20</span><span class="ph-th-2"><a href="http://newgame.17173.com/_sgzh/" class="ph-td-color1" target="_blank">三国战魂</a></span><span class="ph-th-3">燃情测试</span><span class="ph-th-4"><a href="http://newgame.17173.com/_sgzh/media.shtml" target="_blank">4</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_sgzh/pic.shtml" target="_blank">45</a></span><span class="ph-th-6"><a href="http://download.17173.com/11237/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardNew.php?rewardName=%C8%FD%B9%FA%D5%BD%BB%EA' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-17</span><span class="ph-th-2"><a href="http://newgame.17173.com/_csws/" class="ph-td-color1" target="_blank">传世无双</a></span><span class="ph-th-3">开放测试</span><span class="ph-th-4">--</span><span class="ph-th-5"><a href="http://newgame.17173.com/_csws/pic.shtml" target="_blank">32</a></span><span class="ph-th-6"><a href="" class="btn-download"></a></span><span class="ph-th-7">--</span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-17</span><span class="ph-th-2"><a href="http://newgame.17173.com/_xpl/" class="ph-td-color1" target="_blank">新蓬莱</a></span><span class="ph-th-3">不删档封测</span><span class="ph-th-4">--</span><span class="ph-th-5"><a href="http://newgame.17173.com/_xpl/pic.shtml" target="_blank">20</a></span><span class="ph-th-6"><a href="http://download.17173.com/11846/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2206' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-15</span><span class="ph-th-2"><a href="http://newgame.17173.com/_hongtu/" class="ph-td-color1" target="_blank">红途OL</a></span><span class="ph-th-3">不删档内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_hongtu/media.shtml" target="_blank">2</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_hongtu/pic.shtml" target="_blank">29</a></span><span class="ph-th-6"><a href="http://download.17173.com/11781/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardNew.php?rewardName=%BA%EC%CD%BEOL' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-15</span><span class="ph-th-2"><a href="http://9yin.17173.com" class="ph-td-color1" target="_blank">九阴真经</a></span><span class="ph-th-3">全国内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_jyzj/media.shtml" target="_blank">48</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_jyzj/pic.shtml" target="_blank">99</a></span><span class="ph-th-6"><a href="http://download.17173.com/10917/" class="btn-download"></a></span><span class="ph-th-7">--</span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-13</span><span class="ph-th-2"><a href="http://newgame.17173.com/_ahjy/" class="ph-td-color1" target="_blank">暗黑纪元</a></span><span class="ph-th-3">终极封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_ahjy/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_ahjy/pic.shtml" target="_blank">36</a></span><span class="ph-th-6"><a href="http://download.17173.com/11744/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2202' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-12</span><span class="ph-th-2"><a href="http://gfyx.17173.com/" class="ph-td-color1" target="_blank">功夫英雄</a></span><span class="ph-th-3">不删档内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_gfyx/media.shtml" target="_blank">40</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_gfyx/pic.shtml" target="_blank">69</a></span><span class="ph-th-6"><a href="http://download.17173.com/11461/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardNew.php?rewardName=%B9%A6%B7%F2%D3%A2%D0%DB' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">2-08</span><span class="ph-th-2"><a href="http://newgame.17173.com/_ygbh/" class="ph-td-color1" target="_blank">月光宝盒</a></span><span class="ph-th-3">迎春内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_ygbh/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_ygbh/pic.shtml" target="_blank">30</a></span><span class="ph-th-6"><a href="http://download.17173.com/11756/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2203' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-18</span><span class="ph-th-2"><a href="http://newgame.17173.com/_xianchen/" class="ph-td-color1" target="_blank">仙尘OL</a></span><span class="ph-th-3">贺岁内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_xianchen/media.shtml" target="_blank">2</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_xianchen/pic.shtml" target="_blank">38</a></span><span class="ph-th-6"><a href="http://download.17173.com/11759/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2126' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-18</span><span class="ph-th-2"><a href="http://newgame.17173.com/_mjcq/" class="ph-td-color1" target="_blank">魔戒传奇</a></span><span class="ph-th-3">范围内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_mjcq/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_mjcq/pic.shtml" target="_blank">39</a></span><span class="ph-th-6"><a href="http://download.17173.com/11209/" class="btn-download"></a></span><span class="ph-th-7">--</span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-16</span><span class="ph-th-2"><a href="http://newgame.17173.com/_rising/" class="ph-td-color1" target="_blank">崛起</a></span><span class="ph-th-3">不删档封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_rising/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_rising/pic.shtml" target="_blank">32</a></span><span class="ph-th-6"><a href="http://download.17173.com/11820/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2188' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-13</span><span class="ph-th-2"><a href="http://newgame.17173.com/_qhtx/" class="ph-td-color1" target="_blank">秦皇天下</a></span><span class="ph-th-3">不删档封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_qhtx/media.shtml" target="_blank">2</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_qhtx/pic.shtml" target="_blank">25</a></span><span class="ph-th-6"><a href="http://download.17173.com/11850/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2176' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-13</span><span class="ph-th-2"><a href="http://newgame.17173.com/_guangming/" class="ph-td-color1" target="_blank">光明OL</a></span><span class="ph-th-3">不删档内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_guangming/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_guangming/pic.shtml" target="_blank">30</a></span><span class="ph-th-6"><a href="http://download.17173.com/11845/" class="btn-download"></a></span><span class="ph-th-7">--</span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-13</span><span class="ph-th-2"><a href="http://newgame.17173.com/_xy3/" class="ph-td-color1" target="_blank">西游3</a></span><span class="ph-th-3">精英内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_xy3/media.shtml" target="_blank">8</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_xy3/pic.shtml" target="_blank">38</a></span><span class="ph-th-6"><a href="http://download.17173.com/11592/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardNew.php?rewardName=%CE%F7%D3%CE3' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-12</span><span class="ph-th-2"><a href="http://newgame.17173.com/_wlmj/" class="ph-td-color1" target="_blank">武林秘籍</a></span><span class="ph-th-3">迎春测试</span><span class="ph-th-4"><a href="http://newgame.17173.com/_wlmj/media.shtml" target="_blank">8</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_wlmj/pic.shtml" target="_blank">59</a></span><span class="ph-th-6"><a href="http://download.17173.com/11587/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2013' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-12</span><span class="ph-th-2"><a href="http://newgame.17173.com/_fnonline/" class="ph-td-color1" target="_blank">圣境传说</a></span><span class="ph-th-3">贺岁测试</span><span class="ph-th-4"><a href="http://newgame.17173.com/_fnonline/media.shtml" target="_blank">14</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_fnonline/pic.shtml" target="_blank">25</a></span><span class="ph-th-6"><a href="http://download.17173.com/11407/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2034' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-12</span><span class="ph-th-2"><a href="http://newgame.17173.com/_xyzj/" class="ph-td-color1" target="_blank">仙境冒险</a></span><span class="ph-th-3">萌动内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_xyzj/media.shtml" target="_blank">6</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_xyzj/pic.shtml" target="_blank">52</a></span><span class="ph-th-6"><a href="http://download.17173.com/11259/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2181' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-12</span><span class="ph-th-2"><a href="http://newgame.17173.com/_battery/" class="ph-td-color1" target="_blank">烈焰行动</a></span><span class="ph-th-3">终极封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_battery/media.shtml" target="_blank">16</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_battery/pic.shtml" target="_blank">24</a></span><span class="ph-th-6"><a href="" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=1961' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-11</span><span class="ph-th-2"><a href="http://newgame.17173.com/_jiujian/" class="ph-td-color1" target="_blank">九剑OL</a></span><span class="ph-th-3">删档封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_jiujian/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_jiujian/pic.shtml" target="_blank">37</a></span><span class="ph-th-6"><a href="http://download.17173.com/11848/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2177' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-11</span><span class="ph-th-2"><a href="http://newgame.17173.com/_jiuren/" class="ph-td-color1" target="_blank">九刃</a></span><span class="ph-th-3">贺岁内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_jiuren/media.shtml" target="_blank">7</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_jiuren/pic.shtml" target="_blank">15</a></span><span class="ph-th-6"><a href="http://download.17173.com/11739/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=1922' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-10</span><span class="ph-th-2"><a href="http://newgame.17173.com/_xyd3/" class="ph-td-color1" target="_blank">侠义道3</a></span><span class="ph-th-3">技术封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_xyd3/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_xyd3/pic.shtml" target="_blank">32</a></span><span class="ph-th-6"><a href="http://download.17173.com/11851/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2178' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-10</span><span class="ph-th-2"><a href="http://newgame.17173.com/_sjyy/" class="ph-td-color1" target="_blank">三界演义</a></span><span class="ph-th-3">技术封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_sjyy/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_sjyy/pic.shtml" target="_blank">11</a></span><span class="ph-th-6"><a href="http://download.17173.com/11836/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2173' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-10</span><span class="ph-th-2"><a href="http://newgame.17173.com/_lzcq/" class="ph-td-color1" target="_blank">龙之传奇</a></span><span class="ph-th-3">压力测试</span><span class="ph-th-4"><a href="http://newgame.17173.com/_lzcq/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_lzcq/pic.shtml" target="_blank">28</a></span><span class="ph-th-6"><a href="" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2172' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-10</span><span class="ph-th-2"><a href="http://newgame.17173.com/_mjzc/" class="ph-td-color1" target="_blank">梦境之城</a></span><span class="ph-th-3">贺岁封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_mjzc/media.shtml" target="_blank">2</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_mjzc/pic.shtml" target="_blank">30</a></span><span class="ph-th-6"><a href="http://download.17173.com/11497/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2159' target=_blank>领号</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-07</span><span class="ph-th-2"><a href="http://newgame.17173.com/_hhdg/" class="ph-td-color1" target="_blank">黑暗帝国</a></span><span class="ph-th-3">不删档内测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_hhdg/media.shtml" target="_blank">2</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_hhdg/pic.shtml" target="_blank">34</a></span><span class="ph-th-6"><a href="http://download.17173.com/11753/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardInfo.php?id=2170' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-06</span><span class="ph-th-2"><a href="http://newgame.17173.com/_xks/" class="ph-td-color1" target="_blank">笑狂沙</a></span><span class="ph-th-3">技术封测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_xks/media.shtml" target="_blank">1</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_xks/pic.shtml" target="_blank">10</a></span><span class="ph-th-6"><a href="http://download.17173.com/11829/" class="btn-download"></a></span><span class="ph-th-7">--</span><div class="clear"></div></li>
+<li><span class="ph-th-1">1-06</span><span class="ph-th-2"><a href="http://newgame.17173.com/_tantra2/" class="ph-td-color1" target="_blank">密传2</a></span><span class="ph-th-3">技术二测</span><span class="ph-th-4"><a href="http://newgame.17173.com/_tantra2/media.shtml" target="_blank">6</a></span><span class="ph-th-5"><a href="http://newgame.17173.com/_tantra2/pic.shtml" target="_blank">33</a></span><span class="ph-th-6"><a href="http://download.17173.com/11764/" class="btn-download"></a></span><span class="ph-th-7"><a href='http://newgame.17173.com/hao/showRewardNew.php?rewardName=%C3%DC%B4%AB2' target=_blank>领卡</a></span><div class="clear"></div></li>
+<li class="more3"><a href="http://newgame.17173.com/gametest.shtml" target="_blank" title="网游测试时间表">更多<em>>></em></a></li></ul></div></div>
+      </div>
+<script type=text/javascript>
+		new Index_Tab(".js-tab-1 li",".js-tab-1-cnt",".js-main-2-lt-3|0,.js-main-2-lt-5-1|0,.js-main-2-lt-5-2|0,.js-main-2-rt-3|0,.js-main-4-lt-3-2|0");
+		new Index_Tab(".js-tab-1 a.ph-td-color1",".js-tab-1-cnt",".js-ph-xy|1,.js-ph-gc|1");
+		new Index_Slider({
+			btnR:".js-btn-game-lt",
+			btnL:".js-btn-game-rt",
+			sliderDiv:".js-ipp-cnt",
+			distance:320,
+			context:".ipp"
+		});
+		new Index_DG();
+    </script>
+      <div class=main-5-rt>
+        <div class=main-5-rt-1>
+          <!-- cmschiptag:chiptag 首页第六竖通栏 begin --><A 
+href="http://sohu.ad-plus.cn/event.ng/Type=click&FlightID=201202&TargetID=sohu&Values=676affde,4e689e02,684ffe31,a51e0d15&AdID=1989631" 
+target=_blank><IMG height=400 
+src="http://i2.17173.itc.cn/2012/www/if/video/yeazone/201202/173sy1c4120210a/B.jpg" 
+width=280 border=0></IMG></A> <!-- cmschiptag:chiptag 首页第六竖通栏 end -->
+        </div>
+        <div class=main-5-rt-2>
+          <h2 class=h2-1><a href="http://newgame.17173.com/xw/test.shtml" target="_blank">游戏试玩</a><span class=xmore>| <a href="http://newgame.17173.com/xw/test.shtml" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+          <div class=main-5-rt-2-cnt><div class="main-5-rt-2-cnt-1"><ul><li><a href="http://newgame.17173.com/_dls/20120129101143495.shtml#subject" class="main-4-lt-6-1-img" target="_blank"><img src="http://i2.17173.itc.cn/2011/newgame/12/0112314671.jpg" width="80" height="59" /></a>
+                  <h3><a href="http://newgame.17173.com/_dls/" target="_blank">[大陆]大力神</a></h3>
+                  <p>3D　角色扮演<br />
+                    	游戏试玩 [2012-01-28]</p>
+                </li>
+<li><a href="http://newgame.17173.com/_qhtx/20120129100724645.shtml#subject" class="main-4-lt-6-1-img" target="_blank"><img src="http://i1.17173.itc.cn/2012/newgame/01/0415535059.jpg" width="80" height="59" /></a>
+                  <h3><a href="http://newgame.17173.com/_qhtx/" target="_blank">[大陆]秦皇天下</a></h3>
+                  <p>2.5D　角色扮演<br />
+                    	游戏试玩 [2012-01-25]</p>
+                </li>
+<li><a href="http://newgame.17173.com/_xyd3/20120121093816403.shtml#subject" class="main-4-lt-6-1-img" target="_blank"><img src="http://i1.17173.itc.cn/2012/newgame/01/0616251855.jpg" width="80" height="59" /></a>
+                  <h3><a href="http://newgame.17173.com/_xyd3/" target="_blank">[大陆]侠义道3</a></h3>
+                  <p>3D　角色扮演<br />
+                    	游戏试玩 [2012-01-21]</p>
+                </li>
+</li></ul></div><div class="main-3-rt-2">
+              <div class="main-3-rt-2-cnt">
+                <h2>试玩报告<span><a href="http://newgame.17173.com/xw/test.shtml" target="_blank">更多<em>>></em></a></span></h2>
+                <ul><li>·<a href="http://newgame.17173.com/_dasong/20110912092918385.shtml#subject" target="_blank">3D武侠网游《大宋》17173首测独家试玩</a></li><li>·<a href="http://newgame.17173.com/_jiujian/20120120093052661.shtml#subject" target="_blank">梦工厂2.5D回合网游《九剑OL》试玩</a></li><li>·<a href="http://newgame.17173.com/_guangming/20120119093355726.shtml#subject" target="_blank">尚楚网络2D玄幻网游《光明OL》试玩</a></li><li>·<a href="http://newgame.17173.com/_yxjh/20120118094307461.shtml#subject" target="_blank">智趣游3D Q版武侠网游《游戏江湖》试玩</a></li><li>·<a href="http://newgame.17173.com/_douxian/20120117094043977.shtml#subject" target="_blank">吉比特3D玄幻网游《斗仙》试玩</a></li><li>·<a href="http://newgame.17173.com/_xunlong/20120116100141428.shtml#subject" target="_blank">臻游网络3D玄幻网游《寻龙》试玩</a></li><li>·<a href="http://newgame.17173.com/_lzcq/20120112104156876.shtml#subject" target="_blank">绿谷网络2.5D玄幻网游《龙之传奇》试玩</a></li></ul>
+              </div>
+            </div></div>
+        </div>
+      </div>
+      <div class=clear></div>
+    </div>
+    <div class=main-a1>
+<!-- cmschiptag:chiptag 首页第七通栏 begin --><!-- cmschiptag:chiptag 首页第七通栏 end -->
+    </div>
+    <div class=main-6>
+      <div class=main-6-lt>
+        <h2 class=h2-1>游戏下载<span class=xmore>| <a href="http://download.17173.com/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+        <div class=main-6-lt-1>
+          <div class=main-6-lt-1-cnt>
+
+            <h3>热门工具排行</h3>
+            <ul>
+              <li><span class="xz-td-1"><a href="http://lol.17173.com/shendeng/s2moniqi.html" target="_blank">LOL新天赋模拟</a></span><span class="xz-td-2">373514</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://xyq.17173.com/content/2011-12-21/20111221155331141.shtml" target="_blank">梦幻高仿真打造</a></span><span class="xz-td-2">369315</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://c9.17173.com/content/2011-12-21/20111221145557288.shtml" target="_blank">C9迷路辅助工具</a></span><span class="xz-td-2">339821</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://dnf.17173.com/content/2010-11-16/20101116115051806.shtml" target="_blank">DNF抗魔值计算</a></span><span class="xz-td-2">283458</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://zq.17173.com/tools/els_talent/" target="_blank">艾尔之光加点</a></span><span class="xz-td-2">263341</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://zq.17173.com/wow/talents/cn4.2.2/" target="_blank">WOW天赋模拟器</a></span><span class="xz-td-2">255163</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://dn.17173.com/moni.shtml" target="_blank">龙之谷技能模拟</a></span><span class="xz-td-2">223774</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://popkart.17173.com/sign/index.shtml" target="_blank">跑跑卡丁车签名</a></span><span class="xz-td-2">218251</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://zq.17173.com/tl/talent/" target="_blank">天龙装备模拟器</a></span><span class="xz-td-2">213566</span> 
+  <div class="clear"></div>
+</li>
+<li><span class="xz-td-1"><a href="http://ldj.17173.com/content/2011-07-08/20110708093037339.shtml" target="_blank">鹿鼎记属性加点</a></span><span class="xz-td-2">208169</span> 
+  <div class="clear"></div>
+</li>
+
+            </ul>
+            <div class=qb><a href="http://download.17173.com/" target="_blank">全部排行<em>&gt;&gt;</em></a></div>
+          </div>
+        </div>
+        <div class=main-6-lt-2><div class="main-6-lt-2-1">
+            <ul>
+              <li><a target="_blank" href="http://download.17173.com/11026/10/62430/"><img src="http://i2.17173.itc.cn/2012/downsite/uploadimg/2012/02/07/1328603794.jpg" width="120" height="90" /></a><br />
+              <a href="http://download.17173.com/11026/10/62430/">《仙途》情人版</a></li>
+              <li><a href="http://download.17173.com/10736/10/58714/"><img src="http://i2.17173.itc.cn/2012/downsite/uploadimg/2012/02/08/1328689543.jpg" width="120" height="90" /></a><br />
+                <a href="http://download.17173.com/10736/10/58714/">《反恐精英OL》火箭炮战版</a></li>
+              <li><a href="http://download.17173.com/11657/10/63341/"><img src="http://i1.17173.itc.cn/2012/downsite/uploadimg/2012/02/03/1328260917.jpg" width="120" height="90" /></a><br />
+              <a href="http://download.17173.com/11657/10/63341/">《兵王》3秒光速微端</a></li>
+              <div class="clear"></div>
+            </ul>
+          </div>
+          <div class="main-6-lt-2-2">
+            <ul>
+<li><A href="http://download.17173.com/1366/10/41325/" target="_blank">《泡泡堂》天生一对版</A></li>
+<li><A href="http://download.17173.com/10577/10/43825/" target="_blank">37wanwan《侠义道》客户端</A></li>
+<li><A href="http://download.17173.com/10433/10/46833/" target="_blank">《梦想世界》爱情版</A></li>
+<li><A href="http://download.17173.com/10324/10/63344/" target="_blank">《萌战天下》首次封测客户端</A></li>
+<li><A href="http://download.17173.com/11083/10/62705/" target="_blank">《征途2》公测新区版</A></li>
+<li><A href="http://download.17173.com/11302/10/62751/" target="_blank">《神武》情人节版</A></li>
+<li><A href="http://download.17173.com/10520/10/48543/" target="_blank">《QQ飞车》我们结婚吧</A></li>
+<li><A href="http://download.17173.com/10055/10/46742/" target="_blank">《跑跑卡丁车》P1136版</A></li>
+<li><A href="http://download.17173.com/10074/10/40619/" target="_blank">《傲神传》0403特别版</A></li>
+<li><A href="http://download.17173.com/11781/10/63277/" target="_blank">《红途OL》不删档内测</A></li>
+<li><A href="http://download.17173.com/11716/10/62513/" target="_blank">《新鬼吹灯》绝世之恋版</A></li>
+<li><A href="http://download.17173.com/11846/10/63329/" target="_blank">《新蓬莱》封测客户端</A></li>
+
+<div class="clear"></div></ul></div>
+
+
+</div>
+        <div class=clear></div>
+      </div>
+      <div class=main-6-rt>
+        <div class=main-6-rt-1>
+          <h2 class=h2-1><a href="http://book.17173.com/" target="_blank">读书频道</a><span class=xmore>| <a href="http://book.17173.com/" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+          <ul>
+            <!-- cmschiptag:chiptag 读书频道 begin --><LI>·<A href="http://book.17173.com/dushi.jsp" target=_blank>[都市异能]</A> <A href="http://book.17173.com/list/153879.html" target=_blank>闯都市游校园逗美女攀巅峰</A> 
+<LI>·<A href="http://book.17173.com/dushi.jsp" target=_blank>[都市生活]</A> <A href="http://book.17173.com/list/148132.html" target=_blank>如何把教师塑造成一个传奇</A> 
+<LI>·<A href="http://book.17173.com/dushi.jsp" target=_blank>[都市异能]</A> <A href="http://book.17173.com/list/146306.html" target=_blank>一人一鬼将会有怎样的故事</A> 
+<LI>·<A href="http://book.17173.com/dushi.jsp" target=_blank>[官场风云]</A> <A href="http://book.17173.com/list/111454.html">一个讲述70、80后的官场</A> 
+<LI>·<A href="http://book.17173.com/dushi.jsp" target=_blank>[都市生活]</A> <A href="http://book.17173.com/list/46884.html" target=_blank>职场中的规则你要慢慢琢磨</A> </LI><!-- cmschiptag:chiptag 读书频道 end -->
+            </li>
+          </ul>
+        </div>
+        <div class="main-6-rt-1 main-6-rt-2">
+          <h2 class=h2-1><a href="http://news.17173.com/dev/index.shtml" target="_blank">17173动态</a><span class=xmore>| <a href="http://news.17173.com/dev/index.shtml" target="_blank">更多<em>&gt;&gt;</em></a></span></h2>
+          <ul>
+            <!-- cmschiptag:chiptag 17173动态 begin --><LI>·<A href="http://china.17173.com/2011/" target=_blank>2011中国网游市场调查&amp;风云榜</A> 
+<LI>·<A href="http://iphone.17173.com/" target=_blank>iPhone/iPad游戏频道推出</A> 
+<LI>·<A href="http://iphone.17173.com/app/index.html" target=_blank>17173 iPhone客户端上线</A> 
+<LI>·<A href="http://news.17173.com/content/2011-07-09/20110709165951847.shtml" target=_blank>17173第九届游戏动漫嘉年华</A> 
+<LI>·<A href="http://news.17173.com/content/2011-04-13/20110413170301886.shtml" target=_blank>搜狐微门户17173游戏版块开通</A> 
+<LI>·<A href="http://news.17173.com/shengdian/2011/" target=_blank>2011优游天下17173游戏风云盛典</A> 
+<LI>·<A href="http://news.17173.com/cgiac/2010/" target=_blank>全程报道2010中国游戏产业年会</A> </LI><!-- cmschiptag:chiptag 17173动态 end -->
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class=clear></div>
+    </div>
+    <div class=main-a1>
+      <!-- cmschiptag:chiptag 首页最下方通栏 begin --><!-- cmschiptag:chiptag 首页最下方通栏 end -->
+    </div>
+  </div>
+  </div>
+</div>
+<div class=btm><a href="http://about.17173.com/links.shtml#cooperator" target="_blank">内容合作站点</a> | 关注17173：<a class=gz-1 href="http://17173news.t.sohu.com/" target="_blank" title="搜狐微博"></a><a class=gz-2 href="http://weibo.com/17173home" target="_blank" title="新浪微博"></a><a class=gz-3 href="http://t.qq.com/g17173home" title="腾讯微博" target="_blank"></a></div>
+<div class="global-footer full-footer">
+  <div class="col1 fl"><a class="logo-black fr" title="爱游戏 爱17173" href="http://www.17173.com/"></a></div>
+  <div class="col2 fr"><a class=fl href="http://www.hd315.gov.cn/beian/view.asp?bianhao=021202001070200001" target=_blank><img alt=经营性网站备案信息 src="http://ue3.17173.itc.cn/images/lib/v1/cert-beian.gif" width=50 height=50> </a><a class=fl href="http://www.fuzhou.cyberpolice.cn/alert_basic.asp" target=_blank><img alt=福州网络警察报警平台 src="http://ue3.17173.itc.cn/images/lib/v1/cert-cyberpolice.gif" width=50 height=50> </a></div>
+  <div class="col3 fl black op60"><a href="http://about.17173.com/" target=_blank>关于17173</a> | <a href="http://about.17173.com/join-us.shtml" target=_blank>人才招聘</a> | <a href="http://about.17173.com/adv-service.shtml" target=_blank>广告服务</a> | <a href="http://about.17173.com/business-cooperate.shtml" target=_blank>商务洽谈</a> | <a href="http://about.17173.com/contact-us.shtml" target=_blank>联系方式</a> | <a href="http://help.17173.com/" target=_blank>客服中心</a> | <a href="http://about.17173.com/site-map.shtml" target=_blank>网站导航</a> <br>
+    <span class=copyright>Copyright <font>&copy;</font> 2001-2012 17173. All rights reserved.</span> <br>
+    <a href="http://www.miibeian.gov.cn/" target=_blank>京ICP证030367号</a> | <a href="http://www.17173.com/cert/wenhua.html" target=_blank>文网文[2008]059号</a> | <a href="http://www.17173.com/cert/chuban.html" target=_blank>互联网出版许可证</a> </div>
+</div>
+ 
+<SCRIPT TYPE="text/javascript" src="http://www.17173.com/if/video/yeazone/201202/173sy1c4120210a/index.js"></SCRIPT>
+ 
+<SCRIPT language=javascript>
+var video_source = [
+{"source":"http://www.17173.com/if/video/yeazone/201202/173sy1a11202101/index.js"},
+{"source":"http://www.17173.com/if/video/icast/cr/2012/02/38251/16627/code.js"}, 
+{"source":"http://www.17173.com/if/video/icast/cr/2012/01/37095/16623/code.js"}
+];
+var videoAlternate= new GGrandomAlternate("source_index", video_source);
+//位置回调函数
+videoAlternate.callback = function(pos){
+//载入广告代码
+window.currentPos=pos;
+document.write('<script type="text/javascript" src="'+video_source[pos].source+'"></scr'+'ipt>');
+}
+videoAlternate.execute();
+</SCRIPT>
+
+
+
+
+
+<!-- START 17173 Site Census -->
+<script type="text/javascript" src="http://js.17173.com/ping.js"></script>
+<noscript>
+  <img src="http://log.17173.com/ping.gif?c=www.17173.com" height="0" width="0">
+</noscript>
+<!-- END 17173 Site Census -->
+<script type="text/javascript" src="http://js.sohu.com/mail/pv/pv.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1903 @@
+
+<!doctype html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=GBK" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="description" content="搜狐高清频道" />
+<meta name="keywords" content="搜狐高清频道" />
+<meta name="robots" content="all" />
+
+<title>搜狐高清频道 - 搜狐视频</title>
+<link type="text/css" rel="stylesheet" href="http://tv.sohu.com/upload/tv110421/main.css" />
+<link type="text/css" rel="stylesheet" href="http://tv.sohu.com/upload/tv110421/hdtv.css" />
+<style>#logoBar .lnk{float:right}</style>
+<script type="text/javascript" src="http://tv.sohu.com/upload/20090903hd/swfobject2.1.js"></script>
+<script type="text/javascript" src="http://css.sohu.com/upload/global1.0.0.9.js"></script>
+
+<script type="text/javascript" src="http://tv.sohu.com/upload/20090907hd/tv_pub.js"></script>
+
+<script type="text/javascript" src="http://js.sohu.com/library/jquery1.4.2.js"></script>
+<script type="text/javascript">
+//标签
+function showMenu(m,n,count){
+	var jq=jQuery;
+	for(var i=1;i<=count;i++){
+		if (i==n){			
+			jq("#td_"+m+"_"+i).addClass("libg");
+			if(i!=1){
+				jq("#td_"+m+"_"+(i-1)).addClass("nobg");
+				jq("#td_"+m+"_"+(i+1)).addClass("nobg");
+			}
+		}
+		else {
+			if(i!=count){
+				jq("#td_"+m+"_"+i).removeClass("libg nobg");
+			}else{
+				jq("#td_"+m+"_"+i).removeClass("libg");
+			}
+		}
+	}
+}
+function showCont(m,n,count){
+	var $=jQuery;
+	for(var i=1;i<=count;i++){
+		if (i==n){			
+			$("#a_"+m+"_"+n).addClass("libg");
+			$("#c_"+m+"_"+n).show();
+		}else {
+			$("#a_"+m+"_"+i).removeClass("libg");
+			$("#c_"+m+"_"+i).hide();
+		}
+	}
+}
+
+
+//数据链接
+var hotjsonpath = "http://TV.SOHU.COM/frag/vrs_inc/";
+var strSub = function (str,n,d){
+            var r =/[^\x00-\xff]/g;
+            d = d || false;
+            if(str.replace(r, "mm").length > n){
+                var m = Math.floor(n/2);
+                for(var i=m; i<str.length; i++){
+                    if(str.substr(0, i).replace(r, "mm").length>=n){
+                        return str.substr(0, i) + (d ? "..." : "");
+                    }
+                }
+            }
+            return str;
+        }
+//排行
+var lookRank = function (jsonStr,o){
+	try{
+		var str="",j=1,n="",clsA="",jsonData,jsonLength=0,_tv_name="",_tv_url="",_tv_count="",_tv_trend_count="";		
+		jsonData = eval(jsonStr).videos;		
+		jsonLength = jsonData.length>10 ? 10  : jsonData.length;
+		
+		var buffer = new stringBuffer();
+		for(var i=0;i<jsonLength;i++){
+			j=i+1			
+			n = j<=3 ? ' class="colorA"' : '';
+			
+			if(o == "sea_up"){
+				_tv_name = jsonData[i].name;
+				_name = _tv_name.length>10?_tv_name.substr(0,9)+"..":_tv_name;
+				_nameUrl = keyHref(_name,1);
+				_tv_trend_count = parseInt(jsonData[i].perm);
+				
+				_tv_trend_count = parseInt(jsonData[i].perm);
+				var _trend_count;
+				if(_tv_trend_count == 0){
+					_trend_count = "&nbsp;";
+					clsA = "trend"
+				}else{
+					_trend_count = _tv_trend_count + "%";
+					if(_tv_trend_count>0){
+						clsA = "trend up"
+					}else{
+						clsA = "trend down"
+					}
+				}
+				
+				var sss = jsonStr=="search_history_all" ? _tv_count : _trend_count;
+				buffer.append('<li><span class="'+ clsA +'"></span><span class="num">'+sss+'</span><em '+n+'>'+j+'</em>'+ _nameUrl +'</li>'+'\n');
+			}else{
+				_tv_name = jsonData[i].tv_name;
+				_name = _tv_name.length>10?_tv_name.substr(0,9)+"..":_tv_name;
+				_tv_url = jsonData[i].tv_url;
+				_tv_count = jsonData[i].tv_count;
+				_tv_trend_count = parseInt(jsonData[i].tv_trend_count*100);
+				
+				if(_tv_trend_count == -100000 || _tv_trend_count == 0){
+					clsA = "trend";
+				}else{
+					if(_tv_trend_count>0){
+						clsA = "trend up";
+					}else{
+						clsA = "trend down";
+					}
+				}
+				if(o == "zy_data"){
+_name =strSub(_tv_name,22,true);				    
+//_name = _tv_name.length>13?_tv_name.substr(0,12)+"..":_tv_name;
+					buffer.append('<li><span class="num">'+_tv_count+'</span><em '+n+'>'+j+'</em><a href="'+_tv_url+'" target="_blank" title="'+_tv_name+'">'+_name+'</a></li>'+'\n');
+				}else{
+					buffer.append('<li><span class="'+ clsA +'"></span><span class="num">'+_tv_count+'</span><em '+n+'>'+j+'</em><a href="'+_tv_url+'" target="_blank" title="'+_tv_name+'">'+_name+'</a></li>'+'\n');
+				}
+			}
+		}
+		str = buffer.toString();
+		if (str) {
+			$(o).html(str);
+		}  
+		buffer = null;
+	}catch(e){}						
+}
+
+function changeDada(key, date, dataId){
+	var $=jQuery, linkStr;
+	switch (date) {
+		case "day":
+			linkStr = "phb_" + key + "_day_10";
+			break;
+		case "week":
+			linkStr = "phb_" + key + "_week_10";
+			break;
+		case "month":
+			linkStr = "phb_" + key + "_month_10";
+			break;
+		case "total":
+			linkStr = "phb_" + key + "_total_10";
+			break;
+		default:
+			linkStr = key
+	}
+	if(dataId == "zy_data"){
+		hotjsonpath = "http://v.sohu.com/frag/vrs_inc/";
+	}
+	var list = function (){lookRank(linkStr,"#"+dataId)}
+	var cs = $.getScript(hotjsonpath + linkStr +".js",list);
+}
+</script>
+<script type="text/javascript">
+jQuery(function(jq){
+	
+	function popFun(rid){
+		var imgEls = jq("#"+rid+" .pp li img");
+		
+		imgEls.each(function(i){
+			var els = jq(this);
+			var elsLI = els.parent().parent();//li
+			var playPop;
+			
+			els.hover(function(){
+				elsLI.css("z-index",1000);
+				var vidDt = elsLI.find(".vidNum");//vid
+				var vrsIdDd = elsLI.find(".vrsId");//vrs_id
+				var subType = elsLI.find(".popInfo").attr("rel");//类型
+				var vidNum = vidDt.attr("rel"), vrsId = vrsIdDd.attr("rel"), typeNum;
+				
+				switch (subType.toLowerCase()){
+					case "mv":
+						typeNum = 1;
+						break;
+					case "tv":
+						typeNum = 2;
+						break;
+					case "doc":
+						typeNum = 1;
+						break;
+					case "comic":
+						typeNum = 4;
+						break;
+				}
+				vidDt.attr("id","vid"+vidNum);
+				vrsIdDd.attr("id","vrs"+vrsId);
+				
+				wrPoPData(typeNum, vrsId, vidNum);//读播放数、评分
+				
+				jq("#"+rid).find(".popInfo").attr("style","display:none");
+				
+				playPop = setTimeout(function(){
+					elsLI.find(".popInfo").attr("style","display:block");
+				},600);
+				
+			},function(){
+				elsLI.find(".popInfo").hover(function(){
+					elsLI.css("z-index",1000);
+					jq(this).css("display","block");
+				},function(){
+					elsLI.css("z-index",1);
+					jq(this).css("display","none");
+				});
+				clearTimeout(playPop);
+				els.queue(function () {
+					elsLI.css("z-index",1);
+					elsLI.find(".popInfo").css("display","none");
+					els.dequeue();
+				});
+			});
+			
+		});
+	}
+	popFun("mvPop");
+	popFun("tvPop");
+	popFun("dmPop");
+	popFun("docPop");
+	
+	var wrPoPData = function(typeNum, vrsId, vidN){
+		jq.getScript("http://vote.biz.itc.cn/count_v77_t"+typeNum+"_i"+vrsId+"_b_c.json", function(){
+			var Mark_json = eval("productJSON_"+vrsId);
+			var vs = Mark_json.votecount_77, ts = Mark_json.totalScore_77, tc = Mark_json.totalCount_77;
+			wrMark = (ts / (tc != 0 ? tc : 1)).toFixed(1);
+			jq("#vrs"+vrsId).html("评分：<b>"+wrMark+"</b>分");
+		});
+		
+		jq.getScript("http://count.vrs.sohu.com/count/query.action?videoId="+vidN,function(){
+			playCont = eval("count");
+			jq("#vid"+vidN).html("播放：<b>"+playCont+"次</b>");
+		})
+	}
+});
+</script>
+
+<script type="text/javascript">
+		jQuery(function(jq){
+			var cls = "ftB";
+			var rd = jq('#foreTell');
+			var divs = rd.find('.foreTell');
+			var dur = 0,
+			h = {min:24, max:84};
+			
+			divs.mouseover(function(el){
+				el = jq(this);
+				
+				divs.removeClass(cls).stop().animate({'height':h.min},dur);
+				
+				el.stop().animate({'height':h.max},dur);
+				el.addClass(cls);
+			});
+		
+			divs.css({'height':h.min}).eq(0).css({'height':h.max}).addClass(cls);
+		});
+		</script>
+</head>
+<body>
+<script type="text/javascript" src="http://news.sohu.com/upload/tuiguang20110228/tuiguang_sohu_980.js"></script>
+
+<div class="adA area" id="CAS_ADD_14_4">
+	<div><sohuadcode>
+</sohuadcode></div>
+</div>
+<DIV class=navBar>
+<DIV class=area>
+<UL id=navMain>
+<LI class=active><EM><A href="http://tv.sohu.com/">首页</A></EM></LI>
+<LI><EM><A href="http://tv.sohu.com/teleplay">电视剧</A></EM></LI>
+<LI><EM><A href="http://tv.sohu.com/movie/">电影</A></EM></LI>
+<LI><EM><A href="http://tv.sohu.com/zongyi/">综艺</A></EM></LI>
+<LI><EM><A href="http://tv.sohu.com/real/">纪录片</A></EM></LI>
+<LI><EM><A href="http://store.tv.sohu.com/" target=_blank>付费</A></EM></LI></UL>
+<P id=navSub><STRONG><A href="http://tv.sohu.com/yule/">娱乐<IMG alt=hot src="http://tv.sohu.com/upload/tv110421/images/ico.png" width=20 height=14></A></STRONG><A href="http://tv.sohu.com/music/">音乐</A><A href="http://tv.sohu.com/comic/">动漫</A><A href="http://tv.sohu.com/original/">出品</A><SPAN class=mg>|</SPAN><STRONG><A href="http://tv.sohu.com/news/">新闻</A></STRONG><A href="http://tv.sohu.com/zhibo/">直播</A><A href="http://tv.sohu.com/shendu/">深度</A><A href="http://tv.sohu.com/open/">教育</A><SPAN class=mg>|</SPAN><STRONG><A href="http://my.tv.sohu.com/">播客</A></STRONG><A href="http://my.tv.sohu.com/channel/gaoxiao">搞笑</A><A href="http://my.tv.sohu.com/channel/bagua">八卦</A><A href="http://my.tv.sohu.com/channel/lieqi">猎奇</A><SPAN class=mg>|</SPAN><A href="http://so.tv.sohu.com/list_p11_p2_p3_p4-1_p5_p6_p70_p80_p9_2d2_p101_p12null.html" target=_blank>分类</A><A href="http://tv.sohu.com/hothdtv/" target=_blank>排行</A><A class=home href="http://www.sohu.com/" target=_blank>搜狐首页</A> </P></DIV></DIV>
+<DIV id=logoBar class=area>
+<DIV class="logo l">
+<DIV class="tvLogo l"><A href="http://tv.sohu.com/hdtv/"><IMG alt=高清首页 src="http://tv.sohu.com/upload/logo/sohutv-hires.gif" width=105 height=50></A></DIV>
+<DIV class="tvAd l"><object height="50px" width="115px" data="http://tv.sohu.com/upload/hyl0210new.swf" type="application/x-shockwave-flash"> <param value="http://tv.sohu.com/upload/hyl0210new.swf" name="movie" /> <param value="high" name="quality" /> <param value="false" name="menu" /> <param value="transparent" name="wmode" /> </object></DIV></DIV><DIV class="search l" sizset="24" sizcache="1">
+<FORM id=sform method=get name=sform action=http://so.tv.sohu.com/mts target=_blank autocomplete="off"><INPUT id=sKey class=tx value=乡村爱情5 name=wd _old="乡村爱情5"><INPUT id=searchbtn class=btn value=搜索 type=submit><INPUT value=1 type=hidden name=box> 
+<DIV style="DISPLAY: none" id=newResult class="new_result fix"></DIV><IFRAME class=new_result frameBorder=0 scrolling=no></IFRAME></FORM>
+<P class=text sizset="24" sizcache="1"><A title="" href="http://tv.sohu.com/s2011/shiyanjinsheng/" target=_blank>誓言今生</A> <A title="" href="http://tv.sohu.com/s2011/zjzxy/" target=_blank>新西游记</A> <A title="" href="http://tv.sohu.com/s2012/dsjruyi/" target=_blank>如意</A> <A title="" href="http://tv.sohu.com/s2010/xjdh/" target=_blank>小姨多鹤</A> | <A class=color1 href="http://my.tv.sohu.com/user/third/nameqa.do" target=_blank>选择名字</A> <A class=color1 href="http://media.17173.com/" target=_blank>游戏专区</A> <A class=color1 href="http://tv.sohu.com/ifox/" target=_blank>搜狐影音</A></P></DIV><LINK rel=stylesheet type=text/css href="http://tv.sohu.com/upload/jq_plugin/search/skin/search_g.css">
+<DIV class="infos r"><div id="gNavLoginBox" class="login">
+            <span class="color1">
+                <a href="http://my.tv.sohu.com/user/index.jsp?bru=http%3A//tv.sohu.com/">登录</a>
+                | <a href="http://my.tv.sohu.com/user/reg/reginfo.do?bru=http%3A//tv.sohu.com/">注册</a> | <a href="http://tv.sohu.com/upload/hdfeedback/index.jsp">帮助</a>
+            </span>
+        </div>
+<DIV class=lnk><A class=aUpload href="http://my.tv.sohu.com/user/video/upload.do" target="_blank">上传视频</A> <A id=gHistoryBt class=aHistory href="#">播放记录</A></DIV></DIV></DIV>
+<style>
+.fi_movie .fi_btnplay{background:url("http://tv.sohu.com/upload/tv110421/images/fbtn/tv-normal.png") no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=crop,src="http://tv.sohu.com/upload/tv110421/images/fbtn/tv-normal.png");_background:none;}
+.fi_movie .fi_btnplay:hover{background:url("http://tv.sohu.com/upload/tv110421/images/fbtn/tv-over.png") no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=crop,src="http://tv.sohu.com/upload/tv110421/images/fbtn/tv-over.png");_background:none;}
+.fi_movie .fi_jb{width:92px;height:92px;position:absolute;top:0;left:158px;background:url("http://tv.sohu.com/upload/tv110421/images/fbtn/hdtv-p.png") no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=crop,src="http://tv.sohu.com/upload/tv110421/images/fbtn/hdtv-p.png");_background:none;}
+.fi_movie .fi_loading img{left : 40%;top : 45%;}
+</style>
+<div id="mFocus1" class="fi_movie area"></div>
+<script src="http://tv.sohu.com/upload/jq_plugin/imageSlide.js"></script>
+<script type="text/javascript">
+			//<![CDATA[
+			jQuery('#mFocus1').ImgSlide({
+				loop : true,
+				timeout : 15e3,
+				data : [
+
+{
+p:"http://i2.itc.cn/20120120/9f4_b5a3f743_891c_18cb_0dad_63d1190692d7_1.jpg",
+p1:"http://i3.itc.cn/20120119/9f4_03a7dc2d_f4d8_1285_34d8_0e1430f3a51f_2.jpg",
+
+l:"http://tv.sohu.com/s2011/xcaqwu/",
+t:"乡村爱情小夜曲",
+t_:"（更新至第32集）",
+t1:"这是一部反映农村青年爱情婚姻、事业生活的轻喜剧，是一部不可多得的当代农村青春片。全剧以大学生谢永强与农村女青年王小蒙的爱情生活为主线，塑造了一群鲜活的富有…",
+mtype:[{"t":"农村剧","l":"http://so.tv.sohu.com/list_p12_p2_u519C_u6751_u5267_p3_p4_p5_p6_p7_p8_p9.html"},{"t":"喜剧","l":"http://so.tv.sohu.com/list_p12_p2_u559C_u5267_u7247_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"赵本山","l":"http://so.tv.sohu.com/mts?&wd=%u8D75%u672C%u5C71"}],         
+                                        mactor:[{"t":"赵本山","l":"http://so.tv.sohu.com/mts?wd=%u8d75%u672c%u5c71"},{"t":"小沈阳","l":"http://so.tv.sohu.com/mts?&wd=%u5C0F%u6C88%u9633"}]
+},
+
+
+{
+p:"http://i3.itc.cn/20120209/692_c5605a2f_bdff_eb42_e15f_c79189578ed2_1.jpg",
+p1:"http://i3.itc.cn/20120208/9f4_5a2eca82_d6a6_4ba2_38a1_c05a6d5dad5c_1.jpg",
+l:"http://tv.sohu.com/s2010/xjdh/",
+t:"小姨多鹤",
+t_:"（34集全）",
+t1:"1945年秋日本战败，日本国居住在黑龙江的开拓团的民众纷纷集体自杀，以死报效天皇，不肯自杀的民众结伙逃难，企图取道辽东大连登船回国。本故事主人公多鹤…",
+mtype:[{"t":"年代剧","l":"http://so.tv.sohu.com/list_p12_p2_u5E74_u4EE3_u5267_p3_p4_p5_p6_p7_p8_p9.html"},
+{"t":"言情剧","l":"http://so.tv.sohu.com/list_p12_p2_u8A00_u60C5_u5267_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"安建","l":"http://so.tv.sohu.com/mts?&wd=%u5B89%u5EFA"}], 
+      mactor:[{"t":"孙俪","l":"http://so.tv.sohu.com/mts?&wd=%u5B59%u4FEA"},{"t":"姜武","l":"http://so.tv.sohu.com/mts?&wd=%u59DC%u6B66"}]
+},
+
+
+
+{
+p:"http://i1.itc.cn/20120130/9f4_ff63bfca_bcbb_9ad8_c724_08f38e12fe36_1.jpg",
+p1:"http://i1.itc.cn/20120130/692_d9c96202_f68d_6132_1cf4_0967ded2c7ac_2.jpg",
+
+l:"http://tv.sohu.com/s2012/dsjruyi/",
+t:"如意",
+t_:"（更新至第20集）",
+t1:"民国初年一个充满茶香的小镇，有谭、佟两大家族。谭铭凯在谭老爷弥留之际匆匆赶回继承家业…",
+mtype:[{"t":"偶像剧","l":"http://so.tv.sohu.com/list_p12_p2_u5076_u50CF_u5267_p3_p4_p5_p6_p7_p8_p9.html"},{"t":"年代剧","l":"http://so.tv.sohu.com/list_p12_p2_u5E74_u4EE3_u5267_p3_p4_p5_p6_p7_p8_p9.html"},{"t":"言情剧","l":"http://so.tv.sohu.com/list_p12_p2_u8A00_u60C5_u5267_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"张自强","l":"http://so.tv.sohu.com/mts?&wd=%u5F20%u81EA%u5F3A"}],         
+                                        mactor:[{"t":"杨幂","l":"http://so.tv.sohu.com/mts?&wd=%u6768%u5E42"},{"t":"刘恺威","l":"http://so.tv.sohu.com/mts?&wd=%u5218%u607A%u5A01"}]
+},
+
+{
+p:"http://i2.itc.cn/20120203/9f4_892ae1be_be3f_e9e6_3837_674bc25471ba_1.jpg",
+p1:"http://i2.itc.cn/20120203/9f4_892ae1be_be3f_e9e6_3837_674bc25471ba_2.jpg",
+l:"http://tv.sohu.com/s2011/shiyanjinsheng/",
+t:"誓言今生",
+t_:"（更新至第12集）",
+t1:"《誓言今生》以我反间谍人员黄以轩和台湾情报官孙世安两人长达五十年的斗争为主线，以这两人为代表的两岸秘密斗争以及间谍和反间谍的殊死搏杀为主要内容，通过曲折复杂…",
+mtype:[{"t":"年代剧","l":"http://so.tv.sohu.com/list_p12_p2_u5E74_u4EE3_u5267_p3_p4_p5_p6_p7_p8_p9.html"},
+{"t":"谍战剧","l":"http://so.tv.sohu.com/list_p12_p2_u8C0D_u6218_u5267_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"刘江","l":"http://so.tv.sohu.com/mts?&wd=%u5218%u6C5F"}], 
+      mactor:[{"t":"郭晓冬","l":"http://so.tv.sohu.com/mts?&wd=%u90ED%u6653%u51AC"},{"t":"姜武","l":"http://so.tv.sohu.com/mts?&wd=%u59DC%u6B66"}]
+},
+{
+p:"http://i3.itc.cn/20120130/9f4_bdafa666_8086_d5f9_9b72_d9eda4a48ca2_1.jpg",
+p1:"http://i3.itc.cn/20120130/9f4_bdafa666_8086_d5f9_9b72_d9eda4a48ca2_2.jpg",
+l:"http://tv.sohu.com/s2011/zjzxy/",
+t:"西游记（张纪中版）",
+t_:"（更新至第24集）",
+t1:"述盘古开天辟地，其心脏化成一颗仙石并生出的美猴王拜倒菩提门下，取名孙悟空，苦练成一身法术，却因大闹天宫闯下大祸，被如来佛祖压于五行山下…",
+mtype:[{"t":"古装剧","l":"http://so.tv.sohu.com/list_p12_p2_u53E4_u88C5_u5267_p3_p4_p5_p6_p7_p8_p9.html"},
+{"t":"神话剧","l":"http://so.tv.sohu.com/list_p12_p2_u795E_u8BDD_u5267_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"张建亚","l":"http://so.tv.sohu.com/mts?&wd=%u5F20%u5EFA%u4E9A"}],         
+                                        mactor:[{"t":"聂远","l":"http://so.tv.sohu.com/mts?&wd=%u8042%u8FDC"},{"t":"吴樾","l":"http://so.tv.sohu.com/mts?&wd=%u5434%u6A3E"}]
+},
+
+
+{
+p:"http://i1.itc.cn/20120203/872_67c88c84_9c1a_c858_af1e_360396822191_1.jpg",
+p1:"http://i3.itc.cn/20120203/872_4692f1bc_adc7_0c2a_9396_c9b46fb4168f_1.jpg",
+l:"http://store.tv.sohu.com/view_html/1008295_567848.html?spayid=302001",
+t:"双人床条约",
+t_:"The Treaty of Double Bed",
+t1:"　　因一份签署在双人床的条约而引发的温情爆笑故事，耿乐面对强势的妻子与温柔的情人最终做下了一个决定，与妻子签署了一份神秘的条约，于是出现了分手不分床的一幕…",
+mtype:[{"t":"爱情片","l":"http://store.tv.sohu.com/list/search.html?fee=1&o=3&c=1&cat=%u7231%u60C5%u7247"},{"t":"喜剧片","l":"http://store.tv.sohu.com/list/search.html?fee=1&o=3&c=1&cat=%u559C%u5267%u7247"}],
+mdirector:["价格",{"t":"5元","l":""}],         
+mactor:[{"t":"耿乐","l":"http://so.tv.sohu.com/mts?fee=1&o=3&c=1&wd=%u803F%u4E50"},{"t":"刘威葳","l":"http://so.tv.sohu.com/mts?fee=1&o=3&c=1&wd=%u5218%u5A01%u8473"}]},
+
+
+
+{
+p:"http://i2.itc.cn/20120208/9b8_99fcb082_c8d2_d340_5a76_d9915ed103ed_2.jpg",
+p1:"http://i2.itc.cn/20120208/9b8_99fcb082_c8d2_d340_5a76_d9915ed103ed_1.jpg",
+l:"http://tv.sohu.com/20120207/n333989032.shtml",
+t:"高海拔之恋Ⅱ",
+t_:"Romancing in the Air  2012",
+t1:"　　王宝强抢婚成功，高圆圆选择王宝强而放弃了古天乐，郑秀文的角色原本是古天乐的脑残粉最终得到了古天乐的爱，亮点无数…",
+mtype:[{"t":"爱情片","l":"http://so.tv.sohu.com/list_p11_p2_u7231_u60c5_u7247_p3_p4-1_p5_p6_p73_p80_p9-3_p101_p11.html"},{"t":"剧情片","l":"http://so.tv.sohu.com/list_p11_p2_u5267_u60c5_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html"}],
+mdirector:[{"t":"杜琪峰","l":"http://so.tv.sohu.com/mts?&wd=%u675C%u742A%u5CF0"}], 
+mactor:[{"t":"古天乐","l":"http://so.tv.sohu.com/mts?box=1&wd=%u53E4%u5929%u4E50"},{"t":"郑秀文","l":"http://so.tv.sohu.com/mts?box=1&wd=%u90D1%u79C0%u6587"}]
+},
+
+
+
+
+{
+p:"http://i0.itc.cn/20120119/9f4_95204db5_0a27_82be_b49f_e2b9ba1fdbca_1.jpg",
+p1:"http://i2.itc.cn/20110920/9f4_c33099eb_bb06_3031_eaf0_40f8549d74f0_1.jpg",
+
+					l:"http://tv.sohu.com/s2011/bbjx/",
+					t:"步步惊心",
+					t_:"（35集全）",
+					t1:"作为一个朝九晚五的普通白领，现年二十多岁的张晓和周围其他忙碌的都市人基本没什么区别。某一天张晓与男友在路上吵架，不料争吵中张晓撞到了连着电线的广告板上……",
+mtype:[{"t":"古装剧","l":"http://so.tv.sohu.com/list_p12_p2_u53e4_u88c5_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html"},{"t":"言情剧","l":"http://so.tv.sohu.com/list_p12_p2_u8a00_u60c5_u5267_p3_p4-1_p5_p6_p70_p82_p9-1_p101_p11.html"}],
+  mdirector:[{"t":"李国立","l":"http://so.tv.sohu.com/mts?wd=%C0%EE%B9%FA%C1%A2"}],         
+                                        mactor:[{"t":"刘诗诗","l":"http://so.tv.sohu.com/mts?wd=%C1%F5%CA%AB%CA%AB"},{"t":"吴奇隆","l":"http://so.tv.sohu.com/mts?wd=%CE%E2%C6%E6%C2%A1"}]
+},
+
+
+
+{
+p:"http://i3.itc.cn/20111229/9f4_71a5412d_9d9c_84b5_5218_1c8e61f05487_2.jpg",
+p1:"http://i3.itc.cn/20111229/9f4_71a5412d_9d9c_84b5_5218_1c8e61f05487_1.jpg",
+
+l:"http://tv.sohu.com/s2011/xy/",
+t:"悬崖",
+t_:"（40集大结局）",
+t1:"故事发生在1938年的中国东北。周乙是一名共产党特工，为了方便其潜伏在敌人内部，组织派遣了一名女报务员顾秋妍假扮他的妻子，同敌人周旋。然而，面对特务科…",
+mtype:[{"t":"年代剧","l":"http://so.tv.sohu.com/list_p12_p2_u5E74_u4EE3_u5267_p3_p4_p5_p6_p7_p8_p9.html"},{"t":"谍战剧","l":"http://so.tv.sohu.com/list_p12_p2_u8C0D_u6218_u5267_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"刘进","l":"http://so.tv.sohu.com/mts?&wd=%u5218%u8FDB"}],         
+                                        mactor:[{"t":"张嘉译","l":"http://so.tv.sohu.com/mts?&wd=%u5F20%u5609%u8BD1"},{"t":"小宋佳","l":"http://so.tv.sohu.com/mts?&wd=%u5C0F%u5B8B%u4F73"}]
+},
+
+
+
+{
+p:"http://i2.itc.cn/20120106/9f4_3edcd1d9_31c8_7ebd_3cf7_bea3635d2bfa_1.jpg",
+p1:"http://i3.itc.cn/20120106/9f4_3bdfcb99_b412_2793_cf5a_8fa72b9ba857_2.jpg",
+
+l:"http://tv.sohu.com/s2012/bjaqgs/",
+t:"北京爱情故事",
+t_:"（39集大结局）",
+t1:"几个青年男女面对爱情、事业的人生态度和抉择。该剧由《士兵突击》主演陈思成担任编剧、导演、主演…",
+mtype:[{"t":"都市剧","l":"http://so.tv.sohu.com/list_p12_p2_u90FD_u5E02_u5267_p3_p4_p5_p6_p7_p8_p9.html"},{"t":"偶像剧","l":"http://so.tv.sohu.com/list_p12_p2_u5076_u50CF_u5267_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"陈思成","l":"http://so.tv.sohu.com/mts?&wd=%u9648%u601D%u6210"}],         
+                                        mactor:[{"t":"李晨","l":"http://so.tv.sohu.com/mts?&wd=%u674E%u6668"},{"t":"杨幂","l":"http://so.tv.sohu.com/mts?&wd=%u6768%u5E42"}]
+},
+
+
+
+
+
+{
+p:"http://i1.itc.cn/20120110/9f4_91c1b6fd_3b04_7145_d816_14aa7883b5cc_1.jpg",
+p1:"http://i0.itc.cn/20120110/9f4_085715c0_20ab_b980_0d87_9d851bca10a1_2.jpg",
+
+l:"http://tv.sohu.com/s2012/xznh/",
+t:"小资女孩向前冲",
+t_:"（更新至第24集）",
+t1:"今年二十五岁的沈杏仁( 柯佳嬿饰)，是京师百货营业部的一名小职员，资历将满四年。秦子奇( 邱泽饰)，二十八岁，刚从美国取得MBA学位归国的富家公子…",
+mtype:[{"t":"都市剧","l":"http://so.tv.sohu.com/list_p12_p2_u90FD_u5E02_u5267_p3_p4_p5_p6_p7_p8_p9.html"},{"t":"偶像剧","l":"http://so.tv.sohu.com/list_p12_p2_u5076_u50CF_u5267_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"徐辅军","l":"http://so.tv.sohu.com/mts?&wd=%u5F90%u8F85%u519B"}],         
+                                        mactor:[{"t":"邱泽","l":"http://so.tv.sohu.com/mts?&wd=%u90B1%u6CFD"},{"t":"柯佳嬿","l":"http://so.tv.sohu.com/mts?&wd=%u67EF%u4F73%u5B3F"}]
+},
+
+
+
+
+
+	
+	
+{
+p:"http://i1.itc.cn/20111226/9f4_8d971857_69dc_968e_96ce_cd77236b7742_1.jpg",
+p1:"http://i3.itc.cn/20110716/9f4_6a57be2c_2850_704d_6874_b37196852fb8_2.jpg",
+
+l:"http://tv.sohu.com/s2011/xhzgg/",
+t:"新还珠格格",
+t_:"（三部全）",
+t1:"混迹市井街头的小燕子，和多才多艺的紫薇，偶然在京城相识相惜，然而命运弄人，假格格小燕子迷糊的进入皇宫成为还珠格格，真格格紫薇心碎的进入学士府，两人阴错阳差交换了身份……",
+mtype:[{"t":"言情剧","l":"http://so.tv.sohu.com/list_p12_p2_u8a00_u60c5_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html"},{"t":"偶像剧","l":"http://so.tv.sohu.com/list_p12_p2_u5076_u50CF_u5267_p3_p4_p5_p6_p7_p8_p9.html"}],
+  mdirector:[{"t":"李平","l":"http://so.tv.sohu.com/mts?box=1&wd=%u674E%u5E73"}],         
+                                        mactor:[{"t":"李晟","l":"http://so.tv.sohu.com/mts?wd=%C0%EE%EA%C9"},{"t":"海陆","l":"http://so.tv.sohu.com/mts?wd=%u6d77%u9646"}]
+},	
+
+			
+
+	{
+p:"http://i1.itc.cn/20111007/4ac_6bf41f6e_c0a5_4555_11d0_f380048a3b99_1.jpg",
+					p1:"http://i2.itc.cn/20110913/9f4_e506f5ea_50df_7405_138b_146d0f03f771_2.jpg",
+					l:"http://tv.sohu.com/s2011/ybmmdfh/",
+					t:"永不磨灭的番号",
+					t_:"（34集全）",
+					t1:"一次突发的阻击战，将民兵队长李赤水推上了前线。为了当好县大队的队长，他绞尽脑汁，招兵买马，训练队伍。终于，队伍慢慢壮大起来…",
+					mtype:[{"t":"战争剧","l":"http://so.tv.sohu.com/list_p12_p2_u519b_u4e8b_u6218_u4e89_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html"},{"t":"历史剧","l":"http://so.tv.sohu.com/list_p12_p2_u5386_u53f2_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html"}],
+  mdirector:[{"t":"徐纪周","l":"http://so.tv.sohu.com/mts?box=1&wd=%D0%EC%BC%CD%D6%DC"}],         
+                                        mactor:[{"t":"黄海波","l":"http://so.tv.sohu.com/mts?wd=%BB%C6%BA%A3%B2%A8"},{"t":"姚芊羽","l":"http://so.tv.sohu.com/mts?wd=%D2%A6%DC%B7%D3%F0"}]
+}	]
+			});
+
+			//]]>
+			</script>
+<div class="blank12H"></div>
+
+<div id="contentE" class="area">
+	<div class="cons">
+		<div class="con">
+			<DIV class="left wdH">
+<DIV class=tBG></DIV>
+<DIV class=bord>
+<H2><SPAN><A href="http://tv.sohu.com/xuanyijuchang/" target=_blank><IMG alt=悬疑谍战 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt23.gif" width=66 height=20></A></SPAN></H2>
+<DIV class=info><A style="COLOR: #828181" href="http://tv.sohu.com/xuanyijuchang/" target=_blank>极致悬疑谍战</A></DIV>
+<div class=pic><a href="http://tv.sohu.com/20090326/n263031097.shtml" target=_blank><img src="http://i1.itc.cn/20120201/2b48_a150d9ca_6a0d_4716_e737_f7caeb59bf3c_1.jpg" alt=无间道 width=120 height=165 border="0"></a><span><strong><a href="http://tv.sohu.com/20090326/n263031097.shtml" title="无间道" target=_blank>无间道</a></strong></span><span class=label><i></i><em>港产警匪巅峰之作</em></span></div>
+<DIV class=line></DIV>
+<DIV class=list12>
+<UL>
+<LI><A href="http://tv.sohu.com/s2011/jq/" target=_blank>借枪</A> <FONT color=#666666>　　　信仰无价</FONT></LI>
+<LI><A href="http://tv.sohu.com/s2011/xiongdi/" target=_blank>兄弟</A> <FONT color=#666666>　　上海滩风云</FONT></LI>
+<LI><A href="http://tv.sohu.com/s2010/syyh/" target=_blank>誓言永恒</A> <FONT color=#666666>　守护理想</FONT></LI>
+</UL></DIV>
+<DIV class=more><A href="http://tv.sohu.com/xuanyijuchang/" target=_blank>更多&gt;&gt;</A></DIV></DIV></DIV>
+
+			<div class="left wdE">
+<div class=tBG></div>
+<div class=bord>
+<H2><SPAN><a href="http://tv.sohu.com/jiatingjuchang/" target=_blank><img alt=家庭情感 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt20.gif" width=66 height=20></a></SPAN></H2>
+<div class=info><a style="COLOR: #8455c7" href="http://tv.sohu.com/jiatingjuchang/" target=_blank>爱恨情仇 家长里短</a></div>
+<div class=pic><a href="http://tv.sohu.com/s2010/zsxdmsr/"target=_blank><img src="http://i0.itc.cn/20120201/2b48_f150ef7a_cc24_1784_a882_9d47f1178e95_1.jpg" alt=最熟悉的陌生人 width=120 height=165 border="0"></a><span><strong><a href="http://tv.sohu.com/s2010/zsxdmsr/"  target=_blank title="最熟悉的陌生人">最熟悉的陌生人</a></strong></span><span class=label><i></i><em>谎言揭开万千心结</em></span></div>
+<div class=line></div>
+<div class=list12>
+<ul>
+<li><a href="http://tv.sohu.com/20110715/n313548154.shtml" target=_blank>加州之王</a> <font color=#666666>　亲情宝藏</font></li>
+<li><a href="http://tv.sohu.com/s2010/bfyjr/" target=_blank>北方有佳人</a> <font color=#666666>红颜薄命</font></li>
+<li><a href="http://tv.sohu.com/s2011/nswdxd/"" target=_blank>你是我兄弟</a> <font color=#666666>血脉深情</font></li>
+</ul>
+</div>
+<div class=more><a href="http://tv.sohu.com/jiatingjuchang/" target=_blank>更多&gt;&gt;</a></div></div></div>
+
+			<div class="left wdG">
+<div class=tBG></div>
+<div class=bord>
+<h2><span><a href="http://tv.sohu.com/junshijuchang/" target=_blank><img height=20 alt=军事战争 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt22.gif" 
+width=66></a></span></h2>
+<div class=info><a style="COLOR: #6a815e" href="http://tv.sohu.com/junshijuchang/" target=_blank>男人世界的刀光剑影</a></div>
+
+<div class=pic><a href="http://tv.sohu.com/s2010/dxnjfj/"target=_blank><img src="http://i1.itc.cn/20120201/2b48_af52ec86_77c3_d8ec_b160_974321fcf1f0_1.jpg" alt=大西南剿匪记 width=120 height=165 border="0"></a><span><strong><a href="http://tv.sohu.com/s2010/dxnjfj/" title=大西南剿匪记 target=_blank>大西南剿匪记</a></strong></span><span class=label><i></i><em>柳云龙悍匪出镜</em></span></div>
+<div class=line></div>
+<div class=list12>
+<ul>
+<li><a href="http://tv.sohu.com/20090209/n262132216.shtml" target=_blank>投名状</a> <font color=#666666>兄弟情难复返</font></li>
+<li><a href="http://tv.sohu.com/20110331/n305180642.shtml" target=_blank>拆弹部队</a> <font color=#666666>　惨烈战场</font></li>
+<li><a href="http://tv.sohu.com/s2010/lhrs/" target=_blank>龙虎人生</a>  <font color=#666666>　英雄相惜</font></li>
+</ul>
+</div>
+<div class=more><a href="http://tv.sohu.com/junshijuchang/" target=_blank>更多&gt;&gt;</a></div></div></div>
+
+			<div class="left wdD">
+<div class=tBG></div>
+<div class=bord>
+<h2><span><a href="http://tv.sohu.com/jingyingjuchang/" target=_blank><img alt=精英剧场 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt19.gif" width=66 height=20></a></span></h2>
+<div class=info><a style="COLOR: #4894c7" href="http://tv.sohu.com/jingyingjuchang/" target=_blank>精英智商大考验</a></div>
+<div class=pic><a href="http://tv.sohu.com/s2010/chuangguandong/"target=_blank><img src="http://i2.itc.cn/20120129/2b48_641b8ba5_cf9e_7bc4_8299_e48d63817d95_1.jpg" alt=闯关东 width=120 height=165 border="0"></a><span><strong><a href="http://tv.sohu.com/s2010/chuangguandong/" title="闯关东" target=_blank>闯关东</a></strong></span><span class=label><i></i><em>关东爷们戏</em></span></div>
+<div class=line></div>
+<div class=list12>
+<ul>
+<li><a href="http://tv.sohu.com/s2010/shouji/" target=_blank>手机</a> <font color=#666666>谎言与中年危机</font></li>
+<li><a href="http://tv.sohu.com/20090324/n262975029.shtml" target=_blank>门徒</a> <font color=#666666>　毒枭末路悲情</font></li>
+<li><a href="http://tv.sohu.com/s2011/wnwx/" target=_blank>徽娘宛心</a> <font color=#666666>　烈女情深</font></li>
+</ul>
+</div>
+<div class=more><a href="http://tv.sohu.com/jingyingjuchang/" target=_blank>更多&gt;&gt;</a></div></div></div>
+
+			<div class="left wdA">
+<div class=tBG></div>
+<div class=bord>
+<H2><SPAN><a href="http://tv.sohu.com/qingchunjuchang/" target=_blank><img alt=青春偶像 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt16.gif" width=66 height=20></a></SPAN></H2>
+<div class=info><a style="COLOR: #75a503" href="http://tv.sohu.com/qingchunjuchang/" target=_blank>你的青春你做主</a></div>
+<div class=pic><a href="http://tv.sohu.com/20110428/n306635877.shtml"target=_blank><img src="http://i3.itc.cn/20120129/2b48_6a1ef837_67ae_aedc_7c2a_407149fef412_1.jpg" alt=每当变幻时 width=120 height=165 border="0"></a><span><strong><a href="http://tv.sohu.com/20110428/n306635877.shtml" target=_blank title=每当变幻时>每当变幻时</a></strong></span><span class=label><i></i><em>变幻有时请勿错过</em></span></div>
+<div class=line></div>
+<div class=list12>
+<ul>
+<li><a href="http://tv.sohu.com/20101001/n275386823.shtml" target=_blank>80'后</a> <font color=#666666>风雨过后见真爱</font></li>
+<li><a href="http://tv.sohu.com/20090327/n263038500.shtml" target=_blank>特警新人类</a> <font color=#666666>年少轻狂</font></li>
+<li><a href="http://tv.sohu.com/s2010/qdaqh/" target=_blank>情定爱琴海</a> <font color=#666666>蓝色童话</font></li>
+</ul>
+</div>
+<div class=more><a href="http://tv.sohu.com/qingchunjuchang/" target=_blank>更多&gt;&gt;</a></div></div></div>
+
+			<DIV class="left wdB" sizcache="1" sizset="198">
+<DIV class=tBG></DIV>
+<DIV class=bord sizcache="1" sizset="198">
+<H2 sizcache="1" sizset="198"><SPAN sizcache="1" sizset="198"><A href="http://tv.sohu.com/bailingjuchang/" target=_blank><IMG alt=白领剧场 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt17.gif" width=66 height=20></A></SPAN></H2>
+<DIV class=info sizcache="1" sizset="200"><A style="COLOR: #638aa0" href="http://tv.sohu.com/bailingjuchang/" target=_blank>人人都是杜拉拉</A></DIV>
+<DIV class=pic sizcache="1" sizset="201"><a href="http://tv.sohu.com/20101229/n278582506.shtml"target=_blank><IMG src="http://i0.itc.cn/20120206/2c13_0ea0debb_0607_a898_e8ac_31a993fe1a07_1.jpg" alt=立春 width=120 height=165 border="0"></a><SPAN sizcache="1" sizset="202"><STRONG sizcache="1" sizset="202"><A href="http://tv.sohu.com/20101229/n278582506.shtml" title="立春" target=_blank>立春</A></STRONG></SPAN><SPAN class=label><I></I><EM>小人物的梦想悲歌</EM></SPAN></DIV>
+<DIV class=line></DIV>
+<DIV class=list12 sizcache="1" sizset="203">
+<UL sizcache="1" sizset="203">
+<LI sizcache="1" sizset="205"><A href="http://tv.sohu.com/20100709/n273399393.shtml" target=_blank>旺角卡门</A> <FONT color=#666666>　迷离青春</FONT>
+<LI sizcache="1" sizset="203"><A href="http://tv.sohu.com/s2010/bsy/" target=_blank>半生缘</A> <FONT color=#666666>　错爱上海滩</FONT> 
+<LI sizcache="1" sizset="204"><A href="http://tv.sohu.com/s2011/glqrqgy/" target=_blank>隔离七日情</A> <FONT color=#666666>缘结非典</FONT> </LI></UL></DIV>
+<DIV class=more sizcache="1" sizset="206"><A href="http://tv.sohu.com/bailingjuchang/" target=_blank>更多&gt;&gt;</A></DIV></DIV></DIV>
+
+			<DIV class="left wdC" sizcache="1" sizset="165">
+<DIV class=tBG></DIV>
+<DIV class=bord sizcache="1" sizset="165">
+<H2 sizcache="1" sizset="165"><SPAN sizcache="1" sizset="165"><A href="http://tv.sohu.com/yirenjuchang/" target=_blank><IMG height=20 alt=伊人剧场 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt18.gif" width=66></A></SPAN></H2>
+<DIV class=info sizcache="1" sizset="166"><A style="COLOR: #be49b7" href="http://tv.sohu.com/yirenjuchang/" target=_blank>女人最爱 男人回避</A></DIV>
+
+<DIV class=pic sizcache="1" sizset="167"><a href="http://tv.sohu.com/s2011/lbjswan/"target=_blank><img  src="http://i2.itc.cn/20120206/2c13_107e2f62_05b1_0385_509d_b2cbaa24bff1_1.jpg" alt=来不及说我爱你 width=120 height=165 border="0"></a><SPAN sizcache="1" sizset="168"><STRONG sizcache="1" sizset="168"><A href="http://tv.sohu.com/s2011/lbjswan/" target=_blank title= 来不及说我爱你>来不及说我爱你</A></STRONG></SPAN><SPAN class=label><I></I><EM>乱世纷扰儿女情长</EM></SPAN></DIV>
+<DIV class=line></DIV>
+<DIV class=list12 sizcache="1" sizset="169">
+<UL sizcache="1" sizset="169">
+<LI sizcache="1" sizset="171"><A href="http://tv.sohu.com/s2010/tielihua/" target=_blank>铁梨花</A> <FONT color=#666666>　女人的史诗</FONT> </LI>
+<LI sizcache="1" sizset="169"><A href="http://tv.sohu.com/s2011/ylym/" target=_blank>一帘幽梦</A> <FONT color=#666666>　言情经典</FONT> </LI>
+<LI sizcache="1" sizset="170"><A href="http://tv.sohu.com/s2011/xzms/" target=_blank>孝庄秘史</A> <FONT color=#666666>　母仪天下</FONT> </LI></UL></DIV>
+<DIV class=more sizcache="1" sizset="172"><A href="http://tv.sohu.com/yirenjuchang/" target=_blank>更多&gt;&gt;</A></DIV></DIV></DIV>
+
+			<DIV class="left wdF" sizset="215" sizcache="1">
+<DIV class=tBG></DIV>
+<DIV class=bord sizset="215" sizcache="1">
+<H2 sizset="215" sizcache="1"><SPAN sizset="215" sizcache="1"><A href="http://tv.sohu.com/guzhuangjuchang/" target=_blank><IMG alt=古装武侠 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt21.gif" width=66 height=20></A></SPAN></H2>
+<DIV class=info sizset="216" sizcache="1"><A style="COLOR: #9e7d44" href="http://tv.sohu.com/guzhuangjuchang/" target=_blank>有人的地方就有江湖</A></DIV>
+<DIV class=pic sizset="217" sizcache="1"><A href="http://tv.sohu.com/20110924/n320440446.shtml" target=_blank><img  src="http://i0.itc.cn/20120129/2b48_81c05549_4990_bf03_790a_2cb10c69a37b_1.jpg" alt=功夫熊猫 width=120 height=165 border="0"></a><SPAN sizset="218" sizcache="1"><STRONG sizset="218" sizcache="1"><A href="http://tv.sohu.com/20110924/n320440446.shtml" title=功夫熊猫 target=_blank>功夫熊猫</A></STRONG></SPAN><SPAN class=label><I></I><EM>胖到名震江湖</EM></SPAN></DIV> 
+<DIV class=line></DIV>
+<DIV class=list12 sizset="219" sizcache="1">
+<UL sizset="219" sizcache="1">
+<LI sizset="220" sizcache="1"><A href="http://tv.sohu.com/s2010/hfjg/" target=_blank>活佛济公</A> <FONT color=#666666>　史上最帅</FONT></LI>
+<LI sizset="219" sizcache="1"><A href="http://tv.sohu.com/20110523/n308293256.shtml" target=_blank>刀剑笑</A> <FONT color=#666666>　欲望与宿命</FONT></LI>
+<LI sizset="221" sizcache="1"><A href="http://tv.sohu.com/s2010/dtslz/" target=_blank>大唐双龙传</A> <FONT color=#666666>唐初风云</FONT></LI>
+</UL></DIV>
+<DIV class=more sizset="222" sizcache="1"><A href="http://tv.sohu.com/guzhuangjuchang/" target=_blank>更多&gt;&gt;</A></DIV></DIV></DIV>
+
+		</div>
+	</div>
+	<div class="btns"><a href="javascript:void(0)" class="up uN"></a><a href="javascript:void(0)" class="down"></a></div>
+</div>
+<script type="text/javascript">
+function shuffle(source,begin)
+{
+    begin = begin || 0;
+    for(var i=source.length-1;i>=begin;i--)
+    {
+        var j=Math.floor(Math.random()*source.length);
+        if (j < begin) break;
+        var k=source[j];
+        source[j]=source[i];
+        source[i]=k;
+    }
+}
+var x = [1,2,3,4,5,6,7,8];
+var _html=[];
+shuffle(x,3);
+jQuery.each(x,function(i,el){//debugger;
+        _html.push(jQuery('#contentE .con').find('.left').eq(el-1).clone().wrap("<div></div>").parent().html());
+});
+jQuery('#contentE .con').html(_html.join(""));
+
+jQuery(function(jq){
+	var rr = jq('#contentE');
+	var conr = rr.find('div.con'),
+		conr0 = conr[0],
+		btnWr = rr.find('> div.btns'),
+		btnPr = btnWr.find('a.up'),
+		btnNr = btnWr.find('a.down');
+	
+	var lisr = conr.find('.left');
+	
+	conr.find(".bord").hover(function(){
+		jq(this).addClass("bgBord");
+	},function(){
+		jq(this).removeClass("bgBord");
+	});
+	
+	var pnumr = 6, numr = lisr.length;
+	if(numr <= pnumr)return;
+	
+	var owr = lisr[1].offsetLeft - lisr[0].offsetLeft, 
+		idxArear = [0, numr - pnumr],
+		idxr = 0;
+	
+	function updateNum(n){
+		if (n > idxArear[1] || n < idxArear[0]) {return;}
+		
+		btnPr[((n == 0)?'add':'remove') + 'Class']('uN');
+		btnNr[((n == idxArear[1])?'add':'remove') + 'Class']('dN');
+		
+		idxr = n;
+		conr.stop().animate({left: -n * owr},300);
+	}
+	
+	btnPr.click(function(){
+		updateNum(idxr - 1);
+		return false;
+	});
+	btnNr.click(function(){
+		updateNum(idxr + 1);
+		return false;
+	});
+	//updateNum(Math.round(idxArear[1]*Math.random()));
+});
+
+</script>
+
+<div id="contentA" class="area pub">
+	<div class="left">
+		<div class="blockLA clear">
+			<div class="boxA clear">
+				<div class="l">
+					<div class=tt><a href="http://tv.sohu.com/shoubo/" target=_blank><img alt=首播精选 src="http://tv.sohu.com/upload/tv110421/images/pt01.gif" width=50 height=50></a></div>
+					<div class="cont">
+					<DIV class=pp sizcache="1" sizset="227">
+<UL sizcache="1" sizset="227">
+<LI><A href="http://tv.sohu.com/s2011/lyzclsh/" target=_blank><IMG border=0 alt=另一种灿烂生活 src="http://i1.itc.cn/20120203/2b49_def2cf3e_daab_942f_e7b2_765a397b8371_1.jpg" width=122 height=92></A><SPAN sizcache="1" sizset="239"><STRONG sizcache="1" sizset="239"><A href="http://tv.sohu.com/s2011/lyzclsh/" target=_blank>另一种灿烂生活</A></STRONG></SPAN><SPAN class=label><I></I><EM>30集全</EM></SPAN></LI>
+<LI><A href="http://tv.sohu.com/s2011/xhzgg/" target=_blank><IMG border=0 alt=美人天下 src="http://i1.itc.cn/20120113/2b49_5025f8d9_135e_25b6_32f7_16f6f63ac68f_1.jpg" width=122 height=92></A><SPAN sizcache="1" sizset="239"><STRONG sizcache="1" sizset="239"><A href="http://tv.sohu.com/s2011/xhzgg/" target=_blank>新还珠格格</A></STRONG></SPAN><SPAN class=label><I></I><EM>99集全</EM></SPAN></LI></UL></DIV>
+<DIV class=line></DIV>
+<DIV class="list12 clear" sizcache="1" sizset="231">
+<UL sizcache="1" sizset="231">
+<LI sizcache="1" sizset="231"><A href="http://tv.sohu.com/s2011/gsxy/" target=_blank>穿越奇葩-宫锁心玉</A> </LI>
+<LI sizcache="1" sizset="231"><A href="http://tv.sohu.com/s2011/hltz/" target=_blank>动漫真人秀-华丽挑战</A> </LI>
+<LI sizcache="1" sizset="231"><A href="http://tv.sohu.com/s2011/mrtxzp/" target=_blank>唐宫越狱-美人天下</A> </LI>
+<LI sizcache="1" sizset="231"><A href="http://tv.sohu.com/s2011/qsmx/" target=_blank>禽兽有约-千山暮雪</A> </LI></UL></DIV>
+
+					</div>
+				</div>
+				<div class="r">
+					<DIV class=tt><A href="http://tv.sohu.com/weishi/" target=_blank><IMG alt=卫视强档 src="http://tv.sohu.com/upload/tv110421/images/pt02.gif" width=50 height=50></A></DIV>
+					<div class="cont">
+					<DIV class=pp sizcache="1" sizset="236">
+<UL sizcache="1" sizset="236">
+<LI sizcache="1" sizset="238"><A href="http://tv.sohu.com/s2012/xzda/" target=_blank><IMG height=90 alt=旋转的爱 src="http://i0.itc.cn/20120203/2b49_f7d075f0_bb37_5ac8_10d8_39f066687826_1.jpg" width=120 border=0></A><SPAN sizcache="1" sizset="239"><STRONG sizcache="1" sizset="239"><A href="http://tv.sohu.com/s2012/xzda/" target=_blank>旋转的爱</A></STRONG></SPAN><SPAN class=label><I></I><EM>34集全</EM></SPAN> </LI>
+<LI sizcache="1" sizset="238"><A href="http://tv.sohu.com/s2012/adprf/" target=_blank><IMG height=90 alt=爱的烹饪法 src="http://i3.itc.cn/20120203/2b49_01a7b547_9b84_3046_9e55_70297e5272c5_1.jpg" width=120 border=0></A><SPAN sizcache="1" sizset="239"><STRONG sizcache="1" sizset="239"><A href="http://tv.sohu.com/s2012/adprf/" target=_blank>爱的烹饪法</A></STRONG></SPAN><SPAN class=label><I></I><EM>32集全</EM></SPAN> </LI></UL></DIV>
+<DIV class=line></DIV>
+<DIV class="list12 clear" sizcache="1" sizset="240">
+<UL sizcache="1" sizset="240">
+<LI sizcache="1" sizset="240"><A href="http://tv.sohu.com/s2011/dhn/" target=_blank>丛林逆战-断喉弩</A> </LI>
+<LI sizcache="1" sizset="240"><A href="http://tv.sohu.com/s2011/ssyjd/" target=_blank>白冰变黑-水上游击队</A> </LI>
+<LI sizcache="1" sizset="240"><A href="http://tv.sohu.com/s2011/njdgszadfx/" target=_blank>怀念建宏-娘家故事3</A> </LI>
+<LI sizcache="1" sizset="240"><A href="http://tv.sohu.com/s2011/fzxf3gy/" target=_blank>人肉百科-法证先锋3</A> </LI></A></LI></UL></DIV>
+					</div>
+				</div>
+			</div>
+			<div class="boxB clear">
+				<div class="l">
+					<div class=tt><a href="http://tv.sohu.com/comic/" target=_blank><img alt=高清动漫 src="http://tv.sohu.com/upload/tv110421/images/pt03.gif" width=50 height=50></a></div>
+					<div class="cont">
+					<DIV class=pp>
+<UL>
+<LI><A href="http://tv.sohu.com/s2011/yjdwb/" target=_blank><IMG border=0 alt=妖精的尾巴 src="http://i0.itc.cn/20111226/a56_7ff0e6dd_64aa_88b6_6154_143003ddb265_1.jpg" width=120 height=90></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/yjdwb/" target=_blank>妖精的尾巴</A></STRONG></SPAN><SPAN class=label><I></I><EM>更新至116集</EM></SPAN></LI>
+<LI><A href="http://tv.sohu.com/s2011/mfjsml/" target=_blank><IMG border=0 alt=魔法禁书目录 src="http://i3.itc.cn/20111226/a56_7ff0e6dd_64aa_88b6_6154_143003ddb265_2.jpg" width=120 height=90></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/mfjsml/" target=_blank>魔法禁书目录</A></STRONG></SPAN><SPAN class=label><I></I><EM>24集全</EM></SPAN></LI>
+</UL></DIV>
+<DIV class=line></DIV>
+<DIV class="list12 clear">
+<UL>
+<LI><A href="http://tv.sohu.com/s2011/dtezxtbb/" target=_blank>大头儿子和小头爸爸</A></LI>
+<LI><A href="http://tv.sohu.com/s2011/dmx/" target=_blank>倒霉熊-合家爆笑动画</A></LI>
+<LI><A href="http://tv.sohu.com/s2011/jiafeimao/" target=_blank>加菲猫的幸福生活</A></LI>
+<LI><A href="http://tv.sohu.com/s2011/dhpjqm/" target=_blank>哆啦A梦-大雄好伴侣</A></LI></UL></DIV>
+					</div>
+				</div>
+				<div class="r">
+					<DIV class=tt><A href="http://tv.sohu.com/korea/" target=_blank><IMG alt=高清韩剧 src="http://tv.sohu.com/upload/tv110421/images/pt04.gif" width=50 height=50></A></DIV>
+					<div class="cont">
+					<DIV class=pp sizcache="1" sizset="253">
+<UL sizcache="1" sizset="253">
+<LI sizcache="1" sizset="253"><A href="http://tv.sohu.com/s2010/wnslr/" target=_blank><IMG border=0 alt=威尼斯恋人 src="http://i2.itc.cn/20120122/2b49_3343d6e9_dda0_3f2d_9a74_b8447c1dc9d8_1.jpg" width=120 height=90 Musical></A><SPAN sizcache="1" sizset="254"><STRONG sizcache="1" sizset="254"><A href="http://tv.sohu.com/s2010/wnslr/" target=_blank>威尼斯恋人</A></STRONG></SPAN><SPAN class=label><I></I><EM>16集全</EM></SPAN></LI>
+<LI sizcache="1" sizset="253"><A href="http://tv.sohu.com/s2011/gxzchz/" target=_blank><IMG border=0 alt=工薪族楚汉志 src="http://i1.itc.cn/20120104/2b49_c03925a6_6bf8_9cdb_a1ff_1e039ca4ae68_1.jpg" width=120 height=90 Musical></A><SPAN sizcache="1" sizset="254"><STRONG sizcache="1" sizset="254"><A href="http://tv.sohu.com/s2011/gxzchz/" target=_blank>工薪族楚汉志</A></STRONG></SPAN><SPAN class=label><I></I><EM>更新至12集</EM></SPAN></LI></UL></DIV>
+<DIV class=line></DIV>
+<DIV class="list12 clear" sizcache="1" sizset="257">
+<UL sizcache="1" sizset="257">
+<LI sizcache="1" sizset="260"><A href="http://tv.sohu.com/s2011/tydxn/" target=_blank>差钱恋-太阳的新娘</A> </LI>
+<LI sizcache="1" sizset="260"><A href="http://tv.sohu.com/s2010/cwzdqgz/" target=_blank>女人帮-传闻中七公主</A> </LI>
+<LI sizcache="1" sizset="260"><A href="http://tv.sohu.com/s2011/jrmtll/" target=_blank>母女爱-假如明天来临</A> </LI>
+<LI sizcache="1" sizset="257"><A href="http://tv.sohu.com/s2011/sdgs/" target=_blank>君王宋钟基-树大根深</A> </LI></UL></DIV>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="blank5B"></div>
+		
+		<div class="blockLB clear" id="odeum">
+			<div class="l boxA">
+				<h2 sizcache="1" sizset="263"><span sizcache="1" sizset="263"><a href="http://tv.sohu.com/warnerzone/" target="_blank">华纳专区</a></span></h2>
+<div class="pic" sizcache="1" sizset="264"><a href="http://tv.sohu.com/20100112/n269515905.shtml" target="_blank"><img height="60" alt="蝙蝠侠归来" src="http://i1.itc.cn/20110629/a2e_f0d02f75_9c1f_63ce_1b31_31662c7b853a_3.jpg" width="120"></a><span sizcache="1" sizset="265"><strong sizcache="1" sizset="265"><a href="http://tv.sohu.com/20100112/n269515905.shtml" target="_blank">蝙蝠侠归来</a></strong></span></div>
+<div class="line"></div>
+<div class="list12" sizcache="1" sizset="266">
+<ul sizcache="1" sizset="266">
+<li sizcache="1" sizset="266"><a href="http://tv.sohu.com/20110222/n279467639.shtml" target="_blank">钻石走私内幕－血钻</a> 
+</li><li sizcache="1" sizset="267"><a href="http://tv.sohu.com/20110222/n279467790.shtml" target="_blank">正邪间徘徊－暴力史</a> </li></ul></div>
+<div class="more" sizcache="1" sizset="268"><a href="http://tv.sohu.com/warnerzone/" target="_blank">更多&gt;&gt;</a></div>
+			</div>
+			<div class="l boxB">
+				<H2 sizcache="1" sizset="269"><SPAN sizcache="1" sizset="269"><A href="http://store.tv.sohu.com/foxmovies/?spayid=803001" target=_blank>二十世纪福斯专区</A></SPAN></H2>
+<DIV class=pic sizcache="1" sizset="270"><A href="http://store.tv.sohu.com/view_content/movie/1007847_546157.html?spayid=302006" target=_blank><IMG height=60 alt=波普先生的企鹅 src="http://i3.itc.cn/20120110/872_65514c48_52b2_9949_70bb_d7dbdd6e73a4_1.jpg" width=120 border=0></A><SPAN sizcache="1" sizset="271"><STRONG sizcache="1" sizset="271"><A href="http://store.tv.sohu.com/view_content/movie/1007847_546157.html?spayid=302006" target=_blank>波普先生的企鹅</A></STRONG></SPAN></DIV>
+<DIV class=line></DIV>
+<DIV class=list12 sizcache="1" sizset="272">
+<UL sizcache="1" sizset="272">
+<LI sizcache="1" sizset="272"><A href="http://store.tv.sohu.com/view_content/movie/1005036_418506.html?spayid=302007" target=_blank>唯美-大象的眼泪</A> 
+<LI sizcache="1" sizset="273"><A href="http://store.tv.sohu.com/view_content/movie/1003107_324280.html?spayid=302008" target=_blank>师生恋-一吻定江山</A> </LI></UL></DIV>
+<DIV class=more sizcache="1" sizset="274"><A href="http://store.tv.sohu.com/foxmovies/?spayid=803001" target=_blank>更多&gt;&gt;</A></DIV>
+			</div>
+			<div class="l boxC">
+				<h2 sizcache="1" sizset="275"><span sizcache="1" sizset="275"><a href="http://tv.sohu.com/koreanmovie/" target="_blank">韩国电影频道</a></span></h2>
+<div class="pic" sizcache="1" sizset="276"><a href="http://tv.sohu.com/20110629/n312033042.shtml" target="_blank"><img height="60" alt="狼的诱惑" src="http://i1.itc.cn/20110629/a2e_f0d02f75_9c1f_63ce_1b31_31662c7b853a_2.jpg" width="120"></a><span sizcache="1" sizset="277"><strong sizcache="1" sizset="277"><a href="http://tv.sohu.com/20110629/n312033042.shtml" target="_blank">狼的诱惑</a></strong></span></div>
+<div class="line"></div>
+<div class="list12" sizcache="1" sizset="278">
+<ul sizcache="1" sizset="278">
+<li sizcache="1" sizset="278"><a href="http://tv.sohu.com/20101124/n277877094.shtml" target="_blank">童话爱情-长腿叔叔</a> 
+</li><li sizcache="1" sizset="279"><a href="http://tv.sohu.com/20101130/n278012319.shtml" target="_blank">冲击宽恕底线-密阳</a> </li></ul></div>
+<div class="more" sizcache="1" sizset="280"><a href="http://tv.sohu.com/koreanmovie/" target="_blank">更多&gt;&gt;</a></div>
+			</div>
+			<div class="l boxD">
+				<H2 sizcache="1" sizset="279"><SPAN sizcache="1" sizset="279"><A href="http://tv.sohu.com/tvb/" target=_blank>TVB专区</A></SPAN></H2>
+<DIV class=pic sizcache="1" sizset="280"><A href="http://tv.sohu.com/s2011/nhjtyy/" target=_blank><IMG height=60 alt=怒火街头 src="http://i1.itc.cn/20110805/692_592957fc_d698_4566_4e33_4a56385f7798_1.jpg" width=120 border=0></A><SPAN sizcache="1" sizset="281"><STRONG sizcache="1" sizset="281"><A href="http://tv.sohu.com/s2011/nhjtyy/" target=_blank>怒火街头</A></STRONG></SPAN></DIV>
+<DIV class=line></DIV>
+<DIV class=list12 sizcache="1" sizset="282">
+<UL sizcache="1" sizset="282">
+<LI sizcache="1" sizset="282"><A href="http://tv.sohu.com/s2011/zhenxianggy/" target=_blank>真相-奇案真实再现</A> 
+<LI sizcache="1" sizset="283"><A href="http://tv.sohu.com/s2011/sjztwyhgy/" target=_blank>谁家灶头无烟火</A> </LI></UL></DIV>
+<DIV class=more sizcache="1" sizset="284"><A href="http://tv.sohu.com/tvb/" target=_blank>更多&gt;&gt;</A></DIV>
+			</div>
+			<div class="r boxE">
+				<h2 sizcache="1" sizset="287"><span sizcache="1" sizset="287"><a href="http://tv.sohu.com/superhd/" target="_blank">超清频道</a></span><a href="http://tv.sohu.com/sharp/" target="_blank"></a></h2>
+<div class="pic" sizcache="1" sizset="289"><a href="http://tv.sohu.com/20110429/n306674855.shtml#super" target="_blank"><img height="60" alt="赤焰战场" src="http://i1.itc.cn/20110629/a2e_f0d02f75_9c1f_63ce_1b31_31662c7b853a_1.jpg  " width="120"></a><span sizcache="1" sizset="297"><strong sizcache="1" sizset="297"><a href="http://tv.sohu.com/20110429/n306674855.shtml#super" target="_blank">赤焰战场</a></strong></span></div>
+<div class="line"></div>
+<div class="list12" sizcache="1" sizset="298">
+<ul sizcache="1" sizset="298">
+<li sizcache="1" sizset="298"><a href="http://tv.sohu.com/20110323/n304774338.shtml#super" target="_blank">浪漫奇遇-一页台北</a> 
+</li><li sizcache="1" sizset="299"><a href="http://tv.sohu.com/20100627/n273110861.shtml#super" target="_blank">催泪大片-岁月神偷</a> </li></ul></div>
+<div class="more" sizcache="1" sizset="300"><a href="http://tv.sohu.com/superhd/" target="_blank">更多&gt;&gt;</a></div>
+			</div>
+		</div>
+        <div class="blank5B"></div>
+        
+       <div class="mvFrag same clear" id="mvPop">
+			<div class=title><span><img alt=高清电影 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt07.gif" width=104 height=22></span><a href="http://so.tv.sohu.com/list_p11_p2_u7231_u60c5_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>爱情</a>|<a href="http://so.tv.sohu.com/list_p11_p2_u52a8_u4f5c_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>动作</a>|<a href="http://so.tv.sohu.com/list_p11_p2_u559c_u5267_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>喜剧</a>|<a href="http://so.tv.sohu.com/list_p11_p2_u6050_u6016_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>恐怖</a>|<a href="http://so.tv.sohu.com/list_p11_p2_u79d1_u5e7b_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>科幻</a>|<a href="http://so.tv.sohu.com/list_p11_p2_u6218_u4e89_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>战争</a>|<a href="http://so.tv.sohu.com/list_p11_p2_u98ce_u6708_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>风月</a>|<a href="http://so.tv.sohu.com/list_p11_p2_u5267_u60c5_u7247_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>剧情</a>|<a href="http://tv.sohu.com/movie/" target=_blank>更多电影&gt;&gt;</a></div>
+			<div class="l">
+				<div class="picTxt clear">
+					<div class="pic"><a href="http://tv.sohu.com/20100112/n269518821.shtml" target="_blank"><img alt="电子情书" src="http://i2.itc.cn/20120210/a2e_376ac8b6_28d7_9488_0701_678bcfdb5316_5.jpg" width="155" border="0" height="200"></a><span class="label"><i></i><code class="cc"></code><em>Email约炮指南</em></span></div>
+<h3><a href="http://tv.sohu.com/20100112/n269518821.shtml" target="_blank">电子情书</a></h3>
+<p>汤姆汉克斯携手梅格瑞恩，情人节不见不散...<a href="http://tv.sohu.com/20100112/n269518821.shtml" target="_blank">[详细]</a></p>
+				</div>
+				<div class="line"></div>
+				<div class="mvLA clear">
+					<h2><span>热播排行</span><a href="http://tv.sohu.com/movie/" target="_blank">更多&gt;&gt;</a></h2>
+
+<div class="pt">
+<div><a href="http://tv.sohu.com/20120111/n331887864.shtml" target="_blank"><img height="95" alt="怒火攻心" src="http://i3.itc.cn/20120118/2b46_5a3ab33d_d8ed_19ac_bab9_1de0a9993e66_1.jpg" width="70" border="0"></a></div>
+<h4><a href="http://tv.sohu.com/20120111/n331887864.shtml" target="_blank">怒火攻心</a></h4>
+<p>炫酷动作戏，黑色冷幽默。</p></div>
+
+<div class="pt">
+<div><a href="http://tv.sohu.com/20120117/n332472523.shtml" target="_blank"><img height="95" alt="死亡密码" src="http://i2.itc.cn/20120118/2b46_11632d9c_b152_128c_cd79_521e2a359a46_1.jpg" width="70" border="0"></a></div>
+<h4><a href="http://tv.sohu.com/20120117/n332472523.shtml" target="_blank">死亡密码</a></h4>
+<p>《黑天鹅》导演作品，低成本猛片。</p></div>
+
+<div class="pt">
+<div><a href="http://tv.sohu.com/20120112/n332008360.shtml" target="_blank"><img height="95" alt="第九道门" src="http://i1.itc.cn/20120118/2b46_73990ad9_056e_abd8_14a2_a304a1fac3c3_1.jpg" width="70" border="0"></a></div>
+<h4><a href="http://tv.sohu.com/20120112/n332008360.shtml" target="_blank">第九道门</a></h4>
+<p>约翰尼-德普早年神作，帅气逼人。</p></div>
+				</div>
+			</div>
+			<div class="r">
+				<div class="ppList clear">
+					<div class="pp">
+						<ul>
+
+<li><a href="http://tv.sohu.com/20111013/n322107095.shtml" target="_blank"><img height="130" src="http://i1.itc.cn/20120206/a2e_735c1c37_1573_eb21_15d6_ec4e407c95bf_2.jpg" width="95" border="0" alt="窃听风云2"></a><span><strong><a title="" href="http://tv.sohu.com/20111013/n322107095.shtml" target="_blank">窃听风云2</a></strong><br>夺命金式金融黑幕 麦庄合力质疑股市</span><span class="label"><i></i><code class="cc"></code><em>119分22秒</em></span> 
+</li>
+
+<li><a href="http://tv.sohu.chttp://tv.sohu.com/20120112/n332002589.shtmlom/20090208/n262111754.shtml" target="_blank"><img height="130" src="http://i0.itc.cn/20120121/a2e_de0cf7b2_b372_7368_d51a_8d4cca3913d7_14.jpg" width="95" border="0" alt="公主新娘"></a><span><strong><a href="http://tv.sohu.com/20120112/n332002589.shtml" target="_blank">公主新娘</a></strong><br>回到童话世界 找个公主结婚</span><span class="label"><i></i><code class="cc"></code><em>110分06秒</em></span> 
+</li>
+
+<li><a href="http://tv.sohu.com/20120120/n332708220.shtml" target="_blank"><img height="130" src="http://i1.itc.cn/20120129/9b8_a92a02a0_ace7_fdce_442e_c50b8c95067e_1.jpg" width="95" alt="诱惑法则"></a><span><strong><a href="http://tv.sohu.com/20120120/n332708220.shtml" target="_blank">美色杀人狂2</a></strong><br>各种变态手法 虐杀无数女性</span><span class="label"><i></i><code class="cc"></code><em>84分50秒</em></span> 
+</li>
+
+
+
+<li><a href="http://tv.sohu.com/20090809/n265822452.shtml" target="_blank"><img height="130" src="http://i1.itc.cn/20120121/a2e_de0cf7b2_b372_7368_d51a_8d4cca3913d7_2.jpg" width="95" alt="夜店"></a><span><strong><a href="http://tv.sohu.com/20090809/n265822452.shtml" target="_blank">夜店</a></strong><br>徐铮恶搞出神入化 搞笑实力无人能敌</span><span class="label"><i></i><code class="cc"></code><em>113分09秒</em></span> 
+</li>
+
+<li><a href="http://tv.sohu.com/20110924/n320440446.shtml" target="_blank"><img height="130" src="http://i3.itc.cn/20120121/a2e_de0cf7b2_b372_7368_d51a_8d4cca3913d7_13.jpg" width="95" alt="功夫熊猫"></a><span><strong><a href="http://tv.sohu.com/20110924/n320440446.shtml" target="_blank">功夫熊猫</a></strong><br>中国元素打入好莱坞 熊猫卖萌耍宝</span><span class="label"><i></i><code class="cc"></code><em>92分21秒</em></span> 
+</li>
+
+
+<li><a href="http://tv.sohu.com/20110429/n306674855.shtml" target="_blank"><img height="130" src="http://i2.itc.cn/20120121/a2e_de0cf7b2_b372_7368_d51a_8d4cca3913d7_5.jpg" width="95" border="0" alt="赤焰战场"></a><span><strong><a title="" href="http://tv.sohu.com/20110429/n306674855.shtml" target="_blank">赤焰战场</a></strong><br>红红火火跨年大战 特工行动给你好看</span><span class="label"><i></i><code class="cc"></code><em>111分09秒</em></span> 
+</li>
+
+<li><a href="http://tv.sohu.com/20090117/n261805152.shtml" target="_blank"><img height="130" src="http://i1.itc.cn/20120121/a2e_de0cf7b2_b372_7368_d51a_8d4cca3913d7_4.jpg" width="95" border="0" alt="桃花运"></a><span><strong><a title="" href="http://tv.sohu.com/20090117/n261805152.shtml" target="_blank">桃花运</a></strong><br>开年遭遇桃花运 尽快告别单身</span><span class="label"><i></i><code class="cc"></code><em>117分39秒</em></span> 
+</li>
+
+<li><a href="http://tv.sohu.com/20110428/n306647980.shtml" target="_blank"><img height="130" src="http://i2.itc.cn/20120121/a2e_de0cf7b2_b372_7368_d51a_8d4cca3913d7_3.jpg" width="95" alt="单身男女"></a><span><strong><a href="http://tv.sohu.com/20110428/n306647980.shtml" target="_blank">单身男女</a></strong><br>宅男剩女速配 快快去找爱人</span><span class="label"><i></i><code class="cc"></code><em>110分13秒</em></span> 
+</li>
+
+
+
+</ul>
+					</div>
+					<div class="line"></div>
+				</div>
+				<div class="grade clear">
+					<H2><SPAN>付费频道</SPAN><A href="http://store.tv.sohu.com/" target=_blank>更多付费电影&gt;&gt;</A></H2>
+<DIV class=pp>
+<UL>
+<LI><A href="http://store.tv.sohu.com/view_content/movie/1008359_571693.html?spayid=302003" target=_blank><IMG height=130 alt="杀手欧阳盆栽" src="http://i3.itc.cn/20120209/872_5f501df4_0614_49a4_e61e_ac68fc336a1e_1.jpg" width=95 border=0></A><SPAN><STRONG><A href="http://store.tv.sohu.com/view_content/movie/1008359_571693.html?spayid=302003" target=_blank>杀手欧阳盆栽</A></STRONG><BR>评分：<EM>7.5</EM>分</SPAN><SPAN>九把刀杀手系列 萧敬腾变身冷杀手</SPAN><SPAN class=label><I></I><CODE class=cc></CODE><EM>103分45秒</EM></SPAN> 
+</LI>
+
+<LI><A href="http://store.tv.sohu.com/view_content/movie/1008092_558813.html?spayid=302005" target=_blank><IMG height=130 alt="蓝精灵" src="http://i2.itc.cn/20120209/872_84860ae4_7349_c56e_079d_982ab19ced7a_1.jpg" width=95 border=0></A><SPAN><STRONG><A href="http://store.tv.sohu.com/view_content/movie/1008092_558813.html?spayid=302005" target=_blank>蓝精灵</A></STRONG><BR>评分：<EM>8.5</EM>分</SPAN><SPAN>蓝精灵穿越结界 与格格巫纽约之战</SPAN><SPAN class=label><I></I><CODE class=cc></CODE><EM>102分45秒</EM></SPAN> 
+</LI>
+
+<LI><A href="http://store.tv.sohu.com/view_content/movie/1008158_561163.html?spayid=302002" target=_blank><IMG height=130 alt="狂野女孩" src="http://i2.itc.cn/20120209/872_8e0b0945_9b36_a32a_1272_40d2a1ed8985_1.jpg" width=95 border=0></A><SPAN><STRONG><A href="http://store.tv.sohu.com/view_content/movie/1008158_561163.html?spayid=302002" target=_blank>狂野女孩</A></STRONG><BR>评分：<EM>7.8</EM>分</SPAN><SPAN>全美最疯狂高校女生情色成人秀</SPAN><SPAN class=label><I></I><CODE class=cc></CODE><EM>30分48秒</EM></SPAN> 
+</LI>
+
+<LI><A href="http://store.tv.sohu.com/view_content/movie/1006899_506331.html?spayid=302004" target=_blank><IMG height=130 alt="偷心" src="http://i0.itc.cn/20120131/872_dc976059_9c71_3043_c4c7_1dfa3cdd9b1f_1.jpg" width=95 border=0></A><SPAN><STRONG><A href="http://store.tv.sohu.com/view_content/movie/1006899_506331.html?spayid=302004" target=_blank>偷心</A></STRONG><BR>评分：<EM>8.0</EM>分</SPAN><SPAN>《黑天鹅》女演饰激情放纵脱衣舞娘</SPAN><SPAN class=label><I></I><CODE class=cc></CODE><EM>85分12秒</EM></SPAN> 
+</LI>
+
+</UL></DIV>
+				</div>
+			</div>
+		</div>
+		
+		<div class="tvFrag same clear" id="tvPop">
+			<div class=title><span><img alt=高清电视剧 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt09.gif" width=128 height=22></span><a href="http://so.tv.sohu.com/list_p12_p2_u5076_u50cf_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>偶像</a>|<a href="http://so.tv.sohu.com/list_p12_p2_u60ac_u7591_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>悬疑</a>|<a href="http://so.tv.sohu.com/list_p12_p2_u5bb6_u5ead_u4f26_u7406_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>伦理</a>|<a href="http://so.tv.sohu.com/list_p12_p2_u8a00_u60c5_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>言情</a>|<a href="http://so.tv.sohu.com/list_p12_p2_u53e4_u88c5_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>古装</a>|<a href="http://so.tv.sohu.com/list_p12_p2_u90fd_u5e02_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>都市</a>|<a href="http://so.tv.sohu.com/list_p12_p2_u519b_u4e8b_u6218_u4e89_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>战争</a>|<a href="http://so.tv.sohu.com/list_p12_p2_u6b66_u4fa0_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>武侠</a>|<a href="http://so.tv.sohu.com/list_p12_p2_u8c0d_u6218_u5267_p3_p4-1_p5_p6_p70_p80_p9-1_p101_p11.html" target=_blank>谍战</a>|<a href="http://tv.sohu.com/teleplay/" target=_blank>更多电视剧&gt;&gt;</a></div>
+			<div class="l">
+				<div class="picTxt clear">
+					<DIV class=pic><A href="http://tv.sohu.com/s2012/bjaqgs/" target=_blank><IMG border=0 alt=北京爱情故事 src="http://i1.itc.cn/20120129/2b49_4806118b_2df2_e972_3f9c_8159f68ef85e_1.jpg" width=157 height=202></A><SPAN class=label><I></I><CODE class=cc></CODE><em>士兵帮爱情突击</em></SPAN></DIV>
+<H3><A href="http://tv.sohu.com/s2012/bjaqgs/" target=_blank>北京爱情故事</A></H3>
+<P>如果你什么都没有，拿什么去爱？<a href="http://tv.sohu.com/s2012/bjaqgs/" target="_blank">[详细]</a></P>
+				</div>
+				<div class="line"></div>
+				<div class="tvLA clear">
+					<H2><SPAN>剧星推荐</SPAN></H2>
+<DIV class=pp>
+<UL>
+<LI><a href="http://so.tv.sohu.com/mts?box=1&wd=%u5218%u607A%u5A01" target="_blank"><IMG src="http://i0.itc.cn/20120105/2b49_112c85fb_ed7a_3d53_1642_e2cefe06f4d9_1.jpg" alt=刘恺威 width=60 height=60 border="0"></a><SPAN><STRONG><A href="http://so.tv.sohu.com/mts?box=1&wd=%u5218%u607A%u5A01" target=_blank>刘恺威</A></STRONG></SPAN></LI>
+<LI><a href="http://so.tv.sohu.com/mts?wd=刘诗诗&box=1" target="_blank"><IMG src="http://i2.itc.cn/20110920/2b49_8085a841_29dc_c3f2_f8fa_5e3cb676ac7b_4.jpg" alt=刘诗诗 width=60 height=60 border="0"></a><SPAN><STRONG><A href="http://so.tv.sohu.com/mts?wd=刘诗诗&box=1" target=_blank>刘诗诗</A></STRONG></SPAN></LI>
+<LI><A href="http://so.tv.sohu.com/mts?wd=吴奇隆&box=1" target=_blank><IMG src="http://i2.itc.cn/20110920/2b49_8085a841_29dc_c3f2_f8fa_5e3cb676ac7b_3.jpg" alt=吴奇隆 width=60 height=60 border="0"></A><SPAN><STRONG><A href="http://so.tv.sohu.com/mts?wd=吴奇隆&box=1" target=_blank>吴奇隆</A></STRONG></SPAN></LI>
+<LI><A href="http://so.tv.sohu.com/mts?wd=杨幂&box=1" target=_blank><IMG src="http://i1.itc.cn/20110920/2b49_8085a841_29dc_c3f2_f8fa_5e3cb676ac7b_2.jpg" alt=杨幂 width=60 height=60 border="0"></A><SPAN><STRONG><A href="http://so.tv.sohu.com/mts?wd=杨幂&box=1" target=_blank>杨幂</A></STRONG></SPAN></LI>
+</UL></DIV>
+				</div>
+			</div>
+			<div class="r">
+				<div class="ppList clear">
+					<div class="pp">
+						<UL>
+<LI><A href="http://tv.sohu.com/s2011/zbxyj/" target=_blank><img border=0 alt="浙版西游记" src="http://i0.itc.cn/20120129/2b49_da82afd9_1388_1d65_0608_9ec7a925a4f8_1.jpg" width=95 height=70></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/zbxyj/" target=_blank>浙版西游记</A></STRONG><BR>
+师徒四人都恋爱<br>妖精吃上唐僧肉</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>52集全</EM></SPAN> 
+</LI>
+
+<LI><A href="http://tv.sohu.com/s2012/xznh/" target=_blank><img border=0 alt="小资女孩向前冲" src="http://i1.itc.cn/20120129/2b49_b68ffa17_e011_987c_42d5_6afd83347717_1.jpg" width=95 height=70></A><SPAN><STRONG><A href="http://tv.sohu.com/s2012/xznh/" target=_blank>小资女孩向前冲</A></STRONG><BR>
+不打不相识<br>落难王牵手小资女</SPAN><SPAN class="label smPos"><I></I><CODE class=ch></CODE><EM>更新至24集</EM></SPAN> 
+</LI>
+
+<LI><A href="http://tv.sohu.com/s2011/sdxl2/" target=_blank><IMG border=0 alt="神雕侠侣" src="http://i0.itc.cn/20120129/2b49_87870a45_1019_6f16_3b5d_558e999642a4_1.jpg" width=97 height=72></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/sdxl2/" target=_blank>神雕侠侣</A></STRONG><BR>
+撼动马景涛咆哮帝<br>重温最萌小东邪</SPAN><SPAN class="label smPos"><I></I><CODE class=ch></CODE><EM>41集全</EM></SPAN> 
+</LI>
+
+<LI><A href="http://tv.sohu.com/s2011/wknbhan/" target=_blank><img border=0 alt="我可能不会爱你" src="http://i0.itc.cn/20120109/2b49_72bb2281_6c72_85f4_b734_ca23e07c20fe_1.jpg" width=95 height=70></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/wknbhan/" target=_blank>我可能不会爱你</A></STRONG><BR>
+未曾初恋已经初老<br>请赐我一个李大仁</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>13集全</EM></SPAN> 
+</LI>
+
+<LI><A href="http://tv.sohu.com/s2011/scsh/" target=_blank><img border=0 alt="双城生活" src="http://i3.itc.cn/20111202/2b49_a949b49f_e0c3_05a0_3652_1560fc0f8217_1.jpg" width=95 height=70></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/scsh/" target=_blank>双城生活</A></STRONG><BR>
+京沪爱情线<br>米饭馒头斗</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>32集全</EM></SPAN> 
+</LI>
+
+<LI><A href="http://tv.sohu.com/s2011/xiahai/" target=_blank><img border=0 alt="下海" src="http://i2.itc.cn/20111110/2b49_a0056a42_dd36_08d1_7a2e_996cb021aa40_1.jpg" width=95 height=70></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/xiahai/" target=_blank>下海</A></STRONG><BR>
+暴发户崛地雄起<br>范明嘉译激动捞金</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>37集全</EM></SPAN> 
+</LI>
+
+<LI><A href="http://tv.sohu.com/s2011/nrb/" target=_blank><img border=0 alt="男人帮" src="http://i2.itc.cn/20111031/2b49_196f34ce_e0f5_94f8_2522_b50adb348c83_1.jpg" width=95 height=70></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/nrb/" target=_blank>男人帮</A></STRONG><BR>
+孙红雷GAY情卖萌<br>让男人帮你选男人</SPAN><SPAN class="label smPos"><I></I><CODE class=ch></CODE><EM>30集全</EM></SPAN> 
+</LI>
+
+<LI><A href="http://tv.sohu.com/s2011/aqsxl/" target=_blank><img border=0 alt="爱情睡醒了" src="http://i2.itc.cn/20110926/2b49_b9b0b793_7908_5400_2c01_b8c974d589d8_1.jpg" width=95 height=70></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/aqsxl/" target=_blank>爱情睡醒了</A></STRONG><BR>
+夏家三千金升级<br>星座男女四角恋</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>40集全</EM></SPAN> 
+</LI></UL>
+					</div>
+					<div class="line"></div>
+				</div>
+				<div class="grade clear">
+					<H2><SPAN>网友评分</SPAN><A href="http://tv.sohu.com/tvscore/" target=_blank>更多网友推荐&gt;&gt;</A></H2>
+<DIV class=pp>
+  <UL>
+  <LI><A href="http://tv.sohu.com/s2011/bbjx/" target=_blank><IMG src="http://i2.itc.cn/20120105/2b49_62f9af07_346e_cd8f_ae3b_9faca6807b4d_1.jpg" alt="步步惊心" width=95 height=70 border="0"></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/bbjx/" target=_blank>步步惊心</A></STRONG><BR>
+      评分：<EM>9.6</EM>分</SPAN><SPAN>骚扰雍正不坑爹<br>无尽唏嘘皆因情</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>35集全</EM></SPAN>
+    </LI>
+    
+    <LI><A href="http://tv.sohu.com/s2011/xrtx/" target=_blank><IMG src="http://i2.itc.cn/20110926/2b49_509bff56_4597_5ec2_d0f7_2ea34ba4fe68_1.jpg" alt="夏日甜心" width=95 height=70 border="0"></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/xrtx/" target=_blank>夏日甜心</A></STRONG><BR>
+      评分：<EM>9.9</EM>分</SPAN><SPAN>窈窕正妹靠边站<br>肥硕女纸我最爱</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>8集全</EM></SPAN>
+    </LI>
+    
+    <LI><A href="http://tv.sohu.com/s2011/qxjjyy/" target=_blank><IMG src="http://i1.itc.cn/20110822/2b49_1ba91122_4de4_dd18_1e60_9fb5b3046142_2.jpg" alt="潜行狙击" width=95 height=70 border="0"></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/qxjjyy/" target=_blank>潜行狙击</A></STRONG><BR>
+      评分：<em>9.4</em>分</SPAN><SPAN>Laughing哥回归<br>大斗古惑仔</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>30集全</EM></SPAN>
+    </LI>
+    
+    <LI><A href="http://tv.sohu.com/s2011/cslr/" target=_blank><IMG src="http://i1.itc.cn/20110822/2b49_1ba91122_4de4_dd18_1e60_9fb5b3046142_3.jpg" alt="城市猎人" width=95 height=70 border="0"></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/cslr/" target=_blank>城市猎人</A></STRONG><BR>
+      
+      评分：<EM>9.6</EM>分</SPAN><SPAN>地球最火花男<br>韩国也有小超人</SPAN><SPAN class="label smPos"><I></I><CODE class=cc></CODE><EM>20集全</EM></SPAN>
+    </LI>
+  </UL>
+</DIV>
+				</div>
+			</div>
+		</div>
+		
+		<div class="dmFrag same clear" id="dmPop">
+			<div class=title><span><img alt=高清动漫 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt10.gif" width=106 height=22></span><a href="http://so.tv.sohu.com/list_p116_p2_u641e_u7b11_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>搞笑</a>|<a href="http://so.tv.sohu.com/list_p116_p2_u5267_u60c5_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>剧情</a>|<a href="http://so.tv.sohu.com/list_p116_p2_u5192_u9669_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>冒险</a>|<a href="http://so.tv.sohu.com/list_p116_p2_u52a8_u4f5c_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>动作</a>|<a href="http://so.tv.sohu.com/list_p116_p2_u9b54_u5e7b_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>魔幻</a>|<a href="http://so.tv.sohu.com/list_p116_p2_u52b1_u5fd7_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>励志</a>|<a href="http://so.tv.sohu.com/list_p116_p2_u771f_u4eba_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>真人</a>|<a href="http://so.tv.sohu.com/list_p116_p2_u4eb2_u5b50_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>亲子专区</a>|<a href="http://tv.sohu.com/comic/" target=_blank>更多动漫&gt;&gt;</a></div>
+			<div class="l">
+				<div class="picTxt clear">
+					<DIV class=pic><A href="http://tv.sohu.com/s2011/yjdwb/" target=_blank><IMG height=200 alt=妖精的尾巴 src="http://i2.itc.cn/20111227/a56_89fb8e11_153a_9a10_b4a4_38cd4fefc2a9_1.jpg" width=155></A><SPAN class=label><I></I><CODE class=cc></CODE><EM>最强魔导士</EM></SPAN></DIV>
+<H3><A href="http://tv.sohu.com/s2011/yjdwb/" target=_blank>妖精的尾巴</A></H3>
+<P>《海贼王》第二…<A href="http://tv.sohu.com/s2011/yjdwb/" target=_blank>[详细]</A></P>
+				</div>
+				<div class="line"></div>
+				<div class="dmLA clear" id="dmLA">
+					<H2><SPAN>动漫专区</SPAN><A href="http://tv.sohu.com/comic/" target=_blank>更多&gt;&gt;</A></H2>
+<DIV class=blank5></DIV>
+<DIV class="spArea clear">
+<DIV><A href="http://tv.sohu.com/disney/index.shtml" target=_blank><IMG alt=亲子动画专区 src="http://i0.itc.cn/20100906/241_89d6b4ea_159d_4396_b2f1_82820c1b94c8_0.jpg" width=90 height=35></A></DIV>
+<H4><A href="http://tv.sohu.com/disney/index.shtml" target=_blank>亲子动画</A></H4></DIV>
+<DIV class="spArea clear">
+<DIV><A href="http://so.tv.sohu.com/mts?c=16&amp;cat=%B8%E3%D0%A6&amp;area=&amp;language=&amp;year=-1&amp;whole=1&amp;cs=&amp;age=&amp;from=&amp;o=0&amp;wd=&amp;fee=0&amp;tvType=-2&amp;blog=0&amp;cids=" target=_blank><IMG alt=搞笑动画专区 src="http://i3.itc.cn/20100906/241_89d6b4ea_159d_4396_b2f1_82820c1b94c8_1.jpg" width=90 height=35></A></DIV>
+<H4><A href="http://so.tv.sohu.com/mts?c=16&amp;cat=%B8%E3%D0%A6&amp;area=&amp;language=&amp;year=-1&amp;whole=1&amp;cs=&amp;age=&amp;from=&amp;o=0&amp;wd=&amp;fee=0&amp;tvType=-2&amp;blog=0&amp;cids=" target=_blank>搞笑动画</A></H4></DIV>
+<DIV class="spArea clear">
+<DIV><A href="http://so.tv.sohu.com/mts?c=16&amp;cat=%C3%B0%CF%D5&amp;area=&amp;language=&amp;year=-1&amp;whole=1&amp;cs=&amp;age=&amp;from=&amp;o=0&amp;wd=&amp;fee=0&amp;tvType=-2&amp;blog=0&amp;cids=" target=_blank><IMG alt=冒险动画专区 src="http://i0.itc.cn/20100906/241_89d6b4ea_159d_4396_b2f1_82820c1b94c8_2.jpg" width=90 height=35></A></DIV>
+<H4><A href="http://so.tv.sohu.com/mts?c=16&amp;cat=%C3%B0%CF%D5&amp;area=&amp;language=&amp;year=-1&amp;whole=1&amp;cs=&amp;age=&amp;from=&amp;o=0&amp;wd=&amp;fee=0&amp;tvType=-2&amp;blog=0&amp;cids=" target=_blank>冒险动画</A></H4></DIV>
+				</div>
+				<script type="text/javascript">
+				jQuery(function(jq){
+					var _div = jq("#dmLA .spArea");
+					_div.each(function(){
+						jq(this).hover(function(){
+							jq(this).addClass("spHover");
+						},function(){
+							jq(this).removeClass("spHover");
+						});
+					});
+				});
+				</script>
+			</div>
+			<div class="r">
+				<div class="ppList clear">
+					<div class="pp">
+						<UL>
+<LI><A href="http://tv.sohu.com/s2011/mfjsml/" target=_blank><IMG height=130 alt="魔法禁书目录" src="http://i3.itc.cn/20111227/a56_f406e94c_458b_8fc6_8290_ac556915ff37_4.jpg" width=95></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/mfjsml/" target=_blank>魔法禁书目录</A></STRONG><BR>幻想杀手遇到封印少女</SPAN><SPAN class=label><I></I><code class="cc"></code><EM>24集全</EM></SPAN> 
+</LI>
+
+
+<LI><A href="http://tv.sohu.com/s2011/mfjsml2/" target=_blank><IMG height=130 alt="魔法禁书目录2" src="http://i3.itc.cn/20111227/a56_f406e94c_458b_8fc6_8290_ac556915ff37_3.jpg" width=95></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/mfjsml2/" target=_blank>魔法禁书目录2</A></STRONG><BR>超越第一季</SPAN><SPAN class=label><I></I><code class="cc"></code><EM>24集全</EM></SPAN> 
+</LI>
+	   
+	   
+<LI><A href="http://tv.sohu.com/s2011/kxcdcp/" target=_blank><IMG height=130 alt="科学超电磁炮" src="http://i0.itc.cn/20111227/a56_f406e94c_458b_8fc6_8290_ac556915ff37_2.jpg" width=95></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/kxcdcp/" target=_blank>科学超电磁炮</A></STRONG><BR>少女之间的羁绊</SPAN><SPAN class=label><I></I><code class="cc"></code><EM>24集全</EM></SPAN> 
+</LI>
+	   
+	   
+<LI><A href="http://tv.sohu.com/s2011/lbxx/" target=_blank><IMG height=130 alt="蜡笔小新" src="http://i0.itc.cn/20111227/a56_f406e94c_458b_8fc6_8290_ac556915ff37_1.jpg" width=95></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/lbxx/" target=_blank>蜡笔小新</A></STRONG><BR>早熟小学生成长日记</SPAN><SPAN class=label><I></I><code class="ch"></code><EM>160集全</EM></SPAN> 
+</LI></UL>
+					</div>
+					<div class="line"></div>
+				</div>
+				<div class="grade clear">
+					<H2><SPAN>网友评分</SPAN><A href="http://tv.sohu.com/comicscore/" target=_blank>更多网友推荐&gt;&gt;</A></H2>
+<DIV class=pp>
+<UL>
+<LI><A href="http://tv.sohu.com/s2011/dmx/" target=_blank><IMG src="http://i0.itc.cn/20111227/a56_8957a493_221b_4ce5_db3a_fb0dc41ecda9_1.jpg" alt="倒霉熊" width=95 height=130></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/dmx/" target=_blank>倒霉熊</A></STRONG><BR>
+  评分：<EM>9.2</EM>分</SPAN><SPAN>爆笑合家欢动画</SPAN><SPAN class=label><I></I><CODE class=ch></CODE><EM>157集全</EM></SPAN> 
+</LI>
+
+
+<LI><A href="http://tv.sohu.com/s2011/dtezxtbb/" target=_blank><IMG src="http://i1.itc.cn/20110519/8b8_746139bb_242d_6723_6e94_8ed936193933_1.jpg" alt="大头儿子" width=95 height=130></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/dtezxtbb/" target=_blank>大头儿子</A></STRONG><BR>
+  评分：<EM>8.8</EM>分</SPAN><SPAN>陪伴一代80后成长的神奇父子</SPAN><SPAN class=label><I></I><CODE class=ch></CODE><EM>78集全</EM></SPAN> 
+</LI>
+
+
+<LI><A href="http://tv.sohu.com/s2011/hlsnw/" target=_blank><IMG src="http://i2.itc.cn/20110830/a56_0a8f585e_7671_56bc_3af9_82c96ca338b1_1.jpg" alt="火力少年王" width=95 height=130></A><SPAN><STRONG><A href="http://tv.sohu.com/s2011/hlsnw/" target=_blank>火力少年王</A></STRONG><BR>
+  评分：<EM>9.2</EM>分</SPAN><SPAN>铁血教练疯狂折磨运动少年</SPAN><SPAN class=label><I></I><CODE class=ch></CODE><EM>40集全</EM></SPAN> 
+</LI>
+	   
+	   
+<LI><A href="http://tv.sohu.com/s2010/bllxmx/" target=_blank><IMG src="http://i0.itc.cn/20111227/a56_98c389aa_6e92_d5a2_9727_baf31690980e_1.jpg" alt="巴啦啦小魔仙" width=95 height=130></A><SPAN><STRONG><A href="http://tv.sohu.com/s2010/bllxmx/" target=_blank>巴啦啦小魔仙</A></STRONG><BR>
+  评分：<EM>9.3</EM>分</SPAN><SPAN>变身少女之战</SPAN><SPAN class=label><I></I><CODE class=ch></CODE><EM>52集全</EM></SPAN> 
+</LI></UL></DIV>
+				</div>
+			</div>
+		</div>
+		
+		<div class="zyFrag same clear">
+			<DIV class=title><SPAN><IMG alt=高清综艺 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt12.gif" width=108 height=22></SPAN><A href="http://tv.sohu.com/fcjjl/" target=_blank>非常静距离</A>|<A href="http://tv.sohu.com/kxll/" target=_blank>康熙来了</A>|<A href="http://tv.sohu.com/jsfcwr/" target=_blank>非诚勿扰</A>|<A href="http://tv.sohu.com/zlzw/" target=_blank>职来职往</A>|<A href="http://tv.sohu.com/zjhybwz/" target=_blank>婚姻保卫战</A>|<A href="http://tv.sohu.com/xjsj/" target=_blank>喜剧世界</A>|<A href="http://tv.sohu.com/ttxs/" target=_blank>天天向上</A>|<A href="http://tv.sohu.com/zongyi/" target=_blank>更多综艺&gt;&gt;</A></DIV>
+			<div class="l">
+				<div class="picTxt clear">
+					<DIV class=pic sizset="775" sizcache="1"><A href="http://tv.sohu.com/20110918/n319748765.shtml" target=_blank><IMG alt=非诚勿扰 src="http://i0.itc.cn/20110922/af8_3695cac1_0f60_6767_fbd8_b4c9f819900e_1.jpg" width=155 height=200></A></DIV>
+<H3 sizset="776" sizcache="1"><A href="http://tv.sohu.com/20110918/n319748765.shtml" target="_blank《非诚勿扰》20110515搞怪男嘉宾蒙眼亮相</A">
+<H3></H3>
+<P sizset="777" sizcache="1">&nbsp;&nbsp;帅气小伙爱唱戏、写诗，走音版《花木兰》选段笑翻全场，专为“小范冰冰”伍娇而来的他现场送上了一千只亲手叠的纸鹤以表诚心，更是带来了“致伍娇的一封信”感动全场，女主角会作何反应呢？</P></A></H3>
+<P sizset="777" sizcache="1"><A href="http://tv.sohu.com/20110918/n319748765.shtml" target=_blank>[播放] </A></P>
+<P sizset="778" sizcache="1">栏目：<A href="http://tv.sohu.com/jsfcwr/" target=_blank>非诚勿扰</A></P>
+<P></P>
+<P>往期：</P><A href="http://tv.sohu.com/20110917/n319691480.shtml" target=_blank>IT男大胆预测牵手成功率</A> 
+<P sizset="780" sizcache="1"></P>
+<P sizset="781" sizcache="1"></P>
+				</div>
+			</div>
+			<div class="r">
+				<div class="ppList clear">
+					<div class="pp">
+						<UL sizcache="1" sizset="782">
+<LI sizcache="1" sizset="782"><A href="http://tv.sohu.com/20111106/n324703423.shtml" target=_blank><IMG alt="孟非遭女嘉宾求婚 现史上最帅老男孩" src="http://i0.itc.cn/20111107/af8_7c6f21d1_d80a_0e65_a4e4_5def5062a8d7_1.jpg" width=95 height=70></A><SPAN sizcache="1" sizset="789"><A href="http://tv.sohu.com/20111106/n324703423.shtml" target=_blank>孟非遭女嘉宾求婚 现史上最帅老男孩</A><BR>往期：<A href="http://tv.sohu.com/jsfcwr/" target=_blank>非诚勿扰</A></SPAN><SPAN class="label smPos"><CODE class=ch></CODE></SPAN> </LI>
+<LI sizcache="1" sizset="785"><A href="http://tv.sohu.com/20111107/n324757491.shtml" target=_blank><IMG alt="文章怒斥被离婚传闻 曝16岁青涩照" src="http://i2.itc.cn/20111107/af8_ae434529_6ae0_950e_25e9_14647303d45f_1.jpg" width=95 height=70></A><SPAN sizcache="1" sizset="786"><A href="http://tv.sohu.com/20111107/n324757491.shtml" target=_blank>文章怒斥被离婚传闻 曝16岁青涩照</A><BR>往期：<A href="http://tv.sohu.com/btvcjcjfw/" target=_blank>超级访问</A></SPAN><SPAN class="label smPos"><CODE class=ch></CODE></SPAN> </LI>
+<LI sizcache="1" sizset="788"><A href="http://tv.sohu.com/20111106/n324658687.shtml" target=_blank><IMG alt=高曙光自曝与江珊离婚往事 src="http://i3.itc.cn/20111107/af8_021e00c4_cda3_ee01_0681_7a19003c004d_1.jpg" width=95 height=70></A><SPAN sizcache="1" sizset="783"><A href="http://tv.sohu.com/20111106/n324658687.shtml" target=_blank>高曙光自曝与江珊离婚往事</A><BR>往期：<A href="http://tv.sohu.com/fcjjl/" target=_blank>非常静距离</A></SPAN><SPAN class="label smPos"><CODE class=ch></CODE></SPAN> </LI>
+<LI sizcache="1" sizset="791"><A href="http://tv.sohu.com/20111107/n324754526.shtml" target=_blank><IMG alt=许茹芸常夜宿周迅前男友家 src="http://i3.itc.cn/20111107/af8_fd8901b0_4abd_bba0_a9c4_928654379b08_1.jpg" width=95 height=70></A><SPAN sizcache="1" sizset="792"><A href="http://tv.sohu.com/20111107/n324754526.shtml" target=_blank>许茹芸常夜宿周迅前男友家</A><BR>往期：<A href="http://tv.sohu.com/ahscndgs/" target=_blank>说出你的故事</A></SPAN><SPAN class="label smPos"><CODE class=ch></CODE></SPAN> </LI></UL>
+					</div>
+					<div class="line"></div>
+				</div>
+				<div class="grade clear">
+					<H2><SPAN>综艺红人榜</SPAN><A href="http://so.tv.sohu.com/list_p17_p2_u8bbf_u8c08_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>更多&gt;&gt;</A></H2>
+<DIV class=pp>
+<UL>
+<LI><A href="http://tv.sohu.com/20110922/n320169021.shtml" target=_blank><IMG alt=陶晶莹自曝与老公私密事 src="http://i1.itc.cn/20110922/af8_4153445b_a7aa_c75e_2216_7edc66d4dca6_1.jpg" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20110922/n320169021.shtml" target=_blank>陶晶莹自曝与老公私密事</A><BR>(156464人顶)</SPAN><SPAN class="label smPos"><CODE class=ch></CODE></SPAN></LI>
+<LI><A href="http://tv.sohu.com/20110920/n319871944.shtml" target=_blank><IMG alt=奥运冠军杨威爱子首曝光 src="http://i3.itc.cn/20110922/af8_e2279f2b_6ee5_17ff_cd62_81f5b37a0f2c_1.jpg" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20110920/n319871944.shtml" target=_blank>奥运冠军杨威爱子首曝光 </A><BR>(278641人顶)</SPAN><SPAN class="label smPos"><CODE class=ch></CODE></SPAN></LI>
+<LI><A href="http://tv.sohu.com/20110918/n319698801.shtml" target=_blank><IMG alt=范冰冰前男友王学兵携娇妻受访 src="http://i3.itc.cn/20110922/af8_3b121423_9faa_6074_7e92_f6a04db6a93b_1.jpg" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20110918/n319698801.shtml" target=_blank>范冰冰前男友王学兵携娇妻受访</A><BR>(338641人顶)</SPAN><SPAN class="label smPos"><CODE class=ch></CODE></SPAN></LI>
+<LI><A href="http://tv.sohu.com/20110917/n319629396.shtml" target=_blank><IMG alt="泰国马里奥首上节目 大跳可爱舞蹈" src="http://i2.itc.cn/20110922/af8_c012925a_3a8c_b4fa_b748_235ed9eec3d3_1.jpg" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20110917/n319629396.shtml" target=_blank>泰国马里奥首上节目 大跳可爱舞蹈</A><BR>(113641人顶)</SPAN><SPAN class="label smPos"><CODE class=ch></CODE></SPAN></LI></UL></DIV>
+				</div>
+				<div class="list12 clear">
+					<h2><span>王牌综艺</span></h2>
+<ul>
+<li><a href="http://tv.sohu.com/blty/" target=_blank>百里挑一</a></li>
+
+<li><a href="http://tv.sohu.com/xfmf/" target=_blank>幸福魔方</a></li>
+
+<li><a href="http://tv.sohu.com/ggbbm/" target=_blank>国光帮帮忙</a></li>
+
+<li><a href="http://tv.sohu.com/wpdjd/" target=_blank>王牌大贱谍</a></li>
+
+<li><a href="http://tv.sohu.com/mlqjr/" target=_blank>美丽俏佳人</a></li>
+
+<li><a href="http://tv.sohu.com/glxqt/" target=_blank>给力星期天</a></li>
+
+<li><a href="http://tv.sohu.com/btvcjcjfw/" target=_blank>超级访问</a></li>
+
+<li><a href="http://tv.sohu.com/mlthg/" target=_blank>麻辣天后宫</a></li>
+
+<li><a href="http://tv.sohu.com/bskly/" target=_blank>本山快乐营</a></li>
+
+<li><a href="http://tv.sohu.com/kxll/" target=_blank>康熙来了</a></li>
+
+<li><a href="http://tv.sohu.com/zhdr/" target=_blank>中华达人</a></li>
+
+<li><a href="http://tv.sohu.com/zjwajgc/index.shtml" target=_blank>我爱记歌词</a></li>
+</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div class="docFrag same clear" id="docPop">
+			<DIV class=title twffan="done"><SPAN twffan="done"><IMG alt=高清纪录片 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt11.gif" width=126 height=22 twffan="done"></SPAN><A href="http://so.tv.sohu.com/list_p18_p2_u5386_u53f2_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>历史</A>|<A href="http://so.tv.sohu.com/list_p18_p2_u519b_u4e8b_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>军事</A>|<A href="http://so.tv.sohu.com/list_p18_p2_u4eba_u7269_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>人物</A>|<A href="http://so.tv.sohu.com/list_p18_p2_u793e_u4f1a_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>社会</A>|<A href="http://so.tv.sohu.com/list_p18_p2_u81ea_u7136_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>自然</A>|<A href="http://so.tv.sohu.com/list_p18_p2_u8d22_u7ecf_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>财经</A>|<A href="http://so.tv.sohu.com/list_p18_p2_u5e55_u540e_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>幕后</A>|<A href="http://tv.sohu.com/real/" target=_blank>更多纪录片&gt;&gt;</A></DIV>
+			<div class="l">
+				<div class="picTxt clear">
+					<DIV class=pic><A href="http://tv.sohu.com/s2011/sohushipindashiye/" target=_blank><IMG alt="搜狐大视野 " src="http://i0.itc.cn/20111010/2b53_2edf4c13_823a_3e13_e719_3cc00c2cc9a5_1.gif" width=155 height=200></A><SPAN class=label><I></I><CODE class=ch></CODE><EM>搜狐大视野</EM></SPAN></DIV>
+<H3><A href="http://tv.sohu.com/s2011/sohushipindashiye/" target=_blank><FONT style="FONT-WEIGHT: bold">四人帮密谋夺权计划曝光：江青自比武则天欲当党主席</FONT></A></H3>
+<P>　“按既定方针办”是真的源自毛泽东之口，还是“四人帮”为了某种目的编造…<A href="http://tv.sohu.com/s2011/sohushipindashiye/" target=_blank>[详细]</A></P>
+<P>类型：<A href="http://so.tv.sohu.com/list_p18_p2_u4eba_u7269_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>人物</A>/<A title="" href="http://so.tv.sohu.com/list_p18_p2_u793e_u4f1a_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>社会</A></P>
+				</div>
+			</div>
+			<div class="r">
+				<div class="ppList clear">
+					<div class="pp">
+						<UL>
+<LI><A href="http://tv.sohu.com/20110915/n319407000.shtml" target=_blank><IMG alt=毛泽东的最后风雨路 src="http://i2.itc.cn/20110927/2b53_e7f977fa_f78b_4039_6afc_0ee087b23ff8_1.gif" width=95 height=70> </A><SPAN><A href="http://tv.sohu.com/20110915/n319407000.shtml" target=_blank>遗言之争：毛泽东继承人纷争内幕</A></SPAN><SPAN class="label smPos"><I></I><EM>伟人离世</EM><CODE class=ch></CODE></SPAN> 
+<DIV style="DISPLAY: none" class=popInfo rel="doc">
+<DIV class=popBG></DIV>
+<DIV class=popLay>
+<H4><STRONG><A href="http://tv.sohu.com/20110915/n319407000.shtml" target=_blank>毛泽东的最后风雨路</A></STRONG>(更新至集)</H4>
+<DL>
+<DT class=vidNum rel="334024"></DT>
+<DD class=vrsId rel="1003321"></DD></DL>
+<DL>
+<DT>来源：<A href="http://so.tv.sohu.com/mts?wd=%D1%EB%CA%D3%C0%EE%D3%A5%B9%A4%D7%F7%CA%D2" target=_blank>搜狐视频大视野</A></DT>
+<DD>类型：<A href="javascript:searchKey('人物',7,'doc')">人物</A>/<A href="javascript:searchKey('历史',7,'doc')">历史</A></DD></DL>
+<P>虽然那个时候的毛泽东进入垂暮之年，神智已经恍惚，但是他对整个中国政局的影响却一点没有松懈...<A href="http://tv.sohu.com/20110603/n309291316.shtml" target=_blank>[详细]</A></P></DIV></DIV></LI>
+<LI><A href="http://tv.sohu.com/20110902/n318190314.shtml" target=_blank><IMG alt=搜狐视频大视野 src="http://i3.itc.cn/20110907/2b53_18f7a7e1_be00_337f_241f_55550f8405d0_1.gif" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20110902/n318190314.shtml" target=_blank>锄奸记：双面无间道 潜伏十八年</A></SPAN><SPAN class="label &#13;&#10;&#13;&#10;smPos"><I></I><EM>国共无间</EM><CODE class=ch></CODE></SPAN> 
+<DIV style="DISPLAY: none" class=popInfo rel="doc">
+<DIV class=popBG></DIV>
+<DIV class=popLay>
+<H4><STRONG><A href="http://tv.sohu.com/20110603/n309291316.shtml" target=_blank>喋血会战</A></STRONG>(更新至集)</H4>
+<DL>
+<DT class=vidNum rel="334024"></DT>
+<DD class=vrsId rel="1003321"></DD></DL>
+<DL>
+<DT>来源：<A href="http://so.tv.sohu.com/mts?wd=%D1%EB%CA%D3%C0%EE%D3%A5%B9%A4%D7%F7%CA%D2" target=_blank>央视李鹰工作室</A></DT>
+<DD>类型：<A href="javascript:searchKey('人物',7,'doc')">人物</A>/<A href="javascript:searchKey('历史',7,'doc')">历史</A></DD></DL>
+<P>1944年初，日军拟订“一号作战”计划以后，4个月便攻陷了陇海路上的重镇郑州。5月1日许昌易手...<A href="http://tv.sohu.com/20110603/n309291316.shtml" target=_blank>[详细]</A></P></DIV></DIV></LI>
+<LI><A href="http://tv.sohu.com/20110914/n319355796.shtml" target=_blank><IMG alt=赌场秘籍 src="http://i2.itc.cn/20110927/2b53_3b8c9231_56aa_9f1a_d82b_4a0f8d355862_1.gif" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20110914/n319355796.shtml" target=_blank>千王之王为你解密赌场扑克千术秘笈</A></SPAN><SPAN class="label &#13;&#10;&#13;&#10;smPos"><I></I><EM>赌城秘籍</EM><CODE class=ch></CODE></SPAN> 
+<DIV style="DISPLAY: none" class=popInfo rel="doc">
+<DIV class=popBG></DIV>
+<DIV class=popLay>
+<H4><STRONG><A href="http://tv.sohu.com/20110531/n308980987.shtml" target=_blank>晋察冀抗日传奇</A></STRONG>(更新至集)</H4>
+<DL>
+<DT class=vidNum rel="87723"></DT>
+<DD class=vrsId rel="4173"></DD></DL>
+<DL>
+<DT>来源：<A href="http://so.tv.sohu.com/mts?wd=%BC%D1%D4%CF%C9%E7" target=_blank>搜狐视频大视野</A></DT>
+<DD>类型：<A href="javascript:searchKey('人物',7,'doc')">人物</A>/<A href="javascript:searchKey('历史',7,'doc')">历史</A></DD></DL>
+<P>电视剧《永不磨灭的番号》，“李大本事”带领一群血性男儿闯入人们视野，小人物书写的生...<A href="http://tv.sohu.com/20110531/n308980987.shtml" target=_blank>[详细]</A></P></DIV></DIV></LI>
+<LI><A href="http://tv.sohu.com/20090803/n265676113.shtml?ibox=2" target=_blank><IMG alt=毒雾夜袭 src="http://i2.itc.cn/20110926/2b53_18be9440_359f_3fe6_991a_b80c7a287fb1_4.gif" width=95 height=70 烈焰红唇></A><SPAN><A href="http://tv.sohu.com/20090803/n265676113.shtml?ibox=2" target=_blank>人类灾难之火山爆发后毒雾夜袭</A></SPAN><SPAN class="label smPos"><I></I><EM>恐怖灾难</EM><CODE class=ch></CODE></SPAN> 
+<DIV style="DISPLAY: none" class=popInfo rel="doc">
+<DIV class=popBG></DIV>
+<DIV class=popLay>
+<H4><STRONG><A href="http://tv.sohu.com/20110531/n308980987.shtml" target=_blank>晋察冀抗日传奇</A></STRONG>(更新至集)</H4>
+<DL>
+<DT class=vidNum rel="87723"></DT>
+<DD class=vrsId rel="4173"></DD></DL>
+<DL>
+<DT>来源：<A href="http://so.tv.sohu.com/mts?wd=%BC%D1%D4%CF%C9%E7" target=_blank>搜狐视频大视野</A></DT>
+<DD>类型：<A href="javascript:searchKey('人物',7,'doc')">人物</A>/<A href="javascript:searchKey('历史',7,'doc')">历史</A></DD></DL>
+<P>电视剧《永不磨灭的番号》，“李大本事”带领一群血性男儿闯入人们视野，小人物书写的生...<A href="http://tv.sohu.com/20110531/n308980987.shtml" target=_blank>[详细]</A></P></DIV></DIV></LI></UL>
+					</div>
+					<div class="line"></div>
+				</div>
+				<div class="grade clear">
+					<H2><SPAN>网友评分</SPAN><A href="http://tv.sohu.com/real/" target=_blank>更多网友推荐&gt;&gt;</A></H2>
+<DIV class=pp>
+<UL>
+<LI><A href="http://tv.sohu.com/20100831/n274596870.shtml" target=_blank><IMG alt=三国暗历史 src="http://i1.itc.cn/20110802/9e3_bb3202fb_8c6d_62b8_54cb_4b2ff1bd0a62_2.gif" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20100831/n274596870.shtml" target=_blank>三国暗历史：赤壁之战竟是弥天大谎</A><BR>评分：<EM>9.4</EM>分<BR>(64780人评)</SPAN><SPAN class="label smPos"><I></I><EM>赤壁之谜</EM><CODE class=ch></CODE></SPAN> 
+<DIV style="DISPLAY: none" class=popInfo rel="doc">
+<DIV class=popBG></DIV>
+<DIV class=popLay>
+<h4><strong><a target="_blank" href="http://tv.sohu.com/20100831/n274596870.shtml">经典传奇：探索全世界重大历史事件的背后机密</a></strong></h4>
+       <dl><dt class="vidNum" rel="146338"></dt><dd class="vrsId" rel="3560"></dd></dl>
+       <dl>
+      	 <dt>来源：<a target="_blank" href="http://so.tv.sohu.com/mts?wd=%BD%AD%CE%F7%CE%C0%CA%D3">江西卫视</a></dt>
+      	 <dd>类型：<a href="javascript:searchKey('历史',7,'doc')">历史</a>/<a href="javascript:searchKey('幕后',7,'doc')">幕后</a></dd>
+       </dl>
+       
+       <p>唐代的杜牧说赤壁战场是湖北黄州城外的沙滩；宋代的苏轼认为在武昌之西、夏口之东；《三国演义》说在...<a target="_blank" href="http://tv.sohu.com/20100831/n274596870.shtml">[详细]</a></p></DIV></DIV></LI>
+<LI><A href="http://tv.sohu.com/20100524/n272314700.shtml" target=_blank><IMG alt=中国远征军 src="http://i3.itc.cn/20110722/9e3_4925a645_9454_5650_9d4b_6820e39de269_3.jpg" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20100524/n272314700.shtml" target=_blank>尊严的代价：中国远征军牺牲20万人</A><BR>评分：<EM>8.5</EM>分<BR>(2365730人评)</SPAN><SPAN class="label smPos"><I></I><EM>血战缅甸</EM><CODE class=ch></CODE></SPAN> 
+<DIV style="DISPLAY: none" class=popInfo rel="doc">
+<DIV class=popBG></DIV>
+<DIV class=popLay>
+<H4><STRONG><A href="http://tv.sohu.com/s2010/dasjjspd/" target=_blank>档案（上视纪实）：解密档案中的秘密</A></STRONG></H4>
+<DL>
+<DT class=vidNum rel="241022"></DT>
+<DD class=vrsId rel="1000028"></DD></DL>
+<DL>
+<DT>来源：<A href="http://so.tv.sohu.com/mts?&amp;c=8&amp;wd=%u4E0A%u6D77%u7535%u89C6%u53F0%u7EAA%u5B9E%u9891%u9053" target=_blank>上视纪实频道</A></DT>
+<DD>类型：<A href="http://so.tv.sohu.com/mts?c=8&amp;cat=%C8%CB%CE%EF" target=_blank>人物</A>/<A href="http://so.tv.sohu.com/mts?c=8&amp;cat=%C0%FA%CA%B7" target=_blank>历史</A></DD></DL>
+<P>1950年2月6日，刚刚解放的上海滩突遭敌机密集的轰炸，原本平静的上海上空突然响起一阵急促的防空警报…<A href="http://tv.sohu.com/s2010/dasjjspd/" target=_blank>[详细]</A></P></DIV></DIV></LI>
+<LI><A href="http://tv.sohu.com/20100308/n270664073.shtml" target=_blank><IMG alt=解密人类孕育 src="http://i2.itc.cn/20110722/9e3_4925a645_9454_5650_9d4b_6820e39de269_2.jpg" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20100308/n270664073.shtml" target=_blank>人体漫游：揭示人类生命孕育的奇迹</A><BR>评分：<EM>8.5</EM>分<BR>(5472879人评)</SPAN><SPAN class="label smPos"><I></I><EM>生命起源</EM><CODE class=ch></CODE></SPAN> 
+<DIV style="DISPLAY: none" class=popInfo rel="doc">
+<DIV class=popBG></DIV>
+<DIV class=popLay>
+<H4><STRONG><A href="http://tv.sohu.com/s2010/jdcq/" target=_blank>经典传奇：探索事件背后机密</A></STRONG></H4>
+<DL>
+<DT class=vidNum rel="180450"></DT>
+<DD class=vrsId rel="3560"></DD></DL>
+<DL>
+<DT>来源：<A href="http://so.tv.sohu.com/mts?c=8&amp;wd=%25u6C5F%25u897F%25u536B%25u89C6" target=_blank>江西卫视</A></DT>
+<DD>类型：<A href="http://so.tv.sohu.com/mts?c=8&amp;cat=%25u4EBA%25u7269" target=_blank>人物</A>/<A href="http://so.tv.sohu.com/mts?c=8&amp;cat=%CE%C4%BB%AF" target=_blank>文化</A></DD>
+<DD></DD></DL>
+<P>《经典传奇》借助《传奇故事》的经验，同时又是一档大型化的历史人文故事节目…<A href="http://tv.sohu.com/s2010/jdcq/" target=_blank>[详细]</A></P></DIV></DIV></LI>
+<LI><A href="http://tv.sohu.com/20110613/n309988725.shtml" target=_blank><IMG alt=生存自救 src="http://i2.itc.cn/20110804/9e3_15b4b216_3e80_0ae5_57c8_d3e7ea1fba5e_1.gif" width=95 height=70></A><SPAN><A href="http://tv.sohu.com/20110613/n309988725.shtml" target=_blank>动车出轨怎么办？前特种兵教你逃生</A><BR>评分：<EM>9.3</EM>分<BR>(11458人评)</SPAN><SPAN class="label smPos"><I></I><EM>逃出生天</EM><CODE class=ch></CODE></SPAN> 
+<DIV style="DISPLAY: none" class=popInfo rel="doc">
+<DIV class=popBG></DIV>
+<DIV class=popLay>
+ <h4><strong><a target="_blank" href="http://tv.sohu.com/20110613/n309988673.shtml">生存自救</a></strong>(更新至集)</h4>
+       <dl><dt class="vidNum" rel="337072"></dt><dd class="vrsId" rel="1003381"></dd></dl>
+       <dl>
+      	 <dt>来源：<a target="_blank" href="http://so.tv.sohu.com/mts?wd=Discovery+Channel+%C3%C0%B9%FA%CC%BD%CB%F7%C6%B5%B5%C0">Discovery Channel 美国探索频道</a></dt>
+      	 <dd>类型：<a href="javascript:searchKey('自然',7,'doc')">自然</a>/<a href="javascript:searchKey('社会',7,'doc')">社会</a></dd>
+       </dl>
+       
+       <p>自己曾经想象过最危险的情景吗？如果发生在自己身上，知道该如何应对吗？贝尔·格里尔斯用特别的生存...<a target="_blank" href="http://tv.sohu.com/20110613/n309988673.shtml">[详细]</a></p></DIV></DIV></LI></UL></DIV>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	<div class="right">
+		<div class="blockRA clear">
+			<div class="menuB clear">
+				<div class="menuB clear">
+				<ul>
+					<li id="a_1_1" onmouseover="showCont(1,1,2)" class="libg">近期更新</li>
+					<li id="a_1_2" onmouseover="showCont(1,2,2)">即将播出</li>
+				</ul>
+			</div>
+			</div>
+			<div class="show" id="c_1_1">
+				<div class="list12">
+					<UL sizcache="1" sizset="440">
+<LI>02.08《<A href="http://tv.sohu.com/s2012/holmes/" target=_blank>福尔摩斯探案全集</A>》完美侦探   
+<LI>02.08《<A href="http://tv.sohu.com/s2010/xjdh/" target=_blank>小姨多鹤</A>》孙俪姜武跨国畸恋
+<LI>02.04《<A href="http://tv.sohu.com/s2011/shiyanjinsheng/" target=_blank>誓言今生</A>》郭晓冬重燃谍战热
+<LI>01.31《<A href="http://tv.sohu.com/s2012/xzda/" target=_blank>旋转的爱</A>》俊男靓女甜蜜虐恋
+<LI>01.30《<A href="http://tv.sohu.com/s2011/zjzxy/" target=_blank>西游记</A>》张纪中颠覆童年经典
+<LI>01.30《<A href="http://tv.sohu.com/s2012/dsjruyi/" target=_blank>如意</A>》杨幂刘恺威荧幕定情作
+<LI>01.20《<A href="http://tv.sohu.com/20120119/n332686825.shtml" target=_blank>入殓师</A>》为离者低语为行者抚琴 
+</LI></UL>
+				</div>
+			</div>
+			<div class="hidden" id="c_1_2">
+				<div class="list12">
+					<UL sizcache="1" sizset="445">
+<LI>即 将《<A href="http://tv.sohu.com/20110810/n315973064.shtml
+" target=_blank>夺命金</A>》股灾引发的人性拷问
+<LI>即 将《<A href="http://tv.sohu.com/20111222/n329868685.shtml
+" target=_blank>那些年</A>》爱情错过集体追忆
+<LI>即将《<A href="http://tv.sohu.com/s2011/lmfj/" target=_blank>龙门飞甲</A>》陈坤惊艳新一代妖孽
+<LI>即 将《<A href="http://tv.sohu.com/20111207/n328249019.shtml" target=_blank>翻滚吧阿信</A>》热血体操励志黑帮 
+<LI>即 将《<A href="http://tv.sohu.com/20111226/n330236530.shtml" target=_blank>逆战</A>》周杰伦谢霆锋打满全场</LI></UL>
+				</div>
+			</div>
+		</div>
+		
+		<div class=title><span><a href="http://tv.sohu.com/hothdtv/" target="_blank"><img alt=观看排行榜 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt08.gif" width=89 height=20></a></span><a href="http://tv.sohu.com/hothdtv/" target=_blank>全部排行榜&gt;&gt;</a></div>
+		
+		<div class="tvRank clear">
+			<div class="menuA clear">
+				<div class="tt">电视剧排行榜</div>
+				<ul>
+					<li id="td_2_1" onclick="showMenu(2,1,3);changeDada('tv','day','tv_data')" class="libg">每日</li>
+					<li id="td_2_2" onclick="showMenu(2,2,3);changeDada('tv','week','tv_data')">每周</li>
+					<li id="td_2_3" onclick="showMenu(2,3,3);changeDada('tv','total','tv_data')" class="nobg">全部</li>
+				</ul>
+			</div>
+			<div class="snList clear">
+				<ul id="tv_data"></ul>
+			</div>
+			<script type="text/javascript">
+			var tv_link = function (){lookRank("phb_tv_day_10","#tv_data")}
+			var tv_data = $.getScript(hotjsonpath + "phb_tv_day_10.js",tv_link);
+			</script>
+			<div class="more"><a href="http://tv.sohu.com/hotteleplay/" target="_blank">TOP50 &gt;&gt;</a></div>
+		</div>
+		
+		<div class="mvRank clear">
+			<div class="menuA clear">
+				<div class="tt">电影排行榜</div>
+				<ul>
+					<li id="td_1_1" onclick="showMenu(1,1,3);changeDada('mv','day','mv_data')" class="libg">每日</li>
+					<li id="td_1_2" onclick="showMenu(1,2,3);changeDada('mv','week','mv_data')">每周</li>
+					<li id="td_1_3" onclick="showMenu(1,3,3);changeDada('mv','total','mv_data')" class="nobg">全部</li>
+				</ul>
+			</div>
+			<div class="snList clear">
+				<ul id="mv_data"></ul>
+			</div>
+			<script type="text/javascript">
+			var mv_link = function (){lookRank("phb_mv_day_10","#mv_data")}
+			var mv_data = $.getScript(hotjsonpath + "phb_mv_day_10.js",mv_link);
+			</script>
+			<div class="more"><a href="http://tv.sohu.com/hotmovie/" target="_blank">TOP50 &gt;&gt;</a></div>
+		</div>
+		
+		<div class="dmRank clear">
+			<div class="menuA clear">
+				<div class="tt">动漫排行榜</div>
+				<ul>
+					<li id="td_3_1" onclick="showMenu(3,1,3);changeDada('tv_dhp_all','day','dhp_data')" class="libg">每日</li>
+					<li id="td_3_2" onclick="showMenu(3,2,3);changeDada('tv_dhp_all','week','dhp_data')">每周</li>
+					<li id="td_3_3" onclick="showMenu(3,3,3);changeDada('tv_dhp_all','total','dhp_data')" class="nobg">全部</li>
+				</ul>
+			</div>
+			<div class="snList clear">
+				<ul id="dhp_data"></ul>
+			</div>
+			<script type="text/javascript">
+			var dhp_link = function (){lookRank("phb_tv_dhp_all_day_10","#dhp_data")}
+			var dhp_data = $.getScript(hotjsonpath + "phb_tv_dhp_all_day_10.js",dhp_link);
+			</script>
+			<div class="more"><a href="http://tv.sohu.com/hotcomic/" target="_blank">TOP50 &gt;&gt;</a></div>
+		</div>
+		
+		<div class="docRank clear">
+			<div class="menuA clear">
+				<div class="tt">纪录片排行榜</div>
+				<ul>
+					<li id="td_5_1" onclick="showMenu(5,1,3);changeDada('doc','day','doc_data')" class="libg">每日</li>
+					<li id="td_5_2" onclick="showMenu(5,2,3);changeDada('doc','week','doc_data')">每周</li>
+					<li id="td_5_3" onclick="showMenu(5,3,3);changeDada('doc','total','doc_data')" class="nobg">全部</li>
+				</ul>
+			</div>
+			<div class="snList clear">
+				<ul id="doc_data"></ul>
+			</div>
+			<script type="text/javascript">
+			var doc_link = function (){lookRank("phb_doc_day_10","#doc_data")}
+			var doc_data = $.getScript(hotjsonpath + "phb_doc_day_10.js",doc_link);
+			</script>
+			<div class="more"><a href="http://tv.sohu.com/hotreal/" target="_blank">TOP50 &gt;&gt;</a></div>
+		</div>
+		
+		<div class="smRank clear">
+			<div class="menuA clear">
+				<div class="tt">综艺排行榜</div>
+				<ul>
+					<li id="td_10_1" onclick="showMenu(10,1,3);changeDada('phb_variety_day_10','','zy_data')" class="libg">每日</li>
+					<li id="td_10_2" onclick="showMenu(10,2,3);changeDada('phb_variety_week_10','','zy_data')">每周</li>
+					<li id="td_10_3" onclick="showMenu(10,3,3);changeDada('phb_variety_total_10','','zy_data')" class="nobg">全部</li>
+				</ul>
+			</div>
+			<div class="snList clear">
+				<ul id="zy_data"></ul>
+			</div>
+			<script type="text/javascript">
+			var zy_link = function (){lookRank("phb_variety_day_10","#zy_data")}
+			var zy_data = $.getScript("http://v.tv.sohu.com/frag/vrs_inc/phb_variety_day_10.js",zy_link);
+			</script>
+			<div class="more"><a href="http://v.tv.sohu.com/hotzy/" target="_blank">TOP50 &gt;&gt;</a></div>
+		</div>
+		
+        <div class="suRank clear">
+			
+		</div>
+		
+        <div class="blank50"></div>
+		<div class="title"><img src="http://tv.sohu.com/upload/100902hdtvcss/images/tt13.gif" width="230" height="22" alt="分类搜索" /></div>
+		
+		<div class="mvCls clear">
+			<h2><span>电影分类</span></h2>
+<div class="list clear">
+<h3>按地区|</h3>
+<ul>
+<li><a href="javascript:searchKey('华语',12,'movie')">华语</a></li>
+
+<li><a href="javascript:searchKey('好莱坞',12,'movie')">好莱坞</a></li>
+
+<li><a href="javascript:searchKey('欧洲',12,'movie')">欧洲</a></li>
+
+<li><a href="javascript:searchKey('韩国',12,'movie')">韩国</a></li>
+
+<li><a href="javascript:searchKey('日本',12,'movie')">日本</a></li>
+
+
+<li><a href="javascript:searchKey('其他',12,'movie')">其他</a></li>
+</ul>
+</div>
+<div class="list clear">
+<h3>按类型|</h3>
+<ul>
+<li><a href="javascript:searchKey('爱情片',7,'movie')">爱情片</a></li>
+
+<li><a href="javascript:searchKey('动作片',7,'movie')">动作片</a></li>
+
+<li><a href="javascript:searchKey('喜剧片',7,'movie')">喜剧片</a></li>
+
+<li><a href="javascript:searchKey('科幻片',7,'movie')">科幻片</a></li>
+
+<li><a href="javascript:searchKey('恐怖片',7,'movie')">恐怖片</a></li>
+
+<li><a href="javascript:searchKey('风月片',7,'movie')">风月片</a></li>
+
+<li><a href="javascript:searchKey('剧情片',7,'movie')">剧情片</a></li>
+
+<li><a href="javascript:searchKey('音乐片',7,'movie')">音乐片</a></li>
+
+<li><a href="javascript:searchKey('战争片',7,'movie')">战争片</a></li>
+</ul>
+</div>
+		</div>
+		<div class="line"></div>
+		
+		<div class="tvCls clear">
+			<h2><span>电视剧分类</span></h2>
+<div class="list clear">
+<h3>按地区|</h3>
+<ul>
+<li><a href="javascript:searchKey('内地',4,'tv')">内地</a></li>
+
+<li><a href="javascript:searchKey('港剧',4,'tv')">港剧</a></li>
+
+<li><a href="javascript:searchKey('台剧',4,'tv')">台剧</a></li>
+
+<li><a href="javascript:searchKey('韩剧',4,'tv')">韩剧</a></li>
+
+<li><a href="javascript:searchKey('美剧',4,'tv')">美剧</a></li>
+
+<li><a href="javascript:searchKey('其他',4,'tv')">其他</a></li>
+</ul>
+</div>
+<div class="list clear">
+<h3>按类型|</h3>
+<ul>
+<li><a href="javascript:searchKey('偶像剧',7,'tv')">偶像剧</a></li>
+
+<li><a href="javascript:searchKey('家庭伦理剧',7,'tv')">伦理剧</a></li>
+
+<li><a href="javascript:searchKey('历史剧',7,'tv')">历史剧</a></li>
+
+<li><a href="javascript:searchKey('年代剧',7,'tv')">年代剧</a></li>
+
+<li><a href="javascript:searchKey('言情剧',7,'tv')">言情剧</a></li>
+
+<li><a href="javascript:searchKey('武侠剧',7,'tv')">武侠剧</a></li>
+
+<li><a href="javascript:searchKey('古装剧',7,'tv')">古装剧</a></li>
+
+<li><a href="javascript:searchKey('都市剧',7,'tv')">都市剧</a></li>
+
+<li><a href="javascript:searchKey('农村剧',7,'tv')">农村剧</a></li>
+
+<li><a href="javascript:searchKey('军事战争剧',7,'tv')">战争剧</a></li>
+
+<li><a href="javascript:searchKey('悬疑剧',7,'tv')">悬疑剧</a></li>
+
+<li><a href="javascript:searchKey('谍战剧',7,'tv')">谍战剧</a></li>
+
+<li><a href="javascript:searchKey('奇幻科幻剧',7,'tv')">科幻剧</a></li>
+
+<li><a href="javascript:searchKey('动作剧',7,'tv')">动作剧</a></li>
+
+<li><a href="javascript:searchKey('动画片',4,'tv')">动画片</a></li>
+</ul>
+</div>
+		</div>
+		<div class="line"></div>
+		
+		<div class="dmCls clear">
+			<h2><span>动漫分类</span></h2>
+<div class="list c3 clear">
+<h3>按篇幅|</h3>
+<ul>
+<li><a href="javascript:searchKey('电影',10,'comic')">动画电影</a></li>
+
+<li><a href="javascript:searchKey('连续剧',10,'comic')">动画剧集</a></li>
+
+<li><a href="javascript:searchKey('预告片',10,'comic')">动画预告片</a></li>
+
+<li><a href="javascript:searchKey('预告片',10,'comic')">其他动画</a></li>
+</ul>
+</div>
+<div class="list clear">
+<h3>按类型|</h3>
+<ul>
+<li><a href="javascript:searchKey('搞笑',7,'comic')">搞笑</a></li>
+
+<li><a href="javascript:searchKey('剧情',7,'comic')">剧情</a></li>
+
+<li><a href="javascript:searchKey('冒险',7,'comic')">冒险</a></li>
+
+<li><a href="javascript:searchKey('动作',7,'comic')">动作</a></li>
+
+<li><a href="javascript:searchKey('魔幻',7,'comic')">魔幻</a></li>
+
+<li><a href="javascript:searchKey('励志',7,'comic')">励志</a></li>
+
+<li><a href="javascript:searchKey('体育',7,'comic')">体育</a></li>
+
+<li><a href="javascript:searchKey('益智',7,'comic')">益智</a></li>
+
+<li><a href="javascript:searchKey('童话',7,'comic')">童话</a></li>
+
+<li><a href="javascript:searchKey('真人',7,'comic')">真人</a></li>
+
+<li><a href="javascript:searchKey('神话',7,'comic')">神话</a></li>
+
+<li><a href="javascript:searchKey('青春',7,'comic')">青春</a></li>
+</ul>
+</div>
+<div class="list c3 clear">
+<h3>按年龄|</h3>
+<ul>
+<li><a href="javascript:searchKey('5岁以下',11,'comic')">5岁以下</a></li>
+
+<li><a href="javascript:searchKey('5岁-12岁',11,'comic')">5岁-12岁</a></li>
+
+<li><a href="javascript:searchKey('13岁-18岁',11,'comic')">13岁-18岁</a></li>
+
+<li><a href="javascript:searchKey('18岁以上',11,'comic')">18岁以上</a></li>
+</ul>
+</div>
+		</div>
+		<div class="line"></div>
+		<div class="dmCls clear">
+			<H2><SPAN>综艺分类</SPAN></H2>
+<DIV class="list clear c4">
+<H3>按类型|</H3>
+<UL>
+<LI><A href="http://so.tv.sohu.com/list_p17_p2_u66f2_u827a_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>相声小品</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p17_p2_u65f6_u5c1a_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>时尚养生 </A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p17_p2_u8bbf_u8c08_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>访谈秀</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p17_p2_u9009_u79c0_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>真人秀</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p17_p2_u97f3_u4e50_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>音乐现场</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p17_p2_u7ade_u6280_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>竞技冒险</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p17_p2_u60c5_u611f_u4ea4_u53cb_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>交友秀</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p17_p2_u5176_u5b83_p3_u5185_u5730_p4-1_p5_p6_p73_p80_p9-2_p101_p11.html" target=_blank>综艺秀</A></LI></UL></DIV>
+<DIV class="list clear">
+<H3>按地区|</H3>
+<UL>
+<LI><A href="http://tv.sohu.com/hnws/" target=_blank>湖南</A></LI>
+<LI><A href="http://tv.sohu.com/jsws/" target=_blank>江苏</A></LI>
+<LI><A href="http://tv.sohu.com/bjws/" target=_blank>北京</A></LI>
+<LI><A href="http://tv.sohu.com/dfws/" target=_blank>东方</A></LI>
+<LI><A href="http://tv.sohu.com/aqllk/" target=_blank>浙江</A></LI>
+<LI><A href="http://tv.sohu.com/ahws/" target=_blank>安徽</A></LI>
+<LI><A href="http://tv.sohu.com/btvwy/" target=_blank>BTV文艺</A></LI>
+<LI><A href="http://tv.sohu.com/bjkj/" target=_blank>BTV科教</A></LI></UL></DIV>
+<DIV class="list clear c4">
+<H3>按热度|</H3>
+<UL>
+<LI><A href="http://tv.sohu.com/jsfcwr/" target=_blank>非诚勿扰</A></LI>
+<LI><A href="http://tv.sohu.com/ahscndgs/" target=_blank>鲁豫有约</A></LI>
+<LI><A href="http://tv.sohu.com/ttxs/" target=_blank>天天向上</A></LI>
+<LI><A href="http://tv.sohu.com/ggbbm/" target=_blank>国光帮帮忙</A></LI>
+<LI><A href="http://tv.sohu.com/btvcjcjfw/" target=_blank>超级访问</A></LI>
+<LI><A href="http://tv.sohu.com/zjxc/" target=_blank>最佳现场</A></LI>
+<LI><A href="http://tv.sohu.com/scx/" target=_blank>收藏秀</A></LI>
+<LI><A href="http://tv.sohu.com/kldby/" target=_blank>快乐大本营</A></LI>
+<LI><A href="http://tv.sohu.com/zlzw/" target=_blank>职来职往</A></LI>
+<LI><A href="http://tv.sohu.com/xfmf/" target=_blank>幸福魔方</A></LI>
+<LI><A href="http://tv.sohu.com/hxyj/" target=_blank>欢喜冤家</A></LI>
+<LI><A href="http://tv.sohu.com/kxll/" target=_blank>康熙来了</A></LI></UL></DIV>
+		</div>
+		<div class="line"></div>
+		
+		<div class="docCls clear">
+			<H2><SPAN twffan="done">纪录片分类</SPAN></H2>
+<DIV class="list clear" twffan="done">
+<UL>
+<LI><A href="http://so.tv.sohu.com/list_p18_p2_u5386_u53f2_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>历史</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p18_p2_u519b_u4e8b_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>军事</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p18_p2_u4eba_u7269_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>人物</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p18_p2_u793e_u4f1a_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>社会</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p18_p2_u81ea_u7136_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>自然</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p18_p2_u8d22_u7ecf_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>财经</A></LI>
+<LI><A href="http://so.tv.sohu.com/list_p18_p2_u5e55_u540e_p3_p4-1_p5_p6_p70_p80_p9-2_p101_p11.html" target=_blank>幕后</A></LI></UL></DIV>
+		</div>
+		<div class="line"></div>
+		
+		<div class="starCls clear">
+			<H2><SPAN>明星分类</SPAN></H2>
+<DIV class="list clear">
+<UL>
+<LI><A href="javascript:searchKey('冯绍峰')">冯绍峰</A></LI>
+<LI><A href="javascript:searchKey('凌霄肃')">凌霄肃</A></LI>
+<LI><A href="javascript:searchKey('黄志忠')">黄志忠</A></LI>
+<LI><A href="javascript:searchKey('何晟铭')">何晟铭</A></LI>
+<LI><A href="javascript:searchKey('杜淳')">杜　淳</A></LI>
+<LI><A href="javascript:searchKey('杨幂')">杨　幂</A></LI>
+<LI><A href="javascript:searchKey('景甜')">景　甜</A></LI>
+<LI><A href="javascript:searchKey('范冰冰')">范冰冰</A></LI>
+<LI><A href="javascript:searchKey('舒淇')">舒　淇</A></LI>
+<LI><A href="javascript:searchKey('董璇')">董　璇</A></LI>
+<LI><A href="javascript:searchKey('潘粤明')">潘粤明</A></LI>
+<LI><A href="javascript:searchKey('林心如')">林心如</A></LI>
+<LI><A href="javascript:searchKey('贾乃亮')">贾乃亮</A></LI>
+<LI><A href="javascript:searchKey('刘涛')">刘　涛</A></LI>
+<LI><A href="javascript:searchKey('孙淳')">孙　淳</A></LI></UL></DIV>
+		</div>
+		<div class="line"></div>
+		
+		<div class="yearCls clear">
+			<h2><span>年份检索</span></h2>
+<div class="list clear">
+<ul>
+<li><a href="javascript:searchKey('2011',15,'year')">2011</a></li>
+
+<li><a href="javascript:searchKey('2010',15,'year')">2010</a></li>
+
+<li><a href="javascript:searchKey('2009',15,'year')">2009</a></li>
+
+<li><a href="javascript:searchKey('2008',15,'year')">2008</a></li>
+
+<li><a href="javascript:searchKey('2007',15,'year')">2007</a></li>
+
+<li><a href="javascript:searchKey('2006',15,'year')">2006</a></li>
+
+<li><a href="javascript:searchKey('2005',15,'year')">2005</a></li>
+
+<li><a href="javascript:searchKey('2004',15,'year')">2004</a></li>
+
+<li><a href="javascript:searchKey('2003',15,'year')">2003</a></li>
+
+<li><a href="javascript:searchKey('2002',15,'year')">2002</a></li>
+
+<li><a href="javascript:searchKey('2001',15,'year')">2001</a></li>
+
+<li><a href="javascript:searchKey('2000',15,'year')">2000</a></li>
+
+<li><a href="javascript:searchKey('1999',15,'year')">1999</a></li>
+
+<li><a href="javascript:searchKey('1998',15,'year')">1998</a></li>
+
+<li><a href="javascript:searchKey('1997',15,'year')">1997</a></li>
+</ul>
+</div>
+		</div>
+        
+	</div>
+	<div class="footer"></div>
+</div>
+
+
+
+<div class="fullBot">
+<div id="contentC" class="area">
+	<a id="link2" href="javascript:void(0)" name="link2"></a>
+<h2><span><img height="20" alt="独家企划" src="http://tv.sohu.com/upload/100902hdtvcss/images/tt14.gif" width="74"></span><a href="http://tv.sohu.com/s2011/tvzhuanti/" target="_blank">更多&gt;&gt;</a></h2>
+<div class="pp">
+<ul>
+<li><a href="http://tv.sohu.com/s2011/ohmygod/" target="_blank"><img height="82" alt="恨我就让我演" src="http://i3.itc.cn/20111124/2b8d_d5448e17_348e_a772_fcb1_ea60399c5355_1.jpg" width="162" border="0"></a><span><a title="恨我就让我演吧" href="http://tv.sohu.com/s2011/ohmygod/" target="_blank">十大最让人自戳双目的角色</a></span></li>
+<li><a href="http://yule.sohu.com/s2011/bachelor/"target="_blank"><img height="82" alt="最后的“神棍节”" src="http://i1.itc.cn/20111111/2b8d_fb1cf924_eb6b_f347_c222_10ee727d9d09_1.jpg" width="162" border="0"></a><span><a title="最后的“神棍节”" href="http://yule.sohu.com/s2011/bachelor/" target="_blank">最后的“神棍节”</a></span></li>
+
+<li><a href="http://yule.sohu.com/s2011/4755/s320691779/" target="_blank" alt="9月上映电影推荐"><img height="80" alt="10月新片公告牌" src="http://i3.itc.cn/20111002/a2e_f04a23fc_5d20_b2bc_c850_ff58505b2c9d_1.jpg" width="160" border="0"></a><span><a title="9月上映电影推荐" href="http://yule.sohu.com/s2011/4755/s320691779/" target="_blank">2011年10月热门新片推荐</a></span></li>
+
+
+<li><a href="http://tv.sohu.com/s2011/three/" target="_blank"><img height="80" alt="细数银幕三人行" src="http://i3.itc.cn/20110819/ab1_1ace4b8f_f2b7_f029_a587_d25ec1418b7d_1.jpg" width="160" border="0"></a><span><a href="http://tv.sohu.com/s2011/three/" target="_blank">细数银幕三人行</a></span></li>
+
+<li class="nomr"><a href="http://yule.sohu.com/s2011/2538/s314935641/" target="_blank" alt="十年再见 哈利波特告别特辑"><img height="80" alt="十年再见 哈利波特告别特辑" src="http://i2.itc.cn/20110804/ab1_26f145ab_4b35_7535_cbaa_d92e1b0f6217_2.jpg" width="160" border="0"></a><span><a title="十年再见 哈利波特告别特辑" href="http://yule.sohu.com/s2011/2538/s314935641/" target="_blank">十年再见 哈利波特告别特辑</a></span></li>
+
+</ul></div>
+<div class="line"></div>
+<div class="list12 clear">
+<ul>
+<li><a href="http://yule.sohu.com/s2011/lgnrdss/" target="_blank">舒淇/章子怡:两个女人史诗</a></li>
+<li><a href="http://yule.sohu.com/s2011/3671/s305558210/" target="_blank">秘闻：一个女演员的史诗</a></li>
+<li><a href="http://yule.sohu.com/s2011/heftymentop10/" target="_blank">面瘫硬汉：无表情有激情</a></li></ul>
+<ul>
+<li><a href="http://tv.sohu.com/s2011/hkfa/" target="_blank">香港电影金像奖院线</a></li>
+<li><a href="http://tv.sohu.com/s2011/xjtvb/" target="_blank">斗出色：心机解读TVB</a></li>
+<li><a href="http://tv.sohu.com/s2010/halloween/" target="_blank">万圣节-学生时代的恐怖经典</a></li></ul>
+<ul>
+<li><a href="http://tv.sohu.com/s2009/hqfsd/index.shtml" target="_blank">谍战剧进入“后潜伏”时代 </a></li>
+<li><a href="http://tv.sohu.com/s2009/tsbsyd/index.shtml" target="_blank">雷人情侣:天生不是一对</a></li>
+<li><a href="http://tv.sohu.com/s2011/oscar/index.shtml" target="_blank">搜狐视频奥斯卡院线</a></li></ul>
+<ul>
+<li><a href="http://tv.sohu.com/s2011/feminism/index.shtml" target="_blank">搜狐独家女权主义院线</a></li>
+<li><a href="http://tv.sohu.com/s2010/guiquan/" target="_blank">影视剧：贵圈真乱！</a></li>
+<li><a href="http://tv.sohu.com/s2011/qrj2011/" target="_blank">恋爱季——我要我们在一起</a></li></ul>
+<ul class="nomr">
+<li><a href="http://tv.sohu.com/s2011/thriller/" target="_blank">恶魔集中营——惊悚片院线</a></li>
+<li><a href="http://tv.sohu.com/s2009/duijue/index.shtml" target="_blank">香港电影里的“双雄”对决</a></li>
+<li><a href="http://tv.sohu.com/s2011/runaway/" target="_blank">私奔吧 趁活着</a></li></ul></div>
+</div>
+
+<div id="contentD" class="area">
+	<h2><span><img alt=合作伙伴 src="http://tv.sohu.com/upload/100902hdtvcss/images/tt15.gif" width=75 height=20></span></h2>
+<div class=pp>
+<ul>
+<li><img src="http://i2.itc.cn/20100906/241_4d9c2b7e_1a24_415e_acb2_6882f58c3806_0.jpg" width=85 height=35></li>
+
+<li><img src="http://i1.itc.cn/20100906/241_4d9c2b7e_1a24_415e_acb2_6882f58c3806_1.jpg" width=85 height=35></li>
+
+<li><img src="http://i0.itc.cn/20100906/241_4d9c2b7e_1a24_415e_acb2_6882f58c3806_2.jpg" width=85 height=35></li>
+
+<li><img src="http://tv.sohu.com/upload/100902hdtvcss/images/pic85x35.gif" width=85 height=35></li>
+
+<li><img src="http://i0.itc.cn/20100906/241_4d9c2b7e_1a24_415e_acb2_6882f58c3806_4.jpg" width=85 height=35></li>
+
+<li><img src="http://i2.itc.cn/20100906/241_4d9c2b7e_1a24_415e_acb2_6882f58c3806_5.gif" width=85 height=35></li>
+
+<li><img src="http://i1.itc.cn/20100906/241_4d9c2b7e_1a24_415e_acb2_6882f58c3806_6.jpg" width=85 height=35></li>
+
+<li><a href="http://www.microsoft.com/china/windows/windows-media-center/default.aspx" target="_blank"><img src="http://i2.itc.cn/20100906/241_4d9c2b7e_1a24_415e_acb2_6882f58c3806_7.jpg" width=85 height=35 border="0"></a></li>
+
+<li><img src="http://i2.itc.cn/20100906/241_4d9c2b7e_1a24_415e_acb2_6882f58c3806_8.jpg" width=85 height=35></li>
+
+<li class=nomr><img src="http://i6.itc.cn/20090321/394_5fdb5721_537e_43ba_92d7_38cb605bb2b9_0.jpg" width=85 height=35></li>
+</ul>
+</div>
+</div>
+
+
+<div id="footArea">
+	<div class="footSearch">
+		<form name="sFormA" autocomplete="off" id="sFormA" method="post" action="" onSubmit="return false;">
+            <input type="text" id="sKeyA" value="乡村爱情5" class="tx"><input type="submit" value="搜索" id="searchBtnA" class="btn">
+        </form>
+    </div>
+    <div class="clear footLink">
+    	<dl>
+        	<dt><a href="http://tv.sohu.com/" target=_blank>首页</a></dt>
+
+            <dd><a href="http://tv.sohu.com/teleplay/" target=_blank>电视剧</a> | <a href="http://tv.sohu.com/movie/" target=_blank>电影</a><br /><a href="http://tv.sohu.com/real/" target=_blank>纪录片</a> | <a href="http://tv.sohu.com/comic/" target=_blank>动漫</a></dd>
+        </dl>
+        <dl>
+        	<dt><a href="http://tv.sohu.com/yule/" target=_blank>娱乐</a></dt>
+
+            <dd><a href="http://tv.sohu.com/original/" target=_blank>原创</a> | <a href="http://tv.sohu.com/music/" target=_blank>音乐</a><br /><a href="http://tv.sohu.com/zongyi/" target=_blank>综艺</a> | <a href="http://tv.sohu.com/entnews/" target=_blank>娱乐新闻</a></dd>
+        </dl>
+    	<dl>
+        	<dt><a href="http://tv.sohu.com/news/" target=_blank>新闻</a></dt>
+
+            <dd><a href="http://tv.sohu.com/shehui/" target=_blank>社会</a> | <a href="http://tv.sohu.com/shishi/" target=_blank>时事</a> | <a href="http://tv.sohu.com/fazhi/" target=_blank>法制</a> | <a href="http://tv.sohu.com/caijing/" target=_blank>财经</a><br /><a href="http://tv.sohu.com/junshi/" target=_blank>军事</a> | <a href="http://tv.sohu.com/keji/" target=_blank>科技</a> | <a href="http://tv.sohu.com/lvyou/" target=_blank>旅游</a></dd>
+
+        </dl>
+        <dl>
+        	<dt><a href="http://data.tv.sohu.com/lanmu/" target=_blank>电视</a></dt>
+            <dd><a href="http://live.tv.sohu.com/" target=_blank>直播</a><br /><a href="http://data.tv.sohu.com/lanmu/" target=_blank>栏目</a></dd>
+        </dl>
+        <dl>
+        	<dt><a href="http://my.tv.sohu.com/" target=_blank>播客</a></dt>
+
+            <dd><a href="http://my.tv.sohu.com/channel/gaoxiao" target=_blank>搞笑</a> | <a href="http://my.tv.sohu.com/channel/bagua" target=_blank>八卦</a><br /><a href="http://my.tv.sohu.com/channel/lieqi" target=_blank>猎奇</a> | <a href="http://my.tv.sohu.com/channel/yuanchuang" target=_blank>原创</a></dd>
+        </dl>
+        <dl>
+        	<dt><a href="http://store.tv.sohu.com/" target=_blank>付费</a></dt>
+
+            <dd><a href="http://store.tv.sohu.com/movie/" target=_blank>电影</a> | <a href="http://tv.sohu.com/open/" target=_blank>教育</a></dd>
+        </dl>
+        <dl>
+        	<dt><a>服务</a></dt>
+            <dd><a href="http://index.tv.sohu.com/" target=_blank class="a1">指数中心</a> | <a href="http://tv.sohu.com/s2011/cpty/index.shtml" target=_blank>体验中心</a><br /><a href="http://tv.sohu.com/s2011/sitemap/" target=_blank class="a5ico">网站地图</a> | <a href="http://tv.sohu.com/upload/hdfeedback/index.jsp" target=_blank>帮助中心
+</a><br /><a href="http://tv.sohu.com/upload/hdfeedback/index.jsp?50" target=_blank class="a4">版权投诉</a> | <a href="http://open.tv.sohu.com" target=_blank>开放平台</a><dd>
+        </dl>
+		<dl>
+        	<dt><a>软件</a></dt>
+        	<dd><a href="http://tv.sohu.com/upload/app/index.html" target=_blank class="a2">移动客户端</a><br /><a href="http://tv.sohu.com/ifox/" target=_blank class="a3">搜狐影音</a></dd>
+        </dl>
+    </div>
+</div>
+
+<div id="foot" class="area">
+    <a href="javascript:void(0)" onClick=this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;>设置首页</a>
+    - <a href=http://pinyin.sogou.com/ target=_blank>搜狗输入法</a>
+    - <a href=http://up.sohu.com/ target=_blank>支付中心</a>
+    - <a href=http://hr.sohu.com target=_blank>搜狐招聘</a>
+    - <a href=http://ad.sohu.com/ target=_blank>广告服务</a>
+    
+    - <a href=http://sohucallcenter.blog.sohu.com/ target=_blank>客服中心</a>
+    - <a href=http://corp.sohu.com/s2006/contactus/ target=_blank>联系方式</a>
+    - <a href=http://www.sohu.com/about/privacy.html target=_blank>保护隐私权</a>
+    - <a href=http://corp.sohu.com/ target=_blank>About SOHU</a>
+    - <a href=http://corp.sohu.com/indexcn.shtml target=_blank>公司介绍</a>
+    <br />Copyright <span class="fontArial">&copy;</span> 2012 Sohu.com Inc. All Rights Reserved. 搜狐公司 <span class="unline"><a href="http://corp.sohu.com/s2007/copyright/" target="_blank">版权所有</a></span>
+    
+    <br />搜狐不良信息举报电话：010－62728061 举报邮箱：<a href="mailto:jubao@contact.sohu.com">jubao@contact.sohu.com</a>
+</div>
+<!-- Begin comScore Tag --> 
+<script> 
+  document.write(unescape("%3Cscript src=' " + (document.location.protocol == "https:" ? "https://sb" : "http://b") 
++ ".scorecardresearch.com/beacon.js'  %3E%3C/script%3E")); 
+</script> 
+ 
+<script> 
+if(typeof COMSCORE!=="undefined"){
+  COMSCORE.beacon({ 
+    c1:2, 
+    c2:"7395122", 
+    c3:"", 
+    c4:"", 
+    c5:"", 
+    c6:"", 
+    c15:"" 
+  }); 
+}
+</script> 
+<noscript> 
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7395122&c3=&c4=&c5=&c6=&c15=&cj=1" /> 
+</noscript> 
+<!-- End comScore Tag -->
+
+</div>
+<script src="http://tv.sohu.com/upload/tv110421/js/g.js"></script>
+<SCRIPT language=JavaScript src="http://js.sohu.com/pv.js"></SCRIPT>
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://sohu.wrating.com/a1.js">
+</script>
+<script type="text/javascript">
+var vjAcc="860010-2311020100";
+var wrUrl="http://sohu.wrating.com/";
+vjTrack("");
+</script>
+<noscript><img src="http://sohu.wrating.com/a.gif?a=&c=860010-2311020100" width="1" height="1"/></noscript>
+<!-- END WRating v1.0 -->
+<sohuadcode>
+</sohuadcode>
+<script>
+jQuery(function(){
+    setTimeout(function(){
+        if(!document.getElementById('speedTest')){
+            var testO = new SWFObject("http://tv.sohu.com/upload/jq_plugin/test/nodeTest.swf",
+                    "speedTest", 1,1, "9,0,145", "#000000");
+
+            testO.addParam("allowscriptaccess", "always");
+
+            $(document.body).append(testO.getFlashHtml());
+        }
+    }, 3000);
+});
+
+</script>
+<script src='http://js.sohu.com/track/track2/track.linkcollecter.js' type='text/javascript'></script>
+<script src='http://js.sohu.com/track/track2/task_50.js' type='text/javascript'></script>
+
+<center></center></body></html>
+
+

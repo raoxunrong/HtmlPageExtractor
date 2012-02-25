@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+
+<meta name="Description" content="汇聚热门博客分享、相册分享、视频分享" /> 
+
+<meta name="Keywords" content="热门、博客、相册、视频" /> 
+
+<title>
+最新分享_分享_百度空间
+      </title>
+
+<link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/css/appmerge.css?v=120917d1.css"><link rel="stylesheet" type="text/css" href="http://hi.bdimg.com/static/apps/appshare/css/share.css?v=61e1d59f.css" />
+<script type="text/javascript" src="http://img.baidu.com/js/tangram-base-1.3.5.js?v=9b0cab75.js"></script><script src="http://hi.bdimg.com/static/js/appmerge.js?v=8655ab76.js"></script><script>
+if(typeof App == 'undefined') window.App = {};
+App.Domain = {"space" : "http://hi.baidu.com","space_static" : "http://hi.bdimg.com","photo" : "http://hiphotos.baidu.com","passport" : "https://passport.baidu.com","msg" : "http://msg.baidu.com","friend" : "http://frd.baidu.com","portrait" : "http://tx.bdimg.com","apps" : "http://apps.hi.baidu.com","hitn" : "http://hitn.bdimg.com","coin" : "http://coin.baidu.com","static" : "http://hi.bdimg.com","static_apps" : "http://hi.bdimg.com","img" : "http://img.baidu.com","www" : "http://www.baidu.com"}
+var g_mail_valid = 0;
+</script>
+<script type="text/javascript" src="http://hi.bdimg.com/static/apps/appshare/js/baidu.js?v=432efb7a.js"></script><script type="text/javascript" src="http://hi.bdimg.com/static/apps/appshare/js/share.js?v=39642bbf.js"></script>
+<script type="text/javascript">window.spUserStatus="0";window.g_cur_app_id=5004;</script>
+</head>
+<body>
+<div id="doc">	
+	
+<link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/base/css/base.css?v=6802b562.css"><script src="http://hi.bdimg.com/static/base/js/conf/base.js?v=42039d1f.js"></script> <div class=userbar> <div id=nav> <a class=logo href="http://hi.baidu.com/index.htm"><img src=http://img.baidu.com/hi/logo/logo_93_30.gif border=0 alt="百度空间Logo"></a><ul class=topmenu><li><a href="http://apps.hi.baidu.com/" class=on>应用</a></ul><div class=manage style="width:380px;"><a href="http://hi.baidu.com/reg/new" class=reglink style="float:right;" onclick="Space.Libs.loginDialog();loginDialog.changeTab(1);return false;">注册</a><form action="https://passport.baidu.com/?login" method=post>用户名:<input name=username>&nbsp;&nbsp; 密码:<input type=password name=password> <input type=hidden value=on name=mem_pass><input class=loginlink value="登录" type=submit> </form> </div></div></div>	<script src="http://hi.bdimg.com/static/base/js/conf/comment.js?v=a10e3094.js"></script>	<div id="mainbody" class="cf mainbody">
+		
+<div class=leftmenu><div class=lefttop> </div><div class=leftcontent><div class=appmenu><div class="applist sysapp"><ul><li class=appicon5006><a href="http://apps.hi.baidu.com/hoho" id=appid-5006><span>HOHO</span></a><li class=appicon5004><a href="http://apps.hi.baidu.com/share" id=appid-5004><span>分享</span></a><li class=appicon5003><a href="http://apps.hi.baidu.com/vote" id=appid-5003 target=_blank><span>投票</span></a><li class=appicon5002><a href="http://apps.hi.baidu.com/test" id=appid-5002 target=_blank><span>测试</span></a><li class=appicon5000><a href="http://apps.hi.baidu.com/gift" id=appid-5000 target=_blank><span>礼物</span></a></ul></div><div class=line> </div> <div class="applist frdcenter"> <h5 class=nav-parent><a href="http://hi.baidu.com//ihome/square" target=_blank><span class="appicon ctappicon0">交友中心</span></a><button class=ddl-btn onclick="App.SideList.ToggleList(this,'frdCenterAppList');"></button></h5> <ul id=frdCenterAppList style="display:none;"> <li><a href="http://apps.hi.baidu.com/dashan" target=_blank><span class="appicon ctappicon0-1">搭讪</span></a> <li><a href="http://apps.hi.baidu.com/duiwei" target=_blank><span class="appicon ctappicon0-2">对味测试</span></a> <li><a href="http://apps.hi.baidu.com/suliao" target=_blank><span class="appicon ctappicon0-3">闪电速聊</span></a> <li><a href="http://hi.baidu.com//ihome/square" target=_blank><span class="appicon ctappicon0-4">找朋友</span></a> </ul> </div> <div class=line></div><div id=AppListAll style="height:auto; overflow:hidden; color:#4C7D08;"> <h5 class=nav-parent><a href="http://apps.hi.baidu.com/apps" target=_blank><span class="appicon ctappicon1">应用大厅</span></a><button class=ddl-btn data_status=more onclick="App.SideList.ToggleList(this,'defaultAppList');App.SideList.SwapMoreThirdApp(this,'');"></button></h5><ul class="applist thirdapp" id=defaultAppList style="display:none;"></ul><ul class="applist thirdapp" id=installAppList style="display:none;" data_empty=1></ul></div><div class=line> </div><ul class="applist thirdapp" id=webgame><li><a href="http://youxi.baidu.com/prom.xhtml?code=G-%D7%8E%81%B2%29%FF%8AR%BC%8B%EE%85%1C%E5" target=_blank><span style="background:url(http://hi.bdimg.com/static/img/appframe/icon_game.gif) no-repeat scroll 16px center; padding-left: 50px;">网页游戏</span></a></ul></div></div><div class=leftbottom> </div></div><script>
+baidu.dom.ready(function(){
+			baidu.g('defaultAppList').innerHTML = App.getAppListHtml(App.getDefaultAppList());
+	(typeof g_cur_app_id != 'undefined') && baidu.g('appid-'+g_cur_app_id) && (baidu.g('appid-'+g_cur_app_id).className = 'on');
+	    window.Session =  window.Session || {};
+    baidu.extend(window.Session,{
+		userPortrait:"",
+		userName:"",
+		spaceURL:""
+	});
+
+	})
+</script>		<div class="rightbody">
+		<div id="maincontent" class="clearfix">
+				<div id="appShare" class="app-share">
+                                 
+    <style type="text/css">
+	#mainbody .contentBox div.appcontent2 {float: none;width: auto; }
+	#mainbody .contentBox div.hotapplist {display: none;}
+    </style>
+
+   
+
+    <div class="mod-tab clearfix">    <div class="title"><h2 class="icon i5004">分享</h2></div>    <ul class="ul clearfix">        <li class=""><a href="/share/">热门分享</a></li>        <li class=""><a href="/share/latest/?type=video">最新分享</a></li>        		<li class=""><a href="#"  onclick="Space.Libs.loginDialog('http://apps.hi.baidu.com/share/friend/'); return false;">好友的分享</a></li>        <li class=""><a href="#"  onclick="Space.Libs.loginDialog('http://apps.hi.baidu.com/share/mine/'); return false;">我的分享</a></li>            </ul>    	<div class="share-top">					<div class="cf" id="appShareCont"><div id="appShareButton"></div><div id="appShareInputContainer" style="display:none">    <form onsubmit="return share.create.inputByForm('');">        <input id="appShareInput" type="text" value="请输入视频、网页、音乐的网址"  onmousedown="Space.Libs.loginDialog();this.blur();"  /><input id="appShareSubmit" onfocus="this.blur()" type="submit" value=""/>    </form>	<div id="appShareClose"></div></div></div>			<a href="#" onclick="share.create.tip(); return false;" style="margin:0 10px">如何分享?</a>			<a target="_blank" href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%BF%D5%BC%E4">问题反馈</a>	</div></div><!--<div id="appShareNav" class="cf">    <div class="mod-space-tab">    <div class="tab-left-corner "><div class="tab-right-corner"><div class="tab-center"><a href="/share/">热门分享</a></div></div></div>    <div class="tab-left-corner "><div class="tab-right-corner"><div class="tab-center"><a href="/share/latest/?type=video">最新分享</a></div></div></div>                <div class="tab-left-corner "><div class="tab-right-corner"><div class="tab-center"><a href="#" onclick="Space.Libs.loginDialog('http://apps.hi.baidu.com/share/friend/'); return false;">好友的分享</a></div></div></div>        <div class="tab-left-corner "><div class="tab-right-corner"><div class="tab-center"><a href="#" onclick="Space.Libs.loginDialog('http://apps.hi.baidu.com/share/mine/'); return false;">我的分享</a></div></div></div>        	<a href="http://act.hi.baidu.com/act/share/index.html" onclick="Space.Libs.ns_trackerLink('m_20100402_sharewzl')"  style="color:#ff0000; font-weight: bold; line-height: 25px; text-decoration: underline; margin-left: 10px;">分享有礼啦！iPad大奖周周送！速速关注吧&gt;&gt;</a>    </div>	<div style="float:right;margin-top:-22px;margin-right:8px">			<a href="#" onclick="share.create.tip(); return false;" style="margin-right:10px">如何分享?</a>			<a target="_blank" href="http://hi.baidu.com/%D7%AA%CC%F9%BF%AA%B7%A2%D5%DF/">问题反馈</a>	</div></div><div class="clear"></div>-->
+    <div id="appShareDetail" class="clearfix">
+        <script type="text/javascript">
+            var share_info = {};
+        </script>
+        <a name="content"></a>
+        <div id="appShareAuthorInfo" class="clearfix">
+            <p>				<a href="http://hi.baidu.com/sys/checkuser/sharke118/3" target="_blank"><img src="http://tx.bdimg.com/sys/portraitn/item/7d97736861726b65313138b308.jpg" width="30" height="30" style="border:1px solid #ddd" /></a></p>
+			<p>&nbsp;&nbsp;				<a href="http://apps.hi.baidu.com/share/user/7d97736861726b65313138b308" target="_blank">sharke118的分享</a></p>
+			<p class="share-top-txt">分享</p>
+            <p style="float:right;margin-top:5px;"><a class="share-prev-item" href="/share/detail/1653083#content"></a>&nbsp;&nbsp;</p>
+
+        </div>
+
+        <div id="appShareContent">
+            <div id="app-share-container">
+			<div id="appShareTitle">
+                                    <script type="text/javascript">
+                        share_info.allow_share = 1
+                    </script>
+                    <div id="appShareShareIcon" class="share-btn-img" onclick="share.share('7d97736861726b65313138b308','271631','','271631')"></div>
+                                                                关于Openfire和Spark插件的编译问题
+            </div>
+			<div id="appShareOpt">
+                
+                            </div>
+            <div id="app-share-content">
+
+	                    <p>&nbsp;&nbsp;&nbsp;  最近在JAVA平台下，开发openfire和spark的插件 遇到些编译方面的问题 这些问题不难 但确实很折腾人 写下来 与大家分享：</p>
+<p>1.Spark的插件编译</p>
+<p>spark的插件编译可以先配置好xml，然后用ant编译，可以单独使用ant进行外部编译，也可以用MyEclipse内置的ant进行编译，前面一种方法可以作为后面一种方法的辅助方法。</p>
+<p>用MyEclipse内置的ant进行编译可能会遇到下面的一些问题：</p>
+<p>a.当你的代码有错误时，通常情况下用ant编译会报错，但有时候ant不会报错，而是刚刚开始编译就停止了，这时候，就要用外部自己安装的ant来对文件进行编译，基本上有什么错你在命令行窗口里都能看得见。当然你也可以直接使用外部的ant来完成编译工作，只不过MyEclipse内置的ant在查找错误代码时要方便点。</p>
+<p>b.还有种情况，ant编译不能顺利进行，当ant设置的编码格式和你的build.xml里设置的格式不匹配时，就会出现不能编译的问题。在build.xml里面用 encoding=&quot;&quot; 来设置编码格式，如果你不设置编码格式，则build文件编码格式和工程所设置的格式一样，ant的编码格式如下图所示：</p>
+<p> </p>
+<p><span><img class="blogimg" border="0" small="0" src="http://hiphotos.baidu.com/sharke118/pic/item/9b910a120842372f203f2e40.jpg"><br>
+</span></p>
+<p><span>点击External Tools Configurantions 进入ant的设置界面：</span></p>
+<p><span><span><img class="blogimg" border="0" small="0" src="http://hiphotos.baidu.com/sharke118/pic/item/24b57b01c9f7d8a6d53f7c4f.jpg"></span></span></p>
+<p><span><span>点击Common选项，可以看到Console Encoding这个选项，编码格式就在这里设置。</span></span></p>
+<p><span><span>c.偶尔你还肯会遇到这个变态问题，无论你怎么修改编译你的代码，似乎都得到的结果都和原来一样，没有什么变化，你可能会继续怀疑自己是不是还是代码没写对，当然这也是有可能的，不过我建议你把C:\Documents and Settings\你的系统登陆名字\Application Data(隐藏类型文件夹)这个文件里的Spark文件夹删掉，然后重新编译运行你的程序，可能你折腾半天的问题就此解决。</span></span></p>
+<p><span><span>2.Openfire端插件的编译(使用ant)</span></span></p>
+<p><span><span>openfire插件的编译在默认情况下是把它里面的plugin(包括你的插件)统统都编译一遍，无形当中做了很多无用功，见下图，直接双击plugin就可以编译了：</span></span></p>
+<p><span><span><span><img class="blogimg" border="0" small="0" src="http://hiphotos.baidu.com/sharke118/pic/item/d4b2058999c5a6fdfc1f1030.jpg"></span></span></span></p>
+<p><span><span><span>下面介绍两种简单点的方法：</span></span></span></p>
+<p><span><span><span>法一：</span></span></span></p>
+<p><span><span><span>用外部的ant对openfire的build.xml文件进行编译：</span></span></span></p>
+<p><span><span><span>将命令提示行里的路径修改到openfire的build文件所在路径，在命令提示行里输入：</span></span></span></p>
+<p><span><span><span>ant plugin -Dplugin=你的插件名字 这样就可以进行编译了</span></span></span></p>
+<p><span><span><span>法二：</span></span></span></p>
+<p><span><span><span>利用MyEclipse内置ant进行编译，如图：</span></span></span></p>
+<p><span><span><span><span><img class="blogimg" border="0" small="0" src="http://hiphotos.baidu.com/sharke118/pic/item/a45eea2088a02e8a4723e800.jpg"><br>
+</span><br>
+</span>点击进入到ant设置界面：</span></span></p>
+<p><span><span><span><img class="blogimg" height="293" width="491" border="0" small="0" src="http://hiphotos.baidu.com/sharke118/pic/item/c2655328c9d93ab5023bf603.jpg"><br>
+</span><br>
+选取openfire对应的编译文件（这个在你第一次编译openfire的时候就会产生），这里是openfire.xml，建议把这个文件复制一份然后把复制所得xml文件名字改成你的插件名字，这样便于区分，按此方法本文使用的workflow_s.xml就由openfire.xml复制而来。点击main选项在arguments里面输入-Dplugin=你的插件名称 点击apply保存 然后在target选项里面点选build one plugin 选项，保存，其他的都不选。</span></span></p>
+<p><span><span><span><img class="blogimg" border="0" small="0" src="http://hiphotos.baidu.com/sharke118/pic/item/355389f679c7a240ddc474ef.jpg"></span></span></span></p>
+<p><span><span><span><br>
+</span></span></span> </p>
+<p><span><span><span><img class="blogimg" border="0" small="0" src="http://hiphotos.baidu.com/sharke118/pic/item/4c2c844dfbf7f818afc3abe5.jpg"><br>
+</span></span></span></p>
+<p> </p>
+<p><span><span>最后看看common里面你的编码格式是否和工程里面的编码格式统一，最后点击run，ok你happy了，省时又省力，下次再要编译，你只需双击plugin在弹出的对话框里选择，上面你配置过的xml文件就行了，这里选workflow_s.xml。</span></span></p>
+<p><span><span><span><img class="blogimg" border="0" small="0" src="http://hiphotos.baidu.com/sharke118/pic/item/9e798d573b03e4eab745aef0.jpg"></span></span></span></p>
+<p><span><span><span>至此，All is over ！</span></span></span></p>
+            			</div>
+            <div id="appShareUrl" style="clear:both;">
+                                <div id="appShareSafeLinkTip" style="display:none"><div class="appShareErrorIcon"></div>为了您的安全，请只打开来源可靠的网址<p><a  href="http://hi.baidu.com/sharke118/blog/item/76c727ee58302d3727979144.html" target="_blank">打开网站</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="share.safelink.close();return false;">取消</a></p></div>
+                来自: <a href="http://hi.baidu.com/sharke118/blog/item/76c727ee58302d3727979144.html" target="_blank" onmousedown="share.safelink.showConfirm(this);">http://hi.baidu.com/sharke118/blog/item/76c727ee58302d3727979144.html</a>
+                            </div>
+            </div>
+			<div style="margin:10px 0 20px;" class="cf">
+									<div style="float:left;width:150px;height:24px">
+					<a style="margin-top:0;display:inline-block" id="shareToFrd" class="share-btn-img" onclick="share.share('7d97736861726b65313138b308','271631','','271631')"></a></div>
+				                <div style="float:right;width:150px;text-align:right;height:24px"><a class="share-prev-item" href="/share/detail/1653083#content"></a>&nbsp;&nbsp;</div>
+            </div>
+             <div id="appShareInfo" class="mod-border mod-right">
+				<dl>
+					<dt>来自:</dt>
+					<dd>
+												网页
+											</dd>
+				</dl>
+				<dl>
+					<dt>第一分享:</dt>
+					<dd>
+									<table class="avatar-cnt" cellspacing="0">    <tr>        <td><a href="http://hi.baidu.com/sys/checkuser/sharke118/3" target="_blank"><img src="http://tx.bdimg.com/sys/portraitn/item/7d97736861726b65313138b308.jpg"  /></a></td>    </tr></table>					<a href="http://hi.baidu.com/sys/checkuser/sharke118/3" target="_blank" style="font-weight:normal">sharke118</a>					</dd>
+				</dl>
+				<div class="hr"></div>
+				<dl>
+					<dt>时间:</dt>
+					<dd>2010-01-06 11:43</dd>
+				</dl>
+				<dl>
+					<dt>评论:</dt>
+					<dd><span id="appShareCommentNumRight">0</span>条</dd>
+				</dl>
+				<dl>
+					<dt>投票:</dt>
+					<dd>0次</dd>
+				</dl>
+				<dl>
+					<dt>本贴分享:</dt>
+					<dd>0</dd>
+				</dl>
+				<dl>
+					<dt>累计分享:</dt>
+					<dd>0</dd>
+				</dl>
+							</div><!-- /appShareInfoBasic -->
+             			             <div id="appShareTag" class="mod-border" >
+             <h5>共有<span id="tagPepCont">0</span>人发表观点</h5>
+			 <ul class="clearfix tag-list">
+             </ul>
+			 <div class="clearfix">
+             <span class="publishWrap"><input type="button" value="发表" id="publish"></span>
+			 <input type="text" maxlength="16" value="直接输入标签词，最多可输入16个字" id="tagValue"/>
+			 <span class="tagInputHit">...目前还没有互动观点，输入您的互动观点</span>
+			 </div>
+			 </div>
+						
+            			<div id="appShareVote" class="mod-border mod-left">
+            </div>
+            <script type="text/javascript">
+                                baidu.dom.ready(function(){
+				    share.showBlogVote();
+                    share.showBlogMusic();
+                    share.removeUnsafeLink(); 
+                });
+				baidu.on(window,'load',function(){
+					resizeImgWidth('app-share-content',580);
+				})
+				                var vote_item_list = [],
+					my_friend_join_vote = [],
+					vote_num,
+					is_voted;
+                                vote_num = 0;
+                
+                                is_voted = false;
+                         
+                share.vote.displayVote('7d97736861726b65313138b308',is_voted, '271631', vote_item_list, vote_num, my_friend_join_vote );    
+            </script>
+
+
+         
+
+
+						<div id="appShareRelate" class="mod-border mod-left clearfix">
+				<p class="title">sharke118的										博客										相关分享:					
+				</p>
+				<ul class="clearfix">
+																	     	
+							<li>
+								<p><a href="/share/detail/41790304" target="_blank" title="Python, Ruby 与 Groovy（转）">Python, Ruby 与 Groovy（转）</a></p>
+							</li>
+						     																							     	
+							<li>
+								<p><a href="/share/detail/2285705" target="_blank" title="话说程序员的职业生涯">话说程序员的职业生涯</a></p>
+							</li>
+						     																							     	
+							<li>
+								<p><a href="/share/detail/1653083" target="_blank" title="程序员职业规划发展路线图">程序员职业规划发展路线图</a></p>
+							</li>
+						     															</ul>
+			</div><!-- /appShareInfoRelate -->
+			
+
+
+
+			<div id="appShareComment">
+                <h3 class="share-comment-num">评论(<span id="appShareCommentNum">0</span>) </h3>
+                <div id="appShareCreateComment">
+					<form  action="http://hi.baidu.com/cmt/share/add_cmt" name="addcmt" onsubmit="Space.Libs.loginDialog();return false;" autocomplete="off">
+                    <dl>
+                        <dd class="cf">
+														                            <div style="float:left;width:65px;">&nbsp</div>
+							                            <textarea onkeyup="share.listenerSelection(event,this)" onmouseup="share.listenerSelection(event,this)" onfocus="share.listenerSelection(event,this)" name="content" id="share_comment_content"  onmousedown="Space.Libs.loginDialog();this.blur();"  ></textarea>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dd>
+                        <div id="appShareCommentCreateError" class="error"></div>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dd class="submit-box">
+                            							<input type="submit" value="" class="share-comment-btn"/>
+                        </dd>
+                    </dl>
+                    </form>
+                </div>
+            </div>
+
+
+
+
+
+
+			<div id="appShareCommentList"></div>
+			<div id="appShareCommentListPager"></div>
+		
+			<script type="text/javascript">
+			    var detail_share_info=detail_share_info||{};
+                detail_share_info["is_mine"]="";
+				detail_share_info["token"]="";
+                detail_share_info["shid"]="271631";
+				detail_share_info["first_portrait"]="7d97736861726b65313138b308";
+			</script>
+		
+
+
+
+
+
+
+        </div>
+		
+    </div>
+	<script type="text/javascript">
+	baidu.dom.ready(function(){var a=(function(){var i="http://nsclick.baidu.com/h.gif?pid=109&v=app-share-detail2011";var h="bd_clickmonkey";var d=function(n){var j=(new Date()).getTime();var m=window[h+j]=new Image();var l="";for(var k in n){l+=("&"+k+"="+n[k])}m.src=i+"&r="+j+l;m.onload=m.onerror=function(){m=null}};var c="";var e=function(l,m){m=m||[];c=l.monkey||l.getAttribute("monkey")||c;if(l.parentNode&&l.parentNode.tagName.toUpperCase()!="BODY"){m=e(l.parentNode,m)}if(l.previousSibling){var k=1;var j=l.previousSibling;do{if(j.nodeType==1&&j.nodeName==l.nodeName){k++}j=j.previousSibling}while(j)}if(l.nodeType==1){m.push(l.nodeName.toLowerCase()+(k>1?k:""))}return m};var g=function(n,m,k,j){if(n.addEventListener){n.addEventListener(m,k,j);return true}else{if(n.attachEvent){var l=n.attachEvent("on"+m,k);return l}}};var b=function(j){return encodeURIComponent(j)};g(document.body,"mousedown",function(m){var m=window.event||m;var k=m.srcElement||m.target;if(k.tagName.toUpperCase()!="A"){if(k.parentNode.tagName.toUpperCase()=="A"){k=k.parentNode}else{if(!(k.tagName.toUpperCase()=="INPUT"&&(k.type.toLowerCase()=="checkbox"||k.type.toLowerCase()=="radio"))){return}}}c="";var l=e(k).join("-");var n={xp:l};var j=k.getAttribute("href",2);if(j&&!(/^javascript|#/.test(j))){n.objurl=b(j)}else{n.objurl="none"}if(k.innerHTML&&!(/^\s*</i.test(k.innerHTML))&&!(/>\s*$/i.test(k.innerHTML))){n.title=b(k.innerHTML)}else{n.title="none"}if(c){n.monkey=c}d(n)});var f=function(l,k,j){var m={xp:"_"+l+"_"};if(k){m.objurl=b(k)}else{m.objurl="none"}if(j){m.title=b(j)}else{m.title="none"}d(m)};return{log:f}})()});
+	</script>
+	<script type="text/javascript">
+	var detail_share_info=detail_share_info||{};
+	detail_share_info["tagnub"]="0";
+	</script>
+<script type="text/javascript" src="http://hi.bdimg.com/static/apps/appshare/js/tag.js?v=f208cc50.js"></script>	
+				 </div>
+			</div>	        
+		            
+		
+		</div>
+	<div class="clear"></div>
+	
+	
+	</div>
+	
+<div class=clearfix></div><div style="text-align:center;margin:30px auto 15px;font-family:Arial,simsun;font-size:12px;"><div style="margin:0 auto 6px;"><a href=http://help.baidu.com/question?prod_en=space target=_blank style="color:#00C;text-decoration: underline;">帮助中心</a><span>&nbsp;|&nbsp;</span><a href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%BF%D5%BC%E4&fr=wwwt" target=_blank style="color:#00C;text-decoration: underline;">空间客服</a><span>&nbsp;|&nbsp;</span><a href=http://tousu.baidu.com/hi/add target=_blank style="color:#00C;text-decoration: underline;">投诉中心</a><span>&nbsp;|&nbsp;</span><a href=http://www.baidu.com/search/hi_contract.html target=_blank style="color:#00C;text-decoration: underline;">空间协议</a></div><div style="color:#7A77C8;">&copy;2012&nbsp;Baidu</div></div></div>
+<input type="hidden" value="" name="bdstoken" id="bdstoken" />
+<script type="text/javascript">
+window.g_isShare = true;
+share.parseUrl();
+share.create.initInputButton();
+</script>
+</body>
+</html>

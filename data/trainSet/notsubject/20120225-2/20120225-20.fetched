@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type"/>
+<meta content="IE=7" http-equiv="X-UA-Compatible"/>
+<link href="http://img.baidu.com/img/baike/wap/iphone4_logo.png" rel="apple-touch-icon"/>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type"/><meta content="IE=7" http-equiv="X-UA-Compatible"/><title>openfire_历史版本_百度百科 </title><link href="http://baike.bdimg.com/static/common/css/view.css?@=9ylwgi" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/lemma/css/view.css?@=105rws3" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/js/ui/enctip/css/enctip.css" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/css/font.css" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/view.js?@=tfzts7" type="text/javascript"></script><script src="http://baike.bdimg.com/static/lemma/js/history.js?@=4wxdve" type="text/javascript"></script><style>.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal}.dh{padding-bottom:5px}.dh a:link{color:#33C}.dh a:visited{color:#33C}.dh a:active{color:#33C}.acenter{text-align:center}</style><script type="text/javascript">/*<![CDATA[*/var flag=0;function addOnload(A,_){if(A.addEventListener){A.addEventListener("load",_,false);}else{if(A.attachEvent){A.attachEvent("onload",_);}else{A.onload=_;}}}var VidMgr=function(){var C=0,B=0,D=[],A=function(){var _=document.getElementsByName("cb");if(!_){return;}for(var A=_.length-1;A>=0;A--){if(C==_[A].value||B==_[A].value){_[A].checked=true;_[A].parentNode.parentNode.style.backgroundColor="#f1f2f4";}else{_[A].checked=false;_[A].parentNode.parentNode.style.backgroundColor="#ffffff";}}},E=function(){if(parseInt(C)>parseInt(B)){document.diff.vid1.value=C;document.diff.vid2.value=B;}else{document.diff.vid1.value=B;document.diff.vid2.value=C;}},G=function(){var _=document.getElementsByTagName("div");for(var A=_.length-1;A>=0;A--){if(_[A].className=="bgpagLn"){D=_[A].getElementsByTagName("a");}}},F=function(){for(var _=D.length-1;_>=0;_--){D[_].href=D[_].href.replace(/&vid1=.*&vid2=.*/ig,"")+("&vid1="+C+"&vid2="+B);}},_=function(_){var D=_.value,A=_.checked;if(A){C=B;B=D;}else{if(C==D){C=0;}else{B=C;C=0;}}};return{init:function(){A();E();G();F();},compare:function(){if(C!=0&&B!=0){document.diff.submit();}else{alert("\u8bf7\u9009\u62e9\u9700\u8981\u5bf9\u6bd4\u7684\u4e24\u4e2a\u7248\u672c\uff01");}},select:function(A){_(A);this.init();}};}();addOnload(window,VidMgr.init);/*]]>*/</script>
+</head>
+<body id="baike">
+<div id="userbar">
+</div> 
+<div id="wrap">
+<div id="header">
+<div id="search">
+<div id="logo">
+<a href="/"><img alt="到百科首页" border="0" class="nslog:1008" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" width="137"/></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/ns?fr=bk&amp;cl=2&amp;rn=20&amp;tn=news&amp;word=openfire" onmousedown="setHeadUrl(this)" wdfield="word">新闻</a><a href="http://www.baidu.com/s?fr=bk&amp;cl=3&amp;wd=openfire&amp;t=5" onmousedown="setHeadUrl(this)" wdfield="wd">网页</a><a href="http://tieba.baidu.com/f?fr=bk&amp;kw=openfire" onmousedown="setHeadUrl(this)" wdfield="kw">贴吧</a><a href="http://zhidao.baidu.com/q?fr=bk&amp;ct=17&amp;pn=0&amp;tn=ikaslist&amp;rn=10&amp;word=openfire" onmousedown="setHeadUrl(this)" wdfield="word">知道</a><a href="http://mp3.baidu.com/m?fr=bk&amp;tn=baidump3&amp;ct=134217728&amp;lm=-1&amp;word=openfire" onmousedown="setHeadUrl(this)" wdfield="word">MP3</a><a href="http://image.baidu.com/i?fr=bk&amp;tn=baiduimage&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;word=openfire" onmousedown="setHeadUrl(this)" wdfield="word">图片</a><a href="http://video.baidu.com/v?fr=bk&amp;ct=301989888&amp;rn=20&amp;pn=0&amp;db=0&amp;s=24&amp;word=openfire" onmousedown="setHeadUrl(this)" wdfield="word">视频</a><strong>百科</strong><a href="http://wenku.baidu.com/search?fr=bk&amp;word=openfire&amp;lm=0&amp;od=0" onmousedown="setHeadUrl(this)" wdfield="word">文库</a>
+</p>
+<form action="/searchword/" method="get" name="f1" target="_self">
+<input id="word" maxlength="400" name="word" tabindex="1" value="openfire"/>
+<input class="search-btn nslog:1010" onclick="document.f1.pic.value=1" tabindex="2" type="submit" value="进入词条"/><input class="search-btn nslog:1011" onclick="document.f1.pic.value=2" tabindex="3" type="submit" value="搜索词条"/>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a><a class="nslog:1013" href="#" onclick="setSug();return false">设置</a>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">/*<![CDATA[*/var baikeHeaderConf={sugProdName:"baike",searchInputId:baidu.g("word")||baidu.g("kw")};void function(A){var _={url:{}};_.url.escapeSymbol=function(_){return String(_).replace(/[#%&+=\/\\\ \\u3000\f\r\n\t]/g,function(_){return"%"+(256+_.charCodeAt()).toString(16).substring(1).toUpperCase();});};window.setHeadUrl=function(B){B.href=B.href.replace(new RegExp("("+B.getAttribute("wdfield")+"=)[^&]*"),"$1"+_.url.escapeSymbol(A.value));};}(baikeHeaderConf.searchInputId);/*]]>*/</script>
+</div></div>
+<div id="page">
+<div class="dh sml" style="margin-left:8px"><a href="/">百度百科</a> >&#160;词条历史版本列表</div><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="titbg" nowrap="nowrap"><b>历史版本</b></td>
+</tr>
+</table><form action="/diff/" method="get" name="diff" target="_blank">
+<input name="vid1" type="hidden" value=""/>
+<input name="vid2" type="hidden" value=""/>
+</form><div id="content">
+<div class="box2">
+<span class="Tit">openfire</span>
+<span class="f14">共被编辑 6 次</span>
+</div>
+<table border="0" cellpadding="2" cellspacing="0" style="margin-left:20px" width="100%">
+<tr>
+<td align="center" class="ln25 f14" nowrap="nowrap" width="60"><input onclick="VidMgr.compare()" type="submit" value="版本对比"/></td>
+<td class="ln25" width="20">&#160;</td>
+<td class="ln25 f14B acenter" nowrap="nowrap" width="150">更新时间</td>
+<td class="ln25 f14B" nowrap="nowrap" width="100">&#160;&#160;版本</td>
+<td class="ln25 f14B" nowrap="nowrap">&#160;</td>
+<td class="ln25 f14B" nowrap="nowrap" width="160">&#160;&#160;贡献者</td>
+<td class="ln25 f14B" nowrap="nowrap" width="100">&#160;&#160;头衔</td>
+<td class="ln25 f14B"> 修改原因</td>
+</tr>
+<tr>
+<td align="center" class="ln25 f14">&#160;<input name="cb" onclick="VidMgr.select(this)" type="checkbox" value="24498546"/>&#160;</td>
+<td class="ln25">&#160;</td>
+<td class="ln25 f14 acenter">
+2011-10-25 19:05</td>
+<td class="ln25 f14" nowrap="nowrap">&#160;
+<a href="/history/id=24498546" target="_blank" title="点此查看历史版本">查看</a>&#160;
+</td>
+<td align="right" class="ln25 f14" nowrap="nowrap">&#160;</td>
+<td class="ln25 f14">
+<a title='查看此用户资料' class='usercard' userName='Sophia3535'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=Sophia3535#3'>Sophia3535</a>&#160;
+</td>
+<td class="ln25 f14"><a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank" title=""><img align="absmiddle" class="usertitle level1" src="http://img.baidu.com/img/baike/blank.gif"/></a></td>
+<td class="ln25 f14">
+新的版本发行了</td>
+</tr>
+<tr>
+<td align="center" class="ln25 f14">&#160;<input name="cb" onclick="VidMgr.select(this)" type="checkbox" value="19374329"/>&#160;</td>
+<td class="ln25">&#160;</td>
+<td class="ln25 f14 acenter">
+2011-04-12 19:30</td>
+<td class="ln25 f14" nowrap="nowrap">&#160;
+<a href="/history/id=19374329" target="_blank" title="点此查看历史版本">查看</a>&#160;
+</td>
+<td align="right" class="ln25 f14" nowrap="nowrap">&#160;</td>
+<td class="ln25 f14">
+<a title='查看此用户资料' class='usercard' userName='__夜_狠美__'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=__%D2%B9_%BA%DD%C3%C0__#3'>__夜_狠美__</a>&#160;
+</td>
+<td class="ln25 f14"><a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank" title=""><img align="absmiddle" class="usertitle level2" src="http://img.baidu.com/img/baike/blank.gif"/></a></td>
+<td class="ln25 f14">
+新开的。</td>
+</tr>
+<tr>
+<td align="center" class="ln25 f14">&#160;<input name="cb" onclick="VidMgr.select(this)" type="checkbox" value="19243627"/>&#160;</td>
+<td class="ln25">&#160;</td>
+<td class="ln25 f14 acenter">
+2011-04-07 05:16</td>
+<td class="ln25 f14" nowrap="nowrap">&#160;
+<a href="/history/id=19243627" target="_blank" title="点此查看历史版本">查看</a>&#160;
+<a href="http://www.baidu.com/search/baike_help.html#复杂编辑" target="_blank"><img align="absmiddle" border="0" src="http://img.baidu.com/img/baike/contri/complex.png" title="本版本已经被选为复杂版本，感谢百科ROBOT对词条改进做出的辛勤贡献"/></a>
+</td>
+<td align="right" class="ln25 f14" nowrap="nowrap">&#160;</td>
+<td class="ln25 f14">
+<a title='查看此用户资料' class='usercard' userName='百科ROBOT'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B0%D9%BF%C6ROBOT#3'>百科ROBOT</a>&#160;
+</td>
+<td class="ln25 f14"><a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank" title=""><img align="absmiddle" class="usertitle level15" src="http://img.baidu.com/img/baike/blank.gif"/></a></td>
+<td class="ln25 f14">
+修改内链</td>
+</tr>
+<tr>
+<td align="center" class="ln25 f14">&#160;<input name="cb" onclick="VidMgr.select(this)" type="checkbox" value="18863772"/>&#160;</td>
+<td class="ln25">&#160;</td>
+<td class="ln25 f14 acenter">
+2011-03-23 13:38</td>
+<td class="ln25 f14" nowrap="nowrap">&#160;
+<a href="/history/id=18863772" target="_blank" title="点此查看历史版本">查看</a>&#160;
+</td>
+<td align="right" class="ln25 f14" nowrap="nowrap">&#160;</td>
+<td class="ln25 f14">
+<a title='查看此用户资料' class='usercard' userName='legionlee'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=legionlee#3'>legionlee</a>&#160;
+</td>
+<td class="ln25 f14"><a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank" title=""><img align="absmiddle" class="usertitle level2" src="http://img.baidu.com/img/baike/blank.gif"/></a></td>
+<td class="ln25 f14">
+版本更新</td>
+</tr>
+<tr>
+<td align="center" class="ln25 f14">&#160;<input name="cb" onclick="VidMgr.select(this)" type="checkbox" value="10105540"/>&#160;</td>
+<td class="ln25">&#160;</td>
+<td class="ln25 f14 acenter">
+2010-01-21 18:52</td>
+<td class="ln25 f14" nowrap="nowrap">&#160;
+<a href="/history/id=10105540" target="_blank" title="点此查看历史版本">查看</a>&#160;
+</td>
+<td align="right" class="ln25 f14" nowrap="nowrap">&#160;</td>
+<td class="ln25 f14">
+<a title='查看此用户资料' class='usercard' userName='wolf524'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=wolf524#3'>wolf524</a>&#160;
+</td>
+<td class="ln25 f14"><a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank" title=""><img align="absmiddle" class="usertitle level3" src="http://img.baidu.com/img/baike/blank.gif"/></a></td>
+<td class="ln25 f14">
+新版本信息</td>
+</tr>
+<tr>
+<td align="center" class="ln25 f14">&#160;<input name="cb" onclick="VidMgr.select(this)" type="checkbox" value="3331932"/>&#160;</td>
+<td class="ln25">&#160;</td>
+<td class="ln25 f14 acenter">
+2008-03-23 20:07</td>
+<td class="ln25 f14" nowrap="nowrap">&#160;
+<a href="/history/id=3331932" target="_blank" title="点此查看历史版本">查看</a>&#160;
+</td>
+<td align="right" class="ln25 f14" nowrap="nowrap">&#160;</td>
+<td class="ln25 f14">
+<a title='查看此用户资料' class='usercard' userName='tester_007'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=tester_007#3'>tester_007</a>&#160;
+</td>
+<td class="ln25 f14"><a href="http://www.baidu.com/search/baike_help.html#百科积分体系" target="_blank" title=""><img align="absmiddle" class="usertitle level1" src="http://img.baidu.com/img/baike/blank.gif"/></a></td>
+<td class="ln25 f14">
+创建词条</td>
+</tr>
+<tr>
+<td align="center" class="f14" nowrap="nowrap"><input onclick="VidMgr.compare()" type="submit" value="版本对比"/></td>
+<td colspan="5"></td>
+</tr>
+</table>
+<div align="center" class="bgpagLn">
+<div class="page">
+<form method="get" name="jumpform">
+<font class=f9>共有 <span id='rsTotal'>6</span> 条记录 &nbsp;&nbsp;&nbsp;1</font></form>
+</div>
+</div>
+<div align="right"><a class="f12" href="#">返回页首</a></div>
+</div><br/>
+</div>
+<div class="nslog-area" data-nslog-type="1001" id="footer">
+&#169; 2012 Baidu <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>
+</div>
+</div>
+<div id="sidecatalog" style="position:absolute;display:none">
+<div class="sidebar" id="sidebar"></div>
+<a class="gotop" href="#" id="gotop" title="返回顶部"></a>
+</div>
+<div id="side-catalog-content" style="display:none;position:absolute"></div>
+</body>
+</html>

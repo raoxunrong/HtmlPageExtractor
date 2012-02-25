@@ -1,0 +1,388 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+
+<meta name="Description" content="汇聚热门博客分享、相册分享、视频分享" /> 
+
+<meta name="Keywords" content="热门、博客、相册、视频" /> 
+
+<title>
+最新分享_分享_百度空间
+      </title>
+
+<link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/css/appmerge.css?v=120917d1.css"><link rel="stylesheet" type="text/css" href="http://hi.bdimg.com/static/apps/appshare/css/share.css?v=61e1d59f.css" />
+<script type="text/javascript" src="http://img.baidu.com/js/tangram-base-1.3.5.js?v=9b0cab75.js"></script><script src="http://hi.bdimg.com/static/js/appmerge.js?v=8655ab76.js"></script><script>
+if(typeof App == 'undefined') window.App = {};
+App.Domain = {"space" : "http://hi.baidu.com","space_static" : "http://hi.bdimg.com","photo" : "http://hiphotos.baidu.com","passport" : "https://passport.baidu.com","msg" : "http://msg.baidu.com","friend" : "http://frd.baidu.com","portrait" : "http://tx.bdimg.com","apps" : "http://apps.hi.baidu.com","hitn" : "http://hitn.bdimg.com","coin" : "http://coin.baidu.com","static" : "http://hi.bdimg.com","static_apps" : "http://hi.bdimg.com","img" : "http://img.baidu.com","www" : "http://www.baidu.com"}
+var g_mail_valid = 0;
+</script>
+<script type="text/javascript" src="http://hi.bdimg.com/static/apps/appshare/js/baidu.js?v=432efb7a.js"></script><script type="text/javascript" src="http://hi.bdimg.com/static/apps/appshare/js/share.js?v=39642bbf.js"></script>
+<script type="text/javascript">window.spUserStatus="0";window.g_cur_app_id=5004;</script>
+</head>
+<body>
+<div id="doc">	
+	
+<link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/base/css/base.css?v=6802b562.css"><script src="http://hi.bdimg.com/static/base/js/conf/base.js?v=42039d1f.js"></script> <div class=userbar> <div id=nav> <a class=logo href="http://hi.baidu.com/index.htm"><img src=http://img.baidu.com/hi/logo/logo_93_30.gif border=0 alt="百度空间Logo"></a><ul class=topmenu><li><a href="http://apps.hi.baidu.com/" class=on>应用</a></ul><div class=manage style="width:380px;"><a href="http://hi.baidu.com/reg/new" class=reglink style="float:right;" onclick="Space.Libs.loginDialog();loginDialog.changeTab(1);return false;">注册</a><form action="https://passport.baidu.com/?login" method=post>用户名:<input name=username>&nbsp;&nbsp; 密码:<input type=password name=password> <input type=hidden value=on name=mem_pass><input class=loginlink value="登录" type=submit> </form> </div></div></div>	<script src="http://hi.bdimg.com/static/base/js/conf/comment.js?v=a10e3094.js"></script>	<div id="mainbody" class="cf mainbody">
+		
+<div class=leftmenu><div class=lefttop> </div><div class=leftcontent><div class=appmenu><div class="applist sysapp"><ul><li class=appicon5006><a href="http://apps.hi.baidu.com/hoho" id=appid-5006><span>HOHO</span></a><li class=appicon5004><a href="http://apps.hi.baidu.com/share" id=appid-5004><span>分享</span></a><li class=appicon5003><a href="http://apps.hi.baidu.com/vote" id=appid-5003 target=_blank><span>投票</span></a><li class=appicon5002><a href="http://apps.hi.baidu.com/test" id=appid-5002 target=_blank><span>测试</span></a><li class=appicon5000><a href="http://apps.hi.baidu.com/gift" id=appid-5000 target=_blank><span>礼物</span></a></ul></div><div class=line> </div> <div class="applist frdcenter"> <h5 class=nav-parent><a href="http://hi.baidu.com//ihome/square" target=_blank><span class="appicon ctappicon0">交友中心</span></a><button class=ddl-btn onclick="App.SideList.ToggleList(this,'frdCenterAppList');"></button></h5> <ul id=frdCenterAppList style="display:none;"> <li><a href="http://apps.hi.baidu.com/dashan" target=_blank><span class="appicon ctappicon0-1">搭讪</span></a> <li><a href="http://apps.hi.baidu.com/duiwei" target=_blank><span class="appicon ctappicon0-2">对味测试</span></a> <li><a href="http://apps.hi.baidu.com/suliao" target=_blank><span class="appicon ctappicon0-3">闪电速聊</span></a> <li><a href="http://hi.baidu.com//ihome/square" target=_blank><span class="appicon ctappicon0-4">找朋友</span></a> </ul> </div> <div class=line></div><div id=AppListAll style="height:auto; overflow:hidden; color:#4C7D08;"> <h5 class=nav-parent><a href="http://apps.hi.baidu.com/apps" target=_blank><span class="appicon ctappicon1">应用大厅</span></a><button class=ddl-btn data_status=more onclick="App.SideList.ToggleList(this,'defaultAppList');App.SideList.SwapMoreThirdApp(this,'');"></button></h5><ul class="applist thirdapp" id=defaultAppList style="display:none;"></ul><ul class="applist thirdapp" id=installAppList style="display:none;" data_empty=1></ul></div><div class=line> </div><ul class="applist thirdapp" id=webgame><li><a href="http://youxi.baidu.com/prom.xhtml?code=G-%D7%8E%81%B2%29%FF%8AR%BC%8B%EE%85%1C%E5" target=_blank><span style="background:url(http://hi.bdimg.com/static/img/appframe/icon_game.gif) no-repeat scroll 16px center; padding-left: 50px;">网页游戏</span></a></ul></div></div><div class=leftbottom> </div></div><script>
+baidu.dom.ready(function(){
+			baidu.g('defaultAppList').innerHTML = App.getAppListHtml(App.getDefaultAppList());
+	(typeof g_cur_app_id != 'undefined') && baidu.g('appid-'+g_cur_app_id) && (baidu.g('appid-'+g_cur_app_id).className = 'on');
+	    window.Session =  window.Session || {};
+    baidu.extend(window.Session,{
+		userPortrait:"",
+		userName:"",
+		spaceURL:""
+	});
+
+	})
+</script>		<div class="rightbody">
+		<div id="maincontent" class="clearfix">
+				<div id="appShare" class="app-share">
+                                 
+    <style type="text/css">
+	#mainbody .contentBox div.appcontent2 {float: none;width: auto; }
+	#mainbody .contentBox div.hotapplist {display: none;}
+    </style>
+
+   
+
+    <div class="mod-tab clearfix">    <div class="title"><h2 class="icon i5004">分享</h2></div>    <ul class="ul clearfix">        <li class=""><a href="/share/">热门分享</a></li>        <li class=""><a href="/share/latest/?type=video">最新分享</a></li>        		<li class=""><a href="#"  onclick="Space.Libs.loginDialog('http://apps.hi.baidu.com/share/friend/'); return false;">好友的分享</a></li>        <li class=""><a href="#"  onclick="Space.Libs.loginDialog('http://apps.hi.baidu.com/share/mine/'); return false;">我的分享</a></li>            </ul>    	<div class="share-top">					<div class="cf" id="appShareCont"><div id="appShareButton"></div><div id="appShareInputContainer" style="display:none">    <form onsubmit="return share.create.inputByForm('');">        <input id="appShareInput" type="text" value="请输入视频、网页、音乐的网址"  onmousedown="Space.Libs.loginDialog();this.blur();"  /><input id="appShareSubmit" onfocus="this.blur()" type="submit" value=""/>    </form>	<div id="appShareClose"></div></div></div>			<a href="#" onclick="share.create.tip(); return false;" style="margin:0 10px">如何分享?</a>			<a target="_blank" href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%BF%D5%BC%E4">问题反馈</a>	</div></div><!--<div id="appShareNav" class="cf">    <div class="mod-space-tab">    <div class="tab-left-corner "><div class="tab-right-corner"><div class="tab-center"><a href="/share/">热门分享</a></div></div></div>    <div class="tab-left-corner "><div class="tab-right-corner"><div class="tab-center"><a href="/share/latest/?type=video">最新分享</a></div></div></div>                <div class="tab-left-corner "><div class="tab-right-corner"><div class="tab-center"><a href="#" onclick="Space.Libs.loginDialog('http://apps.hi.baidu.com/share/friend/'); return false;">好友的分享</a></div></div></div>        <div class="tab-left-corner "><div class="tab-right-corner"><div class="tab-center"><a href="#" onclick="Space.Libs.loginDialog('http://apps.hi.baidu.com/share/mine/'); return false;">我的分享</a></div></div></div>        	<a href="http://act.hi.baidu.com/act/share/index.html" onclick="Space.Libs.ns_trackerLink('m_20100402_sharewzl')"  style="color:#ff0000; font-weight: bold; line-height: 25px; text-decoration: underline; margin-left: 10px;">分享有礼啦！iPad大奖周周送！速速关注吧&gt;&gt;</a>    </div>	<div style="float:right;margin-top:-22px;margin-right:8px">			<a href="#" onclick="share.create.tip(); return false;" style="margin-right:10px">如何分享?</a>			<a target="_blank" href="http://hi.baidu.com/%D7%AA%CC%F9%BF%AA%B7%A2%D5%DF/">问题反馈</a>	</div></div><div class="clear"></div>-->
+    <div id="appShareDetail" class="clearfix">
+        <script type="text/javascript">
+            var share_info = {};
+        </script>
+        <a name="content"></a>
+        <div id="appShareAuthorInfo" class="clearfix">
+            <p>				<a href="http://hi.baidu.com/sys/checkuser/yxiaoxiao0001/3" target="_blank"><img src="http://tx.bdimg.com/sys/portraitn/item/7bc7797869616f7869616f30303031110c.jpg" width="30" height="30" style="border:1px solid #ddd" /></a></p>
+			<p>&nbsp;&nbsp;				<a href="http://apps.hi.baidu.com/share/user/7bc7797869616f7869616f30303031110c" target="_blank">yxiaoxiao0001的分享</a></p>
+			<p class="share-top-txt">分享</p>
+            <p style="float:right;margin-top:5px;"><a class="share-prev-item" href="/share/detail/9222201#content"></a>&nbsp;&nbsp;<a class="share-next-item" href="/share/detail/9221732#content"></a> </p>
+
+        </div>
+
+        <div id="appShareContent">
+            <div id="app-share-container">
+			<div id="appShareTitle">
+                                    <script type="text/javascript">
+                        share_info.allow_share = 1
+                    </script>
+                    <div id="appShareShareIcon" class="share-btn-img" onclick="share.share('7bc7797869616f7869616f30303031110c','9221981','','9221981')"></div>
+                                                                Openfire架设自己的即时聊天服务器
+            </div>
+			<div id="appShareOpt">
+                
+                            </div>
+            <div id="app-share-content">
+
+	                    <div style="font-weight: bold;"><font color="#ff00ff" size="4">一、安装环境<br>
+<br>
+</font></div>
+<font color="#ff00ff">操作系统：<span>Windows XP Prefessional SP2</span>&#160;&#160;&#160;&#160;&#160; or linux<br>
+</font> <font color="#ff00ff">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 服务器软件：Openfire 3.4.2<br>
+<span>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Openfire Enterprise 3.4.2</span><br>
+</font>  <font color="#ff00ff">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 客户端软件：<span>rooyee 2.0<br>
+<br>
+</span></font>
+<div style="font-weight: bold;"><font color="#ff00ff" size="4"><span style="font-weight: bold;">二、安装Jabber</span><span><span style="font-weight: bold;">服务器软件</span><br>
+<br>
+</span></font></div>
+<div><font color="#ff00ff" size="4">1.<font size="2"><font size="4">软件下载<br>
+</font><br>
+</font></font></div>
+<font color="#ff00ff"> Jabber官网地址：http://www.jabber.org/<br>
+常用Jabber服务器软件：http://www.jabber.org/software/servers.shtml<br>
+本文以Openfire(Wildfire)为服务器，一款基于GPL协议开源软件，支持各种操作系统，<br>
+软件需要java环境支持，不过软件本身自带了环境包，你可以根据你的需要下载不同的版本。<br>
+下载地址：http://www.igniterealtime.org/downloads/index.jsp#openfire<br>
+Windows无java环境版本地址：<br>
+http://www.igniterealtime.org/downloadServlet?filename=openfire/openfire_3_4_2.zip<br>
+最新版本：Openfire 3.4.2<br>
+<br>
+</font>
+<div style="font-weight: bold;"><font color="#ff00ff" size="4"><font size="4" style="font-weight: bold;"><span style="font-weight: normal;">2.</span></font><font size="4" style="font-weight: bold;"><span style="font-weight: normal;">Windows</span></font><span><font size="4" style="font-weight: bold;"><span style="font-weight: normal;">版本安装</span></font><br>
+<br>
+</span></font></div>
+<div align="left"><font color="#ff00ff">将<span>openfire_3_2_2.zip解压缩到D:\。特别要注意，openfire的全路径中不能有中文字符，最好主机名也是标准点的英文名称。直接运行安装文件，D:\Openfire\bin\openfire.exe</span></font></div>
+<div><font color="#ff00ff" size="4"><img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI9C55-0.jpg"><br>
+<br>
+</font></div>
+<div><font color="#ff00ff" size="4"><span style="font-weight: bold;">3.Openfire</span><span><span style="font-weight: bold;">服务器配置<br>
+<br>
+</span></span></font></div>
+<div align="left"><font color="#ff00ff">浏览器地址栏中输入<span><font size="2">http://localhost:9090/</font>即可开始即时通讯服务器配置。<br>
+</span></font></div>
+<div align="left" style="font-weight: bold;"><font color="#ff00ff"><span>（1）</span>语言选择：中文简体<br>
+<br>
+</font></div>
+<div align="left"><font color="#ff00ff">&#160;<img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI95644-1.jpg"><br>
+<br>
+</font></div>
+<div align="left" style="font-weight: bold;"><font color="#ff00ff"><span>（2）<span> </span></span>服务器设置：选择域及端口，建议默认<br>
+<br>
+</font></div>
+<div align="left"><font color="#ff00ff">&#160;<img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI92225-2.jpg"><br>
+<br>
+</font></div>
+<div align="left" style="font-weight: bold;"><font color="#ff00ff"><span>（3）</span>数据库设置：选“标准数据库”<br>
+<br>
+</font></div>
+<div align="left"><font color="#ff00ff">&#160;<img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI91363-3.jpg"><br>
+<br>
+</font></div>
+<div align="left" style="font-weight: bold;"><font color="#ff00ff"><span>（4）</span>标准数据库设置：将oracle驱动放在openfire的lib目录下。在数据库驱动选项栏选择<span>Oracle。<br>
+<br>
+</span></font></div>
+<div align="left"><font color="#ff00ff"><img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI961H-4.jpg"><br>
+<br>
+数据库URL填入你的数据库地址，端口和数据库名称，以及用户名和密码（需要在安装前创建），最大连接数，最小连接数和连接超时时间可自行调整。继续之后Openfire会在你指定的Oracle库中创建表并初始化。<br>
+<span style="font-weight: bold;"><br>
+</span></font></div>
+<div align="left"><font color="#ff00ff"><span><img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI932D-5.jpg"><br>
+<br>
+</span></font></div>
+<div align="left"><font color="#ff00ff"><span>如 果出现A connection to the database could not be made. View the error message by opening the &quot;/logs/error.log&quot; log file, then go back to fix the problem这样的错误提示，请确认你的oracle监听有没有问题，你的用户有没有足够的权限，实在不行把监听和服务命名删掉重新配置下。<br>
+<br>
+</span></font></div>
+<div align="left" style="font-weight: bold;"><font color="#ff00ff"><span>（5）</span>特性设置：默认为初使设置（应为初始设置，翻译有误）<br>
+<br>
+</font></div>
+<div align="left"><font color="#ff00ff">&#160;<img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI95K3-6.jpg"><br>
+<br>
+</font></div>
+<div align="left"><font color="#ff00ff"><span style="font-weight: bold;">（6）管理员帐户设置：填入系统管理员信息<br>
+</span><br>
+</font></div>
+<div align="left"><font color="#ff00ff">&#160;<img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI92027-7.jpg"><br>
+<br>
+</font></div>
+<div align="left"><font color="#ff00ff"><span style="font-weight: bold;">（7）安装完成<br>
+</span><br>
+</font></div>
+<div align="left"><font color="#ff00ff">&#160;<img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI953V-8.jpg"><br>
+</font></div>
+<div align="left" style="font-weight: bold;"><font color="#ff00ff"><span>（8）<span> </span></span>Openfire管理控制台：至此，<span>Openfire安装完毕。你可以继续登录到管理控制台，进行更为详细的设置。<br>
+<br>
+</span></font></div>
+<div align="left"><font color="#ff00ff">&#160;<img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI96323-9.jpg"><br>
+</font></div>
+<div align="left"><font color="#ff00ff"><span><img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI92226-10.jpg"><br>
+<br>
+<span style="font-weight: bold;">（9）</span></span><span style="font-weight: bold;">添加新帐户：</span></font></div>
+<div align="left"><font color="#ff00ff">打开管理控制台的用户<span>/组标签页，可以看到当前服务器上已有用户的摘要信息。<br>
+<br>
+</span></font></div>
+<div align="left"><font color="#ff00ff"><img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI941R-11.jpg"><br>
+<br>
+选择左侧菜单栏中的新建用户，输入用户名和登陆密码，点击创建用户完成新用户的添加。<br>
+<br>
+</font></div>
+<div align="left"><font color="#ff00ff"><img border="0" src="http://www.rooyee.biz/uploads/allimg/090324/1FI92D5-12.jpg"><br>
+在客户端就可以用<span>test这个用户登录了。</span></font></div>
+            			</div>
+            <div id="appShareUrl" style="clear:both;">
+                                <div id="appShareSafeLinkTip" style="display:none"><div class="appShareErrorIcon"></div>为了您的安全，请只打开来源可靠的网址<p><a  href="http://hi.baidu.com/it0820/blog/item/8239ec6f8525fed380cb4abc.html" target="_blank">打开网站</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="share.safelink.close();return false;">取消</a></p></div>
+                来自: <a href="http://hi.baidu.com/it0820/blog/item/8239ec6f8525fed380cb4abc.html" target="_blank" >http://hi.baidu.com/it0820/blog/item/8239ec6f8525fed380cb4abc.html</a>
+                            </div>
+            </div>
+			<div style="margin:10px 0 20px;" class="cf">
+									<div style="float:left;width:150px;height:24px">
+					<a style="margin-top:0;display:inline-block" id="shareToFrd" class="share-btn-img" onclick="share.share('7bc7797869616f7869616f30303031110c','9221981','','9221981')"></a></div>
+				                <div style="float:right;width:150px;text-align:right;height:24px"><a class="share-prev-item" href="/share/detail/9222201#content"></a>&nbsp;&nbsp;<a class="share-next-item" href="/share/detail/9221732#content"></a> </div>
+            </div>
+             <div id="appShareInfo" class="mod-border mod-right">
+				<dl>
+					<dt>来自:</dt>
+					<dd>
+																<table class="avatar-cnt" cellspacing="0">    <tr>        <td><a href="http://hi.baidu.com/sys/checkuser/it0820/3" target="_blank"><img src="http://tx.bdimg.com/sys/portraitn/item/3e376974303832309405.jpg"  /></a></td>    </tr></table>						<a href="http://hi.baidu.com/sys/checkuser/it0820/3" target="_blank" style="font-weight:normal">it0820</a>											</dd>
+				</dl>
+				<dl>
+					<dt>第一分享:</dt>
+					<dd>
+									<table class="avatar-cnt" cellspacing="0">    <tr>        <td><a href="http://hi.baidu.com/sys/checkuser/yxiaoxiao0001/3" target="_blank"><img src="http://tx.bdimg.com/sys/portraitn/item/7bc7797869616f7869616f30303031110c.jpg"  /></a></td>    </tr></table>					<a href="http://hi.baidu.com/sys/checkuser/yxiaoxiao0001/3" target="_blank" style="font-weight:normal">yxiaoxiao0001</a>					</dd>
+				</dl>
+				<div class="hr"></div>
+				<dl>
+					<dt>时间:</dt>
+					<dd>2010-06-17 11:26</dd>
+				</dl>
+				<dl>
+					<dt>评论:</dt>
+					<dd><span id="appShareCommentNumRight">0</span>条</dd>
+				</dl>
+				<dl>
+					<dt>投票:</dt>
+					<dd>0次</dd>
+				</dl>
+				<dl>
+					<dt>本贴分享:</dt>
+					<dd>4</dd>
+				</dl>
+				<dl>
+					<dt>累计分享:</dt>
+					<dd>5</dd>
+				</dl>
+							</div><!-- /appShareInfoBasic -->
+             			             <div id="appShareTag" class="mod-border" >
+             <h5>共有<span id="tagPepCont">0</span>人发表观点</h5>
+			 <ul class="clearfix tag-list">
+             </ul>
+			 <div class="clearfix">
+             <span class="publishWrap"><input type="button" value="发表" id="publish"></span>
+			 <input type="text" maxlength="16" value="直接输入标签词，最多可输入16个字" id="tagValue"/>
+			 <span class="tagInputHit">...目前还没有互动观点，输入您的互动观点</span>
+			 </div>
+			 </div>
+						
+            			<div id="appShareVote" class="mod-border mod-left">
+            </div>
+            <script type="text/javascript">
+                                baidu.dom.ready(function(){
+				    share.showBlogVote();
+                    share.showBlogMusic();
+                    share.removeUnsafeLink(); 
+                });
+				baidu.on(window,'load',function(){
+					resizeImgWidth('app-share-content',580);
+				})
+				                var vote_item_list = [],
+					my_friend_join_vote = [],
+					vote_num,
+					is_voted;
+                                vote_num = 0;
+                
+                                is_voted = false;
+                         
+                share.vote.displayVote('7bc7797869616f7869616f30303031110c',is_voted, '9221981', vote_item_list, vote_num, my_friend_join_vote );    
+            </script>
+
+
+         
+
+
+						<div id="appShareRelate" class="mod-border mod-left clearfix">
+				<p class="title">yxiaoxiao0001的										博客										相关分享:					
+				</p>
+				<ul class="clearfix">
+																	     	
+							<li>
+								<p><a href="/share/detail/9254287" target="_blank" title="我的318班 我的半个世界（二）教师篇--刘老师｛2｝">我的318班 我的半个世界（二）教师篇--刘老...</a></p>
+							</li>
+						     																							     	
+							<li>
+								<p><a href="/share/detail/9252309" target="_blank" title="【详细】今天一天的MYC战报！静临抱枕趣事在照片那里">【详细】今天一天的MYC战报！静临抱枕趣事...</a></p>
+							</li>
+						     																							     	
+							<li>
+								<p><a href="/share/detail/9242281" target="_blank" title="Postman.to.Heaven.天国的邮递员【官方高清中字版】">Postman.to.Heaven.天国的邮递员【官方高清...</a></p>
+							</li>
+						     																							     	
+							<li>
+								<p><a href="/share/detail/9232501" target="_blank" title="FinalFantasyVII-片翼の天使">FinalFantasyVII-片翼の天使</a></p>
+							</li>
+						     															</ul>
+			</div><!-- /appShareInfoRelate -->
+			
+
+
+
+			<div id="appShareComment">
+                <h3 class="share-comment-num">评论(<span id="appShareCommentNum">0</span>) </h3>
+                <div id="appShareCreateComment">
+					<form  action="http://hi.baidu.com/cmt/share/add_cmt" name="addcmt" onsubmit="Space.Libs.loginDialog();return false;" autocomplete="off">
+                    <dl>
+                        <dd class="cf">
+														                            <div style="float:left;width:65px;">&nbsp</div>
+							                            <textarea onkeyup="share.listenerSelection(event,this)" onmouseup="share.listenerSelection(event,this)" onfocus="share.listenerSelection(event,this)" name="content" id="share_comment_content"  onmousedown="Space.Libs.loginDialog();this.blur();"  ></textarea>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dd>
+                        <div id="appShareCommentCreateError" class="error"></div>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dd class="submit-box">
+                            							<input type="submit" value="" class="share-comment-btn"/>
+                        </dd>
+                    </dl>
+                    </form>
+                </div>
+            </div>
+
+
+
+
+
+
+			<div id="appShareCommentList"></div>
+			<div id="appShareCommentListPager"></div>
+		
+			<script type="text/javascript">
+			    var detail_share_info=detail_share_info||{};
+                detail_share_info["is_mine"]="";
+				detail_share_info["token"]="";
+                detail_share_info["shid"]="9221981";
+				detail_share_info["first_portrait"]="7bc7797869616f7869616f30303031110c";
+			</script>
+		
+
+
+
+
+
+
+        </div>
+		
+    </div>
+	<script type="text/javascript">
+	baidu.dom.ready(function(){var a=(function(){var i="http://nsclick.baidu.com/h.gif?pid=109&v=app-share-detail2011";var h="bd_clickmonkey";var d=function(n){var j=(new Date()).getTime();var m=window[h+j]=new Image();var l="";for(var k in n){l+=("&"+k+"="+n[k])}m.src=i+"&r="+j+l;m.onload=m.onerror=function(){m=null}};var c="";var e=function(l,m){m=m||[];c=l.monkey||l.getAttribute("monkey")||c;if(l.parentNode&&l.parentNode.tagName.toUpperCase()!="BODY"){m=e(l.parentNode,m)}if(l.previousSibling){var k=1;var j=l.previousSibling;do{if(j.nodeType==1&&j.nodeName==l.nodeName){k++}j=j.previousSibling}while(j)}if(l.nodeType==1){m.push(l.nodeName.toLowerCase()+(k>1?k:""))}return m};var g=function(n,m,k,j){if(n.addEventListener){n.addEventListener(m,k,j);return true}else{if(n.attachEvent){var l=n.attachEvent("on"+m,k);return l}}};var b=function(j){return encodeURIComponent(j)};g(document.body,"mousedown",function(m){var m=window.event||m;var k=m.srcElement||m.target;if(k.tagName.toUpperCase()!="A"){if(k.parentNode.tagName.toUpperCase()=="A"){k=k.parentNode}else{if(!(k.tagName.toUpperCase()=="INPUT"&&(k.type.toLowerCase()=="checkbox"||k.type.toLowerCase()=="radio"))){return}}}c="";var l=e(k).join("-");var n={xp:l};var j=k.getAttribute("href",2);if(j&&!(/^javascript|#/.test(j))){n.objurl=b(j)}else{n.objurl="none"}if(k.innerHTML&&!(/^\s*</i.test(k.innerHTML))&&!(/>\s*$/i.test(k.innerHTML))){n.title=b(k.innerHTML)}else{n.title="none"}if(c){n.monkey=c}d(n)});var f=function(l,k,j){var m={xp:"_"+l+"_"};if(k){m.objurl=b(k)}else{m.objurl="none"}if(j){m.title=b(j)}else{m.title="none"}d(m)};return{log:f}})()});
+	</script>
+	<script type="text/javascript">
+	var detail_share_info=detail_share_info||{};
+	detail_share_info["tagnub"]="0";
+	</script>
+<script type="text/javascript" src="http://hi.bdimg.com/static/apps/appshare/js/tag.js?v=f208cc50.js"></script>	
+				 </div>
+			</div>	        
+		            
+		
+		</div>
+	<div class="clear"></div>
+	
+	
+	</div>
+	
+<div class=clearfix></div><div style="text-align:center;margin:30px auto 15px;font-family:Arial,simsun;font-size:12px;"><div style="margin:0 auto 6px;"><a href=http://help.baidu.com/question?prod_en=space target=_blank style="color:#00C;text-decoration: underline;">帮助中心</a><span>&nbsp;|&nbsp;</span><a href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%BF%D5%BC%E4&fr=wwwt" target=_blank style="color:#00C;text-decoration: underline;">空间客服</a><span>&nbsp;|&nbsp;</span><a href=http://tousu.baidu.com/hi/add target=_blank style="color:#00C;text-decoration: underline;">投诉中心</a><span>&nbsp;|&nbsp;</span><a href=http://www.baidu.com/search/hi_contract.html target=_blank style="color:#00C;text-decoration: underline;">空间协议</a></div><div style="color:#7A77C8;">&copy;2012&nbsp;Baidu</div></div></div>
+<input type="hidden" value="" name="bdstoken" id="bdstoken" />
+<script type="text/javascript">
+window.g_isShare = true;
+share.parseUrl();
+share.create.initInputButton();
+</script>
+</body>
+</html>

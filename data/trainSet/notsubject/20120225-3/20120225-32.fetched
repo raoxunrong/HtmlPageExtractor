@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>搜狐|招聘专区首页</title>
+<meta http-equiv="X-UA-Compatible" content="IE=7" ><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="/img/sohu/favicon.ico"  type="image/x-icon" />
+    <link rel="bookmark" href="/img/sohu/favicon.ico"  type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/css/sohu/global.css" />
+<link rel="stylesheet" type="text/css" href="/css/sohu/index.css" />
+<link rel="stylesheet" type="text/css" href="/js/slide/default/slide.css" />
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/sohu/ie.css" /><! [end if]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/sohu/bug.css" /><! [end if]-->
+ 
+    <script type="text/javascript" src="/js/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/slide/slide.js"></script>
+</head>
+<body>
+<div class="wrapper">
+    <div class="header">
+        <div class="masthead">
+            <h1 id="logo" class="logo">
+                <a href="http://www.sohu.com" target="_blank">sohu<img src="/img/sohu/logo.gif" alt="sohu.com" /></a>
+            </h1>
+            <div class="partners">
+                <a href="http://www.changyou.com/" target="_blank"><img src="/img/sohu/partners/logo5.gif" alt="畅游" /></a>
+                <a href="http://www.sogou.com/" target="_blank"><img src="/img/sohu/partners/logo1.gif" alt="搜狗" /></a>
+                <a href="http://pinyin.sogou.com/" target="_blank"><img src="/img/sohu/partners/logo6.gif" alt="搜狗输入法" /></a>
+                <a href="http://house.focus.cn/" target="_blank"><img src="/img/sohu/partners/logo3.gif" alt="搜狐焦点" /></a>
+                <a href="http://www.17173.com/" target="_blank"><img src="/img/sohu/partners/logo2.gif" alt="17173" /></a>
+                <a href="http://www.chinaren.com/" target="_blank"><img src="/img/sohu/partners/logo4.gif" alt="ChinaRen" /></a>
+                <a href="http://www.go2map.com/" target="_blank"><img src="/img/sohu/partners/logo7.gif" alt="图行天下" style="border-right: 0;" /></a>
+            </div>
+        </div>
+        <div class="channelWrap" id="channelWrap">
+            <div class="navList">
+                <ul>
+                    <li class="home"><a href="/"><span>首页</span></a></li>
+                    <li><a href="/!html/_/about/"><span>认识搜狐</span></a></li>
+                    <li><a href="/!professinalhire/"><span>社会招聘</span></a></li>
+                    <li><a href="/!campus/"><span>校园招聘</span></a></li>
+                    <li><a href="/!html/_/here/"><span>人在搜狐</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+    <div class="slideWrapper" id="slideWrapper">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/img/sohu/swf/index-banner.swf" />
+            <!--[if !IE]>-->
+            <object type="application/x-shockwave-flash" data="/img/sohu/swf/index-banner.swf">
+                <!--<![endif]-->
+                <param name="wmode" value="transparent" />
+                <p>
+                    <a href="http://www.adobe.com/go/getflashplayer" target="_blank">获取升级Flash插件</a>
+                </p>
+                <!--[if !IE]>-->
+            </object>
+            <!--<![endif]-->
+        </object>
+    </div>
+    <div class="welcomeWrapper">
+        <div class="welcome">
+            <p><a href="/!professinalhire/"><span>搜狐为你准备了绝佳的工作机会和发展平台，欢迎你的加入。现在，<b>开始你在搜狐的求职之旅吧</b>与我们共创辉煌！</span></a></p>
+            <a href="/!professinalhire/" class="hand"><span>社会招聘</span></a>
+        </div>
+    </div>
+</div>   
+    <div class="footer">
+        <p class="footerNav">
+            <a href="/">Home</a> |
+            <a href="/!html/_/about/">About Us</a> |
+            <a href="/!professinalhire/">Social Recruitment</a> |
+            <a href="/!campus/">Campus Recruitment</a> |
+            <a href="/!html/_/here/">People in Sohu</a>
+        </p>
+        <p class="copyright">Copyright @ 2011 Sohu.com Inc. All Rights Reserved. 搜狐公司 <a href="http://corp.sohu.com/s2007/copyright/" target="_blank">版权所有</a></p>
+        <p class="toolBar"><a href="javascript:void(0);" class="goTop" title="返回顶部" onclick="window.scrollTo(0, 0); this.blur();"><span>返回顶部</span></a></p>
+    </div>
+</div>
+</body>
+</html>

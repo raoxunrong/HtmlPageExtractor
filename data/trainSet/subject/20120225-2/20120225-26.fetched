@@ -1,0 +1,429 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-CN">
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>by tag Sql | 点滴之间 聚沙成金</title>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.path8.net/tn/wp-content/themes/zbench/style.css" />
+	<link rel="pingback" href="http://www.path8.net/tn/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; Feed" href="http://www.path8.net/tn/feed" />
+<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; 评论 Feed" href="http://www.path8.net/tn/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; sql 标签 Feed" href="http://www.path8.net/tn/archives/tag/sql/feed" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.path8.net/tn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.path8.net/tn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+
+<!-- All in One SEO Pack 1.6.13.8 by Michael Torbert of Semper Fi Web Design[301,344] -->
+<link rel="canonical" href="http://www.path8.net/tn/archives/tag/sql" />
+<!-- /all in one seo pack -->
+
+<style type="text/css">.navigation{display: none;}</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- wp thread comment 1.4.9.4.002 -->
+<style type="text/css" media="screen">
+.editComment, .editableComment, .textComment{
+	display: inline;
+}
+.comment-childs{
+	border: 1px solid #999;
+	margin: 5px 2px 2px 4px;
+	padding: 4px 2px 2px 4px;
+	background-color: white;
+}
+.chalt{
+	background-color: #E2E2E2;
+}
+#newcomment{
+	border:1px dashed #777;width:90%;
+}
+#newcommentsubmit{
+	color:red;
+}
+.adminreplycomment{
+	border:1px dashed #777;
+	width:99%;
+	margin:4px;
+	padding:4px;
+}
+.mvccls{
+	color: #999;
+}
+			
+</style>
+</head>
+<body class="archive tag tag-sql tag-242">
+<div id="nav">
+	<div id="menus">
+		<ul><li><a href="http://www.path8.net/tn/">首页</a></li></ul>
+		<ul id="menu-%e4%b8%bb%e8%8f%9c%e5%8d%95" class="menu"><li id="menu-item-2817" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2817"><a href="http://www.path8.net/tn/archives/category/private">原创文章</a></li>
+<li id="menu-item-2816" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2816"><a href="http://www.path8.net/tn/archives/category/web-technique/php-hypertext-preprocessor">PHP</a></li>
+<li id="menu-item-2811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2811"><a href="http://www.path8.net/tn/mesgbox">敬请留言</a></li>
+<li id="menu-item-2813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2813"><a href="http://www.path8.net/tn/about">关于</a>
+<ul class="sub-menu">
+	<li id="menu-item-4300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4300"><a href="http://www.path8.net/tn/about/master-log">站长日志</a></li>
+	<li id="menu-item-2830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2830"><a href="http://www.path8.net/tn/why-luowuzhe">关于我</a></li>
+</ul>
+</li>
+<li id="menu-item-4933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4933"><a href="http://blog.path8.net">本站将转至...</a></li>
+</ul>	</div>
+	<div id="search">
+		<form id="searchform" method="get" action="http://www.path8.net/tn/">
+<input type="text" value="站内搜索" onfocus="if (this.value == '站内搜索') {this.value = '';}" onblur="if (this.value == '') {this.value = '站内搜索';}" size="35" maxlength="50" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="搜索" />
+</form>	</div>
+</div>
+<div id="wrapper">
+	<div id="header">		<h1><a href="http://www.path8.net/tn/">点滴之间 聚沙成金</a></h1>
+		<h2>一个落伍者的博客 关注于web开发, linux, 安全. etc</h2>
+		<div class="clear"></div>
+			</div>
+<div id="content">
+		<div class="page-title">
+					<h1>标签存档: <span>sql</span></h1>
+			</div>
+		<div class="post-3427 post type-post status-publish format-standard hentry category-web-netmngr tag-sql tag-sql tag-259" id="post-3427"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3427" title="链接到 sql注入原理实例解析">sql注入原理实例解析</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3427" title="20:58" rel="bookmark">2010/12/04</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3427#respond" title="《sql注入原理实例解析》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3427" title="sql注入原理实例解析"></a><p>比如当知道网站管理员帐号存在表login中，管理员帐号名为admin 想知道admin的密码，这里接着从客户端提交这样一个网址：<br />
+http://localhost/test/show.asp?ID=4 and (Select password from login where user_name=’admin’)&gt;0，返回的出错信息如下：<br />
+·错误类型：</p>
+<p><span class="readmore"><a href="http://www.path8.net/tn/archives/3427" title="sql注入原理实例解析" target="_blank">阅读全文——共612字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3424 post type-post status-publish format-standard hentry category-web-netmngr tag-sql tag-sql tag-155 tag-633" id="post-3424"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3424" title="链接到 SQL手动注入分析/手动注入检测/手动注入脚本命令精华">SQL手动注入分析/手动注入检测/手动注入脚本命令精华</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3424" title="20:53" rel="bookmark">2010/12/04</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3424#respond" title="《SQL手动注入分析/手动注入检测/手动注入脚本命令精华》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3424" title="SQL手动注入分析/手动注入检测/手动注入脚本命令精华"></a><p>SQL手动注入分析/手动注入检测/手动注入脚本命令精华<br />
+入侵过程主要包括以下几个步骤：<br />
+1、测试ASP系统是否有注入漏洞；<br />
+2、获取数据库表名；<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3424" title="SQL手动注入分析/手动注入检测/手动注入脚本命令精华" target="_blank">阅读全文——共6710字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-2305 post type-post status-publish format-standard hentry category-ms-sql-server tag-delete tag-drop tag-sql tag-truncate tag-424" id="post-2305"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/2305" title="链接到 SQL Server中truncate、delete和drop的异同点">SQL Server中truncate、delete和drop的异同点</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/2305" title="10:46" rel="bookmark">2010/09/07</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/2305#respond" title="《SQL Server中truncate、delete和drop的异同点》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/2305" title="SQL Server中truncate、delete和drop的异同点"></a><p>正在加载数据...<br />
+　　相同点：<br />
+　　truncate和不带where子句的delete，以及drop都会删除表内的数据<br />
+　　不同点：<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/2305" title="SQL Server中truncate、delete和drop的异同点" target="_blank">阅读全文——共843字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-1987 post type-post status-publish format-standard hentry category-ms-sql-server category-mysql-server category-private category-character-encoding tag-sql tag-286 tag-380 tag-379" id="post-1987"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/1987" title="链接到 数据库中乱码记录查找与删除/sql server剔除乱码行">数据库中乱码记录查找与删除/sql server剔除乱码行</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/1987" title="14:37" rel="bookmark">2010/07/01</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/1987#respond" title="《数据库中乱码记录查找与删除/sql server剔除乱码行》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/1987" title="数据库中乱码记录查找与删除/sql server剔除乱码行"></a><p>乱码一般都是正常编码被错误的解析而导致。每个错误的编码，都会对应着一个正确的编码，也就是，出现频率高的乱码字符，其实就是出现高频字符（一般都是汉字）对应的乱码。所以说，如果找到高频字符对应的乱码，在sql表里，使用like  查询即可以找到乱码行。也就是说，查找到一系列高频乱码字符，就可以很容易的查找到绝大多数乱码行。由于有乱码的表里存储的数据可能是不同行业、不同领域的信息，高频汉字可能不尽相同。（生命科学领域里，细、胞、蛋、白、质、核、酸等这些字频率会非常高；而计算机领域里，内、存、储、变、量、进、程等汉字会是调频汉字；其它领域亦类似）。所以查找剔除乱码记录时，最好是整理一个最准确乱码字符表。下面给出一个整理乱码表比较直接、有效的方法（是笔者所探索发现的方法）：&nbsp;&nbsp;1.  找到一定数量的乱码记录（建议在200条以上）&nbsp;&nbsp;2. 把这些乱码整理出来，并拆分成单字，并统计每个单字出现频率。（建议使用excel+UE/editplus等工具）&nbsp;&nbsp;3.  取最高频的50个单字（这里当然是要找明显是乱码的单字；也可以不是50个字，80个100个也行）&nbsp;&nbsp;4. 使用UE或excel生成对应的50个sql  like语句，形式如下select * from [乱码表] where [乱码字段] like '%锛%' select * from  [乱码表] where [乱码字段] like '%绂%'select * from [乱码表] where [乱码字段] like  '%脠%'select * from [乱码表] where [乱码字段] like '%┖%'select * from [乱码表]  where [乱码字段] like '%锲%'......<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/1987" title="数据库中乱码记录查找与删除/sql server剔除乱码行" target="_blank">阅读全文——共1443字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-1718 post type-post status-publish format-standard hentry category-ms-sql-server category-mysql-server tag-join tag-sql" id="post-1718"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/1718" title="链接到 SQL LEFT JOIN 关键字">SQL LEFT JOIN 关键字</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/1718" title="11:58" rel="bookmark">2010/05/24</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/1718#respond" title="《SQL LEFT JOIN 关键字》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/1718" title="SQL LEFT JOIN 关键字"></a><p>SQL LEFT JOIN 关键字<br />
+LEFT JOIN 关键字会从左表 (table_name1) 那里返回所有的行，即使在右表 (table_name2) 中没有匹配的行。<br />
+LEFT JOIN 关键字语法<br />
+SELECT column_name(s)<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/1718" title="SQL LEFT JOIN 关键字" target="_blank">阅读全文——共804字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-1716 post type-post status-publish format-standard hentry category-mysql-server category-security category-server-management tag-inject tag-sql tag-33 tag-166 tag-328" id="post-1716"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/1716" title="链接到 SQL盲注攻击技术概览综述">SQL盲注攻击技术概览综述</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/1716" title="11:55" rel="bookmark">2010/05/24</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/1716#respond" title="《SQL盲注攻击技术概览综述》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/1716" title="SQL盲注攻击技术概览综述"></a><p>本文对目前SQL注入攻击中使用的盲注技术进行了综述。本文首先介绍了普通SQL注入技术的定义和危害，回顾了几种已被提出的针对SQL注入的防御手段及 其各自的缺点，然后讨论了在错误信息被屏蔽或掩饰的情况下探测SQL注入漏洞是否存在所需的服务器最小响应，以及如何确定注入点和确定正确的注入句法并构 造利用代码。最后本文还以UNION  SELECT语句为例，详细介绍了利用该语句在盲注条件下统计数据表的列数和判断列的数据类型的方法和步骤。本文中给出的例子都是针对Microsoft SQL  Server和Oracle的，但同样的技术也可以被应用到其他数据库系统。本文的目的是明确应用程序级别的漏洞只能通过应用程序级别的方案才能解决，仅仅依靠屏蔽错误信息来回避SQL注入攻击是无益的。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/1716" title="SQL盲注攻击技术概览综述" target="_blank">阅读全文——共13084字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3297 post type-post status-publish format-standard hentry category-ms-sql-server category-web-netmngr tag-sql tag-613 tag-166" id="post-3297"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3297" title="链接到 SQL注入中跨库查询/mssql暴库">SQL注入中跨库查询/mssql暴库</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3297" title="00:12" rel="bookmark">2010/05/24</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3297#respond" title="《SQL注入中跨库查询/mssql暴库》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3297" title="SQL注入中跨库查询/mssql暴库"></a><p>注意：对本文，请只用于合法目的，如增加安全意识，加强安全措施。<br />
+--------------<br />
+漏洞描述：MSSQL  跨库查询.可以暴露任意库中任意表中字段的值.<br />
+漏洞发现者：中国网络脚本安全测试小组--臭要饭的!,黑夜.<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3297" title="SQL注入中跨库查询/mssql暴库" target="_blank">阅读全文——共5030字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-1287 post type-post status-publish format-standard hentry category-security category-server-management tag-sql tag-228 tag-179" id="post-1287"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/1287" title="链接到 手工入侵SQL服务器/sql攻破方法及技巧大演练">手工入侵SQL服务器/sql攻破方法及技巧大演练</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/1287" title="01:23" rel="bookmark">2010/05/09</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/1287#respond" title="《手工入侵SQL服务器/sql攻破方法及技巧大演练》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/1287" title="手工入侵SQL服务器/sql攻破方法及技巧大演练"></a><p>1.0绪论<br />
+当一台机器只开放了80端口(这里指的是提供HTTP服务)时，可能你的大多数漏洞扫描器都不能给到你很多有价值的信息(漏 洞信息)，倘若这台机器的管理员是经常为他的服务器打PATCH的话，我们只好把攻击的矛头指向WEB服务攻击了。SQL注入攻击是WEB攻击类型中的一 种，这种攻击没有什么特殊的要求，只需要对方提供正常的HTTP服务，且不需要理会管理员是否是个“PATCH狂”。这类攻击主要是针对某种WEB处理程 序(如ASP,JSP,PHP,CGI等等)的而进行。<br />
+这篇文章不是在为阁下介绍什么新“玩意”，SQL注入攻击以前就一直广为流传着。我之所以现在才写这篇文章是因为我想把我最近实验所得的某些 经验与积累记录下来，希望能给予读者某些参考吧。你也可以在“9.0我从哪里可以得到更多相关资料？”的栏目中找到更多其他人所写的、关于SQL注入技巧 的相关资料。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/1287" title="手工入侵SQL服务器/sql攻破方法及技巧大演练" target="_blank">阅读全文——共8455字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-1280 post type-post status-publish format-standard hentry category-security category-server-management tag-sql tag-sql tag-181 tag-183" id="post-1280"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/1280" title="链接到 黑客攻破SQL数据库服务器手段大揭密">黑客攻破SQL数据库服务器手段大揭密</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/1280" title="01:01" rel="bookmark">2010/05/09</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/1280#respond" title="《黑客攻破SQL数据库服务器手段大揭密》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/1280" title="黑客攻破SQL数据库服务器手段大揭密"></a><p>无论是使用手工试探还是使用安全测试工具，恶意攻击者总是使用各种诡计从你的防火墙内部和外部攻破你的SQL服务器系 统。既然黑客在做这样的事情。你也需要实施同样的攻击来检验你的系统的安全实力。这是理 所当然的。<br />
+下面是黑客访问和攻破运行SQL服务器的系统的十种诡计。<br />
+1.通过互联网直接连接<br />
+这些连接可以用来攻击没有防火墙保护、全世界都可以看到和访问的SQL服务器。DShield公司的端口报告显示了有多少系统在那里等待遭受攻 击。我不理解允许从互联网直接访问这种重要的服务器的理由是什么。但是，我在我的评估中仍发现了这种安全漏洞。我们都记得SQL Slammer蠕虫对那样多的有漏洞的SQL服务器系统造成的影响。而且，这些直接的攻击能够 导致拒绝服务攻击、缓存溢出和其它攻击。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/1280" title="黑客攻破SQL数据库服务器手段大揭密" target="_blank">阅读全文——共2155字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-60 post type-post status-publish format-standard hentry category-199 tag-access tag-sql" id="post-60"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/60" title="链接到 变态的Access2007:在Access2007中创建SQL传递查询（执行SQl语句）">变态的Access2007:在Access2007中创建SQL传递查询（执行SQl语句）</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/60" title="19:04" rel="bookmark">2009/08/14</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/60#respond" title="《变态的Access2007:在Access2007中创建SQL传递查询（执行SQl语句）》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/60" title="变态的Access2007:在Access2007中创建SQL传递查询（执行SQl语句）"></a><p>1. 在&ldquo;创建&rdquo;选项卡中，单击&ldquo;其他&rdquo;组中的&ldquo;查询设计&rdquo;。<br />
+2. 单击&ldquo;显示表&rdquo;对话框中的&ldquo;关闭&rdquo;，而不添加任何表或查询。<br />
+3. 在&ldquo;设计&rdquo;选项卡中，单击&ldquo;查询类型&rdquo;工作组中的&ldquo;传递&rdquo;。<br />
+4. 单击&ldquo;显示/隐藏&rdquo;工作组中的&ldquo;属性表&rdquo;以显示查询的属性表。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/60" title="变态的Access2007:在Access2007中创建SQL传递查询（执行SQl语句）" target="_blank">阅读全文——共839字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+	</div><!--content-->
+<div id="sidebar-border">
+	<div id="rss_border">
+		<div class="rss_border">
+			<div id="rss_wrap">
+				<div class="rss_wrap">
+										<a class="rss " href="http://www.path8.net/tn/feed" rel="bookmark" title="RSS 订阅">RSS 订阅</a>
+										<a class="twitter" href="http://twitter.com/fengyqf" rel="author" title="Follow me on twitter.">Follow me on twitter.</a>
+																													</div>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar">
+
+<div id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widgettitle">标签</h3><div class="tagcloud"><a href='http://www.path8.net/tn/archives/tag/apache' class='tag-link-65' title='30 个话题' style='font-size: 13.577235772358pt;'>apache</a>
+<a href='http://www.path8.net/tn/archives/tag/asp' class='tag-link-100' title='9 个话题' style='font-size: 8pt;'>asp</a>
+<a href='http://www.path8.net/tn/archives/tag/baidu' class='tag-link-37' title='11 个话题' style='font-size: 8.9105691056911pt;'>baidu</a>
+<a href='http://www.path8.net/tn/archives/tag/fedora' class='tag-link-139' title='10 个话题' style='font-size: 8.4552845528455pt;'>fedora</a>
+<a href='http://www.path8.net/tn/archives/tag/fkgxx' class='tag-link-751' title='10 个话题' style='font-size: 8.4552845528455pt;'>fkgxx</a>
+<a href='http://www.path8.net/tn/archives/tag/google' class='tag-link-52' title='18 个话题' style='font-size: 11.186991869919pt;'>google</a>
+<a href='http://www.path8.net/tn/archives/tag/http' class='tag-link-152' title='15 个话题' style='font-size: 10.276422764228pt;'>http</a>
+<a href='http://www.path8.net/tn/archives/tag/iis' class='tag-link-92' title='11 个话题' style='font-size: 8.9105691056911pt;'>IIS</a>
+<a href='http://www.path8.net/tn/archives/tag/linux' class='tag-link-8' title='168 个话题' style='font-size: 22pt;'>Linux</a>
+<a href='http://www.path8.net/tn/archives/tag/mssql' class='tag-link-101' title='13 个话题' style='font-size: 9.7073170731707pt;'>mssql</a>
+<a href='http://www.path8.net/tn/archives/tag/mysql' class='tag-link-111' title='58 个话题' style='font-size: 16.764227642276pt;'>MySQL</a>
+<a href='http://www.path8.net/tn/archives/tag/php' class='tag-link-21' title='58 个话题' style='font-size: 16.764227642276pt;'>PHP</a>
+<a href='http://www.path8.net/tn/archives/tag/rewrite' class='tag-link-115' title='10 个话题' style='font-size: 8.4552845528455pt;'>rewrite</a>
+<a href='http://www.path8.net/tn/archives/tag/search-engin-optimze' class='tag-link-19' title='17 个话题' style='font-size: 10.959349593496pt;'>SEO</a>
+<a href='http://www.path8.net/tn/archives/tag/sql' class='tag-link-242' title='10 个话题' style='font-size: 8.4552845528455pt;'>sql</a>
+<a href='http://www.path8.net/tn/archives/tag/sql-server' class='tag-link-121' title='15 个话题' style='font-size: 10.276422764228pt;'>SQL Server</a>
+<a href='http://www.path8.net/tn/archives/tag/sql%e6%b3%a8%e5%85%a5' class='tag-link-168' title='12 个话题' style='font-size: 9.2520325203252pt;'>sql注入</a>
+<a href='http://www.path8.net/tn/archives/tag/ssh' class='tag-link-257' title='18 个话题' style='font-size: 11.186991869919pt;'>SSH</a>
+<a href='http://www.path8.net/tn/archives/tag/vi' class='tag-link-161' title='10 个话题' style='font-size: 8.4552845528455pt;'>vi</a>
+<a href='http://www.path8.net/tn/archives/tag/vim' class='tag-link-369' title='13 个话题' style='font-size: 9.7073170731707pt;'>vim</a>
+<a href='http://www.path8.net/tn/archives/tag/web%e5%ae%89%e5%85%a8' class='tag-link-44' title='9 个话题' style='font-size: 8pt;'>web安全</a>
+<a href='http://www.path8.net/tn/archives/tag/windows' class='tag-link-150' title='11 个话题' style='font-size: 8.9105691056911pt;'>windows</a>
+<a href='http://www.path8.net/tn/archives/tag/wordpress' class='tag-link-193' title='26 个话题' style='font-size: 12.894308943089pt;'>wordpress</a>
+<a href='http://www.path8.net/tn/archives/tag/yum' class='tag-link-107' title='10 个话题' style='font-size: 8.4552845528455pt;'>YUM</a>
+<a href='http://www.path8.net/tn/archives/tag/%e4%b8%8a%e6%b5%b7' class='tag-link-417' title='11 个话题' style='font-size: 8.9105691056911pt;'>上海</a>
+<a href='http://www.path8.net/tn/archives/tag/%e4%bc%98%e5%8c%96' class='tag-link-169' title='19 个话题' style='font-size: 11.414634146341pt;'>优化</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%86%85%e6%a0%b8' class='tag-link-423' title='17 个话题' style='font-size: 10.959349593496pt;'>内核</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%87%bd%e6%95%b0' class='tag-link-163' title='10 个话题' style='font-size: 8.4552845528455pt;'>函数</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%88%86%e5%8c%ba%e8%a1%a8' class='tag-link-596' title='12 个话题' style='font-size: 9.2520325203252pt;'>分区表</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%8e%86%e5%8f%b2' class='tag-link-667' title='11 个话题' style='font-size: 8.9105691056911pt;'>历史</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%91%bd%e4%bb%a4' class='tag-link-155' title='28 个话题' style='font-size: 13.235772357724pt;'>命令</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%9c%b0%e5%9b%be' class='tag-link-416' title='14 个话题' style='font-size: 10.048780487805pt;'>地图</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ad%97%e7%ac%a6' class='tag-link-362' title='11 个话题' style='font-size: 8.9105691056911pt;'>字符</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ae%89%e5%85%a8' class='tag-link-33' title='22 个话题' style='font-size: 12.09756097561pt;'>安全</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ae%89%e8%a3%85' class='tag-link-75' title='14 个话题' style='font-size: 10.048780487805pt;'>安装</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%95%99%e7%a8%8b' class='tag-link-133' title='9 个话题' style='font-size: 8pt;'>教程</a>
+<a href='http://www.path8.net/tn/archives/tag/filesystem' class='tag-link-124' title='9 个话题' style='font-size: 8pt;'>文件系统</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%97%a0%e7%ba%bf' class='tag-link-34' title='30 个话题' style='font-size: 13.577235772358pt;'>无线</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%b3%a8%e5%85%a5' class='tag-link-166' title='11 个话题' style='font-size: 8.9105691056911pt;'>注入</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%99%be%e5%ba%a6' class='tag-link-36' title='12 个话题' style='font-size: 9.2520325203252pt;'>百度</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a0%b4%e8%a7%a3' class='tag-link-32' title='20 个话题' style='font-size: 11.642276422764pt;'>破解</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a1%ac%e7%9b%98' class='tag-link-196' title='21 个话题' style='font-size: 11.869918699187pt;'>硬盘</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a4%be%e4%bc%9a%e5%b7%a5%e7%a8%8b%e5%ad%a6' class='tag-link-48' title='9 个话题' style='font-size: 8pt;'>社会工程学</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%bc%96%e7%a0%81' class='tag-link-363' title='13 个话题' style='font-size: 9.7073170731707pt;'>编码</a>
+<a href='http://www.path8.net/tn/archives/tag/%e9%85%8d%e7%bd%ae' class='tag-link-129' title='29 个话题' style='font-size: 13.463414634146pt;'>配置</a></div>
+</div><div id="text-7" class="widget widget_text"><h3 class="widgettitle">t.sina</h3>			<div class="textwidget"><iframe id="sina_widget_1094951817" style="width:100%; height:500px;" frameborder="0" scrolling="no" src="http://v.t.sina.com.cn/widget/widget_blog.php?uid=1094951817&height=500&skin=wd_01&showpic=1"></iframe></div>
+		</div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle">近期文章</h3>		<ul>
+				<li><a href="http://www.path8.net/tn/archives/4940" title="上海交通大学教授de量子医学通过中央电视台“走近科学”">上海交通大学教授de量子医学通过中央电视台“走近科学”</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4925" title="解决ssh连接linux服务器速度慢">解决ssh连接linux服务器速度慢</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4921" title="putty详细使用说明 (windows下)">putty详细使用说明 (windows下)</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4912" title="[转]Pentadactyl,让firefox按vim习惯运行的插件">[转]Pentadactyl,让firefox按vim习惯运行的插件</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4908" title="Linux下使用sed编辑器详解">Linux下使用sed编辑器详解</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4892" title="悲剧，狗爹虚拟主机的ssh禁用转发了">悲剧，狗爹虚拟主机的ssh禁用转发了</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4876" title="简明 Vim 练级攻略">简明 Vim 练级攻略</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4873" title="centos 6 linux下禁用触摸板（通过命令行实现）">centos 6 linux下禁用触摸板（通过命令行实现）</a></li>
+				</ul>
+		</div><div id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widgettitle">近期评论</h3><ul id="recentcomments"><li class="recentcomments"><a href='http://yoyo.play175.com/' rel='external nofollow' class='url'>yoyo</a> 发表在《<a href="http://www.path8.net/tn/archives/4796/comment-page-1#comment-9400">htaccess 控制目录浏览</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9390">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">强少爷 发表在《<a href="http://www.path8.net/tn/archives/1889/comment-page-1#comment-9362">TortoiseSVN 405错误：服务器发送了意外的返回值(405 Method Not Allowed)，在响应 “MKCOL” 的请求</a>》</li><li class="recentcomments">feng 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9264">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">薇 发表在《<a href="http://www.path8.net/tn/archives/2641/comment-page-1#comment-9257">wordpress首页只显示某个分类的文章/插件实现（完美实现，附插件源码）</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/mesgbox/comment-page-1#comment-9220">敬请留言</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9219">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">Luy 发表在《<a href="http://www.path8.net/tn/why-luowuzhe/comment-page-1#comment-8771">why “落伍者”?</a>》</li><li class="recentcomments"><a href='http://www.huangjianyu.netai.net/2012/01/30/%e6%9e%81%e7%ae%80%e5%8d%95%e7%ae%80%e9%99%8b%e7%9a%84wordpress%e6%8f%92%e4%bb%b6%ef%bc%9a%e7%bd%91%e7%ab%99%e8%ae%bf%e5%ae%a2%e8%bf%bd%e8%b8%aa%e8%ae%b0%e5' rel='external nofollow' class='url'>极简单/简陋的wordpress插件：网站访客追踪记录 | Huang Jianyu 黄建宇&#039;s SKY</a> 发表在《<a href="http://www.path8.net/tn/archives/145/comment-page-1#comment-8498">极简单/简陋的wordpress插件：网站访客追踪记录</a>》</li><li class="recentcomments"><a href='http://www.gotousa.tk' rel='external nofollow' class='url'>james</a> 发表在《<a href="http://www.path8.net/tn/archives/145/comment-page-1#comment-8497">极简单/简陋的wordpress插件：网站访客追踪记录</a>》</li></ul></div><div id="categories-3" class="widget widget_categories"><h3 class="widgettitle">分类目录</h3>		<ul>
+	<li class="cat-item cat-item-9"><a href="http://www.path8.net/tn/archives/category/ee" title="查看 e搞 下的所有文章">e搞</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.path8.net/tn/archives/category/linux" title="查看 Linux 下的所有文章">Linux</a>
+<ul class='children'>
+	<li class="cat-item cat-item-568"><a href="http://www.path8.net/tn/archives/category/linux/shell-programming" title="查看 shell编程 下的所有文章">shell编程</a>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://www.path8.net/tn/archives/category/linux/filesystem" title="查看 文件系统 下的所有文章">文件系统</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.path8.net/tn/archives/category/web-technique" title="查看 web技术 下的所有文章">web技术</a>
+<ul class='children'>
+	<li class="cat-item cat-item-209"><a href="http://www.path8.net/tn/archives/category/web-technique/apache-web-technique" title="查看 apache 下的所有文章">apache</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.path8.net/tn/archives/category/web-technique/asp-note" title="查看 Asp 下的所有文章">Asp</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server" title="查看 ms sql 下的所有文章">ms sql</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.path8.net/tn/archives/category/web-technique/mysql-server" title="查看 MySQL 下的所有文章">MySQL</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.path8.net/tn/archives/category/web-technique/php-hypertext-preprocessor" title="查看 PHP 下的所有文章">PHP</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-309"><a href="http://www.path8.net/tn/archives/category/%e4%ba%92%e8%81%94%e7%bd%91" title="查看 互联网 下的所有文章">互联网</a>
+</li>
+	<li class="cat-item cat-item-337"><a href="http://www.path8.net/tn/archives/category/%e4%bc%98%e7%a7%80%e8%bd%af%e4%bb%b6" title="查看 优秀软件 下的所有文章">优秀软件</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.path8.net/tn/archives/category/private" title="查看 原创文章 下的所有文章">原创文章</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="http://www.path8.net/tn/archives/category/%e4%b9%b1%e4%b8%83%e5%85%ab%e7%b3%9f" title="查看 大杂烩 下的所有文章">大杂烩</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.path8.net/tn/archives/category/character-encoding" title="查看 字符编码 下的所有文章">字符编码</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.path8.net/tn/archives/category/security" title="查看 安全意识 下的所有文章">安全意识</a>
+<ul class='children'>
+	<li class="cat-item cat-item-224"><a href="http://www.path8.net/tn/archives/category/security/web%e5%ae%89%e5%85%a8-netmngr" title="查看 web安全 下的所有文章">web安全</a>
+</li>
+	<li class="cat-item cat-item-172"><a href="http://www.path8.net/tn/archives/category/security/%e6%97%a0%e7%ba%bf%e5%ae%89%e5%85%a8" title="查看 无线安全 下的所有文章">无线安全</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-627"><a href="http://www.path8.net/tn/archives/category/%e5%bc%80%e5%8f%91%e5%8d%8f%e4%bd%9c" title="查看 开发协作 下的所有文章">开发协作</a>
+</li>
+	<li class="cat-item cat-item-787"><a href="http://www.path8.net/tn/archives/category/%e6%80%9d%e4%b9%8b%e5%b1%91" title="查看 思之屑 下的所有文章">思之屑</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.path8.net/tn/archives/category/os" title="查看 操作系统 下的所有文章">操作系统</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.path8.net/tn/archives/category/uncategory" title="查看 未分类 下的所有文章">未分类</a>
+</li>
+	<li class="cat-item cat-item-171"><a href="http://www.path8.net/tn/archives/category/%e7%bd%91%e7%ab%99%e8%bf%90%e8%90%a5" title="查看 网站运营 下的所有文章">网站运营</a>
+<ul class='children'>
+	<li class="cat-item cat-item-19"><a href="http://www.path8.net/tn/archives/category/%e7%bd%91%e7%ab%99%e8%bf%90%e8%90%a5/search-engin-optimze" title="查看 SEO 下的所有文章">SEO</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.path8.net/tn/archives/category/netmngr" title="查看 网络管理 下的所有文章">网络管理</a>
+<ul class='children'>
+	<li class="cat-item cat-item-29"><a href="http://www.path8.net/tn/archives/category/netmngr/server-management" title="查看 服务器管理 下的所有文章">服务器管理</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.path8.net/tn/archives/category/netmngr/network-technology" title="network technique, such as LAN, router, etc.">网络技术</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.path8.net/tn/archives/category/free-sprite" title="查看 自由精神 下的所有文章">自由精神</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.path8.net/tn/archives/category/lay-casually" title="查看 随便放着 下的所有文章">随便放着</a>
+</li>
+		</ul>
+</div><div id="meta-2" class="widget widget_meta"><h3 class="widgettitle">功能</h3>			<ul>
+			<li><a href="http://www.path8.net/tn/wp-login.php?action=register">注册</a></li>			<li><a href="http://www.path8.net/tn/wp-login.php">登录</a></li>
+			<li><a href="http://www.path8.net/tn/feed" title="使用 RSS 2.0 订阅本站点内容">文章 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.path8.net/tn/comments/feed" title="使用 RSS 订阅本站点的所有文章的近期评论">评论 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="基于 WordPress，一个优美、先进的个人信息发布平台。">WordPress.org</a></li>
+						</ul>
+</div><div id="text-8" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9779277-2']);
+  _gaq.push(['_setDomainName', 'path8.net']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="http://js.tongji.linezing.com/824456/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/824456/tongji.gif"/></a></noscript></div>
+		</div>
+
+	</div><!-- end: #sidebar -->
+</div><!-- end: #sidebar-border --></div><!--wrapper-->
+<div class="clear"></div>
+<div id="footer">
+	<div id="footer-inside">
+		<p>
+			版权所有 &copy; 2012 点滴之间 聚沙成金			| Theme <a href="http://zww.me" title="designed by zwwooooo">zBench</a>
+			| Powered by <a href="http://wordpress.org/">WordPress</a> 
+		</p>
+		<span id="back-to-top">&uarr; <a href="#" rel="nofollow" title="Back to top">回到顶部</a></span>
+	</div>
+</div><!--footer-->
+<!-- AdSense Manager v4.0.2 (0.271 seconds.) --></body>
+</html>

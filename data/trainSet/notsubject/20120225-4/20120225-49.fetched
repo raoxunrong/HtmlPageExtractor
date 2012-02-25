@@ -1,0 +1,697 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[6,1021,1] published at 2012-02-10 09:38:35 from #235 by 2085-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=gb2312" />
+<title>新浪特别节目-声色NBA_NBA视频_新浪NBA_新浪体育_新浪网</title>
+<meta name="keywords" content="声色NBA,NBA,热火,湖人,NBA视频,诺维茨基,科比,詹姆斯,韦德,杜兰特,霍华德" />
+<meta name="description" content="新浪NBA视频，声色NBA，热火，詹姆斯，诺维茨基，韦德，湖人，科比" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" / >
+<style type="text/css">
+/* 初始化CSS */
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend,img{margin:0;padding:0;}
+fieldset,img{border:none;}
+address,caption,cite,code,dfn,th,var{font-style:normal;font-weight:normal;}
+ul,ol{list-style:none;}
+select,input{vertical-align:middle;}
+select,input,textarea{font-size:12px;margin:0;}
+table{border-collapse:collapse;}
+body{color:#333;padding:5px 0;font:12px/20px "宋体";}
+
+.clearfix:after{content:".";display:block;height:0;visibility:hidden;clear:both;}
+.clearfix{zoom:1;}
+.clearit{clear:both;height:0;font-size:0;overflow:hidden;}
+
+a{color:#009;text-decoration:none;outline:none;}
+a:visited{color:#800080;}
+a:hover, a:active, a:focus{color:#f00;text-decoration:underline;}
+
+h1, h2, h3, h4, h5, strong { font-weight:normal; }
+html{background:#041c41 url(http://i0.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_bg.jpg) repeat-x}
+body{background:url(http://i1.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_body_bg.jpg) no-repeat 50% 0;}
+.wrap { width:950px; margin:0 auto; }
+.banner { background:url(http://i0.sinaimg.cn/video/deco/2011/1205/images/sports_1130_zyc_banner.jpg) no-repeat; height:355px;}
+.banner div { padding:0px 44px;}
+.banner a,.banner a:visited { color:#d4edff; padding:0px 14px; line-height:42px;}
+.banner img{ display:block}
+/* ============== 横切定义 ============== */
+.part_01 { background:url(http://i0.sinaimg.cn/video/deco/2011/1205/images/sports_1130_zyc_back01.jpg) no-repeat; height:471px;}
+.part_01 .p_left{float:left; width:504px; padding:16px 0 0 30px;}
+.part_01 .p_right{float:right; width:364px;}
+.part_01 .p_right img{margin-left:10px;cursor:pointer;}
+
+.part_02 { background:url(http://i1.sinaimg.cn/video/deco/2011/1205/images/sports_1130_zyc_back02.jpg) no-repeat; height:491px; margin-top:10px;}
+.part_02 .p_left{float:left; width:379px; padding:0 10px; padding-top:36px;}
+.part_02 .p_right{float:left; padding-top:63px;}
+
+.part_03 { background:url(http://i2.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_03.jpg) no-repeat; height:407px; margin-top:10px;}
+.part_03 .p_cont { padding:0 10px;}
+
+.part_04 { background:url(http://i3.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_04.jpg) repeat-y; zoom:1;margin-top:10px;}
+.part_04 .p_left{float:left; width:506px;}
+.part_04 .p_right{float:left; width:414px; padding:10px;}
+.part_04 .p_bot{ background:url(http://i3.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_04.jpg) no-repeat -2000px 0; height:20px; overflow:hidden; clear:both;}
+
+/**--------------添加横切 begin--------------------**/
+.part_05{margin-top:10px;}
+.part_05 .tit_05{background:url(http://i2.sinaimg.cn/ty/deco/2011/1208/images/part_hd_wqhg_dc.jpg) no-repeat left top;}
+.part_05 .tit_05 a{float:right;margin-right:60px;font-size:14px;}
+.part_05 .p_cont{padding:10px 20px 0;overflow:hidden;background:url(http://i2.sinaimg.cn/ty/deco/2011/1208/images/part_bd_dc.jpg) repeat-y;}
+.part_05 .p_cont li{float:left;width:130px;height:145px;text-align:center;}
+.part_05 .p_cont a span{height:auto;line-height:120%;}
+.part_05 .p_cont a:link img{width:115px;height:85px;padding:3px;border:1px solid #d2d2d2;margin-bottom:7px;}
+.part_05 .p_cont a:visited img{width:115px;height:85px;padding:3px;border:1px solid #d2d2d2;margin-bottom:7px;}
+.part_05 .p_cont a:hover img{border:1px solid #77caff;background:#daf8ff;}
+.part_05 .p_bot{ background:url(http://i2.sinaimg.cn/ty/deco/2011/1208/images/part_ft_dc.jpg) no-repeat left bottom; height:19px; overflow:hidden; clear:both;}
+/**--------------添加横切 end--------------------**/
+
+/* ================== block define ================== */
+.pcont01{ padding:6px 5px 0 14px}
+.pcont01 p{ color:#012a4d; text-indent:1em; background:url(http://i0.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_05.png) no-repeat 7px 12px; font-size:14px; line-height:24px;}
+.pcont02{ padding:15px 0 0}
+
+/* 板块单独定义 */
+.blk_01{ padding:65px 37px 0 0px; color:#fff; line-height:24px;}
+.blk_01 span{float:right;}
+.blk_01 span a{color:#FFFFFF;}
+.blk_02 { padding:13px 0 0 25px; }
+.blk_02 .pl_line{background:url(http://i0.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_05.png) no-repeat 7px 12px;text-indent:1em; font-size:14px; line-height:24px; color:#012a4d}
+.blk_03{ background:#f4f4f4; padding:15px}
+.blk_03 .info{ padding-bottom:8px;}
+.blk_03 .info input{border:solid 1px #cacaca; background:#fff;}
+.blk_03 .form .btn{ text-align:center; padding:10px 0 0}
+.blk_03 .form textarea{ border:solid 1px #cacaca; background:#fff; padding:10px; height:92px; width:365px;}
+.blk_03 .form .submit{ background:url(http://i1.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_06.png) no-repeat; width:66px; height:27px; border:none; cursor:pointer; font-size:14px; color:#006bb6;}
+.blk_03 .form .all{ background:url(http://i1.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_06.png) no-repeat -100px 0; width:76px; height:27px; margin-left:20px; border:none; cursor:pointer; font-size:14px; color:#006bb6;}
+.blk a:visited{ color:#800080;}
+.blk a:hover{color:#c00;}
+/* ================= commen define ================ */
+
+/* 标题 */
+.tit{height:63px}
+.tit h2 { text-indent:-999em}
+.tit_03 { background:url(http://i3.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_04.jpg) no-repeat -1000px 0;}
+/* 图文之上图下文 */
+.blk_tw_pic {zoom:1; text-align:center;}
+.blk_tw_pic img { border:solid 1px #000; margin:0 auto; background:#fff; display:block; }
+.blk_tw_pic img.p1 {padding:1px}
+.blk_tw_pic img.p2 {padding:2px}
+.blk_tw_pic img.p3 {padding:3px}
+.blk_tw_pic a:hover img { border-color:#000; }
+.blk_tw_pic a span{ color:#013979; display:block; text-align:center; height:34px; line-height:28px;}
+.blk_tw_pic a:visited span{ color:#800080;}
+.blk_tw_pic a:hover span{ color:#c00;}
+
+.r5{ width:33.3%; float:left;}
+/* 列表 */
+.list_01 { padding-top:58px;}
+.list_01 li { line-height:29px; height:29px; padding-left:27px; background:url(http://i2.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_07.png) no-repeat 0 13px}
+.list_01 li a,  .list_01 li a:hover { color:#d6efff }
+.list_01 li a:visited { color:#d6efff;}
+.list_01 li.selected { background-position:0 -34px; }
+.list_01 li.selected a{ color:#000; text-decoration:none;blr:expression(onFocus=this.blur())}
+.list_01 li.selected a:hover { color: #000000;text-decoration: none;}
+.list_01 li.selected a:visited {color:#000; text-decoration:none;}
+.list a:link{ color:#333;}
+.list a:visited{color:800080;}
+.list a:hover{color:#c00;}
+
+.list_02 li { line-height:24px; height:24px; padding-left:27px; background:url(http://i2.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_07.png) no-repeat 0 10px}
+.list_02 li a,  .list_02 li a:hover { color:#d6efff }
+.list_02 li a:visited { color:#d6efff;}
+
+/* 其他定义 */
+/*CSS for copyright begin*/
+#uni_footer{ background:url(http://i2.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_0530_footer_bg.jpg) no-repeat center top; padding:20px 0; height:230px;}
+#uni_footer .footer_cont{width:950px;line-height:24px;text-align:center;color:#000;font-size:12px; padding-top:10px; margin:0 auto;}
+#uni_footer a:link,#uni_footer a:visited {color:#000;text-decoration:none;}
+#uni_footer a:hover,#uni_footer a:active {color:#f00;text-decoration:none;}
+/*CSS for copyright end*/
+/*舌签 added by zyc 2011.12.1*/
+.sub{ }
+.sub_at { padding-left:203px;}
+.sub .sub_at span{ display:block; float:left;background: url(http://i0.sinaimg.cn/video/deco/2011/1205/images/sports_1130_zyc_sub.png) 0 0 no-repeat;width:88px; height:27px; text-indent:-9999em; overflow:hidden; cursor:pointer;}
+.sub_ac { }
+.sub #sub_a1{ background-position:-112px  -33px; }
+.sub #sub_a2{ background-position:-112px 0px; }
+.sub #sub_a1.selected{ background-position:0px 0px; }
+.sub #sub_a2.selected{ background-position:0px -33px; }
+
+.part_05 .tit_05 a { background:url(http://i0.sinaimg.cn/video/deco/2011/1205/images/sports_1130_zyc_sub.png) 0 -67px no-repeat; width:70px; height:23px; text-indent:-999em; margin-right:25px;}
+
+</style>
+<script type="text/javascript" src="http://video.sina.com.cn/deco/2009/0711/jquery-video-zw-page.js"></script>
+</head>
+<body><!-- SUDA_CODE_START --> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;z-index:1'><div style='position:absolute;top:0;left:0;width:1;height:1;'><iframe id='SUDA_FC' src='' width=1 height=1 SCROLLING=NO FRAMEBORDER=0></iframe></div><div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden' id='SUDA_CS_DIV'></div></div> 
+<script type="text/javascript"> 
+//<!--
+var _SGUP_ = "SGUP";var _SGUP_REQ_ = "http://sgup.beacon.sina.com.cn/cgi-bin/gsgup";var sgup = "";
+var SSL={Config:{},Space:function(str){var a=str,o=null;a=a.split('.');o=SSL;for(i=0,len=a.length;i<len;i++){o[a[i]]=o[a[i]]||{};o=o[a[i]]}return o}};
+SSL.Space('Global');SSL.Space('Core.Dom');SSL.Space('Core.Event');SSL.Space('App');SSL.Global={win:window||{},doc:document,nav:navigator,loc:location};SSL.Core.Dom={get:function(id){return document.getElementById(id)}};SSL.Core.Event={on:function(){}};
+SSL.App={
+	_S_gConType:function(){var ct="";try{SSL.Global.doc.body.addBehavior("#default#clientCaps");ct=SSL.Global.doc.body.connectionType}catch(e){ct="unkown"}return ct},
+	_S_gKeyV:function(src,k,e,sp){if(src==""){return""}if(sp==""){sp="="}k=k+sp;var ps=src.indexOf(k);if(ps<0){return""}ps=ps+k.length;var pe=src.indexOf(e,ps);if(pe<ps){pe=src.length}return src.substring(ps,pe)},
+	_S_gUCk:function(ckName){if((undefined==ckName)||(""==ckName))return"";return SSL.App._S_gKeyV(SSL.Global.doc.cookie,ckName,";","")},
+	_S_sUCk:function(ckName,ckValue,ckDays,ckDomain){if(ckValue!=null){if((undefined==ckDomain)||(null==ckDomain)){ckDomain="sina.com.cn";}if((undefined==ckDays)||(null==ckDays)||(''==ckDays)){SSL.Global.doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";path=/";}else{var now=new Date();var time=now.getTime();time=time+86400000*ckDays;now.setTime(time);time=now.getTime();SSL.Global.doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";expires="+now.toUTCString()+";path=/";}}},
+	_S_gJVer:function(_S_NAV_,_S_NAN_){var p,appsign,appver,jsver=1.0,isN6=0;if('MSIE'==_S_NAN_){appsign='MSIE';p=_S_NAV_.indexOf(appsign);if(p>=0){appver=parseInt(_S_NAV_.substring(p+5));if(3<=appver){jsver=1.1;if(4<=appver){jsver=1.3}}}}else if(("Netscape"==_S_NAN_)||("Opera"==_S_NAN_)||("Mozilla"==_S_NAN_)){jsver=1.3;appsign='Netscape6';p=_S_NAV_.indexOf(appsign);if(p>=0){jsver=1.5}}return jsver},
+	_S_gFVer:function(nav){var ua=SSL.Global.nav.userAgent.toLowerCase();var flash_version=0;if(SSL.Global.nav.plugins&&SSL.Global.nav.plugins.length){var p=SSL.Global.nav.plugins['Shockwave Flash'];if(typeof p=='object'){for(var i=10;i>=3;i--){if(p.description&&p.description.indexOf(' '+i+'.')!=-1){flash_version=i;break}}}}else if(ua.indexOf("msie")!=-1&&ua.indexOf("win")!=-1&&parseInt(SSL.Global.nav.appVersion)>=4&&ua.indexOf("16bit")==-1){for(var i=10;i>=2;i--){try{var object=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+i+"');");if(object){flash_version=i;break}}catch(e){}}}else if(ua.indexOf("webtv/2.5")!=-1){flash_version=3}else if(ua.indexOf("webtv")!=-1){flash_version=2}return flash_version},
+	_S_gMeta:function(MName,pidx){var pMeta=SSL.Global.doc.getElementsByName(MName);var idx=0;if(pidx>0){idx=pidx}return(pMeta.length>idx)?pMeta[idx].content:""},
+	_S_gHost:function(sUrl){var r=new RegExp('^http(?:s)?\://([^/]+)','im');if(sUrl.match(r)){return sUrl.match(r)[1].toString()}else{return""}},
+	_S_gDomain:function(sHost){var p=sHost.indexOf('.sina.');if(p>0){return sHost.substr(0,p)}else{return sHost}},
+	_S_gTJMTMeta:function(){return SSL.App._S_gMeta("mediaid")},
+	_S_gTJZTMeta:function(){var zt=SSL.App._S_gMeta('subjectid');zt.replace(",",".");zt.replace(";",",");return zt},
+	_S_isFreshMeta:function(){var ph=SSL.Global.doc.documentElement.innerHTML.substring(0,1024);var reg=new RegExp("<meta\\s*http-equiv\\s*=((\\s*refresh\\s*)|(\'refresh\')|(\"refresh\"))\s*content\s*=","ig");return reg.test(ph)},
+	_S_isIFrameSelf:function(minH,minW){if(SSL.Global.win.top==SSL.Global.win){return false}else{try{if(SSL.Global.doc.body.clientHeight==0){return false}if((SSL.Global.doc.body.clientHeight>=minH)&&(SSL.Global.doc.body.clientWidth>=minW)){return false}else{return true}}catch(e){return true}}},
+	_S_isHome:function(curl){var isH="";try{SSL.Global.doc.body.addBehavior("#default#homePage");isH=SSL.Global.doc.body.isHomePage(curl)?"Y":"N"}catch(e){isH="unkown"}return isH;}
+}
+function SUDA(config,ext1,ext2){
+	var SG=SSL.Global,SSD=SSL.Core.Dom,SSE=SSL.Core.Event,SA=SSL.App;var _S_JV_="webbug_meta_ref_mod_noiframe_async_fc_:9.10a",_S_DPID_="-9999-0-0-1";var _S_NAN_=SG.nav.appName.indexOf('Microsoft Internet Explorer')>-1?'MSIE':SG.nav.appName;var _S_NAV_=SG.nav.appVersion;var _S_PURL_=SG.loc.href.toLowerCase();var _S_PREF_=SG.doc.referrer.toLowerCase();var _SP_MPID_="";var _S_PID_="",_S_UNA_="SUP",_S_MI_="",_S_SID_="Apache",_S_GID_="SINAGLOBAL",_S_LV_="ULV",_S_UO_="UOR",_S_UPA_="_s_upa",_S_IFW=320,_S_IFH=240,_S_GIDT=0,_S_EXT1="",_S_EXT2="",_S_SMC=0,_S_SMM=10000,_S_ET=0,_S_ACC_="_s_acc";var _S_HTTP=_S_PURL_.indexOf('https')>-1?'https://':'http://',_S_BCNDOMAIN="beacon.sina.com.cn",_S_CP_RF=_S_HTTP+_S_BCNDOMAIN+"/a.gif",_S_CP_RF_D=_S_HTTP+_S_BCNDOMAIN+"/d.gif",_S_CP_RF_E=_S_HTTP+_S_BCNDOMAIN+"/e.gif",_S_CP_FC=_S_HTTP+_S_BCNDOMAIN+"/fc.html";
+	var _S_T1=100,_S_T2=2000;
+	var handler={
+		_S_sSID:function(){handler._S_p2Bcn("",_S_CP_RF_D)},_S_gsSID:function(){var sid=SA._S_gUCk(_S_SID_);if(""==sid){handler._S_sSID()}return sid},
+		_S_sGID:function(gid){if(""!=gid){SA._S_sUCk(_S_GID_,gid,3650)}},_S_gGID:function(){return SA._S_gUCk(_S_GID_)},_S_gsGID:function(){if(""!=_S_GID_){var gid=SA._S_gUCk(_S_GID_);if(""==gid){if(SA._S_gFVer(SG.nav)<=6){return ""}else{handler._S_IFC2GID()}}return gid}else{return""}},_S_IFC2GID:function(){var _S_ifc=SSD.get("SUDA_FC");if(_S_ifc){_S_ifc.src=_S_CP_FC+"?a=g&n="+_S_GID_+"&r="+Math.random()}},
+		_S_gCid:function(){try{var metaTxt=SA._S_gMeta("publishid");if(""!=metaTxt){var pbidList=metaTxt.split(",");if(pbidList.length>0){if(pbidList.length>=3){_S_DPID_="-9999-0-"+pbidList[1]+"-"+pbidList[2]}return pbidList[0]}}else{return"0"}}catch(e){return"0"}},
+		_S_gAEC:function(){return SA._S_gUCk(_S_ACC_)},_S_sAEC:function(eid){if(""==eid){return}var acc=handler._S_gAEC();if(acc.indexOf(eid+",")<0){acc=acc+eid+",";}SA._S_sUCk(_S_ACC_,acc,7);},
+		_S_p2Bcn:function(q,u){var scd=SSD.get("SUDA_CS_DIV");if(null!=scd){var now=new Date();scd.innerHTML="<img width=0 height=0 src='"+u+"?"+q+"&gUid_"+now.getTime()+"' border='0' alt='' />"}},
+		_S_gSUP:function(){if(_S_MI_!=""){return _S_MI_}var sup=unescape(SA._S_gUCk(_S_UNA_));if(sup!=""){var ag=SA._S_gKeyV(sup,"ag","&","");var user=SA._S_gKeyV(sup,"user","&","");var uid=SA._S_gKeyV(sup,"uid","&","");var sex=SA._S_gKeyV(sup,"sex","&","");var bday=SA._S_gKeyV(sup,"dob","&","");_S_MI_=ag+":"+user+":"+uid+":"+sex+":"+bday;return _S_MI_}else{return""}},
+		_S_gsLVisit:function(sid){var lvi=SA._S_gUCk(_S_LV_);var lva=lvi.split(":");var lvr="";if(lva.length>=6){if(sid!=lva[4]){var lvn=new Date();var lvd=new Date(parseInt(lva[0]));lva[1]=parseInt(lva[1])+1;if(lvn.getMonth()!=lvd.getMonth()){lva[2]=1}else{lva[2]=parseInt(lva[2])+1}if(((lvn.getTime()-lvd.getTime())/86400000)>=7){lva[3]=1}else{if(lvn.getDay()<lvd.getDay()){lva[3]=1}else{lva[3]=parseInt(lva[3])+1}}lvr=lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3];lva[5]=lva[0];lva[0]=lvn.getTime();SA._S_sUCk(_S_LV_,lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3]+":"+sid+":"+lva[5],360)}else{lvr=lva[5]+":"+lva[1]+":"+lva[2]+":"+lva[3]}}else{var lvn=new Date();lvr=":1:1:1";SA._S_sUCk(_S_LV_,lvn.getTime()+lvr+":"+sid+":",360)}return lvr},
+		_S_gUOR:function(){var uoc=SA._S_gUCk(_S_UO_);var upa=uoc.split(":");if(upa.length>=2){return upa[0]}else{return""}},
+		_S_sUOR:function(){var uoc=SA._S_gUCk(_S_UO_),uor="",uol="",up_t="",up="";var re=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var ct=new Date();if(_S_PURL_.match(re)){up_t=_S_PURL_.match(re)[0]}else{if(_S_PREF_.match(re)){up_t=_S_PREF_.match(re)[0]}}if(up_t!=""){up_t=up_t.substr(3)+":"+ct.getTime()}if(uoc==""){if(SA._S_gUCk(_S_LV_)==""&&SA._S_gUCk(_S_LV_)==""){uor=SA._S_gHost(_S_PREF_);uol=SA._S_gHost(_S_PURL_)}SA._S_sUCk(_S_UO_,uor+","+uol+","+up_t,365)}else{var ucg=0,uoa=uoc.split(",");if(uoa.length>=1){uor=uoa[0]}if(uoa.length>=2){uol=uoa[1]}if(uoa.length>=3){up=uoa[2]}if(up_t!=""){ucg=1}else{var upa=up.split(":");if(upa.length>=2){var upd=new Date(parseInt(upa[1]));if(upd.getTime()<(ct.getTime()-86400000*30)){ucg=1}}}if(ucg){SA._S_sUCk(_S_UO_,uor+","+uol+","+up_t,365)}}},
+		_S_gRef:function(){var re=/^[^\?&#]*.swf([\?#])?/;if((_S_PREF_=="")||(_S_PREF_.match(re))){var ref=SA._S_gKeyV(_S_PURL_,"ref","&","");if(ref!=""){return ref}}return _S_PREF_},
+		_S_MEvent:function(){if(_S_SMC==0){_S_SMC++;var c=SA._S_gUCk(_S_UPA_);if(c==""){c=0}c++;if(c<_S_SMM){var re=/[&|?]c=spr(_[A-Za-z0-9]{2,}){3,}/;if(_S_PURL_.match(re)||_S_PREF_.match(re)){c=c+_S_SMM}}SA._S_sUCk(_S_UPA_,c)}},_S_gMET:function(){var c=SA._S_gUCk(_S_UPA_);if(c==""){c=0}return c},
+		_S_gCInfo_v2:function(){var now=new Date();return"sz:"+screen.width+"x"+screen.height+"|dp:"+screen.colorDepth+"|ac:"+SG.nav.appCodeName+"|an:"+_S_NAN_+"|cpu:"+SG.nav.cpuClass+"|pf:"+SG.nav.platform+"|jv:"+SA._S_gJVer(_S_NAV_,_S_NAN_)+"|ct:"+SA._S_gConType()+"|lg:"+SG.nav.systemLanguage+"|tz:"+now.getTimezoneOffset()/60+"|fv:"+SA._S_gFVer(SG.nav)},
+		_S_gPInfo_v2:function(pid,ref){if((undefined==pid)||(""==pid)){pid=handler._S_gCid()+_S_DPID_}return"pid:"+pid+"|st:"+handler._S_gMET()+"|et:"+_S_ET+"|ref:"+escape(ref)+"|hp:"+SA._S_isHome(_S_PURL_)+"|PGLS:"+SA._S_gMeta("stencil")+"|ZT:"+escape(SA._S_gTJZTMeta())+"|MT:"+escape(SA._S_gTJMTMeta())+"|keys:"},
+		_S_gUInfo_v2:function(vid){return"vid:"+vid+"|sid:"+handler._S_gsSID()+"|lv:"+handler._S_gsLVisit(handler._S_gsSID())+"|un:"+handler._S_gSUP()+"|uo:"+handler._S_gUOR()+"|ae:"+handler._S_gAEC()},
+		_S_gEXTInfo_v2:function(ext1,ext2){_S_EXT1=(undefined==ext1)?_S_EXT1:ext1;_S_EXT2=(undefined==ext2)?_S_EXT2:ext2;return"ex1:"+_S_EXT1+"|ex2:"+_S_EXT2},
+		_S_pBeacon:function(pid,ext1,ext2){try{var gid=handler._S_gsGID();if(""==gid){if(_S_GIDT<1){setTimeout(function(){handler._S_pBeacon(pid,ext1,ext2)},_S_T2);_S_GIDT++;return}else{gid=handler._S_gsSID();handler._S_sGID(gid)}}var sgup_ck = SA._S_gUCk(_SGUP_);if(sgup_ck == ""){var channary = location.hostname.split(".");var cur_ch = (channary.length > 3) ? channary[channary.length - 4] : "";handler.__loadScript(_SGUP_REQ_,function(){if(sgup != ""){SA._S_sUCk(_SGUP_,sgup,7);}else{SA._S_sUCk(_SGUP_,"0",3);}});}var sVer="V=2";var sCI=handler._S_gCInfo_v2();var sPI=handler._S_gPInfo_v2(pid,handler._S_gRef());var sUI=handler._S_gUInfo_v2(gid);var sEX=handler._S_gEXTInfo_v2(ext1,ext2);var lbStr=sVer+"&CI="+sCI+"&PI="+sPI+"&UI="+sUI+"&EX="+sEX;handler._S_p2Bcn(lbStr,_S_CP_RF)}catch(e){}},
+		__loadScript:function(url, callback, encode){var script = document.createElement('script');script.type = 'text/javascript';if(encode)script.charset = encode;if (callback)script.onload = script.onreadystatechange = function() {if (script.readyState && script.readyState != 'loaded' && script.readyState != 'complete')return;script.onreadystatechange = script.onload = null;callback();};script.src = url;document.getElementsByTagName('head')[0].appendChild(script);},
+		_S_acTrack_i:function(eid,p){if((""==eid)||(undefined==eid)){return}handler._S_sAEC(eid);if(0==p){return}var s="AcTrack||"+handler._S_gGID()+"||"+handler._S_gsSID()+"||"+handler._S_gSUP()+"||"+eid+"||";handler._S_p2Bcn(s,_S_CP_RF_E)},
+		_S_uaTrack_i:function(acode,aext){var s="UATrack||"+handler._S_gGID()+"||"+handler._S_gsSID()+"||"+handler._S_gSUP()+"||"+acode+"||"+aext+"||"+handler._S_gRef()+"||";handler._S_p2Bcn(s,_S_CP_RF_E)}
+	};
+	if(_S_SMC==0){if('MSIE'==_S_NAN_){SSL.Global.doc.attachEvent("onclick",handler._S_MEvent);SSL.Global.doc.attachEvent("onmousemove",handler._S_MEvent);SSL.Global.doc.attachEvent("onscroll",handler._S_MEvent)}else{SSL.Global.doc.addEventListener("click",handler._S_MEvent,false);SSL.Global.doc.addEventListener("mousemove",handler._S_MEvent,false);SSL.Global.doc.addEventListener("scroll",handler._S_MEvent,false)}};handler._S_sUOR();
+	return{
+		_S_pSt:function(pid,ext1,ext2){try{if((SA._S_isFreshMeta())||(SA._S_isIFrameSelf(_S_IFH,_S_IFW))){return}if(_S_ET>0){return}++_S_ET;setTimeout(function(){handler._S_gsSID()},_S_T1);setTimeout(function(){handler._S_pBeacon(pid,ext1,ext2,0)},_S_T2)}catch(e){}},
+		_S_pStM:function(pid,ext1,ext2){++_S_ET;handler._S_pBeacon(pid,((undefined==ext1)?handler._S_upExt1():ext1),ext2)},
+		_S_acTrack:function(eid,p){try{if((undefined!=eid)&&(""!=eid)){setTimeout(function(){handler._S_acTrack_i(eid,p)},_S_T1)}}catch(e){}},
+		_S_uaTrack:function(acode,aext){try{if(undefined==acode){acode=""}if(undefined==aext){aext=""}if((""!=acode)||(""!=aext)){setTimeout(function(){handler._S_uaTrack_i(acode,aext)},_S_T1)}}catch(e){}}
+	}
+}
+var GB_SUDA;if(GB_SUDA==null){GB_SUDA=new SUDA({})}
+var _S_PID_="";
+function _S_pSt(pid,ext1,ext2){GB_SUDA._S_pSt(pid,ext1,ext2);}
+function _S_pStM(pid,ext1,ext2){GB_SUDA._S_pStM(pid,ext1,ext2);}
+function _S_acTrack(eid){GB_SUDA._S_acTrack(eid,1);}
+function _S_uaTrack(acode,aext){GB_SUDA._S_uaTrack(acode,aext);}
+//-->
+</script> 
+<script type="text/javascript"> 
+//<!--
+GB_SUDA._S_pSt("");
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- for iPad begin -->
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+var iPadScript = document.createElement('script');
+iPadScript.src = 'http://news.sina.com.cn/js/ui/ipad/reset.js';
+document.getElementsByTagName('head')[0].appendChild(iPadScript);
+})();
+</script>
+<!-- for iPad end --> 
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+
+
+<!-- for iPad begin -->
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+var iPadScript = document.createElement('script');
+iPadScript.src = 'http://news.sina.com.cn/js/ui/ipad/reset.js';
+document.getElementsByTagName('head')[0].appendChild(iPadScript);
+})();
+</script>
+<!-- for iPad end --> 
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<script>
+//舌签构造函数
+function SubShowClass(C,i,c,l,I){var V=this,v=V;V.parentObj=V.$(C);if(V.parentObj==null&&C!="none"){throw new Error("SubShowClass(ID)参数错误:ID 对像不存在!(value:"+C+")")};V.lock=false;V.label=[];V.defaultID=c==null?0:c;V.selectedIndex=V.defaultID;V.openClassName=l==null?"selected":l;V.closeClassName=I==null?"":I;V.mouseIn=false;var O=function(){v.mouseIn=true},o=function(){v.mouseIn=false};if(C!="none"&&C!=""){if(V.parentObj.attachEvent){V.parentObj.attachEvent("onmouseover",O)}else{V.parentObj.addEventListener("mouseover",O,false)}};if(C!="none"&&C!=""){if(V.parentObj.attachEvent){V.parentObj.attachEvent("onmouseout",o)}else{V.parentObj.addEventListener("mouseout",o,false)}};if(typeof(i)!="string"){i="onmousedown"};i=i.toLowerCase();switch(i){case "onmouseover":V.eventType="mouseover";break;case "onmouseout":V.eventType="mouseout";break;case "onclick":V.eventType="click";break;case "onmouseup":V.eventType="mouseup";break;default:V.eventType="mousedown"};V.autoPlay=false;V.autoPlayTimeObj=null;V.spaceTime=5000};SubShowClass.prototype={version:"1.31",author:"mengjia",_setClassName:function(l,I){var o=this,i;i=l.className;if(i){i=i.replace(o.openClassName,"");i=i.replace(o.closeClassName,"");i+=" "+(I=="open"?o.openClassName:o.closeClassName)}else{i=(I=="open"?o.openClassName:o.closeClassName)};l.className=i},addLabel:function(labelID,contID,parentBg,springEvent,blurEvent){var t=this,labelObj=this.$(labelID),contObj=this.$(contID);if(labelObj==null&&labelID!="none"){throw new Error("addLabel(labelID)参数错误:labelID 对像不存在!(value:"+labelID+")")};var TempID=this.label.length;if(parentBg==""){parentBg=null};this.label.push([labelID,contID,parentBg,springEvent,blurEvent]);var tempFunc=function(){t.select(TempID)};if(labelID!="none"){if(labelObj.attachEvent){labelObj.attachEvent("on"+this.eventType,tempFunc)}else{labelObj.addEventListener(this.eventType,tempFunc,false)}};if(TempID==this.defaultID){if(labelID!="none"){this._setClassName(labelObj,"open")};if(this.$(contID)){contObj.style.display=""};if(this.ID!="none"){if(parentBg!=null){this.parentObj.style.background=parentBg}};if(springEvent!=null){eval(springEvent)}}else{if(labelID!="none"){this._setClassName(labelObj,"close")};if(contObj){contObj.style.display="none"}};var mouseInFunc=function(){t.mouseIn=true},mouseOutFunc=function(){t.mouseIn=false};if(contObj){if(contObj.attachEvent){contObj.attachEvent("onmouseover",mouseInFunc)}else{contObj.addEventListener("mouseover",mouseInFunc,false)};if(contObj.attachEvent){contObj.attachEvent("onmouseout",mouseOutFunc)}else{contObj.addEventListener("mouseout",mouseOutFunc,false)}}},select:function(num,force){if(typeof(num)!="number"){throw new Error("select(num)参数错误:num 不是 number 类型!(value:"+num+")")};if(force!=true&&this.selectedIndex==num){return};var i;for(i=0;i<this.label.length;i++){if(i==num){if(this.label[i][0]!="none"){this._setClassName(this.$(this.label[i][0]),"open")};if(this.$(this.label[i][1])){this.$(this.label[i][1]).style.display=""};if(this.ID!="none"){if(this.label[i][2]!=null){this.parentObj.style.background=this.label[i][2]}};if(this.label[i][3]!=null){eval(this.label[i][3])}}else if(this.selectedIndex==i||force==true){if(this.label[i][0]!="none"){this._setClassName(this.$(this.label[i][0]),"close")};if(this.$(this.label[i][1])){this.$(this.label[i][1]).style.display="none"};if(this.label[i][4]!=null){eval(this.label[i][4])}}};this.selectedIndex=num},random:function(){var O=this;if(arguments.length!=O.label.length){throw new Error("random()参数错误:参数数量与标签数量不符!(length:"+arguments.length+")")};var l=0,o;for(o=0;o<arguments.length;o++){l+=arguments[o]};var I=Math.random(),i=0;for(o=0;o<arguments.length;o++){i+=arguments[o]/l;if(I<i){O.select(o);break}}},order:function(){var O=this;if(arguments.length!=O.label.length){throw new Error("order()参数错误:参数数量与标签数量不符!(length:"+arguments.length+")")};if(!(/^\d+$/).test(SubShowClass.sum)){return};var i=0,o;for(o=0;o<arguments.length;o++){i+=arguments[o]};var I=SubShowClass.sum%i;if(I==0){I=i};var l=0;for(o=0;o<arguments.length;o++){l+=arguments[o];if(l>=I){O.select(o);break}}},play:function(spTime){var t=this;if(typeof(spTime)=="number"){this.spaceTime=spTime};clearInterval(this.autoPlayTimeObj);this.autoPlayTimeObj=setInterval(function(){t.autoPlayFunc()},this.spaceTime);this.autoPlay=true},autoPlayFunc:function(){var i=this;if(i.autoPlay==false||i.mouseIn==true){return};i.nextLabel()},nextLabel:function(){var t=this,index=this.selectedIndex;index++;if(index>=this.label.length){index=0};this.select(index);if(this.autoPlay==true){clearInterval(this.autoPlayTimeObj);this.autoPlayTimeObj=setInterval(function(){t.autoPlayFunc()},this.spaceTime)}},previousLabel:function(){var t=this,index=this.selectedIndex;index--;if(index<0){index=this.label.length-1};this.select(index);if(this.autoPlay==true){clearInterval(this.autoPlayTimeObj);this.autoPlayTimeObj=setInterval(function(){t.autoPlayFunc()},this.spaceTime)}},stop:function(){var i=this;clearInterval(i.autoPlayTimeObj);i.autoPlay=false},$:function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}}};SubShowClass.readCookie=function(O){var o="",l=O+"=";if(document.cookie.length>0){var i=document.cookie.indexOf(l);if(i!=-1){i+=l.length;var I=document.cookie.indexOf(";",i);if(I==-1)I=document.cookie.length;o=unescape(document.cookie.substring(i,I))}};return o};SubShowClass.writeCookie=function(i,l,o,c){var O="",I="";if(o!=null){O=new Date((new Date).getTime()+o*3600000);O="; expires="+O.toGMTString()};if(c!=null){I=";domain="+c};document.cookie=i+"="+escape(l)+O+I};SubShowClass.sum=SubShowClass.readCookie("SSCSum");if((/^\d+$/).test(SubShowClass.sum)){SubShowClass.sum++}else{SubShowClass.sum=1};SubShowClass.writeCookie("SSCSum",SubShowClass.sum,12);
+
+</script>
+
+<div class="wrap">
+  <!-- 标准二级导航_体育 begin -->
+	<style type="text/css">
+	.secondaryHeader{height:33px;overflow:hidden;background:url(http://i0.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;}
+	.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+	.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+	.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+	.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+	.sHLogo span{display:block;float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+	.sHLogo span img{vertical-align:middle;}
+	.sHLinks{float:right;line-height:31px;color:#000;}
+	</style>
+	<div class="secondaryHeader">
+		<div class="sHBorder">
+			<h1 class="sHLogo"><span><a href="http://www.sina.com.cn"><img src="http://i0.sinaimg.cn/ty/2009/1101/2009111131549.gif" alt="新浪网"/></a><a href="http://sports.sina.com.cn"><img src="http://i2.sinaimg.cn/ty/deco/2011/0530/images/sports_nba_logo.png" alt="新浪体育NBA"/></a></span></h1>
+
+			<div class="sHLinks"><a href="http://sports.sina.com.cn">体育首页</a>&nbsp;|&nbsp;<a href="http://www.sina.com.cn">新浪首页</a>&nbsp;|&nbsp;<a href="http://news.sina.com.cn/guide/">体育导航</a></div>
+		</div>
+
+	</div>
+<!-- 标准二级导航_体育 end -->
+<div class="banner">
+ 	<div>
+    	<a href="http://www.sina.com.cn/">首页</a><a href="http://sports.sina.com.cn/nba/video/" >NBA视频</a><a href="http://sports.sina.com.cn/nba/" target="_blank">NBA专题</a><a href="http://video.sina.com.cn/" target="_blank">新浪视频</a><a href="http://live.video.sina.com.cn/room/nba" target="_blank">NBA视频直播间</a><a href="http://weibo.com/sportschannel" target="_blank">@新浪体育</a><a href="http://weibo.com/nbachannel" target="_blank">@新浪NBA</a><a href="http://weibo.com/sportsvideo" target="_blank">@新浪体育视频</a><a href="http://weibo.com/sinanbavideo" target="_blank">@声色NBA</a>
+    </div>
+</div>
+
+  <!-- main -->
+
+  <!-- Part 01 begin -->  
+<div class="part_01 clearfix">
+    <div class="p_left">
+    <!-- left begin -->
+    <div class="flashPlayer" id="flashPlayer" align="center"></div>
+    <!-- left end -->
+    </div>
+    <div class="p_right">
+
+    <!-- right begin -->
+    <ul id="video-list" class="list_01">
+      <li vid="70991096" id="li_0"><a onclick="play(0);return false;" href="http://video.sina.com.cn/p/sports/k/v/2012-02-10/084861661595.html" class="video_list"><font color=yellow>声色辩论场：</font>疯狂过后林书豪能否一飞冲天？</a><img src="http://i0.sinaimg.cn/ty/deco/2011/0607/images/sports_nba_0607_01.gif" border=0 alt="转发到微博"/></li>
+      <li vid="71002165" id="li_1"><a onclick="play(1);return false;" href="http://video.sina.com.cn/p/sports/k/v/2012-02-10/085461661609.html" class="video_list"><font color=yellow>声色Top10：</font>一周10佳球 LBJ脑后贯场长传助攻</a><img src="http://i0.sinaimg.cn/ty/deco/2011/0607/images/sports_nba_0607_01.gif" border=0 alt="转发到微博"/></li>
+      <li vid="70999821" id="li_2"><a onclick="play(2);return false;" href="http://video.sina.com.cn/p/sports/k/v/2012-02-10/090161661619.html" class="video_list" ><font color=yellow>声色群英会：</font>震惊NBA的金童 人人都爱卢比奥</a><img src="http://i0.sinaimg.cn/ty/deco/2011/0607/images/sports_nba_0607_01.gif" border=0 alt="转发到微博"/></li>
+      <li vid="70999727" id="li_3"><a onclick="play(3);return false;" href="http://video.sina.com.cn/p/sports/k/v/2012-02-10/091561661631.html" class="video_list"><font color=yellow>声色档案簿：</font>老鱼0.4秒绝杀马刺 神迹永流传</a><img src="http://i0.sinaimg.cn/ty/deco/2011/0607/images/sports_nba_0607_01.gif" border=0 alt="转发到微博"/></li>
+
+      <li vid="70999773" id="li_4"><a onclick="play(4);return false;" href="http://video.sina.com.cn/p/sports/k/v/2012-02-10/092261661643.html" class="video_list"><font color=yellow>声色爆米花：</font>NBA场内爆笑花絮 奥多姆囧翻了</a><img src="http://i0.sinaimg.cn/ty/deco/2011/0607/images/sports_nba_0607_01.gif" border=0 alt="转发到微博"/></li>
+      <li vid="70999376" id="li_5"><a onclick="play(5);return false;" href="http://video.sina.com.cn/p/sports/k/v/2012-02-10/093061661655.html" class="video_list"><font color=yellow>声色放映室：</font>《酷越街球》 街球皇帝HotSauce首次触电</a><img src="http://i0.sinaimg.cn/ty/deco/2011/0607/images/sports_nba_0607_01.gif" border=0 alt="转发到微博"/></li>
+    </ul>
+    <div class="blk_01">
+    	<ul class="list_02" >
+          <p>&nbsp&nbsp&nbsp&nbspNBA新赛季渐入佳境，林书豪的崛起，让我们又有了新的关注对象。执着追梦，敢打敢拼，这个小伙子真的不错哦！</p>
+
+<p>&nbsp&nbsp&nbsp&nbsp总导演：菊花迪/监制：王帆/编导：方方 马骏 李楠 李超/责编：佟恒 郑悦/主持人：徐婧(<a target="_blank" href="http://weibo.com/u/1667145132"><font color=red>微博</font></a>)/嘉宾：柯凡 孙一萌(<a target="_blank" href="http://weibo.com/airkaren"><font color=red>微博</font></a>)</p>
+
+    	</ul>
+    </div>
+
+    <!-- right end -->
+    </div>
+  </div>
+		<script type="text/javascript">
+		/***************转发到微博 begin****************/
+		document.getElementById("video-list").onclick = function(ev){
+			ev = ev || window.event;
+			var tar = ev.target || ev.srcElement;
+			if(tar.tagName.toLowerCase() == "img"){
+				var aEl = tar.previousSibling;
+				var title = aEl.innerHTML;
+				var sUrl = aEl.getAttribute("href");
+				title=title.replace(/<\/?[^>]+>/g,'');
+				toT(screen,document,encodeURIComponent,'新浪视频',sUrl,"",title,sUrl);
+			}
+		};
+		window.toT = window.toT || function (s,d,e,r,l,p,t,z,c){
+			var f='http://v.t.sina.com.cn/share/share.php?',u=z||d.location,
+			p=['url=',e(u),'&title=',e(t || ""),'&ralateUid=',e('新浪视频'),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=',e(p||'')].join('');
+			function a(){
+			if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))
+				u.href=[f,p].join('');
+			};
+			if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);
+			else a();
+		}
+        /***************转发到微博 end****************/
+		var sinaBokePlayerConfig_o = {
+			container: "flashPlayer",  //Div容器的id
+			playerWidth: 502,		//宽
+			playerHeight: 402,		//高
+			autoLoad: 1,				//自动加载
+			autoPlay: 1,				//自动播放
+			tjAD: 0,						//显示擎天柱广告
+			tj: 0,							//片尾推荐
+			casualPlay: 1,			//任意拖动视频
+			as: 0,							//广告
+			continuePlayer : 1,  //连续播放
+			head: 0,					//播放片头动画
+			logo: 0						//显示logo
+		};
+		 window.__onloadFun__ = function(){
+		 SinaBokePlayer_o.addVars("pid", "6");
+			SinaBokePlayer_o.addVars("tid", "408");
+			SinaBokePlayer_o.showFlashPlayer();
+
+}
+		</script>
+		<script src="http://sjs0.sinajs.cn/video/js/detectbrowserplayer.js" type="text/javascript"></script>
+		<script type="text/javascript">
+
+			var listData=[];
+
+			function GetObj(id){return document.getElementById(id)};
+			//2009-7-1201 cl begin
+			var videoIdList ={
+				playListId : "playListTable",
+				videoIndex : 0 , //当前播放序号
+				curSelected : 0 ,
+				init : function(){
+					this.videoIndex --;//减1，为第一次flash加载回调时+1
+					//初始化滚动图区域 
+
+					//初始化数据 2009-11-18 cl 
+					var _listItems = document.getElementById("video-list").childNodes;
+					var _listItemCount = _listItems.length;
+					for (var k = 0; k < _listItemCount ; k++ )
+					{
+						if (_listItems[k].nodeName.toLowerCase() === "li")
+						{
+							var itemNode  = $(_listItems[k]) ;
+							var tempData = {};
+							tempData.vid              = itemNode.attr("vid");
+							listData.push(tempData) ;
+						}
+
+					}
+					//2009-11-18 cl end
+
+				},
+				playNext : function(){
+					this.videoIndex++;
+					if(this.videoIndex >= listData.length){
+						GetObj("myMovie").playVideo(-1, 0, 0);//通知flash播放完毕
+						GetObj("li_"+this.curSelected).className = GetObj("li_"+this.curSelected).className.replace("selected","");//取消正在播放显示
+						return;
+					};
+					this.play(this.videoIndex);
+				},
+				play : function(num){
+					//2009-11-18 cl begin
+					GetObj("li_"+this.curSelected).className = GetObj("li_"+this.curSelected).className.replace("selected","");//正在播放显示
+					GetObj("li_"+num).className+= " selected";//正在播放显示
+					this.videoIndex = num;
+					this.curSelected = num ;
+					if(num >=0 && num<listData.length){
+						GetObj("myMovie").playVideo(listData[num].vid, listData[num].pid, 0);
+					};
+
+					if (document.getElementById("fxwb")){
+						document.getElementById("fxwb").onclick=function(){
+								toT(screen,document,encodeURIComponent,'新浪视频','http://video.sina.com.cn/',null);
+						}
+					}
+
+				}
+			};
+
+var requestOrder = 1;
+			var myLocation = window.location.href;
+			var myLocationArray = myLocation.split("?");
+			if(myLocationArray.length > 1) {
+				var myParamArray = myLocationArray[1].split("&");
+
+				for(var i = 0 ; i <  myParamArray.length ; i ++) {
+					if(myParamArray[i].split("=")[0] == 'requestOrder') {
+						requestOrder = myParamArray[i].split("=")[1];
+					}
+				}
+			}
+			requestOrder = requestOrder -1;
+			if (!/^\d+$/.test(requestOrder)) {
+				requestOrder = 0;
+			}
+
+			videoIdList.videoIndex = requestOrder;//默认播放第几个(从0开始)
+			videoIdList.init();
+
+			function play(num){
+				videoIdList.play(num);
+			};
+
+			//flashPlay回调
+			function playCompleted(tag){
+				videoIdList.playNext();
+
+				if (Scr)
+				{
+					if (videoIdList.videoIndex+1  >  Scr.scrShowCount + Scr.scrLeftNum)//显示位置小于播放位置
+					{
+						Scr.move(videoIdList.videoIndex+1-Scr.scrShowCount - Scr.scrLeftNum);
+					} 
+					else if(Scr.scrLeftNum+1 > videoIdList.videoIndex )//显示位置大于播放位置
+					{		
+						Scr.move( videoIdList.videoIndex - Scr.scrLeftNum);
+					}
+				}
+			};
+
+			var Scr={
+				scrDiv:   $("#scrCont"),
+				scrBar:   $("#scroll-bar"),
+				scrTravel:$("#scroll-travel"),
+				scrLeft     : $("#arrLeft"),
+				scrRight    : $("#arrRight"),
+				scrUnit     :  174,
+				scrShowCount:5,
+				scrCount  : listData.length,
+				scrLeftNum  : 0,
+				barWidth    : 0,
+				travelWidth : 0,
+				noShowCount : 0,
+				noBarWidth  : 0,
+				scrIsBarEvent : 0,
+				init:function()
+				{
+
+					//拖动条初始化
+					var startDrag , vLeft;
+					this.barWidth = this.scrBar.innerWidth();
+					this.travelWidth = this.scrTravel.innerWidth();
+					this.noBarWidth = this.travelWidth - this.barWidth;
+					var barWidth = this.barWidth;
+					var travelWidth = this.travelWidth;
+					startDrag = 0;
+					var timer;
+					if (listData.length <= this.scrShowCount)//如果在实际条数小于 可现实条数 则无拖动事件
+					{
+						this.scrTravel.css("display","none");
+						return false;
+					}
+					var that = this;
+					this.noShowCount = this.scrCount - this.scrShowCount;
+					this.scrLeft.bind("mousedown",function(){
+						that.moveLeft();
+					});
+					this.scrRight.bind("mousedown",function(){
+						that.moveRight();
+					});
+				},
+				move:function(num,hideNum){
+					if (isNaN(hideNum/1))//左右键触发 及 非滚动条拖动触发的滚动
+					{
+						if ( this.scrLeftNum+this.scrShowCount + num > this.scrCount )
+						{
+							return;
+						}
+						var endV=(num + this.scrLeftNum) * this.scrUnit;
+						this.scrLeftNum += num;
+						if (this.scrLeftNum <0)
+						{
+							this.scrLeftNum = 0;
+						}
+						else if(this.scrLeftNum > this.noShowCount)
+						{
+							this.scrLeftNum = this.noShowCount;
+						}
+						var newBarPos=(this.scrLeftNum/ this.noShowCount ) * this.noBarWidth;// 终止时的左滚动宽度 除以 单位 
+						this.barMove(newBarPos);
+					}
+					else//滚动条拖动触发的滚动
+					{
+						isBar = hideNum-1;
+						if (isBar<0)
+						{
+							isBar = 0;
+						}
+						else if (isBar > this.noShowCount)
+						{
+							isBar =  this.noShowCount;
+						}
+						endV = this.scrUnit * isBar;
+						this.scrLeftNum = isBar;
+						this.scrIsBarEvent = 1;// 滚动条未到标准位置，等待鼠标UP之后执行BARMOVE
+					}
+					this.scrDiv.stop();
+					this.scrDiv.animate( {scrollLeft: endV},"slow");
+
+				},
+				barMove:function(pos){
+					if (pos< 0)
+					{
+						pos =0;
+					}
+					else if(pos > this.noBarWidth)
+					{
+						pos =  this.noBarWidth;
+					}
+					this.scrBar.stop();
+					this.scrBar.animate({left:pos},"slow");
+				},
+				moveLeft:function()
+				{
+					this.move(-1);
+				},
+				moveRight:function()
+				{
+					this.move(1);
+				}
+			};
+			Scr.init();
+			//2009-7-1201 cl end
+			</script>
+<!-- Part 01 end -->
+
+  <!-- Part 02 begin -->  
+<div class="part_02 clearfix">
+    <div class="p_left">
+    <!-- left begin -->
+    <div class="sub" id="sub1">
+        <!--舌签按钮 start-->
+        <div class="sub_at clearfix">
+            <span id="sub_a1" class="">NBA微博</span>
+            <span id="sub_a2" class="selected">微博播报</span>
+        </div>
+        <!--舌签按钮end-->
+        <!--舌签内容1 start-->
+        <div class="sub_ac" id="sub_ac1" style="display:none;">
+            <iframe width="378" height="416"  frameborder="0" scrolling="no" src="http://widget.weibo.com/list/list.php?language=zh_cn&width=378&height=416&listid=294871893&uname=%E8%8F%8A%E8%8A%B1%E8%BF%AA&uid=1529042084&listname=%E5%A3%B0%E8%89%B2NBA%E6%8A%A5%E9%81%93%E5%9B%A2%E9%98%9F&color=CCCCCC,E1E1E1,444444,0082CB,FFFFFF,FFFFEA&showcreate=0&isborder=1&showtitle=2&dpc=1"></iframe>
+        </div>
+        <!--舌签内容1 end-->
+        <div class="sub_ac" id="sub_ac2">
+           <iframe width="378" height="416" id="weiboshow" name="weiboshow"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=378&height=416&fansRow=0&ptype=1&speed=0&skin=-1&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=2022171303&verifier=f0469716&dpc=1"></iframe>
+        </div>
+    </div>
+     <script type="text/javascript" language="javascript">
+            <!--//--><![CDATA[//><!--
+            var SubShow = new SubShowClass("sub1","onmouseover");           
+            SubShow.addLabel("sub_a2","sub_ac2");
+             SubShow.addLabel("sub_a1","sub_ac1");
+            //--><!]]>
+    </script>     
+    <!-- left end -->
+    </div>
+    <div class="p_right" >
+    <!-- right begin -->
+    	<div id="mblog_topic"></div>
+
+    <!-- right end -->
+    </div><script type="text/javascript">
+(function(){
+	var key = encodeURI('声色NBA');
+	document.getElementById('mblog_topic').innerHTML = '<iframe src="http://v.t.sina.com.cn/widget/widget_topic_publish.php?tags='+key+'&skin=1&isShowPic=1&width=500&height=200&wordLength=&mblogNum=20" width="535" height="415" scrolling="no" frameborder="0"></iframe>';
+
+})();
+
+</script>
+  </div>
+<!-- Part 02 end -->
+ <!-- Part 05 begin 往期视频 -->
+
+		<div class="part_05 clearfix">
+
+	<div class="tit tit_05"><h2>往期视频</h2>
+    <a target="_blank" href="">更多</a></div>
+	<ul class="p_cont clearfix">
+
+		<li class="blk_tw_pic"><a href="http://sports.sina.com.cn/nba/video/verynba-1/" target="_blank"><img src="http://i3.sinaimg.cn/ty/up/2012-02-03/U2085P6T64D86500F1091DT20120203084420.jpg" width="115" height="85" alt="" /><span>第1期-紫金天使科比</span></a></li>
+
+		<li class="blk_tw_pic"><a href="http://sports.sina.com.cn/nba/video/verynba-2/" target="_blank"><img src="http://i2.sinaimg.cn/ty/up/2012-02-03/U2085P6T64D86500F1094DT20120203084420.jpg" width="115" height="85" alt="" /><span>第2期-送别斗士罗伊</span></a></li>
+
+		<li class="blk_tw_pic"><a href="http://sports.sina.com.cn/nba/video/verynba-3/" target="_blank"><img src="http://i2.sinaimg.cn/ty/http/video.sina.com.cn/p/sports/k/v/2011-12-23/U6590P6T408D92040F8868DT20111224014146.jpg" width="115" height="85" alt="" /><span>第3期-空中舞者卡特</span></a></li>
+
+		<li class="blk_tw_pic"><a href="http://sports.sina.com.cn/nba/video/verynba-4/" target="_blank"><img src="http://i0.sinaimg.cn/ty/http/video.sina.com.cn/p/sports/k/v/2011-12-30/U5829P6T408D92510F8868DT20111230094620.jpg" width="115" height="85" alt="" /><span>第4期-LBJ生日快乐</span></a></li>
+
+		<li class="blk_tw_pic"><a href="http://sports.sina.com.cn/nba/video/verynba-5/" target="_blank"><img src="http://i2.sinaimg.cn/ty/http/video.sina.com.cn/p/sports/k/v/2012-01-06/U5829P6T408D93122F8868DT20120106135312.jpg" width="115" height="85" alt="" /><span>第5期-铁血狼王KG</span></a></li>
+
+		<li class="blk_tw_pic"><a href="http://sports.sina.com.cn/nba/video/verynba-6/" target="_blank"><img src="http://i3.sinaimg.cn/ty/http/video.sina.com.cn/p/sports/k/v/2012-01-13/U6589P6T408D93731F8868DT20120113090548.jpg" width="115" height="85" alt="" /><span>第6期-韦德光阴故事</span></a></li>
+
+		<li class="blk_tw_pic"><a href="http://sports.sina.com.cn/nba/video/verynba-7/" target="_blank"><img src="http://i0.sinaimg.cn/ty/up/2012-02-03/U2085P6T64D86500F1322DT20120203084420.jpg" width="115" height="85" alt="" /><span>第7期-大魔术师纳什</span></a></li>
+
+		<li class="blk_tw_pic"><a href="http://sports.sina.com.cn/nba/video/verynba-8/" target="_blank"><img src="http://i0.sinaimg.cn/ty/up/2012-02-09/U2085P6T64D86576F1094DT20120210085240.jpg" width="115" height="85" alt="" /><span>第8期-麦蒂缔造奇迹</span></a></li>
+
+	</ul>
+	<div class="p_bot"></div>
+
+</div>
+
+<!-- Part 05 end -->
+  <!-- Part 04 begin -->  
+ <!-- 评论版块 -->
+  <!-- Part 04 end -->
+
+  <!-- end main -->
+
+</div>
+<!-- sina footer begin -->
+	<div id="uni_footer">
+      <div class="footer_cont">
+		<a href="http://sports.sina.com.cn/guest.html" target="_blank">竞技风暴意见反馈留言板</a> <a href="mailto:sports2009@vip.sina.com" target="_blank">投稿信箱</a> 客服热线：95105670 欢迎批评指正<br />
+
+		<a href="http://corp.sina.com.cn/chn/">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://members.sina.com.cn/apply/">会员注册</a> | <a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a><br />
+
+		Copyright &copy; 1996-2012 SINA Corporation, All Rights Reserved<br />
+		新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a>
+        </div>
+	</div>
+<!-- sina footer end -->    
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- Start  Wrating  --> 
+<script language="javascript"> 
+var wrUrl="//sina.wrating.com/";var wrDomain="sina.com.cn";var wratingDefaultAcc="860010-0323010000";var wratingAccArray={"torch.2008.sina.com.cn":"860010-0308070000","video.sina.com.cn":"860010-0309010000","cctv.sina.com.cn":"860010-0309020000","chat.sina.com.cn":"860010-0311010000","ent.sina.com.cn":"860010-0312010000","tech.sina.com.cn":"860010-0313010000","mobile.sina.com.cn":"860010-0313020000","house.sina.com.cn":"860010-0315010000","bj.house.sina.com.cn":"860010-0315020000","auto.sina.com.cn":"860010-0316010000","eladies.sina.com.cn":"860010-0317010000","bj.sina.com.cn":"860010-0317020000","woman.sina.com.cn":"860010-0317010000","women.sina.com.cn":"860010-0317010000","lady.sina.com.cn":"860010-0317010000","man.eladies.sina.com.cn":"860010-0317030000","games.sina.com.cn":"860010-0318010000","game.sina.com.cn":"860010-0318010000","edu.sina.com.cn":"860010-0307010000","baby.sina.com.cn":"860010-0320010000","kid.sina.com.cn":"860010-0320020000","astro.sina.com.cn":"860010-0321020000","news.sina.com.cn":"860010-0310010000","weather.news.sina.com.cn":"860010-0310020000","mil.news.sina.com.cn":"860010-0310030000","www.sina.com.cn":"860010-0322010000","home.sina.com.cn":"860010-0322010000","sports.sina.com.cn":"860010-0308010000","shidefc.sina.com.cn":"860010-0308020000","weiqi.sina.com.cn":"860010-0308030000","f1.sina.com.cn":"860010-0308040000","golf.sina.com.cn":"860010-0308050000","2002.sina.com.cn":"860010-0308060000","2004.sina.com.cn":"860010-0308060000","2006.sina.com.cn":"860010-0308060000","2008.sina.com.cn":"860010-0308070000","yayun2002.sina.com.cn":"860010-0308060000","yayun2006.sina.com.cn":"860010-0308060000","inter.sina.com.cn":"860010-0308080000","chelsea.sina.com.cn":"860010-0308090000","book.sina.com.cn":"860010-0319010000","cul.book.sina.com.cn":"860010-0319020000","comic.book.sina.com.cn":"860010-0319030000","finance.sina.com.cn":"860010-0314010000","money.sina.com.cn":"860010-0314020000","yue.sina.com.cn":"860010-0324010000","www.sina.com":"860010-0322010000"};function vjTrack(){var U=1800;var T=false;var S=false;var R="";var Q="0";var P="";var N;var L;var K;var J;var I;var H="expires=Fri, 1 Jan 2038 00:00:00 GMT;";var G=0;if(document.location.protocol=="file:"){return }T=navigator.cookieEnabled?"1":"0";S=navigator.javaEnabled()?"1":"0";var F="0";var E;var C=-1;var D=document.cookie;if(T=="1"){C=D.indexOf("vjuids=");if(C<0){E=vjVisitorID();document.cookie="vjuids="+escape(E)+";"+H+";domain="+wrDomain+";path=/;";if(document.cookie.indexOf("vjuids=")<0){T="0"}else{Q="1"}}else{E=vjGetCookie("vjuids")}}L=document.referrer;if(!L||L==""){L=""}R=vjFlash();if(self.screen){N=screen.width+"x"+screen.height+"x"+screen.colorDepth}else{if(self.java){var M=java.awt.Toolkit.getDefaultToolkit();var O=M.getScreenSize();N=O.width+"x"+O.height+"x0"}}if(navigator.language){K=navigator.language.toLowerCase()}else{if(navigator.browserLanguage){K=navigator.browserLanguage.toLowerCase()}else{K="-"}}I="";var B;var X;X=new Date();J=X.getTimezoneOffset()/-60;J=X.getTimezoneOffset()/-60;B="&s="+N+"&l="+K+"&z="+J+"&j="+S+"&f="+R;if(T=="1"){C=document.cookie.indexOf("vjlast=");if(C<0){G=0}else{G=parseInt(vjGetCookie("vjlast"))}}if((X.getTime()/1000)-G>U){F="1";document.cookie="vjlast="+Math.round(X.getTime()/1000)+";"+H+";domain="+wrDomain+";path=/;"}if(L!=""){B=B+"&r="+escape(L)}if(F!="0"){B=B+"&n="+G}if(Q!="0"){B=B+"&u="+Q}var V;var A=vjGetAcc();var W=vjGetDomain();V=wrUrl+"a.gif?a="+X.getTime().toString(16)+"&t="+escape(I)+"&i="+escape(E)+"&b="+escape(document.location)+"&c="+A+B+"&ck="+W;document.write('<img src="'+V+'" width="1" height="1" style="visibility:hidden;position:absolute;left:0px;top:0px;z-index:-1" />')}function vjGetAcc(){var B=document.location.toString().toLowerCase();var C=(B.split("/"))[2];var A=wratingAccArray[C];if(typeof (A)=="undefined"){A=wratingDefaultAcc}return A}function vjFlash(){var _wr_f="-",_wr_n=navigator;if(_wr_n.plugins&&_wr_n.plugins.length){for(var ii=0;ii<_wr_n.plugins.length;ii++){if(_wr_n.plugins[ii].name.indexOf("Shockwave Flash")!=-1){_wr_f=_wr_n.plugins[ii].description.split("Shockwave Flash ")[1];break}}}else{if(window.ActiveXObject){for(var ii=10;ii>=2;ii--){try{var fl=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+ii+"');");if(fl){_wr_f=ii+".0";break}}catch(e){}}}}return _wr_f}function vjHash(B){if(!B||B==""){return 0}var D=0;for(var C=B.length-1;C>=0;C--){var A=parseInt(B.charCodeAt(C));D=(D<<5)+D+A}return D}function vjVisitorID(){var B=vjHash(document.location+document.cookie+document.referrer).toString(16);var A;A=new Date();return B+"."+A.getTime().toString(16)+"."+Math.random().toString(16)}function vjGetCookieVal(B){var A=document.cookie.indexOf(";",B);if(A==-1){A=document.cookie.length}return unescape(document.cookie.substring(B,A))}function vjGetCookie(C){var B=C+"=";var F=B.length;var A=document.cookie.length;var E=0;while(E<A){var D=E+F;if(document.cookie.substring(E,D)==B){return vjGetCookieVal(D)}E=document.cookie.indexOf(" ",E)+1;if(E==0){break}}return null}function vjGetDomain(){var A=0;try{if(window.self.parent!=self){var D=/sina.com/i;var C=document.location.toString().toLowerCase();var B=parent.location.toString().toLowerCase();if(D.test(C)&&D.test(B)){A=1}}}catch(e){A=1}return A}vjTrack();
+</script> 
+<!-- End Wrating--> 
+ 
+<!-- START Nielsen//NetRatings SiteCensus V5.3 --> 
+<!-- COPYRIGHT 2006 Nielsen//NetRatings --> 
+<script type="text/javascript"> 
+	var _rsCI="cn-sina2006";	 
+	var _rsCG="0";	
+	var _rsDN="//secure-cn.imrworldwide.com/";	
+	var _rsCC=0;	
+	var _rsSE=1;	
+	var _rsSM=0.01;	 
+	var _rsSS=1500;	 
+</script> 
+<script type="text/javascript" src="//secure-cn.imrworldwide.com/v53.js"></script> 
+<noscript> 
+	<img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&amp;cg=0" alt=""/> 
+</noscript> 
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+</body>
+</html>

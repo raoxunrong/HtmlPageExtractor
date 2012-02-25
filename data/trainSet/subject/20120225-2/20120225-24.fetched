@@ -1,0 +1,442 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-CN">
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>by tag Wordpress | 点滴之间 聚沙成金</title>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.path8.net/tn/wp-content/themes/zbench/style.css" />
+	<link rel="pingback" href="http://www.path8.net/tn/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; Feed" href="http://www.path8.net/tn/feed" />
+<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; 评论 Feed" href="http://www.path8.net/tn/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; wordpress 标签 Feed" href="http://www.path8.net/tn/archives/tag/wordpress/feed" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.path8.net/tn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.path8.net/tn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+
+<!-- All in One SEO Pack 1.6.13.8 by Michael Torbert of Semper Fi Web Design[301,350] -->
+<link rel="canonical" href="http://www.path8.net/tn/archives/tag/wordpress" />
+<!-- /all in one seo pack -->
+
+<style type="text/css">.navigation{display: none;}</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- wp thread comment 1.4.9.4.002 -->
+<style type="text/css" media="screen">
+.editComment, .editableComment, .textComment{
+	display: inline;
+}
+.comment-childs{
+	border: 1px solid #999;
+	margin: 5px 2px 2px 4px;
+	padding: 4px 2px 2px 4px;
+	background-color: white;
+}
+.chalt{
+	background-color: #E2E2E2;
+}
+#newcomment{
+	border:1px dashed #777;width:90%;
+}
+#newcommentsubmit{
+	color:red;
+}
+.adminreplycomment{
+	border:1px dashed #777;
+	width:99%;
+	margin:4px;
+	padding:4px;
+}
+.mvccls{
+	color: #999;
+}
+			
+</style>
+</head>
+<body class="archive tag tag-wordpress tag-193">
+<div id="nav">
+	<div id="menus">
+		<ul><li><a href="http://www.path8.net/tn/">首页</a></li></ul>
+		<ul id="menu-%e4%b8%bb%e8%8f%9c%e5%8d%95" class="menu"><li id="menu-item-2817" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2817"><a href="http://www.path8.net/tn/archives/category/private">原创文章</a></li>
+<li id="menu-item-2816" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2816"><a href="http://www.path8.net/tn/archives/category/web-technique/php-hypertext-preprocessor">PHP</a></li>
+<li id="menu-item-2811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2811"><a href="http://www.path8.net/tn/mesgbox">敬请留言</a></li>
+<li id="menu-item-2813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2813"><a href="http://www.path8.net/tn/about">关于</a>
+<ul class="sub-menu">
+	<li id="menu-item-4300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4300"><a href="http://www.path8.net/tn/about/master-log">站长日志</a></li>
+	<li id="menu-item-2830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2830"><a href="http://www.path8.net/tn/why-luowuzhe">关于我</a></li>
+</ul>
+</li>
+<li id="menu-item-4933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4933"><a href="http://blog.path8.net">本站将转至...</a></li>
+</ul>	</div>
+	<div id="search">
+		<form id="searchform" method="get" action="http://www.path8.net/tn/">
+<input type="text" value="站内搜索" onfocus="if (this.value == '站内搜索') {this.value = '';}" onblur="if (this.value == '') {this.value = '站内搜索';}" size="35" maxlength="50" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="搜索" />
+</form>	</div>
+</div>
+<div id="wrapper">
+	<div id="header">		<h1><a href="http://www.path8.net/tn/">点滴之间 聚沙成金</a></h1>
+		<h2>一个落伍者的博客 关注于web开发, linux, 安全. etc</h2>
+		<div class="clear"></div>
+			</div>
+<div id="content">
+		<div class="page-title">
+					<h1>标签存档: <span>wordpress</span></h1>
+			</div>
+		<div class="post-4715 post type-post status-publish format-standard hentry category-337 category-private tag-wordpress tag-331" id="post-4715"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4715" title="链接到 wordpress插件Quotmarks Replacer：解决wordpress英文引号自动转为中文引号的问题">wordpress插件Quotmarks Replacer：解决wordpress英文引号自动转为中文引号的问题</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4715" title="10:01" rel="bookmark">2011/07/19</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4715#respond" title="《wordpress插件Quotmarks Replacer：解决wordpress英文引号自动转为中文引号的问题》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4715" title="wordpress插件Quotmarks Replacer：解决wordpress英文引号自动转为中文引号的问题"></a><p>Quotmarks Replacer<br />
+Quotmarks Replacer disables wptexturize function that keeps all quotation marks and suspension points in half-width form.<br />
+Quotmarks Replacer 通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致。并且对多站点 (WordPress Mu) 有良好的支持。<br />
+http://wordpress.org/extend/plugins/quotmarks-replacer/</p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4342 post type-post status-publish format-standard hentry category-337 category-private tag-wordpress tag-wp-super-cache" id="post-4342"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4342" title="链接到 wordpress迁移服务器后WP Super Cache 错误：Warning! WP Super Cache caching broken! The script advanced-cache.php could not load wp-cache-phase1.php">wordpress迁移服务器后WP Super Cache 错误：Warning! WP Super Cache caching broken! The script advanced-cache.php could not load wp-cache-phase1.php</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4342" title="18:46" rel="bookmark">2011/04/24</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4342#comments" title="《wordpress迁移服务器后WP Super Cache 错误：Warning! WP Super Cache caching broken! The script advanced-cache.php could not load wp-cache-phase1.php》上的评论">1 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4342" title="wordpress迁移服务器后WP Super Cache 错误：Warning! WP Super Cache caching broken! The script advanced-cache.php could not load wp-cache-phase1.php"></a><p>Warning! WP Super Cache caching broken! The script advanced-cache.php could not load wp-cache-phase1.php.<br />
+Please  edit /var/www/html/ and make sure the  path to  /var/www/html/wp-content/plugins/wp-super-cache/wp-cache-phase1.php  is correct.<br />
+把整个wordpress打包压缩迁移到新的服务器上后，发现后台里出现这样的一条错误消息，以前根本没有的。清理wp super cache缓存，都不行。查了官方的FAQ，仔细查看了一下文件wp-content/advanced-cache.php 发现问题所在了，文件内容如下<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4342" title="wordpress迁移服务器后WP Super Cache 错误：Warning! WP Super Cache caching broken! The script advanced-cache.php could not load wp-cache-phase1.php" target="_blank">阅读全文——共1193字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4217 post type-post status-publish format-standard hentry category-web-technique category-private tag-web tag-wordpress tag-779 tag-772 tag-281" id="post-4217"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4217" title="链接到 wordpress文件附件转移到另外服务器上实现性能提升/web与文件数据分离">wordpress文件附件转移到另外服务器上实现性能提升/web与文件数据分离</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4217" title="23:51" rel="bookmark">2011/03/17</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4217#comments" title="《wordpress文件附件转移到另外服务器上实现性能提升/web与文件数据分离》上的评论">1 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4217" title="wordpress文件附件转移到另外服务器上实现性能提升/web与文件数据分离"></a><p>在大型web架构里，通常会把web与文件分离在不同服务器上，以提升web系统的高效运行。<br />
+而wordpress，本身好像没有这方面的考虑，所以，但可以朝这方面努力，应该可以通过插件等机制实现。<br />
+以下是笔者刚想到的一个实现方案。<br />
+由于wordpress本身，添加文章后，其中引用文件都是以绝对链接的形式写在html里的，这点可以通过插件的形式，把其url域名替换成另一个域名。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4217" title="wordpress文件附件转移到另外服务器上实现性能提升/web与文件数据分离" target="_blank">阅读全文——共1151字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4201 post type-post status-publish format-standard hentry category-web-netmngr category-private tag-wordpress tag-343" id="post-4201"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4201" title="链接到 小杯具了，wordpress居然被挂马了/清理过程兼木马解剖简记">小杯具了，wordpress居然被挂马了/清理过程兼木马解剖简记</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4201" title="22:44" rel="bookmark">2011/03/17</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4201#respond" title="《小杯具了，wordpress居然被挂马了/清理过程兼木马解剖简记》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4201" title="小杯具了，wordpress居然被挂马了/清理过程兼木马解剖简记"></a><p>今天真的载了，居然wordpress也被挂马了，太不可思议了。<br />
+事情如下：<br />
+晚上发篇文章，突然想到了一个对wordpress进行改进的方案，图片/附件与web分离，当然这个需求可能极少见，因为大多数wordpress都不会遇到这样的问题：空间不够用（直接升级主机了）、对附件的下载打开严重影响到web (如html,css,js)的访问速度。<br />
+但进入后台，看到快速发文章的内容框里很怪异，默认就有下面的一段文字，js代码，下面的最近草稿也显示有类似的js代码，心下不好，可能是被挂马了。不过还好，前几天为了试用新买vps性能，把整个wordpress数据库备份了一份，看来还真是所幸。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4201" title="小杯具了，wordpress居然被挂马了/清理过程兼木马解剖简记" target="_blank">阅读全文——共6438字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4105 post type-post status-publish format-standard hentry category-337 tag-3d tag-wordpress tag-wordpress tag-wp-cumulus" id="post-4105"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4105" title="链接到 让wordpress3D标签云插件wp-cumulus显示中文标签">让wordpress3D标签云插件wp-cumulus显示中文标签</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4105" title="12:31" rel="bookmark">2011/03/06</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4105#respond" title="《让wordpress3D标签云插件wp-cumulus显示中文标签》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4105" title="让wordpress3D标签云插件wp-cumulus显示中文标签"></a><p>wp-cumulus可以把wordpress标签显示为3D云的形式，获得比平面静态标签文字更佳视觉效果，但它本身并不支持中文的显示，有这样一个补丁文件可以弥补这一缺陷，就是如下的swf文件，直接把它替换wp-cumulus自带的swf就可以。本swf文件来自http://www.nonabyte.net/wp-cumulus-chinese/，在此表示感谢，并转载于文后。<br />
+使用方法：<br />
+1. 下载该文件http://www.path8.net/tn/wp-content/uploads/2011/03/tagcloud.zip ，并解压缩<br />
+2. 把wordpress主机上的wp-content/plugins/wp-cumulus/tagcloud.swf改名备份，如改名为tagcloud.swf.bakup，以备以后可能使用。［该步可以不作］<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4105" title="让wordpress3D标签云插件wp-cumulus显示中文标签" target="_blank">阅读全文——共1674字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4036 post type-post status-publish format-standard hentry category-337 tag-wordpress tag-wordpress tag-331 tag-558" id="post-4036"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4036" title="链接到 wordpress常见缓存插件及优缺点">wordpress常见缓存插件及优缺点</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4036" title="12:55" rel="bookmark">2011/02/16</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4036#comments" title="《wordpress常见缓存插件及优缺点》上的评论">1 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4036" title="wordpress常见缓存插件及优缺点"></a><p>wordpress缓存插件的优缺点<br />
+优点：当博客的流量比较大的时候，打开缓存插件能够明显的降低服务器的资源消耗，加快网站的访问速度。<br />
+缺点：当修改日志、修改widget、修改主题之后，效果不会立即看到，而需要在下一个缓存周期才能看到。<br />
+因此，网站规模较小，流量比较低（日IP 500以下，PV 1000以下），尤其是网站刚上线的时候，没有必要使用它。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4036" title="wordpress常见缓存插件及优缺点" target="_blank">阅读全文——共448字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3468 post type-post status-publish format-standard hentry category-private category-199 tag-wordpress tag-645" id="post-3468"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3468" title="链接到 WordPress 3.0.3 发布，大概是最密集的一次更新了">WordPress 3.0.3 发布，大概是最密集的一次更新了</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3468" title="18:23" rel="bookmark">2010/12/09</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3468#respond" title="《WordPress 3.0.3 发布，大概是最密集的一次更新了》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3468" title="WordPress 3.0.3 发布，大概是最密集的一次更新了"></a><p>刚才登录wordpress后台，又一个更新，原来是WordPress 3.0.3 发布了，不久前WordPress 3.0.2 才发布，好像刚一周时间就升级了。<br />
+这么密集的软件更新，一般说都是修正安全漏洞的，看升级日志，果然是，e文不好，看得不甚明白，于是google一个，至少已经有好中文几个网站发布了这则消息，开源中国社区上的消息：<br />
+WordPress 3.0.3 是一个安全问题更新版本，修复了远程发布接口的bug，该接口可能在某些情况下允许发布者随意的发布、修改和删除文章。这个问题仅仅对于启用远程发布接口时才会存在。<br />
+可从这里下载该版本或者通过面板的更新功能进行自动升级。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3468" title="WordPress 3.0.3 发布，大概是最密集的一次更新了" target="_blank">阅读全文——共389字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3348 post type-post status-publish format-standard hentry category-337 tag-tags tag-wordpress tag-wordpress tag-wp-cumulus tag-618" id="post-3348"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3348" title="链接到 wordpress插件 wp-cumulus：把wordpress标签云显示成3D旋转效果(3D tags)">wordpress插件 wp-cumulus：把wordpress标签云显示成3D旋转效果(3D tags)</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3348" title="13:30" rel="bookmark">2010/11/21</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3348#comments" title="《wordpress插件 wp-cumulus：把wordpress标签云显示成3D旋转效果(3D tags)》上的评论">2 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3348" title="wordpress插件 wp-cumulus：把wordpress标签云显示成3D旋转效果(3D tags)"></a><p>借助WP Cumulus就可以把wordpress标签云显示成3D旋转效果(3D tags)<br />
+WP Cumulus这个wordpress插件的主要特点:</p>
+<p>云图可以包含标签或者分类, 或两者都有.<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3348" title="wordpress插件 wp-cumulus：把wordpress标签云显示成3D旋转效果(3D tags)" target="_blank">阅读全文——共792字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3345 post type-post status-publish format-standard hentry category-337 tag-tags tag-wordpress tag-618" id="post-3345"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3345" title="链接到 调整WordPress标签云tags字体大小和数目/更改 WordPress 标签云字体大小和显示数量">调整WordPress标签云tags字体大小和数目/更改 WordPress 标签云字体大小和显示数量</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3345" title="13:05" rel="bookmark">2010/11/21</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3345#comments" title="《调整WordPress标签云tags字体大小和数目/更改 WordPress 标签云字体大小和显示数量》上的评论">1 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3345" title="调整WordPress标签云tags字体大小和数目/更改 WordPress 标签云字体大小和显示数量"></a><p>WordPress默认的标签大字是很大的，有时大得会挤得整个标签云很难看，如何调整它的大小使之适合你想要的大小呢？<br />
+找到根目录下wp-includes文件夹里的category-template.php文件，打开该文件搜索找到字段“function wp_tag_cloud”，修改如下参数中的红色字即可：<br />
+“smallest’ =&gt; 8, ‘largest’ =&gt; 11, ‘unit’ =&gt; ‘pt‘, ‘number’ =&gt; 45,”<br />
+注：<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3345" title="调整WordPress标签云tags字体大小和数目/更改 WordPress 标签云字体大小和显示数量" target="_blank">阅读全文——共1349字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3265 post type-post status-publish format-standard hentry category-337 category-private tag-wordpress tag-607 tag-606" id="post-3265"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3265" title="链接到 wordpress 3.x 自由定义导航菜单，把任意链接加入到导航菜单，并自由修改菜单项顺序">wordpress 3.x 自由定义导航菜单，把任意链接加入到导航菜单，并自由修改菜单项顺序</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3265" title="23:13" rel="bookmark">2010/11/04</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3265#comments" title="《wordpress 3.x 自由定义导航菜单，把任意链接加入到导航菜单，并自由修改菜单项顺序》上的评论">1 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3265" title="wordpress 3.x 自由定义导航菜单，把任意链接加入到导航菜单，并自由修改菜单项顺序"></a><p>wordpress 3.x支持全面的自定义导航菜单功能，这在2.x时间是很多人梦寐以求的，本人当开始用wordpress时，认为作为一个成熟的博客系统，肯定有这样的功能，曾多方找这样的设置，当然是没有办法；当然可以修改wordpress代码或者主题，实现，不过没有这样作过。<br />
+控制板 - 外观 -菜单 里的设置，可以把任意链接放到菜单里；该功能还需要主题支持。步骤如下：<br />
+创建wordpress导航菜单，这里创建一名为“testmenu”的菜单<br />
+点加号添加新菜单。上面图片是，显示有一个名称为（“主菜单”是已经创建好的另一个菜单，这里不用理会它）<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3265" title="wordpress 3.x 自由定义导航菜单，把任意链接加入到导航菜单，并自由修改菜单项顺序" target="_blank">阅读全文——共2260字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+	<!-- pb259 --><div class="pagebar">Pages:&nbsp;<span class="this-page">1</span>
+<a href="http://www.path8.net/tn/archives/tag/wordpress/page/2" title="Page 2">2</a>
+<a href="http://www.path8.net/tn/archives/tag/wordpress/page/3" title="Page 3">3</a>
+<a href="http://www.path8.net/tn/archives/tag/wordpress/page/2" title="Page 2">Next</a>
+</div><div id="pagination"><a href="http://www.path8.net/tn/archives/tag/wordpress/page/2" >下一页 &raquo;</a></div></div><!--content-->
+<div id="sidebar-border">
+	<div id="rss_border">
+		<div class="rss_border">
+			<div id="rss_wrap">
+				<div class="rss_wrap">
+										<a class="rss " href="http://www.path8.net/tn/feed" rel="bookmark" title="RSS 订阅">RSS 订阅</a>
+										<a class="twitter" href="http://twitter.com/fengyqf" rel="author" title="Follow me on twitter.">Follow me on twitter.</a>
+																													</div>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar">
+
+<div id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widgettitle">标签</h3><div class="tagcloud"><a href='http://www.path8.net/tn/archives/tag/apache' class='tag-link-65' title='30 个话题' style='font-size: 13.577235772358pt;'>apache</a>
+<a href='http://www.path8.net/tn/archives/tag/asp' class='tag-link-100' title='9 个话题' style='font-size: 8pt;'>asp</a>
+<a href='http://www.path8.net/tn/archives/tag/baidu' class='tag-link-37' title='11 个话题' style='font-size: 8.9105691056911pt;'>baidu</a>
+<a href='http://www.path8.net/tn/archives/tag/fedora' class='tag-link-139' title='10 个话题' style='font-size: 8.4552845528455pt;'>fedora</a>
+<a href='http://www.path8.net/tn/archives/tag/fkgxx' class='tag-link-751' title='10 个话题' style='font-size: 8.4552845528455pt;'>fkgxx</a>
+<a href='http://www.path8.net/tn/archives/tag/google' class='tag-link-52' title='18 个话题' style='font-size: 11.186991869919pt;'>google</a>
+<a href='http://www.path8.net/tn/archives/tag/http' class='tag-link-152' title='15 个话题' style='font-size: 10.276422764228pt;'>http</a>
+<a href='http://www.path8.net/tn/archives/tag/iis' class='tag-link-92' title='11 个话题' style='font-size: 8.9105691056911pt;'>IIS</a>
+<a href='http://www.path8.net/tn/archives/tag/linux' class='tag-link-8' title='168 个话题' style='font-size: 22pt;'>Linux</a>
+<a href='http://www.path8.net/tn/archives/tag/mssql' class='tag-link-101' title='13 个话题' style='font-size: 9.7073170731707pt;'>mssql</a>
+<a href='http://www.path8.net/tn/archives/tag/mysql' class='tag-link-111' title='58 个话题' style='font-size: 16.764227642276pt;'>MySQL</a>
+<a href='http://www.path8.net/tn/archives/tag/php' class='tag-link-21' title='58 个话题' style='font-size: 16.764227642276pt;'>PHP</a>
+<a href='http://www.path8.net/tn/archives/tag/rewrite' class='tag-link-115' title='10 个话题' style='font-size: 8.4552845528455pt;'>rewrite</a>
+<a href='http://www.path8.net/tn/archives/tag/search-engin-optimze' class='tag-link-19' title='17 个话题' style='font-size: 10.959349593496pt;'>SEO</a>
+<a href='http://www.path8.net/tn/archives/tag/sql' class='tag-link-242' title='10 个话题' style='font-size: 8.4552845528455pt;'>sql</a>
+<a href='http://www.path8.net/tn/archives/tag/sql-server' class='tag-link-121' title='15 个话题' style='font-size: 10.276422764228pt;'>SQL Server</a>
+<a href='http://www.path8.net/tn/archives/tag/sql%e6%b3%a8%e5%85%a5' class='tag-link-168' title='12 个话题' style='font-size: 9.2520325203252pt;'>sql注入</a>
+<a href='http://www.path8.net/tn/archives/tag/ssh' class='tag-link-257' title='18 个话题' style='font-size: 11.186991869919pt;'>SSH</a>
+<a href='http://www.path8.net/tn/archives/tag/vi' class='tag-link-161' title='10 个话题' style='font-size: 8.4552845528455pt;'>vi</a>
+<a href='http://www.path8.net/tn/archives/tag/vim' class='tag-link-369' title='13 个话题' style='font-size: 9.7073170731707pt;'>vim</a>
+<a href='http://www.path8.net/tn/archives/tag/web%e5%ae%89%e5%85%a8' class='tag-link-44' title='9 个话题' style='font-size: 8pt;'>web安全</a>
+<a href='http://www.path8.net/tn/archives/tag/windows' class='tag-link-150' title='11 个话题' style='font-size: 8.9105691056911pt;'>windows</a>
+<a href='http://www.path8.net/tn/archives/tag/wordpress' class='tag-link-193' title='26 个话题' style='font-size: 12.894308943089pt;'>wordpress</a>
+<a href='http://www.path8.net/tn/archives/tag/yum' class='tag-link-107' title='10 个话题' style='font-size: 8.4552845528455pt;'>YUM</a>
+<a href='http://www.path8.net/tn/archives/tag/%e4%b8%8a%e6%b5%b7' class='tag-link-417' title='11 个话题' style='font-size: 8.9105691056911pt;'>上海</a>
+<a href='http://www.path8.net/tn/archives/tag/%e4%bc%98%e5%8c%96' class='tag-link-169' title='19 个话题' style='font-size: 11.414634146341pt;'>优化</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%86%85%e6%a0%b8' class='tag-link-423' title='17 个话题' style='font-size: 10.959349593496pt;'>内核</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%87%bd%e6%95%b0' class='tag-link-163' title='10 个话题' style='font-size: 8.4552845528455pt;'>函数</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%88%86%e5%8c%ba%e8%a1%a8' class='tag-link-596' title='12 个话题' style='font-size: 9.2520325203252pt;'>分区表</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%8e%86%e5%8f%b2' class='tag-link-667' title='11 个话题' style='font-size: 8.9105691056911pt;'>历史</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%91%bd%e4%bb%a4' class='tag-link-155' title='28 个话题' style='font-size: 13.235772357724pt;'>命令</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%9c%b0%e5%9b%be' class='tag-link-416' title='14 个话题' style='font-size: 10.048780487805pt;'>地图</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ad%97%e7%ac%a6' class='tag-link-362' title='11 个话题' style='font-size: 8.9105691056911pt;'>字符</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ae%89%e5%85%a8' class='tag-link-33' title='22 个话题' style='font-size: 12.09756097561pt;'>安全</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ae%89%e8%a3%85' class='tag-link-75' title='14 个话题' style='font-size: 10.048780487805pt;'>安装</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%95%99%e7%a8%8b' class='tag-link-133' title='9 个话题' style='font-size: 8pt;'>教程</a>
+<a href='http://www.path8.net/tn/archives/tag/filesystem' class='tag-link-124' title='9 个话题' style='font-size: 8pt;'>文件系统</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%97%a0%e7%ba%bf' class='tag-link-34' title='30 个话题' style='font-size: 13.577235772358pt;'>无线</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%b3%a8%e5%85%a5' class='tag-link-166' title='11 个话题' style='font-size: 8.9105691056911pt;'>注入</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%99%be%e5%ba%a6' class='tag-link-36' title='12 个话题' style='font-size: 9.2520325203252pt;'>百度</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a0%b4%e8%a7%a3' class='tag-link-32' title='20 个话题' style='font-size: 11.642276422764pt;'>破解</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a1%ac%e7%9b%98' class='tag-link-196' title='21 个话题' style='font-size: 11.869918699187pt;'>硬盘</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a4%be%e4%bc%9a%e5%b7%a5%e7%a8%8b%e5%ad%a6' class='tag-link-48' title='9 个话题' style='font-size: 8pt;'>社会工程学</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%bc%96%e7%a0%81' class='tag-link-363' title='13 个话题' style='font-size: 9.7073170731707pt;'>编码</a>
+<a href='http://www.path8.net/tn/archives/tag/%e9%85%8d%e7%bd%ae' class='tag-link-129' title='29 个话题' style='font-size: 13.463414634146pt;'>配置</a></div>
+</div><div id="text-7" class="widget widget_text"><h3 class="widgettitle">t.sina</h3>			<div class="textwidget"><iframe id="sina_widget_1094951817" style="width:100%; height:500px;" frameborder="0" scrolling="no" src="http://v.t.sina.com.cn/widget/widget_blog.php?uid=1094951817&height=500&skin=wd_01&showpic=1"></iframe></div>
+		</div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle">近期文章</h3>		<ul>
+				<li><a href="http://www.path8.net/tn/archives/4940" title="上海交通大学教授de量子医学通过中央电视台“走近科学”">上海交通大学教授de量子医学通过中央电视台“走近科学”</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4925" title="解决ssh连接linux服务器速度慢">解决ssh连接linux服务器速度慢</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4921" title="putty详细使用说明 (windows下)">putty详细使用说明 (windows下)</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4912" title="[转]Pentadactyl,让firefox按vim习惯运行的插件">[转]Pentadactyl,让firefox按vim习惯运行的插件</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4908" title="Linux下使用sed编辑器详解">Linux下使用sed编辑器详解</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4892" title="悲剧，狗爹虚拟主机的ssh禁用转发了">悲剧，狗爹虚拟主机的ssh禁用转发了</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4876" title="简明 Vim 练级攻略">简明 Vim 练级攻略</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4873" title="centos 6 linux下禁用触摸板（通过命令行实现）">centos 6 linux下禁用触摸板（通过命令行实现）</a></li>
+		<!-- pb259 --><div class="pagebar">Pages:&nbsp;<span class="this-page">1</span>
+<a href="http://www.path8.net/tn/archives/tag/wordpress/page/2" title="Page 2">2</a>
+<a href="http://www.path8.net/tn/archives/tag/wordpress/page/3" title="Page 3">3</a>
+<a href="http://www.path8.net/tn/archives/tag/wordpress/page/2" title="Page 2">Next</a>
+</div>		</ul>
+		</div><div id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widgettitle">近期评论</h3><ul id="recentcomments"><li class="recentcomments"><a href='http://yoyo.play175.com/' rel='external nofollow' class='url'>yoyo</a> 发表在《<a href="http://www.path8.net/tn/archives/4796/comment-page-1#comment-9400">htaccess 控制目录浏览</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9390">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">强少爷 发表在《<a href="http://www.path8.net/tn/archives/1889/comment-page-1#comment-9362">TortoiseSVN 405错误：服务器发送了意外的返回值(405 Method Not Allowed)，在响应 “MKCOL” 的请求</a>》</li><li class="recentcomments">feng 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9264">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">薇 发表在《<a href="http://www.path8.net/tn/archives/2641/comment-page-1#comment-9257">wordpress首页只显示某个分类的文章/插件实现（完美实现，附插件源码）</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/mesgbox/comment-page-1#comment-9220">敬请留言</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9219">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">Luy 发表在《<a href="http://www.path8.net/tn/why-luowuzhe/comment-page-1#comment-8771">why “落伍者”?</a>》</li><li class="recentcomments"><a href='http://www.huangjianyu.netai.net/2012/01/30/%e6%9e%81%e7%ae%80%e5%8d%95%e7%ae%80%e9%99%8b%e7%9a%84wordpress%e6%8f%92%e4%bb%b6%ef%bc%9a%e7%bd%91%e7%ab%99%e8%ae%bf%e5%ae%a2%e8%bf%bd%e8%b8%aa%e8%ae%b0%e5' rel='external nofollow' class='url'>极简单/简陋的wordpress插件：网站访客追踪记录 | Huang Jianyu 黄建宇&#039;s SKY</a> 发表在《<a href="http://www.path8.net/tn/archives/145/comment-page-1#comment-8498">极简单/简陋的wordpress插件：网站访客追踪记录</a>》</li><li class="recentcomments"><a href='http://www.gotousa.tk' rel='external nofollow' class='url'>james</a> 发表在《<a href="http://www.path8.net/tn/archives/145/comment-page-1#comment-8497">极简单/简陋的wordpress插件：网站访客追踪记录</a>》</li></ul></div><div id="categories-3" class="widget widget_categories"><h3 class="widgettitle">分类目录</h3>		<ul>
+	<li class="cat-item cat-item-9"><a href="http://www.path8.net/tn/archives/category/ee" title="查看 e搞 下的所有文章">e搞</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.path8.net/tn/archives/category/linux" title="查看 Linux 下的所有文章">Linux</a>
+<ul class='children'>
+	<li class="cat-item cat-item-568"><a href="http://www.path8.net/tn/archives/category/linux/shell-programming" title="查看 shell编程 下的所有文章">shell编程</a>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://www.path8.net/tn/archives/category/linux/filesystem" title="查看 文件系统 下的所有文章">文件系统</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.path8.net/tn/archives/category/web-technique" title="查看 web技术 下的所有文章">web技术</a>
+<ul class='children'>
+	<li class="cat-item cat-item-209"><a href="http://www.path8.net/tn/archives/category/web-technique/apache-web-technique" title="查看 apache 下的所有文章">apache</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.path8.net/tn/archives/category/web-technique/asp-note" title="查看 Asp 下的所有文章">Asp</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server" title="查看 ms sql 下的所有文章">ms sql</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.path8.net/tn/archives/category/web-technique/mysql-server" title="查看 MySQL 下的所有文章">MySQL</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.path8.net/tn/archives/category/web-technique/php-hypertext-preprocessor" title="查看 PHP 下的所有文章">PHP</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-309"><a href="http://www.path8.net/tn/archives/category/%e4%ba%92%e8%81%94%e7%bd%91" title="查看 互联网 下的所有文章">互联网</a>
+</li>
+	<li class="cat-item cat-item-337"><a href="http://www.path8.net/tn/archives/category/%e4%bc%98%e7%a7%80%e8%bd%af%e4%bb%b6" title="查看 优秀软件 下的所有文章">优秀软件</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.path8.net/tn/archives/category/private" title="查看 原创文章 下的所有文章">原创文章</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="http://www.path8.net/tn/archives/category/%e4%b9%b1%e4%b8%83%e5%85%ab%e7%b3%9f" title="查看 大杂烩 下的所有文章">大杂烩</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.path8.net/tn/archives/category/character-encoding" title="查看 字符编码 下的所有文章">字符编码</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.path8.net/tn/archives/category/security" title="查看 安全意识 下的所有文章">安全意识</a>
+<ul class='children'>
+	<li class="cat-item cat-item-224"><a href="http://www.path8.net/tn/archives/category/security/web%e5%ae%89%e5%85%a8-netmngr" title="查看 web安全 下的所有文章">web安全</a>
+</li>
+	<li class="cat-item cat-item-172"><a href="http://www.path8.net/tn/archives/category/security/%e6%97%a0%e7%ba%bf%e5%ae%89%e5%85%a8" title="查看 无线安全 下的所有文章">无线安全</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-627"><a href="http://www.path8.net/tn/archives/category/%e5%bc%80%e5%8f%91%e5%8d%8f%e4%bd%9c" title="查看 开发协作 下的所有文章">开发协作</a>
+</li>
+	<li class="cat-item cat-item-787"><a href="http://www.path8.net/tn/archives/category/%e6%80%9d%e4%b9%8b%e5%b1%91" title="查看 思之屑 下的所有文章">思之屑</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.path8.net/tn/archives/category/os" title="查看 操作系统 下的所有文章">操作系统</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.path8.net/tn/archives/category/uncategory" title="查看 未分类 下的所有文章">未分类</a>
+</li>
+	<li class="cat-item cat-item-171"><a href="http://www.path8.net/tn/archives/category/%e7%bd%91%e7%ab%99%e8%bf%90%e8%90%a5" title="查看 网站运营 下的所有文章">网站运营</a>
+<ul class='children'>
+	<li class="cat-item cat-item-19"><a href="http://www.path8.net/tn/archives/category/%e7%bd%91%e7%ab%99%e8%bf%90%e8%90%a5/search-engin-optimze" title="查看 SEO 下的所有文章">SEO</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.path8.net/tn/archives/category/netmngr" title="查看 网络管理 下的所有文章">网络管理</a>
+<ul class='children'>
+	<li class="cat-item cat-item-29"><a href="http://www.path8.net/tn/archives/category/netmngr/server-management" title="查看 服务器管理 下的所有文章">服务器管理</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.path8.net/tn/archives/category/netmngr/network-technology" title="network technique, such as LAN, router, etc.">网络技术</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.path8.net/tn/archives/category/free-sprite" title="查看 自由精神 下的所有文章">自由精神</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.path8.net/tn/archives/category/lay-casually" title="查看 随便放着 下的所有文章">随便放着</a>
+</li>
+		</ul>
+</div><div id="meta-2" class="widget widget_meta"><h3 class="widgettitle">功能</h3>			<ul>
+			<li><a href="http://www.path8.net/tn/wp-login.php?action=register">注册</a></li>			<li><a href="http://www.path8.net/tn/wp-login.php">登录</a></li>
+			<li><a href="http://www.path8.net/tn/feed" title="使用 RSS 2.0 订阅本站点内容">文章 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.path8.net/tn/comments/feed" title="使用 RSS 订阅本站点的所有文章的近期评论">评论 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="基于 WordPress，一个优美、先进的个人信息发布平台。">WordPress.org</a></li>
+						</ul>
+</div><div id="text-8" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9779277-2']);
+  _gaq.push(['_setDomainName', 'path8.net']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="http://js.tongji.linezing.com/824456/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/824456/tongji.gif"/></a></noscript></div>
+		</div>
+
+	</div><!-- end: #sidebar -->
+</div><!-- end: #sidebar-border --></div><!--wrapper-->
+<div class="clear"></div>
+<div id="footer">
+	<div id="footer-inside">
+		<p>
+			版权所有 &copy; 2012 点滴之间 聚沙成金			| Theme <a href="http://zww.me" title="designed by zwwooooo">zBench</a>
+			| Powered by <a href="http://wordpress.org/">WordPress</a> 
+		</p>
+		<span id="back-to-top">&uarr; <a href="#" rel="nofollow" title="Back to top">回到顶部</a></span>
+	</div>
+</div><!--footer-->
+<!-- AdSense Manager v4.0.2 (0.257 seconds.) --></body>
+</html>

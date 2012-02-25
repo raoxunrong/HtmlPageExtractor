@@ -1,0 +1,898 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>新文化网首页_吉林第一城市门户</title>
+<base target="_blank" />
+<meta content="initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes, width=device-width" name="viewport">
+<meta name="author" content="新文化网 长春 吉林 新闻" />
+<meta name="Copyright" content="新文化网版权所有" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="keywords" content="吉林网站,吉林新闻,长春新闻,长春论坛,长春社区,长春房产,长春美食,长春结婚,长春汽车,长春亲子,长春门户,美食,婚庆,亲子,旅游,汽车,健康,游戏,吃喝玩乐" />
+<meta name="description" content="新文化网是吉林省访问量、影响力最大的网络媒体，吉林第一城市门户，《新文化报》官方网站。新文化网设立新闻中心、论坛、房产网、快团网、婚嫁网等频道，以全媒体、垂直化信息和服务，为本地网民提供新鲜、温暖、实惠的在线生活体验。 ,新文化网" />
+<meta name="robots" content="index, follow" />
+
+<link href="css/style03.css" rel="stylesheet" type="text/css" />
+<link href="css/xwhblink002.css" rel="stylesheet" type="text/css" />
+<LINK media=screen href="css/lunxianpp.css" type=text/css rel=stylesheet>
+<SCRIPT src="js/dicengComm_pack_v1.0.1.js" type=text/javascript></SCRIPT>
+<SCRIPT src="js/jquery.js" type=text/javascript></SCRIPT>
+<SCRIPT type=text/javascript>
+TencentArticl.onload();
+</SCRIPT>
+<script src="js/jquery-1.4a2.min.js" type="text/javascript"></script>
+<script src="js/jquery.KinSlideshow-1.2.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function(){
+	$("#KinSlideshow").KinSlideshow({
+			moveStyle:"right",
+			titleBar:{titleBar_height:30,titleBar_bgColor:"#08355c",titleBar_alpha:0.5},
+			titleFont:{TitleFont_size:12,TitleFont_color:"#FFFFFF",TitleFont_weight:"normal"},
+			btn:{btn_bgColor:"#FFFFFF",btn_bgHoverColor:"#1072aa",btn_fontColor:"#000000",btn_fontHoverColor:"#FFFFFF",btn_borderColor:"#cccccc",btn_borderHoverColor:"#1188c0",btn_borderWidth:1}
+	});
+})
+</script>
+</head>
+
+<BODY>
+<!-- YG01-->
+<div id="YGtopbar">
+  <h2 class="bar01"><span>新闻热线：0431-96618 合作热线：0431-85898000</span><img src="images/icon01.gif" align="absmiddle" />&nbsp;<a href="http://www.xwh.cn">新文化报官方网站</a></h2>
+</div>
+<!-- YG02-->
+<div id="YGad01a"><SCRIPT language=javascript src="js/topad.js" type=text/javascript></SCRIPT></div>
+<!-- YG02-->
+<div id="ygtla">
+<div id="ygtlaleft"><img src="images/ygnewlogo.jpg" width="163" height="59" /></div>
+<div id="ygtlaright">
+<div id="ygsearchhaha">
+<form name=form0 action=http://search.xwh.cn:80/m_fullsearch/full_search.jsp method=post>
+<input type=hidden name= "header" value= "<script src=http://css.xwh.cn/js/iframe/indextop.js></script>">
+<input type=hidden name= "footer" value= "<script src=http://css.xwh.cn/js/iframe/indexbottom.js></script>">
+<input name=keywords id="ygsearchbg" type="text" value="请输入要查询的关键字或标题" size=35 maxlength=60 onmouseover=this.focus();this.select(); onClick="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" >
+<input type=hidden name=news_type_id value=1>
+<div style="display:none">
+<select name=channel_id class="ygsearchsl">
+<option value=1000000>新闻频道</option>
+<option value=0>全部频道</option>
+</select></div>
+<input name=Submit1 type="image" title="Search" src="images/searchbar.jpg" alt="Search" align="top" width="60" height="23" /> 
+<script language="javascript">
+document.form0.channel_id.value=1000000;
+</script>
+</form></div>
+</div>
+</div>
+
+
+
+
+
+<!-- YG03-->
+<div id="YGtopdh">
+<div id="YGtopdhlist">
+
+<ul class="ygdh">
+<li class="ygdhb">首页</li>
+<li class="ygdha"><a href="http://news.xwh.cn">新闻中心</a></li>
+<li class="ygdha"><a href="http://bbs.xwh.cn">论坛导航</a></li>
+<li class="ygdha"><a href="http://www.fastuan.com">快团网</a></li>
+<li class="ygdha"><a href="http://home.xwh.cn">家在长春</a></li>
+<li class="ygdha"><a href="http://marry.xwh.cn">公主嫁到</a></li>
+<li class="ygdha"><a href="http://xjk.xwh.cn">新健康</a></li>
+<li class="ygdha"><a href="http://car.xwh.cn">汽车</a></li>
+<li class="ygdha"><a href="http://enews.xwh.cn">新文化报数字报</a></li>
+
+
+
+</ul>
+</div>
+</div>
+<!-- YG04-->
+<div id="YGlmdh">
+<!-- K1-->
+<div id="YGdhnew_a">
+<ul>
+<li><strong><a href="http://bbs.xwh.cn/forum-48-1.html">长春城事</a></strong></li>
+<li><a href="http://news.xwh.cn/news/jlnews/hotnews/index.shtml">吉林新闻</a></li>
+<li><strong><a href="http://bbs.xwh.cn/forum-310-1.html">小新办事</a></strong></li>
+<li><a href="http://bbs.xwh.cn/forum-325-1.html">全民快拍</a></li>
+</ul>
+</div>
+<!-- K2-->
+<div id="YGdhnew_b">
+<ul>
+<li><a href="http://news.xwh.cn/news/ent/09/index.shtml">娱乐</a></li>
+<li><a href="http://news.xwh.cn/news/ent/10/">体育</a></li>
+<li><a href="http://huodong.xwh.cn/act.php">活动</a></li>
+<li><a href="http://dv.xwh.cn">视频</a></li>
+<li><a href="http://tu.xwh.cn">图片</a></li>
+<li><a href="http://t.xwh.cn">微博</a></li>
+</ul>
+</div>
+<!-- K3-->
+<div id="YGdhnew_c">
+<ul>
+<li class="zishu4"><strong><a href="http://bbs.xwh.cn/forum-314-1.html">长春楼市</a></strong></li>
+<li class="zishu2"><a href="http://bbs.xwh.cn/forum-315-1.html">小区</a></li>
+<li class="zishu3"><a href="http://bbs.xwh.cn/forum-316-1.html">装友会</a></li>
+<li class="zishu4"><strong><a href="http://bbs.xwh.cn/forum-272-1.html">我要结婚</a></strong></li>
+<li class="zishu2"><a href="http://bbs.xwh.cn/forum-142-1.html">美食</a></li>
+<li class="zishu3"><a href="http://bbs.xwh.cn/forum-276-1.html">车友会</a></li>
+</ul>
+</div>
+<!-- K4-->
+<div id="YGdhnew_d">
+<ul>
+<li><a href="http://xjk.xwh.cn">健康</a></li>
+<li><a href="http://bbs.xwh.cn/forum-277-1.html">亲子</a></li>
+<li><a href="http://fang.xwh.cn/">二手房</a></li>
+<li><a href="http://bbs.xwh.cn/forum-107-1.html">数码</a></li>
+<li><a href="http://travel.xwh.cn">旅游</a></li>
+<li><a href="http://bbs.xwh.cn/forum-24-1.html">网友秀</a></li>
+</ul>
+</div>
+<!-- K5-->
+<div id="YGdhnew_e">
+<ul>
+<li><a href="http://hao.xwh.cn/">黄页</a></li>
+<li><a href="http://bbs.xwh.cn/forum-282-1.html">公益</a></li>
+<li><a href="http://bbs.xwh.cn/forum-6-1.html">情感</a></li>
+<li><a href="http://bbs.xwh.cn/forum-338-1.html">校园</a></li>
+</ul>
+</div>
+<!-- K6-->
+<div id="YGdhnew_f">
+<ul>
+<li><strong><a href="http://www.fastuan.com/index.php">长春团购</a></strong></li>
+<li><a href="http://www.fastuan.com/team/group.php?gid=9">餐饮美食</a></li>
+<li><a href="http://www.fastuan.com/team/group.php?gid=13">休闲娱乐</a></li>
+<li><strong><a href="http://bbs.xwh.cn/forum-140-1.html">时尚购物</a></strong></li>
+<li><a href="http://www.fastuan.com/team/group.php?gid=95">家居日用</a></li>
+<li><a href="http://www.fastuan.com/index.php?gid=36">网上购物</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- YG05-->
+<div id="YGad01a"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "295473";</script>
+<script type="text/javascript" src=" http://cbjs.baidu.com/js/o.js"></script></div>
+<div id="YGad01a"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "272707";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+<div id="YGad01a"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "273063";</script>
+<script type="text/javascript" src=" http://cbjs.baidu.com/js/o.js"></script></div>
+
+
+<!-- YG06-->
+<div id="YGad02">
+<div id="YGad02a"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "274164";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+<div id="YGad02b">
+<div id="YGad02b1"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "273728";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+<div id="YGad02b2"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "274124";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+</div>
+</div>
+<!-- YG07-->
+<div id="YGtoutao1">
+<div id="YGtoutaol"><p class="ygtoutiao"><a href="http://news.xwh.cn/news/system/2012/02/09/010234606.shtml">油画长春动人心 邀您一起寻找长春美景(图)</a></p>
+<p class="ygttlist">[<a href ="http://news.xwh.cn/news/system/2012/02/09/010234481.shtml "> 大三学生油画绘长春获赞 </a>] [<a href ="http://news.xwh.cn/news/system/2012/02/10/010234649.shtml "> 网友热议原来长春这么美 </a>] [<a href ="http://bbs.xwh.cn/thread-895506-1-1.html ">寻找长春之美上传至新文化网 </a>]</p>
+</div>
+
+<div id="YGttrlist">
+<ul>
+  <li><a href="http://news.xwh.cn/news/system/2012/01/30/010232883.shtml">2012年吉林省两会召开</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/01/16/010230967.shtml">送您春运出行购票宝典</a></li>
+<li><a href="http://news.xwh.cn/news/system/2011/12/20/010226388.shtml">87版“红楼人物”今何在</a></li>
+<li><a href="http://news.xwh.cn/news/system/2011/12/20/010226386.shtml">吉林企业互联网高峰论坛</a></li>
+<li><a href="http://news.xwh.cn/news/system/2011/12/06/010223769.shtml">林青霞在长春的老照片</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/01/11/010230088.shtml">吉林东北虎征战CBA联赛</a></li>
+</ul>
+</div>
+</div>
+<!-- YG08-->
+<div id="YGzt01">
+<div id="YGzt01a" class="hslice entry-content">
+<!--幻灯 -->
+<div id="YGzt01ahd">
+<div id="KinSlideshow" style="visibility:hidden;"><a href="http://news.xwh.cn/news/system/2012/02/09/010234606.shtml" target="_blank"><img src="http://pic.xwh.cn/0/10/20/78/10207860_717645.jpg" alt="油画长春动人心 邀您一起寻找长春美景" width="408" height="229" /></a>
+<a href="http://news.xwh.cn/news/system/2012/02/09/010234609.shtml" target="_blank"><img src="http://pic.xwh.cn/0/10/20/78/10207861_973753.jpg" alt="国内最高登高车落户吉林 101米值2000多万" width="408" height="229" /></a>
+<a href="http://news.xwh.cn/news/system/2012/02/10/010234624.shtml" target="_blank"><img src="http://pic.xwh.cn/0/10/20/78/10207862_334596.jpg" alt="供暖管线阀门损坏 积水困住车辆淹了废品站" width="408" height="229" /></a>
+<a href="http://news.xwh.cn/news/system/2012/02/10/010234638.shtml" target="_blank"><img src="http://pic.xwh.cn/0/10/20/78/10207867_998565.jpg" alt="印度三姐妹患“狼人综合症”全身长满毛发" width="408" height="229" /></a>
+<a href="http://news.xwh.cn/news/system/2012/02/10/010234641.shtml" target="_blank"><img src="http://pic.xwh.cn/0/10/20/78/10207876_887758.jpg" alt="柏林电影节开幕影人云集 严寒难挡电影热情" width="408" height="229" /></a></div>
+</div>
+
+<!--Start of the Tabmenu 2 -->
+<div id="YGgtt" class="hslice">
+<div id="YGgtta">焦点·长春</div>
+
+</div>
+<!--End of the Tabmenu 2 -->
+<div style="display: none" id="YGietitle" class="entry-title">亲，我们每日都提供最新的长春新闻，欢迎收藏哦</div>
+
+
+
+<!--Start Tabcontent 1 -->
+<div id="anothercontent1">
+<div id="YGb01news"><p class="ygbignews01"><a href="http://news.xwh.cn/news/system/2012/02/10/010234632.shtml">长春现堪比酒店的星级公厕 配沙发能当休息室</a></p>
+<p class="ygbignews02"><a href="http://news.xwh.cn/news/system/2012/02/10/010234632.shtml"><a href ="http://news.xwh.cn/news/system/2012/02/10/010234632.shtml">能充当休息室</a></a> | <a href="http://news.xwh.cn/news/system/2012/02/10/010234632.shtml"><a href ="http://news.xwh.cn/news/system/2012/02/10/010234632.shtml">残疾人如厕管理员扶着</a></a> | <a href="http://news.xwh.cn/news/system/2012/02/10/010234632.shtml"><a href ="http://news.xwh.cn/news/system/2012/02/10/010234632.shtml">“星级公厕”24小时开门</a> 
+</a></p></div>
+<div id="YGb02news">
+<ul>
+  <li><a href="http://news.xwh.cn/news/system/2012/02/10/010234619.shtml">受不了高薪诱惑 大学生扎堆报名想当月嫂</a><span>月嫂工资5000—6000元</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234626.shtml">母女患“热病”冬天要睡冷屋吹风扇才行</a><span>您有办法帮她们吗</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234617.shtml">双城恋演绎浪漫爱情 斯诺克冠军娶珲春姑娘</a><span>邂逅开启缘分之旅</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234616.shtml">舒兰掀淘金热 看俄罗斯新娘村致富密码 </a><span>莫斯科有条舒兰大街</span></li>
+</ul>
+</div>
+
+<div id="YGb03news">
+<ul>
+  <li><a href="http://news.xwh.cn/news/system/2012/02/10/010234708.shtml">人民币对美元中间价首破6.30 创下新高</a><span>1美元对人民币6.2937元</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234705.shtml">长沙公交卡将实现全国通用 可乘坐上海地铁</a><span>外地刷卡不加手续费</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234721.shtml">红牛被曝含多种非法添加剂 成分与批文不符</a><span>红牛表示暂不予置评</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234706.shtml">NBA全明星替补阵容出炉 纳什诺维茨基入围</a><span>全明星正赛26日打响</span></li>
+</ul>
+</div>
+</div>
+<!--End Tabcontent 1-->
+
+
+</div>
+<!-- YG09-->
+<div id="YGbnewsr">
+<div id="YGbnewsr01" class="hslice">
+<div id="YGbnewsr01a">
+<div id="YGbnewsr01atitle" class="entry-title"><h2><span><a href="http://bbs.xwh.cn/forum-48-1.html"><img src="images/ygmore.gif" alt="猛击这里有更多资讯" border="0" align="absmiddle" /></a></span>网友分享</h2>
+</div>
+<div id="YGbnewsr01abody">
+<ul class="entry-content">
+  <li><a href="http://news.xwh.cn/news/system/2012/02/09/010234544.shtml">实验达人揭露方便面秘密 1/5都是油</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234645.shtml">桂林路停车难 网友建议恢复停车场</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234676.shtml">车被刮蹭后肇事者留言 车主悲喜交加</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234644.shtml">长春一超市暖气漏水 购物得先换鞋</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234678.shtml">网购挎包气味熏人 网友调侃：防色狼</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234677.shtml">80后女生择偶引热议 男网友自惭形秽</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/08/010234406.shtml">小区电梯年久失修 律师建议：换物业</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/08/010234380.shtml">网曝长春现诅咒式野广告 遭网友谴责</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/01/010233218.shtml">网曝三菱车牌照侧挂 是否违规引争议</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/01/30/010232872.shtml">本命年为何“不好” 原是潜意识作祟</a></li>
+</ul>
+</div>
+</div>
+
+<div id="YGbnewsr01b">
+<div id="YGbnewsr01atitle">
+  <h2><span><a href="http://bbs.xwh.cn/forum-310-1.html"><img src="images/ygmore.gif" alt="猛击这里有更多资讯" border="0" align="absmiddle" /></a></span>小新办事处</h2>
+</div>
+<div id="YGbtlista"><div id="YGbtlistatitle"><a href="http://news.xwh.cn/news/system/2012/02/10/010234718.shtml"><font color="004273">小新与12345联动为民解忧</font></a></div>
+<div id="YGbtlistappnews">
+  <p class="ygphoto01"><span>“终于解决了一块儿心病，太感谢你们了！老百姓终... <a href="http://news.xwh.cn/news/system/2012/02/10/010234718.shtml"><font color="ac2835">[详细]</font></a></span><a href="http://news.xwh.cn/news/system/2012/02/10/010234718.shtml"><img src="http://pic.xwh.cn/0/10/20/79/10207922_031432.jpg" width="90" height="70" border="0" /></a></p>
+</div></div>
+</div>
+
+<div id="YGbnewsr01c">
+<div id="YGbnewsr01atitle">
+  <h2><span><a href="http://news.xwh.cn/news/xwhmake/index.shtml"><img src="images/ygmore.gif" alt="猛击这里有更多资讯" border="0" align="absmiddle" /></a></span>新文化制造</h2></div>
+<div id="YGbtlista"> <div id="YGbtlistatitle"><a href="http://news.xwh.cn/news/system/2012/02/10/010234761.shtml"><font color="004273">80%iPad用户不看纸质书</font></a></div>
+<div id="YGbtlistappnews">
+  <p class="ygphoto01"><span>马上大学毕业了，2011年下半年，他一直在北京、上... <a href="http://news.xwh.cn/news/system/2012/02/10/010234761.shtml"><font color="ac2835">[详细]</font></a></span><a href="http://news.xwh.cn/news/system/2012/02/10/010234761.shtml"><img src="http://pic.xwh.cn/0/10/20/79/10207983_957527.jpg" width="90" height="70" border="0" /></a></p>
+</div> </div>
+</div>
+</div>
+<!-- YG-->
+<div id="ygbnewsrb">
+<div id="ygvblogtitle"><font color="#FF9900">视频：小新帮办：绵延三十米垃圾带被清走 </font></div>
+<div id="ygvblogwindows"><script type="text/javascript" src="http://www.xwh.cn/flashplayer/Images/swfobject.js"></script>
+<div id="CuPlayer" >
+<strong>新文化网提示：您的Flash Player版本过低，请<a href="http://get.adobe.com/cn/flashplayer/" >点此进行播放器升级</a>！</strong>
+</div>
+<script type="text/javascript">
+var so = new SWFObject("http://www.xwh.cn/flashplayer/CuPlayerMiniV20_Black_S.swf","CuPlayer","306","270","9","#000000");
+so.addParam("allowfullscreen","true");
+so.addParam("allowscriptaccess","always");
+so.addParam("wmode","opaque");
+so.addParam("quality","high");
+so.addParam("salign","lt");
+so.addVariable("CuPlayerFile","http://dv.xwh.cn/relite/flv/120210/979eedda6bhBnsv4.flv ");
+so.addVariable("CuPlayerImage","http://pic.xwh.cn/0/10/20/79/10207934_562832.jpg");
+so.addVariable("CuPlayerShowImage","true");
+so.addVariable("CuPlayerWidth","306");
+so.addVariable("CuPlayerHeight","270");
+so.addVariable("CuPlayerAutoPlay","false");
+so.addVariable("CuPlayerAutoRepeat","false");
+so.addVariable("CuPlayerShowControl","true");
+so.addVariable("CuPlayerAutoHideControl","true");
+so.addVariable("CuPlayerAutoHideTime","6");
+so.addVariable("CuPlayerVolume","80");
+so.write("CuPlayer");	
+</script></div>
+<div id="ygvblogpp">
+<ul>
+<li><a href="http://news.xwh.cn/news/system/2012/02/07/010234232.shtml"><img src="http://pic.xwh.cn/0/10/20/74/10207457_075652.jpg" width="135" height="95" border="0"/><p>地球都快冻掉碴啦</p></a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/01/30/010232870.shtml"><img src="http://pic.xwh.cn/0/10/20/64/10206404_598947.jpg" width="135" height="95" border="0"/><p>笑侃新闻春节特辑</p></a></li>
+</ul>
+</div>
+<div id="ygad03"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "273513";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+</div>
+</div>
+</div>
+
+<!-- YG-->
+<div id="ygietuan" class="hslice">
+<div style="display: none" id="YGietitle" class="entry-title">亲，我们每日都提供最新的长春新闻，欢迎收藏哦</div>
+<div id="ygkttitle"><h2><span>团购导航：<a href="http://www.fastuan.com/team/group.php?gid=9">餐饮美食</a> | <a href="http://www.fastuan.com/team/group.php?gid=13">休闲娱乐</a> | <a href="http://www.fastuan.com/team/group.php?gid=10">美容美发</a> | <a href="http://www.fastuan.com/team/group.php?gid=93">摄影写真</a> | <a href="http://www.fastuan.com/team/group.php?gid=92">运动健身</a> | <a href="http://www.fastuan.com/team/group.php?gid=94">酒店旅游</a> | <a href="http://www.fastuan.com/team/group.php?gid=40">益智教育</a> | <a href="http://www.fastuan.com/team/group.php?gid=95">家居日用</a> | <a href="http://www.fastuan.com/team/group.php?gid=36">网上购物</a> | <a href="http://www.fastuan.com/team/group.php?gid=16">其他</a></span><a href="http://www.fastuan.com"><font color="#FFFFFF">今日团购</font></a></h2>
+</div>
+<div id="YGktbody">
+<ul class="entry-content">
+  <li class="ygktpp">
+<p class="ygktppbuy"><a href="http://news.xwh.cn/news/system/2011/11/15/010219517.shtml"><font color="white">&yen;：58.00</font></a></p>
+<a href="http://news.xwh.cn/news/system/2011/11/15/010219517.shtml"><img src="http://pic.xwh.cn/0/10/20/78/10207895_946720.jpg" width="203" height="120" border="0"/>
+<p class="ygktpptitle">原价：128.00 元 / 折扣：4.53 折</p></a>
+<p class="ygktppbiaoti"><a href="http://news.xwh.cn/news/system/2011/11/15/010219517.shtml">仅58元！原价128元的果木锅边炖炖鱼锅、炖鸡锅二选一！</a></p>
+</li>
+<li class="ygktpp">
+<p class="ygktppbuy"><a href="http://news.xwh.cn/news/system/2011/11/15/010219518.shtml"><font color="white">&yen;：48.00</font></a></p>
+<a href="http://news.xwh.cn/news/system/2011/11/15/010219518.shtml"><img src="http://pic.xwh.cn/0/10/20/76/10207644_999999.jpg" width="203" height="120" border="0"/>
+<p class="ygktpptitle">原价：118.00 元 / 折扣：4.07 折</p></a>
+<p class="ygktppbiaoti"><a href="http://news.xwh.cn/news/system/2011/11/15/010219518.shtml">仅48元！原价118元火红花坊鲜花套餐！</a></p>
+</li>
+<li class="ygktpp">
+<p class="ygktppbuy"><a href="http://news.xwh.cn/news/system/2011/11/15/010219519.shtml"><font color="white">&yen;：88.00</font></a></p>
+<a href="http://news.xwh.cn/news/system/2011/11/15/010219519.shtml"><img src="http://pic.xwh.cn/0/10/20/75/10207522_867010.jpg" width="203" height="120" border="0"/>
+<p class="ygktpptitle">原价：108.00 元 / 折扣：8.15 折</p></a>
+<p class="ygktppbiaoti"><a href="http://news.xwh.cn/news/system/2011/11/15/010219519.shtml">仅88元！原价108元的果木锅边炖炖大鹅套餐！</a></p>
+</li>
+<li class="ygktpp">
+<p class="ygktppbuy"><a href="http://news.xwh.cn/news/system/2011/11/15/010219520.shtml"><font color="white">&yen;：298.00</font></a></p>
+<a href="http://news.xwh.cn/news/system/2011/11/15/010219520.shtml"><img src="http://pic.xwh.cn/0/10/20/78/10207893_686819.jpg" width="203" height="120" border="0"/>
+<p class="ygktpptitle">原价：480.00 元 / 折扣：6.21 折</p></a>
+<p class="ygktppbiaoti"><a href="http://news.xwh.cn/news/system/2011/11/15/010219520.shtml">仅298元！原价480元的皙美七重养颜冰露！全新的护肤理念！</a></p>
+</li>
+</ul>
+</div></div>
+<!-- YG-->
+
+<!-- YG-->
+<div id="ygkttitleb"><h2><span><a href="http://bbs.xwh.cn/portal.php">首页</a>：<a href="http://bbs.xwh.cn/forum.php">论坛</a> | <a href="http://huodong.xwh.cn/act.php">活动</a> | <a href="http://bbs.xwh.cn/plugin.php?id=stoola_auction:product">竞拍</a> | <a href="http://bbs.xwh.cn/portal.php">功能</a> | <a href="http://blog.xwh.cn/">个人空间</a> | <a href="http://bbs.xwh.cn/member.php?mod=register">帐号注册</a></span><a href="http://bbs.xwh.cn/portal.php"><font color="#FFFFFF">互动社区</font></a></h2></div>
+<div id="YGsbody">
+<div id="YGsleft"><div id="YGsleftphoto"><a href="http://news.xwh.cn/news/system/2012/01/23/010232164.shtml"><img src="http://pic.xwh.cn/0/10/20/78/10207891_375085.jpg" width="408" height="282" border="0" /></a></div>
+<div id="YGslefttitle">
+<p class="ygbignews03"><a href="http://news.xwh.cn/news/system/2012/01/23/010232164.shtml"><font color="#ffffff">集体合影 悲催了分不清哪个才是明星</font></a></p>
+<p class="ygbignews02">好像第一次在这发帖，这是一张和明星的集体大合照，人有点儿多，你能猜到哪个是明星，哪个才是我吗？ <a href="http://news.xwh.cn/news/system/2012/01/23/010232164.shtml"><font color="#ffffff">[详细]</font></a></p>
+</div>
+<!--三连切-->
+<div id="YGgtt">
+<div id="YGgtta">社区焦点</div>
+</div>
+
+<div id="tabcontent1"><p class="ygbignews05"><img src="images/gif_57_020.gif" align="absmiddle" /><a href="http://news.xwh.cn/news/system/2012/02/10/010234735.shtml">情人节大声说出我爱你 寻找爱情最强音</a></p>
+<p class="ygbignews04">对着我们为您准备的分贝仪高声喊出：我爱你！谁的分贝最高，谁就是我们寻找的“爱情最强音”，就能获得情人节大礼！
+ <a href="http://news.xwh.cn/news/system/2012/02/10/010234735.shtml">[详细]</a></p>
+
+<p class="ygbignews05"><img src="images/gif_57_020.gif" align="absmiddle" /><a href="http://news.xwh.cn/news/system/2012/02/10/010234734.shtml">爱TA就向TA表白 传情好礼送给您</a></p>
+<p class="ygbignews04">2月14日，情人节就要到来啦！爱TA就大声说出来吧，来论坛写微情书，盖高楼，还有金币和精美奖品等你来拿呦！ <a href="http://news.xwh.cn/news/system/2012/02/10/010234734.shtml">[详细]</a></p>
+
+<p class="ygbignews05"><img src="images/gif_57_020.gif" align="absmiddle" /><a href="http://news.xwh.cn/news/system/2012/02/10/010234669.shtml">车好好地停在小区里被刮了 上哪说理去</a></p>
+<p class="ygbignews04">我家车停在了小区院内，第二天我出门一看，车被刮了！刮我的车，是一辆红色的奔驰，这人还算很讲究，留了个字条儿。 <a href="http://news.xwh.cn/news/system/2012/02/10/010234669.shtml">[详细]</a></p>
+
+<p class="ygbignews05"><img src="images/gif_57_020.gif" align="absmiddle" /><a href="http://news.xwh.cn/news/system/2012/02/10/010234665.shtml">身边有个爱喷香水的男人 你伤得起吗</a></p>
+<p class="ygbignews04">我们公司有一男的，天天喷香水，不明白男的总喷啥香水啊，我都不用，喷那么冲的香水就是为了显示自己有品位吗？ <a href="http://news.xwh.cn/news/system/2012/02/10/010234665.shtml">[详细]</a></p>
+</div>
+
+
+<!-- 三连切 结束-->
+</div>
+
+<div id="ygsbodyright">
+<div id="ygsrighta" class="hslice">
+<div id="YGbnewsr01atitle"  class="entry-title">
+  <h2><span><a href="http://bbs.xwh.cn/forum-706-1.html"><img src="images/ygmore.gif" border="0" align="absmiddle" /></a></span>春城茶馆</h2>
+</div>
+
+<div id="YGbnewsr01abody1">
+<ul class="entry-content">
+  <li><a href="http://news.xwh.cn/news/system/2012/02/09/010234551.shtml">这是过年的旧习俗 大家还在遵守吗</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/09/010234549.shtml">想想今天的自己 也有幸福的微笑吗</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/09/010234546.shtml">茶馆老板娘来亮相啦 大家捧个场啊</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010234010.shtml">宝儿和淘淘的战争 幸福来袭第一期</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010234009.shtml">元宵节金币大放送 你来茶馆我就发</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010234008.shtml">网友自编灯谜超级有才 等你来猜哦</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/03/010233588.shtml">抽烟说脏话的孩纸 咋这么膈应人呢</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/03/010233586.shtml">我儿子不小心被我大卸八块 你信不</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/03/010233580.shtml">作为男人 你认为什么是最悲催的事</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/03/010233577.shtml">看看早期的中国制造 有几个你熟悉</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/02/010233374.shtml">马上要找工作了 看到这个我放心了</a></li>
+</ul>
+</div>
+
+<div id="YGbnewsr01atitle">
+  <h2><span><a href="http://bbs.xwh.cn/forum-24-1.html"><img src="images/ygmore.gif" border="0" align="absmiddle" /></a></span>我型我秀</h2>
+</div>
+<div id="ygdtdta">
+<div id="YGbtlista"><div id="YGbtlistatitle"><a href="http://news.xwh.cn/news/system/2011/11/16/010219766.shtml"><font color="004273">牙疼也不能阻止我卖萌</font></a></div>
+<div id="YGbtlistappnews">
+  <p class="ygphoto01"><span>牙疼我也能卖个萌，无聊啊，我是谁你能看得出来吗？ <a href="http://news.xwh.cn/news/system/2011/11/16/010219766.shtml"><font color="ac2835">[详细]</font></a></span><a href="http://news.xwh.cn/news/system/2011/11/16/010219766.shtml"><img src="http://pic.xwh.cn/0/10/20/78/10207898_891797.jpg" width="90" height="70" border="0" /></a></p>
+</div></div>
+</div>
+
+
+
+<div id="YGbnewsr01atitle">
+  <h2><span><a href="http://bbs.xwh.cn/forum-277-1.html"><img src="images/ygmore.gif" border="0" align="absmiddle" /></a></span>亲子乐园</h2>
+</div>
+<div id="ygdtdta2">
+<div id="YGbtlista"> <div id="YGbtlistatitle"><a href="http://news.xwh.cn/news/system/2012/01/16/010230961.shtml"><font color="004273">说真话 你喜欢男孩还是女孩</font></a></div>
+<div id="YGbtlistappnews">
+  <p class="ygphoto01"><span>虽然很多人会说，其实男女都一样，但真是这样吗？ <a href="http://news.xwh.cn/news/system/2012/01/16/010230961.shtml"><font color="ac2835">[详细]</font></a></span><a href="http://news.xwh.cn/news/system/2012/01/16/010230961.shtml"><img src="http://pic.xwh.cn/0/10/20/73/10207397_375989.jpg" width="90" height="70" border="0" /></a></p>
+</div> </div>
+</div>
+
+
+
+<div id="YGbnewsr01atitle">
+  <h2><span><a href="http://bbs.xwh.cn/forum-281-1.html"><img src="images/ygmore.gif" border="0" align="absmiddle" /></a></span>驴友俱乐部</h2>
+</div>
+
+
+<div id="ygdtdta3">
+<div id="YGbtlista"> <div id="YGbtlistatitle"><a href="http://news.xwh.cn/news/system/2012/01/16/010231020.shtml"><font color="004273">还有周日休息的饭店？</font></a></div>
+<div id="YGbtlistappnews">
+  <p class="ygphoto01"><span>延边这家炸酱面非常有名，据说韩国电视台来访过。 <a href="http://news.xwh.cn/news/system/2012/01/16/010231020.shtml"><font color="ac2835">[详细]</font></a></span><a href="http://news.xwh.cn/news/system/2012/01/16/010231020.shtml"><img src="http://pic.xwh.cn/0/10/20/74/10207419_367773.jpg" width="90" height="70" border="0" /></a></p>
+</div> </div>
+</div>
+</div>
+
+<div id="ygsrightb"> <div id="ygsrbphoto">
+<ul>
+<li><a href="http://news.xwh.cn/news/system/2011/11/16/010219732.shtml"><img src="http://pic.xwh.cn/0/10/20/79/10207933_999635.jpg" width="306" height="210" border="0" />
+  <p>浪漫不浪费 2012情人节长春经典餐厅推荐</p></a></li>
+</ul>
+</div>
+<div id="ygsrbtt">很快就是情人节了，巧克力、玫瑰花已经挑选完毕，只差寻一个良好的吃喝之地！与心爱的TA共度晚餐可是重头戏。<a href="http://news.xwh.cn/news/system/2011/11/16/010219732.shtml"><font color="#c30b01">[详细]</font></a></div>
+
+<div id="ad09"><a href="#"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "275018";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></a></div>
+
+
+
+
+<div id="ygsrbaike"><a href="http://huodong.xwh.cn/act.php?a=class&amp;c=1"><img src="images/ygmore.gif" border="0" /></a></div>
+
+
+<div id="ygsrbnlist">
+<ul>
+  <li><a href="http://news.xwh.cn/news/system/2012/02/03/010233611.shtml">那些年我们一起疯的校园 晒校园 领金币</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/01/010233168.shtml">拍照时您的招牌动作是神马亮出照片赚金币</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/01/010233178.shtml">全国温馨感人博文帖文大展帖活动征文开始</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/01/010233177.shtml">龙年大撒金币 帅哥美女喊你参加春节活动</a></li>
+<li><a href="http://news.xwh.cn/news/system/2012/01/19/010231768.shtml">超级恶搞路人甲一起来为默认头像造个型吧</a></li>
+<li><a href="http://news.xwh.cn/news/system/2011/12/29/010228011.shtml">“双蛋节”回顾精彩分享参与的活动得好礼</a></li>
+<li><a href="http://news.xwh.cn/news/system/2011/12/28/010227891.shtml">新文化网友大会！签到有礼+幸运抽奖！</a></li>
+<li><a href="http://news.xwh.cn/news/system/2011/12/20/010226327.shtml">寻找若曦晒出你的古装照！赢取摄影卡哦</a></li>
+</ul>
+</div>
+
+
+
+<div id="ad10"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "275027";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+</div>
+<!-- YG-->
+<!--24个图片-->
+<DIV class="mod-left bottom-Article-QQ sildPic-Article-QQ">
+
+	<DIV class=hd>
+		<H2><a href="http://bbs.xwh.cn/forum-325-1.html"><font color="#FFFFFF">全民快拍</font></a></H2>
+		<DIV class=sildPicBar id=sildPicBar>
+			<SPAN class=pre></SPAN>
+			<UL id=dot></UL>
+        		<SPAN class=next></SPAN>
+		</DIV>
+
+	</DIV>
+	<DIV class=bd>
+		<DIV class=cnt-wrap id=cnt-wrap>
+			<DIV class=cnt id=cnt>            
+			  <ul>
+                <LI><A href="http://news.xwh.cn/news/system/2012/02/09/010234577.shtml"><IMG src="http://pic.xwh.cn/0/10/20/77/10207779_996044.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/09/010234577.shtml">夜幕焰火下的长春</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/09/010234575.shtml"><IMG src="http://pic.xwh.cn/0/10/20/77/10207768_093262.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/09/010234575.shtml">南湖怀旧火车头</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/08/010234375.shtml"><IMG src="http://pic.xwh.cn/0/10/20/75/10207552_626063.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/08/010234375.shtml">这个像阿拉丁神灯吗</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/08/010234372.shtml"><IMG src="http://pic.xwh.cn/0/10/20/75/10207548_180910.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/08/010234372.shtml">谁家孩子这么玩雪人</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/07/010234206.shtml"><IMG src="http://pic.xwh.cn/0/10/20/74/10207443_998113.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/07/010234206.shtml">随手拍了个肌肉帅哥</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/07/010234205.shtml"><IMG src="http://pic.xwh.cn/0/10/20/74/10207442_590951.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/07/010234205.shtml">我们都是穿越的格格</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/07/010234204.shtml"><IMG src="http://pic.xwh.cn/0/10/20/74/10207441_359527.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/07/010234204.shtml">长春的美你懂吗</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/07/010234203.shtml"><IMG src="http://pic.xwh.cn/0/10/20/74/10207440_979459.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/07/010234203.shtml">龙年来我家花圃看看</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/07/010234201.shtml"><IMG src="http://pic.xwh.cn/0/10/20/74/10207438_224245.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/07/010234201.shtml">可爱的“表情美女”</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/07/010234199.shtml"><IMG src="http://pic.xwh.cn/0/10/20/74/10207437_941201.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/07/010234199.shtml">我身边的美女同事</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/07/010234198.shtml"><IMG src="http://pic.xwh.cn/0/10/20/74/10207435_084475.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/07/010234198.shtml">江边梦幻般的世界</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/03/010233624.shtml"><IMG src="http://pic.xwh.cn/0/10/20/70/10207001_518238.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/03/010233624.shtml">猜猜我和宝宝在干啥</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/03/010233623.shtml"><IMG src="http://pic.xwh.cn/0/10/20/70/10207000_999661.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/03/010233623.shtml">雷瞎我的越南乳瓜</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/02/010233406.shtml"><IMG src="http://pic.xwh.cn/0/10/20/68/10206849_984279.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/02/010233406.shtml">露个脸赚金币</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/02/010233397.shtml"><IMG src="http://pic.xwh.cn/0/10/20/68/10206838_180969.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/02/010233397.shtml">我拍的魔幻百变小美女</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/02/010233396.shtml"><IMG src="http://pic.xwh.cn/0/10/20/68/10206837_925355.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/02/010233396.shtml">我身边的美妞超级多</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/02/010233383.shtml"><IMG src="http://pic.xwh.cn/0/10/20/68/10206830_946691.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/02/010233383.shtml">我心中的美女是奶奶</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/02/010233382.shtml"><IMG src="http://pic.xwh.cn/0/10/20/68/10206829_240426.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/02/010233382.shtml">看看我萌不？</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/02/010233381.shtml"><IMG src="http://pic.xwh.cn/0/10/20/68/10206828_686885.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/02/010233381.shtml">雪场中的红裙冻人妹</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/02/010233376.shtml"><IMG src="http://pic.xwh.cn/0/10/20/68/10206823_502070.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/02/010233376.shtml">你看我躺下够妩媚吗</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/01/010233211.shtml"><IMG src="http://pic.xwh.cn/0/10/20/66/10206682_781870.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/01/010233211.shtml">实拍夹娃娃的高手</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/01/010233208.shtml"><IMG src="http://pic.xwh.cn/0/10/20/66/10206680_892266.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/01/010233208.shtml">哥也是练过的</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/01/010233206.shtml"><IMG src="http://pic.xwh.cn/0/10/20/66/10206679_862025.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/01/010233206.shtml">城隍庙的偶遇</A></LI>
+<LI><A href="http://news.xwh.cn/news/system/2012/02/01/010233201.shtml"><IMG src="http://pic.xwh.cn/0/10/20/66/10206678_039242.jpg" width="140" height="105" border="0"></A><A class=link href="http://news.xwh.cn/news/system/2012/02/01/010233201.shtml">随手拍到众多美女</A></LI>
+</ul>
+			</DIV>
+	  </DIV>
+	</DIV>
+  
+</DIV>
+
+<!-- YG-->
+<!-- 房产-->
+<div id="YGad01a"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "273012";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+<div id="ygkttitle"><h2><span><a href="http://www.jia0431.com">频道首页</a>：<a href="http://news.xwh.cn/realty/realty_news/04/index.shtml">房产新闻</a> | <a href="http://news.xwh.cn/realty/realty_fczx/fczx_02/index.shtml">项目动态</a> | <a href="http://home.xwh.cn/home/soufang.asp">新房速递</a> | <a href="http://fang.xwh.cn/">二手房</a> | <a href="http://news.xwh.cn/realty/realty_jiaju/jiaju_news/index.shtml">家居装饰</a> | <a href="http://bbs.xwh.cn/forum-314-1.html">楼市论坛</a></span><a href="http://home.xwh.cn"><font color="#FFFFFF">家在长春</font></a></h2></div>
+
+<div id="YGfhouse">
+<div id="YGfhousea">
+<div id="YGfhouseaa"><p class="ygbignews05"><img src="images/gif_57_020.gif" align="absmiddle" /><a href="http://home.xwh.cn/system/2012/02/10/010234715.shtml">婚房：2·14情人节 把两个家变成一个家</a></p>
+<p class="ygbignews04">2012年情人节即将到来，空气中都弥漫着一股浪漫的气氛。还等什么？爱TA就结婚吧，一起营造一个温暖的家…… <a href="http://home.xwh.cn/system/2012/02/10/010234715.shtml">[详细]</a></p>
+</div>
+<div id="YGb03news">
+<ul>
+  <li><a href="http://home.xwh.cn/system/2012/02/03/010233634.shtml"><font color=#FF0000>“婚房”问卷调查：2012年您婚否？房否？</font></a><span>欢迎网友踊跃参与</span></li>
+<li><a href="http://home.xwh.cn/system/2012/02/10/010234671.shtml"><font color=#800000><b>浪漫情人节 准新人“婚房装修”全攻略</b></font></a><span>把钱用在刀刃上</span></li>
+<li><a href="http://home.xwh.cn/system/2012/02/10/010234663.shtml">2012长春楼市硝烟再起 超大户型也忙促销</a><span>努力拉拢客户</span></li>
+<li><a href="http://home.xwh.cn/system/2012/02/10/010234654.shtml">省住建厅：保障性住房禁用“瘦身”钢筋</a><span>实施质量分户验收</span></li>
+<li><a href="http://home.xwh.cn/system/2012/02/10/010234655.shtml">长春“地铁二号线”一响 楼盘价格噌噌涨</a><span>楼盘增值潜力大</span></li>
+<li><a href="http://home.xwh.cn/system/2012/02/10/010234675.shtml">2012年刚需迎主场 长春开发商跑量求生存</a><span>房企主攻中小户型</span></li>
+<li><a href="http://home.xwh.cn/system/2012/02/10/010234668.shtml">节后长春楼市回温 一周成交总额1.21亿元</a><span>市场并不是那么冷</span></li>
+</ul>
+</div>
+
+</div>
+
+<div id="YGfhouseb">
+<div id="YGfhouseba">
+<ul>
+  <li><a href="http://home.xwh.cn/system/2012/01/29/010232674.shtml"><img src="http://pic.xwh.cn/0/10/20/62/10206265_987435.jpg" width="200" height="260" border="0" />
+<p class="ygktpptitle">长春1月开盘楼盘均延期至2月</p></a></li>
+</ul>
+</div>
+<div id="YGfhousebb"><div id="ygsrbaike1"><a href="http://home.xwh.cn"><img src="images/ygmore.gif" border="0" /></a></div>
+<div id="YGfhousebc"><div id="YGfhousebcpic"><a href="http://home.xwh.cn/system/2012/01/19/010231698.shtml"><img src="http://pic.xwh.cn/0/10/20/49/10204913_576406.jpg" width="90" height="65" border="0" /></a></div>
+<div id="YGfhouseblist">
+<p class="ygbignews08"><a href="http://home.xwh.cn/system/2012/01/19/010231698.shtml">新文化装修团购群:195903499</a></p>
+<p class="ygbignews09">我们提供最全面的长春家装、建材类产品的新闻...&nbsp;<a href="http://home.xwh.cn/system/2012/01/19/010231698.shtml">[详细]</a></p>
+</div></div>
+<div id="ygsrbnlist1">
+<ul>
+  <li><span>02-10</span><a href="http://home.xwh.cn/system/2012/02/10/010234689.shtml">[出售]宽城区 荣旺天下多层毛坯87平 45万</a></li>
+<li><span>02-10</span><a href="http://home.xwh.cn/system/2012/02/10/010234693.shtml">[出售]朝阳区 桂林路师大附小3室114平107万</a></li>
+<li><span>02-10</span><a href="http://home.xwh.cn/system/2012/02/10/010234692.shtml">[出售]净月区 净月潭跃层带花园100平 55万</a></li>
+<li><span>02-10</span><a href="http://home.xwh.cn/system/2012/02/10/010234690.shtml">[出售]高新区 益田御水丹堤3楼132平 90万</a></li>
+</ul>
+</div>
+<div id="ad11"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "275403";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+</div>
+</div>
+
+</div>
+
+<!-- 汽车-->
+<div id="YGad01"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "273604";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+<div id="ygkttitle">
+  <h2><span>频道导航：<a href="http://car.xwh.cn/tuan.shtml">汽车团购</a> | <a href="http://huodong.xwh.cn/act.php?a=class&c=8">最新活动</a> | <a href="http://car.xwh.cn/tghg/index.shtml">活动回顾</a> | <a href="http://j.map.baidu.com/T-NPc">4S店地图</a> | <a href="http://bbs.xwh.cn/forum-276-1.html">车友论坛</a> | <a href="http://bbs.xwh.cn/forum-331-1.html">学车团</a> | <a href="http://car.xwh.cn">更多</a></span><a href="http://car.xwh.cn"><font color="#FFFFFF">汽车频道</font></a></h2>
+</div>
+
+<div id="YGfhouse">
+<div id="YGfhousea">
+<div id="YGfhouseaa"> <p class="ygbignews05"><img src="images/gif_57_020.gif" align="absmiddle" /><a href="http://news.xwh.cn/auto/system/2012/02/10/010234691.shtml">情人节追女必备 4款品位两厢车推荐</a></p>
+<p class="ygbignews04">还有两周时间就到情人节了，依旧单身的你是否准备好了迎接一段浪漫的人生经历呢？人靠衣装马靠鞍，一部有品味的新... <a href="http://news.xwh.cn/auto/system/2012/02/10/010234691.shtml">[详细]</a></p>
+ </div>
+<div id="YGb03news">
+<ul>
+  <li><a href="http://news.xwh.cn/auto/system/2012/02/08/010234382.shtml">重卡遭遇“倒春寒”经销商需防资金链断裂</a><span>车辆库存过多</span></li>
+<li><a href="http://news.xwh.cn/auto/system/2012/02/03/010233561.shtml">双轮驱动 打造世界级汽车产业基地</a><span>长春汽车区发展蓝图</span></li>
+<li><a href="http://news.xwh.cn/auto/system/2012/02/03/010233576.shtml">图:城市代步小车 大众E-Up!纯电动车将国产</a><span>2014年实现国产</span></li>
+<li><a href="http://news.xwh.cn/auto/system/2012/02/03/010233574.shtml">车险行业经营惨淡 业内人士揭五大“怪”</a><span>车险不盈利</span></li>
+<li><a href="http://news.xwh.cn/auto/system/2012/02/03/010233571.shtml">气囊意外打开致人伤 吉普自由人遭调查</a><span>已导致50人受伤</span></li>
+<li><a href="http://news.xwh.cn/auto/system/2012/02/02/010233371.shtml"><font color="#FF0000">汽车频道龙年春节挖宝活动获奖名单公布</font></a><span>恭喜中奖网友</span></li>
+<li><a href="http://news.xwh.cn/auto/system/2012/02/01/010233167.shtml">二手车交易量上升 未来有望超新车市场</a><span>市场将步入拐点
+</span></li>
+</ul>
+</div>
+
+</div>
+
+<div id="YGfhouseb">
+<div id="YGfhouseba">
+<ul>
+  <li><a href="http://news.xwh.cn/auto/system/2012/02/07/010234227.shtml"><img src="http://pic.xwh.cn/0/10/20/74/10207452_934716.jpg" width="200" height="260" border="0" />
+<p class="ygktpptitle">汽车频道广汽丰田团购会 </p></a></li>
+</ul>
+</div>
+<div id="YGfhousebb"><div id="ygsrbaike2"><a href="http://car.xwh.cn"><img src="images/ygmore.gif" border="0" /></a></div>
+<div id="YGfhousebc"><div id="YGfhousebcpic"><a href="http://news.xwh.cn/auto/system/2012/02/05/010233884.shtml"><img src="http://pic.xwh.cn/0/10/20/72/10207216_735841.jpg" width="90" height="65" border="0" /></a></div>
+<div id="YGfhouseblist">
+<p class="ygbignews08"><a href="http://news.xwh.cn/auto/system/2012/02/05/010233884.shtml">智跑车友会慰问儿童福利院</a></p>
+<p class="ygbignews09">2012年2月4日，新文化网汽车频道智跑车友会开...&nbsp;<a href="http://news.xwh.cn/auto/system/2012/02/05/010233884.shtml">[详细]</a></p>
+</div></div>
+<div id="ygsrbnlist1">
+<ul>
+  <li><span>01-15</span><a href="http://news.xwh.cn/auto/system/2012/01/15/010230860.shtml">新文化网奔腾团购会圆满成功</a></li>
+<li><span>01-13</span><a href="http://news.xwh.cn/auto/system/2012/01/13/010230462.shtml">新文化网东风悦达起亚团购会圆满成功</a></li>
+<li><span>01-13</span><a href="http://news.xwh.cn/auto/system/2012/01/13/010230461.shtml">新文化网华泰圣达菲团购会圆满成功</a></li>
+<li><span>01-13</span><a href="http://news.xwh.cn/auto/system/2012/01/13/010230459.shtml">吉林盛荣沃尔沃团购会圆满成功</a></li>
+</ul>
+</div>
+<div id="ad11"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "272837";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+</div>
+</div>
+
+</div>
+
+
+
+
+<!-- 婚嫁-->
+<div id="YGad01"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "273063";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+<div id="ygkttitle"><h2><span>频道导航：<a href="http://pp.xwh.cn/street.php?catid=18&region=0&keyword=">婚纱摄影</a> | <a href="http://pp.xwh.cn/street.php?catid=19&region=0&keyword=">钻石珠宝</a> | <a href="http://pp.xwh.cn/street.php?catid=21&region=0&keyword=">婚纱礼服</a> | <a href="http://pp.xwh.cn/street.php?catid=20&region=0&keyword=">婚庆服务</a> | <a href="http://pp.xwh.cn/street.php?catid=134&region=0&keyword=">美容美体</a> | <a href="http://pp.xwh.cn/street.php?catid=133&region=0&keyword=">婚宴场地</a> | <a href="http://pp.xwh.cn/street.php?catid=132">蜜月旅游</a></span><a href="http://marry.xwh.cn"><font color="#FFFFFF">婚嫁频道</font></a></h2>
+</div>
+
+<div id="YGfhouse">
+<div id="YGfhousea">
+<div id="YGfhouseaa"> <p class="ygbignews05"><img src="images/gif_57_020.gif" align="absmiddle" /><a href="http://news.xwh.cn/news/system/2012/02/09/010234506.shtml">高端白领相亲会暨情侣游戏PK赛浪漫征集</a></p>
+<p class="ygbignews04">大型情人节浪漫晚会，即日起开始征集单身白领及情侣，报名时间截止到2月10日16:00，报名参与即有机会赢得浪漫大奖。
+ <a href="http://news.xwh.cn/news/system/2012/02/09/010234506.shtml">[详细]</a></p>
+ </div>
+<div id="YGb03news">
+<ul>
+  <li><a href="http://news.xwh.cn/news/system/2012/01/17/010231261.shtml">“我的婚礼我做主”打造专属个性婚礼</a><span>点击下载报名表</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010234042.shtml">2月12日“乐婚集结号”许誓言 送纯银情书</a><span>将爱情进行到底</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/08/010234322.shtml">长春新娘群成立 诚邀准新娘加入一起分享</a><span>备婚资讯一网打尽</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234660.shtml">量身定制拍婚照，这个，可以有(组图)</a><span>享受到安谧的私人空间</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234659.shtml">新人们婚宴结束后，你清点过酒水了么？</a><span>提防“酒耗子”</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234657.shtml">不可缺少的物品婚礼宝典：教你如何选喜糖</a><span>分享和传递幸福</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/10/010234656.shtml">中国式剩女思考：嫁错郎不可怕 可怕嫁没房</a><span>谁家的女儿不嫁人</span></li>
+</ul>
+</div>
+
+</div>
+
+<div id="YGfhouseb">
+<div id="YGfhouseba">
+<ul>
+  <li><a href="http://news.xwh.cn/news/system/2012/02/10/010234661.shtml"><img src="http://pic.xwh.cn/0/10/20/78/10207892_982694.jpg" width="200" height="260" border="0" />
+<p class="ygktpptitle"> 刘洋为杂志拍摄绝美婚纱大片</p></a></li>
+</ul>
+</div>
+<div id="YGfhousebb"><div id="ygsrbaike3"><a href="http://jiehun.xwh.cn"><img src="images/ygmore.gif" border="0" /></a></div>
+<div id="YGfhousebc"> <div id="YGfhousebcpic"><a href="http://news.xwh.cn/news/system/2012/02/10/010234664.shtml"><img src="http://pic.xwh.cn/0/10/20/78/10207896_782516.jpg" width="90" height="65" border="0" /></a></div>
+<div id="YGfhouseblist">
+<p class="ygbignews08"><a href="http://news.xwh.cn/news/system/2012/02/10/010234664.shtml">时尚磨砂球耳钉</a></p>
+<p class="ygbignews09">近期流行与日韩的时尚磨砂球耳钉，男女通用，...&nbsp;<a href="http://news.xwh.cn/news/system/2012/02/10/010234664.shtml">[详细]</a></p>
+</div> </div>
+<div id="ygsrbnlist1">
+<ul>
+  <li><span>02-10</span><a href="http://news.xwh.cn/news/system/2012/01/17/010231257.shtml">细节成就完美 可爱新娘编织球形耳钉</a></li>
+<li><span>02-10</span><a href="http://news.xwh.cn/news/system/2012/01/12/010230224.shtml">爆款韩国进口首饰双色超漂漂精致蝴蝶耳环</a></li>
+<li><span>02-10</span><a href="http://news.xwh.cn/news/system/2012/01/12/010230223.shtml">女人我最大强力推荐 39mm3D超广角睫毛夹</a></li>
+<li><span>02-10</span><a href="http://news.xwh.cn/news/system/2012/01/12/010230221.shtml">黑金属朋克气息 珍珠点缀珍珠排弹力戒指</a></li>
+</ul>
+</div>
+<div id="ad11"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "290046";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+</div>
+</div>
+
+</div>
+<!-- 美食-->
+<div id="ygkttitle"><h2><span>频道导航：<a href="http://bbs.xwh.cn/forum.php?mod=forumdisplay&fid=142&filter=typeid&typeid=534">美食探店</a> | <a href="http://bbs.xwh.cn/forum.php?mod=forumdisplay&fid=142&filter=typeid&typeid=234">美食DIY</a> | <a href="http://bbs.xwh.cn/forum.php?mod=forumdisplay&fid=142&filter=typeid&typeid=544">美食杂谈</a> | <a href="http://bbs.xwh.cn/forum.php?mod=forumdisplay&fid=142&filter=typeid&typeid=562">美食优惠</a> | <a href="http://bbs.xwh.cn/forum.php?mod=forumdisplay&fid=142&filter=typeid&typeid=561">外地美食</a> | <a href="http://bbs.xwh.cn/forum.php?mod=forumdisplay&fid=142&filter=typeid&typeid=545">蹭吃蹭喝</a> | <a href="http://bbs.xwh.cn/forum.php?mod=forumdisplay&fid=142&filter=typeid&typeid=537">最角落的美食</a></span><a href="http://bbs.xwh.cn/forum-142-1.html"><font color="#FFFFFF">美食频道</font></a></h2></div>
+
+<div id="YGfhouse">
+<div id="YGfhousea">
+<div id="YGfhouseaa"> <p class="ygbignews05"><img src="images/gif_57_020.gif" align="absmiddle" /><a href="http://news.xwh.cn/news/system/2012/02/06/010233981.shtml">2012长春情人节餐厅推荐 吃一口花前月下</a></p>
+<p class="ygbignews04">还有几天就是情人节了，巧克力、玫瑰花已精心挑选完毕，只差寻一个良好的吃喝之地！情人节与心爱的TA共度晚餐可谓... <a href="http://news.xwh.cn/news/system/2012/02/06/010233981.shtml">[详细]</a></p>
+ </div>
+<div id="YGb03news">
+<ul>
+  <li><a href="http://news.xwh.cn/news/system/2012/02/07/010234175.shtml">让人hold不住的美食 来延边一起吃胖吧</a><span>紫菜包饭铁板烤肉</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/07/010234171.shtml">精品川菜三俞竹苑 还是卓展那家店的味道好</a><span>饭店美食和服务</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010234003.shtml">大家元宵节快乐 今天你吃什么味的汤圆</a><span>元宵节我买的汤圆</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010233999.shtml">这样下去 美食的朋友是不是都要来碗麻辣烫</a><span>小花又见麻辣烫</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010233998.shtml">每家总有那么几道传统菜 一点不腻人的大肉</a><span>姥姥亲手做的菜</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010233996.shtml">生活指南DIY私房菜 您在饭店里吃不到的饭</a><span>荤素结合 老少皆宜</span></li>
+<li><a href="http://news.xwh.cn/news/system/2012/02/06/010233994.shtml">那些儿时几毛钱就能乐呵的零食 你还记得吗</a><span>关于美食的回忆</span></li>
+</ul>
+</div>
+
+</div>
+
+<div id="YGfhouseb">
+<div id="YGfhouseba">
+<ul>
+  <li><a href="http://news.xwh.cn/news/system/2012/02/07/010234156.shtml"><img src="http://pic.xwh.cn/0/10/20/74/10207401_455507.jpg" width="200" height="260" border="0" />
+<p class="ygktpptitle">谢谢你,我亲爱的美食版!</p></a></li>
+</ul>
+</div>
+<div id="YGfhousebb"><div id="ygsrbaike6"><a href="http://bbs.xwh.cn/forum-142-1.html"><img src="images/ygmore.gif" border="0" /></a></div>
+<div id="YGfhousebc"> <div id="YGfhousebcpic"><a href="http://news.xwh.cn/news/system/2012/02/06/010233989.shtml"><img src="http://pic.xwh.cn/0/10/20/72/10207283_960314.jpg" width="90" height="65" border="0" /></a></div>
+<div id="YGfhouseblist">
+<p class="ygbignews08"><a href="http://news.xwh.cn/news/system/2012/02/06/010233989.shtml">自己一个人的火锅</a></p>
+<p class="ygbignews09">为了工作最近只能自己一个人在家了，就连十五...&nbsp;<a href="http://news.xwh.cn/news/system/2012/02/06/010233989.shtml">[详细]</a></p>
+</div> </div>
+<div id="ygsrbnlist1">
+<ul>
+  <li><span>02-10</span><a href="http://news.xwh.cn/news/system/2012/02/10/010234714.shtml">没脸见人了 可乐鸡翅被我做成了这个样子</a></li>
+<li><span>02-10</span><a href="http://news.xwh.cn/news/system/2012/02/10/010234712.shtml">给大家发个凉拌菜的菜谱 别说你学不会哦</a></li>
+<li><span>02-10</span><a href="http://news.xwh.cn/news/system/2012/02/10/010234711.shtml">吉菜粤菜齐上阵 猜猜这一桌子需要多少钱</a></li>
+<li><span>02-10</span><a href="http://news.xwh.cn/news/system/2012/02/10/010234710.shtml">在家时用烤箱做的烤羊肉串 一样超级美味</a></li>
+</ul>
+</div>
+<div id="ad11"><script type="text/javascript" >BAIDU_CLB_SLOT_ID = "290048";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+</div>
+</div>
+
+</div>
+
+
+<!-- YG-->
+<!-- ####################################链接开始###################################### -->
+<DIV id=wrapper>
+<DIV 
+style="BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px" 
+id=friendLink class=oDiv>
+<SCRIPT type=text/javascript>			
+		function SetMenu(theid){					    
+			if(theid){
+				for (i = 1; i< 5; i++) {
+			 		document.getElementById("flink_"+i).style.display="none";
+			 		if(i==theid){			
+						document.getElementById("flink_"+i).style.display="block";			
+					}		  	
+				}
+			}
+		}
+		</SCRIPT>
+
+<TABLE width=960 border=0 align="center" cellPadding=0 cellSpacing=0>
+  <TBODY>
+  <TR>
+    <TD height=27 background="images/ygkt.jpg">
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+        <TBODY>
+        <TR>
+          <TD height=25 style="font-size:14px">&nbsp;&nbsp;<A 
+            onmouseover=javascript:SetMenu(1)><STRONG>&nbsp;<font color="#ffffff">合作网站</font></STRONG></A></TD>
+          <TD style="font-size:12px" width=90><A 
+            onmouseover=javascript:SetMenu(2)><font color="#999999"></font></A></TD>
+          <TD style="font-size:12px" width=90 align=right><A 
+            onmouseover=javascript:SetMenu(3)><font color="#999999">合作媒体</font></A></TD>
+          </TR></TBODY></TABLE></TD>
+  </TR>
+  <TR>
+    <TD 
+    height=120 vAlign=top bgcolor="#f9f9f9" 
+    style="PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px">
+      <DIV id=friendLink_1>
+      <UL style="DISPLAY: block" id=flink_1>
+     <p class="ygbignews06">华商传媒集团旗下：
+<a href="http://www.hsw.cn" target="_blank">华商网</a>
+<a href="http://www.123hi.cn" target="_blank">西安123hi社区</a>
+<a href="http://www.95191.com/" target="_blank">西安楼市通</a>
+<a href="http://www.xwh.cn" target="_blank">新文化网</a>
+<a href="http://www.xwh.cn" target="_blank">快团网</a>
+<a href="http://www.jia0431.com" target="_blank">家在长春</a>
+<a href="http://www.liao1.com" target="_blank">辽一网</a>
+<a href="http://www.19tuan.com/" target="_blank">19团</a>
+<a href="http://www.chengw.com" target="_blank">橙网</a>
+<a href="http://www.qianjing.cn" target="_blank">钱经</a>
+<a href="http://www.96128.com" target="_blank">96128购物网</a>
+<a href="http://www.weidaily.com">温哥华微日报</a>
+</p>
+<p class="ygbignews06">新文化网合作媒体：
+<a href="http://tieba.baidu.com/index.html">百度贴吧</a>
+<a href="http://www.ccnews.gov.cn/">长春新闻网</a>
+<a href="http://www.jrj.com">金融界</a>
+<a href="http://www.voc.com.cn">华声在线</a>
+<a href="http://www.longhoo.net/">龙虎网</a>
+<a href="http://www.enorth.com.cn">北方网</a>
+<a href="http://www.qingdaonews.com">青岛新闻网</a>
+<a href="http://www.hqsj.net.cn">环球商界</a>
+<a href="http://www.cdqss.com">成都全搜索</a>
+<a href="http://cc.focus.cn/">搜狐焦点</a>
+<a href="http://gb.cri.cn">国际在线</a>
+<a href="http://www.jl.chinanews.com/">吉林新闻网</a>
+<a href="http://health.china.com/">中华网健康频道</a>
+<a href="http://cc.fangqq.com/">长春蓝房网</a>
+<a href="http://bj.ganji.com/">赶集网</a>
+<a href="http://www.51jo.cn">前程无忧</a>
+<a href="http://www.jlsina.com/">新吉林网</a>
+<a href="http://www.caiyunjie.com/">彩云街</a>
+<a href="http://www.zhifang.com/">智房网</a>
+<a href="http://www.zyue.com">众悦网</a>
+<a href="http://cc.pcauto.com.cn">太平洋汽车网</a>
+<a href="http://tuangou.xungou.com/">团购网</a>
+<a href="http://www.knowmycity.com">城市知道</a>
+<a href="http://365jia.cn">合肥热线</a>
+<a href="http://www.sofun360.com">索趣网</a>
+<a href="http://bj.58.com/">58同城</a>
+<a href="http://www.honggushi.com">中国红故事</a>
+<a href="http://changchun.soufun.com/">长春搜房</a>
+<a href="http://suzhou.hualongxiang.com/">苏州化龙巷</a>
+<a href="http://www.ybnews.cn/">延边新闻网</a>
+<a href="http://www.qingree.com/">青锐网</a>
+<a href="http://www.zjol.com.cn/">浙江在线</a>
+<a href="http://health.china.com.cn/">中国网健康频道</a>
+<a href="http://www.cjn.cn">长江网</a>
+<a href="http://www.ccyatai.com">亚泰球迷网</a>
+<a href="http://www.shaanxici.cn">陕西文化产业网</a>
+<a href="http://www.hilizi.com/">海力网</a>
+<a href="http://www.1news.cc/">主流网</a>
+<a href="http://www.ccgoufang.com">购房网</a>
+<a href="http://www.jnds.com.cn">江南都市网</a>
+<a href="http://www.gmw.cn">光明网</a>
+<a href="http://www.soubaoad.com/">搜报网</a>
+<a href="http://www.hainan.net/">海南在线</a>
+</p>  
+       
+       </UL>
+        <!-- ####################################*###################################### -->
+      <UL style="DISPLAY: none" id=flink_2>
+       </UL>
+         <!-- ####################################*###################################### -->
+      <UL style="DISPLAY: none" id=flink_3>
+<LI><a href=" http://news.163.com" target="_blank">网易新闻</a></LI>
+
+
+
+         <!-- ####################################*###################################### -->
+      <UL style="DISPLAY: none" id=flink_4>
+<LI><a href="http://xwh.cn" target="_blank">新文化报</a></LI>
+      
+</UL></TD>
+  </TR></TBODY></TABLE></DIV>
+
+</DIV>
+<!-- ####################################链接结束###################################### -->
+
+<!--//////////// 友情链接结束 -->
+
+
+<!-- YG-->
+<div id="ygbqalist"><a href="http://corp.xwh.cn/index.html" target="_blank">公司简介</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://corp.xwh.cn/news.html" target="_blank">报社简介</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://corp.xwh.cn/sites.html" target="_blank">发行站点</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://corp.xwh.cn/links.html" target="_blank">联系我们</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://zt.xwh.cn/w/20120206/index.html" target="_blank">付费推广</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://zt.xwh.cn/sitemap/sitemap.htm" target="_blank">网站地图</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a title="新文化网图形&amp;标志WEB使用规范" href="http://css.xwh.cn/logo" target="_blank">LOGO</a></div>
+
+<div id="ygbqblist">
+<p class="ygbignews07">版权所有：长春新文化网 / 新文化报社 &nbsp;&nbsp;&nbsp;&nbsp;信息产业部备案许可：吉ICP备05000336号 &nbsp;&nbsp;&nbsp;&nbsp;吉B-2-4-20080044</p>
+<p class="ygbignews07">新闻中心：长春市人民大街6906号新文化报社 &nbsp;&nbsp;&nbsp;&nbsp;运营中心：长春市高新技术开发区锦河街155号 东北亚文化创意科技园图书馆三层</p>
+<p class="ygbignews07">客服电话：0431-85898000 &nbsp;&nbsp;&nbsp;&nbsp;新闻热线：0431-96618&nbsp;&nbsp;&nbsp;&nbsp;官方微博：<img src="images/xwhvb.jpg" align="texttop" /> <a href="http://t.xwh.cn">新文化微博&nbsp;</a> <img src="images/qqt.jpg" align="texttop" /> <a href="http://t.xwh.cn/xwhb2010">腾讯微博&nbsp;</a> <img src="images/sinavb.jpg" align="texttop" /> <a href="http://weibo.com/xwhbs">新浪微博</a></p>
+<p class="ygbignews07">Copyright@ 1998 - 2011 www.xwh.cn All Rights Reserved</p>
+
+</div>
+
+<!-- YG-->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F845cce8548f02488dff3b6cd107f4675' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html><!--<page cms="enorth webpublisher"  version="4.0 /2010111601" server_name="svctag-9zk6h2x" parse_date="2012-02-10 23:32:17" cost="625" parse_result="0" input_mode="manual"></page>-->

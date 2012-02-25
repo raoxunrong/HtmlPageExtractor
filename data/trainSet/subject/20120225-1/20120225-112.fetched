@@ -1,0 +1,497 @@
+<!DOCTYPE HTML>
+<!--STATUS OK-->
+<meta http-equiv="Content-Type" content="text/html;charset=gb2312">
+<base href="http://hi.baidu.com/evilrapper/blog/item/77d9481f689c9eefe1fe0b6c.html">
+<style>
+body{position:relative}
+body,form{margin:0!important;padding:0!important}
+#bd_snap{font:14px arial;color:#000;background:#fff;text-align:left;padding:7px 0 0 20px}
+#bd_snap_txt{clear:both;padding:10px 0 }
+#bd_snap_note{font-size:12px;color:#666;padding-bottom:10px}
+#bd_snap a{font:14px arial;color:#00c;text-decoration:underline}
+#bd_snap_head{width:860px}
+#bd_snap_logo{width:162px;height:38px;display:block;background:url(http://www.baidu.com/img/logo-snap.gif) no-repeat;margin-right:15px;float:left}
+#bd_snap_search{padding-top:10px;float:left}
+#bd_snap_kw{width:519px;height:22px;padding:4px 7px;padding:6px 7px 2px\9;margin-right:5px;font:16px arial;background:url(http://www.baidu.com/img/i-1.0.0.png) no-repeat -304px 0;_background-attachment:fixed;border:1px solid #cdcdcd;border-color:#9a9a9a #cdcdcd #cdcdcd #9a9a9a;vertical-align:top}
+#bd_snap_su{width:95px;height:32px;font-size:14px;color:#000;padding:0;padding-top:2px\9;border:0;}
+input.bd_snap_btn{background:#ddd url(http://www.baidu.com/img/i-1.0.0.png);cursor:pointer}
+input.bd_snap_btn_h{background-position:-100px 0}
+#bd_snap_btn_wr{width:97px;height:34px;display:inline-block;background:url(http://www.baidu.com/img/i-1.0.0.png) no-repeat -202px 0;_top:1px;*position:relative}
+#bd_snap_ln{height:1px;border-top:1px solid #ACA899;background:#ECE9D8;overflow:hidden}
+#bd_snap_txt span a{text-decoration:none}
+</style>
+
+
+<div id="bd_snap">
+    <div id="bd_snap_head">
+        <a href="http://www.baidu.com/" id="bd_snap_logo" title="到百度首页"></a>
+        <div id="bd_snap_search">
+        <form action="http://www.baidu.com/s"><input name="cl" type="hidden" value="3"><input name="wd" id="bd_snap_kw" maxlength="100"><span id="bd_snap_btn_wr"><input type="submit" id="bd_snap_su" value="百度一下" class="bd_snap_btn" onmousedown="this.className='bd_snap_btn bd_snap_btn_h'" onmouseout="this.className='bd_snap_btn'"></span></form>
+    	</div>
+    </div>
+    <div id="bd_snap_txt">您查询的关键词是：<span><a style='color:black;background-color:#ffff66;padding:0 3px;font-weight:bold' href=http://cache.baidu.com/c?m=9f65cb4a8c8507ed4fece763104c8c711923d030678197027fa3c215cc790c051c38a3e865604744ce95223a54b2121abdaf2b7732552bb191cbdc4ed7b0c32378df73637348d14342d748b8cb317f877fce4eacf259b1b5e743e4b9a2d0c82255dd24746d8081cc1b5754dd6f814764b4fadf&p=9d759a41d68113b10be29131465c&user=baidu&fm=sc&query=%CE%B1%D4%EC+User+Agent&qid=c8cd72f300e4047a&p1=2#baidusnap0>伪造</a><a style='color:black;background-color:#A0FFFF;padding:0 3px;font-weight:bold' href=http://cache.baidu.com/c?m=9f65cb4a8c8507ed4fece763104c8c711923d030678197027fa3c215cc790c051c38a3e865604744ce95223a54b2121abdaf2b7732552bb191cbdc4ed7b0c32378df73637348d14342d748b8cb317f877fce4eacf259b1b5e743e4b9a2d0c82255dd24746d8081cc1b5754dd6f814764b4fadf&p=9d759a41d68113b10be29131465c&user=baidu&fm=sc&query=%CE%B1%D4%EC+User+Agent&qid=c8cd72f300e4047a&p1=2#baidusnap1>user</a><a style='color:black;background-color:#99ff99;padding:0 3px;font-weight:bold' href=http://cache.baidu.com/c?m=9f65cb4a8c8507ed4fece763104c8c711923d030678197027fa3c215cc790c051c38a3e865604744ce95223a54b2121abdaf2b7732552bb191cbdc4ed7b0c32378df73637348d14342d748b8cb317f877fce4eacf259b1b5e743e4b9a2d0c82255dd24746d8081cc1b5754dd6f814764b4fadf&p=9d759a41d68113b10be29131465c&user=baidu&fm=sc&query=%CE%B1%D4%EC+User+Agent&qid=c8cd72f300e4047a&p1=2#baidusnap2>agent</a></span> 。如果打开速度慢，可以尝试<a href="http://cache.baidu.com/c?m=9f65cb4a8c8507ed4fece763104c8c711923d030678197027fa3c215cc790c051c38a3e865604744ce95223a54b2121abdaf2b7732552bb191cbdc4ed7b0c32378df73637348d14342d748b8cb317f877fce4eacf259b1b5e743e4b9a2d0c82255dd24746d8081cc1b5754dd6f814764b4fadf&p=9d759a41d68113b10be29131465c&user=baidu&fm=sc&query=%CE%B1%D4%EC+User+Agent&qid=c8cd72f300e4047a&p1=2&fast=y">快速版</a>；如果想保存快照，可以<a onclick="window.open('http://cang.baidu.com/do/add?it='+encodeURIComponent(document.title)+'&amp;iu='+encodeURIComponent(location.href)+'&amp;fr=ps#nw=1','_s','scrollbars=no,width=600,height=450,right=75,top=20,status=no,resizable=yes'); return false;" href="http://cang.baidu.com/do/add" target="_blank">添加到搜藏</a>；如果想更新或删除快照，可以<a href="http://tousu.baidu.com/webmaster/add" id="bd_tousu">投诉快照</a>。</div>
+<script>document.getElementById("bd_tousu").href = "http://tousu.baidu.com/webmaster/add?link=" + encodeURIComponent(document.location);</script>
+    <div id="bd_snap_note">(百度和网页<a href="http://hi.baidu.com/evilrapper/blog/item/77d9481f689c9eefe1fe0b6c.html">http://hi.baidu.com/evilrapper/blog/item/77d9481f689c9eefe1fe0b6c.html</a>的作者无关，不对其内容负责。百度快照谨为网络故障时之索引，不代表被搜索网站的即时页面。)</div>
+</div>
+<div id="bd_snap_ln"></div>
+<div style="position:relative">
+<!--STATUS OK-->
+
+
+<html><head><meta http-equiv=content-type content="text/html; charset=gb2312">
+<title>使用User-Agent伪造浏览器_Fuck Th3 W0r1d!_百度空间      </title>
+
+<style type="text/css">
+    .error{color:#FF0000;font-size:12px}
+    .shareUser,.shareLastEditor{line-height:20px;color:#666666;text-align:left}
+    .shareLastEditor{margin:5px 0 8px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+
+<center>
+
+
+<link rel="stylesheet" type="text/css" href="/ui/css/mods.css" />
+
+<link rel="stylesheet" type="text/css" href="http://hitn.bdimg.com/evilrapper/css/item/37308dfabed981899e514629.css" />
+
+<link rel="stylesheet" type="text/css" href="/space.css" />
+
+<div class="userbar">
+    <div id="nav">
+        <a class="logo" href="http://hi.baidu.com/index.htm"><img src="http://img.baidu.com/hi/img/ihome/logo.gif" border="0" alt="图片" /></a>
+
+
+
+        <div class="manage">
+            <form action="https://passport.baidu.com/?login" method="post">
+                用户名:<input type="text" name="username" />&nbsp;&nbsp; 
+                密码:<input type="password" name="password" /> 
+                <input type="hidden" name="mem_pass" value="on" />
+                <input type="submit" value="" style="width:0; height:0;" />
+                <a href="#" class="loginlink" onclick="this.parentNode.submit(); return false;">登录</a>  
+            </form> 
+            <a href="/reg/new" class="reglink">注册</a>
+        </div>
+
+    </div>
+</div>
+
+
+ <link rel='stylesheet' type='text/css' href='http://hi.bdimg.com/static/base/css/base.css?v=20110719174231'/>
+
+
+		
+
+
+
+<div id="main" align="left">
+
+<!--[if IE]>
+
+<![endif]-->
+
+	<div id="header">
+
+	<div class="lc"><div class="rc"></div></div>
+<div class="tit"><a href="/evilrapper/home" class="titlink" title="evilrapper的空间 http://hi.baidu.com/evilrapper">Fuck Th3 W0r1d!</a></div>
+<div class="desc">欢迎大家来访我的空间</div>
+<div id="tabline">&nbsp;</div>
+
+	<div id="tab"><a href="/evilrapper/home">主页</a><a href="/evilrapper/blog" class="on">博客</a><a href="/evilrapper/album">相册</a><span>|</span><a href="/evilrapper/profile">个人档案</a>
+
+	<span>|</span><a href="/evilrapper/friends">好友</a>
+
+
+<span>|</span><a href="http://tieba.baidu.com/i/sys/jump?un=evilrapper&fr=spacebar" onclick="BdUtil.ns_trackerLink('m_20110330_spacebar','')" target="_blank">i贴吧</a>
+
+
+	</div>
+
+</div>
+
+
+
+<div class="stage">
+
+<div class="stagepad">
+
+<div style="width:100%">
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="modth">
+
+	<tr><td class="modtl" width="7">&nbsp;</td>
+
+	<td class="modtc" nowrap><div class="modhead"><span class="modtit">查看文章</span></div></td>
+
+	<td class="modtc" nowrap align="right"></td>
+
+	<td class="modtr" width="7">&nbsp;</td>
+
+	</tr></table>
+
+
+
+<div id="m_blog" class="modbox" style="overflow-x:hidden;">
+
+<div class="tit">
+
+使用<a name=baidusnap1></a><B style='color:black;background-color:#A0FFFF'>User</B>-<a name=baidusnap2></a><B style='color:black;background-color:#99ff99'>Agent</B><a name=baidusnap0></a><B style='color:black;background-color:#ffff66'>伪造</B>浏览器</div>
+
+<div class="date">2011-07-30  19:23</div>
+
+
+
+
+<table style="table-layout:fixed;width:100%"><tr><td><div id="blog_text" class="cnt" ><p>关于<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>，在此不多说，假定您已经熟悉http协议尤其是<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>，如果需要了解更多，请查看以下<br><br>
+<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B> 字串(客户端操作系统浏览器识别)<br><br>
+更多<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>资料<br><br>
+常见的浏览器<B style='color:black;background-color:#ffff66'>伪造</B><B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B>方法<br><br>
+IE浏览器修改<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B>，修改注册表<br><br>
+<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>在注册表的位置<br>
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet 
+Settings\<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>\Post Platform] 下，新建字符串值，内容留空，名字为你想在 <B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B> 
+中加入的字符，这里以 “motorolarokre2〃为例。修改注册表对应的 REG 文件如下：<br>
+Windows Registry Editor Version 5.00<br><br>
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>\Post Platform]<br>
+“motorolarokre2〃=”"<br><br>
+修改后重启IE浏览器即可。<br><br>
+IE的<B style='color:black;background-color:#A0FFFF'>user</B>-<B style='color:black;background-color:#99ff99'>agent</B>取值，下面是下列地址的组合+一些默认值<br>
+HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>\Post Platform<br>
+HKLM\Software\Microsoft\Windows\CurrentVersion\Internet Settings\<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>\Post Platform<br>
+HKLM\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>\Post Platform<br><br>
+IE8的<B style='color:black;background-color:#A0FFFF'>User</B>-Agents：<br><br>
+IE8 on Windows Vista (兼容浏览)<br>
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)<br><br>
+IE8 on Windows Vista<br>
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)<br><br>
+IE8 on Windows 7<br>
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)<br><br>
+64-bit IE on 64-bit Windows 7:<br>
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0)<br><br>
+32-bit IE on 64-bit Windows 7:<br>
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0)<br><br>
+FireFox修改<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B><br><br>
+方法1：<br><br>
+在地址栏输入“about:config”，按下回车进入设置菜单。<br>
+找到“general.useragent.override”，如果没有这一项，则点右键“新建”-&gt;“字符串”，输入这个字符串。<br>
+将其值设为自己想要的UserAgent。<br>
+方法2：<br><br>
+安装插件：<B style='color:black;background-color:#A0FFFF'>User</B> <B style='color:black;background-color:#99ff99'>Agent</B> Switcher<br><br>
+Opera修改<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B><br><br>
+方法1：<br>
+1.工具栏“Tools”-&gt;“Preferences”-&gt;“Content”-&gt;“Advenced”，点击“Manage Site Preferences”按钮。<br>
+2.点击“Add”按钮，在弹出的窗口中“Site”填入“*”，“Network”选项卡中选择浏览器ID。各选项如下：<br><br>
+0 Default<br>
+1 Opera<br>
+2 Mozilla, Opera detectable<br>
+3 Internet Explorer, Opera detectable<br>
+4 Mozilla, Opera hidden<br>
+5 Internet Explorer, Opera hidden<br><br>
+方法2：<br>
+1.在地址栏输入“opera:config”，回车打开。<br>
+2.找到“<B style='color:black;background-color:#A0FFFF'>User</B> <B style='color:black;background-color:#99ff99'>Agent</B>”点开，里面的“Spoof UserAgent ID”设置想要的值，范围1-5，具体对应的ID同上。<br><br>
+Maxthon(遨游)修改<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B><br><br>
+工具栏“工具”-&gt;“遨游设置中心”-&gt;“高级选项”，勾选“自定义 UserAgent 字符串”，下面写上自己的UserAgent记可。保存设置后重启Maxthon生效。<br><br>
+Chrome修改<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B><br><br>
+方法一：启动时加上参数：--<B style='color:black;background-color:#A0FFFF'>user</B>-<B style='color:black;background-color:#99ff99'>agent</B>="你自己的UserAgent"<br>
+方法二：修改chrome.dll。把里面疑似UserAgent的字符串改为自己的。<br>
+Safari修改<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B><br><br>
+1.菜单栏“Edit”-&gt;“Preferences”-&gt;“Advanced”，勾选“Show Develop menu in menu bar”。<br>
+2.菜单栏会多出一项“Develop”，通过里面的“<B style='color:black;background-color:#A0FFFF'>User</B> <B style='color:black;background-color:#99ff99'>Agent</B>”子菜单即可设置自己的UserAgent。<br>
+iPhone修改<B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>agent</B><br><br>
+把/System/Library/Frameworks/WebKit.framework/WebKit 文件中的Mozilla/5.0替换成其他UA，字符数不要超过“Mozilla/5.0”的长度。<br><br>
+有用的参考资料<br><br>
+需要<B style='color:black;background-color:#ffff66'>伪造</B><B style='color:black;background-color:#A0FFFF'>User</B>-<B style='color:black;background-color:#99ff99'>Agent</B>，必需首选要知道各种浏览器的<B style='color:black;background-color:#A0FFFF'>User</B>-anent是什么，才能<B style='color:black;background-color:#ffff66'>伪造</B>，有个网站专门收集无数种浏览器的<B style='color:black;background-color:#A0FFFF'>User</B>-anget，其中绝大多数浏览器可能都没听说过，笔者也是一样，实在太令人震精了。<br><br>
+就是这个网站 <B style='color:black;background-color:#A0FFFF'>User</B> <B style='color:black;background-color:#99ff99'>Agent</B> String.Com 首页地址<a href="http://www.useragentstring.com/" target="_blank">http://www.useragentstring.com/</a><br><br>
+可以直接访问这里，<a href="http://www.useragentstring.com/pages/useragentstring.php" target="_blank">http://www.useragentstring.com/pages/useragentstring.php</a></p></div></td></tr></table>
+
+<br>
+
+<div class="opt">
+
+<a href="/evilrapper/blog/category/%C4%AC%C8%CF%B7%D6%C0%E0" title="查看该分类中所有文章">类别：默认分类</a>
+
+| <a  href="#" onclick="addToShare(); return false;" target="_blank"><img src="http://img.baidu.com/hi/apps/share/share_btn.gif" border="0" align="absbottom"  /></a>
+
+
+
+
+	
+
+	| <a title="将此文章添加到百度搜藏" href="http://cang.baidu.com/do/add" onClick="return addToFavor();" target="_blank">添加到搜藏</a>
+
+	
+    | <a title="将此文章分享到i贴吧" href="#" onclick="addToiTieba(); return false;"  target="_blank">分享到i贴吧</a>
+
+	| 浏览(<span id="result"></span>)
+
+	| <a href="#send">评论</a>&nbsp;(0)
+
+
+
+
+
+
+
+</div>
+
+
+
+<div class="line">&nbsp;</div>
+
+
+
+
+
+
+
+    
+<style type="text/css">
+
+/*<![CDATA[*/
+
+#in_related_doc a { text-decoration:none; }
+
+/*]]>*/
+
+</style>
+
+<div id="in_related_tmp"></div>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="in_reader">
+    <div class="tit">最近读者：</div>
+
+</div>
+
+
+
+
+
+<div class="line">&nbsp;</div>
+
+
+
+
+
+
+
+
+
+
+<div id="in_comment">
+
+    <a name="comment"></a>
+
+    <div class="tit">网友评论：</div>
+
+    <span id="userCommentList"></span>    
+
+    <div id="page"></div>
+
+</div>
+
+<form action='/evilrapper/commit' id='blogCmtSubmitForm'  name='blogCmtSubmitForm' method='post'>
+    <input type='hidden' name='bdstoken' value=''>
+    <input type='hidden'  name='ct' value='8'>
+    <input type='hidden'  name='cm' value='2'>
+    <input type='hidden'  name='spBlogID' value='77d9481f689c9eefe1fe0b6c'>
+    <input type='hidden'  name='spBlogCmtID' value=''>
+    <input type='hidden'  name='spRefURL' value=''>
+</form>
+
+
+
+
+
+
+<div id="in_send">
+
+<a name="send"></a>
+
+<form name="form1" id="popFormSubmit" action="/evilrapper/commit" method="post" onSubmit="return checkcmtform()">
+
+<input type="hidden" name="bdstoken" value="">
+
+<input type="hidden" name="ct" value="8">
+
+<input type="hidden" name="cm" value="1">
+
+<input type="hidden" name="spBlogID" value="77d9481f689c9eefe1fe0b6c">
+
+<input type="hidden" name="spRefURL" id="spRefURL" />
+
+
+
+<div class="tit">发表评论：</div>
+
+<table width="620" border="0" cellspacing="5" cellpadding="0">
+
+
+
+
+
+<tr id="2_err" style="display:none">
+
+<td>&nbsp;</td>
+
+<td><div class="error" id="2_err_con"></div></td>
+
+</tr>
+
+
+
+<tr>
+
+<td valign="top" class="f14" id="reTitle">内　容：</td>
+
+<td>
+	<textarea name="spBlogCmtText" id="spBlogCmtText" style="width:520px;height:155px"  tabindex="3" onFocus="hidErr(3);" onclick="BdUtil.relogin(); return false;" ></textarea>
+</td>
+
+</tr>
+
+<tr id="3_err" style="display:none">
+
+<td>&nbsp;</td>
+
+<td><div class="error" id="3_err_con"></div></td>
+
+</tr>
+
+
+
+
+<tr>
+
+<td valign="top"class="f14">&nbsp;</td>
+
+<td valign="top" class="f14"><input id="btn_ok" name="btn_ok" type="submit" autocomplete="off" onclick="BdUtil.relogin(); return false;" value="发表评论" tabindex=5>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" id="cancleReLink" onClick="canclereply(); return false;" style="display:none; font-size:12px;color:#666;">取消回复</a></td>
+
+</tr>
+
+</table>
+
+</form>
+
+</div>
+
+
+
+
+
+
+
+
+
+<br>
+
+</div>
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="8">
+
+<tr><td class="modbl" width="7">&nbsp;</td>
+
+<td class="modbc">&nbsp;</td>
+
+<td class="modbr" width="7">&nbsp;</td>
+
+</tr></table>
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+<br><center><div id="ft">&copy;2011 Baidu</div></center>
+
+
+</center>
+
+<ul id="blogCmtContentList" style="display:none;">
+
+</ul>
+
+<!--inc_getmsgnum.html-->
+
+<iframe id="submitiframe" name="submitiframe" src="/st/blank.html" style="display:none;"></iframe>
+
+
+
+
+
+
+
+			
+
+
+
+
+
+	
+	
+<link rel="stylesheet" type="text/css" href="/ui/css/userset.css" />
+<link rel="stylesheet" type="text/css" href="/ui/css/beautify/widget.css" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html> 
+</div>
+
+
+

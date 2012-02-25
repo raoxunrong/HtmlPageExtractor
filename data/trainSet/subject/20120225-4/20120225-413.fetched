@@ -1,0 +1,192 @@
+<html><head><title>使用User-Agent伪造浏览器_这个社会只认钱，有钱就有一切！_百度空间</title><meta http-equiv=content-type content="text/html; charset=GBK"><link rel=alternate type="application/rss+xml" title="订阅该空间的博客文章" href="http://hi.baidu.com/evilrapper/rss"><style type="text/css">.error{color:#F00;font-size:12px}.shareUser,.shareLastEditor{line-height:20px;color:#666;text-align:left}.shareLastEditor{margin:5px 0 8px}</style><script>
+	    var g_pageTimerStart=new Date().getTime();
+	</script><script src="http://hi.bdimg.com/static/cblog/js/other/global.js?v=009301b8.js"></script><script src="http://hi.bdimg.com/static/cblog/js/other/libs.js?v=48b209f9.js"></script><script src="http://img.baidu.com/js/tangram-1.1.0.js?v=1328860190.js"></script><script>
+var Session = {
+    isLogin: !true,
+    isHost: 0,
+    loginStatus : 0,
+    userName: "evilrapper",   
+    userPortrait:'7cc66576696c726170706572df03',
+    spaceURL: "\/evilrapper",
+    spBasicURL:"http:\/\/hi.baidu.com\/evilrapper",
+    spBasicURLEnc:"http%3A%2F%2Fhi.baidu.com%2Fevilrapper",
+    visitorName:    "",
+    visitorPortrait:'00000000',
+    isActive: '0',   /*{cmt 访问者是否激活空间}*/
+    visitorURL: "\/",        // 
+    pageURL: "http://hi.baidu.com\/evilrapper\/blog\/item\/77d9481f689c9eefe1fe0b6c.html",    
+    refer: "",
+    spToken: 'the fisrt two args should be string type:0,1!', 
+    spFriendDomain: 'http://frd.baidu.com',
+    spSpaceDomain: 'http://hi.baidu.com',
+    spPortraitDomain: 'http://tx.bdimg.com',
+    spSpaceStaticDomain: 'http://hi.bdimg.com', /*{cmt TODO RD似乎还不有提供这个变量，记得补成呀！}*/
+    spImgDomain : 'http://img.baidu.com',
+    spStaticDomain : 'http://hi.bdimg.com',
+
+    isDrag: false  /*{cmt 是否在拖动页：是为了通用，只对模块内容有作用，这里也作为一个通用属性}*/
+    ,isProfile: false   /*{cmt 是否在拖动页：是为了通用，只对模块内容有作用，这里也作为一个通用属性}*/
+    ,isPortraitVerify:!true
+    };
+</script></head><body> <script>
+/*<![CDATA[*/
+if(top.location != self.location){
+	top.location = self.location;
+}
+var myref = encodeURIComponent("http://hi.baidu.com\/evilrapper\/blog\/item\/77d9481f689c9eefe1fe0b6c.html");
+/*]]>*/
+</script><!--[if (lt IE 8.0)]><link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/cblog/css/ui/mods.css?v=774e31a7.css"><![endif]--><!--[if (!IE)|(gte IE 8.0)]><!--><link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/cblog/css/ui/mods_datauri.css?v=a1661a70.css"><!--<![endif]--><link rel=stylesheet type=text/css href="http://hitn.bdimg.com/2402050202/css/item/fd203282c122b090f603a639.css"><!--[if (lt IE 8.0)]><link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/cblog/css/space.css?v=064245dc.css"><![endif]--><!--[if (!IE)|(gte IE 8.0)]><!--><link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/cblog/css/space_datauri.css?v=ed619cc4.css"><!--<![endif]--><div class=userbar><center> <div id=nav><a class=logo href=http://hi.baidu.com/index.htm><img src=http://img.baidu.com/hi/logo/logo_93_30.gif border=0 alt="百度空间"></a><div class="manage no-login"><form action="https://passport.baidu.com/?login" method=post>用户名:<input name=username>&nbsp;&nbsp; 密码:<input type=password name=password> <input type=hidden name=mem_pass value=on><input type=submit value="" style="width:0; height:0;"><a href="#" class=loginlink onclick="this.parentNode.submit(); return false;">登录</a> </form> <a href=/reg/new class=reglink>注册</a></div> </div></center></div><script src="http://hi.bdimg.com/static/base/js/conf/base.js?v=1328860190.js"></script><link rel=stylesheet type=text/css href="http://hi.bdimg.com/static/base/css/base.css?v=1328860190.css"><script language=javascript>
+window.qetc = window.qetc || {};
+qetc.Context = {domain : "http://hi.baidu.com",
+    portrait : "00000000",
+    spToken : "the fisrt two args should be string type:0,1!",
+    isHost : false};
+</script><script src="http://hi.bdimg.com/static/common/scripts/qing_entrance.js?v=b2de8ed2.js"></script><script language=javascript src="http://hi.bdimg.com/static/cblog/js/ui/dialog.js?v=f1d92f7b.js"></script><center><div id=main align=left><!--[if IE]><script>
+var objmain = document.getElementById("main");
+function updatesize(){ var bodyw = window.document.body.offsetWidth; if(bodyw <= 790) objmain.style.width="772px"; else if(bodyw >= 1016) objmain.style.width="996px"; else objmain.style.width="100%"; }
+updatesize(); window.onresize = updatesize;
+</script><![endif]--><div id=header><div class=lc><div class=rc></div></div><div class=tit><a href="/evilrapper" class=titlink title="evilrapper的空间 http://hi.baidu.com/evilrapper">这个社会只认钱，有钱就有一切！</a></div><div class=desc>看我不爽的给我TM滚，操</div><div id=tabline>&nbsp;</div><div id=tab><a href="http://hi.baidu.com/evilrapper/home">主页</a><a href="http://hi.baidu.com/evilrapper/blog" class=on>博客</a><a href="http://hi.baidu.com/evilrapper/album">相册</a><span>|</span><a href="http://hi.baidu.com/evilrapper/profile">个人档案</a><span>|</span><a href="http://hi.baidu.com/evilrapper/friends">好友</a><span>|</span><a href="http://tieba.baidu.com/i/sys/jump?un=evilrapper&fr=spacebar" onclick="BdUtil.ns_trackerLink('m_20110330_spacebar','')" target=_blank>i贴吧</a></div></div><div class=stage><div class=stagepad><div style="width:100%"><table width="100%" border=0 cellspacing=0 cellpadding=0 class=modth><tr><td class=modtl width=7>&nbsp;<td class=modtc nowrap><div class=modhead><span class=modtit>查看文章</span></div><td class=modtc nowrap align=right><td class=modtr width=7>&nbsp;</table><div id=m_blog class=modbox style="overflow-x:hidden;"><div class=tit>使用User-Agent伪造浏览器</div><div class=date>2011-07-30 19:23</div><table style="table-layout:fixed;width:100%"><tr><td><div id=blog_text class=cnt><p>关于User-Agent，在此不多说，假定您已经熟悉http协议尤其是User-Agent，如果需要了解更多，请查看以下<br><br>
+User-agent 字串(客户端操作系统浏览器识别)<br><br>
+更多User-Agent资料<br><br>
+常见的浏览器伪造User-agent方法<br><br>
+IE浏览器修改User-agent，修改注册表<br><br>
+User-Agent在注册表的位置<br>
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet 
+Settings\User-Agent\Post Platform] 下，新建字符串值，内容留空，名字为你想在 User-Agent 
+中加入的字符，这里以 “motorolarokre2″为例。修改注册表对应的 REG 文件如下：<br>
+Windows Registry Editor Version 5.00<br><br>
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\User-Agent\Post Platform]<br>
+“motorolarokre2″=”"<br><br>
+修改后重启IE浏览器即可。<br><br>
+IE的user-agent取值，下面是下列地址的组合+一些默认值<br>
+HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\User-Agent\Post Platform<br>
+HKLM\Software\Microsoft\Windows\CurrentVersion\Internet Settings\User-Agent\Post Platform<br>
+HKLM\Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\User-Agent\Post Platform<br><br>
+IE8的User-Agents：<br><br>
+IE8 on Windows Vista (兼容浏览)<br>
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)<br><br>
+IE8 on Windows Vista<br>
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)<br><br>
+IE8 on Windows 7<br>
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)<br><br>
+64-bit IE on 64-bit Windows 7:<br>
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0)<br><br>
+32-bit IE on 64-bit Windows 7:<br>
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0)<br><br>
+FireFox修改User-agent<br><br>
+方法1：<br><br>
+在地址栏输入“about:config”，按下回车进入设置菜单。<br>
+找到“general.useragent.override”，如果没有这一项，则点右键“新建”-&gt;“字符串”，输入这个字符串。<br>
+将其值设为自己想要的UserAgent。<br>
+方法2：<br><br>
+安装插件：User Agent Switcher<br><br>
+Opera修改User-agent<br><br>
+方法1：<br>
+1.工具栏“Tools”-&gt;“Preferences”-&gt;“Content”-&gt;“Advenced”，点击“Manage Site Preferences”按钮。<br>
+2.点击“Add”按钮，在弹出的窗口中“Site”填入“*”，“Network”选项卡中选择浏览器ID。各选项如下：<br><br>
+0 Default<br>
+1 Opera<br>
+2 Mozilla, Opera detectable<br>
+3 Internet Explorer, Opera detectable<br>
+4 Mozilla, Opera hidden<br>
+5 Internet Explorer, Opera hidden<br><br>
+方法2：<br>
+1.在地址栏输入“opera:config”，回车打开。<br>
+2.找到“User Agent”点开，里面的“Spoof UserAgent ID”设置想要的值，范围1-5，具体对应的ID同上。<br><br>
+Maxthon(遨游)修改User-agent<br><br>
+工具栏“工具”-&gt;“遨游设置中心”-&gt;“高级选项”，勾选“自定义 UserAgent 字符串”，下面写上自己的UserAgent记可。保存设置后重启Maxthon生效。<br><br>
+Chrome修改User-agent<br><br>
+方法一：启动时加上参数：--user-agent="你自己的UserAgent"<br>
+方法二：修改chrome.dll。把里面疑似UserAgent的字符串改为自己的。<br>
+Safari修改User-agent<br><br>
+1.菜单栏“Edit”-&gt;“Preferences”-&gt;“Advanced”，勾选“Show Develop menu in menu bar”。<br>
+2.菜单栏会多出一项“Develop”，通过里面的“User Agent”子菜单即可设置自己的UserAgent。<br>
+iPhone修改User-agent<br><br>
+把/System/Library/Frameworks/WebKit.framework/WebKit 文件中的Mozilla/5.0替换成其他UA，字符数不要超过“Mozilla/5.0”的长度。<br><br>
+有用的参考资料<br><br>
+需要伪造User-Agent，必需首选要知道各种浏览器的User-anent是什么，才能伪造，有个网站专门收集无数种浏览器的User-anget，其中绝大多数浏览器可能都没听说过，笔者也是一样，实在太令人震精了。<br><br>
+就是这个网站 User Agent String.Com 首页地址<a href="http://www.useragentstring.com/" target="_blank">http://www.useragentstring.com/</a><br><br>
+可以直接访问这里，<a href="http://www.useragentstring.com/pages/useragentstring.php" target="_blank">http://www.useragentstring.com/pages/useragentstring.php</a></p></div></table><br><div class=opt id=blogOpt><a href="http://hi.baidu.com/evilrapper/blog/category/%C4%AC%C8%CF%B7%D6%C0%E0" title="查看该分类中所有文章">类别：默认分类</a><span class=x-blog-opt-sp>|</span><a href="#" onclick="addToShare(); return false;" target=_blank><img src=http://img.baidu.com/hi/apps/share/share_btn.gif border=0 align=absbottom></a><span class=x-blog-opt-sp>|</span><a title="将此文章添加到百度搜藏" href=http://cang.baidu.com/do/add onClick="return addToFavor();" target=_blank>添加到搜藏</a> <span class=x-blog-opt-sp>|</span><a title="将此文章分享到i贴吧" href="#" onclick="addToiTieba(); return false;" target=_blank>分享到i贴吧</a><span class=x-blog-opt-sp>|</span>浏览(<span id=result>145</span>)<span class=x-blog-opt-sp>|</span><a href="#send">评论</a>&nbsp;(<span id=blogCmtCount>0</span>)<script language=javascript>
+										/*<![CDATA[*/
+										var pre = [true,'mysql绕过注入过滤(英文版)', 'mysql绕过注入过滤(英文版)','\/evilrapper/blog/item/d3799d1fe1c562d2a7866906.html'];
+										var post = [true,'伪静态网站注入技术方法','伪静态网站注入技术方法', '\/evilrapper/blog/item/7a1204310b9387b25fdf0e22.html'];
+										if(pre[0] || post[0]){
+											document.write('<div style="height:5px;line-height:5px;">&nbsp;</div><div id="in_nav">');
+											if(pre[0]){
+												document.write('上一篇：<a href="' + pre[3] + '" title="' + pre[1] + '">' +  pre[2] + '</a>&nbsp;&nbsp;&nbsp;&nbsp;');
+											}
+											if(post[0]){
+												document.write('下一篇：<a href="' + post[3] + '" title="' + post[1] + '">' +  post[2] + '</a>');
+											}
+											document.write('</div>');
+										}
+										/*]]>*/
+									</script></div><div class=line>&nbsp;</div><style type="text/css">#in_related_doc a{text-decoration:none}</style><div id=in_related_tmp></div><div id=in_reader> <div class=tit>最近读者：</div></div><div class=line>&nbsp;</div><div id=in_comment> <a name=comment></a> <div class=tit>网友评论：</div> <span id=userCommentList></span> <div id=page></div></div><form action='/evilrapper/commit' id=blogCmtSubmitForm name=blogCmtSubmitForm method=post> <input type=hidden name=bdstoken value='the fisrt two args should be string type:0,1!'> <input type=hidden name=ct value=8> <input type=hidden name=cm value=2> <input type=hidden name=spBlogID value='77d9481f689c9eefe1fe0b6c'> <input type=hidden name=spBlogCmtID value=''> <input type=hidden name=spRefURL value=''></form><div id=in_send><a name=send></a><form name=form1 id=popFormSubmit action="/evilrapper/commit" method=post onSubmit="return checkcmtform()"><input type=hidden name=bdstoken value="the fisrt two args should be string type:0,1!"><input type=hidden name=ct value=8><input type=hidden name=cm value=1><input type=hidden name=spBlogID value="77d9481f689c9eefe1fe0b6c"><input type=hidden name=spRefURL id=spRefURL><script>
+										    document.getElementById("spRefURL").value = window.location.href;
+										</script><div class=tit>发表评论：</div><table width=620 border=0 cellspacing=5 cellpadding=0><tr><td class=f14>姓　名：<td><input name=spBlogCmtor id=spBlogCmtor style=width:220px tabindex=1 onChange="checkname('spBlogCmtor')" maxlength=49 onFocus="hidErr(1);"><script>
+                                                            document.write(" &nbsp;&nbsp; <a href='http://hi.baidu.com/st/reg.html' target='_blank'>注册</a>");
+                                                            document.write(' | <a href="https://passport.baidu.com/?login&tpl=sp&tpl_reg=sp&u='+myref+'" onclick="BdUtil.relogin(); return false;">登录</a>');
+														</script><div style=display:none id=nmerror>*姓名最长为50字节</div><tr id=1_err style=display:none><td>&nbsp;<td><div class=error id=1_err_con></div><tr><td class=f14>网址或邮箱：<td><input name=spBlogCmtURL id=spBlogCmtURL style=width:360px maxlength=128 tabindex=2 onChange="checkeandu('spBlogCmtURL')" onFocus="hidErr(2);"> (选填)<script>
+														G("spBlogCmtor").value="";
+														G("spBlogCmtURL").value="";
+													</script><tr id=2_err style=display:none><td>&nbsp;<td><div class=error id=2_err_con></div><tr><td valign=top class=f14 id=reTitle>内　容：<td><textarea name="spBlogCmtText" id="spBlogCmtText" style="width:520px;height:155px"  tabindex="3" onFocus="hidErr(3);" onclick="BdUtil.relogin(); return false;" ></textarea><tr id=3_err style=display:none><td>&nbsp;<td><div class=error id=3_err_con></div><tr><td valign=top class=f14>&nbsp;<td valign=top class=f14><input id=btn_ok name=btn_ok type=submit autocomplete=off onclick="BdUtil.relogin(); return false;" value="发表评论" tabindex=5>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" id=cancleReLink onClick="canclereply(); return false;" style="display:none; font-size:12px;color:#666;">取消回复</a></table></form></div><br></div><table width="100%" border=0 cellspacing=0 cellpadding=0 height=8><tr><td class=modbl width=7>&nbsp;<td class=modbc>&nbsp;<td class=modbr width=7>&nbsp;</table></div></div></div></div><div class=clearfix></div><div style="text-align:center;margin:30px auto 15px;font-family:Arial,simsun;font-size:12px;"><div style="margin:0 auto 6px;"><a href=http://help.baidu.com/question?prod_en=space target=_blank style="color:#00C;">帮助中心</a><span>&nbsp;|&nbsp;</span><a href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%BF%D5%BC%E4&fr=wwwt" target=_blank style="color:#00C;">空间客服</a><span>&nbsp;|&nbsp;</span><a href=http://tousu.baidu.com/hi/ target=_blank style="color:#00C;">投诉中心</a><span>&nbsp;|&nbsp;</span><a href=http://www.baidu.com/search/hi_contract.html target=_blank style="color:#00C;">空间协议</a></div><div style="color:#7A77C8;">&copy;2012&nbsp;Baidu</div></div></center><ul id=blogCmtContentList style="display:none;"></ul><script>	var g_blogTitle = '使用User-Agent伪造浏览器';
+		var g_blogId = '77d9481f689c9eefe1fe0b6c';
+		var g_isAllowCmt =  true ;
+		var g_isByShared =  false ;
+		var g_isAddRelate =  true ;
+		var g_latestReader = [
+									["http:\/\/hi.baidu.com\/sdnjyjm","65fe73646e6a796a6d7f00","sdnjyjm"],
+									["http:\/\/hi.baidu.com\/589cn","1de2686e7967686a6b6c0e01","hnyghjkl"],
+									["http:\/\/hi.baidu.com\/shuyanlong","a31573687579616e6c6f6e676404","shuyanlong"],
+									["http:\/\/hi.baidu.com\/nanninggongzuo","b8b06e616e6e696e67676f6e677a756ff01d","nanninggongzuo"],
+									["http:\/\/hi.baidu.com\/远离杂念","0a5fd4b6c0ebd4d3c4eebe04","远离杂念"],
+									["http:\/\/hi.baidu.com\/zfb25","3cc47a666232355e02","zfb25"],
+									["http:\/\/hi.baidu.com\/mingdaibing","4147c3f7f7ecb1f9e103","明黛冰"],
+								{}
+			];
+	</script><iframe id=submitiframe name=submitiframe src="http://hi.bdimg.com/static/cblog/html/blank.html?v=20111213" style="display:none;"></iframe><script src="http://hi.bdimg.com/static/base/js/conf/comment.js?v=1328860190.js"></script><script src="http://hi.bdimg.com/static/cblog/js/job/detailpage.js?v=ee7931cf.js"></script><script>
+/*<![CDATA[*/
+/*{cmt
+    这个相当一个代理器  
+  在这里想实现一种这种加载效果：加载时注册（用一个 初始化数据.数组 记录要绑定的ID），文档ready后，按需加载js+css资源，js加载完，就初始化据执行
+
+  有个问题，有些结构是 动态 执行这个绑定的，可能会发生资源还没有加载的情况。可以考虑给初始化数据，加一个标志位，说明加载完未，如果未，则把数据push到 初始化数据中(因为是用 dom.onxxx 的方式，所以不怕多次对同一个ID执行的问题)
+
+
+  }*/
+var SP = SP || {};
+if(!SP.mycard){
+    SP.mycard = new (function(){
+        var me = this;
+        var _cancleAction = Session.isDrag;  /*{cmt 标记在特殊情况下，所有的注册都被abort 如拖动页面}*/
+        var _list = [];
+        var _sourceLoaded = false;    /*{cmt 这里用了一种资源加载结束后，回调的机制，这个标志资源是否加载结束}*/
+        me.bind = function (_id){
+            if(_cancleAction){  //abort
+                return;
+            }
+            if(!_sourceLoaded){
+                _list.push(_id);
+            } else {
+                baidu.space.mycard.bind(_id);
+            }
+        }
+        me.init = function (_config){
+            _cancleAction = !!_config.cancle;
+        }
+        me.onSourceLoaded = function (){
+            _sourceLoaded = true;
+            baidu.space.mycard.init({portrait: Session.visitorPortrait});
+            for(var i=0,len=_list.length; i<len; i++){
+                baidu.space.mycard.bind(_list[i]);
+            }
+        }
+    })();
+    baidu.dom.ready(function(){
+        BdAjax.loadCSS('http://hi.bdimg.com/static/cblog/css/ui/ucard/ucard.css?v=50de96ca.css');
+        BdAjax.loadJS('http://hi.bdimg.com/static/cblog/js/ui/ucard/ucard.js?v=1f432cbf.js');
+    });
+}
+SP.mycard.bind('m_blog');  /*{cmt 只有文档加载完才真正绑定，这里只是append记录 }*/
+/*]]>*/
+</script>

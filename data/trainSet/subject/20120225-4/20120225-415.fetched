@@ -1,0 +1,1165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>陈永东_新浪博客</title>
+<meta name="keywords" content="陈永东_新浪博客,陈永东,京东商城,电子商务,资金链,断裂,风险,刘强东,陈永东,it,app刷排名,罪恶,诚信,秩序,陈永东,海底捞,视频聚餐,秘密,华为,餐馆信息化,陈永东,it,facebook上市,人人网,开心网,微博,腾讯,陈永东,it,阿里巴巴,马云,收购,天宇,手机,陈永东,it,微博,搜索,营销,策略,陈永东,it,2012年,央视,春晚,创意,陈永东,it,智能手机,厚度,超薄手机,苹果,华为,陈永东,it,2011,中国,互联网,cnnic,点评,陈永东,it,电子商务,淘宝商城,天猫,更名,理由,陈永东,it" />
+<meta name="description" content="陈永东_新浪博客,陈永东,京东须谨防资金链断裂的危险,揭露App刷排名的九宗罪,成就海底捞“视频聚餐”的幕后秘密,举头望Facebook，低头思国内同行,马云连家手机公司都收购不了？,微博搜索营销策略探讨,2012年央视春晚十大创意回顾,智能手机厚度究竟可以怎样薄？,30句话点评2011中国互联网,淘宝商城更名为“天猫”的十大理由" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<!–[if lte IE 6]>
+<script type="text/javascript">
+try{
+document.execCommand("BackgroundImageCache", false, true);
+}catch(e){}
+</script>
+<![endif]–>
+<script type="text/javascript">
+window.staticTime=new Date().getTime();
+
+var locInterval = setInterval(function(){
+var tc = document.getElementById('trayContainer');
+if(tc) {
+var isLogin = false;var sup = document.cookie.match(/sup=([^;]+);/gi);if(sup != null){ sup = decodeURIComponent(sup[0]);var uid = sup.match(/uid=([^&]+)/gi); isLogin = (uid != null); } if (isLogin){ tc.innerHTML = '<div class="topbar_loading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div>'; } else { tc.innerHTML = '<div class="topbar_menu"><span class="link"><a href="http://blog.sina.com.cn" target="_blank">博客首页</a></span><span class="line_s"></span></div><div class="topbar_login"><a href="#" class="login" id="linkTrayLogin" onclick="return false;">登录</a><a href="http://login.sina.com.cn/signup/signupmail.php?entry=blog&r=&srcuid=&src=blogicp" class="register" target="_blank" id="linkReg">注册</a></div><div class="topbar_ad" id="divPopularize"></div><div id="phprender" ></div>';}
+clearInterval(locInterval);
+locInterval = null;
+}
+},50);
+
+</script>
+<link rel="pingback" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://upload.move.blog.sina.com.cn/blog_rebuild/blog/xmlrpc.php?rsd" />
+<link href="http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest" />
+<link rel="alternate" type="application/rss+xml" href="http://blog.sina.com.cn/rss/1411111864.xml" title="RSS" />
+<link href="http://simg.sinajs.cn/blog7style/css/conf/blog/index.css" type="text/css" rel="stylesheet" /><style id="tplstyle" type="text/css">@charset "utf-8";@import url("http://simg.sinajs.cn/blog7newtpl/css/1/1_1/t.css");
+</style>
+<style id="positionstyle"  type="text/css">
+.sinabloghead .blogtoparea{ left:100px;top:40%;}
+.sinabloghead .blognav{ left:82px;top:65%;}
+</style>
+<style id="bgtyle"  type="text/css">
+</style>
+<style id="headtyle"  type="text/css">
+</style>
+<style id="navtyle"  type="text/css">
+</style>
+</head>
+<body>
+<!--$sinatopbar-->
+<div style="z-index:512;" class="sinatopbar">
+			<div class="topbar_main">
+				<a id="login_bar_logo_link_350" href="http://blog.sina.com.cn" target="_blank"><img class="topbar_logo" src="http://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif" width="100" alt="新浪博客"/></a>
+
+				<div id="trayContainer" style="float:left">
+								</div>
+				<div class="topbar_floatR">
+					<span class="tb_wrtBlog">
+						<a target="_blank" href="http://control.blog.sina.com.cn/admin/article/article_add.php"><img class="SG_icon SG_icon15" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" title="博文" align="absmiddle"/>	发博文</a>
+
+						<span id="arrowAddArticle" class="wrtblog_arrow"></span>
+					</span>
+					<div class="topbar_search">
+						<form action="" target="_blank" method="get" id="loginBarSearchForm">
+							<div class="topbar_input">
+								<input id="loginBarSearchInput" name="k" class="topbar_txt" type="text" value=""/>
+							</div>
+							<div id="searchSelect" class="topbar_list">
+								<div id="loginBarSearchMenuLabel" class="anainp">博文</div>
+
+								<div class="arrow"></div>
+							</div>
+							<input type="submit" class="topbar_searchBtn" value="搜索"/>
+							<input type="hidden" id="ie" value="utf-8" name="ie"/>
+							<input type="hidden" id="loginBarSearchT" value="" name="t"/>
+							<input type="hidden" id="loginBarSearchTS" value="" name="ts"/>
+							<input type="hidden" id="loginBarSearchS" value="" name="s"/>
+							<input type="hidden" id="loginBarSearchType" value="" name="type"/>
+							<input type="hidden" id="loginBarSearchSType" value="" name="stype"/>
+
+							<input type="hidden" id="e" value="utf-8" name="e"/>
+						</form>
+					</div>
+					
+				</div>
+			</div>
+			<div style="position:absolute;left:0;top:0;" id="trayFlashConnetion"></div>
+		</div>
+		
+<!--$end sinatopbar-->
+
+
+<div class="sinabloga" id="sinabloga">
+	<div id="sinablogb" class="sinablogb">
+
+	       
+ <div id="sinablogHead" class="sinabloghead">
+    <div style="display: none;" id="headflash" class="headflash"></div>
+   <div id="headarea" class="headarea">
+      <div id="blogTitle" class="blogtoparea">
+      <h1 id="blogname" class="blogtitle"><a href="http://blog.sina.com.cn/chenyongdong"><span id="blognamespan">陈永东的博客</span></a></h1>
+      <div id="bloglink" class="bloglink"><a href="http://blog.sina.com.cn/chenyongdong">http://blog.sina.com.cn/chenyongdong</a>  <a onclick="return false;" class="CP_a_fuc" href="#" id="SubscribeNewRss">[<cite>订阅</cite>]</a><a class="CP_a_fuc" href="javascript:void(scope.pa_add.add('1411111864'));">[<cite>手机订阅</cite>]</a></div>
+      </div>
+      <div class="blognav" id="blognav">
+      			  <div id="blognavBg" class="blognavBg"></div> <div class="blognavInfo"> 
+		<span><a  class="on" href="http://blog.sina.com.cn/chenyongdong">首页</a></span>
+      <span><a  href="http://blog.sina.com.cn/s/articlelist_1411111864_0_1.html">博文目录</a></span>
+      <span><a href="http://photo.blog.sina.com.cn/chenyongdong">图片</a></span>
+      <span class="last"><a  href="http://blog.sina.com.cn/s/profile_1411111864.html">关于我</a></span></div>
+      </div>
+      		      		 	
+      
+             <div class="autoskin" id="auto_skin">
+       </div>
+
+<div class="adsarea">
+     <a href="#"><div id="template_clone_pic" class="pic"></div></a>
+     <div id="template_clone_link" class="link wdc_HInf"></div>
+     <div id="template_clone_other" class="other"></div>        
+</div>
+    </div>
+    	    	    </div>    
+    <!--主题内容开始 -->
+    <div class="sinablogbody" id="sinablogbody">
+		
+	<!--第一列start-->
+    <div id="column_1" class="SG_colW21 SG_colFirst"><div class="SG_conn" id="module_901">
+    <div class="SG_connHead">
+            <span class="title" comp_title="个人资料">个人资料</span>
+            <span class="edit">
+                        </span>
+    </div>
+    <div class="SG_connBody">
+        <div class="info">
+            		        
+			<div class="info_img" id="comp_901_head"><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://portrait1.sinaimg.cn/1411111864/blog/180" id="comp_901_head_image" width="180" height="180" alt="陈永东" title="陈永东" /></div>
+			
+       	    <div class="info_txt">
+		      <div class="info_nm">
+		        <img id="comp_901_online_icon" style="display:none;" class="SG_icon SG_icon1" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />
+		        <span class="SG_txtb"><strong id="ownernick">陈永东</strong></span>
+		        
+                <div class="clearit"></div>
+              </div>
+		      <div class="info_btn1">
+			  <!--user['qing_url'] -->
+		        <a target="_blank" href="http://qing.weibo.com/discovery.html" onclick="v7sendLog && v7sendLog('79_01_01',scope.$pageid,'qingLink');"  class="SG_aBtn SG_aBtn_ico"><cite><img class="SG_icon SG_icon205" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />Qing</cite></a>
+		        <a target="_blank" href="http://weibo.com/u/1411111864?source=blog" class="SG_aBtn SG_aBtn_ico"><cite><img class="SG_icon SG_icon51" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />微博</cite></a>
+		        <div class="clearit"></div>
+		      </div>
+	<div class="SG_j_linedot"></div>		<div class="info_locate" id = "info_locate_id">
+<div class="SG_j_linedot"></div>
+<div class="info_btn2">
+	<p>
+	<a href="javascript:void(0);" class="SG_aBtn " id="comp901_btn_invite"><cite >加好友</cite></a>
+	<a href="javascript:void(0);" class="SG_aBtn" id="comp901_btn_sendpaper"><cite >发纸条</cite></a>
+	</p>
+	<p>
+	<a href="http://blog.sina.com.cn/s/profile_1411111864.html#write" class="SG_aBtn"   id="comp901_btn_msninfo"><cite>写留言</cite></a>
+	<a href="#" onclick="return false;" class="SG_aBtn"  id="comp901_btn_follow"><cite onclick="Module.SeeState.add()">加关注</cite></a>
+	</p>
+	<div class="clearit"></div>
+</div>
+<div class="SG_j_linedot"></div>
+</div>
+			      <div class="info_list">	  
+			   					<ul class="info_list1">
+					<li><span class="SG_txtc">博客等级：</span><span id="comp_901_grade"><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/2.gif"  /><img src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src="http://simg.sinajs.cn/blog7style/images/common/number/1.gif"  /></span></li>
+					<li><span class="SG_txtc">博客积分：</span><span id="comp_901_score"><strong>2856</strong></span></li>
+					</ul>
+					<ul class="info_list2">
+					<li><span class="SG_txtc">博客访问：</span><span id="comp_901_pv"><strong>2,718,286</strong></span></li>
+					<li><span class="SG_txtc">关注人气：</span><span id="comp_901_attention"><strong>15,335</strong></span></li>
+					</ul>
+		</div>
+<div class="clearit"></div>
+	</div>
+	<div class="clearit"></div>
+</div>
+            </div>       
+            <div class="SG_connFoot"></div>
+</div>
+<div class="SG_conn" id="module_1010">
+            <div class="SG_connHead">
+            <span class="title" comp_title="公告">公告</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><DIV><FONT COLOR="#660099"><FONT COLOR="#FF0000">个人写照</FONT>：</FONT></DIV><DIV><FONT COLOR="#660099">“陈”坛“老九”，文溢香醇。</FONT></DIV><DIV><FONT COLOR="#660099">“永”字“八法”，书如其人。</FONT></DIV><DIV><FONT COLOR="#660099">“东”方“明珠”，居于申城。</FONT></DIV><DIV>&nbsp;<wbr></DIV><DIV><FONT COLOR="#FF0000">本博入选<STRONG>2008年度十大IT博客</STRONG></FONT></DIV><DIV><A HREF="http://tech.sina.com.cn/i/2009-01-21/10102769477.shtml">http://tech.sina.com.cn/i/2009-01-21/10102769477.shtml</A></DIV><DIV>&nbsp;<wbr></DIV><DIV><FONT COLOR="#FF0000">博主入选<STRONG>首届博客大赛60强</STRONG></FONT></DIV><DIV><A HREF="http://www.wangminjie.cn/listnews/n214610185.shtml">http://www.wangminjie.cn/listnews/n214610185.shtml</A></DIV><DIV>&nbsp;<wbr></DIV><DIV><FONT COLOR="#660099"><FONT COLOR="#FF0000">简介</FONT>：国内信息管理、电子商务与新媒体创意与营销研究领域学者、副教授、商业经营师。全国高职高专师资培训基地客座教授。拥有中南大学理学学士、上海交通大学软件工程硕士学位。</FONT><FONT COLOR="#FF0000">主要领域：IT+</FONT><FONT COLOR="#FF0000">电子商务+新媒体</FONT><FONT COLOR="#FF0000">创意。</FONT></DIV><DIV>&nbsp;<wbr></DIV><DIV><A HREF="http://t.sina.com.cn/chenyongdong"><FONT COLOR="#000000">进入我的微博</FONT></A>&nbsp;<wbr><A HREF="http://cyd888.epuber.cn/"><FONT COLOR="#000000">我的epuber.cn</FONT></A></DIV><DIV>&nbsp;<wbr></DIV><DIV><FONT COLOR="#FF0000">郑重声明</FONT><FONT COLOR="#000000">：</FONT>本博客文章除注明出处或转载外，均为作者原创，未经作者同意不得随意转载或抄袭。</DIV><DIV>&nbsp;<wbr></DIV><DIV><FONT COLOR="#FF0000">联系邮箱</FONT>：<A HREF="mailto:cyd888@sina.com"><FONT COLOR="#0000FF">cyd888@sina.com</FONT></A></DIV><DIV>MSN:<A HREF="mailto:yongdong_chen@hotmail.com">yongdong_chen@hotmail.com</A>&nbsp;<wbr></DIV></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div id="module_3" class="SG_conn">
+  <div class="SG_connHead">
+  <span comp_title="分类" class="title">分类</span>
+  <span class="edit">
+	   </span> 
+  </div>
+  <div class="SG_connBody">
+  		<div class="classList">
+		<ul>
+		<li class="SG_dot"><a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_0_1.html">全部博文</a><em class="count SG_txtb">(1264)</em></li>
+		<li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_3_1.html"  target="_blank">IT、互联网与手机</a><em>(465)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_4_1.html"  target="_blank">电子商务与网络营销</a><em>(206)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_10_1.html"  target="_blank">新媒体与创意经济</a><em>(378)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_9_1.html"  target="_blank">永东答疑</a><em>(12)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_1_1.html"  target="_blank">永东日记</a><em>(88)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_2_1.html"  target="_blank">永东教育</a><em>(51)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_5_1.html"  target="_blank">永东书法</a><em>(7)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_6_1.html"  target="_blank">永东音乐</a><em>(11)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_8_1.html"  target="_blank">永东相册</a><em>(7)</em></li><li class="SG_dot"><a href="http://blog.sina.com.cn/s/articlelist_1411111864_7_1.html"  target="_blank">我的学习生涯</a><em>(13)</em></li>		 </ul>
+		</div>
+     </div>
+  <div class="SG_connFoot"></div>
+</div>
+<div class="SG_conn" id="module_1001">
+            <div class="SG_connHead">
+            <span class="title" comp_title="友情链接">友情链接</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://163cyd.blog.163.com" target="_blank">网易上陈永东的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://cydsohu.blog.sohu.com" target="_blank">搜狐上陈永东的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://chenyongdong.home.news.cn/blog/" target="_blank">新华网陈永东的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://wireless.people.com.cn/GB/113348/116976/150644/index.html" target="_blank">人民网陈永东专栏</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.cctime.com/index.php/73208/" target="_blank">飞象网陈永东的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.ifeng.com/2446906.html" target="_blank">凤凰网陈永东的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://column.iresearch.cn/u/chenyongdong/index.shtml" target="_blank">艾瑞网陈永东专栏</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.caijing.com.cn/chenyongdong" target="_blank">财经网陈永东的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.zol.com.cn/cyd888/" target="_blank">ZOL上的陈永东博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.chinabyte.com/u/74610/" target="_blank">Chinabyte陈永东博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://club.eguan.cn/?6922" target="_blank">易观国专栏观察家</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://www.chinavalue.net/250269/Home.aspx" target="_blank">价值中国网陈永东专栏</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://www.ifengwo.com/member/index.php?uid=cyd" target="_blank">爱蜂窝陈永东的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://labs.chinamobile.com/community/my_blog/59354" target="_blank">移动Labs陈永东博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://cyd.blog.techweb.com.cn/" target="_blank">TechWeb陈永东的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/voiceofsta" target="_blank">上戏青年之声</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://q.blog.sina.com.cn/newmediaq" target="_blank">＝新媒体创意圈＝</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://q.blog.sina.com.cn/ecquan" target="_blank">＝电子商务评论圈＝</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://q.blog.sina.com.cn/stablog" target="_blank">＝上戏博客圈＝</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://hanshengarts.blog.163.com/" target="_blank">韩生的舞台艺术空间</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/zgliu000" target="_blank">慈眉包主zgliu</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/hanshengsta" target="_blank">韩生的舞台艺术2</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://www.56hui.com" target="_blank">物流汇</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://www.litanwei.com/" target="_blank">李谭伟(念宏)的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/shian" target="_blank">营销人石安</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/xuelang" target="_blank">火凤凰菩提</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/yuqiuyu" target="_blank">余秋雨教授兼大师</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/zhixin85" target="_blank">刘志新博士兼导演</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/liuxingliang" target="_blank">互联网实验室刘兴亮</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/xiangligang" target="_blank">飞象网CEO项立刚</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/city0518" target="_blank">新经济评论人陆建国</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/libingbing" target="_blank">李冰冰</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/shangxixinsheng" target="_blank">上戏心声</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/shanghailizhenlin" target="_blank">行者厉震林</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/otello" target="_blank">导演鬼才赵武</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/huzuo2003" target="_blank">胡佐－兰亭古墨</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/niaoerzhaozhao" target="_blank">鸟儿啁啁的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/lf_1999" target="_blank">威客网CEO刘锋</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://chendufeng365.blog.sohu.com/" target="_blank">智客网CEO陈渡风</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://gpdzzgp.blog.sohu.com/" target="_blank">兰州信息港赵国平</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://163gyz.blog.163.com" target="_blank">文竹开花</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/chengantian" target="_blank">竹笋田园</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/hrr" target="_blank">戎戎的娱乐梦工厂</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/1304506537" target="_blank">阿摸</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/cchenxiaopingg" target="_blank">Charlene陈晓萍</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/1267363922" target="_blank">李晶的戏曲博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/dinglijie" target="_blank">婕婕的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/midowangyan" target="_blank">&#729;嫣葒慾滴┊</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/kings55" target="_blank">風瀟瀟博士</a><p></p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1005">
+            <div class="SG_connHead">
+            <span class="title" comp_title="公开发表的文章">公开发表的文章</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw5w.html" target="_blank">微博搜索营销策略探讨</a><p>《软件工程师》2012年第1、2期合刊</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dure.html" target="_blank">LBS的商业模式</a><p>《网络传播》2011年11月P34</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot">数字出版内容平台发展趋势分析<p>《出版广角》（新闻类核心刊物）2011&nbsp;<wbr>年11月P10</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot">垂直类电商的体验营销设计<p>《销售与市场》（管理版）2011年11月</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot">影响微博营销效果的十大因素<p>《数字营销》（广告大观旗下）2011-9（试刊号）</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102du0i.html" target="_blank">传统媒体拿什么应对微博挑战？</a><p>《网络传播》2011年第10期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot">虚拟超市：现代都市购物新体验<p>《销售与市场》（管理版）2011年10月</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dtkq.html" target="_blank">开放的智能操作系统更适合中国</a><p>《软件工程师》2011年第9期P48</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dsgn.html" target="_blank">Yandex：俄罗斯的百度</a><p>《商界评论》2011年第7期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dsbc.html" target="_blank">“搜狐微博零估值”用意何在</a><p>《网络导报》2011-8-4第5版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dqyr.html" target="_blank">跨境监管拷问审计及上市公司良心</a><p>《网络导报》2011-7-14第4版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dqkk.html" target="_blank">网上卖药或是电商的蓝海</a><p>《网络导报》2010-7-7第5版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017mfk.html" target="_blank">中国手机电视台引发五大猜想</a><p>《人民邮电报》2011-7-6第4版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot">“冷静期”：网销市场的多重考验<p>《销售与市场》管理版2011-7</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017m8o.html" target="_blank">怎么能不为向网店征税忧心？</a><p>《网络导报》2011-6-30</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017m5e.html" target="_blank">诺基亚N9背后的三大隐患</a><p>《网络导报》2011-6-23第6版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017lkc.html" target="_blank">苹果能否成为“百年老店”不重要</a><p>《网络导报》2006-6-16</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017ld1.html" target="_blank">天边飘来苹果的云</a><p>《网络导报》2010-6-9</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017kyt.html" target="_blank">开放平台：这个场子好开吗？</a><p>《网络导报》2011-6-2第6版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017kq9.html" target="_blank">Android应用数量何时超苹果？</a><p>《网络导报》2011-5-26</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017kel.html" target="_blank">明星代言不能挽救团购颓势</a><p>《网络导报》2011-5-19</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017k9z.html" target="_blank">“二马”兄弟的华谊战略</a><p>《网络导报》2011-5-12第7版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100033x.html" target="_blank">微博成就史上最受关注的死讯</a><p>《网络导报》2011-5-5</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017gdr.html" target="_blank">诺基亚与微软合作的机遇与风险</a><p>《软件工程师》2011年第4期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017gcs.html" target="_blank">微博开放平台再开放些</a><p>《网络导报》2011-4-21第06版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017g3l.html" target="_blank">中国手机游戏市场短暂下滑不必慌张</a><p>《互联网天地》2011年第3期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017g8g.html" target="_blank">iPhone4套餐变化是换汤还是换药？</a><p>《网络导报》2011-4-14第5版</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot">网游市场缘何整体下滑？<p>《销售与市场》（管理版）2011年第4期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017f7t.html" target="_blank">平板电脑：给力的移动互联网终端</a><p>《科学画报》杂志2011年第2期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017eyk.html" target="_blank">新媒体产业前景分析</a><p>《新媒体时代》2011年第1、2期合刊</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017epx.html" target="_blank">2011年中国互联网十大预测</a><p>《软件工程师》2011年第1期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017csp.html" target="_blank">微博客营销的八大误区</a><p>《创意世界》2011第01期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017aeh.html" target="_blank">腾讯与360纷争：害人不利己</a><p>《软件工程师》2010年12期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100mlry.html" target="_blank">百度进军客户端软件与腾讯、360争当PC管家</a><p>《软件工程师》2010年第11期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100lwqq.html" target="_blank">福兮祸兮：百度进军手机操作系统</a><p>《软件工程师》2010年第10期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100lbm0.html" target="_blank">电子书阅读器如何在夹缝中求生存？</a><p>《互联网天地》2010年第9期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100l6ai.html" target="_blank">如何玩转微博客营销？</a><p>《创意世界》2010年第9期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100jyx3.html" target="_blank">世博场馆创意：成也投影，败也投影</a><p>《创意世界》2010年第7期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100julv.html" target="_blank">让新媒体在文化产品营销中发挥作用</a><p>《创意世界》2010年第7期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100hpb9.html" target="_blank">微博：“推”出来的游戏</a><p>《投资者报》2010-3-29</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100j7ep.html" target="_blank">物联网的切入点在哪里？</a><p>《软件工程师》2010年第7期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100jakk.html" target="_blank">互联网电视：牌照就是话语权</a><p>《数字移动时代》2010年6月</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100ie4p.html" target="_blank">当话剧可以网络直播之时</a><p>《创意世界》2010年05期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100id5t.html" target="_blank">盛大与CNTV双方合作的动力何在？</a><p>《软件工程师》2010年04期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://www.shbiz.com.cn/cms.php?prog=show&amp;tid=138608&amp;csort=1" target="_blank">门户网站也可留住搜索用户</a><p>《上海商报》2010年4月13日</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100h7fg.html" target="_blank">苹果iPad：创新显不足</a><p>《互联网天地》2010年第2期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100byji.html" target="_blank">有谁关注百姓对3G的期望？</a><p>《创新科技》2009年第2期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100b7jl.html" target="_blank">中国科技博客不容易</a><p>《创新科技》2009年第1期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009en2.html" target="_blank">国外对中国3G的发展存在误解</a><p>《科学之友》2009年第3期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100autw.html" target="_blank">新华书店网售能否撼动当当卓越？</a><p>《世界发明》（现为《创意世界》）杂志2008年10月</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100gz7c.html" target="_blank">手机厂商力推软件商店</a><p>《互联网天地》2010年第1期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100gwqe.html" target="_blank">2010年三大新型电视发展趋势展望</a><p>《数字移动时代》2010年1、2月合刊</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100gui3.html" target="_blank">新媒体时代，我们都是落后分子</a><p>《财智领袖》2010年第2期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://mag.cmmo.cn/article/2010/34694.shtml" target="_blank">网游业“联合运营”模式胜算几何</a><p>《销售与市场》2010年第2期（管理版）</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100gan1.html" target="_blank">山寨手机再现吸金陷阱</a><p>《互联网天地》2009年第12期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot">文科计算机基础引入数字交流新应用的必要性<p>《上海大学学报》（自然科学版）第15卷增刊1，2009年10月</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100ge28.html" target="_blank">“黑社会”言过其实了</a><p>《上海商报》2009年12月29日</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100g63y.html" target="_blank">青少年热衷网络游戏的背后</a><p>《上海商报》2009年12月8日</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100fsmo.html" target="_blank">哪个网络视频反盗版组织管用？</a><p>《数字移动时代》2009年第11期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100fys0.html" target="_blank">贵族化定价或将阻碍3G发展</a><p>《互联网天地》2009年第11期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100fzdt.html" target="_blank">从Facebook看SNS网站的发展方向</a><p>《传媒》杂志2009年第11期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100fs0j.html" target="_blank">新时代新电视的新气息</a><p>《数字移动时代》2009年第10期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100f5ag.html" target="_blank">当新华社杀入手机电视领域</a><p>《数字移动时代》2009年第10期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100fka9.html" target="_blank">网络视频正版化要言行一致</a><p>《互联网天地》2009年第10期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100f2xd.html" target="_blank">增值业务市场：3G运营商激战正酣</a><p>《互联网天地》2009年第9期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100f0b1.html" target="_blank">李开复：一个人转身或将改变一批人</a><p>《上海商报》2009年9月15日</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100eqly.html" target="_blank">山寨上网本出路何在？</a><p>《互联网天地》2009年第8期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100emr2.html" target="_blank">有没有“一切为了客户”？</a><p>《上海商报》2009年8月18日</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://d.wanfangdata.com.cn/Periodical_wxdsykddmt200916012.aspx" target="_blank">专家评论:直播星节目加密意欲何为?</a><p>《卫星电视与宽带多媒体》2009年第16期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100eksd.html" target="_blank">芯片制造行业并未走出寒冬</a><p>《上海商报》2009年8月11日</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100ekci.html" target="_blank">卫生部叫停电击法的深层原因</a><p>《上海商报》2009-08-04</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100eicn.html" target="_blank">谷歌Chrome操作系统：核弹还是烟幕弹？</a><p>《软件工程师》2009年第8期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100eg65.html" target="_blank">手机电视促使广电与电信的合作加深</a><p>《数字移动时代》2009年07期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100ed57.html" target="_blank">一条生命的悲哀</a><p>《上海商报》2009年7月28日</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100e6fj.html" target="_blank">虚拟货币新政的四大迷局</a><p>《上海商报》2009年7月14日</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100defi.html" target="_blank">英特尔垄断与否之命门何在？</a><p>《中国保险报》</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100e5ud.html" target="_blank">网店信用等级的信任危机</a><p>《互联网天地》2009年第6期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100dk1q.html" target="_blank">iPhone入华：好事多磨</a><p>《互联网天地》2009年第5期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100d48x.html" target="_blank">内容创新为SP复兴开路</a><p>《互联网天地》2009年第4期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100cp7x.html" target="_blank">CMMB手机电视商用从上海吹响走向全国的号角</a><p>《数字移动时代》2009年第3期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100cogh.html" target="_blank">小灵通退市仍应用户至上</a><p>《互联网天地》2009年第3期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot">各方必须关注百姓对3G的期望<p>《数字移动时代》2009年第2期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100cfsn.html" target="_blank">规范机身码剑指山寨手机</a><p>《互联网天地》2009年第2期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100c87i.html" target="_blank">诺基亚加盟TD从犹豫不决到迫不及待</a><p>《互联网天地》2009年01期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100aohn.html" target="_blank">移动奥运会</a><p>《互联网天地》2008年第8期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://engine.cqvip.com/content/citation.dll?id=12066292" target="_blank">面向物流的信息集成技术</a><p>《计算机工程》2004年第30卷第B12期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010095i2.html" target="_blank">为什么有些广告我们总是躲不开</a><p>《互联网天地》2008年第4期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010090jn.html" target="_blank">谁将受益于网上交易的规范？</a><p>《互联网天地》2008年第3期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008n9o.html" target="_blank">08年Google与金山会怎样合作</a><p>《互联网天地》2008年第2期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010008ft.html" target="_blank">计算机基础教学全过程贴近…</a><p>上海戏剧学院报</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010009hi.html" target="_blank">“客”显神通</a><p>《网络传播》2007年6期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010009t7.html" target="_blank">数字交流新模式中的知识产权…</a><p>《文化创意产业参考》2007年第5期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010008io.html" target="_blank">RFID技术在商业零售企业的…</a><p>《商场现代化》2007年4月（上旬刊）</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010007a7.html" target="_blank">“客”不容缓，“人”尽其才</a><p>《电子商务》2006年第12期</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000aef.html" target="_blank">电子商务中被普遍误解的八个…</a><p>《商场现代化》2007年8月上旬刊</p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100085w.html" target="_blank">Excel统计学生成绩时的四个…</a><p>天极网</p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1004">
+            <div class="SG_connHead">
+            <span class="title" comp_title="公开出版的著作">公开出版的著作</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100a6iu.html" target="_blank">《电子商务网站建设与维护实训》</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010006ze.html" target="_blank">《电子商务基础》（中国科技）</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010008y6.html" target="_blank">《网页动画设计与制作Flash》</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010009ax.html" target="_blank">《网站管理与维护》</a><p></p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1">
+            <div class="SG_connHead">
+            <span class="title" comp_title="评论">评论</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="wdtLoading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_17">
+            <div class="SG_connHead">
+            <span class="title" comp_title="好友">好友</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="wdtLoading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_12">
+            <div class="SG_connHead">
+            <span class="title" comp_title="访客">访客</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="wdtLoading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+</div>
+	<!--第一列end-->
+	
+	<!--第二列start-->
+	<div id="column_2" class="SG_colW51"><div id="module_10001" class="SG_conn">
+	<div class="SG_connHead">
+		<span comp_title="博文" class="title">博文</span>
+		<span class="edit">
+        		</span>
+	</div>
+	<div class="SG_connBody">
+															<div class="bloglist">
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dwdk" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dwdk.html" target="_blank">京东须谨防资金链断裂的危险</a>
+							</div>
+														<span class="time SG_txtc">(2012-02-10 08:56)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dwdk'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dwdk');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BE%A9%B6%AB%C9%CC%B3%C7&ts=bpost&stype=tag" target="_blank">京东商城</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B5%E7%D7%D3%C9%CC%CE%F1&ts=bpost&stype=tag" target="_blank">电子商务</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D7%CA%BD%F0%C1%B4&ts=bpost&stype=tag" target="_blank">资金链</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B6%CF%C1%D1&ts=bpost&stype=tag" target="_blank">断裂</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B7%E7%CF%D5&ts=bpost&stype=tag" target="_blank">风险</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C1%F5%C7%BF%B6%AB&ts=bpost&stype=tag" target="_blank">刘强东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_4_1.html">电子商务与网络营销</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><font style=
+'FonT-siZe: 20px'><b>京东须谨防资金链断裂的危险</b></font></p>
+<p align='center'><b>文/</b><b>陈永东</b></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　说实话，这两天刘强东日子不大好过，“压榨供应商”、“霸王条款”及“价格涨幅最大”等字眼与他和他的京东商城纠缠不清。这是怎么回事？为何会出现这种情形？</p>
+<p align='center'><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dwdk&amp;url=http://s4.sinaimg.cn/orignal/541bdbb8hb891a01a3603'
+target='_blank'><img style='DispLAY: block; TexT-ALiGn: center'
+height='247' src=
+'http://s4.sinaimg.cn/bmiddle/541bdbb8hb891a01a3603&amp;690' width=
+'490' name='image_operate_21441328835496429' alt='' title='' id=
+"image_operate_21441328835496429" /></a><br />
+<br /></p>
+<p align='center'>&nbsp;<wbr></p>
+<p><b>　　一、京东商城被指压榨供应商</b></p>
+<p>
+　　刘强东这些日子有些纠结与反常，过去快人快语的他，最近却惜字如金，难道开始信奉“沉默是金”？京东的有关人士也对外界称：“对于某些人恶意的诋毁，我们选择沉默。”</p>
+<p>　　那么，所谓的“诋毁”是什么？是最近京东的一些供应商</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dwdk" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwdk.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwdk.html#comment" id="c_10001_541bdbb80102dwdk">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dwdk');return false;">转载</a><a id="z_10001_541bdbb80102dwdk" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dwdk');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dwdk" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dwdk.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dwdk"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dwbs" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dwbs.html" target="_blank">揭露App刷排名的九宗罪</a>
+							</div>
+														<span class="time SG_txtc">(2012-02-08 08:17)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dwbs'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dwbs');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=app%CB%A2%C5%C5%C3%FB&ts=bpost&stype=tag" target="_blank">app刷排名</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D7%EF%B6%F1&ts=bpost&stype=tag" target="_blank">罪恶</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%CF%D0%C5&ts=bpost&stype=tag" target="_blank">诚信</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D6%C8%D0%F2&ts=bpost&stype=tag" target="_blank">秩序</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_3_1.html">IT、互联网与手机</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><strong><font style=
+'FonT-siZe: 20px'>揭露App刷排名的九宗罪</font></strong></p>
+<p align='center'><strong>文/陈永东</strong></p>
+<p>&nbsp;<wbr></p>
+<p>　　近日，许多事都与App刷排名联系起来，包括360多款应用被苹果从App
+Store下架，进而引发360与腾讯、金山的口水仗甚至声称相互起诉，包括山寨应用登上苹果App
+Store付费应用程序排行榜的榜首，整个移动互联网被搞得乌烟瘴气。在此，笔者揭露App刷排名的种种罪恶：</p>
+<p><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dwbs&amp;url=http://s14.sinaimg.cn/orignal/541bdbb8hb86920e4ad5d'
+target='_blank'></a><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dwbs&amp;url=http://s3.sinaimg.cn/orignal/541bdbb8hb86a0ab654c2'
+target='_blank'><img style='DispLAY: block; TexT-ALiGn: center'
+height='405' src=
+'http://s3.sinaimg.cn/bmiddle/541bdbb8hb86a0ab654c2&amp;690' width=
+'490' name='image_operate_26071328665479595' alt='' title='' id=
+"image_operate_26071328665479595" /></a><br />
+<br /></p>
+<p>　　<strong>一、扰乱了移动应用商店正常的排名</strong>：当听</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dwbs" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwbs.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwbs.html#comment" id="c_10001_541bdbb80102dwbs">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dwbs');return false;">转载</a><a id="z_10001_541bdbb80102dwbs" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dwbs');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dwbs" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dwbs.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dwbs"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/lm/tech/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到IT博客，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dwa9" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dwa9.html" target="_blank">成就海底捞“视频聚餐”的幕后秘密</a>
+							</div>
+														<span class="time SG_txtc">(2012-02-06 08:59)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dwa9'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dwa9');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BA%A3%B5%D7%C0%CC&ts=bpost&stype=tag" target="_blank">海底捞</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CA%D3%C6%B5%BE%DB%B2%CD&ts=bpost&stype=tag" target="_blank">视频聚餐</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C3%D8%C3%DC&ts=bpost&stype=tag" target="_blank">秘密</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BB%AA%CE%AA&ts=bpost&stype=tag" target="_blank">华为</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B2%CD%B9%DD%D0%C5%CF%A2%BB%AF&ts=bpost&stype=tag" target="_blank">餐馆信息化</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_10_1.html">新媒体与创意经济</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><font style=
+'FonT-siZe: 20px'><b>成就海底捞“视频聚餐”的幕后秘密</b></font></p>
+<p align='center'><b>文/</b><b>陈永东</b></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　我对创意很感兴趣，我推崇创意的三方面结合：“技术创意+内容创意+营销创意”。近日，发现引发众人关注的海底捞的远程“视频聚餐”正好符合我对三方面创意结合的观点。</p>
+<p align='center'><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dwa9&amp;url=http://s13.sinaimg.cn/orignal/541bdbb8hb8413ae680cc'
+target='_blank'><img height='471' src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" real_src ="http://s13.sinaimg.cn/bmiddle/541bdbb8hb8413ae680cc&amp;690"
+width='490' name='image_operate_94641328490232234' alt='' title=''
+id="image_operate_94641328490232234" /></a><br />
+<br /></p>
+<p align='center'>&nbsp;<wbr></p>
+<p><b>　　一、地球人无法阻止海底捞推出“视频聚餐”</b></p>
+<p>
+　　最开始了解海底捞远程“视频聚餐”是通过微博。2月2日，无意中发现“海底捞聚餐”微博发了一个帖子，透露了其“远程视频聚餐系统”，觉得挺有趣。没想到该帖发出后，其转发数急剧攀升，很快就破万（截图显示超过2.3万）。</p>
+<p>　　紧接着两三天，</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dwa9" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwa9.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwa9.html#comment" id="c_10001_541bdbb80102dwa9">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dwa9');return false;">转载</a><a id="z_10001_541bdbb80102dwa9" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dwa9');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dwa9" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dwa9.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dwa9"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dw90" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw90.html" target="_blank">举头望Facebook，低头思国内同行</a>
+							</div>
+														<span class="time SG_txtc">(2012-02-02 21:50)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dw90'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw90');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=facebook%C9%CF%CA%D0&ts=bpost&stype=tag" target="_blank">facebook上市</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C8%CB%C8%CB%CD%F8&ts=bpost&stype=tag" target="_blank">人人网</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BF%AA%D0%C4%CD%F8&ts=bpost&stype=tag" target="_blank">开心网</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%A2%B2%A9&ts=bpost&stype=tag" target="_blank">微博</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CC%DA%D1%B6&ts=bpost&stype=tag" target="_blank">腾讯</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_3_1.html">IT、互联网与手机</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><strong><font style=
+'FonT-siZe: 20px'>举头望Facebook，低头思国内同行</font></strong></p>
+<p align='center'><strong>文/陈永东</strong></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　不知即将要上市的Facebook能否算得上一轮“明月”（当然也可以说如日中天），但其“国内”社交网站同行可以算是我们国人的“故乡”，故可以与“举头望明月，低头思故乡”扯上关系。当然，此处不是思乡之情，而是思国内社交网站在Facebook即将上市之际的前景。</p>
+<p align='center'><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dw90&amp;url=http://s6.sinaimg.cn/orignal/541bdbb8hb7fcda0ce7c5'
+target='_blank'><img style='DispLAY: block; TexT-ALiGn: center'
+height='225' src=
+'http://s6.sinaimg.cn/bmiddle/541bdbb8hb7fcda0ce7c5&amp;690' width=
+'464' name='image_operate_21701328197574381' alt='' title='' id=
+"image_operate_21701328197574381" /></a><br />
+<br /></p>
+<p>　　<strong>一、人人网已上市，成绩不算突出</strong></p>
+<p>
+　　虽然在中国大陆的社交网站中，目前人人网与Facebook最接近（一说本来就是模仿人家的），不过作为徒弟的人人网却早已于去年提前上市，</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dw90" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw90.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw90.html#comment" id="c_10001_541bdbb80102dw90">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw90');return false;">转载</a><a id="z_10001_541bdbb80102dw90" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dw90');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dw90" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw90.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dw90"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/lm/tech/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到IT博客，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dw71" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw71.html" target="_blank">马云连家手机公司都收购不了？</a>
+							</div>
+														<span class="time SG_txtc">(2012-01-31 08:37)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dw71'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw71');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B0%A2%C0%EF%B0%CD%B0%CD&ts=bpost&stype=tag" target="_blank">阿里巴巴</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C2%ED%D4%C6&ts=bpost&stype=tag" target="_blank">马云</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CA%D5%B9%BA&ts=bpost&stype=tag" target="_blank">收购</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CC%EC%D3%EE&ts=bpost&stype=tag" target="_blank">天宇</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CA%D6%BB%FA&ts=bpost&stype=tag" target="_blank">手机</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_3_1.html">IT、互联网与手机</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><strong><font style=
+'FonT-siZe: 20px'>马云连家手机公司都收购不了？</font></strong></p>
+<p align='center'><strong>文/陈永东</strong></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　之所以提出这个问题，是因为看了某个媒体的报道。缘起阿里收购天宇，该媒体援引一位业内人士的话称，阿里收购天宇朗通难度很大，原因竟然是天宇的CEO不愿意屈居人下。依我看，不这么说便罢了，非这么说倒有些许炒作的嫌疑。</p>
+<p align='center'><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dw71&amp;url=http://s1.sinaimg.cn/orignal/541bdbb8hb7c8d40623d0'
+target='_blank'><img style='DispLAY: block; TexT-ALiGn: center'
+height='299' src=
+'http://s1.sinaimg.cn/bmiddle/541bdbb8hb7c8d40623d0&amp;690' width=
+'490' name='image_operate_50871327973170344' alt='' title='' id=
+"image_operate_50871327973170344" /></a><br />
+<br /></p>
+<p>　　<strong>一、收购难度大原因是天宇CEO不甘人下？</strong></p>
+<p>
+　　消息出自《每日经济新闻》，该报援引业内人士王艳辉的话，称“阿里巴巴入资天宇的可能性较大，而完全收购难度很高。荣秀丽是一个事业型的老板，非常强势，不太可能</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dw71" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw71.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw71.html#comment" id="c_10001_541bdbb80102dw71">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw71');return false;">转载</a><a id="z_10001_541bdbb80102dw71" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dw71');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dw71" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw71.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dw71"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/lm/tech/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到IT博客，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dw5w" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw5w.html" target="_blank">微博搜索营销策略探讨</a>
+							</div>
+														<span class="time SG_txtc">(2012-01-29 08:33)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dw5w'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw5w');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CE%A2%B2%A9&ts=bpost&stype=tag" target="_blank">微博</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CB%D1%CB%F7&ts=bpost&stype=tag" target="_blank">搜索</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D3%AA%CF%FA&ts=bpost&stype=tag" target="_blank">营销</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B2%DF%C2%D4&ts=bpost&stype=tag" target="_blank">策略</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_10_1.html">新媒体与创意经济</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><font style=
+'FonT-siZe: 20px'><b>微博搜索营销策略探讨</b></font></p>
+<p align='center'><b>陈永东/</b><b>文</b></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　随着微博在中国大陆的迅速发展，越来越多的用户开始使用微博，这为微博营销创造了良好的群众基础。在微博的各种功能中，以即时性见长的微博搜索功能显示了其与传统搜索引擎的不同，如何理解其特点及带来的冲击，以及如何利用它开展营销，是几个值得关注与研究的问题。</p>
+<p><b>　　微博及微博搜索的现状与特点</b></p>
+<p>
+　　微博在中国大陆的发展的确出乎许多人所料，它既不同于世界微博标杆Twtter，也不同于社交网站Facebook，也不是它们二者的合体，它有其鲜明的特色。</p>
+<p>　　1、大陆微博的现状</p>
+<p>
+　　过去两年多时间，中国大陆的微博发展速度令世界称奇。新浪微博注册用户数已经突破2.5亿，腾讯微博注册用户数已达到3.1亿。同时，搜狐微博、网易微博及凤凰微博也紧追不舍。</p>
+<p>
+　　基于中国微博这样一种强劲的发展态势，许多个人、企业、机构及政府部门纷纷开始开设微博账号，纷纷开始探索及发掘微博的各种各样的作用。甚至一些地方性的微博（如新民微博及东方网微博等）还吸引了一些</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dw5w" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw5w.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw5w.html#comment" id="c_10001_541bdbb80102dw5w">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw5w');return false;">转载</a><a id="z_10001_541bdbb80102dw5w" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dw5w');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dw5w" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw5w.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dw5w"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dw3a" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw3a.html" target="_blank">2012年央视春晚十大创意回顾</a>
+							</div>
+														<span class="time SG_txtc">(2012-01-23 11:22)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dw3a'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw3a');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=2012%C4%EA&ts=bpost&stype=tag" target="_blank">2012年</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D1%EB%CA%D3&ts=bpost&stype=tag" target="_blank">央视</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B4%BA%CD%ED&ts=bpost&stype=tag" target="_blank">春晚</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B4%B4%D2%E2&ts=bpost&stype=tag" target="_blank">创意</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_10_1.html">新媒体与创意经济</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><font style=
+'FonT-siZe: 20px'><b>2012</b><b>年央视春晚十大创意回顾</b></font></p>
+<p align='center'><b>文/</b><b>陈永东</b></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　春去秋来，寒来暑往，全球华人的文化大餐——央视春晚到2012年转眼就走过了30个年头。当适当放低心理预期后，发现2012年的第30届春晚还马马虎虎，其中我发现其中一些创意之处，总结如下：</p>
+<p align='center'><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dw3a&amp;url=http://s13.sinaimg.cn/orignal/541bdbb8nb729cbc3b33c'
+target='_blank'><img style='DispLAY: block; TexT-ALiGn: center'
+src='http://s13.sinaimg.cn/bmiddle/541bdbb8nb729cbc3b33c&amp;690'
+alt='' title='' /></a><br />
+<br /></p>
+<p>
+<b>　　1</b><b>、中间没再念各地贺电</b>：宣读世界各地的拜年或祝贺电报是以往春晚的惯例，2012年春晚没没再连篇累牍的播报电报，算是一个进步，多数人也比较赞同如此。</p>
+<p>
+<b>　　2</b><b>、没再反复播投票方式</b>：过去通常要反复播报如何参加评选神马观众最喜爱的春晚节目，这次没再这样，感觉清静了许多，的确观众们看晚会节目应该比投票</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dw3a" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw3a.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw3a.html#comment" id="c_10001_541bdbb80102dw3a">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw3a');return false;">转载</a><a id="z_10001_541bdbb80102dw3a" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dw3a');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dw3a" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw3a.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dw3a"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/lm/tech/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到IT博客，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dw1m" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw1m.html" target="_blank">智能手机厚度究竟可以怎样薄？</a>
+							</div>
+														<span class="time SG_txtc">(2012-01-19 08:55)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dw1m'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw1m');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D6%C7%C4%DC%CA%D6%BB%FA&ts=bpost&stype=tag" target="_blank">智能手机</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BA%F1%B6%C8&ts=bpost&stype=tag" target="_blank">厚度</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%AC%B1%A1%CA%D6%BB%FA&ts=bpost&stype=tag" target="_blank">超薄手机</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C6%BB%B9%FB&ts=bpost&stype=tag" target="_blank">苹果</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BB%AA%CE%AA&ts=bpost&stype=tag" target="_blank">华为</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_3_1.html">IT、互联网与手机</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><font style=
+'FonT-siZe: 20px'><b>智能手机厚度究竟可以怎样薄？</b></font></p>
+<p align='center'><b>文/</b><b>陈永东</b></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　为什么要说到手机的厚薄问题？主要是因为随着全球手机的不断发展，原来砖块式的大哥大已经向越来越小发展，但是当发展到智能手机时代，似乎手机又开始变大，有时甚至都分不清是是手机还是平板电脑。</p>
+<p align='center'><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dw1m&amp;url=http://s12.sinaimg.cn/orignal/541bdbb8hb6d71ff1761b'
+target='_blank'><img style='DispLAY: block; TexT-ALiGn: center'
+height='366' src=
+'http://s12.sinaimg.cn/bmiddle/541bdbb8hb6d71ff1761b&amp;690'
+width='490' name='image_operate_46631326935042609' alt='' title=''
+id="image_operate_46631326935042609" /></a><br />
+<br /></p>
+<p align='center'>&nbsp;<wbr></p>
+<p><b>　　一、智能手机最薄可以有多薄？</b></p>
+<p>
+　　智能手机时代，手机屏幕在变大，但这并不意味着体积会简单地变大，如果是那样就是时代的倒退了。如果智能手机屏幕非要变大，那么其厚度必然需要控制在一定范围，进而越薄越好。但问题是，智</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dw1m" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw1m.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw1m.html#comment" id="c_10001_541bdbb80102dw1m">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw1m');return false;">转载</a><a id="z_10001_541bdbb80102dw1m" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dw1m');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dw1m" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw1m.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dw1m"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dw0o" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw0o.html" target="_blank">30句话点评2011中国互联网</a>
+							</div>
+														<span class="time SG_txtc">(2012-01-16 23:39)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dw0o'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw0o');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=2011&ts=bpost&stype=tag" target="_blank">2011</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%D6%D0%B9%FA&ts=bpost&stype=tag" target="_blank">中国</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%BB%A5%C1%AA%CD%F8&ts=bpost&stype=tag" target="_blank">互联网</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=cnnic&ts=bpost&stype=tag" target="_blank">cnnic</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B5%E3%C6%C0&ts=bpost&stype=tag" target="_blank">点评</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_3_1.html">IT、互联网与手机</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><font style=
+'FonT-siZe: 20px'><b>30</b><b>句话点评</b><b>2011</b><b>中国互联网</b></font></p>
+<p align='center'><b>文/</b><b>陈永东</b></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　新年伊始，2012年1月16日，中国互联网络信息中心（CNNIC）在京发布《第29次中国互联网络发展状况统计报告》，其中亮点颇多，现将我关心的数据来个大整理，并点评汇成30句话分享给各位。</p>
+<p align='center'><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dw0o&amp;url=http://s16.sinaimg.cn/orignal/541bdbb8t78aa4e271dbf'
+target='_blank'><img style='DispLAY: block; TexT-ALiGn: center'
+height='292' src=
+'http://s16.sinaimg.cn/bmiddle/541bdbb8t78aa4e271dbf&amp;690'
+width='490' name='image_operate_38231326728522048' alt='' title=''
+id="image_operate_38231326728522048" /></a><br /></p>
+<p>
+　　1、截至2011年12月底，中国网民数量突破5亿，达到5.13亿，全年新增网民5580万。中国的人口众多，网民绝对数当然让世界其他各国望尘莫及。</p>
+<p>
+　　2、互联网普及率较上年底提升4个百分点，达到38.3%。同样是由于中国人口基数太大，互联网普及率还有很大的上升空间，感觉</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dw0o" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw0o.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw0o.html#comment" id="c_10001_541bdbb80102dw0o">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dw0o');return false;">转载</a><a id="z_10001_541bdbb80102dw0o" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dw0o');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dw0o" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dw0o.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dw0o"></div>
+						<div class="SG_j_linedot"></div>
+											<div class="blog_title_h">
+							<span class="img1"></span>
+							<a href="http://blog.sina.com.cn/" target ="_blank"><img class="SG_icon SG_icon107" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="18" height="18" title="已推荐到博客首页，点击查看更多精彩内容" align="absmiddle" /></a>							<div id="t_10001_541bdbb80102dvy2" class="blog_title">
+								<a href="http://blog.sina.com.cn/s/blog_541bdbb80102dvy2.html" target="_blank">淘宝商城更名为“天猫”的十大理由</a>
+							</div>
+														<span class="time SG_txtc">(2012-01-12 11:51)</span>
+									
+							<div class="turnBoxzz"><a href="javascript:;" class="SG_aBtn SG_aBtn_ico SG_turn"  action-type="reblog" action-data="{srcBlog:1, blogId:'541bdbb80102dvy2'}"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle">转载<em class="arrow">▼</em></cite></a></div>
+							<!--
+								<div class="turnBoxzz"><a  href="javascript:;"    onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dvy2');return false;"  class="SG_aBtn SG_aBtn_ico SG_turn"><cite><img class="SG_icon SG_icon111" src="http://simg.sinajs.cn/blog7style/images/common/sg_trans.gif" width="15" height="15" align="absmiddle" />转载</cite></a></div>
+								—-->
+													</div>
+						<div class="articalTag">
+							<table>
+								<tr>
+									<td class="blog_tag">
+																			<span class="SG_txtb">标签：</span>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B5%E7%D7%D3%C9%CC%CE%F1&ts=bpost&stype=tag" target="_blank">电子商务</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CC%D4%B1%A6%C9%CC%B3%C7&ts=bpost&stype=tag" target="_blank">淘宝商城</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%CC%EC%C3%A8&ts=bpost&stype=tag" target="_blank">天猫</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B8%FC%C3%FB&ts=bpost&stype=tag" target="_blank">更名</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%C0%ED%D3%C9&ts=bpost&stype=tag" target="_blank">理由</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=%B3%C2%D3%C0%B6%AB&ts=bpost&stype=tag" target="_blank">陈永东</a></h3>
+																																<h3><a href="http://uni.sina.com.cn/c.php?t=blog&k=it&ts=bpost&stype=tag" target="_blank">it</a></h3>
+																												</td>
+									<td class="blog_class">
+																			<span class="SG_txtb">分类：</span>
+										<a target="_blank" href="http://blog.sina.com.cn/s/articlelist_1411111864_4_1.html">电子商务与网络营销</a>
+																		</td>
+								</tr>
+							</table>
+													</div>
+										<div class="content">
+							<p align='center'><b><font style=
+'FonT-siZe: 20px'>淘宝商城更名为“天猫”的十大理由</font></b></p>
+<p align='center'><b>文/</b><b>陈永东</b></p>
+<p>&nbsp;<wbr></p>
+<p>
+　　有道是：此猫突然从天降，惊得众人大猜想；为何偏偏叫天猫，不喊亲了要喊喵？2012年1月11日是原淘宝商城总裁张勇（逍遥子）的生日，然而他竟然选择在这一天的11点11分将“淘宝商城”改名为“天猫”。此消息一出，立即引起了许多猜想：为啥淘宝商城要选择“天猫”这个新名字而非其他？陈永东认为有以下十大理由：</p>
+<p align='center'><a href=
+'http://photo.blog.sina.com.cn/showpic.html#blogid=541bdbb80102dvy2&amp;url=http://s2.sinaimg.cn/orignal/541bdbb8hb64cbf013f61'
+target='_blank'><img style='DispLAY: block; TexT-ALiGn: center'
+height='271' src=
+'http://s2.sinaimg.cn/bmiddle/541bdbb8hb64cbf013f61&amp;690' width=
+'490' name='image_operate_91041326340745857' alt='' title='' id=
+"image_operate_91041326340745857" /></a><br />
+<br /></p>
+<p>
+<b>　　1</b><b>、建立阿里集团B2C</b><b>业务的独立品牌：</b>毕竟过去叫“淘宝商城”还是让人觉得与“淘宝”品牌类似，或易让人混淆，现在搞个独立的“天猫”</p>
+						</div>
+										
+						<div class="tagMore">
+							<div class="tag SG_txtc">
+								<a id="r_10001_541bdbb80102dvy2" href="http://blog.sina.com.cn/s/blog_541bdbb80102dvy2.html" target="_blank">阅读</a>&nbsp;
+								┆&nbsp;<a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dvy2.html#comment" id="c_10001_541bdbb80102dvy2">评论</a>&nbsp;																																						┆&nbsp;<a href="#" onclick="scope.articel_quote_alert && scope.articel_quote_alert('541bdbb80102dvy2');return false;">转载</a><a id="z_10001_541bdbb80102dvy2" href="#"  onclick="scope.articleQuoteShow  && scope.articleQuoteShow('541bdbb80102dvy2');return false;" class="zznum"></a>
+																																			┆&nbsp;<a id="f_10001_541bdbb80102dvy2" href="javascript:;" onclick="return false;">收藏</a>&nbsp;
+							</div>
+														<div class="more">
+								<span class="SG_more"><a href="http://blog.sina.com.cn/s/blog_541bdbb80102dvy2.html" target="_blank">查看全文</a>&gt;&gt;</span>
+							</div>
+													</div>
+						<div style="display: none;" class="blogzz_zzlist borderc" id="ff_541bdbb80102dvy2"></div>
+						<div class="SG_j_linedot"></div>
+											<div favmd5='{"541bdbb80102dwdk":"f93f5bc994765638cf87780a6150dfdb","541bdbb80102dwbs":"8a2681328a5e6980e8a8a9dda4c3547d","541bdbb80102dwa9":"9222b9503d9bff4dc2f7f13b5010775e","541bdbb80102dw90":"7982dec2b482d34c84f24534f5d7b53f","541bdbb80102dw71":"fbb3a7099aa2e201a7c8963bec4aec41","541bdbb80102dw5w":"5af5eb778768b799a6d38b038155e3c2","541bdbb80102dw3a":"5d5eeaca1104e7dd1b4048ab60aa01c4","541bdbb80102dw1m":"410d16e7548affccafc06e95e324a4d7","541bdbb80102dw0o":"505e508738e821a605c7df47cfbc5d61","541bdbb80102dvy2":"210eb3509114d2c2d4a5341cb9aef2fa"}' classid="0" pagesize="10" total="1264" id="pagination_10001" class="SG_page"></div>
+					</div>
+							  
+				</div>  
+    <div class="SG_connFoot"></div>
+</div></div>
+	<!--第二列start-->
+	
+	<!--第三列start-->
+	<div id="column_3" class="SG_colW21"><div class="SG_conn" id="module_1016">
+            <div class="SG_connHead">
+            <span class="title" comp_title="陈永东的新浪微博">陈永东的新浪微博</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><IFRAME CLASS="share_self" SRC="http://widget.weibo.com/weiboshow/index.php?width=0&amp;height=550&amp;fansRow=2&amp;ptype=1&amp;speed=0&amp;skin=1&amp;isTitle=1&amp;noborder=1&amp;isWeibo=1&amp;isFans=1&amp;uid=1411111864&amp;verifier=a7415e95" FRAMEBORDER="0" WIDTH="100%" SCROLLING="no" HEIGHT="550"></IFRAME></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1013">
+            <div class="SG_connHead">
+            <span class="title" comp_title="新开课程与讲座">新开课程与讲座</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><P>演讲：创意：众王之王（全球创意教育论坛2011，2011-12-3）</P><P>演讲：微博搜索营销策略探讨(2011赢时代全球搜索营销大会,2011-11-22)</P><P>讲座：微博营销互动之惑（移动互联网精英大会上海站第四届会议，2011-11-12）</P><P>讲座：新媒体与文化创意产业（上戏2011MFA，2011-10-15）</P><P>讲座：博客与微博创意营销策略（海峡两岸：中央大学、暨南大学、中南大学，2011-10-12）</P><P>演讲：我们从数学起步——新媒体中的数学问题（中南大学数学院，2011-9-30）</P><P>演讲：青少年工作中微博应用策略与方法（福建省青少年网络协会，2011-9-29）</P><P>演讲：提升微博影响力的策略与技巧（搜狐公司，2011-9-25）</P><P>演讲：政府机关微博应用的形势与对策（江苏省扬州市广陵区，2011-9-10）</P><P>演讲：新媒体环境下的公关应对——以微博为例（盛大集团，2011-8-26）</P><P>微访谈：理解与玩转微博（齐鲁网、新浪微博，2011-8-24）</P><P>演讲：LBS的商业模式（LBS精英大会，2011-8-20）</P><P>演讲：微博传播与运营管理（人民网华东新媒体俱乐部，2011-7-19）</P><P>讲座：破解微博营销之道（IS风云会第1期，上海市信息服务行业协会2011-7-14）</P><P>主题发言：新媒体课程教学改革的探索与思考（首届长三角新媒体发展与高等教育研讨会2011-6-25）</P><P>讲座：微博与文化传播（上戏青年学术沙龙2011-5-27）</P><P>讲座：微博营销及创业者机遇（2011互联网创业大会2011-5-18）</P><P>讲座：大学生如何把握微博的机遇（全国大学生微博节2011-5-15）</P><P>讲座：新媒体时代的机遇与挑战（上海长润信息2011-4-26）</P><P>讲座：你不可不知的微博营销（盛大集团2011-4-14）</P><P>讲座：破解微博营销之谜（复旦大学2011-4-14）</P><P>讲座：企业微博运营理念与技巧（SMG百视通（BesTV）2011-4-13）</P><P>讲座：微博创意策划与实战策略（南京大学金陵学院新传媒系+杭报集团萧山日报社2011-4，共分四期）</P><P>讲座：微博营销的实践与思考（上海交大MBA同学会2011-3-26）</P><P>讲座：企业微博营销实战（协动电商培训，2011-4-12）</P><P>课程：社会媒体营销（硕士）</P><P>讲座：博客及微博创意营销（海峡两岸四校2011-3-9）</P><P>讲座：基于微博的网络营销（美华系统）</P><P>讲座：社会化媒体营销方法论（上海大学）</P><P>讲座：微博营销创意与技巧（海峡两岸七校）</P><P>讲座：微博引发的话题--新媒体与文化创意路径（南京大学金陵学院）</P><P>发言：新媒体环境下写作的机遇与挑战（类型戏剧写作论坛）</P><P>讲座：社会化媒体营销的机遇与技巧（上海海洋大学）</P><P>讲座：互联网与掌上媒体编辑工作技巧（浙江商职院）</P><P>讲座：微博客营销（上海商盟）</P><P>课程：文化产品新媒体营销（本、硕、博）</P><P>发言：微博客营销创意风暴（9495会议）</P><P>讲座：物联网与物流供应链（全国物流师资培训）</P><P>课程：新媒体营销管理（本科）</P><P>课程：文化行业电子商务（本科）</P><P>课程：新媒体基础（本科）</P><P>课程：电子商务与网络营销（中澳双语）</P><P>课程：新媒体概论（硕士、博士）</P><P>课程：信息技术基础（本科）</P><P>讲座：物流新技术（全国师资培训）</P><P>讲座：新媒体与文化创意产业（MFA）</P><P>讲座：电子商务新技术（全国师资培训）</P><P>讲座：电子商务与物流新技术（全国师资培训）</P><P>讲座：信息管理与电子商务新技术（全国师资培训）</P><P>讲座：高校网络信息安全讲座</P></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1015">
+            <div class="SG_connHead">
+            <span class="title" comp_title="新媒体营销">新媒体营销</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017g5a.html" target="_blank">每个国人眼中都有一个不同的微博</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017fr3.html" target="_blank">谁能在微博上不让谣言飞？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017fps.html" target="_blank">灾害期间微博可发挥的十大功效</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017fki.html" target="_blank">【答疑室】海峡两岸：博客与微博创意营销</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017f2r.html" target="_blank">语音微博或将发挥十大功效</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017emw.html" target="_blank">李国庆微博舌战大摩女十不该</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017air.html" target="_blank">2010微博荣耀与火爆之后的思考</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801017csp.html" target="_blank">微博客营销的八大误区</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100mmm2.html" target="_blank">从佛学院法师开微博看微博前景</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100mk3q.html" target="_blank">见证微博创业与微博招商鲜活实例</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100lkmk.html" target="_blank">玩微博：特务张朝阳与影子盖茨</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100lgp8.html" target="_blank">140字微博成营销新空间</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100l6ai.html" target="_blank">如何玩转微博客营销？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100l0py.html" target="_blank">大企业忽视微博营销是个大错误</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100hpb9.html" target="_blank">微博：一个全新的交流时代</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100gdfy.html" target="_blank">当听说发1条微博可赚1万美元时</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100julv.html" target="_blank">文化产品营销不能对新媒体视而不见</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100hoq0.html" target="_blank">陈永东谈微博客特点与发展前景</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100ie4p.html" target="_blank">当话剧可以网络直播之时</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100kuak.html" target="_blank">高校网络营销课程大改迫在眉睫</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100kscl.html" target="_blank">网络销售彩票岂能一关了之？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100kqsi.html" target="_blank">睁大眼睛看清网上药店之真伪？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100klaq.html" target="_blank">“水立方”作新媒体：很酷很时尚</a><p></p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_113">
+            <div class="SG_connHead">
+            <span class="title" comp_title="订阅我的博客">订阅我的博客</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="cloneWidget"><div class="rssWidget">
+                 <div class="rssLine1">
+                     <a href="http://blog.sina.com.cn/rss/1411111864.xml" class="rssLink" title="RSS订阅" target="_blank"></a><a href="http://www.sina.com.cn/ddt/rsshelp.html" target="_blank">什么是RSS？</a>
+                    </div>
+                    <div class="rssList">
+<span   ><a href="http://www.xianguo.com/subscribe.php?url=http://blog.sina.com.cn/rss/1411111864.xml" class="rss_xianguo" title="订阅到鲜果" target="_blank"    ></a></span>
+                     <span ><a href="http://www.google.com/ig/addtoreader?feedurl=http://blog.sina.com.cn/rss/1411111864.xml" class="rss_goole" title="订阅到Google" target="_blank"></a></span>
+                     <span  ><a href="http://i.blog.sina.com.cn/profile/phone_attentionhelp.php" class="rss_myphone" title="订阅到手机" target="_blank"></a></span>
+                    </div>
+                </div> <div class="cloneLink"><a href="javascript:;" onclick="return false;" class="SG_comClone"><img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif" />添加到我的博客</a></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+        <div class="SG_conn" id="module_909"><div class="SG_connHead">
+                <span class="title" comp_title="博主被推荐的博文">博主被推荐的博文</span>
+                                <span class="edit"></span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="pic_s1"><a target="_blank" href="http://blog.sina.com.cn/lm/z/tuijian/index.html"><img src="http://simg.sinajs.cn/blog7style/images/widget/cmt_banner_s.jpg" /></a></div>
+
+<ul class="onlylist" >
+	<li><p><span class="SG_dot"></span><a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwdk.html?tj=1">京东须谨防资金链断裂的危险…</a></p><div class="SG_txtc"><a href="http://blog.sina.com.cn/" target="_blank">博客首页</a></div></li><li><p><span class="SG_dot"></span><a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwbs.html?tj=1">揭露App刷排名的九宗罪…</a></p><div class="SG_txtc"><a href="http://blog.sina.com.cn/" target="_blank">博客首页</a></div></li><li><p><span class="SG_dot"></span><a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dwa9.html?tj=1">成就海底捞“视频聚餐”的幕后…</a></p><div class="SG_txtc"><a href="http://blog.sina.com.cn/lm/tech/" target="_blank">IT博客</a></div></li><li><p><span class="SG_dot"></span><a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw90.html?tj=1">举头望Facebook，低头思国内…</a></p><div class="SG_txtc"><a href="http://blog.sina.com.cn/" target="_blank">博客首页</a></div></li><li><p><span class="SG_dot"></span><a target="_blank" href="http://blog.sina.com.cn/s/blog_541bdbb80102dw71.html?tj=1">马云连家手机公司都收购不了…</a></p><div class="SG_txtc"><a href="http://blog.sina.com.cn/lm/tech/" target="_blank">IT博客</a></div></li>
+	<!--<li><p><span class="SG_dot"></span><a href="#"></a></p><div class="w_list SG_txtc"></div></li>-->				
+</ul>
+<div class="more1">
+	<span class="SG_more"><a target="_blank" href="http://blog.sina.com.cn/s/article_recommended_1411111864_1.html">全部推荐博文</a>>></span><br/>
+	<span class="SG_more"><a target="_blank" href="http://blog.sina.com.cn/lm/z/tuijian/index.html">如何获得更多推荐?</a></span><br/>
+
+</div>            </div>
+            <div class="SG_connFoot"></div>
+                  </div><div class="SG_conn" id="module_93">
+            <div class="SG_connHead">
+            <span class="title" comp_title="新浪微博">新浪微博</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="cloneWidget"><div class="wdtLoading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div> <div class="cloneLink"><a href="javascript:;" onclick="return false;" class="SG_comClone"><img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif" />添加到我的博客</a></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_63">
+            <div class="SG_connHead">
+            <span class="title" comp_title="搜博主文章">搜博主文章</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="cloneWidget"><div class="blog_search" style=" white-space:nowrap;">
+<form id="authorSelfSearch" action="http://blog.sina.com.cn/search/search.php" target="_blank" onsubmit="if(document.getElementById('keyword').value.replace(/(^[\s　]*)|([\s　]*$)/g, '')==''){return false;}" method="get">
+<input type="hidden" name="uid" value="1411111864"/>
+<input type="hidden" name="page" value="1"/>
+			<div>
+			<input class="miniwidth" type="text" id="keyword" name="keyword" value="" /><a href="javascript:;" class="SG_aBtn SG_aBtnB" onclick="if(document.getElementById('keyword').value.replace(/(^[\s　]*)|([\s　]*$)/g, '')!=''){document.getElementById('authorSelfSearch').submit();return false;}"><cite>搜索</cite></a>
+			</div>
+			
+</form>
+</div> <div class="cloneLink"><a href="javascript:;" onclick="return false;" class="SG_comClone"><img alt="添加到我的博客" src="http://simg.sinajs.cn/blog7style/images/widget/add1.gif" />添加到我的博客</a></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1009">
+            <div class="SG_connHead">
+            <span class="title" comp_title="永东评雅虎收购案">永东评雅虎收购案</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100gzqh.html" target="_blank">欧盟批准微软雅虎合作为借刀杀人</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100edn5.html" target="_blank">雅虎微软合作威力被严重夸大</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100dmyj.html" target="_blank">雅虎有疑似反收购微软倾向？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100dkxs.htmlhttp://" target="_blank">一张纸条让微软对雅虎死心？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100cy2l.html" target="_blank">雅虎收购微软MSN不太靠谱</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100cwtk.html" target="_blank">重新会晤：意在合作而非并购</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100cgrd.html" target="_blank">雅虎要与微软私下里谈什么？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100ces5.html" target="_blank">雅虎重组有助提高价值与筹码</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100c0zo.html" target="_blank">Gmail在微软雅虎后院点火</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100c0m7.html" target="_blank">铁腕女CEO加盟雅虎添霸气</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bpg9.html" target="_blank">中国雅虎比美国雅虎命好？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bm21.html" target="_blank">雅虎献虎胆,微软垂帘听政?</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bibm.html" target="_blank">微软对杨致远辞职无动于衷？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bdf2.html" target="_blank">谷歌放弃雅虎，微软会否动心？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100acv3.html" target="_blank">杨致远连任CEO使收购再造悬念</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100a4bt.html" target="_blank">剖析雅虎应对微软和伊坎的策略</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009wpm.html" target="_blank">假如盖茨用捐掉的580亿买雅虎</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009w8v.html" target="_blank">对雅虎谷歌合作的五大荒谬质疑</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009ros.html" target="_blank">均无诚意导致微软购雅虎案失败</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009i6d.html" target="_blank">微软改变策略，符合我的估计</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009cxm.html" target="_blank">瞄上Facebook，微软欲以牙还牙？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009bi8.html" target="_blank">微软放弃收购雅虎可能是阴谋</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010098y7.html" target="_blank">又临时间窗，雅虎将何去何从？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100983i.html" target="_blank">杨致远开始玩起太极推手</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008l9q.html" target="_blank">马云关心微软收购雅虎案的原因</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008k8r.html" target="_blank">新闻集团搅局?探密?还是抢婚?</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008jvn.html" target="_blank">雅虎奇招：减员增效、收购他人</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008jhe.html" target="_blank">雅虎拒绝微软后将如何变招？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008ixj.html" target="_blank">雅虎董事会拒绝收购留下悬念</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008ild.html" target="_blank">杨致远再次致信员工的真实目的</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008hxi.html" target="_blank">Google愿助雅虎，雅虎或将投奔</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008hin.html" target="_blank">谷歌严厉指责微软欲垄断互联网</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008gsd.html" target="_blank">微软收购雅虎成功性不大</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008lrh" target="_blank">微软很自信，坚决不提价？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008mcn" target="_blank">收购案中雅虎内部复杂的派别</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008nkc" target="_blank">微软员工对收购案关心9大问题</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008oap" target="_blank">从雅虎推YahooBuzz看掘客发展</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008omb" target="_blank">微软再遭重罚背后说明了什么？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008oz2" target="_blank">谷歌购雅虎20%股份是种折衷？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008pyo" target="_blank">微软仅收购雅虎部分业务方明智</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008s8i" target="_blank">谷歌购得双击有利微软购雅虎？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008uqm" target="_blank">微软收购雅虎的软肋在哪里？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008uvw" target="_blank">Yahoo&nbsp;<wbr>Buzz宣告初战告捷？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008zcc" target="_blank">中国反垄断法影响微软购雅虎？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801009282" target="_blank">微软向雅虎发通牒或将是徒劳！</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb80100938u" target="_blank">业内终醒悟：微软购雅虎不现实</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb8010093gl" target="_blank">雅虎与谷歌试婚，成心气微软？</a><p></p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1011">
+            <div class="SG_connHead">
+            <span class="title" comp_title="电子商务监管评论">电子商务监管评论</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100ityj.html" target="_blank">网店“实名制”绕不过收费这道门</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100e5ud.html" target="_blank">网店信誉评级可信程度有几分？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100d7zv.html" target="_blank">杭州网络实名制试了才知道</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100cu9q.html" target="_blank">网上支付收费就安全了吗？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100chkq.html" target="_blank">网店监管的确应该服务于民</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100c7za.html" target="_blank">网上打假动真格面临十大问题</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100c6uc.html" target="_blank">网店新规上海比北京更聪明</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bxit.html" target="_blank">网店监管抓B2B放C2C属明智</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bf6f.html" target="_blank">虚拟交易征税细则有明显漏洞</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bc3r.html" target="_blank">虚拟货币收税牵出十大问题</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100amz6.html" target="_blank">上海网店新规办照标准面临考验</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100alm9.html" target="_blank">工商管理费免，北京网店新规变？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100ac72.html" target="_blank">北京网店新规实施可能走向预测</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100a83o.html" target="_blank">北京工商应就网店新规开发布会</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100a7lz.html" target="_blank">上海网店是否办照出现不同声音</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100a79h.html" target="_blank">京沪网店新规均剑指交易网站？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100a6f5.html" target="_blank">假如北京网店新规不收费行不行？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100a33h.html" target="_blank">北京网店新规引三类矛盾须平衡</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100a0fd.html" target="_blank">也谈吕伯望关于《意见》的意见</a><p></p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1012">
+            <div class="SG_connHead">
+            <span class="title" comp_title="永东评微软黑屏">永东评微软黑屏</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bath.html" target="_blank">微软黑屏行动将如何收场？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100baeb.html" target="_blank">建议微软就黑屏反思四方面问题</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100b8a3.html" target="_blank">假如微软Windows和Office免费</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100b66c.html" target="_blank">微软黑屏：众人慌了，金山笑了</a><p></p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1008">
+            <div class="SG_connHead">
+            <span class="title" comp_title="关注互联网新媒体">关注互联网新媒体</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100csww.html" target="_blank">影视许可对视频网站以毁灭性打击？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bw9p.html" target="_blank">08年中国最火博客新鲜点评</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100bh98.html" target="_blank">视频网站变招御寒能否奏效？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100b7jl.html" target="_blank">中国科技博客价值被普遍低估</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100b77y.html" target="_blank">免费电影能否在互联网大行其道？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100b4yl.html" target="_blank">最令人讨厌的十大博客行为</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100aqua.html" target="_blank">点评中国3个点击数超2亿的博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009ztt.html" target="_blank">韩寒的博客将成博客王与评论王</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009yi8.html" target="_blank">91%公众关注博客意味着什么？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009uug.html" target="_blank">Web2.0让小说阅读充满新体验</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009tb6.html" target="_blank">从禁传奥运赛事看视频整治力度</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801009sf1.html" target="_blank">为什么明星博客点击量那么高？</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801008d7f.html" target="_blank">破解威客交易难题的三大法宝</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100881i.html" target="_blank">也谈威客的几个热点问题</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010086qz.html" target="_blank">博客精彩生活2007－2008</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010085bn.html" target="_blank">解读07年中国博客市场调查报告</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010084mn.html" target="_blank">维基百科拿什么挑战Google</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010083y3.html" target="_blank">08年IT业25大预言：博客最抢眼</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010082vv.html" target="_blank">2007盘点之网络侠&quot;客&quot;6强</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000b4w.html" target="_blank">警惕名人博客被抢注问题</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000b1p.html" target="_blank">威客联合征集特奥会礼品创意</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000azv.html" target="_blank">雅虎博客关闭带来的启示</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000asc.html" target="_blank">我预测5年内现10亿博客的方法</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000as8.html" target="_blank">韩寒博客再破亿，5年10亿博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000ak6.html" target="_blank">Web2.0新锐“迷你博客”</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000afx.html" target="_blank">博客服务自律公约对运营商</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010009yv.html" target="_blank">徐静蕾博客点击率超亿</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010009t7.html" target="_blank">数字交流新模式中知识产权问题</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100091j.html" target="_blank">学习《博客服务自律公约》</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010008o7.html" target="_blank">世界中国博客7000万与600万</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000829.html" target="_blank">戏曲博客推荐</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010006zd.html" target="_blank">网络传播新N家“房客”</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb80100070q.html" target="_blank">沃客2.0与文化创意产业</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010007a7.html" target="_blank">“客”不容缓，“人”尽其才</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb8010009oi.html" target="_blank">18种“剑客”，18般兵器</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000akq.html" target="_blank">晒客、品客、叨客、拼客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/s/blog_541bdbb801000ac6.html" target="_blank">中国博客用户有效浏览时间</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008kkw" target="_blank">奥运期间开博规范为网络媒体发展提供借鉴</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008oap" target="_blank">从雅虎推Yahoo&nbsp;<wbr>Buzz看掘客发展</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008rj2" target="_blank">2008年IT女性博客：很红很精彩</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008tkc" target="_blank">网上惊现点击过亿的草根博客</a><p></p></p></div><div class="SG_j_linedot"></div><div class="diyList"><p class="SG_dot"><a href="http://blog.sina.com.cn/u/541bdbb801008uvw" target="_blank">Yahoo&nbsp;<wbr>Buzz宣告初战告捷？</a><p></p></p></div></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_2">
+            <div class="SG_connHead">
+            <span class="title" comp_title="留言">留言</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="wdtLoading"><img src="http://simg.sinajs.cn/blog7style/images/common/loading.gif" />加载中…</div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+<div class="SG_conn" id="module_1002">
+            <div class="SG_connHead">
+            <span class="title" comp_title="推荐教材与专著">推荐教材与专著</span>
+                       <span class="edit">
+                        </span>
+            </div>
+            <div class="SG_connBody">
+            	<div class="diywidget"><DIV>这里是我正式公开出版的教材，希望对你有所帮助</DIV><DIV><A HREF="http://blog.sina.com.cn/s/blog_541bdbb80100a6iu.html" TARGET="_blank"><FONT COLOR="#0B4790">《电子商务网站建设与维护实训》</FONT></A></DIV><DIV><A HREF="http://blog.sina.com.cn/s/blog_541bdbb8010006ze.html" TARGET="_blank"><FONT SIZE="2">《电子商务基础》</FONT></A></DIV><DIV><DIV CLASS="articleTitleW"><A HREF="http://blog.sina.com.cn/s/blog_541bdbb8010008y6.html" TARGET="_blank"><FONT SIZE="2">《网页动画设计与制作Flash MX 2004》</FONT></A></DIV><DIV CLASS="articleTitleW"><A HREF="http://blog.sina.com.cn/s/blog_541bdbb8010009ax.html" TARGET="_blank"><FONT SIZE="2">《网站管理与维护》</FONT></A><A ID="articleTitle" NAME="articleTitle"></A></DIV><DIV ID="articleBarButton"><A CLASS="Link icon modify center invisible" ID="edit" NAME="edit"></A>&nbsp;<wbr><WBR /></DIV></DIV></div>            </div>       
+            <div class="SG_connFoot"></div>
+          </div>
+</div>
+	<!--第三列end-->
+
+	
+    </div>
+   <!--主题内容结束 -->
+  
+
+	<div id="diggerFla" style="position:absolute;left:0px;top:0px;width:0px"></div>
+    <div class="sinablogfooter" id="sinablogfooter"  style="position:relative;">
+      
+      <p class="SG_linka"><a href="http://control.blog.sina.com.cn/admin/advice/advice_list.php" target="_blank">新浪BLOG意见反馈留言板</a>　<a href="javascript:;" onclick="window.open ('http://control.blog.sina.com.cn/admin/advice/impeach.php?url=http%3A//blog.sina.com.cn/s/blog_4cf7b4ec0100eudp.html%3Ftj%3D1', '','height=495, width=510, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=n o, status=no');">不良信息反馈</a>　电话：4006900000 提示音后按1键（按当地市话标准计费）　欢迎批评指正</p>
+   
+      <p class="SG_linka"><a href="http://corp.sina.com.cn/chn/" target="_blank">新浪简介</a> | <a href="http://corp.sina.com.cn/eng/" target="_blank">About Sina</a> | <a href="http://emarketing.sina.com.cn/" target="_blank">广告服务</a> | <a href="http://www.sina.com.cn/contactus.html" target="_blank">联系我们</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank">招聘信息</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a> | <a href="http://english.sina.com" target="_blank">SINA English</a> | <a href="http://members.sina.com.cn/apply/" target="_blank">会员注册</a> | <a href="http://help.sina.com.cn/" target="_blank">产品答疑</a> </p>
+      <p class="copyright SG_linka"> Copyright &copy; 1996 - 2012 SINA Corporation,  All Rights Reserved</p>
+      <p class="SG_linka"> 新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a></p>
+	  <a href="http://www.bj.cyberpolice.cn/index.jsp"  target="_blank" class="gab_link"></a>
+    </div>
+  </div>
+</div>
+<div id="swfbox"></div>
+<script id="PVCOUNTER_FORIE" type="text/javascript"></script>
+</body>
+<script type="text/javascript">
+var scope = {
+	$setDomain : true,
+	$uid : "1411111864",
+	$PRODUCT_NAME : "blog7",		//blog7photo,blog7icp
+	$pageid : "index",
+	$key :  "8d0ea0b89e213491e1c6718545203a6a",
+	$uhost : "chenyongdong",
+	$private: {"cms":0,"hidecms":0,"blogsize":0,"ad":0,"sms":0,"adver":0,"tj":1,"p4p":0,"spamcms":1,"topblogid":0,"pageset":0,"invitationset":0,"top":0,"quote":0,"foot":0,"active":"4","medal":3,"headpic":1},
+	$playids :"",
+		$babylevel:"",
+		$channel:0,
+		$is_photo_vip:0,
+		$nClass:0,
+		$isLevelUp:0,	component_lists:{"3":{"size":210,"list":[1016,1013,1015,113,909,93,63,1009,1011,1012,1008,2,1002]},"2":{"size":510,"list":[10001]},"1":{"size":210,"list":[901,1010,3,1001,1005,1004,1,17,12]}},
+	formatInfo:3,
+	UserPic:[{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"},{"pid":"","repeat":"repeat-x","align-h":"center","align-v":"top","apply":"0"}],
+	UserBabyPic:{"photoX":null,"photoY":null,"photoURL":null,"angle":null,"zoom":null,"maskX":null,"maskY":null,"maskURL":null,"frameURL":null},
+	UserColor:1,
+	backgroundcolor:"#e5e7e7",
+	tpl:"1_1"};
+var	$encrypt_code = "028e47ab11599581d1cada2eb3fed5b1";
+</script>
+
+<script type="text/javascript" src="http://sjs.sinajs.cn/blog7common/js/boot.js"></script>
+<script type="text/javascript">__load_js();</script>
+<script type="text/javascript">__render_page();</script>
+
+
+
+<!-- ALL CODE START--><!-- SUDA_CODE_START --> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height: 0;visibility:hidden'><img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+
+</noScript> 
+<!-- SUDA_CODE_END --> 
+
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://sina.wrating.com/a1.js"></script>
+<script type="text/javascript">
+try{
+var vjAcc="860010-0328010000";
+var wrUrl="http://sina.wrating.com/";
+vjTrack("");
+}catch(e){};
+</script>
+<noscript><img src="http://sina.wrating.com/a.gif?a=&amp;c=860010-0328010000" width="1" height="1" style="display: none;"/></noscript>
+<!-- END WRating v1.0 -->
+
+<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+<script type="text/javascript">
+	var _rsCI="cn-sina2006";
+	var _rsCG="0";
+	var _rsDN="//secure-cn.imrworldwide.com/";
+	var _rsCC=0;
+	var _rsSE=1;
+	var _rsSM=0.01;
+	var _rsSS=1500;
+</script>
+<script type="text/javascript" src="//secure-cn.imrworldwide.com/v52.js"></script>
+
+<noscript><img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&cg=0" alt=""/> </noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+
+</html>

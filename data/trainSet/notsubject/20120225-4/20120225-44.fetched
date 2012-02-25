@@ -1,0 +1,550 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=GBK" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="refresh" content="60"><meta name="Keywords" content="NBA数据库,技术统计,NBA直播,NBA赛程,NBA视频" />
+<meta name="Description" content="NBA直播,搜狐NBA数据库提供最快的NBA数据直播,最详实的NBA资料,NBA赛程,姚明数据,易建联数据,科比数据,火箭资料，火箭赛程，湖人资料，湖人赛程,詹姆斯数据" />
+<title>NBA直播|NBA|NBA视频直播|NBA在线直播|NBA比分直播|NBA文字直播|火箭|篮网|姚明|易建联|湖人|NBA数据|NBA排名</title>
+<link type="text/css" rel="stylesheet" href="http://images.sohu.com/uiue/global1.3.css" />
+<link type="text/css" rel="stylesheet" href="css/nbadata_layout.css"/>
+<link type="text/css" rel="stylesheet" href="css/board.css" />
+<script src="http://www.sohu.com/sohuflash_1.js" type="text/javascript"></script>
+<script src="js/prototype-1.6.0.3.js" type="text/javascript"></script>
+</head>
+
+<body>
+<!--标准头st/-->
+<div class="area" id="indexNav">
+<a href="http://www.sohu.com/" target="_blank"><img  src="http://images.sohu.com/uiue/sohu_logo/sohu_logo.gif" width="145" height="21" alt="sohu_logo" border="0" class="left" /></a>
+<ul class="right">
+	<li><a href="http://www.sohu.com/">搜狐首页</a></li><li>-</li>
+	<li class="red"><a href="http://news.sohu.com/">新闻</a></li><li>-</li>
+	<li><a href="http://sports.sohu.com/">体育</a></li><li>-</li>
+	<li><a href="http://s.sohu.com/">S</a></li><li>-</li>
+	<li><a href="http://yule.sohu.com/">娱乐</a></li><li>-</li>
+	<li><a href="http://v.sohu.com/">V</a></li><li>-</li>
+	<li class="red"><a href="http://business.sohu.com/">财经</a></li><li>-</li>
+	<li><a href="http://it.sohu.com/">IT</a></li><li>-</li>
+	<li><a href="http://auto.sohu.com/">汽车</a></li><li>-</li>
+	<li><a href="http://house.sohu.com/">房产</a></li><li>-</li>
+	<li><a href="http://home.sohu.com/">家居</a></li><li>-</li>
+	<li><a href="http://women.sohu.com/">女人</a></li><li>-</li>
+	<li><a href="http://tv.sohu.com/">TV</a></li><li>-</li>
+	<li><a href="http://v.blog.sohu.com/">视频</a></li><li>-</li>
+	<li><a href="http://www.chinaren.com/">ChinaRen</a></li><li>-</li>
+	<li><a href="http://login.mail.sohu.com/">邮件</a></li><li>-</li>
+	<li><a href="http://blog.sohu.com/">博客</a></li><li>-</li>
+	<li><a href="http://club.sohu.com/">BBS</a></li><li>-</li>
+	<li><a href="http://comment2.news.sohu.com/">我说两句</a></li><li>-</li>
+	<li class="end"><a href="http://www.sogou.com/">搜狗</a></li>
+</ul>
+</div>
+<!--标准头end/-->
+<!-- <iframe src="http://sports.sohu.com/s2010/0943/s270030943/" width="950" height="85" scrolling="no" frameborder="0"></iframe> -->
+<!--频道头st/-->
+<div id="channel">
+	<div class="channel">
+		<div class="left">
+			<div class="logo"><a href="http://data.sports.sohu.com/nba/index.html"><img src="images/nbadata_logo.png" alt="" width="121" height="84" border="0" /></a></div>
+			<div><a href="http://data.sports.sohu.com/nba/index.html"><img src="images/nbadata_logo2.png" alt="" width="151" height="84" border="0" /></a></div>
+		</div>
+		<div class="right">
+			<iframe marginheight="0" marginwidth="0" border="0" scroll="no" width="522" height="109" frameborder="no" src="iframe/scoreboard.html"></iframe>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+function correctPNG(){
+	for (var i = 0; i < document.images.length; i++) {
+		var img = document.images[i]
+		var imgName = img.src.toUpperCase()
+		if (imgName.substring(imgName.length - 3, imgName.length) == "PNG") {
+			var imgID = (img.id) ? "id='" + img.id + "' " : ""
+			var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+			var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+			var imgStyle = "display:inline-block;" + img.style.cssText
+			if (img.align == "left") 
+				imgStyle = "float:left;" + imgStyle
+			if (img.align == "right") 
+				imgStyle = "float:right;" + imgStyle
+			if (img.parentElement.href) 
+				imgStyle = "cursor:hand;" + imgStyle
+			var strNewHTML = "<span " + imgID + imgClass + imgTitle +
+			" style=\"" +
+			"width:" +
+			img.width +
+			"px; height:" +
+			img.height +
+			"px;" +
+			imgStyle +
+			";" +
+			"filter:progid:DXImageTransform.Microsoft.AlphaImageLoader" +
+			"(src=\'" +
+			img.src +
+			"\', sizingMethod='scale');\"></span>"
+			img.outerHTML = strNewHTML
+			i = i - 1
+		}
+	}
+}
+
+if (document.all) {
+	window.attachEvent("onload", correctPNG);
+}
+
+</script>
+
+<!--频道头end/-->
+<!--频道导航st/-->
+<!-- <div id="nbaNav">
+	<ul>
+	<li class="nav_01">
+		<span class="current">
+		<a href="nba_schedule_by_month.html"><img src="images/ccc.gif" alt="" /></a>
+	<p><a href="nba_schedule_by_month.html" >赛程</a> <a href="nba_schedule_rockets.html" >火箭</a> <a href="nba_schedule_nets.html" >篮网</a> <a href="nba_schedule_lakers.html" >湖人</a> <a href="nba_schedule_by_day.html" >比分直播</a> <a href="nba_schedule_by_month.html" >电视转播表</a></p>
+		</span>
+		</li>
+	<li class="nav_02">
+		
+	<a href="nba_players.html"><img src="images/ccc.gif" alt="" /></a>
+	<p><a href="nba_players.html" >全部</a> <a href="nba_players_firstyear.html" >新秀</a> <a href="nba_players_2ndyear.html" >二年球员</a> <a href="nba_player_info_yao.html" >姚明</a>  <a href="nba_player_info_yi.html" >易建联</a>  <a href="nba_player_info_kobe.html" >科比</a></p>
+		
+	</li>
+	<li class="nav_03">
+			
+	<a href="nba_teams_rank.html"><img src="images/ccc.gif" alt="" /></a>
+	<p><a href="nba_teams.html" >详细资料</a> <a href="nba_team_info_rockets.html" >火箭</a> <a href="nba_team_info_lakers.html" >湖人</a> <a href="nba_teams_rank.html" >联盟排名</a>  <a href="nba_teams_rank_division.html" >赛区排名</a></p>
+		
+	</li>
+	<li class="nav_04">
+			
+	<a href="nba_player_analysis.html"><img src="images/ccc.gif" alt="" /></a>
+	<p><a href="nba_players_rank.html" >球员排行</a>  <a href="nba_team_data.html" >球队排行</a> <br /><a href="nba_player_analysis.html#effect" >效率榜</a> <a href="nba_player_analysis.html#players" >曲线榜</a> <a href="nba_player_analysis.html#record" >纪录榜</a></p>
+		
+	</li>
+	<li class="nav_05">
+	<a href="http://sports.sohu.com/nba.shtml"><img src="images/ccc.gif" alt="" /></a>
+	<p><a href="http://sports.sohu.com/lanqiu.shtml" >篮球首页</a> <a href="http://nba.sohu.com" >新闻视频</a> <a href="http://s.sohu.com/nbagundong/" >NBA视频</a> <a href="http://boss.sports.sohu.com" >篮球大亨</a></p>
+	</li>
+	</ul>
+</div> -->
+<div id="nbaNavNew">
+         <ul>
+         <li class="w46">
+         <a href="nba_schedule_by_month.html" target="_blank">赛程</a>
+         </li>
+         <li class="w46">
+         <a href="nba_schedule_by_day.html" target="_blank">直播</a>
+         </li>
+         <li class="w46">
+         <a href="nba_teams.html" target="_blank">球队</a>
+         </li>
+         <li class="w46">
+         <a href="nba_players.html" target="_blank">球员</a>
+         </li>
+         <li class="w46">
+         <a href="nba_teams_rank.html" target="_blank">排名</a>
+         </li>
+         <li class="w46">
+         <a href="nba_player_analysis.html#players" target="_blank">走势</a>
+         </li>
+         <li class="w46">
+         <a href="nba_player_info_yao.html" target="_blank">姚明</a>
+         </li>
+         <li class="w63">
+         <a href="nba_player_info_yi.html" target="_blank">易建联</a>
+         </li>
+         <li class="w46">
+         <a href="http://data.sports.sohu.com/nba/nba_player_info.php?playerid=3118" target="_blank">科比</a>
+         </li>
+         <li class="w46">
+         <a href="nba_team_info_rockets.html" target="_blank">火箭</a>
+         </li>
+         <li class="w46">
+         <a href="nba_players_firstyear.html" target="_blank">新秀</a>
+         </li>
+         <li class="w71">
+         <a href="nba_players_rank.html" target="_blank">球员数据</a>
+         </li>
+         <li class="w71">
+         <a href="nba_team_data.html" target="_blank">球队数据</a>
+         </li>
+         <li class="w63">
+         <a href="nba_schedule_by_month.html" target="_blank">直播表</a>
+         </li>
+         
+         <li class="w46">
+         <a href="http://sports.sohu.com/s2005/1555/s224871555.shtml" target="_blank">图片</a>
+         </li>
+         <li class="w46 end">
+         <a href="http://sports.sohu.com/nba.shtml" target="_blank">NBA</a>
+         </li>
+         </ul>
+</div>
+
+<!--频道导航 end/--><!--content st/-->
+
+<!--path st/-->
+<div class="page" id="path">
+	<ul>
+	<li class="nobg"><strong>当前位置：</strong></li>
+	<li><a href="http://sports.sohu.com/">搜狐体育</a></li>
+	<li><a href="http://sports.sohu.com/nba.shtml">篮球</a></li>
+	<li><a href="index.html">NBA数据库</a></li>
+	<li class="nobg"><span>赛程赛果</span></li>
+	</ul>
+	<div class="clear"></div>
+</div>
+<!--path end/-->
+<a name="new_page_begin">
+<div class="page" id="cut01">
+	<div class="title"><img src="images/result_title.jpg" width="930" height="63" alt="" /></div>
+	<div class="blank10"></div>
+	<div class="blockD1">
+		<ul>
+		<li class="on"><a href="nba_schedule_by_day.php#new_page_begin">今日赛程</a></li>
+		<li><a href="nba_schedule_by_month.php#new_page_begin">每月赛程</a></li>
+		<li><a href="nba_schedule_by_team.php#new_page_begin">球队赛程</a></li>
+		</ul>
+	</div>
+</div>
+<div class="page" id="cut08">
+	<div class="bdr">
+		<div class="schedules">
+			<div class="day">
+				<div class="left">
+					<h3>日期速查</h3>
+					<script language="JavaScript" type="text/JavaScript">
+					<!--
+					function toggle(targetid){
+					    if (document.getElementById)
+					 {
+					        target=document.getElementById(targetid);
+					            if (target.style.display=="block")
+					   {
+					               target.style.display="none";
+					             
+					               } else 
+					    {
+					                target.style.display="block";
+					             }
+					     }
+					}
+					-->
+					</script>
+					<div class="sltime">
+						<input class="ipt" type="text" id="butn" value="" onclick="toggle('div1')"/>
+					</div>
+					<div class="calander" id="div1" style="display:none">
+			 <iframe height="180" frameborder="no" width="210" scrolling="no" src="iframe/calendar1.html" marginheight="0" marginwidth="0" border="0" allowTransparency="true"></iframe>
+					</div>
+				</div>
+<script language="javascript">
+var team_id = parseInt("0",10);
+var date = "2012-02-10";
+var week_day = parseInt("",10);
+var ajax_url = "json/ajax.php";
+var last_week_day = '';
+var next_week_day = '';
+function getTeamScheduleWeek(){
+	var pars = "_action=get_team_schedule_week&team_id="+team_id+"&date="+date+"&rnd="+parseInt(Math.random()*999999);
+	var url = ajax_url;
+	var myAjax = new Ajax.Request(url,{method:'get',parameters:pars,onSuccess:setTeamScheduleWeek});
+}
+function setTeamScheduleWeek(transport){
+	var xmlRequest = transport.responseXML;
+	var week_day_a = xmlRequest.getElementsByTagName("week_day");
+	var day_a = xmlRequest.getElementsByTagName("day");
+	var short_day_a = xmlRequest.getElementsByTagName("short_day");
+	var last_week_day_a = xmlRequest.getElementsByTagName("last_week_day");
+	var next_week_day_a = xmlRequest.getElementsByTagName("next_week_day");
+	if(team_id>0){
+		var time_a = xmlRequest.getElementsByTagName("time");
+		var game_code_a = xmlRequest.getElementsByTagName("game_code");
+		var is_final_a = xmlRequest.getElementsByTagName("is_final");
+		var match_info_a = xmlRequest.getElementsByTagName("match_info");
+	}
+	else{
+		var match_count_a = xmlRequest.getElementsByTagName("match_count");
+	}
+	last_week_day = String(last_week_day_a[0].childNodes[0].nodeValue);
+	next_week_day = String(next_week_day_a[0].childNodes[0].nodeValue);
+	var w_d = 0;
+	var tag = '';
+	
+	for(var i=0;i<week_day_a.length;i++){
+		w_d = parseInt(week_day_a[i].childNodes[0].nodeValue,10);
+		tag = 'd_'+w_d;
+		
+		if(team_id>0){
+			if(is_final_a[i].childNodes[0].nodeValue=="1"){
+				$(tag).down("p").update(formatDate(short_day_a[i].childNodes[0].nodeValue));
+				$(tag).down("div").update('<a href="boxscore_html/boxscore_'+game_code_a[i].childNodes[0].nodeValue+'.htm" target="_blank">'+match_info_a[i].childNodes[0].nodeValue+'</a>');
+			}
+			else{
+				$(tag).down("p").update(formatDate(short_day_a[i].childNodes[0].nodeValue));
+				$(tag).down("div").update(match_info_a[i].childNodes[0].nodeValue);
+			}
+		}
+		else{
+			$(tag).down("p").update(formatDate(short_day_a[i].childNodes[0].nodeValue));
+			$(tag).down("div").update('<a href="nba_schedule_by_day.php?teamid='+team_id+'&d='+day_a[i].childNodes[0].nodeValue+'&season_year=2009#new_page_begin">'+match_count_a[i].childNodes[0].nodeValue+'场比赛</a>');
+		}
+		
+		if( String(day_a[i].childNodes[0].nodeValue)==String(date) ){
+			$(tag).addClassName('on');
+		}
+		else{
+			$(tag).removeClassName('on');
+		}
+		
+	}
+}
+function getToday(){
+	var date = new Date();
+	var y = date.getFullYear();
+	var m = date.getMonth() + 1;
+	var d = date.getDate();
+	return y + "-" + m.toPaddedString(2) + "-" + d.toPaddedString(2);
+}
+function formatDate(date){
+	var d = date.split("/");
+	return d[0]+"月"+d[1]+"日";
+}
+function getLastWeek(){
+	var pars = "_action=get_team_schedule_week&team_id="+team_id+"&date="+last_week_day+"&rnd="+parseInt(Math.random()*999999);
+	var url = ajax_url;
+	var myAjax = new Ajax.Request(url,{method:'get',parameters:pars,onSuccess:setTeamScheduleWeek});
+}
+function getNextWeek(){
+	var pars = "_action=get_team_schedule_week&team_id="+team_id+"&date="+next_week_day+"&rnd="+parseInt(Math.random()*999999);
+	var url = ajax_url;
+	var myAjax = new Ajax.Request(url,{method:'get',parameters:pars,onSuccess:setTeamScheduleWeek});
+}
+function getDefaultWeek(){
+	var pars = "_action=get_team_schedule_week&team_id="+team_id+"&date=&rnd="+parseInt(Math.random()*999999);
+	var url = ajax_url;
+	var myAjax = new Ajax.Request(url,{method:'get',parameters:pars,onSuccess:setTeamScheduleWeek});
+}
+Event.observe(window,"load",getTeamScheduleWeek);
+</script>
+				<div class="right">
+					<div class="btn"><img onclick="getLastWeek();" src="images/btn_l.gif" width="36" height="72" alt="" /></div>
+					<div class="time">
+						<ul>
+							<li id="d_1">
+							<p></p><p>星期一</p>
+							<div class="session"></div>
+							</li>
+							<li id="d_2">
+							<p></p><p>星期二</p>
+							<div class="session"></div>
+							</li>
+							<li id="d_3">
+							<p></p><p>星期三</p>
+							<div class="session"></div>
+							</li>
+							<li id="d_4">
+							<p></p><p>星期四</p>
+							<div class="session"></div>
+							</li>
+							<li id="d_5">
+							<p></p><p>星期五</p>
+							<div class="session"></div>
+							</li>
+							<li id="d_6">
+							<p></p><p>星期六</p>
+							<div class="session"></div>
+							</li>
+							<li class="nobdr" id="d_7">
+							<p></p><p>星期日</p>
+							<div class="session"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="btn"><img onclick="getNextWeek();" src="images/btn_r.gif" width="36" height="72" alt="" /></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<div class="blank10"></div>
+			<div class="title"><h2>赛程</h2></div>
+			<div class="tab">
+			<table cellspacing="1">
+				<tr class="tit">
+					<td class="e15">日期</td>
+					<td class="e16">时间</td>
+					<td class="e16">客队</td>
+					<td class="e16">比分</td>
+					<td class="e16">主队</td>
+					<td class="e16">状态</td>
+					<td class="e17">数据报告</td>
+					<td class="e18">报道</td>
+					<td class="e19">电视转播表</td>
+				</tr>
+                    				<tr class="gray" onmouseover="this.className='on'" onmouseout="this.className='gray'">
+          
+					<td class="e15">2012-02-10 周五</td>
+					<td class="e16"> 09:00:00</td>
+					<td class="e16"><span class="bluetext ft12"><a href="nba_team_info.php?teamid=13" target="_blank"><font color="blue"><b>湖人</b></font></a></td>
+					<td class="e16">
+            			<span class="bluetxt">
+            <a href="boxscore_html/boxscore_2012020902.htm" target="_blank">
+            	            	<span class="red">88</span>-87
+            	            </a>
+			</span>
+								</td>
+					<td class="e16"><span class="bluetext ft12"><a href="nba_team_info.php?teamid=2" target="_blank">凯尔特人</a></span></td>
+					<td class="e16"><span class="bluetext ft12">
+										终场
+										</span></td>
+					<td class="e17"><span class="bluetext ft12">
+										<a href="live_html/nba_shot_chart_2012020902.htm" target="_blank">投篮点</a>|
+					<a href="boxscore_html/boxscore_2012020902.htm" target="_blank">技术统计</a>|
+					<a href="live_html/nba_live_2012020902.htm" target="_blank">比分直播</a>
+										</span>
+					</td>
+					<td class="e18">
+			            <a href="http://sports.sohu.com/20120210/n334345988.shtml" target="_blank">战报</a>
+                                    <a href="http://sports.sohu.com/20120210/n334323165.shtml" target="_blank">组图</a>
+                                    视频
+            			</td>
+					<td class="e19"></td>
+				</tr>
+				          				<tr class="white" onmouseover="this.className='on'" onmouseout="this.className='white'">
+          
+					<td class="e15"></td>
+					<td class="e16"> 10:00:00</td>
+					<td class="e16"><span class="bluetext ft12"><a href="nba_team_info.php?teamid=9" target="_blank">勇士</a></td>
+					<td class="e16">
+            			<span class="bluetxt">
+            <a href="boxscore_html/boxscore_2012020907.htm" target="_blank">
+            	            	<span class="red">109</span>-101
+            	            </a>
+			</span>
+								</td>
+					<td class="e16"><span class="bluetext ft12"><a href="nba_team_info.php?teamid=7" target="_blank">掘金</a></span></td>
+					<td class="e16"><span class="bluetext ft12">
+										终场
+										</span></td>
+					<td class="e17"><span class="bluetext ft12">
+										<a href="live_html/nba_shot_chart_2012020907.htm" target="_blank">投篮点</a>|
+					<a href="boxscore_html/boxscore_2012020907.htm" target="_blank">技术统计</a>|
+					<a href="live_html/nba_live_2012020907.htm" target="_blank">比分直播</a>
+										</span>
+					</td>
+					<td class="e18">
+			            <a href="http://sports.sohu.com/20120210/n334350623.shtml" target="_blank">战报</a>
+                                    <a href="http://sports.sohu.com/20120210/n334349262.shtml" target="_blank">组图</a>
+                                    视频
+            			</td>
+					<td class="e19"></td>
+				</tr>
+				          				<tr class="gray" onmouseover="this.className='on'" onmouseout="this.className='gray'">
+          
+					<td class="e15"></td>
+					<td class="e16"> 10:00:00</td>
+					<td class="e16"><span class="bluetext ft12"><a href="nba_team_info.php?teamid=10" target="_blank"><font color="blue"><b>火箭</b></font></a></td>
+					<td class="e16">
+            			<span class="bluetxt">
+            <a href="boxscore_html/boxscore_2012020921.htm" target="_blank">
+            	            	<span class="red">96</span>-89
+            	            </a>
+			</span>
+								</td>
+					<td class="e16"><span class="bluetext ft12"><a href="nba_team_info.php?teamid=21" target="_blank">太阳</a></span></td>
+					<td class="e16"><span class="bluetext ft12">
+										终场
+										</span></td>
+					<td class="e17"><span class="bluetext ft12">
+										<a href="live_html/nba_shot_chart_2012020921.htm" target="_blank">投篮点</a>|
+					<a href="boxscore_html/boxscore_2012020921.htm" target="_blank">技术统计</a>|
+					<a href="live_html/nba_live_2012020921.htm" target="_blank">比分直播</a>
+										</span>
+					</td>
+					<td class="e18">
+			            <a href="http://sports.sohu.com/20120210/n334349598.shtml" target="_blank">战报</a>
+                                    <a href="http://sports.sohu.com/20120210/n334337746.shtml" target="_blank">组图</a>
+                                    视频
+            			</td>
+					<td class="e19"></td>
+				</tr>
+				          				<tr class="white" onmouseover="this.className='on'" onmouseout="this.className='white'">
+          
+					<td class="e15"></td>
+					<td class="e16"> 11:30:00</td>
+					<td class="e16"><span class="bluetext ft12"><a href="nba_team_info.php?teamid=25" target="_blank">雷霆</a></td>
+					<td class="e16">
+            			<span class="bluetxt">
+            <a href="boxscore_html/boxscore_2012020923.htm" target="_blank">
+            	            	101-<span class="red">106</span>
+            	            </a>
+			</span>
+								</td>
+					<td class="e16"><span class="bluetext ft12"><a href="nba_team_info.php?teamid=23" target="_blank">国王</a></span></td>
+					<td class="e16"><span class="bluetext ft12">
+										终场
+										</span></td>
+					<td class="e17"><span class="bluetext ft12">
+										<a href="live_html/nba_shot_chart_2012020923.htm" target="_blank">投篮点</a>|
+					<a href="boxscore_html/boxscore_2012020923.htm" target="_blank">技术统计</a>|
+					<a href="live_html/nba_live_2012020923.htm" target="_blank">比分直播</a>
+										</span>
+					</td>
+					<td class="e18">
+			            <a href="http://sports.sohu.com/20120210/n334359657.shtml" target="_blank">战报</a>
+                                    <a href="http://sports.sohu.com/20120210/n334357954.shtml" target="_blank">组图</a>
+                                    视频
+            			</td>
+					<td class="e19"></td>
+				</tr>
+							</table>
+			</div>
+		</div>
+		<div class="blank10"></div>
+	</div>
+	<div class="blank50"></div>
+</div>
+
+<!--content end/-->
+<!--标准尾st/-->
+<div id="foot" class="area">
+<a href="javascript:void(0)" onClick=this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;>设置首页</a>
+- <a href=http://pinyin.sogou.com/ target=_blank>搜狗输入法</a>
+- <a href=http://up.sohu.com/ target=_blank>支付中心</a>
+- <a href=http://hr.sohu.com target=_blank>搜狐招聘</a>
+- <a href=http://ad.sohu.com/ target=_blank>广告服务</a>
+- <a href=http://sohucallcenter.blog.sohu.com/ target=_blank>客服中心</a>
+- <a href=http://corp.sohu.com/s2006/contactus/ target=_blank>联系方式</a>
+- <a href=http://www.sohu.com/about/privacy.html target=_blank>保护隐私权</a>
+- <a href=http://corp.sohu.com/ target=_blank>About SOHU</a>
+- <a href=http://corp.sohu.com/indexcn.shtml target=_blank>公司介绍</a>
+<br />Copyright &copy; 2011 Sohu.com Inc. All Rights Reserved. 搜狐公司 <span class="unline"><a href="http://corp.sohu.com/s2007/copyright/" target="_blank">版权所有</a></span>
+<br />搜狐不良信息举报电话：010－62728061 举报邮箱：<a href="mailto:jubao@contact.sohu.com">jubao@contact.sohu.com</a>
+<div class="clear"></div>
+</div>
+<!--标准尾end/-->
+<script id="pv_section" language="javascript" src="http://js.sohu.com/mail/pv/pv_v202_ajax.js"></script>
+<script language="javascript" src="http://js.sohu.com/wrating0820.js"></script>
+<script language="javascript">
+var  _wratingId = null;
+try{
+_wratingId = _getAcc();
+}catch(e){}
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+
+</body>
+</html>

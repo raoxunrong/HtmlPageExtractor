@@ -1,0 +1,443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-CN">
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Ms Sql | 点滴之间 聚沙成金</title>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.path8.net/tn/wp-content/themes/zbench/style.css" />
+	<link rel="pingback" href="http://www.path8.net/tn/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; Feed" href="http://www.path8.net/tn/feed" />
+<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; 评论 Feed" href="http://www.path8.net/tn/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; ms sql 分类目录 Feed" href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/feed" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.path8.net/tn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.path8.net/tn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+
+<!-- All in One SEO Pack 1.6.13.8 by Michael Torbert of Semper Fi Web Design[301,347] -->
+<meta name="robots" content="noindex,follow" />
+<link rel="canonical" href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server" />
+<!-- /all in one seo pack -->
+
+<style type="text/css">.navigation{display: none;}</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- wp thread comment 1.4.9.4.002 -->
+<style type="text/css" media="screen">
+.editComment, .editableComment, .textComment{
+	display: inline;
+}
+.comment-childs{
+	border: 1px solid #999;
+	margin: 5px 2px 2px 4px;
+	padding: 4px 2px 2px 4px;
+	background-color: white;
+}
+.chalt{
+	background-color: #E2E2E2;
+}
+#newcomment{
+	border:1px dashed #777;width:90%;
+}
+#newcommentsubmit{
+	color:red;
+}
+.adminreplycomment{
+	border:1px dashed #777;
+	width:99%;
+	margin:4px;
+	padding:4px;
+}
+.mvccls{
+	color: #999;
+}
+			
+</style>
+</head>
+<body class="archive category category-ms-sql-server category-14">
+<div id="nav">
+	<div id="menus">
+		<ul><li><a href="http://www.path8.net/tn/">首页</a></li></ul>
+		<ul id="menu-%e4%b8%bb%e8%8f%9c%e5%8d%95" class="menu"><li id="menu-item-2817" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2817"><a href="http://www.path8.net/tn/archives/category/private">原创文章</a></li>
+<li id="menu-item-2816" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2816"><a href="http://www.path8.net/tn/archives/category/web-technique/php-hypertext-preprocessor">PHP</a></li>
+<li id="menu-item-2811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2811"><a href="http://www.path8.net/tn/mesgbox">敬请留言</a></li>
+<li id="menu-item-2813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2813"><a href="http://www.path8.net/tn/about">关于</a>
+<ul class="sub-menu">
+	<li id="menu-item-4300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4300"><a href="http://www.path8.net/tn/about/master-log">站长日志</a></li>
+	<li id="menu-item-2830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2830"><a href="http://www.path8.net/tn/why-luowuzhe">关于我</a></li>
+</ul>
+</li>
+<li id="menu-item-4933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4933"><a href="http://blog.path8.net">本站将转至...</a></li>
+</ul>	</div>
+	<div id="search">
+		<form id="searchform" method="get" action="http://www.path8.net/tn/">
+<input type="text" value="站内搜索" onfocus="if (this.value == '站内搜索') {this.value = '';}" onblur="if (this.value == '') {this.value = '站内搜索';}" size="35" maxlength="50" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="搜索" />
+</form>	</div>
+</div>
+<div id="wrapper">
+	<div id="header">		<h1><a href="http://www.path8.net/tn/">点滴之间 聚沙成金</a></h1>
+		<h2>一个落伍者的博客 关注于web开发, linux, 安全. etc</h2>
+		<div class="clear"></div>
+			</div>
+<div id="content">
+		<div class="page-title">
+					<h1>分类存档: <span>ms sql</span></h1>
+			</div>
+		<div class="post-4690 post type-post status-publish format-standard hentry category-ms-sql-server tag-mssql tag-856" id="post-4690"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4690" title="链接到 简单统计SQLSERVER用户数据表大小(包括记录总数和空间占用情况)">简单统计SQLSERVER用户数据表大小(包括记录总数和空间占用情况)</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4690" title="16:05" rel="bookmark">2011/07/11</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4690#respond" title="《简单统计SQLSERVER用户数据表大小(包括记录总数和空间占用情况)》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4690" title="简单统计SQLSERVER用户数据表大小(包括记录总数和空间占用情况)"></a><p>/* 1. exec sp_spaceused '表名' （SQL统计数据，大量事务操作后可能不准） 2. exec sp_spaceused '表名', true (更新表的空间大小，准确的表空大小，但可能会花些统计时间） 3. exec sp_spaceused (数据库大小查询） 4. exec sp_MSforeachtable "exec sp_spaceused '?'" (所有用户表空间表小，SQL统计数据，，大量事务操作后可能不准） 5. exec sp_MSforeachtable "exec sp_spaceused '?',true" (所有用户表空间表小，大数据库慎用） */<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4690" title="简单统计SQLSERVER用户数据表大小(包括记录总数和空间占用情况)" target="_blank">阅读全文——共469字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4639 post type-post status-publish format-standard hentry category-ms-sql-server category-private tag-mssql tag-sql-server tag-156 tag-278" id="post-4639"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4639" title="链接到 不用“维护计划”实现mssql定期备份并压缩存档">不用“维护计划”实现mssql定期备份并压缩存档</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4639" title="21:43" rel="bookmark">2011/06/30</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4639#respond" title="《不用“维护计划”实现mssql定期备份并压缩存档》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4639" title="不用“维护计划”实现mssql定期备份并压缩存档"></a><p>mssql有命令行客户端工作，可以通过bat脚本调用命令行工具执行备份命令，这样还可以很方便的调用7z,(win)rar等来自动压缩，比mssql 自带的维护计划灵活多了。“维护计划”好像也可以调用压缩工具，只是要启用xp_cmd这个很风险的存储过程，让人不安心，所以一般不这么用，备份文件都是手工压缩再下载到本地存档备份。<br />
+MS sql 的官方命令行客户端叫sqlcmd，ms sql2005默认安装的，位于 X:\Program Files\Microsoft SQL Server\90\Tools\Binn ,该目录会被自动加入windows 的PATH环境变量中，所以可以直接调用，先看看基本的帮助文档：<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4639" title="不用“维护计划”实现mssql定期备份并压缩存档" target="_blank">阅读全文——共2605字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4657 post type-post status-publish format-standard hentry category-ms-sql-server category-private tag-mssql tag-sql-server tag-156 tag-851" id="post-4657"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4657" title="链接到 ms sql server 2005维护计划（备份）失败:应用于目标服务器 对于 xx 失败">ms sql server 2005维护计划（备份）失败:应用于目标服务器 对于 xx 失败</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4657" title="21:43" rel="bookmark">2011/06/30</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4657#respond" title="《ms sql server 2005维护计划（备份）失败:应用于目标服务器 对于 xx 失败》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4657" title="ms sql server 2005维护计划（备份）失败:应用于目标服务器 对于 xx 失败"></a><p>ms sql server 2005维护计划（备份）失败:应用于目标服务器 对于 xx 失败，消息如下<br />
+ms sql server 2005维护计划（备份）失败:应用于目标服务器 对于 xx 失败<br />
+而这个错误，又没有详细的说明，为什么失败，失败在哪里；不说明详细原因，这也是微软的产品经常让人很崩溃的重要原因之一。<br />
+网上也有人遇到这这种问题，只是找了个遍也都没有看到解决方法；不知道是否重启一下windows会不会好，但因为是生产环境的服务器，不便于重启。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4657" title="ms sql server 2005维护计划（备份）失败:应用于目标服务器 对于 xx 失败" target="_blank">阅读全文——共2918字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4642 post type-post status-publish format-standard hentry category-ms-sql-server tag-mssql tag-sql-server tag-848 tag-156" id="post-4642"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4642" title="链接到 sql server 2005 使用命令行备份数据">sql server 2005 使用命令行备份数据</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4642" title="13:41" rel="bookmark">2011/06/30</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4642#respond" title="《sql server 2005 使用命令行备份数据》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4642" title="sql server 2005 使用命令行备份数据"></a><p>使用sql server 2005提供的命令行工具sqlcmd，配合任务计划可以完成命令行形式的定期备份。<br />
+假定备份的数据库地址是 192.168.0.1，数据库名为testdb，sa密码为123456，备份目录为D盘的backup<br />
+使用sql语句备份如下：<br />
+backup database testdb to disk='d:\backup\testdb.bak'<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4642" title="sql server 2005 使用命令行备份数据" target="_blank">阅读全文——共6997字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3724 post type-post status-publish format-standard hentry category-ms-sql-server tag-695" id="post-3724"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3724" title="链接到 如何将MS SQL server数据库设置为单用户模式">如何将MS SQL server数据库设置为单用户模式</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3724" title="18:41" rel="bookmark">2010/12/27</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3724#respond" title="《如何将MS SQL server数据库设置为单用户模式》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3724" title="如何将MS SQL server数据库设置为单用户模式"></a><p>提问：<br />
+如何将数据库设置为单用户模式，并将访问限制为只供 dbo 使用？<br />
+解答：<br />
+在 sql server 2000 中，数据库不能同时为单用户模式和只供 dbo 使用模式。而以下可选选项可以通过使用 alter database 命令来使用：<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3724" title="如何将MS SQL server数据库设置为单用户模式" target="_blank">阅读全文——共305字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3471 post type-post status-publish format-standard hentry category-ms-sql-server category-php-hypertext-preprocessor category-private tag-mssql tag-php tag-text" id="post-3471"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3471" title="链接到 PHP+MSSQL TEXT字段被截断的解决方案">PHP+MSSQL TEXT字段被截断的解决方案</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3471" title="09:21" rel="bookmark">2010/12/10</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3471#respond" title="《PHP+MSSQL TEXT字段被截断的解决方案》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3471" title="PHP+MSSQL TEXT字段被截断的解决方案"></a><p>在连接mssql 数据库前，先执行如下php代码，对mssql库的textlimit进行运行时改变设置。<br />
+ini_set('mssql.textlimit',4294967296);<br />
+ini_set('mssql.textsize',4294967296);<br />
+4294967296=65536^2  ，对于大多数情况，这个长度已经足够用了；如果text字段最大长度比4294967296还大，那就自己把这个值改得更大一点.<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3471" title="PHP+MSSQL TEXT字段被截断的解决方案" target="_blank">阅读全文——共1540字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-3419 post type-post status-publish format-standard hentry category-ms-sql-server category-php-hypertext-preprocessor category-private tag-mssql tag-unix tag-631 tag-330" id="post-3419"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/3419" title="链接到 php中ms sql server日期时间类型转换成 unix时间戳">php中ms sql server日期时间类型转换成 unix时间戳</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/3419" title="10:30" rel="bookmark">2010/12/02</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/3419#respond" title="《php中ms sql server日期时间类型转换成 unix时间戳》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/3419" title="php中ms sql server日期时间类型转换成 unix时间戳"></a><p>写一个转换程序，旨在把一套asp+mssql博客系统数据迁移到php+mysql系统下，需要转换日期类型(mssql数据库里的日期时间类型datetime值)为unix时间戳，但发现mssql里读取到的时间通过<br />
+$dateline=(int)strtotime($row['addtime']);<br />
+转换，得到的值是0，很奇怪；检查后发现，$row['addtime']的时间格式不太正常，形式如下：<br />
+06 28 2007  2:21PM<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/3419" title="php中ms sql server日期时间类型转换成 unix时间戳" target="_blank">阅读全文——共1587字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4914 post type-post status-publish format-standard hentry category-ms-sql-server tag-mssql tag-287 tag-885" id="post-4914"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4914" title="链接到 mssql server 清空事务日志">mssql server 清空事务日志</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4914" title="09:05" rel="bookmark">2010/10/21</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4914#respond" title="《mssql server 清空事务日志》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4914" title="mssql server 清空事务日志"></a><p>1.清空日志：DUMP   TRANSACTION   databasename   WITH   NO_LOG<br />
+2.截断事务日志：BACKUP   LOG   databasename   WITH   NO_LOG<br />
+3.收缩数据库：DBCC   SHRINKDATABASE(databasename)<br />
+DUMP TRANSACTION databasename WITH NO_LOG<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4914" title="mssql server 清空事务日志" target="_blank">阅读全文——共233字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-2305 post type-post status-publish format-standard hentry category-ms-sql-server tag-delete tag-drop tag-sql tag-truncate tag-424" id="post-2305"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/2305" title="链接到 SQL Server中truncate、delete和drop的异同点">SQL Server中truncate、delete和drop的异同点</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/2305" title="10:46" rel="bookmark">2010/09/07</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/2305#respond" title="《SQL Server中truncate、delete和drop的异同点》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/2305" title="SQL Server中truncate、delete和drop的异同点"></a><p>正在加载数据...<br />
+　　相同点：<br />
+　　truncate和不带where子句的delete，以及drop都会删除表内的数据<br />
+　　不同点：<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/2305" title="SQL Server中truncate、delete和drop的异同点" target="_blank">阅读全文——共843字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-2041 post type-post status-publish format-standard hentry category-ms-sql-server tag-mssql tag-459" id="post-2041"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/2041" title="链接到 MS SQL 2005 四个排序函数ROW_NUMBER、RANK、DENSE_RANK 和 NTILE简介用法/结果排名排序">MS SQL 2005 四个排序函数ROW_NUMBER、RANK、DENSE_RANK 和 NTILE简介用法/结果排名排序</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/2041" title="13:59" rel="bookmark">2010/07/08</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/2041#respond" title="《MS SQL 2005 四个排序函数ROW_NUMBER、RANK、DENSE_RANK 和 NTILE简介用法/结果排名排序》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/2041" title="MS SQL 2005 四个排序函数ROW_NUMBER、RANK、DENSE_RANK 和 NTILE简介用法/结果排名排序"></a><p>在SQL 2005中存在四种排名函数：  ROW_NUMBER、RANK、DENSE_RANK 和  NTILE。这些新函数可以有效地分析数据以及向查询的结果行提供排序值。您可能发现这些新函数有用的典型方案包括：将连续整数分配给结果行，以便进行表 示、分页、计分和绘制直方图。       下面通过具体的方案将用来讨论和演示不同的函数和它们的子句。       十一位演讲者在会议中发表演讲，并且为他们的讲话获得范围为 1 到 9 的分数。结果被总结并存储在下面的 SpeakerStats 表中：<br />
+CodeCREATE TABLE SpeakerStats(     speaker        VARCHAR(10) NOT NULL PRIMARY KEY    , track           VARCHAR(10) NOT NULL    , score          INT         NOT NULL    , pctfilledevals INT         NOT NULL    , numsessions    INT         NOT NULL)<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/2041" title="MS SQL 2005 四个排序函数ROW_NUMBER、RANK、DENSE_RANK 和 NTILE简介用法/结果排名排序" target="_blank">阅读全文——共7218字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+	<!-- pb259 --><div class="pagebar">Pages:&nbsp;<span class="this-page">1</span>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/2" title="Page 2">2</a>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/3" title="Page 3">3</a>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/4" title="Page 4">4</a>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/5" title="Page 5">5</a>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/2" title="Page 2">Next</a>
+</div><div id="pagination"><a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/2" >下一页 &raquo;</a></div></div><!--content-->
+<div id="sidebar-border">
+	<div id="rss_border">
+		<div class="rss_border">
+			<div id="rss_wrap">
+				<div class="rss_wrap">
+										<a class="rss " href="http://www.path8.net/tn/feed" rel="bookmark" title="RSS 订阅">RSS 订阅</a>
+										<a class="twitter" href="http://twitter.com/fengyqf" rel="author" title="Follow me on twitter.">Follow me on twitter.</a>
+																													</div>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar">
+
+<div id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widgettitle">标签</h3><div class="tagcloud"><a href='http://www.path8.net/tn/archives/tag/apache' class='tag-link-65' title='30 个话题' style='font-size: 13.577235772358pt;'>apache</a>
+<a href='http://www.path8.net/tn/archives/tag/asp' class='tag-link-100' title='9 个话题' style='font-size: 8pt;'>asp</a>
+<a href='http://www.path8.net/tn/archives/tag/baidu' class='tag-link-37' title='11 个话题' style='font-size: 8.9105691056911pt;'>baidu</a>
+<a href='http://www.path8.net/tn/archives/tag/fedora' class='tag-link-139' title='10 个话题' style='font-size: 8.4552845528455pt;'>fedora</a>
+<a href='http://www.path8.net/tn/archives/tag/fkgxx' class='tag-link-751' title='10 个话题' style='font-size: 8.4552845528455pt;'>fkgxx</a>
+<a href='http://www.path8.net/tn/archives/tag/google' class='tag-link-52' title='18 个话题' style='font-size: 11.186991869919pt;'>google</a>
+<a href='http://www.path8.net/tn/archives/tag/http' class='tag-link-152' title='15 个话题' style='font-size: 10.276422764228pt;'>http</a>
+<a href='http://www.path8.net/tn/archives/tag/iis' class='tag-link-92' title='11 个话题' style='font-size: 8.9105691056911pt;'>IIS</a>
+<a href='http://www.path8.net/tn/archives/tag/linux' class='tag-link-8' title='168 个话题' style='font-size: 22pt;'>Linux</a>
+<a href='http://www.path8.net/tn/archives/tag/mssql' class='tag-link-101' title='13 个话题' style='font-size: 9.7073170731707pt;'>mssql</a>
+<a href='http://www.path8.net/tn/archives/tag/mysql' class='tag-link-111' title='58 个话题' style='font-size: 16.764227642276pt;'>MySQL</a>
+<a href='http://www.path8.net/tn/archives/tag/php' class='tag-link-21' title='58 个话题' style='font-size: 16.764227642276pt;'>PHP</a>
+<a href='http://www.path8.net/tn/archives/tag/rewrite' class='tag-link-115' title='10 个话题' style='font-size: 8.4552845528455pt;'>rewrite</a>
+<a href='http://www.path8.net/tn/archives/tag/search-engin-optimze' class='tag-link-19' title='17 个话题' style='font-size: 10.959349593496pt;'>SEO</a>
+<a href='http://www.path8.net/tn/archives/tag/sql' class='tag-link-242' title='10 个话题' style='font-size: 8.4552845528455pt;'>sql</a>
+<a href='http://www.path8.net/tn/archives/tag/sql-server' class='tag-link-121' title='15 个话题' style='font-size: 10.276422764228pt;'>SQL Server</a>
+<a href='http://www.path8.net/tn/archives/tag/sql%e6%b3%a8%e5%85%a5' class='tag-link-168' title='12 个话题' style='font-size: 9.2520325203252pt;'>sql注入</a>
+<a href='http://www.path8.net/tn/archives/tag/ssh' class='tag-link-257' title='18 个话题' style='font-size: 11.186991869919pt;'>SSH</a>
+<a href='http://www.path8.net/tn/archives/tag/vi' class='tag-link-161' title='10 个话题' style='font-size: 8.4552845528455pt;'>vi</a>
+<a href='http://www.path8.net/tn/archives/tag/vim' class='tag-link-369' title='13 个话题' style='font-size: 9.7073170731707pt;'>vim</a>
+<a href='http://www.path8.net/tn/archives/tag/web%e5%ae%89%e5%85%a8' class='tag-link-44' title='9 个话题' style='font-size: 8pt;'>web安全</a>
+<a href='http://www.path8.net/tn/archives/tag/windows' class='tag-link-150' title='11 个话题' style='font-size: 8.9105691056911pt;'>windows</a>
+<a href='http://www.path8.net/tn/archives/tag/wordpress' class='tag-link-193' title='26 个话题' style='font-size: 12.894308943089pt;'>wordpress</a>
+<a href='http://www.path8.net/tn/archives/tag/yum' class='tag-link-107' title='10 个话题' style='font-size: 8.4552845528455pt;'>YUM</a>
+<a href='http://www.path8.net/tn/archives/tag/%e4%b8%8a%e6%b5%b7' class='tag-link-417' title='11 个话题' style='font-size: 8.9105691056911pt;'>上海</a>
+<a href='http://www.path8.net/tn/archives/tag/%e4%bc%98%e5%8c%96' class='tag-link-169' title='19 个话题' style='font-size: 11.414634146341pt;'>优化</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%86%85%e6%a0%b8' class='tag-link-423' title='17 个话题' style='font-size: 10.959349593496pt;'>内核</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%87%bd%e6%95%b0' class='tag-link-163' title='10 个话题' style='font-size: 8.4552845528455pt;'>函数</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%88%86%e5%8c%ba%e8%a1%a8' class='tag-link-596' title='12 个话题' style='font-size: 9.2520325203252pt;'>分区表</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%8e%86%e5%8f%b2' class='tag-link-667' title='11 个话题' style='font-size: 8.9105691056911pt;'>历史</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%91%bd%e4%bb%a4' class='tag-link-155' title='28 个话题' style='font-size: 13.235772357724pt;'>命令</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%9c%b0%e5%9b%be' class='tag-link-416' title='14 个话题' style='font-size: 10.048780487805pt;'>地图</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ad%97%e7%ac%a6' class='tag-link-362' title='11 个话题' style='font-size: 8.9105691056911pt;'>字符</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ae%89%e5%85%a8' class='tag-link-33' title='22 个话题' style='font-size: 12.09756097561pt;'>安全</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ae%89%e8%a3%85' class='tag-link-75' title='14 个话题' style='font-size: 10.048780487805pt;'>安装</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%95%99%e7%a8%8b' class='tag-link-133' title='9 个话题' style='font-size: 8pt;'>教程</a>
+<a href='http://www.path8.net/tn/archives/tag/filesystem' class='tag-link-124' title='9 个话题' style='font-size: 8pt;'>文件系统</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%97%a0%e7%ba%bf' class='tag-link-34' title='30 个话题' style='font-size: 13.577235772358pt;'>无线</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%b3%a8%e5%85%a5' class='tag-link-166' title='11 个话题' style='font-size: 8.9105691056911pt;'>注入</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%99%be%e5%ba%a6' class='tag-link-36' title='12 个话题' style='font-size: 9.2520325203252pt;'>百度</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a0%b4%e8%a7%a3' class='tag-link-32' title='20 个话题' style='font-size: 11.642276422764pt;'>破解</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a1%ac%e7%9b%98' class='tag-link-196' title='21 个话题' style='font-size: 11.869918699187pt;'>硬盘</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a4%be%e4%bc%9a%e5%b7%a5%e7%a8%8b%e5%ad%a6' class='tag-link-48' title='9 个话题' style='font-size: 8pt;'>社会工程学</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%bc%96%e7%a0%81' class='tag-link-363' title='13 个话题' style='font-size: 9.7073170731707pt;'>编码</a>
+<a href='http://www.path8.net/tn/archives/tag/%e9%85%8d%e7%bd%ae' class='tag-link-129' title='29 个话题' style='font-size: 13.463414634146pt;'>配置</a></div>
+</div><div id="text-7" class="widget widget_text"><h3 class="widgettitle">t.sina</h3>			<div class="textwidget"><iframe id="sina_widget_1094951817" style="width:100%; height:500px;" frameborder="0" scrolling="no" src="http://v.t.sina.com.cn/widget/widget_blog.php?uid=1094951817&height=500&skin=wd_01&showpic=1"></iframe></div>
+		</div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle">近期文章</h3>		<ul>
+				<li><a href="http://www.path8.net/tn/archives/4940" title="上海交通大学教授de量子医学通过中央电视台“走近科学”">上海交通大学教授de量子医学通过中央电视台“走近科学”</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4925" title="解决ssh连接linux服务器速度慢">解决ssh连接linux服务器速度慢</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4921" title="putty详细使用说明 (windows下)">putty详细使用说明 (windows下)</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4912" title="[转]Pentadactyl,让firefox按vim习惯运行的插件">[转]Pentadactyl,让firefox按vim习惯运行的插件</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4908" title="Linux下使用sed编辑器详解">Linux下使用sed编辑器详解</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4892" title="悲剧，狗爹虚拟主机的ssh禁用转发了">悲剧，狗爹虚拟主机的ssh禁用转发了</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4876" title="简明 Vim 练级攻略">简明 Vim 练级攻略</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4873" title="centos 6 linux下禁用触摸板（通过命令行实现）">centos 6 linux下禁用触摸板（通过命令行实现）</a></li>
+		<!-- pb259 --><div class="pagebar">Pages:&nbsp;<span class="this-page">1</span>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/2" title="Page 2">2</a>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/3" title="Page 3">3</a>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/4" title="Page 4">4</a>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/5" title="Page 5">5</a>
+<a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server/page/2" title="Page 2">Next</a>
+</div>		</ul>
+		</div><div id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widgettitle">近期评论</h3><ul id="recentcomments"><li class="recentcomments"><a href='http://yoyo.play175.com/' rel='external nofollow' class='url'>yoyo</a> 发表在《<a href="http://www.path8.net/tn/archives/4796/comment-page-1#comment-9400">htaccess 控制目录浏览</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9390">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">强少爷 发表在《<a href="http://www.path8.net/tn/archives/1889/comment-page-1#comment-9362">TortoiseSVN 405错误：服务器发送了意外的返回值(405 Method Not Allowed)，在响应 “MKCOL” 的请求</a>》</li><li class="recentcomments">feng 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9264">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">薇 发表在《<a href="http://www.path8.net/tn/archives/2641/comment-page-1#comment-9257">wordpress首页只显示某个分类的文章/插件实现（完美实现，附插件源码）</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/mesgbox/comment-page-1#comment-9220">敬请留言</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9219">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">Luy 发表在《<a href="http://www.path8.net/tn/why-luowuzhe/comment-page-1#comment-8771">why “落伍者”?</a>》</li><li class="recentcomments"><a href='http://www.huangjianyu.netai.net/2012/01/30/%e6%9e%81%e7%ae%80%e5%8d%95%e7%ae%80%e9%99%8b%e7%9a%84wordpress%e6%8f%92%e4%bb%b6%ef%bc%9a%e7%bd%91%e7%ab%99%e8%ae%bf%e5%ae%a2%e8%bf%bd%e8%b8%aa%e8%ae%b0%e5' rel='external nofollow' class='url'>极简单/简陋的wordpress插件：网站访客追踪记录 | Huang Jianyu 黄建宇&#039;s SKY</a> 发表在《<a href="http://www.path8.net/tn/archives/145/comment-page-1#comment-8498">极简单/简陋的wordpress插件：网站访客追踪记录</a>》</li><li class="recentcomments"><a href='http://www.gotousa.tk' rel='external nofollow' class='url'>james</a> 发表在《<a href="http://www.path8.net/tn/archives/145/comment-page-1#comment-8497">极简单/简陋的wordpress插件：网站访客追踪记录</a>》</li></ul></div><div id="categories-3" class="widget widget_categories"><h3 class="widgettitle">分类目录</h3>		<ul>
+	<li class="cat-item cat-item-9"><a href="http://www.path8.net/tn/archives/category/ee" title="查看 e搞 下的所有文章">e搞</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.path8.net/tn/archives/category/linux" title="查看 Linux 下的所有文章">Linux</a>
+<ul class='children'>
+	<li class="cat-item cat-item-568"><a href="http://www.path8.net/tn/archives/category/linux/shell-programming" title="查看 shell编程 下的所有文章">shell编程</a>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://www.path8.net/tn/archives/category/linux/filesystem" title="查看 文件系统 下的所有文章">文件系统</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-24 current-cat-parent"><a href="http://www.path8.net/tn/archives/category/web-technique" title="查看 web技术 下的所有文章">web技术</a>
+<ul class='children'>
+	<li class="cat-item cat-item-209"><a href="http://www.path8.net/tn/archives/category/web-technique/apache-web-technique" title="查看 apache 下的所有文章">apache</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.path8.net/tn/archives/category/web-technique/asp-note" title="查看 Asp 下的所有文章">Asp</a>
+</li>
+	<li class="cat-item cat-item-14 current-cat"><a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server" title="查看 ms sql 下的所有文章">ms sql</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.path8.net/tn/archives/category/web-technique/mysql-server" title="查看 MySQL 下的所有文章">MySQL</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.path8.net/tn/archives/category/web-technique/php-hypertext-preprocessor" title="查看 PHP 下的所有文章">PHP</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-309"><a href="http://www.path8.net/tn/archives/category/%e4%ba%92%e8%81%94%e7%bd%91" title="查看 互联网 下的所有文章">互联网</a>
+</li>
+	<li class="cat-item cat-item-337"><a href="http://www.path8.net/tn/archives/category/%e4%bc%98%e7%a7%80%e8%bd%af%e4%bb%b6" title="查看 优秀软件 下的所有文章">优秀软件</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.path8.net/tn/archives/category/private" title="查看 原创文章 下的所有文章">原创文章</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="http://www.path8.net/tn/archives/category/%e4%b9%b1%e4%b8%83%e5%85%ab%e7%b3%9f" title="查看 大杂烩 下的所有文章">大杂烩</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.path8.net/tn/archives/category/character-encoding" title="查看 字符编码 下的所有文章">字符编码</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.path8.net/tn/archives/category/security" title="查看 安全意识 下的所有文章">安全意识</a>
+<ul class='children'>
+	<li class="cat-item cat-item-224"><a href="http://www.path8.net/tn/archives/category/security/web%e5%ae%89%e5%85%a8-netmngr" title="查看 web安全 下的所有文章">web安全</a>
+</li>
+	<li class="cat-item cat-item-172"><a href="http://www.path8.net/tn/archives/category/security/%e6%97%a0%e7%ba%bf%e5%ae%89%e5%85%a8" title="查看 无线安全 下的所有文章">无线安全</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-627"><a href="http://www.path8.net/tn/archives/category/%e5%bc%80%e5%8f%91%e5%8d%8f%e4%bd%9c" title="查看 开发协作 下的所有文章">开发协作</a>
+</li>
+	<li class="cat-item cat-item-787"><a href="http://www.path8.net/tn/archives/category/%e6%80%9d%e4%b9%8b%e5%b1%91" title="查看 思之屑 下的所有文章">思之屑</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.path8.net/tn/archives/category/os" title="查看 操作系统 下的所有文章">操作系统</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.path8.net/tn/archives/category/uncategory" title="查看 未分类 下的所有文章">未分类</a>
+</li>
+	<li class="cat-item cat-item-171"><a href="http://www.path8.net/tn/archives/category/%e7%bd%91%e7%ab%99%e8%bf%90%e8%90%a5" title="查看 网站运营 下的所有文章">网站运营</a>
+<ul class='children'>
+	<li class="cat-item cat-item-19"><a href="http://www.path8.net/tn/archives/category/%e7%bd%91%e7%ab%99%e8%bf%90%e8%90%a5/search-engin-optimze" title="查看 SEO 下的所有文章">SEO</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.path8.net/tn/archives/category/netmngr" title="查看 网络管理 下的所有文章">网络管理</a>
+<ul class='children'>
+	<li class="cat-item cat-item-29"><a href="http://www.path8.net/tn/archives/category/netmngr/server-management" title="查看 服务器管理 下的所有文章">服务器管理</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.path8.net/tn/archives/category/netmngr/network-technology" title="network technique, such as LAN, router, etc.">网络技术</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.path8.net/tn/archives/category/free-sprite" title="查看 自由精神 下的所有文章">自由精神</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.path8.net/tn/archives/category/lay-casually" title="查看 随便放着 下的所有文章">随便放着</a>
+</li>
+		</ul>
+</div><div id="meta-2" class="widget widget_meta"><h3 class="widgettitle">功能</h3>			<ul>
+			<li><a href="http://www.path8.net/tn/wp-login.php?action=register">注册</a></li>			<li><a href="http://www.path8.net/tn/wp-login.php">登录</a></li>
+			<li><a href="http://www.path8.net/tn/feed" title="使用 RSS 2.0 订阅本站点内容">文章 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.path8.net/tn/comments/feed" title="使用 RSS 订阅本站点的所有文章的近期评论">评论 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="基于 WordPress，一个优美、先进的个人信息发布平台。">WordPress.org</a></li>
+						</ul>
+</div><div id="text-8" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9779277-2']);
+  _gaq.push(['_setDomainName', 'path8.net']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="http://js.tongji.linezing.com/824456/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/824456/tongji.gif"/></a></noscript></div>
+		</div>
+
+	</div><!-- end: #sidebar -->
+</div><!-- end: #sidebar-border --></div><!--wrapper-->
+<div class="clear"></div>
+<div id="footer">
+	<div id="footer-inside">
+		<p>
+			版权所有 &copy; 2012 点滴之间 聚沙成金			| Theme <a href="http://zww.me" title="designed by zwwooooo">zBench</a>
+			| Powered by <a href="http://wordpress.org/">WordPress</a> 
+		</p>
+		<span id="back-to-top">&uarr; <a href="#" rel="nofollow" title="Back to top">回到顶部</a></span>
+	</div>
+</div><!--footer-->
+<!-- AdSense Manager v4.0.2 (0.284 seconds.) --></body>
+</html>

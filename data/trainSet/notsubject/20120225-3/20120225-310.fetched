@@ -1,0 +1,1391 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[704,115,1] published at 2012-02-10 22:13:11 from #194 by system-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>旅游景点介绍_旅游景点大全_新浪旅游_新浪网:最全面丰富的旅游景点推荐</title>
+<meta name="Keywords" content="旅游景点,旅游景点介绍,旅游景点大全,旅游景点图片,旅游景点推荐,旅游景点门票" />
+<meta name="Description" content="新浪旅游频道旅游景点大全是一个资讯丰富的旅游信息平台.为广大网友提供旅游景点介绍,旅游景点大全,旅游景点图片,旅游景点推荐,旅游景点门票等实用信息" />
+<link type="text/css" rel="stylesheet" href="http://travel.sina.com.cn/91/2010/0303/css.css">
+
+<script type="text/javascript" src="http://i3.sinaimg.cn/travel/jquery-1.5.2.min.js"></script>
+<script type='text/javascript' src='http://travel.sina.com.cn//91/2011/0423/223.jquery.autocomplete.js'></script>
+<link rel="stylesheet" type="text/css" href="http://travel.sina.com.cn/91/2011/0424/224.jquery.autocomplete.css" />
+
+<script type="text/javascript" src="http://line.travel.sina.com.cn/js/search/citydata.js"></script>
+<!--<script type="text/javascript" src="http://line.travel.sina.com.cn/js/search/datepicker.js"></script>-->
+<script type="text/javascript" src="http://travel.sina.com.cn/91/2010/0316/datepicker.js"></script>
+<script type="text/javascript" src="http://line.travel.sina.com.cn/js/search/search.js"></script>
+<script type="text/javascript" src="http://travel.sina.com.cn/91/2010/0311/area_jp.js"></script>
+<script type="text/javascript" src="http://travel.sina.com.cn/91/2010/0311/getcitylist_jp.js"></script>
+<script type="text/javascript" src="http://travel.sina.com.cn/91/2010/0311/checkjp.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+</head>
+<body><!-- SUDA_CODE_START --> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;z-index:1'><div style='position:absolute;top:0;left:0;width:1;height:1;'><iframe id='SUDA_FC' src='' width=1 height=1 SCROLLING=NO FRAMEBORDER=0></iframe></div><div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden' id='SUDA_CS_DIV'></div></div> 
+<script type="text/javascript"> 
+//<!--
+var _SGUP_ = "SGUP";var _SGUP_REQ_ = "http://sgup.beacon.sina.com.cn/cgi-bin/gsgup";var sgup = "";
+var SSL={Config:{},Space:function(str){var a=str,o=null;a=a.split('.');o=SSL;for(i=0,len=a.length;i<len;i++){o[a[i]]=o[a[i]]||{};o=o[a[i]]}return o}};
+SSL.Space('Global');SSL.Space('Core.Dom');SSL.Space('Core.Event');SSL.Space('App');SSL.Global={win:window||{},doc:document,nav:navigator,loc:location};SSL.Core.Dom={get:function(id){return document.getElementById(id)}};SSL.Core.Event={on:function(){}};
+SSL.App={
+	_S_gConType:function(){var ct="";try{SSL.Global.doc.body.addBehavior("#default#clientCaps");ct=SSL.Global.doc.body.connectionType}catch(e){ct="unkown"}return ct},
+	_S_gKeyV:function(src,k,e,sp){if(src==""){return""}if(sp==""){sp="="}k=k+sp;var ps=src.indexOf(k);if(ps<0){return""}ps=ps+k.length;var pe=src.indexOf(e,ps);if(pe<ps){pe=src.length}return src.substring(ps,pe)},
+	_S_gUCk:function(ckName){if((undefined==ckName)||(""==ckName))return"";return SSL.App._S_gKeyV(SSL.Global.doc.cookie,ckName,";","")},
+	_S_sUCk:function(ckName,ckValue,ckDays,ckDomain){if(ckValue!=null){if((undefined==ckDomain)||(null==ckDomain)){ckDomain="sina.com.cn";}if((undefined==ckDays)||(null==ckDays)||(''==ckDays)){SSL.Global.doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";path=/";}else{var now=new Date();var time=now.getTime();time=time+86400000*ckDays;now.setTime(time);time=now.getTime();SSL.Global.doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";expires="+now.toUTCString()+";path=/";}}},
+	_S_gJVer:function(_S_NAV_,_S_NAN_){var p,appsign,appver,jsver=1.0,isN6=0;if('MSIE'==_S_NAN_){appsign='MSIE';p=_S_NAV_.indexOf(appsign);if(p>=0){appver=parseInt(_S_NAV_.substring(p+5));if(3<=appver){jsver=1.1;if(4<=appver){jsver=1.3}}}}else if(("Netscape"==_S_NAN_)||("Opera"==_S_NAN_)||("Mozilla"==_S_NAN_)){jsver=1.3;appsign='Netscape6';p=_S_NAV_.indexOf(appsign);if(p>=0){jsver=1.5}}return jsver},
+	_S_gFVer:function(nav){var ua=SSL.Global.nav.userAgent.toLowerCase();var flash_version=0;if(SSL.Global.nav.plugins&&SSL.Global.nav.plugins.length){var p=SSL.Global.nav.plugins['Shockwave Flash'];if(typeof p=='object'){for(var i=10;i>=3;i--){if(p.description&&p.description.indexOf(' '+i+'.')!=-1){flash_version=i;break}}}}else if(ua.indexOf("msie")!=-1&&ua.indexOf("win")!=-1&&parseInt(SSL.Global.nav.appVersion)>=4&&ua.indexOf("16bit")==-1){for(var i=10;i>=2;i--){try{var object=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+i+"');");if(object){flash_version=i;break}}catch(e){}}}else if(ua.indexOf("webtv/2.5")!=-1){flash_version=3}else if(ua.indexOf("webtv")!=-1){flash_version=2}return flash_version},
+	_S_gMeta:function(MName,pidx){var pMeta=SSL.Global.doc.getElementsByName(MName);var idx=0;if(pidx>0){idx=pidx}return(pMeta.length>idx)?pMeta[idx].content:""},
+	_S_gHost:function(sUrl){var r=new RegExp('^http(?:s)?\://([^/]+)','im');if(sUrl.match(r)){return sUrl.match(r)[1].toString()}else{return""}},
+	_S_gDomain:function(sHost){var p=sHost.indexOf('.sina.');if(p>0){return sHost.substr(0,p)}else{return sHost}},
+	_S_gTJMTMeta:function(){return SSL.App._S_gMeta("mediaid")},
+	_S_gTJZTMeta:function(){var zt=SSL.App._S_gMeta('subjectid');zt.replace(",",".");zt.replace(";",",");return zt},
+	_S_isFreshMeta:function(){var ph=SSL.Global.doc.documentElement.innerHTML.substring(0,1024);var reg=new RegExp("<meta\\s*http-equiv\\s*=((\\s*refresh\\s*)|(\'refresh\')|(\"refresh\"))\s*content\s*=","ig");return reg.test(ph)},
+	_S_isIFrameSelf:function(minH,minW){if(SSL.Global.win.top==SSL.Global.win){return false}else{try{if(SSL.Global.doc.body.clientHeight==0){return false}if((SSL.Global.doc.body.clientHeight>=minH)&&(SSL.Global.doc.body.clientWidth>=minW)){return false}else{return true}}catch(e){return true}}},
+	_S_isHome:function(curl){var isH="";try{SSL.Global.doc.body.addBehavior("#default#homePage");isH=SSL.Global.doc.body.isHomePage(curl)?"Y":"N"}catch(e){isH="unkown"}return isH;}
+}
+function SUDA(config,ext1,ext2){
+	var SG=SSL.Global,SSD=SSL.Core.Dom,SSE=SSL.Core.Event,SA=SSL.App;var _S_JV_="webbug_meta_ref_mod_noiframe_async_fc_:9.10a",_S_DPID_="-9999-0-0-1";var _S_NAN_=SG.nav.appName.indexOf('Microsoft Internet Explorer')>-1?'MSIE':SG.nav.appName;var _S_NAV_=SG.nav.appVersion;var _S_PURL_=SG.loc.href.toLowerCase();var _S_PREF_=SG.doc.referrer.toLowerCase();var _SP_MPID_="";var _S_PID_="",_S_UNA_="SUP",_S_MI_="",_S_SID_="Apache",_S_GID_="SINAGLOBAL",_S_LV_="ULV",_S_UO_="UOR",_S_UPA_="_s_upa",_S_IFW=320,_S_IFH=240,_S_GIDT=0,_S_EXT1="",_S_EXT2="",_S_SMC=0,_S_SMM=10000,_S_ET=0,_S_ACC_="_s_acc";var _S_HTTP=_S_PURL_.indexOf('https')>-1?'https://':'http://',_S_BCNDOMAIN="beacon.sina.com.cn",_S_CP_RF=_S_HTTP+_S_BCNDOMAIN+"/a.gif",_S_CP_RF_D=_S_HTTP+_S_BCNDOMAIN+"/d.gif",_S_CP_RF_E=_S_HTTP+_S_BCNDOMAIN+"/e.gif",_S_CP_FC=_S_HTTP+_S_BCNDOMAIN+"/fc.html";
+	var _S_T1=100,_S_T2=2000;
+	var handler={
+		_S_sSID:function(){handler._S_p2Bcn("",_S_CP_RF_D)},_S_gsSID:function(){var sid=SA._S_gUCk(_S_SID_);if(""==sid){handler._S_sSID()}return sid},
+		_S_sGID:function(gid){if(""!=gid){SA._S_sUCk(_S_GID_,gid,3650)}},_S_gGID:function(){return SA._S_gUCk(_S_GID_)},_S_gsGID:function(){if(""!=_S_GID_){var gid=SA._S_gUCk(_S_GID_);if(""==gid){if(SA._S_gFVer(SG.nav)<=6){return ""}else{handler._S_IFC2GID()}}return gid}else{return""}},_S_IFC2GID:function(){var _S_ifc=SSD.get("SUDA_FC");if(_S_ifc){_S_ifc.src=_S_CP_FC+"?a=g&n="+_S_GID_+"&r="+Math.random()}},
+		_S_gCid:function(){try{var metaTxt=SA._S_gMeta("publishid");if(""!=metaTxt){var pbidList=metaTxt.split(",");if(pbidList.length>0){if(pbidList.length>=3){_S_DPID_="-9999-0-"+pbidList[1]+"-"+pbidList[2]}return pbidList[0]}}else{return"0"}}catch(e){return"0"}},
+		_S_gAEC:function(){return SA._S_gUCk(_S_ACC_)},_S_sAEC:function(eid){if(""==eid){return}var acc=handler._S_gAEC();if(acc.indexOf(eid+",")<0){acc=acc+eid+",";}SA._S_sUCk(_S_ACC_,acc,7);},
+		_S_p2Bcn:function(q,u){var scd=SSD.get("SUDA_CS_DIV");if(null!=scd){var now=new Date();scd.innerHTML="<img width=0 height=0 src='"+u+"?"+q+"&gUid_"+now.getTime()+"' border='0' alt='' />"}},
+		_S_gSUP:function(){if(_S_MI_!=""){return _S_MI_}var sup=unescape(SA._S_gUCk(_S_UNA_));if(sup!=""){var ag=SA._S_gKeyV(sup,"ag","&","");var user=SA._S_gKeyV(sup,"user","&","");var uid=SA._S_gKeyV(sup,"uid","&","");var sex=SA._S_gKeyV(sup,"sex","&","");var bday=SA._S_gKeyV(sup,"dob","&","");_S_MI_=ag+":"+user+":"+uid+":"+sex+":"+bday;return _S_MI_}else{return""}},
+		_S_gsLVisit:function(sid){var lvi=SA._S_gUCk(_S_LV_);var lva=lvi.split(":");var lvr="";if(lva.length>=6){if(sid!=lva[4]){var lvn=new Date();var lvd=new Date(parseInt(lva[0]));lva[1]=parseInt(lva[1])+1;if(lvn.getMonth()!=lvd.getMonth()){lva[2]=1}else{lva[2]=parseInt(lva[2])+1}if(((lvn.getTime()-lvd.getTime())/86400000)>=7){lva[3]=1}else{if(lvn.getDay()<lvd.getDay()){lva[3]=1}else{lva[3]=parseInt(lva[3])+1}}lvr=lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3];lva[5]=lva[0];lva[0]=lvn.getTime();SA._S_sUCk(_S_LV_,lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3]+":"+sid+":"+lva[5],360)}else{lvr=lva[5]+":"+lva[1]+":"+lva[2]+":"+lva[3]}}else{var lvn=new Date();lvr=":1:1:1";SA._S_sUCk(_S_LV_,lvn.getTime()+lvr+":"+sid+":",360)}return lvr},
+		_S_gUOR:function(){var uoc=SA._S_gUCk(_S_UO_);var upa=uoc.split(":");if(upa.length>=2){return upa[0]}else{return""}},
+		_S_sUOR:function(){var uoc=SA._S_gUCk(_S_UO_),uor="",uol="",up_t="",up="";var re=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var ct=new Date();if(_S_PURL_.match(re)){up_t=_S_PURL_.match(re)[0]}else{if(_S_PREF_.match(re)){up_t=_S_PREF_.match(re)[0]}}if(up_t!=""){up_t=up_t.substr(3)+":"+ct.getTime()}if(uoc==""){if(SA._S_gUCk(_S_LV_)==""&&SA._S_gUCk(_S_LV_)==""){uor=SA._S_gHost(_S_PREF_);uol=SA._S_gHost(_S_PURL_)}SA._S_sUCk(_S_UO_,uor+","+uol+","+up_t,365)}else{var ucg=0,uoa=uoc.split(",");if(uoa.length>=1){uor=uoa[0]}if(uoa.length>=2){uol=uoa[1]}if(uoa.length>=3){up=uoa[2]}if(up_t!=""){ucg=1}else{var upa=up.split(":");if(upa.length>=2){var upd=new Date(parseInt(upa[1]));if(upd.getTime()<(ct.getTime()-86400000*30)){ucg=1}}}if(ucg){SA._S_sUCk(_S_UO_,uor+","+uol+","+up_t,365)}}},
+		_S_gRef:function(){var re=/^[^\?&#]*.swf([\?#])?/;if((_S_PREF_=="")||(_S_PREF_.match(re))){var ref=SA._S_gKeyV(_S_PURL_,"ref","&","");if(ref!=""){return ref}}return _S_PREF_},
+		_S_MEvent:function(){if(_S_SMC==0){_S_SMC++;var c=SA._S_gUCk(_S_UPA_);if(c==""){c=0}c++;if(c<_S_SMM){var re=/[&|?]c=spr(_[A-Za-z0-9]{2,}){3,}/;if(_S_PURL_.match(re)||_S_PREF_.match(re)){c=c+_S_SMM}}SA._S_sUCk(_S_UPA_,c)}},_S_gMET:function(){var c=SA._S_gUCk(_S_UPA_);if(c==""){c=0}return c},
+		_S_gCInfo_v2:function(){var now=new Date();return"sz:"+screen.width+"x"+screen.height+"|dp:"+screen.colorDepth+"|ac:"+SG.nav.appCodeName+"|an:"+_S_NAN_+"|cpu:"+SG.nav.cpuClass+"|pf:"+SG.nav.platform+"|jv:"+SA._S_gJVer(_S_NAV_,_S_NAN_)+"|ct:"+SA._S_gConType()+"|lg:"+SG.nav.systemLanguage+"|tz:"+now.getTimezoneOffset()/60+"|fv:"+SA._S_gFVer(SG.nav)},
+		_S_gPInfo_v2:function(pid,ref){if((undefined==pid)||(""==pid)){pid=handler._S_gCid()+_S_DPID_}return"pid:"+pid+"|st:"+handler._S_gMET()+"|et:"+_S_ET+"|ref:"+escape(ref)+"|hp:"+SA._S_isHome(_S_PURL_)+"|PGLS:"+SA._S_gMeta("stencil")+"|ZT:"+escape(SA._S_gTJZTMeta())+"|MT:"+escape(SA._S_gTJMTMeta())+"|keys:"},
+		_S_gUInfo_v2:function(vid){return"vid:"+vid+"|sid:"+handler._S_gsSID()+"|lv:"+handler._S_gsLVisit(handler._S_gsSID())+"|un:"+handler._S_gSUP()+"|uo:"+handler._S_gUOR()+"|ae:"+handler._S_gAEC()},
+		_S_gEXTInfo_v2:function(ext1,ext2){_S_EXT1=(undefined==ext1)?_S_EXT1:ext1;_S_EXT2=(undefined==ext2)?_S_EXT2:ext2;return"ex1:"+_S_EXT1+"|ex2:"+_S_EXT2},
+		_S_pBeacon:function(pid,ext1,ext2){try{var gid=handler._S_gsGID();if(""==gid){if(_S_GIDT<1){setTimeout(function(){handler._S_pBeacon(pid,ext1,ext2)},_S_T2);_S_GIDT++;return}else{gid=handler._S_gsSID();handler._S_sGID(gid)}}var sgup_ck = SA._S_gUCk(_SGUP_);if(sgup_ck == ""){var channary = location.hostname.split(".");var cur_ch = (channary.length > 3) ? channary[channary.length - 4] : "";handler.__loadScript(_SGUP_REQ_,function(){if(sgup != ""){SA._S_sUCk(_SGUP_,sgup,7);}else{SA._S_sUCk(_SGUP_,"0",3);}});}var sVer="V=2";var sCI=handler._S_gCInfo_v2();var sPI=handler._S_gPInfo_v2(pid,handler._S_gRef());var sUI=handler._S_gUInfo_v2(gid);var sEX=handler._S_gEXTInfo_v2(ext1,ext2);var lbStr=sVer+"&CI="+sCI+"&PI="+sPI+"&UI="+sUI+"&EX="+sEX;handler._S_p2Bcn(lbStr,_S_CP_RF)}catch(e){}},
+		__loadScript:function(url, callback, encode){var script = document.createElement('script');script.type = 'text/javascript';if(encode)script.charset = encode;if (callback)script.onload = script.onreadystatechange = function() {if (script.readyState && script.readyState != 'loaded' && script.readyState != 'complete')return;script.onreadystatechange = script.onload = null;callback();};script.src = url;document.getElementsByTagName('head')[0].appendChild(script);},
+		_S_acTrack_i:function(eid,p){if((""==eid)||(undefined==eid)){return}handler._S_sAEC(eid);if(0==p){return}var s="AcTrack||"+handler._S_gGID()+"||"+handler._S_gsSID()+"||"+handler._S_gSUP()+"||"+eid+"||";handler._S_p2Bcn(s,_S_CP_RF_E)},
+		_S_uaTrack_i:function(acode,aext){var s="UATrack||"+handler._S_gGID()+"||"+handler._S_gsSID()+"||"+handler._S_gSUP()+"||"+acode+"||"+aext+"||"+handler._S_gRef()+"||";handler._S_p2Bcn(s,_S_CP_RF_E)}
+	};
+	if(_S_SMC==0){if('MSIE'==_S_NAN_){SSL.Global.doc.attachEvent("onclick",handler._S_MEvent);SSL.Global.doc.attachEvent("onmousemove",handler._S_MEvent);SSL.Global.doc.attachEvent("onscroll",handler._S_MEvent)}else{SSL.Global.doc.addEventListener("click",handler._S_MEvent,false);SSL.Global.doc.addEventListener("mousemove",handler._S_MEvent,false);SSL.Global.doc.addEventListener("scroll",handler._S_MEvent,false)}};handler._S_sUOR();
+	return{
+		_S_pSt:function(pid,ext1,ext2){try{if((SA._S_isFreshMeta())||(SA._S_isIFrameSelf(_S_IFH,_S_IFW))){return}if(_S_ET>0){return}++_S_ET;setTimeout(function(){handler._S_gsSID()},_S_T1);setTimeout(function(){handler._S_pBeacon(pid,ext1,ext2,0)},_S_T2)}catch(e){}},
+		_S_pStM:function(pid,ext1,ext2){++_S_ET;handler._S_pBeacon(pid,((undefined==ext1)?handler._S_upExt1():ext1),ext2)},
+		_S_acTrack:function(eid,p){try{if((undefined!=eid)&&(""!=eid)){setTimeout(function(){handler._S_acTrack_i(eid,p)},_S_T1)}}catch(e){}},
+		_S_uaTrack:function(acode,aext){try{if(undefined==acode){acode=""}if(undefined==aext){aext=""}if((""!=acode)||(""!=aext)){setTimeout(function(){handler._S_uaTrack_i(acode,aext)},_S_T1)}}catch(e){}}
+	}
+}
+var GB_SUDA;if(GB_SUDA==null){GB_SUDA=new SUDA({})}
+var _S_PID_="";
+function _S_pSt(pid,ext1,ext2){GB_SUDA._S_pSt(pid,ext1,ext2);}
+function _S_pStM(pid,ext1,ext2){GB_SUDA._S_pStM(pid,ext1,ext2);}
+function _S_acTrack(eid){GB_SUDA._S_acTrack(eid,1);}
+function _S_uaTrack(acode,aext){GB_SUDA._S_uaTrack(acode,aext);}
+//-->
+</script> 
+<script type="text/javascript"> 
+//<!--
+GB_SUDA._S_pSt("");
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- for iPad begin -->
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+var iPadScript = document.createElement('script');
+iPadScript.src = 'http://news.sina.com.cn/js/ui/ipad/reset.js';
+document.getElementsByTagName('head')[0].appendChild(iPadScript);
+})();
+</script>
+<!-- for iPad end --> 
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+
+<div class="w950 head">
+	<a class="fl" href="http://travel.sina.com.cn/" title="旅游首页" alt="旅游首页"></a>
+	<ul class="fr">
+		<li><a href="http://travel.sina.com.cn/t/miyue/">蜜月</a><a class="ico" href="http://travel.sina.com.cn/t/miyue/"></a></li>
+		<li><a href="http://travel.sina.com.cn/t/jiating/">家庭</a><a class="ico" href="http://travel.sina.com.cn/t/jiating/"></a></li>
+		<li><a href="http://travel.sina.com.cn/t/zijia/">自驾</a><a class="ico" href="http://travel.sina.com.cn/t/zijia/"></a></li>
+		<li><a href="http://travel.sina.com.cn/t/youlun/">邮轮</a><a class="ico" href="http://travel.sina.com.cn/t/youlun/"></a></li>
+		<li><a href="http://travel.sina.com.cn/t/gouwu/">购物</a><a class="ico" href="http://travel.sina.com.cn/t/gouwu/"></a></li>
+		<li><a href="http://travel.sina.com.cn/t/spa/">SPA</a><a class="ico" href="http://travel.sina.com.cn/t/spa/"></a></li>
+		<li><a href="http://travel.sina.com.cn/t/shanghua/">赏花</a><a class="ico" href="http://travel.sina.com.cn/t/shanghua/"></a>
+		</li>
+		<li><a href="http://travel.sina.com.cn/t/yeshenghuo/">夜生活</a><a class="ico" href="http://travel.sina.com.cn/t/yeshenghuo/"></a></li>
+	</ul>
+</div>
+<div class="w950 menu">
+	<dl>
+		<dt><a href="http://travel.sina.com.cn/" title="旅游首页" alt="旅游首页"></a></dt>
+		<dd>
+                        <ul>
+			<li><a class="w4" href="http://travel.sina.com.cn/places/">景点大全</a></li>
+			<li><a class="w3" href="http://travel.sina.com.cn/china/">国内游</a></li>
+			<li><a class="w3" href="http://travel.sina.com.cn/world/">出境游</a></li>
+
+			<li><a class="w3" href="http://travel.sina.com.cn/around/beijing/">周边游</a></li>
+			<li><a class="w2" href="http://travel.sina.com.cn/gonglue/"  target="_blank">攻略</a></li>
+			<li><a class="w4" target="_blank" href="http://vi.travel.sina.com.cn/">旅游视觉</a></li>
+			<li><a class="w2" href="http://blog.sina.com.cn/lm/travel/">博客</a></li>
+			<li><a class="w2" href="http://travel.sina.com.cn/weibo/">微博</a></li>
+			<li><a class="w2" target="_blank" href="http://club.travel.sina.com.cn/">论坛</a></li>
+			</ul>
+		</dd>
+		<dd>
+			<ol>
+			<li><a class="w4" target="_blank" href="http://weather.news.sina.com.cn/">旅游天气</a></li>
+			<li><a class="w4" target="_blank" href="http://data.travel.sina.com.cn/ask/index.php">专家在线</a></li>
+			<li><a class="w4" target="_blank" href="http://line.travel.sina.com.cn/">线路预订</a></li>
+			<li><a class="w2" href="http://travel.sina.com.cn/air/">机票</a></li>
+			<li><a class="w2" href="http://travel.sina.com.cn/hotel/">酒店</a></li>
+			</ol>
+		</dd>
+	</dl>
+	<ol class="bottom">
+	<li>
+	<blockquote class="fl">景区搜索：</blockquote>
+	<!--
+	<div class="input fl"> <form name="search_f" action="http://search.travel.sina.com.cn/search.php" target="_blank">
+                  <input name="title" type="text" onmouseover="this.focus()" onfocus="this.select()"  onclick="if(this.value=='九寨沟' || this.value=='北京')this.value='';" id="title" onkeyup="document.search_f.keyword.value=this.value;" onblur="document.search_f.keyword.value=this.value;" onkeydown="document.search_f.keyword.value=this.value;" value="九寨沟"/></div>
+                  <input type="hidden" name="keyword" value="">
+                  <input class="btnsubmit fl menu" value=""  type="submit" />
+                </form>
+	-->
+		<div class="input fl">
+			<form name="searchForm1" method="get" action="http://jingdian.travel.sina.com.cn/language/iwords/search.php" target="_blank" onsubmit="return checkSubmit2(this);">
+				<input type="hidden" name="url" id="url" value="http://jingdian.travel.sina.com.cn/15750-jiuzhaigou" />
+				<input type="text" value="九寨沟" name="q" id="singleBirdRemote1" autocomplete="off" onkeyDown="checkKeyCode('url', event);" onclick="this.select();" /></div>
+				<input class="btnsubmit fl menu" value=""  type="submit" />
+			</form>
+
+	</li>
+	<script language="javascript">
+	//$().ready(function() {
+
+		$("#singleBirdRemote1").autocomplete("http://jingdian.travel.sina.com.cn/language/iwords/iwords2.php", {
+			width: 146,
+			selectFirst: true,
+			max:10,
+			//highlight: true,
+			scroll: false,
+			//scrollHeight: 1000,
+			//autoFill: true,
+			cacheLength: 50,
+			matchSubset: true
+			//mustMatch: true
+		});
+
+		$("#singleBirdRemote1").result(function(event, data, formatted) {
+			//alert(data[1]);
+			if (data){
+				//$(this).parent().next().find("input").val(data[1]);
+				document.searchForm1.url.value = data[1];
+			}
+		});
+	//});
+	</script>
+	<script language="javascript">
+	function checkKeyCode(_id, event){
+		var _keycode = 0;
+		if (event.which == null){
+			_keycode = event.keyCode; 
+		}else if(event.which > 0){
+			_keycode = event.which;
+		}
+		if (_keycode != 13 && _keycode != 9 && _keycode != 38 && _keycode != 40 && _keycode != 33 && _keycode != 34){
+			document.getElementById(_id).value = '';
+		}
+	}
+	function checkSubmit2(obj){
+		//selectCurrent();
+		if (obj.q.value == ''){
+			return false;
+		}
+		return true;
+	}
+	</script>
+	<li>
+	<div class="input fl chau bdnone">
+
+   <script language="javascript" > 
+  function CLASS_LIANDONG_YAO(array) 
+  { 
+   //数组，联动的数据源 
+      this.array=array;  
+      this.indexName=''; 
+      this.obj=''; 
+      //设置子SELECT 
+    // 参数：当前onchange的SELECT ID，要设置的SELECT ID 
+      this.subSelectChange=function(selectName1,selectName2) 
+      { 
+      //try 
+      //{ 
+    var obj1=document.getElementsByTagName("*")[selectName1]; 
+    var obj2=document.getElementsByTagName("*")[selectName2]; 
+    var objName=this.toString(); 
+    var me=this; 
+
+    obj1.onchange=function() 
+    { 
+
+        me.optionChange(this.options[this.selectedIndex].value,obj2.id) 
+    } 
+
+      } 
+      //设置第一个SELECT 
+    // 参数：indexName指选中项,selectName指select的ID 
+      this.firstSelectChange=function(indexName,selectName)   
+      { 
+      this.obj=document.getElementsByTagName("*")[selectName]; 
+      this.indexName=indexName; 
+      this.optionChange(this.indexName,this.obj.id) 
+
+      } 
+
+  // indexName指选中项,selectName指select的ID 
+      this.optionChange=function (indexName,selectName) 
+      { 
+    var obj1=document.getElementsByTagName("*")[selectName]; 
+    var me=this; 
+    obj1.length=0; 
+	if(obj1.name == 'continents'){
+		obj1.options[0]=new Option("大洲",'');
+	}else if(obj1.name == 'country'){
+		obj1.options[0]=new Option("国家",'');
+	}else if(obj1.name == 'title' && indexName == '中国'){
+		obj1.options[0]=new Option("省市",'');
+	}else if(obj1.name == 'title' && indexName != '中国'){
+		obj1.options[0]=new Option("-",'');
+	}
+    for(var i=0;i<this.array.length;i++) 
+    {     
+		if(this.array[i][1]==indexName) 
+        { 
+        //alert(this.array[i][1]+" "+indexName); 
+      obj1.options[obj1.length]=new Option(this.array[i][2],this.array[i][0]); 
+        } 
+    } 
+      } 
+
+  } 
+  </script> 
+	  <form name="form2" method="get" action="http://data.travel.sina.com.cn/search/information_search.php"  target="_blank">
+		<select  ID="s1" NAME="continents">
+	 <OPTION selected></OPTION>
+	</select></div>
+	<div class="input fl country bdnone"><select ID="s2" NAME="country" >
+	  <OPTION selected></OPTION> 
+	</select></div>
+	<div class="input fl city bdnone"><select ID="s3" NAME="title" >
+	  <OPTION selected></OPTION> 
+	</select></div>
+	<input class="btnsubmit fl"  name="" value="" type="submit" />
+
+  </form> 
+
+   <script type="text/javascript" src="http://travel.sina.com.cn/91/2010/0311/js/liandong.js"></script>   
+    <script language="javascript"> 
+    //例子1------------------------------------------------------------- 
+    //数据源 
+  //-------------------------------------------- 
+  //这是调用代码 
+  var liandong=new CLASS_LIANDONG_YAO(array) //设置数据源 
+  liandong.firstSelectChange("根目录","s1"); //设置第一个选择框 
+  liandong.subSelectChange("s1","s2"); //设置子级选择框 
+  liandong.subSelectChange("s2","s3"); //设置子级选择框 
+
+    </script> 	
+	</li>
+	<li>
+	<div class="input fl theme bdnone">
+	   <script language="javascript" > 
+function show_url(){
+	var tv = document.getElementById("t").value;
+	var cv = document.getElementById("c").value;
+	var url ;
+	if(cv=='china'){
+	  url = 'http://travel.sina.com.cn/117/china/'+tv+'/list.html';
+	}else{
+	  tv = tv+'/'+cv;
+	  url = 'http://travel.sina.com.cn/117/'+tv+'/list.html';
+	}
+
+         document.tc.action=url;
+	document.tc.submit;
+         return flase;
+}
+</script>
+<form action="" name="tc"  target="_blank" method="get" onsubmit="return show_url()">
+	<select name="t"" id="t">
+	  <option>选主题</option>
+	  <option value='zijia'>自驾</option>
+	  <option value='youlun'>邮轮</option>
+	  <option value='miyue'>蜜月</option>
+	  <option value='jiating'>家庭</option>
+	  <option value='shanghua'>赏花</option>
+	  <option value='yeshenghuo'>夜生活</option>
+	  <option value='gouwu'>购物</option>
+	  <option value='spa'>SPA</option>
+	</select></div>
+	<div class="input fl country  bdnone">
+	<select name="c"" id="c">
+	  <option>选地区</option>
+	  <option value='ouzhou'>欧洲</option>
+	  <option value='beimei'>北美洲</option>
+	  <option value='nanmei'>南美洲</option>
+	  <option value='dayang'>大洋洲</option>
+	  <option value='feizhou'>非洲</option>
+	  <option value='yazhou'>亚洲</option>
+	  <option value='china'>中国</option>
+	</select></div>
+	<input class="btnsubmit fl"  value="" type="submit" />
+	</form>
+	</li>
+	</ol>
+</div>
+<div class="spacer"></div>
+<div class="topMain">
+<div class="topMainL">
+	<div class="MainLmenu">
+    	<ul class="Navs">
+
+            <li class="Nav2"><strong>国内旅游</strong></li>
+            <li class="Nav3"><strong>出境旅游</strong></li>
+<li class="Nav1"><strong>热点推荐</strong></li>
+        </ul>
+
+            <!--机票酒店begin -->
+      <div class="Tools">
+       	<ul>
+       	  <li class="tool1"><i></i>&nbsp;&nbsp;机&nbsp;票</li>
+          <li class="tool2"><i></i>&nbsp;&nbsp;&nbsp;酒&nbsp;店</li>
+          </ul>
+<div class="hook">
+<!--机票begin -->
+<form action="" name="fm_sbox_14">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr class="fly">
+    <td colspan="2"><input name="type" type="radio"  value="1" checked="checked" onClick="checkjp()" /> 单程
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="type" type="radio" value="2" onClick="checkjp()" /> 
+      往返</td>
+    </tr>
+  <tr>
+    <td width="40%">出发城市：</td>
+    <td width="60%">
+	<div class="input country">
+	<input name="fromCityName" id="fromCityName" type="text" value="" size="10" onClick="GetCityList_jp(this)"  onkeyup="GetCityList_jp(this)" value_to_input="fromCityCode" class="air_search_forms0" mod_address_suggest="@Beijing|北京|PEK|BJ@Shanghai|上海|SHA|SH@Shenzhen|深圳|SZX|SZ@Guangzhou|广州|CAN|GZ@Qingdao|青岛|TAO|QD@Chengdu|成都|CTU|CD@Hangzhou|杭州|HGH|HZ@Wuhan|武汉|WUH|WH@Tianjin|天津|TSN|TJ@Dalian|大连|DLC|DL@Xiamen|厦门|XMN|XM@Chongqing|重庆|CKG|CQ@" />
+	<input name="fromCityCode" id="fromCityCode" value="" size="4" type="hidden" />
+	</div></td>
+  </tr>
+  <tr>
+    <td>到达城市：</td>
+    <td><div class="input country">
+		<input name="toCityName" id="toCityName" type="text" value="" size="10" onClick="GetCityList_jp(this)"  onkeyup="GetCityList_jp(this)" value_to_input="toCityCode" class="air_search_forms0" mod_address_suggest="@Beijing|北京|PEK|BJ@Shanghai|上海|SHA|SH@Shenzhen|深圳|SZX|SZ@Guangzhou|广州|CAN|GZ@Qingdao|青岛|TAO|QD@Chengdu|成都|CTU|CD@Hangzhou|杭州|HGH|HZ@Wuhan|武汉|WUH|WH@Tianjin|天津|TSN|TJ@Dalian|大连|DLC|DL@Xiamen|厦门|XMN|XM@Chongqing|重庆|CKG|CQ@" />
+         <input name="toCityCode" id="toCityCode" value="" size="4" type="hidden" /></div></td>
+  </tr>
+  <tr>
+    <td>出发日期：</td>
+    <td><div class="input country">
+    <!--<input size="10" type="text" name="startDate2" id="startDate2" class="air_search_forms0" onclick="ShowTwoMonthList(this,0,'thisDay');" value="" /><span onfocus="c.showMoreDay = false;c.show(this);"></span>-->
+     <input size="10" type="text" name="startDate" id="startDate" class="air_search_forms0" onClick="ShowTwoMonthList(this,0,'thisDay');" value="" /> 
+    </div>
+	</td>
+  </tr>
+  <tr>
+    <td>返程日期：</td>
+    <td><div class="input country" id="returndate_f" style="background-color: #efefef;" >
+    <!--<input size="10" type="text" name="startDate3" id="startDate3" class="air_search_forms0" onclick="ShowTwoMonthList(this,0,'thisDay');" value="" /><span></span>-->
+     <input size="10" type="text" name="returndate" style="background-color: #efefef;" id="returndate" disabled="disabled" onClick="ShowTwoMonthList(this,0,g$('startDate').value);"  class="air_search_forms0" />
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><input type="button" name="button" id="button" value="" title="搜索" class="btnso" onClick="GotoUrl()" /></td>
+  </tr>
+</table>
+</form>
+<!--机票 end-->
+</div>
+
+<div class="hook none">
+<!--酒店begin -->
+<script type="text/javascript" src="http://travel.sina.com.cn/91/2010/0311/hotel.js"></script>
+<form name="hotel" id="hotel">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr class="flys">
+    <td width="40%">城&nbsp;&nbsp;&nbsp;&nbsp;市：</td>
+    <td width="60%">
+	<div class="input country">
+
+	<input name="raCityName" id="raCityName" value="" class="text" onclick="GetCityList(this)" onkeyup="GetCityList(this)" value_to_input="raCityName2" mod_address_suggest="@BEIJING|BJ|北京|29-0|北京@SHANGHAI|SH|上海|30-0|上海@GUANGZHOU|GZ|广州|25-295|广东>>广州@YUNNAN|YN|云南|15-0|云南@JIANGSU|JS|江苏|7-0|江苏@HANGZHOU|HZ|杭州|13-92|浙江>>杭州@CHENGDU|CD|成都|1-315|四川>>成都@" />
+	<input name="raCityName2" id="raCityName2" type="hidden"/>
+          </div></td>
+  </tr>
+  <tr>
+    <td>入住日期：</td>
+    <td><div class="input country">
+    <input size="10" type="text" name="CheckInDate" id="CheckInDate" class="air_search_forms0" onclick="ShowTwoMonthList(this,0,'thisDay');" value="" />
+    </div></td>
+  </tr>
+  <tr>
+    <td>离店日期：</td>
+    <td><div class="input country">
+    <input size="10" type="text" name="CheckOutDate" id="CheckOutDate" class="air_search_forms0" onclick="ShowTwoMonthList(this,0,'thisDay');" value="" />
+    </div></td>
+  </tr>
+  <tr>
+    <td>价格范围：</td>
+    <td><div class="input country bdnone" style="_width:102px;">
+		<select name='Price' id='Price' style="_width:106px;">
+	         <option value='-1'  selected>不限</option>
+           <option value='1201'>1200元以上</option>
+           <option value='1200'>801--1200元</option>
+           <option value='800'>501--800元</option>
+           <option value='500'>401--500元</option>
+           <option value='400'>301--400元</option>
+           <option value='300'>201--300元</option>
+           <option value='200'>200元以下</option>
+	   </select>
+	   </div></td>
+  </tr>
+   <tr>
+    <td>酒店名称：</td>
+    <td><div class="input country">
+    <input type="text" id='HotelName' name='HotelName' class="text" />
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+    <input type="button" name="hotelSubmit" id="hotelSubmit" value="" title="搜索" class="btnso" onclick="chkHotelForm(datePre,dateNow);"/>
+    </td>
+  </tr>
+</table>
+</form>
+<!-- 酒店 end-->
+</div>
+<div class="others">
+<a class="ico1" href="http://weather.news.sina.com.cn/" target="_blank">旅游天气</a>
+<a class="ico2" href="http://line.travel.sina.com.cn/" target="_blank">线路预订</a>
+<a class="ico3" href="http://travel.sina.com.cn/gonglue/" target="_blank">攻略查询</a>
+<a class="ico4" href="http://search.travel.sina.com.cn/map/" target="_blank">地图搜索</a>
+<a class="ico5" href="http://biz.finance.sina.com.cn/hq/forex_list.php?type=all" target="_blank">外汇兑换</a>
+<a class="ico6" href="http://travel.sina.com.cn/z/sinalvjr.html" target="_blank">金融保险</a>
+</div>
+        </div>
+    </div>
+    <!--机票酒店 end-->
+    <div class="MainRcon">
+    	<div class="Rcon" style="display: block; position: relative; "><div id="flash_player"></div></div>
+        <div class="Rcon none"><div id="flash_player2"></div>
+<style>
+.flash2{ background-color:#fff;}
+.flash2 h3{ margin-left:10px; width:59px; height:17px; padding-bottom:3px;  background:url(hotcountry.png) 0 0 no-repeat;}
+.flash2 ol{ overflow:hidden;zoom:1;padding:0 0 0 10px;}
+.flash2 li{float:left;display:inline; width:49%; padding:3px 0;}
+.flash2 li a{ margin-right:5px;}
+</style>
+<div class="flash2">
+<h3></h3>		
+<ol>
+		<li>亚洲：<a target="_blank" href="http://travel.sina.com.cn/korea/">韩国</a><a target="_blank" href="http://travel.sina.com.cn/japan/">日本</a><a target="_blank" href="http://travel.sina.com.cn/singapore/">新加坡</a><a target="_blank" href="http://travel.sina.com.cn/thailand/">泰国</a><a target="_blank" href="http://travel.sina.com.cn/maldives/">马尔代夫</a></li>
+				<li>欧洲：<a target="_blank" href="http://travel.sina.com.cn/germany/">德国</a><a target="_blank" href="http://travel.sina.com.cn/uk/">英国</a><a target="_blank" href="http://travel.sina.com.cn/france/">法国</a><a target="_blank" href="http://travel.sina.com.cn/holland/">荷兰</a><a target="_blank" href="http://travel.sina.com.cn/spain/">西班牙</a><a target="_blank" href="http://travel.sina.com.cn/austria/">奥地利</a></li>
+						<li>大洋洲：<a target="_blank" href="http://travel.sina.com.cn/world/AUS/index.html">澳大利亚</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-08-21/1552102716.shtml">新西兰</a><a target="_blank" href="http://jingdian.travel.sina.com.cn/24461-daxidi">大溪地</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-02-13/193861826.shtml">斐济</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-07-28/105997906.shtml">汤加</a></li>
+
+<li>北美洲：<a target="_blank" href="http://travel.sina.com.cn/usa/">美国</a><a target="_blank" href="http://travel.sina.com.cn/canada/">加拿大</a><a target="_blank" href="http://travel.sina.com.cn/world/2010-01-07/1035122009.shtml">墨西哥</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-09-27/1131109058.shtml">巴哈马</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-08-07/1705100141.shtml">古巴</a></li>
+				<li>南美洲：<a target="_blank" href="http://travel.sina.com.cn/world/2010-02-12/1143128576.shtml">巴西</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-10-14/1057111268.shtml">阿根廷</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-12-14/1001119364.shtml">厄瓜多尔</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-11-24/1053116975.shtml">委内瑞拉</a></li>
+
+<li>非洲：<a target="_blank" href="http://travel.sina.com.cn/sa/">南非</a><a target="_blank" href="http://travel.sina.com.cn/world/Egypt/index.html">埃及</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-10-10/0936110478.shtml">毛里求斯</a><a target="_blank" href="http://travel.sina.com.cn/world/2009-02-20/163063685.shtml">摩洛哥</a><a target="_blank" href="http://travel.sina.com.cn/world/2008-12-22/152547844.shtml">肯尼亚</a></li>
+
+		</ol></div>
+
+		</div>
+			<div class="Rcon shen none">
+			<h2 class="fl"></h2>
+			<div class="fl" style="position:relative; top:6px; width:415px;">
+        <marquee ONMOUSEOUT="this.start()" ONMOUSEOVER="this.stop()" scrollamount="3">
+         <a href="http://travel.sina.com.cn/festival/" target="_blank"> 立春  狂欢节  除夕  谢肉节  情人节  踩花山  假结婚节  塔尔寺灯节  抹你黑 </a>
+             </marquee>
+      </div>
+      <div class="clear"></div>
+		<ul>
+
+		<li><a target="_blank" href="http://travel.sina.com.cn/z/comment/index.shtml"><img src="http://i2.sinaimg.cn/travel//z/comment/U3405P704T12D665F435DT20111103152134.jpg" /></a><em><a href="http://travel.sina.com.cn/z/comment/index.shtml" target="_blank"><strong>网友评论有奖征集</strong></a></em><span>分享独一无二的旅行经历，八卦旅途中...<a href="http://travel.sina.com.cn/z/comment/index.shtml" target="_blank">[详细]</a></span></li>
+
+		<li><a target="_blank" href="http://travel.sina.com.cn/z/visa/index.shtml"><img src="http://i0.sinaimg.cn/travel//z/visa/U3405P704T12D598F435DT20111103153655.jpg" /></a><em><a href="http://travel.sina.com.cn/z/visa/index.shtml" target="_blank"><strong>2011出境签证攻略</strong></a></em><span>韩国济州岛吹海风？还是前往希腊感受...<a href="http://travel.sina.com.cn/z/visa/index.shtml" target="_blank">[详细]</a></span></li>
+
+		<li class="last"><a target="_blank" href="http://travel.sina.com.cn/z/enjoysg/index.shtml"><img src="http://i1.sinaimg.cn/travel//z/enjoysg/U3405P704T12D571F435DT20111103153208.jpg" /></a><em><a href="http://travel.sina.com.cn/z/enjoysg/index.shtml" target="_blank"><strong>乐享天堂新加坡</strong></a></em><span>新加坡是个繁简有致的地方，繁，在于...<a href="http://travel.sina.com.cn/z/enjoysg/index.shtml" target="_blank">[详细]</a></span></li>
+		<li><a target="_blank" href="http://travel.sina.com.cn/z/jiangnanlgz/index.shtml"><img src="http://i3.sinaimg.cn/travel//z/jiangnanlgz/U3405P704T12D479F435DT20100315182220.jpg" /></a><em><a href="http://travel.sina.com.cn/z/jiangnanlgz/index.shtml" target="_blank"><strong>江南最美的古镇</strong></a></em><span>慵懒的午后，满载回忆味儿的躺椅，小...<a href="http://travel.sina.com.cn/z/jiangnanlgz/index.shtml" target="_blank">[详细]</a></span></li>
+
+		<li><a target="_blank" href="http://travel.sina.com.cn/z/hngjlyd/index.shtml"><img src="http://i1.sinaimg.cn/travel//z/hngjlyd/U3405P704T12D464F435DT20100315182757.jpg" /></a><em><a href="http://travel.sina.com.cn/z/hngjlyd/index.shtml" target="_blank"><strong>海南国际旅游岛</strong></a></em><span>海南国际旅游岛从2000年学者首次提出...<a href="http://travel.sina.com.cn/z/hngjlyd/index.shtml" target="_blank">[详细]</a></span></li>
+
+		<li class="last"><a target="_blank" href="http://travel.sina.com.cn/z/green/index.shtml"><img src="http://i1.sinaimg.cn/travel//z/green/U3405P704T12D459F435DT20100315183913.jpg" /></a><em><a href="http://travel.sina.com.cn/z/green/index.shtml" target="_blank"><strong>用你的方式 绿色1小时</strong></a></em><span>当2010哥本哈根世界气候大会成为全球...<a href="http://travel.sina.com.cn/z/green/index.shtml" target="_blank">[详细]</a></span></li>
+		</ul>
+		</div>
+    </div>
+</div>
+<div class="topMainR">
+	<h3><a href="http://travel.sina.com.cn/top/" title="本周热点">本周热点</a></h3>
+        	<div class="rankBox">
+        <ul class="rank">
+
+<li class="nh1"><i></i><a href="http://travel.sina.com.cn/china/ard/2012-02-03/1139168463.shtml" title="正月十五看花灯 2012北京.." target="_blank">正月十五看花灯 2012北京..</a></li><li class="nh2"><i></i><a href="http://travel.sina.com.cn/china/2012-02-03/1051168459.shtml" title="中国是本美丽的书 细数国.." target="_blank">中国是本美丽的书 细数国..</a></li><li class="nh3"><i></i><a href="http://travel.sina.com.cn/china/2012-02-03/1428168487.shtml" title="走进东方阿尔卑斯 探索四.." target="_blank">走进东方阿尔卑斯 探索四..</a></li><li class="n4"><i></i><a href="http://travel.sina.com.cn/world/2012-02-03/1742168497.shtml" title="瑞士南部提契诺：随当地人混.." target="_blank">瑞士南部提契诺：随当地人混..</a></li><li class="n5"><i></i><a href="http://travel.sina.com.cn/world/2012-02-03/1352168479.shtml" title="由南向北 2012日本赏樱完全攻.." target="_blank">由南向北 2012日本赏樱完全攻..</a></li><li class="n6"><i></i><a href="http://travel.sina.com.cn/world/2012-02-03/1844168502.shtml" title="钟情巴拉望 郝蕾的“菲”常假.." target="_blank">钟情巴拉望 郝蕾的“菲”常假..</a></li><li class="n7"><i></i><a href="http://travel.sina.com.cn/world/2012-02-08/1543168697.shtml" title="马尔代夫转危为安 魅惑海景依.." target="_blank">马尔代夫转危为安 魅惑海景依..</a></li><li class="n8"><i></i><a href="http://travel.sina.com.cn/china/2012-02-07/1635168628.shtml" title="追寻花的姿态 国内春季赏花地.." target="_blank">追寻花的姿态 国内春季赏花地..</a></li><li class="n9"><i></i><a href="http://travel.sina.com.cn/china/ard/2012-02-08/1500168688.shtml" title="情人节最佳约会地 《北爱》拍.." target="_blank">情人节最佳约会地 《北爱》拍..</a></li><li class="n10"><i></i><a href="http://travel.sina.com.cn/china/2012-02-08/1050168662.shtml" title="自驾北戴河 在冰海之上静观日.." target="_blank">自驾北戴河 在冰海之上静观日..</a></li>
+        </ul>
+        </div>
+</div>
+</div>
+<div class="spacer"></div>
+<div class="w950 hou">
+	<div class="hotLeft fl">
+		<h1 class="title"><div class="fl"></div></h1>
+		<div id="f_cont3" class="wtab">
+		<ol class="tab2 tabgc">
+			<li class="ta">国内</li>
+            <li>出境</li>
+        </ol>
+		</div>
+		<ul>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/15313-wuzhen"><img src="http://i2.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100310161544.jpg" alt="乌镇"/></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/15313-wuzhen">乌镇</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/zhejiang/">浙江</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/14155-jiaxing">嘉兴</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(327,'have','scene')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=327&type=scene&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(327,'want','scene')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=327&type=scene&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/151132-wuyuan"><img src="http://i1.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100310162209.jpg" alt="婺源"/></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/151132-wuyuan">婺源</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/jiangxi/">江西</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/14101-shangrao">上饶</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(1263,'have','scene')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=1263&type=scene&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(1263,'want','scene')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=1263&type=scene&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/15809-huangshan"><img src="http://i3.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100310163718.jpg" alt="黄山" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/15809-huangshan">黄山</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/anhui/">安徽</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/14237-huangshan">黄山</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(894,'have','scene')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=894&type=scene&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(894,'want','scene')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=894&type=scene&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li class="last">
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/15573-changbaishan"><img src="http://i0.sinaimg.cn/travel/U246P704T1D708F228DT20110214142425.jpg" alt="长白山" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/15573-changbaishan">长白山</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/jilin/">吉林</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/14167-baishan">白山</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(352,'have','scene')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=352&type=scene&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(352,'want','scene')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=352&type=scene&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+						<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/15608-lijiang"><img src="http://i3.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100310165446.jpg" alt="桂林山水" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/15608-lijiang">桂林山水</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/guangxi/">广西</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/14206-guilin">桂林</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(641,'have','scene')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=641&type=scene&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(641,'want','scene')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=641&type=scene&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/15491-gulangyu"><img src="http://i2.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100310182707.jpg" alt="鼓浪屿" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/15491-gulangyu">鼓浪屿</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/fujian/">福建</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/14144-xiamen">厦门</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(528,'have','scene')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=528&type=scene&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(528,'want','scene')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=528&type=scene&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/15133-xihu"><img src="http://i3.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100310183411.jpg" alt="西湖" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/15133-xihu">西湖</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/zhejiang/">浙江</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/14152-hangzhou">杭州</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(136,'have','scene')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=136&type=scene&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(136,'want','scene')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=136&type=scene&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li class="last">
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/151-gugong"><img src="http://i2.sinaimg.cn/travel/bbs/2008/1017/U5230P704T1D1F1096DT20110304185928.jpg" alt="故宫" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/151-gugong">故宫</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/beijing/">北京</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(2,'have','scene')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=2&type=scene&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(2,'want','scene')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=2&type=scene&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+		</ul>
+		<ul class="none">
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/2412-chongsheng"><img src="http://i1.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100311151246.jpg" alt="冲绳" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/2412-chongsheng">冲绳</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/japan/">日本</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/2412-chongsheng">冲绳</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(5,'have','country')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=5&type=country&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(5,'want','country')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=5&type=country&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/2460-balidao"><img src="http://i3.sinaimg.cn/travel/china/U3405P704T21D2F1275DT20100311150156.jpg" alt="巴厘岛" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/2460-balidao">巴厘岛</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/indonesia/">印尼</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/2460-balidao">巴厘岛</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(3,'have','country')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=3&type=country&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(3,'want','country')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=3&type=country&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/24503-xiaweiyi"><img src="http://i0.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100311151623.jpg" alt="夏威夷" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/24503-xiaweiyi">夏威夷</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/usa/">美国</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/24503-xiaweiyi">夏威夷</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(18,'have','country')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=18&type=country&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(18,'want','country')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=18&type=country&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li class="last">
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/244-jizhoudao"><img src="http://i2.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100311152057.jpg" alt="济州岛" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/244-jizhoudao">济州岛</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/korea/">韩国</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/244-jizhoudao">济州岛</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(7,'have','country')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=7&type=country&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(7,'want','country')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=7&type=country&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+						<li>
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/24161-bali"><img src="http://i1.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100311152430.jpg" alt="巴黎" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/24161-bali">巴黎</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/france/">法国</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/24161-bali">巴黎</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(11,'have','country')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=11&type=country&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(11,'want','country')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=11&type=country&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/world/2009-10-23/1456112783.shtml"><img src="http://i1.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100311152812.jpg" alt="悉尼" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://travel.sina.com.cn/world/2009-10-23/1456112783.shtml">悉尼</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/world/AUS/index.html">澳大利亚</a></em>/<em><a target="_blank" href="http://travel.sina.com.cn/world/2009-10-23/1456112783.shtml">悉尼</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(37,'have','country')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=37&type=country&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(37,'want','country')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=37&type=country&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/world/p/2009-08-06/102599740.shtml"><img src="http://i3.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100311153121.jpg" alt="爱琴海" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://travel.sina.com.cn/world/p/2009-08-06/102599740.shtml">爱琴海</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/greece/">希腊</a></em>/<em><a target="_blank" href="http://travel.sina.com.cn/world/p/2009-08-06/102599740.shtml">爱琴海</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(50,'have','country')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=50&type=country&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(50,'want','country')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=50&type=country&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+			<li class="last">
+				<dl>
+					<dt><a target="_blank" href="http://jingdian.travel.sina.com.cn/24504-niuyue"><img src="http://i2.sinaimg.cn/travel/china/U3405P704T21D2F1276DT20100311153740.jpg" alt="纽约" /></a>
+					</dt>
+					<dd><strong><a target="_blank" href="http://jingdian.travel.sina.com.cn/24504-niuyue">纽约</a></strong></dd>
+					<dd>位于<em><a target="_blank" href="http://travel.sina.com.cn/usa/">美国</a></em>/<em><a target="_blank" href="http://jingdian.travel.sina.com.cn/24504-niuyue">纽约</a></em></dd>
+					<dd class="last"><p><a style="cursor:pointer;" onclick="get_haves(19,'have','country')"><ins>去过<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=19&type=country&o=have">
+</script></i></ins></a><span><a style="cursor:pointer;" onclick="get_haves(19,'want','country')">想去<i><script type="text/javascript" src="http://search.travel.sina.com.cn/api/show_more.php?id=19&type=country&o=want">
+</script></i></a></span></p></dd>
+
+				</dl>
+			</li>
+		</ul>
+	</div>
+	<div class="hotRight fl">
+		<h1 class="title re"><div class="fl"></div></h1>
+		<ul>
+			<li>
+				<dl>
+				<dt>国内</dt>
+<!-- 旧版国内景区排行		
+<script language="javascript" src="http://search.travel.sina.com.cn/api/show.php?o=want&type=scene&n=16"></script>
+-->
+<!-- 新版国内景区排行 开始 -->
+<script language="javascript" src="http://jingdian.travel.sina.com.cn/temp/interface/travel_rank.php?chinaworld=1&num=16"></script>
+<!-- 新版国内景区排行 结束 -->
+<script language="javascript">
+  var xihuan_array = want ;
+  var xihuan_array_len = xihuan_array.length;
+  var xihuan_output='' ;
+  if (xihuan_array_len > 16)  {
+    xihuan_array_len = 16 ;
+  }
+
+    for (i=0;i<xihuan_array_len;i++) 
+    {
+       //控制输出长度
+      if (xihuan_array[i][0].length>6)
+      {xihuan_array[i][0]=xihuan_array[i][0].substring(0,6)+'..';
+      }
+
+      xihuan_output += '  <dd><a href="'+xihuan_array[i][1]+'" target="_blank">'+xihuan_array[i][0]+'</a></dd>';
+
+    }
+
+    document.write(xihuan_output);
+
+</script>
+				</dl>
+			</li>
+			<li class="last">
+				<dl>
+				<dt>出境</dt>
+<!--<script language="javascript" src="http://search.travel.sina.com.cn/api/show.php?o=want&type=country&n=16"></script>-->
+<script language="javascript" src="http://jingdian.travel.sina.com.cn/temp/interface/travel_rank.php?chinaworld=2&num=16"></script>
+<script language="javascript">
+  var xihuan_array = want ;
+  var xihuan_array_len = xihuan_array.length;
+  var xihuan_output='' ;
+  if (xihuan_array_len > 16)  {
+    xihuan_array_len = 16 ;
+  }
+
+    for (i=0;i<xihuan_array_len;i++) 
+    {
+       //控制输出长度      
+      if (xihuan_array[i][0].length>6)
+      {xihuan_array[i][0]=xihuan_array[i][0].substring(0,6)+'..';
+      }
+
+      xihuan_output += '  <dd><a href="'+xihuan_array[i][1]+'" target="_blank">'+xihuan_array[i][0]+'</a></dd>';
+
+    }
+
+    document.write(xihuan_output);
+
+</script>
+				</dl>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="spacer"></div>
+<div class="w950 themes">
+	<h1 class="title zhu"><div class="fl"></div>
+	<ins class="fr">
+<!--
+<a target="_blank" href="#">自驾</a><a target="_blank" href="#">游轮</a><a target="_blank" href="#">赏花</a><a target="_blank" href="#">夜生活</a><a target="_blank" href="#">购物</a><a target="_blank" href="#">家庭</a><a target="_blank" href="#">蜜月</a><a target="_blank" href="#">SPA</a><a class="more">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+-->
+<a target="_blank" href="http://travel.sina.com.cn/t/zijia/">自驾</a><a target="_blank" href="http://travel.sina.com.cn/t/youlun/">邮轮</a><a target="_blank" href="http://travel.sina.com.cn/t/shanghua/">赏花</a><a target="_blank" href="http://travel.sina.com.cn/t/yeshenghuo/">夜生活</a><a target="_blank" href="http://travel.sina.com.cn/t/gouwu/">购物</a><a target="_blank" href="http://travel.sina.com.cn/t/jiating/">家庭</a><a target="_blank" href="http://travel.sina.com.cn/t/miyue/">蜜月</a><a target="_blank" href="http://travel.sina.com.cn/t/spa/">SPA</a>
+</ins>
+	</h1>
+	<ul>
+		<li>
+		<div class="block">
+		<h2><em class="n1"></em><span></span><i class="i1"></i><b class="more" ><a target="_blank" href="http://travel.sina.com.cn/t/zijia/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></b></h2>
+		<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/t/zijia/"><img src="http://i2.sinaimg.cn/travel/subject/2010/0302/img/db/z1.png" /></a>
+					</dt>
+					<dd class="list">
+				<span><a href="/world/2012-02-07/1034168582.shtml" target="_blank" title="网友实拍瑞士雪景自驾不堵车">欧洲最严寒冬季 网友实拍瑞士雪..</a></span>
+
+				<span><a href="/world/2012-01-17/1502167891.shtml" target="_blank" title="自驾最悠长的海外春节假期">自驾玩转四大洲 过最悠长的海外..</a></span>
+
+				<span><a href="/world/2012-01-13/1034167715.shtml" target="_blank" title="自驾马来西亚八日线路推荐">春节自驾马来西亚八日线路推荐</a></span>
+
+				<span><a href="/world/2012-01-06/1020167389.shtml" target="_blank" title="美梦中自驾美国西部20天">西部探险之旅 美梦中自驾美国2..</a></span>
+
+				<span><a href="/world/2011-12-20/1128166504.shtml" target="_blank" title="穿越马来西亚雨林的绿色诱惑">四驱穿越砂劳越 马来西亚雨林的..</a></span>
+			</dd>
+		</dl>
+		</div></li>
+				<li><div class="block">
+		<h2><em class="n2"></em><span></span><i class="i2"></i><b class="more" ><a  target="_blank" href="http://travel.sina.com.cn/t/youlun/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></b></h2>
+		<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/t/youlun/"><img src="http://i3.sinaimg.cn/travel/subject/2010/0302/img/db/z2.png" /></a>
+					</dt>
+					<dd class="list">
+				<span><a href="/world/2011-12-31/1158167199.shtml" target="_blank" title="歌诗达经典号亚洲风情游">歌诗达之旅 椰林树影中的“经典..</a></span>
+
+				<span><a href="/world/2011-12-30/1010167106.shtml" target="_blank" title="盘点2011中国人的旅行冲动">热点风向标 盘点2011中国人的旅..</a></span>
+
+				<span><a href="/world/2011-12-23/1157166750.shtml" target="_blank" title="邮轮感受大溪地的冬日温情">远离瑟瑟寒风 邮轮感受大溪地的..</a></span>
+
+				<span><a href="/world/2011-12-19/1419166457.shtml" target="_blank" title="乘邮轮领略希腊千年时光(图)">忘忧爱琴海 乘邮轮领略希腊千年..</a></span>
+
+				<span><a href="/world/2011-12-16/1118166360.shtml" target="_blank" title="日本长崎六百块的邮轮之旅">日本长崎“微”旅行 六百块的邮..</a></span>
+			</dd>
+		</dl>
+		</div></li>
+				<li><div class="block">
+		<h2><em class="n3"></em><span></span><i class="i3"></i><b class="more" ><a target="_blank" href="http://travel.sina.com.cn/t/shanghua/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></b></h2>
+		<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/t/shanghua/"><img src="http://i0.sinaimg.cn/travel/subject/2010/0302/img/db/z3.png" /></a>
+					</dt>
+					<dd class="list">
+				<span><a href="/world/2012-02-03/1352168479.shtml" target="_blank" title="2012日本赏樱完全攻略(图)">由南向北 2012日本赏樱完全攻略..</a></span>
+
+				<span><a href="/world/2011-11-01/1413164230.shtml" target="_blank" title="深秋美国各地赏红叶全攻略">北美绚烂深秋至 美国各地赏红叶..</a></span>
+
+				<span><a href="/world/2011-10-13/1127163243.shtml" target="_blank" title="层林尽染北半球深秋赏枫攻略">层林尽染北半球 异国深秋赏枫之..</a></span>
+
+				<span><a href="/world/2011-09-05/1519161706.shtml" target="_blank" title="新加坡国立胡姬园的花草大片">新加坡国立胡姬园：娇艳欲滴的..</a></span>
+
+				<span><a href="/world/2011-08-09/1038160314.shtml" target="_blank" title="逛札幌小樽长脚蟹莫错过">盛夏赏花北海道 逛札幌小樽长脚..</a></span>
+			</dd>
+		</dl>
+		</div></li>
+				<li class="last"><div class="block">
+		<h2><em class="n4"></em><span></span><i class="i4"></i><b class="more" ><a  target="_blank" href="http://travel.sina.com.cn/t/yeshenghuo/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></b></h2>
+		<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/t/yeshenghuo/"><img src="http://i1.sinaimg.cn/travel/subject/2010/0302/img/db/z4.png" /></a>
+					</dt>
+					<dd class="list">
+				<span><a href="/world/2011-10-21/1313163721.shtml" target="_blank" title="毛里求斯离天堂最近的地方">毛里求斯：海天之间复刻天堂的..</a></span>
+
+				<span><a href="/world/2011-09-07/1419161819.shtml" target="_blank" title="911事件十周年重返多面纽约">911事件十周年 重返多面纽约行..</a></span>
+
+				<span><a href="/world/2011-09-02/1408161621.shtml" target="_blank" title="日本关西:牛肉有价夜色无价">牛肉有价夜色无价 日本关西“吃..</a></span>
+
+				<span><a href="/world/2011-08-15/1045160648.shtml" target="_blank" title="菲律宾夏日长滩岛赏月圆之夜">长滩岛赏月圆之夜 菲律宾夏日美..</a></span>
+
+				<span><a href="/world/2011-08-11/1013160463.shtml" target="_blank" title="品尝越南:游走最灵魂地带">岘港顺化日与夜 游走越南最灵魂..</a></span>
+			</dd>
+		</dl>
+		</div></li>
+				<li><div class="block">
+		<h2><em class="n5"></em><span></span><i class="i5"></i><b class="more" ><a target="_blank" href="http://travel.sina.com.cn/t/gouwu/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></b></h2>
+		<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/t/gouwu/"><img src="http://i2.sinaimg.cn/travel/subject/2010/0302/img/db/z5.png" /></a>
+					</dt>
+					<dd class="list">
+				<span><a href="/world/2012-02-03/1219168474.shtml" target="_blank" title="各国治宰:重拳出击不留情(图)">盘点各国“宰相” 重拳出击“治..</a></span>
+
+				<span><a href="/world/2012-02-02/1016168392.shtml" target="_blank" title="海明威心中的天堂复制品">毛里求斯：海明威心中的天堂复..</a></span>
+
+				<span><a href="/world/2012-01-17/1629167917.shtml" target="_blank" title="埃及购物:法老与庶民的香水">还原传奇配方 埃及法老与庶民的..</a></span>
+
+				<span><a href="/world/2012-01-09/1333167507.shtml" target="_blank" title="女人最爱的全球六大血拼之城">新年打折季 横扫全球六大血拼之..</a></span>
+
+				<span><a href="/world/2012-01-04/1108167266.shtml" target="_blank" title="法国香水小镇招牌“小金瓶”">女人的梦想之地 法国香水小镇格..</a></span>
+			</dd>
+		</dl>
+		</div></li>
+				<li><div class="block">
+		<h2><em class="n6"></em><span></span><i class="i6"></i><b class="more">
+<a target="_blank" href="http://travel.sina.com.cn/t/jiating/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></b></h2>
+		<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/t/jiating/"><img src="http://i3.sinaimg.cn/travel/subject/2010/0302/img/db/z6.png" /></a>
+					</dt>
+					<dd class="list">
+				<span><a href="/world/2011-12-20/1030166487.shtml" target="_blank" title="迎新年浪漫海岛接受阳光洗礼">迎新年犒劳之旅 浪漫海岛接受阳..</a></span>
+
+				<span><a href="/world/2011-12-19/1042166435.shtml" target="_blank" title="五大温暖地过新年攻略(组图)">告别寒冷冬日 奔向五个温暖地带..</a></span>
+
+				<span><a href="/world/2011-11-16/1056164884.shtml" target="_blank" title="美国欢乐自驾童趣旅行(组图)">迪士尼亲子大冒险 美国欢乐自驾..</a></span>
+
+				<span><a href="/world/2011-09-28/1103162603.shtml" target="_blank" title="家庭自驾游:德国边境提提湖">黑森林童话 自驾德国边境提提湖..</a></span>
+
+				<span><a href="/world/2011-09-06/1608161758.shtml" target="_blank" title="泰国皇家海滩上的悠闲时光">泰国华欣：皇家海滩上的悠闲时..</a></span>
+			</dd>
+		</dl>
+		</div></li>
+				<li><div class="block">
+		<h2><em class="n7"></em><span></span><i class="i7"></i><b class="more" ><a target="_blank" href="http://travel.sina.com.cn/t/miyue/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></b></h2>
+		<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/t/miyue/"><img src="http://i0.sinaimg.cn/travel/subject/2010/0302/img/db/z7.png" /></a>
+					</dt>
+					<dd class="list">
+				<span><a href="/world/2012-02-06/1137168534.shtml" target="_blank" title="情人节十个出境目的地推荐">浪漫无边 情人节十个出境目的地..</a></span>
+
+				<span><a href="/world/2012-02-02/1016168392.shtml" target="_blank" title="海明威心中的天堂复制品">毛里求斯：海明威心中的天堂复..</a></span>
+
+				<span><a href="/world/2012-01-16/1014167750.shtml" target="_blank" title="塞舌尔纯净岛国爱的初体验">繁华尽褪塞舌尔 纯净小岛爱的初..</a></span>
+
+				<span><a href="/world/2011-12-20/1030166487.shtml" target="_blank" title="迎新年浪漫海岛接受阳光洗礼">迎新年犒劳之旅 浪漫海岛接受阳..</a></span>
+
+				<span><a href="/world/2011-11-14/1455164818.shtml" target="_blank" title="圣托里尼岛牵手去看最美落日">圣托里尼岛伊亚小镇：牵手去看..</a></span>
+			</dd>
+		</dl>
+		</div></li>
+				<li class="last"><div class="block">
+		<h2><em class="n8"></em><span></span><i class="i8"></i><b class="more" ><a target="_blank" href="http://travel.sina.com.cn/t/spa/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></b></h2>
+		<dl>
+					<dt><a target="_blank" href="http://travel.sina.com.cn/t/spa/"><img src="http://i1.sinaimg.cn/travel/subject/2010/0302/img/db/z8.png" /></a>
+					</dt>
+					<dd class="list">
+				<span><a href="/world/2012-02-06/1007168511.shtml" target="_blank" title="火山脚下泡一场最惬意的汤">九州火山脚下 泡一场最惬意的日..</a></span>
+
+				<span><a href="/world/2012-01-10/1419167599.shtml" target="_blank" title="瑞士最古老的温泉疗养胜地">洛伊克巴德：瑞士最古老的温泉..</a></span>
+
+				<span><a href="/world/2012-01-06/1341167423.shtml" target="_blank" title="韩国汗蒸幕:冬日里的夏屋">韩国“桑拿”汗蒸幕 冬日里的夏..</a></span>
+
+				<span><a href="/world/2011-12-30/0952167102.shtml" target="_blank" title="在台湾泡汤是一种生活方式">在台湾 泡汤是一种生活方式</a></span>
+
+				<span><a href="/world/2011-12-28/1453167000.shtml" target="_blank" title="全球奇异温泉:猴子专用温泉">探访全球奇异温泉：地狱谷温泉..</a></span>
+			</dd>
+		</dl>
+		</div></li>
+	</ul>
+</div>
+<div class="spacer"></div>
+
+<div class="w950 shine">
+	<h1 class="title guang"><div class="fl"></div></em>
+	<ins class="fr"><a class="more" href="http://vi.travel.sina.com.cn/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ins>
+	</h1>
+	<ul>
+		 <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18180"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/1f/88/1328858870_591122622_1728743920_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18180" target="_blank">用心感受克林姆林宫</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18169"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/a0/ac/1328838942_1191576303_1728743920_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18169" target="_blank">意大利的艺术之光</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18166"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/a3/fc/1328778314_1785335358_1728743920_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18166" target="_blank">小城漫步青海西宁</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18162"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/6e/2a/1328752159_13493250_1728743920_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18162" target="_blank">时光漫步安昌古镇</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18160"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/cb/e2/1328690750_1194425579_1728743920_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18160" target="_blank">加拿大惊心的美丽</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18158"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/59/ae/1328666381_1439644469_1728743920_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18158" target="_blank">上海故事田子坊</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18155"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/68/f4/1328600424_396798223_1285048990_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18155" target="_blank">双廊美景</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18154"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/e0/9c/1328600368_2005641154_1728743920_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18154" target="_blank">圣洁的布达拉宫广场</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18152"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/2f/3a/1328597239_1223669320_1299926345_0_165.png" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18152" target="_blank">瓜里尔游记</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18151"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/13/f3/1328596219_2073293431_1299926345_0_165.png" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18151" target="_blank">瓜里尔</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18150"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/9b/42/1328595030_636843488_1299926345_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18150" target="_blank">雕刻</a></span></li> <li><a target="_blank" href="http://vi.travel.sina.com.cn/play/?a=18149"><img src="http://cache.mars.sina.com.cn/nd/phototravel/vision/image/96/bf/1328594835_1584334229_1299926345_0_165.jpg" /></a><span><a href="http://vi.travel.sina.com.cn/play/?a=18149" target="_blank">惊艳之旅</a></span></li>		
+	</ul>
+</div>
+<div class="spacer"></div>
+
+<div class="w950 net">
+	<h1 class="title wang"><div class="fl"></div></em>
+	<ins class="fr"><a target="_blank" href="http://line.travel.sina.com.cn/tejia.html">特价线路</a><a class="more" target="_blank" href="http://line.travel.sina.com.cn/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ins>
+	<div id="f_cont" class="wtab">
+		<ul class="tab1">
+			<li class="ta"><a href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/29-0/" target="_blank">北京出发</a></li>
+            <li><a href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/30-0/" target="_blank">上海出发</a></li>
+            <li><a href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/25-295/" target="_blank">广州出发</a></li>
+            <li><a href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/25-296/" target="_blank">深圳出发</a></li>
+			<li><a href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/13-92/" target="_blank">杭州出发</a></li>
+			<li><a href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/1-315/" target="_blank">成都出发</a></li>
+        </ul>
+</div>
+	</h1>
+	<div class="left">
+	<h2>
+
+		 <a target="_blank" href="http://travel.sina.com.cn/world/2011-06-23/1646158269.shtml ">
+             <img src="http://i2.sinaimg.cn/travel//106/2010-02-21/U4012P704T106D1F5068DT20110627161031.jpg" /></a>
+
+	   <div>
+             <a target="_blank" href="http://travel.sina.com.cn/world/2011-06-23/1646158269.shtml ">“周”游世界特别策划：加拿大留学之旅</a>
+            </div>
+
+	</h2>
+	<dl class="list">
+		<dt><strong>网友口碑</strong></dt>
+		<dd><span class="r1"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/128/140999.html">东南亚：泰国 新加坡 马来西..</a><em>￥2980</em></dd> <dd><span class="r2"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/128/145477.html">欧洲旅游线路</a><em>￥8900</em></dd> <dd><span class="r3"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/128/141552.html">云南旅游线路</a><em>￥1850</em></dd> <dd><span class="r4"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/128/140627.html">西藏旅游精品特价线路汇总</a><em>￥2850</em></dd> <dd><span class="r5"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/128/148141.html">非洲中东精选旅游线路（南非..</a><em>￥6300</em></dd> <dd><span class="r6"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/128/140076.html">海南旅游线路</a><em>￥2600</em></dd> <dd><span class="r7"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/90/40121.html">泰新马 普吉岛 越南 柬埔寨 ..</a><em>￥3980</em></dd> <dd><span class="r8"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/90/40112.html">欧洲3国、6国、11国、俄罗斯..</a><em>￥8800</em></dd> <dd><span class="r9"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/128/165430.html">澳新凯旅游线路汇总  澳洲东..</a><em>￥11800</em></dd> <dd><span class="r10"></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/90/70227.html">&lt;北京到埃及全景8日&gt; ..</a><em>￥9600</em></dd> 
+         </dl>
+	</div>
+	<div class="mid">
+	<ins class="fr"><a class="more" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ins>
+	<dl class="list">
+		<dt><strong>国内游线路</strong></dt>
+		<dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/124/138811.html">■云南热点线路1：大理、丽江、西..</a><em>￥1180</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/33/2914.html">【昆明国旅特价】石林西双版纳大..</a><em>￥2880</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/33/3697.html">【昆明国旅特价】大理、丽江、香..</a><em>￥4180</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/69/46088.html">★【特价海南-海口纯玩海双飞五天..</a><em>￥2360</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/113/179544.html">★☆【北青旅彩云之滇之旅】3288..</a><em>￥3980</em></dd> 
+	</dl>
+	<ins class="fr"><a class="more" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ins>
+		<dl class="list">
+		<dt><strong>出境游线路</strong></dt>
+		<dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/69/36273.html">★【五彩泰新马】10日★美妙享不..</a><em>￥3580</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/69/46098.html">★【经典日本韩国】全景十日★</a><em>￥6580</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/69/46090.html">★【特价澳新凯（大堡礁）12天】..</a><em>￥12800</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/41/2543.html">【皇家品质】法国、意大利、瑞士..</a><em>￥18700</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/chujing.html">[出境]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/113/183360.html">★☆【北青旅欧洲之旅】比德法意..</a><em>￥10300</em></dd> 
+	</dl>
+	<ins class="fr"><a class="more" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E6%B8%AF%E6%BE%B3/soi/29-0/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ins>
+		<dl class="list">
+		<dt><strong>港澳游线路</strong></dt>
+		<dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/117/183784.html">[北青旅-港澳]—香港、澳门2月份..</a><em>￥2180</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/118/181028.html">港澳五日品质升级海洋线—澳门八..</a><em>￥2800</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/154/179990.html">港澳直飞五日休闲纯玩团 港进港回..</a><em>￥5180</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/154/179967.html">香港直飞四日四星品质升级团 港进..</a><em>￥3080</em></dd> <dd><span></span><a class="i" target="_blank" href="http://line.travel.sina.com.cn/guonei.html">[国内]</a><a target="_blank" href="http://line.travel.sina.com.cn/travel/line/128/139908.html">港澳五日（海洋公园+迪士尼）澳门..</a><em>￥2580</em></dd> 
+	</dl>
+
+	</div>
+<!--	
+<script language="javascript" src="http://line.travel.sina.com.cn/js/search/citydata.js"></script>
+<script language="javascript" src="http://line.travel.sina.com.cn/js/search/datepicker.js"></script>
+<script language="javascript" src="http://line.travel.sina.com.cn/js/search/search.js"></script>
+-->
+<script type="text/javascript">
+function check_search1(obj){
+	var url = obj.action.replace('.html', '');
+	if (_strLen(obj.way.value) > 0){
+		url += '/way/'+encodeURIComponent(obj.way.value);
+	}
+	url += '/soi/'+obj.soi.value;
+	url += '/category/'+obj.category.value;
+	url += '/holiday/'+obj.holiday.value;
+	url += '/trait/'+obj.trait.value;
+	url += '/pi/'+obj.pi.value;
+	url += '/di/'+obj.di.value;
+		url += '/sdate/'+obj.sdate.value;
+	window.open(url);
+}
+</script>
+	<div class="right">
+<form name="searchForm" method="get" action="http://line.travel.sina.com.cn/search/line.html" target="_blank">
+	<h1>线路搜索</h1>
+	<ul>
+	<li>
+		<label>出发地：</label>
+		<div class="input country">
+		<input name="so" id="so" value="" class="text" onclick="GetCityList(this)" onkeyup="GetCityList(this)" value_to_input="soi" mod_address_suggest="@BEIJING|BJ|北京|29-0|北京@SHANGHAI|SH|上海|30-0|上海@GUANGZHOU|GZ|广州|25-295|广东>>广州@YUNNAN|YN|云南|15-0|云南@JIANGSU|JS|江苏|7-0|江苏@HANGZHOU|HZ|杭州|13-92|浙江>>杭州@CHENGDU|CD|成都|1-315|四川>>成都@" />
+		</div>
+	</li>
+	<li class="last" style="border-top:none;">
+		<label>目的地：</label>
+		<div class="input country">
+		<input name="way" id="way" value="不限" class="text" onclick="checkKeyword(this, 'click');" onblur="checkKeyword(this, 'blur');" />
+		</div>
+	</li>
+	</ul>
+	<ul>
+	<li>
+		<label>线路类别：</label>
+		<div class="input country bdnone">
+		<select name="category">
+            <option value="0" >不限</option>
+            <option value="1" >国内线路</option>
+            <option value="2" >出境线路</option>
+            <option value="3" >周边线路</option>
+          </select>
+          </div>
+	</li>
+	<li class="last" style="border-top:none;">
+		<label>节假日：</label>
+		<div class="input country bdnone">
+		<select name="holiday">
+            <option value="0">不限</option>
+            <option value="1">元旦</option>
+            <option value="2">春节</option>
+            <option value="3">清明节</option>
+            <option value="4">五一</option>
+            <option value="5">端午节</option>
+            <option value="6">中秋节</option>
+            <option value="7">十一</option>
+          </select>
+		</div>
+	</li>
+	</ul>
+	<ul>
+	<li>
+		<label>旅游主题：</label>
+		<div class="input country long bdnone">
+		<select name="trait">
+            <option value="0" >不限</option>
+            <option value="1" >蜜月</option>
+            <option value="2" >邮轮</option>
+            <option value="3" >圣诞节</option>
+            <option value="4" >复活节</option>
+            <option value="5" >感恩节</option>
+          </select>
+		</div>
+	</li>
+	</ul>
+	<ul>
+	<li>
+		<label>格区间：</label>
+		<div class="input country long bdnone">
+		 <select name="pi">
+            <option value="0">不限</option>
+            <option value="1" >500元以下</option>
+            <option value="2" >500-2000元</option>
+            <option value="3" >2000-5000元</option>
+            <option value="4" >5000-10000元</option>
+            <option value="5" >10000以上</option>
+          </select>
+		</div>
+	</li>
+	</ul>
+	<ul>
+	<li>
+		<label>出发时间：</label>
+		<div class="input country">
+		 <input class="text" name="sdate" id="sdate" onclick="ShowTwoMonthList(this,0,'thisDay');"  readonly />
+		</div>
+	</li>
+	<li class="last" style="border-top:none;">
+		<label>行程天数：</label>
+		<div class="input country bdnone">
+		<select name="di">
+            <option value="0" >不限</option>
+            <option value="1" >1-3天</option>
+            <option value="2" >4-6天</option>
+            <option value="3" >7-10天</option>
+            <option value="4" >10天以上</option>
+          </select>
+	</div>
+	</li>
+	</ul>
+	<input type="hidden" name="soi" id="soi" value="" >
+	<p><input type="button" class="btnsubmit" value="" onclick="check_search1(document.searchForm)" /></p>
+	</form>
+	<center><a target="_blank" href="http://weather.news.sina.com.cn/">天气</a> | <a target="_blank" href="http://travel.sina.com.cn/air/index.html">机票</a> | <a target="_blank" href="http://travel.sina.com.cn/hotel/index.html">酒店</a> | <a target="_blank" href="http://travel.sina.com.cn/menpiao/index.html">门票</a> | <a target="_blank" href="http://biz.finance.sina.com.cn/hq/forex_list.php?type=all">汇率</a></center>
+	</div>
+	<div class="right last">
+	<h1>热门搜索</h1>
+	<div class="c">
+
+	<strong><a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E9%A6%99%E6%B8%AF/soi/29-0/">香港</a></strong>
+	<strong><a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E6%BE%B3%E9%97%A8/soi/29-0">澳门</a></strong>
+	<a target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E5%8F%B0%E6%B9%BE/soi/29-0/">台湾</a>&nbsp;<a target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%BD%E6%B1%9F/soi/29-0/">丽江</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%89%E4%BA%9A/soi/29-0/">三亚</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E9%BB%84%E5%B1%B1/soi/29-0/">黄山</a>
+	<strong><a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E5%BC%A0%E5%AE%B6%E7%95%8C/soi/29-0/">张家界</a></strong>
+	<strong><a target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8A%E6%B5%B7/soi/29-0/">上海</a></strong>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E6%9D%AD%E5%B7%9E/soi/29-0/">杭州</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E5%93%88%E5%B0%94%E6%BB%A8/soi/29-0/">哈尔滨</a>
+	<strong><a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E5%A9%BA%E6%BA%90/soi/29-0/">婺源</a></strong>
+	<strong><a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E8%82%AF%E5%B0%BC%E4%BA%9A/soi/29-0/">肯尼亚</a></strong>
+	<a target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E6%97%A5%E6%9C%AC/soi/29-0/">日本</a>&nbsp;<a target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E9%9F%A9%E5%9B%BD/soi/29-0/">韩国</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E8%B6%8A%E5%8D%97/soi/29-0/">越南</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E5%B8%8C%E8%85%8A/soi/29-0/">希腊</a>
+	<strong><a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E5%A4%8F%E5%A8%81%E5%A4%B7/soi/29-0/">夏威夷</a></strong>
+	<strong><a target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E6%B3%B0%E5%9B%BD/soi/29-0/">泰国</a></strong>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E5%9F%83%E5%8F%8A/soi/29-0/">埃及</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E5%8D%97%E9%9D%9E/soi/29-0/">南非</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E9%98%BF%E8%81%94%E9%85%8B/soi/29-0/">阿联酋</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/soi/29-0/">澳大利亚</a>
+	<strong><a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/29-0/category/0/di/0/pi/0/crowd/0/mark/0/holiday/0/trait/1">浪漫蜜月</a></strong>
+		<strong><a target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/29-0/category/0/di/0/pi/0/mark/0/trait/0/holiday/0/crowd/1">温馨家庭游</a></strong>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/29-0/category/0/di/0/pi/0/mark/0/trait/0/holiday/0/crowd/2">学生游</a>
+	<a class="f14" target="_blank" href="http://line.travel.sina.com.cn/search/line/way/%E4%B8%8D%E9%99%90/soi/29-0/category/0/di/0/pi/0/mark/0/trait/0/holiday/0/crowd/4">夕阳红</a>
+
+	</div>
+	</div>
+</div>
+<div class="w950 go">
+	<div class="tab">
+	<div class="accordioCon clearfix">
+    <div class="acc clearfix">
+
+		<dl class="ac">
+
+<dd class="d1"></dd>
+<dt class="d1"><a target="_blank" href="http://travel.sina.com.cn/z/beautifulworld6/"><img src="http://i0.sinaimg.cn/travel/subject/2011/0927/niboer1.jpg" /></a></dt>
+
+<dd class="d2"></dd>
+<dt class="d2"><a target="_blank" href="http://travel.sina.com.cn/z/line1/"><img src="http://i0.sinaimg.cn/travel/shouyeneiguang.jpg" /></a></dt>
+
+<dd class="d3"></dd>
+<dt class="d3"><a target="_blank" href="http://travel.sina.com.cn/z/line3/"><img src="http://i0.sinaimg.cn/travel/faguoxianlutuijian.jpg" /></a></dt>
+
+<dd class="d4"></dd>
+<dt class="d4"><a target="_blank" href="http://travel.sina.com.cn/z/beautifulworld5/"><img src="http://i3.sinaimg.cn/travel/subject/2011/1026/xibanya.jpg" /></a></dt>
+<dd class="d5"></dd>
+<dt class="d5"><a target="_blank" href="http://travel.sina.com.cn/z/beautifulworld4/"><img src="http://i0.sinaimg.cn/travel/subject/2011/1027/708vzrzq.jpg" /></a></dt>
+
+</dl>;
+
+</div>
+    </div>
+
+	</div>
+	<div class="rec">
+	<h1><a href="http://travel.sina.com.cn/1/2009/0908/442.html" target="_blank">新浪线路广场火热招商中</a></h1>
+	<!--<ul>
+            	<li><a href="http://line.travel.sina.com.cn/travel/index/83.html" target="_blank">海洋国际旅行社</a></li>
+                <li><a href="http://line.travel.sina.com.cn/travel/index/81.html" target="_blank">北京青旅南城店</a></li>
+                <li><a href="http://line.travel.sina.com.cn/travel/index/71.html" target="_blank">天鹅国际旅游公司</a></li>
+                <li><a href="http://line.travel.sina.com.cn/travel/index/33" target="_blank">昆明中旅总社</a></li>
+                <li><a href="http://line.travel.sina.com.cn/travel/index/61" target="_blank">云南康辉旅行社</a></li>
+
+	</ul>
+		<ul>
+           	<li><a href="http://line.travel.sina.com.cn/travel/index/84" target="_blank">北青旅心悦假期西单</a></li>
+                <li><a href="http://line.travel.sina.com.cn/travel/index/82" target="_blank">神舟国旅建国门店</a></li>
+                <li><a href="http://line.travel.sina.com.cn/travel/index/16" target="_blank">神舟国旅五棵松店</a></li>
+                <li><a href="http://line.travel.sina.com.cn/travel/index/25" target="_blank">北京青旅展览路部</a></li>
+                <li><a href="http://line.travel.sina.com.cn/travel/index/62" target="_blank">爱途旅游网</a></li>
+
+	</ul>-->
+         <ul>
+	<li><a href="http://line.travel.sina.com.cn/travel/index/117.html" target="_blank" title="北京协新会议有限公司">北京协新会议有限</a></li>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/147.html" target="_blank" title="携程旅行网">携程旅行网</a></li>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/69.html" target="_blank" title="首都国际旅行社">首都国际旅行社</a></li>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/113.html" target="_blank" title="北京青年旅行社朝阳门市部">北京青年旅行社朝</a></li>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/97.html" target="_blank" title="中青旅控股股份有限公司">中青旅控股股份有</a></li>
+	</ul><ul>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/101.html" target="_blank" title="北京青年旅行社股份有限公司国门营业部">北京青年旅行社股</a></li>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/99.html" target="_blank" title="北京凯撒国际旅行社有限责任公司">北京凯撒国际旅行</a></li>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/108.html" target="_blank" title="中旅体育旅行社有限公司">中旅体育旅行社有</a></li>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/94.html" target="_blank" title="国旅总社">国旅总社</a></li>
+
+	<li><a href="http://line.travel.sina.com.cn/travel/index/92.html" target="_blank" title="众信旅游">众信旅游</a></li>
+
+        </ul>
+
+	</div>
+</div>
+<div class="spacer"></div>
+
+<div class="spacer"></div>
+<div class="w950 wTitle nohiden"><i class="sinaTravl"><a title="新浪旅游" href="http://travel.sina.com.cn/">新浪旅游</a></i>
+<!--
+<form name="search_f2" action="http://search.travel.sina.com.cn/search.php" target="_blank"><div class="wTisearch searchBox"><cite>景区搜索：</cite>
+                  <input name="title" type="text" class="stext" onmouseover="this.focus()" onfocus="this.select()"  onclick="if(this.value=='九寨沟' || this.value=='北京')this.value='';" id="title" onkeyup="document.search_f2.keyword.value=this.value;" onblur="document.search_f2.keyword.value=this.value;" onkeydown="document.search_f2.keyword.value=this.value;" value="九寨沟"/>
+                  <input type="hidden" name="keyword" value="">
+                  <input  value="" class="sbtn" title="搜索" type="submit" />
+                </div></form>
+-->
+	<form name="searchForm2" method="get" action="http://jingdian.travel.sina.com.cn/language/iwords/search.php" target="_blank" onsubmit="return checkSubmit2(this);">
+	<div class="wTisearch searchBox"><cite>景区搜索：</cite>
+		<input type="hidden" name="url" id="url2" value="http://jingdian.travel.sina.com.cn/15750-jiuzhaigou" />
+		<input type="text" value="九寨沟" name="q" class="stext" id="singleBirdRemote2" autocomplete="off" onkeyDown="checkKeyCode('url2', event);" onclick="this.select();" />
+		<input  value="" class="sbtn" title="搜索" type="submit" />
+	</div>
+	</form>
+	<script language="javascript">
+	//$().ready(function() {
+
+		$("#singleBirdRemote2").autocomplete("http://jingdian.travel.sina.com.cn/language/iwords/iwords2.php", {
+			width: 161,
+			selectFirst: true,
+			max:10,
+			//highlight: true,
+			scroll: false,
+			//scrollHeight: 1000,
+			//autoFill: true,
+			cacheLength: 50,
+			matchSubset: true
+			//mustMatch: true
+		});
+
+		$("#singleBirdRemote2").result(function(event, data, formatted) {
+			//alert(data[1]);
+			if (data){
+				//$(this).parent().next().find("input").val(data[1]);
+				document.searchForm1.url.value = data[1];
+			}
+		});
+	//});
+	</script>
+<span><a href="#">返回顶部</a>|<a href="http://travel.sina.com.cn/">返回首页</a></span></div>
+<div class="w950">
+	<ul class="siteNavs">
+    	<li class="s1w first"><strong><a href="http://travel.sina.com.cn/china/">国内游</a></strong>
+        <a target="_blank" href="http://travel.sina.com.cn/shaanxi/">陕西</a><a target="_blank" href="http://travel.sina.com.cn/gansu/">甘肃</a><a target="_blank" href="http://travel.sina.com.cn/hunan/">湖南</a><a target="_blank" href="http://travel.sina.com.cn/xizang/">西藏</a><a target="_blank" href="http://travel.sina.com.cn/hebei/">河北</a><a target="_blank" href="http://travel.sina.com.cn/jiangsu/">江苏</a><a target="_blank" href="http://travel.sina.com.cn/jiangxi/">江西</a><a target="_blank" href="http://travel.sina.com.cn/liaoning/">辽宁</a><a target="_blank" href="http://travel.sina.com.cn/neimenggu/">内蒙古</a><a target="_blank" href="http://travel.sina.com.cn/hubei/">湖北</a><a target="_blank" href="http://travel.sina.com.cn/fujian/">福建</a><a target="_blank" href="http://travel.sina.com.cn/zhejiang/">浙江</a><a target="_blank" href="http://travel.sina.com.cn/jilin/">吉林</a><a target="_blank" href="http://travel.sina.com.cn/sichuan/">四川</a><a target="_blank" href="http://travel.sina.com.cn/yunnan/">云南</a><a target="_blank" href="http://travel.sina.com.cn/shandong/">山东</a><a target="_blank" href="http://travel.sina.com.cn/guangxi/">广西</a><a target="_blank" href="http://travel.sina.com.cn/shanxi/">山西</a><a target="_blank" href="http://travel.sina.com.cn/anhui/">安徽</a><a target="_blank" href="http://travel.sina.com.cn/qinghai/">青海</a><a target="_blank" href="http://travel.sina.com.cn/guizhou/">贵州</a><a target="_blank" href="http://travel.sina.com.cn/xinjiang/">新疆</a><a target="_blank" href="http://travel.sina.com.cn/ningxia/">宁夏</a><a target="_blank" href="http://travel.sina.com.cn/hainan/">海南</a><a target="_blank" href="http://travel.sina.com.cn/guangdong/">广东</a><a target="_blank" href="http://travel.sina.com.cn/heilongjiang/">黑龙江</a><a target="_blank" href="http://travel.sina.com.cn/henan/">河南</a><a target="_blank" href="http://travel.sina.com.cn/beijing/">北京</a><a target="_blank" href="http://travel.sina.com.cn/tianjin/">天津</a><a target="_blank" href="http://travel.sina.com.cn/shanghai/">上海</a><a target="_blank" href="http://travel.sina.com.cn/chongqing/">重庆</a><a target="_blank" href="http://travel.sina.com.cn/xianggang/">香港</a><a target="_blank" href="http://travel.sina.com.cn/aomen/">澳门</a><a target="_blank" href="http://travel.sina.com.cn/taiwan/">台湾</a>
+        </li>
+        <li class="s2w"><strong><a href="http://travel.sina.com.cn/world/">出境游</a></strong>
+        <a href="http://travel.sina.com.cn/world/Asia/">亚洲</a><a href="http://travel.sina.com.cn/world/Europe/">欧洲</a><a href="http://travel.sina.com.cn/world/North_America/">北美洲</a><a href="http://travel.sina.com.cn/world/South_America/">南美洲</a><a href="http://travel.sina.com.cn/world/Africa/">非洲</a><a href="http://travel.sina.com.cn/world/Oceania/">大洋洲</a><a href="http://travel.sina.com.cn/z/nanjiyou/">南极洲</a>
+        </li>
+        <li class="s2w"><strong><a href="http://travel.sina.com.cn/around/beijing/">周边游</a></strong>
+        <a href="http://travel.sina.com.cn/around/beijing/">北京</a><a href="http://travel.sina.com.cn/around/shanghai/">上海</a><a href="http://travel.sina.com.cn/around/guangzhou/">广州</a><a href="http://travel.sina.com.cn/around/chengdu/">成都</a>
+        </li>
+        <li class="s3w"><strong><a href="http://travel.sina.com.cn/t/zijia/">主题游</a></strong>
+        <a href="http://travel.sina.com.cn/t/zijia/">自驾游 
+</a><a href="http://travel.sina.com.cn/t/youlun/">邮轮</a><a href="http://travel.sina.com.cn/t/miyue/">蜜月游</a><a href="http://travel.sina.com.cn/t/jiating/">家庭</a><a href="http://travel.sina.com.cn/t/gouwu/">购物</a><a href="http://travel.sina.com.cn/t/shanghua/">赏花</a><a href="http://travel.sina.com.cn/t/spa/">SPA</a><a href="http://travel.sina.com.cn/t/yeshenghuo/">夜生活</a><a href="http://travel.sina.com.cn/hotel/
+">酒店格调</a><a href="http://travel.sina.com.cn/air/">空中乐享</a><a href="http://travel.sina.com.cn/festival/">节庆游</a><a href="http://travel.sina.com.cn/special/">旅游之最</a>
+        </li>
+        <li class="s2w"><strong><a href="http://blog.sina.com.cn/lm/travel/">互动原创</a></strong>
+        <a href="http://blog.sina.com.cn/lm/travel/">博客</a><a target="_blank" href="http://club.travel.sina.com.cn/">论坛</a><a target="_blank" href="http://travel.sina.com.cn/weibo/">微博</a><a target="_blank" href="http://vi.travel.sina.com.cn/">图片</a><a target="_blank" href="http://photo.travel.sina.com.cn/video/">视频</a><a target="_blank" href="http://travel.sina.com.cn/zzn/">活动推荐</a>
+        </li>
+        <li class="s2w"><strong><a target="_blank" href="http://line.travel.sina.com.cn/">服务工具</a></strong>
+        <a target="_blank" href="http://line.travel.sina.com.cn/">线路预订</a><a href="http://travel.sina.com.cn/air/">机票查询</a><a href="http://travel.sina.com.cn/hotel/">酒店预定</a><a href="http://travel.sina.com.cn/places/">景点大全</a><a target="_blank" href="http://search.travel.sina.com.cn/map/">地图搜索</a><a target="_blank" href="http://weather.news.sina.com.cn/">旅游天气</a><a target="_blank" href="http://data.travel.sina.com.cn/ask/">专家在线</a>
+        </li>
+    </ul>
+</div>
+<div class="w950 contact"><a href="http://comment4.news.sina.com.cn/comment/skin/feedback.html?channel=ly&newsid=51" target="_blank">新浪旅游意见反馈留言板</a>&nbsp;&nbsp;旅游频道业务合作：010-82628888-3773&nbsp;&nbsp;&nbsp;客户服务热线：4006900000&nbsp;&nbsp;&nbsp;欢迎批评指正</div>
+<div class="w950 footer">
+<a href="http://corp.sina.com.cn/chn/">新浪简介</a>|<a href="http://corp.sina.com.cn/eng/">About Sina</a>|<a href="http://emarketing.sina.com.cn/">广告服务</a>|<a href="http://www.sina.com.cn/contactus.html">联系我们</a>|<a href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</a>|<a href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</a>|<a href="http://english.sina.com/">SINA English</a>|<a href="http://members.sina.com.cn/apply/">会员注册</a>|<a href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</a><br>
+Copyright &copy; 1996 - 2012 SINA Corporation, All Rights Reserved<br>
+新浪公司&nbsp;&nbsp;<a target="_blank" href="http://www.sina.com.cn/intro/copyright.shtml">版权所有</a>
+</div>
+
+<script type="text/javascript" src="http://i1.sinaimg.cn/unipro/pub/suda_m_v629.js"></script>
+<script type="text/javascript">suds_init(1353,100.00,1015,2);</script>
+
+<!--<script type="text/javascript" src="http://auto.sina.com.cn/683/2009/0901/jquery.js"></script>-->
+<script type="text/javascript" src="http://travel.sina.com.cn/91/2010/0225/c.js"></script>
+<script type="text/javascript" src="http://travel.sina.com.cn/91/2010/0305/js/swf.js"></script>
+    <script type="text/javascript">
+	/*当季旅游推荐 国内 出境 标签切换*/
+	$('.tabgc li').mouseover(function() {TabSelect(".tabgc li", ".hotLeft ul", "ta", $(this)) });
+        function onLoader(){
+            //var so = new SWFObject("http://search.travel.sina.com.cn/api/map.swf?xml=http://search.travel.sina.com.cn/api/flash_china.php&num=1624", "sotester", "509", "365", "7");//包含swf给swf传入xml配置文件
+            var so = new SWFObject("http://search.travel.sina.com.cn/api/map.swf?xml=http://jingdian.travel.sina.com.cn/interface/jdplaces/&num=1431", "sotester", "509", "365", "7");//包含swf给swf传入xml配置文件
+            so.addParam("wmode", "opaque"); 
+            so.addParam("allowfullscreen","true");
+            so.addParam("allowscriptaccess","always");
+
+            so.write("flash_player")
+			var so2 = new SWFObject("http://search.travel.sina.com.cn/api/wordmap.swf?xml=http://search.travel.sina.com.cn/api/flash_world.xml&num=224", "sotester", "518", "292", "7");//包含swf给swf传入xml配置文件
+            so2.addParam("wmode", "opaque"); 
+            so2.addParam("allowfullscreen","true");
+            so2.addParam("allowscriptaccess","always");
+            so2.write("flash_player2")
+        }
+		onLoader();
+    </script>
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- Start  Wrating  --> 
+<script language="javascript"> 
+var wrUrl="//sina.wrating.com/";var wrDomain="sina.com.cn";var wratingDefaultAcc="860010-0323010000";var wratingAccArray={"torch.2008.sina.com.cn":"860010-0308070000","video.sina.com.cn":"860010-0309010000","cctv.sina.com.cn":"860010-0309020000","chat.sina.com.cn":"860010-0311010000","ent.sina.com.cn":"860010-0312010000","tech.sina.com.cn":"860010-0313010000","mobile.sina.com.cn":"860010-0313020000","house.sina.com.cn":"860010-0315010000","bj.house.sina.com.cn":"860010-0315020000","auto.sina.com.cn":"860010-0316010000","eladies.sina.com.cn":"860010-0317010000","bj.sina.com.cn":"860010-0317020000","woman.sina.com.cn":"860010-0317010000","women.sina.com.cn":"860010-0317010000","lady.sina.com.cn":"860010-0317010000","man.eladies.sina.com.cn":"860010-0317030000","games.sina.com.cn":"860010-0318010000","game.sina.com.cn":"860010-0318010000","edu.sina.com.cn":"860010-0307010000","baby.sina.com.cn":"860010-0320010000","kid.sina.com.cn":"860010-0320020000","astro.sina.com.cn":"860010-0321020000","news.sina.com.cn":"860010-0310010000","weather.news.sina.com.cn":"860010-0310020000","mil.news.sina.com.cn":"860010-0310030000","www.sina.com.cn":"860010-0322010000","home.sina.com.cn":"860010-0322010000","sports.sina.com.cn":"860010-0308010000","shidefc.sina.com.cn":"860010-0308020000","weiqi.sina.com.cn":"860010-0308030000","f1.sina.com.cn":"860010-0308040000","golf.sina.com.cn":"860010-0308050000","2002.sina.com.cn":"860010-0308060000","2004.sina.com.cn":"860010-0308060000","2006.sina.com.cn":"860010-0308060000","2008.sina.com.cn":"860010-0308070000","yayun2002.sina.com.cn":"860010-0308060000","yayun2006.sina.com.cn":"860010-0308060000","inter.sina.com.cn":"860010-0308080000","chelsea.sina.com.cn":"860010-0308090000","book.sina.com.cn":"860010-0319010000","cul.book.sina.com.cn":"860010-0319020000","comic.book.sina.com.cn":"860010-0319030000","finance.sina.com.cn":"860010-0314010000","money.sina.com.cn":"860010-0314020000","yue.sina.com.cn":"860010-0324010000","www.sina.com":"860010-0322010000"};function vjTrack(){var U=1800;var T=false;var S=false;var R="";var Q="0";var P="";var N;var L;var K;var J;var I;var H="expires=Fri, 1 Jan 2038 00:00:00 GMT;";var G=0;if(document.location.protocol=="file:"){return }T=navigator.cookieEnabled?"1":"0";S=navigator.javaEnabled()?"1":"0";var F="0";var E;var C=-1;var D=document.cookie;if(T=="1"){C=D.indexOf("vjuids=");if(C<0){E=vjVisitorID();document.cookie="vjuids="+escape(E)+";"+H+";domain="+wrDomain+";path=/;";if(document.cookie.indexOf("vjuids=")<0){T="0"}else{Q="1"}}else{E=vjGetCookie("vjuids")}}L=document.referrer;if(!L||L==""){L=""}R=vjFlash();if(self.screen){N=screen.width+"x"+screen.height+"x"+screen.colorDepth}else{if(self.java){var M=java.awt.Toolkit.getDefaultToolkit();var O=M.getScreenSize();N=O.width+"x"+O.height+"x0"}}if(navigator.language){K=navigator.language.toLowerCase()}else{if(navigator.browserLanguage){K=navigator.browserLanguage.toLowerCase()}else{K="-"}}I="";var B;var X;X=new Date();J=X.getTimezoneOffset()/-60;J=X.getTimezoneOffset()/-60;B="&s="+N+"&l="+K+"&z="+J+"&j="+S+"&f="+R;if(T=="1"){C=document.cookie.indexOf("vjlast=");if(C<0){G=0}else{G=parseInt(vjGetCookie("vjlast"))}}if((X.getTime()/1000)-G>U){F="1";document.cookie="vjlast="+Math.round(X.getTime()/1000)+";"+H+";domain="+wrDomain+";path=/;"}if(L!=""){B=B+"&r="+escape(L)}if(F!="0"){B=B+"&n="+G}if(Q!="0"){B=B+"&u="+Q}var V;var A=vjGetAcc();var W=vjGetDomain();V=wrUrl+"a.gif?a="+X.getTime().toString(16)+"&t="+escape(I)+"&i="+escape(E)+"&b="+escape(document.location)+"&c="+A+B+"&ck="+W;document.write('<img src="'+V+'" width="1" height="1" style="visibility:hidden;position:absolute;left:0px;top:0px;z-index:-1" />')}function vjGetAcc(){var B=document.location.toString().toLowerCase();var C=(B.split("/"))[2];var A=wratingAccArray[C];if(typeof (A)=="undefined"){A=wratingDefaultAcc}return A}function vjFlash(){var _wr_f="-",_wr_n=navigator;if(_wr_n.plugins&&_wr_n.plugins.length){for(var ii=0;ii<_wr_n.plugins.length;ii++){if(_wr_n.plugins[ii].name.indexOf("Shockwave Flash")!=-1){_wr_f=_wr_n.plugins[ii].description.split("Shockwave Flash ")[1];break}}}else{if(window.ActiveXObject){for(var ii=10;ii>=2;ii--){try{var fl=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+ii+"');");if(fl){_wr_f=ii+".0";break}}catch(e){}}}}return _wr_f}function vjHash(B){if(!B||B==""){return 0}var D=0;for(var C=B.length-1;C>=0;C--){var A=parseInt(B.charCodeAt(C));D=(D<<5)+D+A}return D}function vjVisitorID(){var B=vjHash(document.location+document.cookie+document.referrer).toString(16);var A;A=new Date();return B+"."+A.getTime().toString(16)+"."+Math.random().toString(16)}function vjGetCookieVal(B){var A=document.cookie.indexOf(";",B);if(A==-1){A=document.cookie.length}return unescape(document.cookie.substring(B,A))}function vjGetCookie(C){var B=C+"=";var F=B.length;var A=document.cookie.length;var E=0;while(E<A){var D=E+F;if(document.cookie.substring(E,D)==B){return vjGetCookieVal(D)}E=document.cookie.indexOf(" ",E)+1;if(E==0){break}}return null}function vjGetDomain(){var A=0;try{if(window.self.parent!=self){var D=/sina.com/i;var C=document.location.toString().toLowerCase();var B=parent.location.toString().toLowerCase();if(D.test(C)&&D.test(B)){A=1}}}catch(e){A=1}return A}vjTrack();
+</script> 
+<!-- End Wrating--> 
+ 
+<!-- START Nielsen//NetRatings SiteCensus V5.3 --> 
+<!-- COPYRIGHT 2006 Nielsen//NetRatings --> 
+<script type="text/javascript"> 
+	var _rsCI="cn-sina2006";	 
+	var _rsCG="0";	
+	var _rsDN="//secure-cn.imrworldwide.com/";	
+	var _rsCC=0;	
+	var _rsSE=1;	
+	var _rsSM=0.01;	 
+	var _rsSS=1500;	 
+</script> 
+<script type="text/javascript" src="//secure-cn.imrworldwide.com/v53.js"></script> 
+<noscript> 
+	<img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&amp;cg=0" alt=""/> 
+</noscript> 
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+</body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type"/>
+<meta content="IE=7" http-equiv="X-UA-Compatible"/>
+<link href="http://img.baidu.com/img/baike/wap/iphone4_logo.png" rel="apple-touch-icon"/>
+<title>半角_百度百科</title>
+<script>var PDC={_version:"0.1",_render_start:new Date().getTime(),_analyzer:{loaded:false,url:"http://static.tieba.baidu.com/tb/pms/wpo.pda.js?v=0.1",callbacks:[]},_opt:{is_login:false,sample:0,product_id:0,page_id:0,common_resources:[],special_resources:[]},_timing:{},init:function(a){for(var b in a){this._opt[b]=a[b]}},mark:function(a){this._timing[a]=new Date().getTime()},view_start:function(){this.mark("vt")},tti:function(){this.mark("tti")},page_ready:function(){this.mark("fvt")},metadata:function(){var a=this._opt;var b={env:{user:(a.is_login==true?1:0),product_id:a.product_id,page_id:a.page_id},common_resources:a.common_resources,special_resources:a.special_resources,render_start:this._render_start,timing:this._timing};return b}};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("let");PDC._load_analyzer()})}else{window.addEventListener("load",function(){PDC.mark("lt")},false)}})();</script>
+<link href="http://baike.bdimg.com/static/common/css/view.css?@=9ylwgi" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/lemma/css/view.css?@=105rws3" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/css/liteoutput/bk.uc_lemma.css?@=2vcadoz" rel="stylesheet" type="text/css"/><link href="/guanxi/static/css/lemma_insert.css" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/view_top.js?@=22n4xph" type="text/javascript"></script><script src="http://baike.bdimg.com/static/lemma/js/init.js?@=de2co7" type="text/javascript"></script>
+</head>
+<script>PDC.mark("ht");(function(){var a=PDC.ready=function(){var g=false,f=[],c;if(document.addEventListener){c=function(){document.removeEventListener("DOMContentLoaded",c,false);d()}}else{if(document.attachEvent){c=function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",c);d()}}}}function d(){if(!d.isReady){d.isReady=true;for(var k=0,h=f.length;k<h;k++){f[k]()}}}function b(){try{document.documentElement.doScroll("left")}catch(h){setTimeout(b,1);return}d()}function e(){if(g){return}g=true;if(document.addEventListener){document.addEventListener("DOMContentLoaded",c,false);window.addEventListener("load",d,false)}else{if(document.attachEvent){document.attachEvent("onreadystatechange",c);window.attachEvent("onload",d);var h=false;try{h=window.frameElement==null}catch(i){}if(document.documentElement.doScroll&&h){b()}}}}e();return function(h){d.isReady?h():f.push(h)}}();a.isReady=false})();PDC.ready(function(){PDC.mark("drt")});PDC.mark("vt");</script>
+
+<body id="view">
+<div id="userbar">
+</div>
+<div id="wrap">
+<div id="header">
+<div id="search">
+<div id="logo">
+<a href="/"><img alt="到百科首页" border="0" class="nslog:1008" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" width="137"/></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/ns?fr=bk&amp;cl=2&amp;rn=20&amp;tn=news&amp;word=%B0%EB%BD%C7" onmousedown="setHeadUrl(this)" wdfield="word">新闻</a><a href="http://www.baidu.com/s?fr=bk&amp;cl=3&amp;wd=%B0%EB%BD%C7&amp;t=5" onmousedown="setHeadUrl(this)" wdfield="wd">网页</a><a href="http://tieba.baidu.com/f?fr=bk&amp;kw=%B0%EB%BD%C7" onmousedown="setHeadUrl(this)" wdfield="kw">贴吧</a><a href="http://zhidao.baidu.com/q?fr=bk&amp;ct=17&amp;pn=0&amp;tn=ikaslist&amp;rn=10&amp;word=%B0%EB%BD%C7" onmousedown="setHeadUrl(this)" wdfield="word">知道</a><a href="http://mp3.baidu.com/m?fr=bk&amp;tn=baidump3&amp;ct=134217728&amp;lm=-1&amp;word=%B0%EB%BD%C7" onmousedown="setHeadUrl(this)" wdfield="word">MP3</a><a href="http://image.baidu.com/i?fr=bk&amp;tn=baiduimage&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;word=%B0%EB%BD%C7" onmousedown="setHeadUrl(this)" wdfield="word">图片</a><a href="http://video.baidu.com/v?fr=bk&amp;ct=301989888&amp;rn=20&amp;pn=0&amp;db=0&amp;s=24&amp;word=%B0%EB%BD%C7" onmousedown="setHeadUrl(this)" wdfield="word">视频</a><strong>百科</strong><a href="http://wenku.baidu.com/search?fr=bk&amp;word=%B0%EB%BD%C7&amp;lm=0&amp;od=0" onmousedown="setHeadUrl(this)" wdfield="word">文库</a>
+</p>
+<form action="/searchword/" method="get" name="f1" target="_self">
+<input id="word" maxlength="400" name="word" tabindex="1" value="半角"/>
+<input class="search-btn nslog:1010" onclick="document.f1.pic.value=1" tabindex="2" type="submit" value="进入词条"/><input class="search-btn nslog:1011" onclick="document.f1.pic.value=2" tabindex="3" type="submit" value="搜索词条"/>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a><a class="nslog:1013" href="#" onclick="setSug();return false">设置</a>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">/*<![CDATA[*/var baikeHeaderConf={sugProdName:"baike",searchInputId:baidu.g("word")||baidu.g("kw")};void function(A){var _={url:{}};_.url.escapeSymbol=function(_){return String(_).replace(/[#%&+=\/\\\ \\u3000\f\r\n\t]/g,function(_){return"%"+(256+_.charCodeAt()).toString(16).substring(1).toUpperCase();});};window.setHeadUrl=function(B){B.href=B.href.replace(new RegExp("("+B.getAttribute("wdfield")+"=)[^&]*"),"$1"+_.url.escapeSymbol(A.value));};}(baikeHeaderConf.searchInputId);/*]]>*/</script>
+</div><div class="nslog-area" data-nslog-type="1000" id="path">
+
+<ul class="nav f14 clearfix">    
+            <li class="home"><a href="/">首页</a></li>
+                <li><a href="/ziran/">自然</a></li>
+                 <li><a href="/wenhua/">文化</a></li>
+                 <li><a href="/dili/">地理</a></li>
+                 <li><a href="/lishi/">历史</a></li>
+                 <li><a href="/shenghuo/">生活</a></li>
+                 <li><a href="/shehui/">社会</a></li>
+                 <li><a href="/yishu/">艺术</a></li>
+                 <li><a href="/renwu/">人物</a></li>
+                 <li><a href="/jingji/">经济</a></li>
+                 <li><a href="/kexue/">科技</a></li>
+                 <li><a href="/tiyu/">体育</a></li>
+                 <li><a href="/tupian/">图片</a></li>
+             <li>          <a href="http://baike.baidu.com/museum/ " target="_blank" onclick="nslog(location.href,3020);">数字博物馆</a></li>
+     <li>          <a href="http://baike.baidu.com/cms/s/core/index.html" target="_blank" onclick="nslog(location.href,3021);">核心用户</a></li>
+                 <li><a href="/mall/">百科商城</a></li>
+          <style type="text/css" compress>
+#path ul.nav li,ul.nav li{
+position:relative;
+}
+.nav{overflow:visible;position:relative;}
+div.nav-channel-hot{
+ _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img.baidu.com/img/baike/icons/hot.png");
+ background:url("http://img.baidu.com/img/baike/icons/hot.png") no-repeat scroll 0 0 transparent;
+_background:none;
+ height:15px;
+ position:absolute;
+ width: 24px;
+ top: -7px;
+ right:7px
+}
+
+#path .nav li{padding-right:12px !important;}
+
+</style> 
+</ul>
+<script type="text/javascript" >
+   baidu.dom.ready( function(){
+                          baidu.page.loadJsFile('http://baike.baidu.com/cms/s/banner/tmpact.js?t=20110201');
+              nslog(location.href, 5102);
+                                       });
+</script>
+
+
+</div>
+</div>
+<div id="page">
+<script>if(typeof PDC!="undefined"){PDC.view_start();}</script><div class="layout grid-m0s245 w1000" id="content-wrap">
+<div class="col-main article" id="content">
+<div class="main-wrap main-shadow">
+<div class="content-hd">
+<div class="content-hd-wrap"></div>
+</div>
+<div class="content-bd main-body">
+<div class="text" id="sec-content0">
+<div class="bk-editable-lemma-btns">
+<a class="tpldivide-lemma lemma-top-link" hidefocus="true" href="/tpldivideload?lemmaId=517188" id="tmpdivide" style="display:none;margin-right:14px" target="_blank"></a>
+<a class="dividable-lemma lemma-top-link" data-edit-id="517188" hidefocus="true" href="/divideload?lemmaid=517188" id="polyin" style="display:none">拆分词条</a>
+<span class="lemma-top-link-divider lemma-top-link" id="link-divider"></span>
+<span class="throwbtl-link-span"></span>
+<span class="editable-lemma " data-edit-id="517188"></span>
+<span style="height:100%"></span>
+</div>
+<h1 class="title">半角</h1>
+<script type="text/javascript">/*<![CDATA[*/var hash=window.location.hash.match(/^#sub(\d+)/);bk.view.hash=hash&&hash[1];hash=null;bk.view.expFlag=false;baikeViewInfo={id:"517188",editable:"true",title:"半角",expIndex:"0",subLen:"1",isMulit:false};/*]]>*/</script>
+<div class="clear"></div>
+<fieldset class="text_dir nslog-area" data-nslog-type="1016" data-subindex="0" id="catalog-0">
+<p>目录</p>
+<dl class="holder1" id="catalog-holder-0">
+<dd><a href=#1 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">定义</a></dd><dd><a href=#2 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">举例</a></dd><dd><a href=#3 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">用法</a></dd><dd><a href=#4 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">全角</a></dd><dd><a href=#5 class='nslog:1274' name="STAT_ONCLICK_UNSUBMIT_CATALOG">全角与半角符号比较</a></dd></dl>
+<dl class="holder2" id="catalog-holder-2-0"></dl>
+</fieldset>
+<div class="clear"></div>
+<script type="text/javascript">bk.view.catalog().start("0");</script>
+<div class="lemma-main-content" id="lemmaContent-0">
+<h2 class="headline-1 first bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="517188:517188:1"></span><a name="1"></a><span class="headline-content">定义</span></h2>　　半角，即一个<a target=_blank href=/view/263416.htm>字符</a>占用一<a target=_blank href=/view/60408.htm>字节</a>。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="517188:517188:2"></span><a name="2"></a><span class="headline-content">举例</span></h2>　　英文字母、罗马数字、西方语言的符号。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="517188:517188:3"></span><a name="3"></a><span class="headline-content">用法</span></h2>　　半角的显示内码都是一个字节。在系统内部，以上三种字符是作为基本代码处理的，所以用户输入命令和参数时一般都使用半角。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="517188:517188:4"></span><a name="4"></a><span class="headline-content">全角</span></h2>　　汉字属于全角。全角与半角属于转换关系，具体请参阅“<a target=_blank href=/view/517185.htm>全角</a>”词条。<div class="bpctrl"></div><h2 class="headline-1 bk-sidecatalog-title"><span class="text_edit editable-title" data-edit-id="517188:517188:5"></span><a name="5"></a><span class="headline-content">全角与半角符号比较</span></h2>　　<table class="table-view log-set-param" log-set-param="table_view"><tr><td width="66" align="left" valign="middle"><b>ASCII</b></td><td width="66" align="left" valign="middle"><b>全角字符 </b></td><td width="66" align="left" valign="middle"><b>Unicode </b></td><td width="66" align="left" valign="middle"><b>半角字符 </b></td><td width="66" align="left" valign="middle"><b>Unicode</b> </td></tr><tr><td width="66" align="left" valign="middle">0x20 </td><td width="66" align="left" valign="middle">&quot;　&quot;空格</td><td width="66" align="left" valign="middle">U+3000</td><td width="66" align="left" valign="middle">&quot; &quot;空格</td><td width="66" align="left" valign="middle">U+0020</td></tr><tr><td width="66" align="left" valign="middle">0x21</td><td width="66" align="left" valign="middle">！</td><td width="66" align="left" valign="middle">U+ff01</td><td width="66" align="left" valign="middle">!</td><td width="66" align="left" valign="middle">U+0021</td></tr><tr><td width="66" align="left" valign="middle">0x22</td><td width="66" align="left" valign="middle">&quot;</td><td width="66" align="left" valign="middle">U+ff02</td><td width="66" align="left" valign="middle">&quot;</td><td width="66" align="left" valign="middle">U+0022</td></tr><tr><td width="66" align="left" valign="middle">0x23</td><td width="66" align="left" valign="middle">#</td><td width="66" align="left" valign="middle">U+ff03</td><td width="66" align="left" valign="middle">#</td><td width="66" align="left" valign="middle">U+0023</td></tr><tr><td width="66" align="left" valign="middle">0x24</td><td width="66" align="left" valign="middle">$</td><td width="66" align="left" valign="middle">U+ff04</td><td width="66" align="left" valign="middle">$</td><td width="66" align="left" valign="middle">U+0024</td></tr><tr><td width="66" align="left" valign="middle">0x25</td><td width="66" align="left" valign="middle">%</td><td width="66" align="left" valign="middle">U+ff05</td><td width="66" align="left" valign="middle">%</td><td width="66" align="left" valign="middle">U+0025</td></tr><tr><td width="66" align="left" valign="middle">0x26</td><td width="66" align="left" valign="middle">&amp;</td><td width="66" align="left" valign="middle">U+ff06</td><td width="66" align="left" valign="middle">&amp;</td><td width="66" align="left" valign="middle">U+0026</td></tr><tr><td width="66" align="left" valign="middle">0x27</td><td width="66" align="left" valign="middle">'</td><td width="66" align="left" valign="middle">U+ff07</td><td width="66" align="left" valign="middle">'</td><td width="66" align="left" valign="middle">U+0027</td></tr><tr><td width="66" align="left" valign="middle">0x28</td><td width="66" align="left" valign="middle">（</td><td width="66" align="left" valign="middle">U+ff08</td><td width="66" align="left" valign="middle">(</td><td width="66" align="left" valign="middle">U+0028</td></tr><tr><td width="66" align="left" valign="middle">0x29</td><td width="66" align="left" valign="middle">）</td><td width="66" align="left" valign="middle">U+ff09</td><td width="66" align="left" valign="middle">)</td><td width="66" align="left" valign="middle">U+0029</td></tr><tr><td width="66" align="left" valign="middle">0x2a</td><td width="66" align="left" valign="middle">*</td><td width="66" align="left" valign="middle">U+ff0a</td><td width="66" align="left" valign="middle">*</td><td width="66" align="left" valign="middle">U+002a</td></tr><tr><td width="66" align="left" valign="middle">0x2b</td><td width="66" align="left" valign="middle">+</td><td width="66" align="left" valign="middle">U+ff0b</td><td width="66" align="left" valign="middle">+</td><td width="66" align="left" valign="middle">U+002b</td></tr><tr><td width="66" align="left" valign="middle">0x2c</td><td width="66" align="left" valign="middle">，</td><td width="66" align="left" valign="middle">U+ff0c</td><td width="66" align="left" valign="middle">,</td><td width="66" align="left" valign="middle">U+002c</td></tr><tr><td width="66" align="left" valign="middle">0x2d</td><td width="66" align="left" valign="middle">－</td><td width="66" align="left" valign="middle">U+ff0d</td><td width="66" align="left" valign="middle">-</td><td width="66" align="left" valign="middle">U+002d</td></tr><tr><td width="66" align="left" valign="middle">0x2e</td><td width="66" align="left" valign="middle">．</td><td width="66" align="left" valign="middle">U+ff0e</td><td width="66" align="left" valign="middle">.</td><td width="66" align="left" valign="middle">U+002e</td></tr><tr><td width="66" align="left" valign="middle">0x2f</td><td width="66" align="left" valign="middle">/</td><td width="66" align="left" valign="middle">U+ff0f</td><td width="66" align="left" valign="middle">/</td><td width="66" align="left" valign="middle">U+002f</td></tr><tr><td width="66" align="left" valign="middle">0x30</td><td width="66" align="left" valign="middle">0</td><td width="66" align="left" valign="middle">U+ff10</td><td width="66" align="left" valign="middle">0</td><td width="66" align="left" valign="middle">U+0030</td></tr><tr><td width="66" align="left" valign="middle">0x31</td><td width="66" align="left" valign="middle">1</td><td width="66" align="left" valign="middle">U+ff11</td><td width="66" align="left" valign="middle">1</td><td width="66" align="left" valign="middle">U+0031</td></tr><tr><td width="66" align="left" valign="middle">0x32</td><td width="66" align="left" valign="middle">2</td><td width="66" align="left" valign="middle">U+ff12</td><td width="66" align="left" valign="middle">2</td><td width="66" align="left" valign="middle">U+0032</td></tr><tr><td width="66" align="left" valign="middle">0x33</td><td width="66" align="left" valign="middle">3</td><td width="66" align="left" valign="middle">U+ff13</td><td width="66" align="left" valign="middle">3</td><td width="66" align="left" valign="middle">U+0033</td></tr><tr><td width="66" align="left" valign="middle">0x34</td><td width="66" align="left" valign="middle">4</td><td width="66" align="left" valign="middle">U+ff14</td><td width="66" align="left" valign="middle">4</td><td width="66" align="left" valign="middle">U+0034</td></tr><tr><td width="66" align="left" valign="middle">0x35</td><td width="66" align="left" valign="middle">5</td><td width="66" align="left" valign="middle">U+ff15</td><td width="66" align="left" valign="middle">5</td><td width="66" align="left" valign="middle">U+0035</td></tr><tr><td width="66" align="left" valign="middle">0x36</td><td width="66" align="left" valign="middle">6</td><td width="66" align="left" valign="middle">U+ff16</td><td width="66" align="left" valign="middle">6</td><td width="66" align="left" valign="middle">U+0036</td></tr><tr><td width="66" align="left" valign="middle">0x37</td><td width="66" align="left" valign="middle">7</td><td width="66" align="left" valign="middle">U+ff17</td><td width="66" align="left" valign="middle">7</td><td width="66" align="left" valign="middle">U+0037</td></tr><tr><td width="66" align="left" valign="middle">0x38</td><td width="66" align="left" valign="middle">8</td><td width="66" align="left" valign="middle">U+ff18</td><td width="66" align="left" valign="middle">8</td><td width="66" align="left" valign="middle">U+0038</td></tr><tr><td width="66" align="left" valign="middle">0x39</td><td width="66" align="left" valign="middle">9</td><td width="66" align="left" valign="middle">U+ff19</td><td width="66" align="left" valign="middle">9</td><td width="66" align="left" valign="middle">U+0039</td></tr><tr><td width="66" align="left" valign="middle">0x3a</td><td width="66" align="left" valign="middle">：</td><td width="66" align="left" valign="middle">U+ff1a</td><td width="66" align="left" valign="middle">:</td><td width="66" align="left" valign="middle">U+003a</td></tr><tr><td width="66" align="left" valign="middle">0x3b</td><td width="66" align="left" valign="middle">；</td><td width="66" align="left" valign="middle">U+ff1b</td><td width="66" align="left" valign="middle">;</td><td width="66" align="left" valign="middle">U+003b</td></tr><tr><td width="66" align="left" valign="middle">0x3c</td><td width="66" align="left" valign="middle">&lt;</td><td width="66" align="left" valign="middle">U+ff1c</td><td width="66" align="left" valign="middle">&lt;</td><td width="66" align="left" valign="middle">U+003c</td></tr><tr><td width="66" align="left" valign="middle">0x3d</td><td width="66" align="left" valign="middle">=</td><td width="66" align="left" valign="middle">U+ff1d</td><td width="66" align="left" valign="middle">=</td><td width="66" align="left" valign="middle">U+003d</td></tr><tr><td width="66" align="left" valign="middle">0x3e</td><td width="66" align="left" valign="middle">&gt;</td><td width="66" align="left" valign="middle">U+ff1e</td><td width="66" align="left" valign="middle">&gt;</td><td width="66" align="left" valign="middle">U+003e</td></tr><tr><td width="66" align="left" valign="middle">0x3f</td><td width="66" align="left" valign="middle">？</td><td width="66" align="left" valign="middle">U+ff1f</td><td width="66" align="left" valign="middle">?</td><td width="66" align="left" valign="middle">U+003f</td></tr><tr><td width="66" align="left" valign="middle">0x40</td><td width="66" align="left" valign="middle">@</td><td width="66" align="left" valign="middle">U+ff20</td><td width="66" align="left" valign="middle">@</td><td width="66" align="left" valign="middle">U+0040</td></tr><tr><td width="66" align="left" valign="middle">0x41</td><td width="66" align="left" valign="middle">A</td><td width="66" align="left" valign="middle">U+ff21</td><td width="66" align="left" valign="middle">A</td><td width="66" align="left" valign="middle">U+0041</td></tr><tr><td width="66" align="left" valign="middle">0x42</td><td width="66" align="left" valign="middle">B</td><td width="66" align="left" valign="middle">U+ff22</td><td width="66" align="left" valign="middle">B</td><td width="66" align="left" valign="middle">U+0042</td></tr><tr><td width="66" align="left" valign="middle">0x43</td><td width="66" align="left" valign="middle">C</td><td width="66" align="left" valign="middle">U+ff23</td><td width="66" align="left" valign="middle">C</td><td width="66" align="left" valign="middle">U+0043</td></tr><tr><td width="66" align="left" valign="middle">0x44</td><td width="66" align="left" valign="middle">D</td><td width="66" align="left" valign="middle">U+ff24</td><td width="66" align="left" valign="middle">D</td><td width="66" align="left" valign="middle">U+0044</td></tr><tr><td width="66" align="left" valign="middle">0x45</td><td width="66" align="left" valign="middle">E</td><td width="66" align="left" valign="middle">U+ff25</td><td width="66" align="left" valign="middle">E</td><td width="66" align="left" valign="middle">U+0045</td></tr><tr><td width="66" align="left" valign="middle">0x46</td><td width="66" align="left" valign="middle">F</td><td width="66" align="left" valign="middle">U+ff26</td><td width="66" align="left" valign="middle">F</td><td width="66" align="left" valign="middle">U+0046</td></tr><tr><td width="66" align="left" valign="middle">0x47</td><td width="66" align="left" valign="middle">G</td><td width="66" align="left" valign="middle">U+ff27</td><td width="66" align="left" valign="middle">G</td><td width="66" align="left" valign="middle">U+0047</td></tr><tr><td width="66" align="left" valign="middle">0x48</td><td width="66" align="left" valign="middle">H</td><td width="66" align="left" valign="middle">U+ff28</td><td width="66" align="left" valign="middle">H</td><td width="66" align="left" valign="middle">U+0048</td></tr><tr><td width="66" align="left" valign="middle">0x49</td><td width="66" align="left" valign="middle">I</td><td width="66" align="left" valign="middle">U+ff29</td><td width="66" align="left" valign="middle">I</td><td width="66" align="left" valign="middle">U+0049</td></tr><tr><td width="66" align="left" valign="middle">0x4a</td><td width="66" align="left" valign="middle">J</td><td width="66" align="left" valign="middle">U+ff2a</td><td width="66" align="left" valign="middle">J</td><td width="66" align="left" valign="middle">U+004a</td></tr><tr><td width="66" align="left" valign="middle">0x4b</td><td width="66" align="left" valign="middle">K</td><td width="66" align="left" valign="middle">U+ff2b</td><td width="66" align="left" valign="middle">K</td><td width="66" align="left" valign="middle">U+004b</td></tr><tr><td width="66" align="left" valign="middle">0x4c</td><td width="66" align="left" valign="middle">L</td><td width="66" align="left" valign="middle">U+ff2c</td><td width="66" align="left" valign="middle">L</td><td width="66" align="left" valign="middle">U+004c</td></tr><tr><td width="66" align="left" valign="middle">0x4d</td><td width="66" align="left" valign="middle">M</td><td width="66" align="left" valign="middle">U+ff2d</td><td width="66" align="left" valign="middle">M</td><td width="66" align="left" valign="middle">U+004d</td></tr><tr><td width="66" align="left" valign="middle">0x4e</td><td width="66" align="left" valign="middle">N</td><td width="66" align="left" valign="middle">U+ff2e</td><td width="66" align="left" valign="middle">N</td><td width="66" align="left" valign="middle">U+004e</td></tr><tr><td width="66" align="left" valign="middle">0x4f</td><td width="66" align="left" valign="middle">O</td><td width="66" align="left" valign="middle">U+ff2f</td><td width="66" align="left" valign="middle">O</td><td width="66" align="left" valign="middle">U+004f</td></tr><tr><td width="66" align="left" valign="middle">0x50</td><td width="66" align="left" valign="middle">P</td><td width="66" align="left" valign="middle">U+ff30</td><td width="66" align="left" valign="middle">P</td><td width="66" align="left" valign="middle">U+0050</td></tr></table><table class="table-view log-set-param" log-set-param="table_view"><tr><td width="66" align="left" valign="middle">0x51</td><td width="66" align="left" valign="middle">Q</td><td width="66" align="left" valign="middle">U+ff31</td><td width="66" align="left" valign="middle">Q</td><td width="66" align="left" valign="middle">U+0051</td></tr><tr><td width="66" align="left" valign="middle">0x52</td><td width="66" align="left" valign="middle">R</td><td width="66" align="left" valign="middle">U+ff32</td><td width="66" align="left" valign="middle">R</td><td width="66" align="left" valign="middle">U+0052</td></tr><tr><td width="66" align="left" valign="middle">0x53</td><td width="66" align="left" valign="middle">S</td><td width="66" align="left" valign="middle">U+ff33</td><td width="66" align="left" valign="middle">S</td><td width="66" align="left" valign="middle">U+0053</td></tr><tr><td width="66" align="left" valign="middle">0x54</td><td width="66" align="left" valign="middle">T</td><td width="66" align="left" valign="middle">U+ff34</td><td width="66" align="left" valign="middle">T</td><td width="66" align="left" valign="middle">U+0054</td></tr><tr><td width="66" align="left" valign="middle">0x55</td><td width="66" align="left" valign="middle">U</td><td width="66" align="left" valign="middle">U+ff35</td><td width="66" align="left" valign="middle">U</td><td width="66" align="left" valign="middle">U+0055</td></tr><tr><td width="66" align="left" valign="middle">0x56</td><td width="66" align="left" valign="middle">V</td><td width="66" align="left" valign="middle">U+ff36</td><td width="66" align="left" valign="middle">V</td><td width="66" align="left" valign="middle">U+0056</td></tr><tr><td width="66" align="left" valign="middle">0x57</td><td width="66" align="left" valign="middle">W</td><td width="66" align="left" valign="middle">U+ff37</td><td width="66" align="left" valign="middle">W</td><td width="66" align="left" valign="middle">U+0057</td></tr><tr><td width="66" align="left" valign="middle">0x58</td><td width="66" align="left" valign="middle">X</td><td width="66" align="left" valign="middle">U+ff38</td><td width="66" align="left" valign="middle">X</td><td width="66" align="left" valign="middle">U+0058</td></tr><tr><td width="66" align="left" valign="middle">0x59</td><td width="66" align="left" valign="middle">Y</td><td width="66" align="left" valign="middle">U+ff39</td><td width="66" align="left" valign="middle">Y</td><td width="66" align="left" valign="middle">U+0059</td></tr><tr><td width="66" align="left" valign="middle">0x5a</td><td width="66" align="left" valign="middle">Z</td><td width="66" align="left" valign="middle">U+ff3a</td><td width="66" align="left" valign="middle">Z</td><td width="66" align="left" valign="middle">U+005a</td></tr><tr><td width="66" align="left" valign="middle">0x5b</td><td width="66" align="left" valign="middle">&#91;</td><td width="66" align="left" valign="middle">U+ff3b</td><td width="66" align="left" valign="middle">&#91;</td><td width="66" align="left" valign="middle">U+005b</td></tr><tr><td width="66" align="left" valign="middle">0x5c</td><td width="66" align="left" valign="middle">\</td><td width="66" align="left" valign="middle">U+ff3c</td><td width="66" align="left" valign="middle">\</td><td width="66" align="left" valign="middle">U+005c</td></tr><tr><td width="66" align="left" valign="middle">0x5d</td><td width="66" align="left" valign="middle">&#93;</td><td width="66" align="left" valign="middle">U+ff3d</td><td width="66" align="left" valign="middle">&#93;</td><td width="66" align="left" valign="middle">U+005d</td></tr><tr><td width="66" align="left" valign="middle">0x5e</td><td width="66" align="left" valign="middle">^</td><td width="66" align="left" valign="middle">U+ff3e</td><td width="66" align="left" valign="middle">^</td><td width="66" align="left" valign="middle">U+005e</td></tr><tr><td width="66" align="left" valign="middle">0x5f</td><td width="66" align="left" valign="middle">_</td><td width="66" align="left" valign="middle">U+ff3f</td><td width="66" align="left" valign="middle">_</td><td width="66" align="left" valign="middle">U+005f</td></tr><tr><td width="66" align="left" valign="middle">0x60</td><td width="66" align="left" valign="middle">`</td><td width="66" align="left" valign="middle">U+ff40</td><td width="66" align="left" valign="middle">`</td><td width="66" align="left" valign="middle">U+0060</td></tr><tr><td width="66" align="left" valign="middle">0x61</td><td width="66" align="left" valign="middle">a</td><td width="66" align="left" valign="middle">U+ff41</td><td width="66" align="left" valign="middle">a</td><td width="66" align="left" valign="middle">U+0061</td></tr><tr><td width="66" align="left" valign="middle">0x62</td><td width="66" align="left" valign="middle">b</td><td width="66" align="left" valign="middle">U+ff42</td><td width="66" align="left" valign="middle">b</td><td width="66" align="left" valign="middle">U+0062</td></tr><tr><td width="66" align="left" valign="middle">0x63</td><td width="66" align="left" valign="middle">c</td><td width="66" align="left" valign="middle">U+ff43</td><td width="66" align="left" valign="middle">c</td><td width="66" align="left" valign="middle">U+0063</td></tr><tr><td width="66" align="left" valign="middle">0x64</td><td width="66" align="left" valign="middle">d</td><td width="66" align="left" valign="middle">U+ff44</td><td width="66" align="left" valign="middle">d</td><td width="66" align="left" valign="middle">U+0064</td></tr><tr><td width="66" align="left" valign="middle">0x65</td><td width="66" align="left" valign="middle">e</td><td width="66" align="left" valign="middle">U+ff45</td><td width="66" align="left" valign="middle">e</td><td width="66" align="left" valign="middle">U+0065</td></tr><tr><td width="66" align="left" valign="middle">0x66</td><td width="66" align="left" valign="middle">f</td><td width="66" align="left" valign="middle">U+ff46</td><td width="66" align="left" valign="middle">f</td><td width="66" align="left" valign="middle">U+0066</td></tr><tr><td width="66" align="left" valign="middle">0x67</td><td width="66" align="left" valign="middle">g</td><td width="66" align="left" valign="middle">U+ff47</td><td width="66" align="left" valign="middle">g</td><td width="66" align="left" valign="middle">U+0067</td></tr><tr><td width="66" align="left" valign="middle">0x68</td><td width="66" align="left" valign="middle">h</td><td width="66" align="left" valign="middle">U+ff48</td><td width="66" align="left" valign="middle">h</td><td width="66" align="left" valign="middle">U+0068</td></tr><tr><td width="66" align="left" valign="middle">0x69</td><td width="66" align="left" valign="middle">i</td><td width="66" align="left" valign="middle">U+ff49</td><td width="66" align="left" valign="middle">i</td><td width="66" align="left" valign="middle">U+0069</td></tr><tr><td width="66" align="left" valign="middle">0x6a</td><td width="66" align="left" valign="middle">j</td><td width="66" align="left" valign="middle">U+ff4a</td><td width="66" align="left" valign="middle">j</td><td width="66" align="left" valign="middle">U+006a</td></tr><tr><td width="66" align="left" valign="middle">0x6b</td><td width="66" align="left" valign="middle">k</td><td width="66" align="left" valign="middle">U+ff4b</td><td width="66" align="left" valign="middle">k</td><td width="66" align="left" valign="middle">U+006b</td></tr><tr><td width="66" align="left" valign="middle">0x6c</td><td width="66" align="left" valign="middle">l</td><td width="66" align="left" valign="middle">U+ff4c</td><td width="66" align="left" valign="middle">l</td><td width="66" align="left" valign="middle">U+006c</td></tr><tr><td width="66" align="left" valign="middle">0x6d</td><td width="66" align="left" valign="middle">m</td><td width="66" align="left" valign="middle">U+ff4d</td><td width="66" align="left" valign="middle">m</td><td width="66" align="left" valign="middle">U+006d</td></tr><tr><td width="66" align="left" valign="middle">0x6e</td><td width="66" align="left" valign="middle">n</td><td width="66" align="left" valign="middle">U+ff4e</td><td width="66" align="left" valign="middle">n</td><td width="66" align="left" valign="middle">U+006e</td></tr><tr><td width="66" align="left" valign="middle">0x6f</td><td width="66" align="left" valign="middle">o</td><td width="66" align="left" valign="middle">U+ff4f</td><td width="66" align="left" valign="middle">o</td><td width="66" align="left" valign="middle">U+006f</td></tr><tr><td width="66" align="left" valign="middle">0x70</td><td width="66" align="left" valign="middle">p</td><td width="66" align="left" valign="middle">U+ff50</td><td width="66" align="left" valign="middle">p</td><td width="66" align="left" valign="middle">U+0070</td></tr><tr><td width="66" align="left" valign="middle">0x71</td><td width="66" align="left" valign="middle">q</td><td width="66" align="left" valign="middle">U+ff51</td><td width="66" align="left" valign="middle">q</td><td width="66" align="left" valign="middle">U+0071</td></tr><tr><td width="66" align="left" valign="middle">0x72</td><td width="66" align="left" valign="middle">r</td><td width="66" align="left" valign="middle">U+ff52</td><td width="66" align="left" valign="middle">r</td><td width="66" align="left" valign="middle">U+0072</td></tr><tr><td width="66" align="left" valign="middle">0x73</td><td width="66" align="left" valign="middle">s</td><td width="66" align="left" valign="middle">U+ff53</td><td width="66" align="left" valign="middle">s</td><td width="66" align="left" valign="middle">U+0073</td></tr><tr><td width="66" align="left" valign="middle">0x74</td><td width="66" align="left" valign="middle">t</td><td width="66" align="left" valign="middle">U+ff54</td><td width="66" align="left" valign="middle">t</td><td width="66" align="left" valign="middle">U+0074</td></tr><tr><td width="66" align="left" valign="middle">0x75</td><td width="66" align="left" valign="middle">u</td><td width="66" align="left" valign="middle">U+ff55</td><td width="66" align="left" valign="middle">u</td><td width="66" align="left" valign="middle">U+0075</td></tr><tr><td width="66" align="left" valign="middle">0x76</td><td width="66" align="left" valign="middle">v</td><td width="66" align="left" valign="middle">U+ff56</td><td width="66" align="left" valign="middle">v</td><td width="66" align="left" valign="middle">U+0076</td></tr><tr><td width="66" align="left" valign="middle">0x77</td><td width="66" align="left" valign="middle">w</td><td width="66" align="left" valign="middle">U+ff57</td><td width="66" align="left" valign="middle">w</td><td width="66" align="left" valign="middle">U+0077</td></tr><tr><td width="66" align="left" valign="middle">0x78</td><td width="66" align="left" valign="middle">x</td><td width="66" align="left" valign="middle">U+ff58</td><td width="66" align="left" valign="middle">x</td><td width="66" align="left" valign="middle">U+0078</td></tr><tr><td width="66" align="left" valign="middle">0x79</td><td width="66" align="left" valign="middle">y</td><td width="66" align="left" valign="middle">U+ff59</td><td width="66" align="left" valign="middle">y</td><td width="66" align="left" valign="middle">U+0079</td></tr><tr><td width="66" align="left" valign="middle">0x7a</td><td width="66" align="left" valign="middle">z</td><td width="66" align="left" valign="middle">U+ff5a</td><td width="66" align="left" valign="middle">z</td><td width="66" align="left" valign="middle">U+007a</td></tr><tr><td width="66" align="left" valign="middle">0x7b</td><td width="66" align="left" valign="middle">{</td><td width="66" align="left" valign="middle">U+ff5b</td><td width="66" align="left" valign="middle">{</td><td width="66" align="left" valign="middle">U+007b</td></tr><tr><td width="66" align="left" valign="middle">0x7c</td><td width="66" align="left" valign="middle">|</td><td width="66" align="left" valign="middle">U+ff5c</td><td width="66" align="left" valign="middle">|</td><td width="66" align="left" valign="middle">U+007c</td></tr><tr><td width="66" align="left" valign="middle">0x7d</td><td width="66" align="left" valign="middle">}</td><td width="66" align="left" valign="middle">U+ff5d</td><td width="66" align="left" valign="middle">}</td><td width="66" align="left" valign="middle">U+007d</td></tr><tr><td width="66" align="left" valign="middle">0x7e</td><td width="66" align="left" valign="middle">～</td><td width="66" align="left" valign="middle">U+ff5e</td><td width="66" align="left" valign="middle">~</td><td width="66" align="left" valign="middle">U+007e</td></tr></table><div class="bpctrl" style="clear:both"></div><div class="clear"></div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">(function(){window.rsInsertData=window.rsInsertData||[];rsInsertData.push([517188,[]]);})();</script>
+<div class="reinforce" id="lemmaExtend">
+<script type="text/javascript"></script><dl class="nslog-area log-set-param" data-nslog-type="1" id="viewExtRead" log-set-param="ext_reader">
+<dt>扩展阅读：</dt>
+<dd class="reference">
+<ul>
+<li class="layout">
+<span class="ref-index"><span class="r-index">1</span><span class="slide s-right"></span></span>
+<p class="ref-bd line-1"><a target=_blank href=http://ask.koubei.com/question/?source=ysearch_ks_question_tj&qid=1306071908073 target=_blank>http://ask.koubei.com/question/?source=ysearch_ks_question_tj&qid=1306071908073</a>，汉字的全角半角的分别</p>
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="nslog-area log-set-param" data-nslog-type="19" id="viewExtCati" log-set-param="module_tag">
+<dt>开放分类：</dt>
+<dd>
+<a href='/taglist?tag=%C8%ED%BC%FE&tagfromview' target='_blank'>软件</a>，<a href='/taglist?tag=%BC%C6%CB%E3%BB%FA&tagfromview' target='_blank'>计算机</a>，<a href='/taglist?tag=%CA%E4%C8%EB&tagfromview' target='_blank'>输入</a></dd>
+</dl>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<script>baikeViewInfo.cataList=[ {ele:"1", title:"定义",level:2,display:true},{ele:"2", title:"举例",level:2,display:true},{ele:"3", title:"用法",level:2,display:true},{ele:"4", title:"全角",level:2,display:true},{ele:"5", title:"全角与半角符号比较",level:2,display:true}];if(typeof PDC!="undefined"){PDC.tti();}</script>
+</div>
+<div class="clear"></div>
+</div>
+<div class="content-ft">
+<div class="reinforce">
+<dl class="nslog-area" data-nslog-type="18" id="relatedLemmaDown">
+<dt>
+“半角”相关词条：
+</dt>
+<dd class="relative">
+<div class="clear"></div>
+<div>
+<a class="relatedhelp" href="http://www.baidu.com/search/baike_help.html#如何完善相关词条" target="_blank" title="什么是相关词条">什么是相关词条</a>
+<a class="myedit nslog:1005" href="#" onclick="userlogin.check(bk.view.editRelated,false,&#34;editrelated&#34;);return false">我来完善</a>
+</div>
+<div class="clear"></div>
+</dd>
+</dl>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="end">
+<p class="declare">百度百科中的词条内容仅供参考，如果您需要解决具体问题（尤其在法律、医学等领域），建议您咨询相关领域专业人士。</p>
+<div class="text_vote1" id="vote_btn"><b id="vote_num"></b><span id="vote_txt">本词条对我有帮助</span></div>
+</div><div class="layout share">
+<div class="share-item-title">
+<a class="cang nslog:99" href="http://cang.baidu.com/do/add" onclick="window.open(&#34;http://cang.baidu.com/do/add?it=&#34;+encodeURIComponent(document.title)+&#34;&amp;iu=&#34;+encodeURIComponent(location.href)+&#34;&amp;tn=%E7%99%BE%E7%A7%91%E8%AF%8D%E6%9D%A1%2C&amp;fr=bk#nw=1&#34;,&#34;_s&#34;,&#34;scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable= yes&#34;);return false" target="_blank" title="添加到搜藏">添加到搜藏</a>
+</div>
+<div class="share-item clearfix" id="bdsharebox">
+<span class="share-tip">分享到:</span>
+<div class="bdshare_t bds_tools get-codes-bdshare" data="{'url':'http://baike.baidu.com/view/517188.htm','text':'【半角_百度百科】 半角，即一个字符占用一字节。 英文字母、罗马数字、西方语言的符号。 半角的显示内码都是一个字节。在系统内部，以上三种字符是作为基本代码处理的，所以用户输入......','pic':'','wbuid':1647247597}" id="bdshare">
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_douban"></a>
+<a class="bds_tsohu"></a>
+<a class="bds_t163"></a>
+<a class="bds_renren"></a>
+<span class="bds_more">更多</span>
+</div>
+<script data="type=tools&amp;uid=71" id="bdshare_js" type="text/javascript"></script>
+<script id="bdshell_js" type="text/javascript"></script>
+</div>
+</div>
+<dl class="lemma-ext-bottom nslog-area" data-nslog-type="16">
+<dt>合作编辑者</dt>
+<dd>
+<div class="onelineonly">
+<span id="co-editors">
+<span>
+<a title='查看此用户资料' class='usercard' userName='雨勿化'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D3%EA%CE%F0%BB%AF#3'>雨勿化</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='yinsong1986'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=yinsong1986#3'>yinsong1986</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='艾耍酷'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B0%AC%CB%A3%BF%E1#3'>艾耍酷</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='了了吗'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=%C1%CB%C1%CB%C2%F0#3'>了了吗</a></span>
+<span>
+，<a title='查看此用户资料' class='usercard' userName='wsldvs'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=wsldvs#3'>wsldvs</a></span>
+</span>
+</div>
+<a class="f12 ref_more" href="/update/id=517188?from=au" id="more-coeditor" style="display:none" target="_blank">更多</a>
+<div class="clear"></div>
+<div class="try f12">如果您认为本词条还需进一步完善，百科欢迎您也来参与<a class="try-edit" href="#" onclick="bk.view.editLemma(&#34;/edit/&#34;,&#34;517188&#34;);return false">编辑词条</a>在开始编辑前，您还可以先学习<a href="http://www.baidu.com/search/baike_help.html#编辑原则" target="_blank">如何编辑词条</a></div>
+</dd>
+</dl>
+<p class="bk-feedback">
+如想投诉，请到<a class="nslog:1006" href="http://tousu.baidu.com/baike" target="_blank">百度百科投诉中心</a>；如想提出意见、建议，请到<a class="nslog:1007" href="http://tieba.baidu.com/f?kw=%b0%d9%b6%c8%b0%d9%bf%c6" target="_blank">百度百科吧</a>。
+</p>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="col-sub" id="side">
+<div class="userinfo-side">
+<div id="userInfoDiv">
+</div>
+</div>
+<div class="box2" id="lemma-overview">
+<div class="box2-inner">
+<h2>词条统计</h2>
+<p class="info f12">
+浏览次数：约 <span id="viewPV"></span>
+次
+<br/>
+编辑次数：5次 <a class="nslog:1021" href="/update/id=517188" target="_blank">历史版本</a>
+<br/>
+最近更新：<span id="lastModifyTime">2011-12-16</span>
+<br/>
+创建者：<span class="nslog:1022"><a title='查看此用户资料' class='usercard' userName='wsldvs'  target='_blank' href='http://passport.baidu.com/?business&aid=7&default_tab=2&un=wsldvs#3'>wsldvs</a></span>
+</p>
+</div>
+</div>
+<style>.authority-morelink{float:right;text-decoration:underline}</style>
+<div class="box2" id="bkDynamic" style="display:none">
+<div class="box2-inner">
+<h5 id="profileTitle"></h5>
+<div class="f12">
+<dl class="task nslog-area" data-nslog-type="1023" id="task" style="display:none">
+</dl>
+<dl class="notice nslog-area" data-nslog-type="1024" id="notice">
+</dl>
+</div>
+</div>
+</div>
+<div class="box2" id="mabox" style="display:none">
+<div class="box2-inner" id="box2-inner">
+<script type="text/javascript">var arrBaiduAds=new Array();function BaiduAdsDisplay(_){if(typeof(arrBaiduAds[_])=="undefined"||arrBaiduAds[_]==""){return;}G("mabox").style.display="";nslog.set("maad",1);G("box2-inner").innerHTML=arrBaiduAds[_];}</script>
+<script type="text/javascript">/*<![CDATA[*/baidu.sio.callByBrowser("http://a.baidu.com/ecom?di=216&tm=baiduASPT216S&tn=baidubaike_pg&word=%B0%EB%BD%C7",function(){BaiduAdsDisplay(216);});/*]]>*/</script>
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+</div><img src="http://c.baidu.com/c.gif?t=7&amp;q=%B0%EB%BD%C7&amp;p=0" style="display:none"/><input id="titleVal" type="hidden" value="半角"/>
+</div>
+<div class="nslog-area" data-nslog-type="1001" id="footer">
+&#169; 2012 Baidu <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>
+</div>
+</div>
+<div id="sidecatalog" style="position:absolute;display:none">
+<div class="sidebar" id="sidebar"></div>
+<a class="gotop" href="#" id="gotop" title="返回顶部"></a>
+</div>
+<div id="side-catalog-content" style="display:none;position:absolute"></div>
+<script src="http://baike.bdimg.com/static/common/js/view_bottom.js?@=bbah3h" type="text/javascript"></script><script charset="utf-8" src="/guanxi/static/js/lemma_insert.js" type="text/javascript"></script><script type="text/javascript">/*<![CDATA[*/if((baikeViewInfo.expIndex!=0)&&!(window.location.hash)){window.location.hash="#sub517188";}nslog.set("page","view");nslog.set("lemmaid","517188");nslog.set("ispolysemy","0");baidu.page.loadJsFile("http://baike.bdimg.com/static/lemma/liteoutput/view.js?@=13csb60");baidu.page.loadJsFile("http://baike.bdimg.com/static/usercenter/js/liteoutput/bk.uc_lemma.js?@=184uzx7");baidu.page.loadJsFile("http://img.baidu.com/hunter/baike.js?st="+parseInt(new Date()/86400000));if(typeof PDC!="undefined"){PDC.init({is_login:false,sample:0.01,product_id:103,page_id:1});}/*]]>*/</script><script type="text/javascript">/*<![CDATA[*/(function(){function _(B){var A="baikelog_"+(new Date()).getTime(),_=window[A]=new Image();_.onload=_.onerror=function(){window[A]=null;};_.src="http://nsclick.baidu.com/v.gif?pid=103&type="+B+"&url="+encodeURIComponent(location.href)+"&t="+(new Date()).getTime();_=null;}if(typeof baidu=="undefined"){_(3601);}})();/*]]>*/</script>
+</body>
+</html>
+<script>PDC._load_js=function(b,c){var a=document.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src",b);a.onload=a.onreadystatechange=function(){if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete"){a.onload=a.onreadystatechange=null;if(typeof c==="function"){c(b,true)}}};a.onerror=function(d){if(typeof c==="function"){c(b,false)}};document.getElementsByTagName("head")[0].appendChild(a)};PDC._load_analyzer=function(){if(PDC._is_sample()==false){return}PDC._analyzer.loaded=true;PDC._load_js(PDC._analyzer.url,function(){var c=PDC._analyzer.callbacks;for(var b=0,a=c.length;b<a;b++){c[b]()}})};PDC.send=function(){if(PDC._analyzer.loaded==true){WPO_PDA.send()}else{PDC._analyzer.callbacks.push(function(){WPO_PDA.send()})}};PDC._is_sample=function(){var e=false,d=this._opt.sample,b=0;if(window.performance&&window.performance.timing){d=d*5}var c=new Date().getHours();if(c>1&&c<8){d=d*5}d=d>0.9?0.9:d;d=d<0.0001?0.0001:d;var a=document.cookie.match(/BAIDUID=(\w*):/);if(a){b=parseInt(a[1].slice(-4),16);b=isNaN(b)?0:b}if(d<=0.5){e=(b%(parseInt(1/d))==1)}else{e=(b%(parseInt(1/(1-d)))!=1)}return e};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("lt")},false)}else{window.addEventListener("load",function(){PDC.mark("let");PDC._load_analyzer()})}})();</script>

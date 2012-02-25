@@ -1,0 +1,742 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>乐视网专区</title>
+<meta name="description" content="乐视网是以正版,高清影视剧为主的视频门户网站,为用户提供正版高清电影,电视剧,动漫,综艺,娱乐等视频在线观看,视频分享,视频搜索等服务！" />
+<meta name="keywords" content="" />
+<link rel="Shortcut Icon" href=" http://www.letv.com/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="http://css.letvcdn.com/css/201112/23/bd_base.css" />
+<link type="text/css" rel="stylesheet" href="http://css.letvcdn.com/css/201112/23/bd_main.css" />
+<script src="http://js.letvcdn.com/js/201112/08/jquery.min.js"></script>
+<style type="text/css">
+	body,div,ul,li,a,span,img,form,input,strong,h2,h1,dl,dd,dt,select,option,p {padding:0;margin:0;font-family:Tohoma,Arial, "宋体",serif,cursive,fantasy,monospace,sans-serif;font-size:12px;}
+	ul,li {list-style-type:none;}
+	em,var {font-style:normal;}
+	span,a {text-decoration:none;color:black;font-size:12px;font-family:Tohoma,Arial, "宋体", sans-serif;}
+	a img {border:none;}
+
+	.active {width:983px; height:330px;position:relative;overflow:hidden;}
+	.active table{position:absolute; left:0;top:0;} 
+	.active table a{ width:983px; height:330px;float:left;}
+	.active table a img {float:left;}
+	.active .number{position:absolute;top:305px;left:750px;}
+	.active .number a{float:left; width:20px; margin:0 5px 0 0;background-color:black;line-height:20px;color:white;text-align:center;}
+	.active .number .first{background-color:#0065c3;font-weight:bold;}
+</style>
+</head>
+<body>
+	<div class="aTopbg" style="display:none">
+		<div class="wrapper">
+			<a class="aSavetip" href="javascript:void(0);">把乐视放入收藏夹，畅享高清影视！</a>
+			<a class="aCtrl" href="javascript:void(0);">加为收藏</a>
+			<a class="aNotip" href="javascript:void(0);">不在提示</a>
+		</div>
+	</div>
+
+	<div class="wrapper"  style="height: 60px;">
+	   <table>
+		   <tr>
+			   <td  style="clear:both; width:490px;">
+			   	  <h2>
+					 <a href="http://www.gmw.cn/" title="光明网"><img src="http://i3.letvimg.com/img/201202/07/GTV-logo2.png" alt="logo" /></a>
+					 <a href="/" title="乐视网"><img src="http://i2.letvimg.com/img/201112/08/qiyi/alogo.jpg" alt="logo" /></a>
+				  </h2>
+			   </td>
+			   <td  style="clear:both; width:490px;">
+			       <form class="aNavform" style="padding-top: 25px;" method="get" action="/so.php">
+					  <input class="aSetext" type="text" maxlength="100" name="keyword" placeholder="专辑名称 " value=""/> 
+					  <input  class="aSearch" type="submit" value="搜  索" />
+				   </form>
+			   </td>
+		   </tr>
+	   </table>
+	</div>
+	<div class="awrapnav">	
+		<div class="wrapper">
+			<div class="aNav">
+				<ul class="aNavcon">
+				<li><a style="color: red;font-weight: bold;" href="/" title="首页" >首页</a></li>
+				<li><a href="/dianying/" title="电影">电影</a></li>
+				<li><a href="/dianshiju/" title="电视剧">电视剧</a></li>
+				<li><a href="/dongman/" title="动漫">动漫</a></li>			
+				</ul>		
+			</div>
+			<div class="aShow">
+				<div class="active" id="getout">
+					<div class="act_border">
+						<table id="mm" cellspacing=0 cellpadding=0>
+							<tr>
+																<td>
+									<a target="_blank" href="http://gmw.open.letv.com/dianying/50291.html">
+										<img src="http://i0.letvimg.com/img/201202/10/1028.jpg" alt="极速天使"/>
+									</a>
+								</td>
+																<td>
+									<a target="_blank" href="http://gmw.open.letv.com/dianying/53722.html">
+										<img src="http://i1.letvimg.com/img/201202/06/1010.jpg" alt="亲密敌人"/>
+									</a>
+								</td>
+																<td>
+									<a target="_blank" href="http://gmw.open.letv.com/dianying/50290.html">
+										<img src="http://i2.letvimg.com/img/201201/13/1009.jpg" alt="巨额交易"/>
+									</a>
+								</td>
+																<td>
+									<a target="_blank" href="http://gmw.open.letv.com/dianshiju/45324.html">
+										<img src="http://i3.letvimg.com/img/201201/31/xyj.jpg" alt="新西游记"/>
+									</a>
+								</td>
+																<td>
+									<a target="_blank" href="http://gmw.open.letv.com/dianshiju/54570.html">
+										<img src="http://i1.letvimg.com/img/201201/18/bjaqgs2.jpg" alt="北京爱情故事"/>
+									</a>
+								</td>
+																<td>
+									<a target="_blank" href="http://gmw.open.letv.com/dianshiju/34014.html">
+										<img src="http://i2.letvimg.com/img/201201/24/dmqyy.jpg" alt="刁蛮俏御医"/>
+									</a>
+								</td>
+															</tr>
+						</table>
+						<div id="number" class="number">
+														<a class="first" href="###">1</a>
+														<a  href="###">2</a>
+														<a  href="###">3</a>
+														<a  href="###">4</a>
+														<a  href="###">5</a>
+														<a  href="###">6</a>
+													</div> 
+					</div>
+				</div>
+				<script src="http://js.letvcdn.com/js/201112/21/active.js" type="text/javascript"></script>
+			</div>
+		</div>
+	</div> 
+	<div class="wrapper">
+		<div class="aHvideo aHightx">
+			<div class="aHleft aHlefx">
+				<h3 class="aHot aHox">
+					<img src="http://i3.letvimg.com/img/201112/08/qiyi/ahotvideo.gif" alt="video" />
+				</h3>
+			</div>
+			<div class="aHcentv aHcentx">
+				<ul class="aTvcont aNimecont aTvconx">
+															<li>
+						<a class="aHvideoP" href="/dianying/53722.html">
+							<img src="http://i1.letvimg.com/vrs/201201/10/f279b20c619c461f9bd414c88d2a7719.jpg" alt="video" title="亲密敌人"/>
+						</a>
+						<a class="aHvideoN" title="亲密敌人" href="/dianying/53722.html">亲密敌人</a>
+						<p class="aHdescri">徐静蕾再战黄立行</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/50288.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/10/0e89fa771a8444ac8e04e5d66c9c1ca9.jpg" alt="video" title="一夜迷情"/>
+						</a>
+						<a class="aHvideoN" title="一夜迷情" href="/dianying/50288.html">一夜迷情</a>
+						<p class="aHdescri">奈特莉沃辛顿出轨</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/53731.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/12/a295e88680d14a34975c812e4c81085a.jpg" alt="video" title="盲人电影院"/>
+						</a>
+						<a class="aHvideoN" title="盲人电影院" href="/dianying/53731.html">盲人电影院</a>
+						<p class="aHdescri">周一围情陷小盲女</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/45649.html">
+							<img src="http://i2.letvimg.com/vrs/201201/30/ee2479f4d7a3451b893ee5e57dc32d18.jpg" alt="video" title="秘杀名单"/>
+						</a>
+						<a class="aHvideoN" title="秘杀名单" href="/dianshiju/45649.html">秘杀名单</a>
+						<p class="aHdescri">李立群成杀人魔</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/53592.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/12/9f2268dd1ab64d00888aab578c896811.jpg" alt="video" title="吧嗒吧嗒"/>
+						</a>
+						<a class="aHvideoN" title="吧嗒吧嗒" href="/dianshiju/53592.html">吧嗒吧嗒</a>
+						<p class="aHdescri">金范化身基情少年</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/54570.html">
+							<img src="http://i3.letvimg.com/vrs/201201/08/15be5f613adc4af582f8c9a382b44622.jpg" alt="video" title="北京爱情故事"/>
+						</a>
+						<a class="aHvideoN" title="北京爱情故事" href="/dianshiju/54570.html">北京爱情故事</a>
+						<p class="aHdescri">杨幂本色诠释真爱</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dongman/5330.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/7/commic/10589cb629224f7d9cda731c5353d541.jpg" alt="video" title="海贼王"/>
+						</a>
+						<a class="aHvideoN" title="海贼王" href="/dongman/5330.html">海贼王</a>
+						<p class="aHdescri">热血少年集体卖腐</p>
+					</li>
+														</ul>
+			</div>
+		</div> 
+	</div>
+
+	<div class="wrapper" id="ad_id_4" >
+		<div  style="border:1px solid #ddd;width:980px;">
+			<script src="http://gmw.open.letv.com/api/ad_setting.php?type=4"></script>
+		</div>
+	</div>
+
+	<div class="wrapper">
+		<div class="aHvideo aHightv">
+			<div class="aHleft aHighleft">
+				<h3 class="aHot">
+					<img src="http://i1.letvimg.com/img/201112/08/qiyi/ahightv.gif" alt="video" />
+				</h3>
+				<div class="aSort">   
+					<span><B>类型：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/5-28----.html" >剧情</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-48----.html" >谍战</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-49----.html" >刑侦</a></em>	
+						<em><a href="http://gmw.open.letv.com/list/5-30----.html" >喜剧</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-38----.html" >偶像</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-33----.html" >动作</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-34----.html" >战争</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-35----.html" >武侠</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-42----.html" >古装</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-39----.html" >都市</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-31----.html" >军旅</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5-32----.html" >奇幻</a></em>
+					<br/>
+					<span><B>地区：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/5--1---.html">大陆</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5--2---.html">香港</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5--71---.html">美国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5--42---.html">韩国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5--3---.html">台湾</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5--41---.html">日本</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5--72---.html">英国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5--70---.html">欧美</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5--75---.html">法国</a></em>
+					<br/>
+					<span><B>年代：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/5---2011--.html" >2011</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2010--.html" >2010</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2009--.html" >2009</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2008--.html" >2008</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2007--.html" >2007</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2006--.html" >2006</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2005--.html" >2005</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2004--.html" >2004</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2003--.html" >2003</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2002--.html" >2002</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2001--.html" >2001</a></em>
+						<em><a href="http://gmw.open.letv.com/list/5---2000--.html" >2000</a></em>
+				</div>
+			</div>
+			<div class="aHcentv">
+				<ul class="aTvcont aNimecont">
+															<li>
+						<a class="aHvideoP" href="/dianshiju/54027.html">
+							<img src="http://i3.letvimg.com/vrs/201201/04/956c584e18d54a52b68cb5cacce20e5a.jpg" alt="video" title="大唐女将樊梨花"/>
+						</a>
+						<a class="aHvideoN" title="大唐女将樊梨花" href="/dianshiju/54027.html">大唐女将樊梨花</a>
+						<p class="aHdescri">爆笑魔幻古装大戏</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/54239.html">
+							<img src="http://i0.letvimg.com/vrs/201112/27/cde1441835a84792b5616b3ba1b58406.jpg" alt="video" title="你是我爱人"/>
+						</a>
+						<a class="aHvideoN" title="你是我爱人" href="/dianshiju/54239.html">你是我爱人</a>
+						<p class="aHdescri">张国立邓婕再联手</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/54429.html">
+							<img src="http://i3.letvimg.com/vrs/201201/21/fc6efb28293742f1af23f6917a6c02ae.jpg" alt="video" title="一诺倾情"/>
+						</a>
+						<a class="aHvideoN" title="一诺倾情" href="/dianshiju/54429.html">一诺倾情</a>
+						<p class="aHdescri">诠释爱情含蓄之美 </p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/54570.html">
+							<img src="http://i3.letvimg.com/vrs/201201/08/15be5f613adc4af582f8c9a382b44622.jpg" alt="video" title="北京爱情故事"/>
+						</a>
+						<a class="aHvideoN" title="北京爱情故事" href="/dianshiju/54570.html">北京爱情故事</a>
+						<p class="aHdescri">杨幂本色诠释真爱</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/46177.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/10/20e20ee8c69f4e15a7e8014f4301360e.jpg" alt="video" title="美人天下"/>
+						</a>
+						<a class="aHvideoN" title="美人天下" href="/dianshiju/46177.html">美人天下</a>
+						<p class="aHdescri">宫廷版“越狱”</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/53270.html">
+							<img src="http://i0.letvimg.com/vrs/201112/26/2f7e0864116945308cb1c0ed195a7532.jpg" alt="video" title="钱多多嫁人记"/>
+						</a>
+						<a class="aHvideoN" title="钱多多嫁人记" href="/dianshiju/53270.html">钱多多嫁人记</a>
+						<p class="aHdescri">剩女的童话故事</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/54026.html">
+							<img src="http://i0.letvimg.com/vrs/201201/05/97fda560736040ef96cc3d1f24e32136.jpg" alt="video" title="洪武大案"/>
+						</a>
+						<a class="aHvideoN" title="洪武大案" href="/dianshiju/54026.html">洪武大案</a>
+						<p class="aHdescri">保剑峰受杨幂诱惑</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianshiju/52460.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/12/391962bb3fe14c969a19e9785a1d3484.jpg" alt="video" title="人到四十"/>
+						</a>
+						<a class="aHvideoN" title="人到四十" href="/dianshiju/52460.html">人到四十</a>
+						<p class="aHdescri">王志文江珊再联袂</p>
+					</li>
+														</ul>
+			</div>
+			<div class="aHright aTvright">
+				<h3 class="aHlistip">电视剧热播榜</h3>
+				<ul class="aHlist"  style="height: 98%">
+																		<li class="aHfront" style="height: 100px; width: 185px;">
+							<table>
+								<tr>
+									<td><a href="/dianshiju/45324.html"><img height="96" width="72" src="http://i3.letvimg.com/vrs/201201/30/6712e86ac27d485ea7e9b3d5cab72e92.jpg" title="新西游记"/></a></td>
+									<td valign="top">
+										<div style="height: 40px;">
+											<p>
+												<a target="_blank" title="新西游记" href="/dianshiju/45324.html"><span>1</span>新西游记</a>
+											</p>
+										</div>
+										<div>
+											<p>
+																								分类：奇幻																							</p>
+											<p>
+																								导演：张建亚																							</p>
+											<p>
+																								主演：吴樾																							</p>
+										</div>
+									</td>
+								</tr>
+							</table>
+							</li>
+																								<li class="aHfront">
+								<a href="/dianshiju/54570.html"><span>2</span>北京爱情故事</a>
+							</li>
+																								<li class="aHfront">
+								<a href="/dianshiju/54570.html"><span>3</span>北京爱情故事</a>
+							</li>
+																								<li >
+								<a href="/dianshiju/54027.html"><span>4</span>大唐女将樊梨花</a>
+							</li>
+																								<li >
+								<a href="/dianshiju/54239.html"><span>5</span>你是我爱人</a>
+							</li>
+																								<li >
+								<a href="/dianshiju/53270.html"><span>6</span>钱多多嫁人记</a>
+							</li>
+																								<li >
+								<a href="/dianshiju/52460.html"><span>7</span>人到四十</a>
+							</li>
+																								<li >
+								<a href="/dianshiju/45649.html"><span>8</span>秘杀名单</a>
+							</li>
+																								<li >
+								<a href="/dianshiju/53592.html"><span>9</span>吧嗒吧嗒</a>
+							</li>
+																								<li >
+								<a href="/dianshiju/54029.html"><span>10</span>三十里铺</a>
+							</li>
+															</ul>
+				<div class="asutrar">				
+					<!--<script src="gmw.open.letv.com/api/ad_setting.php?type=9"></script>-->
+				</div>
+			</div>
+		</div> 
+	</div>
+
+	<div class="wrapper" id="ad_id_5" >
+		<div  style="border:1px solid #ddd;width:980px;">
+		<script src="http://gmw.open.letv.com/api/ad_setting.php?type=5"></script>
+		</div>
+	</div>
+    
+    <div class="wrapper">
+		<div class="aHvideo aHightv">
+			<div class="aHleft aHighleft">
+				<h3 class="aHot">
+					<img src="http://i3.letvimg.com/img/201112/08/qiyi/afilm.gif" alt="video" />
+				</h3>
+				<div class="aSort">   
+					<span><B>类型：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/4-8----.html">剧情</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-9----.html">喜剧</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-10----.html">动作</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-11----.html">爱情</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-20----.html">科幻</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-21----.html">警匪</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-22----.html">武侠</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-12----.html">恐怖</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-13----.html">动画</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-14----.html">战争</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-15----.html">惊悚</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-16----.html">悬疑</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4-17----.html">奇幻</a></em>
+					<br/>
+					<span><B>地区：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/4--1---.html">大陆</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4--2---.html">香港</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4--71---.html">美国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4--42---.html">韩国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4--3---.html">台湾</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4--41---.html">日本</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4--72---.html">英国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4--70---.html">欧美</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4--75---.html">法国</a></em>
+					<br/>
+					<span><B>年代：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/4---2011--.html" >2011</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2010--.html" >2010</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2009--.html" >2009</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2008--.html" >2008</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2007--.html" >2007</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2006--.html" >2006</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2005--.html" >2005</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2004--.html" >2004</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2003--.html" >2003</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2002--.html" >2002</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2001--.html" >2001</a></em>
+						<em><a href="http://gmw.open.letv.com/list/4---2000--.html" >2000</a></em>
+				</div>
+			</div>
+			<div class="aHcentv">
+				<ul class="aTvcont aNimecont">
+															<li>
+						<a class="aHvideoP" href="/dianying/50291.html">
+							<img src="http://i1.letvimg.com/vrs/201112/21/dd33637a0a3e4e7dbf1e67682e19ed5e.jpg" alt="video" title="极速天使" />
+						</a>
+						<a class="aHvideoN" title="极速天使" href="/dianying/50291.html">极速天使</a>
+						<p class="aHdescri">汤唯变帅气女车手</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/53722.html">
+							<img src="http://i1.letvimg.com/vrs/201201/10/f279b20c619c461f9bd414c88d2a7719.jpg" alt="video" title="亲密敌人" />
+						</a>
+						<a class="aHvideoN" title="亲密敌人" href="/dianying/53722.html">亲密敌人</a>
+						<p class="aHdescri">徐静蕾再战黄立行</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/50290.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/10/710e5cd9f64e420db43330b0af7b701e.jpg" alt="video" title="巨额交易" />
+						</a>
+						<a class="aHvideoN" title="巨额交易" href="/dianying/50290.html">巨额交易</a>
+						<p class="aHdescri">蓝正龙恋上韩彩英</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/50288.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/10/0e89fa771a8444ac8e04e5d66c9c1ca9.jpg" alt="video" title="一夜迷情" />
+						</a>
+						<a class="aHvideoN" title="一夜迷情" href="/dianying/50288.html">一夜迷情</a>
+						<p class="aHdescri">奈特莉沃辛顿出轨</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/41254.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/10/86df43c4842946ee8c18060b7e76da10.jpg" alt="video" title="杨门女将之军令如山" />
+						</a>
+						<a class="aHvideoN" title="杨门女将之军令如山" href="/dianying/41254.html">杨门女将之军令如山</a>
+						<p class="aHdescri">张柏芝战场生死恋</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/53181.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/11/3fe24910042545b4ad0d1d078da779cb.jpg" alt="video" title="遍地狼烟" />
+						</a>
+						<a class="aHvideoN" title="遍地狼烟" href="/dianying/53181.html">遍地狼烟</a>
+						<p class="aHdescri">何润东情迷小宋佳</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/54355.html">
+							<img src="http://i0.letvimg.com/vrs/201112/21/bd9f6e5ef9d14ceebd3ecb432d0385b5.jpg" alt="video" title="午夜凶梦" />
+						</a>
+						<a class="aHvideoN" title="午夜凶梦" href="/dianying/54355.html">午夜凶梦</a>
+						<p class="aHdescri">女医生惨变怪病人</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dianying/54534.html">
+							<img src="http://i0.letvimg.com/vrs/201112/25/45561769b81d48728b8540264348a932.jpg" alt="video" title="失恋33天" />
+						</a>
+						<a class="aHvideoN" title="失恋33天" href="/dianying/54534.html">失恋33天</a>
+						<p class="aHdescri">文章白百何仙贱缘</p>
+					</li>
+														</ul>
+			</div>
+			<div class="aHright aTvright">
+				<h3 class="aHlistip">电影热播榜</h3>
+				<ul class="aHlist">
+																		<li class="aHfront" style="height: 100px; width: 185px;">
+							<table>
+								<tr>
+									<td><a target="_blank"href="/dianying/53722.html"><img height="96" width="72" src="http://i1.letvimg.com/vrs/201201/10/f279b20c619c461f9bd414c88d2a7719.jpg" title="亲密敌人"/></a></td>
+									<td valign="top">
+										<div style="height: 40px;">
+											<p>
+												<a  href="/dianying/53722.html" title="亲密敌人"><span>1</span>亲密敌人</a>
+											</p>
+										</div>
+										<div>
+											<p>
+																								分类：剧情																							</p>
+											<p>
+																								导演：徐静蕾																							</p>
+											<p>
+																								主演：徐静蕾																							</p>
+										</div>
+									</td>
+								</tr>
+							</table>
+							</li>
+																								<li class="aHfront">
+								<a href="/dianying/50291.html"><span>2</span>极速天使</a>
+							</li>
+																								<li class="aHfront">
+								<a href="/dianying/54534.html"><span>3</span>失恋33天</a>
+							</li>
+																								<li >
+								<a href="/dianying/50288.html"><span>4</span>一夜迷情</a>
+							</li>
+																								<li >
+								<a href="/dianying/50290.html"><span>5</span>巨额交易</a>
+							</li>
+																								<li >
+								<a href="/dianying/41254.html"><span>6</span>杨门女将之军令如山</a>
+							</li>
+																								<li >
+								<a href="/dianying/34698.html"><span>7</span>暮光之城</a>
+							</li>
+																								<li >
+								<a href="/dianying/53181.html"><span>8</span>遍地狼烟</a>
+							</li>
+																								<li >
+								<a href="/dianying/54080.html"><span>9</span>永无止境</a>
+							</li>
+																								<li >
+								<a href="/dianying/50285.html"><span>10</span>幸福额度</a>
+							</li>
+															</ul>
+				<div class="asutrar">
+					<!--<script src="gmw.open.letv.com/api/ad_setting.php?type=10"></script>-->
+				</div>
+			</div>
+		</div> 
+	</div>    
+	
+    <div class="wrapper" id="ad_id_6">
+		<div  style="border:1px solid #ddd;width:980px;">
+		<script src="http://gmw.open.letv.com/api/ad_setting.php?type=6"></script>
+		</div>
+	</div>
+    
+    <div class="wrapper">
+		<div class="aHvideo aHightv">
+			<div class="aHleft aHighleft">
+				<h3 class="aHot">
+					<img src="http://i2.letvimg.com/img/201112/08/qiyi/ahanime.gif" alt="video" />
+				</h3>
+				<div class="aSort">   
+					<span><B>类型：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/6-54----.html">励志</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-57----.html">搞笑</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-53----.html">美少女</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-50----.html">热血</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-51----.html">机战</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-61----.html">悬疑</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-52----.html">运动</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-62----.html">LOLI</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-55----.html">怪物</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-58----.html">真人</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-59----.html">神魔</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6-63----.html">恋爱</a></em>	
+					<br/>
+					<span><B>地区：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/6--1---.html">大陆</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6--2---.html">香港</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6--71---.html">美国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6--42---.html">韩国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6--3---.html">台湾</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6--41---.html">日本</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6--72---.html">英国</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6--70---.html">欧美</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6--75---.html">法国</a></em>
+					<br/>
+					<span><B>年代：</B></span><br>
+						<em><a href="http://gmw.open.letv.com/list/6---2011--.html" >2011</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2010--.html" >2010</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2009--.html" >2009</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2008--.html" >2008</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2007--.html" >2007</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2006--.html" >2006</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2005--.html" >2005</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2004--.html" >2004</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2003--.html" >2003</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2002--.html" >2002</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2001--.html" >2001</a></em>
+						<em><a href="http://gmw.open.letv.com/list/6---2000--.html" >2000</a></em>
+				</div>
+			</div>
+			
+			<div class="aHcentv">
+				<ul class="aTvcont aNimecont">
+															<li>
+						<a class="aHvideoP" href="/dongman/49272.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/10/700ecd802ef04ff09e3fc99ce4ab0c19.jpg" alt="video" title="灼眼的夏娜3"/>
+						</a>
+						<a class="aHvideoN" title="灼眼的夏娜3" href="/dongman/49272.html">灼眼的夏娜3</a>
+						<p class="aHdescri">夏娜系列最终章</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dongman/49208.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/10/03e8d12b15334631b90fcc20f0cf9284.jpg" alt="video" title="花牌情缘"/>
+						</a>
+						<a class="aHvideoN" title="花牌情缘" href="/dongman/49208.html">花牌情缘</a>
+						<p class="aHdescri">超级花牌美少女</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dongman/17720.html">
+							<img src="http://img1.c3.letv.com/ptv/letv_vrs/2011/7/commic/c069291d5c9a464caf2e717087565173.jpg" alt="video" title="华丽的挑战"/>
+						</a>
+						<a class="aHvideoN" title="华丽的挑战" href="/dongman/17720.html">华丽的挑战</a>
+						<p class="aHdescri">揭秘娱乐圈潜规则</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dongman/70404.html">
+							<img src="http://i1.letvimg.com/vrs/201201/06/056b3c6739b649a6927b8c80528c674d.jpg" alt="video" title="夏目友人帐4"/>
+						</a>
+						<a class="aHvideoN" title="夏目友人帐4" href="/dongman/70404.html">夏目友人帐4</a>
+						<p class="aHdescri">美青年VS猫老师</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dongman/70553.html">
+							<img src="http://i2.letvimg.com/vrs/201201/09/033393302f0c41b780ea928339189156.jpg" alt="video" title="爱杀宝贝"/>
+						</a>
+						<a class="aHvideoN" title="爱杀宝贝" href="/dongman/70553.html">爱杀宝贝</a>
+						<p class="aHdescri">Q版爆笑连载再开</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dongman/70645.html">
+							<img src="http://i0.letvimg.com/vrs/201201/09/f1777712e7804648b8248898f2b98c23.jpg" alt="video" title="伪物语"/>
+						</a>
+						<a class="aHvideoN" title="伪物语" href="/dongman/70645.html">伪物语</a>
+						<p class="aHdescri">他的两个萌系妹妹</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dongman/70491.html">
+							<img src="http://i3.letvimg.com/vrs/201201/06/fc4b1edb3560472089c736f0e585ac21.jpg" alt="video" title="新网球王子"/>
+						</a>
+						<a class="aHvideoN" title="新网球王子" href="/dongman/70491.html">新网球王子</a>
+						<p class="aHdescri">全国大赛后纪实</p>
+					</li>
+																				<li>
+						<a class="aHvideoP" href="/dongman/70745.html">
+							<img src="http://i1.letvimg.com/vrs/201201/11/c43d30dac9634bba88f4b32212b6e932.jpg" alt="video" title="听爸爸的话"/>
+						</a>
+						<a class="aHvideoN" title="听爸爸的话" href="/dongman/70745.html">听爸爸的话</a>
+						<p class="aHdescri">我的超萌萝莉女儿</p>
+					</li>
+																																		</ul>
+			</div>
+			<div class="aHright aTvright">
+				<h3 class="aHlistip">动漫热播榜</h3>
+				<ul class="aHlist">
+																	<li class="aHfront" style="height: 100px; width: 180px;">
+								<table>
+									<tr>
+										<td><a target="_blank" href="/dongman/5412.html"><img height="96" width="72" src="http://img1.c3.letv.com/ptv/letv_vrs/2011/8/d0eb78c66ad2425ca0ef9bcd05add38c.jpg" title="火影忍者"/></a></td>
+										<td valign="top">
+											<div style="height: 50px;">
+												<p>
+													<a target="_blank" href="/dongman/5412.html"><span>1</span>火影忍者</a>
+												</p>
+											</div>
+											<div>
+												<p>
+																										评分：9.9													<br/>												</p>
+												<p>
+																										分类：热血																									</p>
+											</div>
+										</td>
+									</tr>
+								</table>
+							</li>
+																							<li class="aHfront">
+								<a target="_blank" href="/dongman/5330.html"><span>2</span>海贼王</a>
+							</li>
+																							<li class="aHfront">
+								<a target="_blank" href="/dongman/17720.html"><span>3</span>华丽的挑战</a>
+							</li>
+																							<li >
+								<a target="_blank" href="/dongman/5411.html"><span>4</span>死神</a>
+							</li>
+																							<li >
+								<a target="_blank" href="/dongman/5938.html"><span>5</span>名侦探柯南TV版</a>
+							</li>
+																							<li >
+								<a target="_blank" href="/dongman/70491.html"><span>6</span>新网球王子</a>
+							</li>
+																							<li >
+								<a target="_blank" href="/dongman/39493.html"><span>7</span>银魂</a>
+							</li>
+																							<li >
+								<a target="_blank" href="/dongman/42673.html"><span>8</span>家庭教师Reborn</a>
+							</li>
+																							<li >
+								<a target="_blank" href="/dongman/40413.html"><span>9</span>守护甜心</a>
+							</li>
+																							<li >
+								<a target="_blank" href="/dongman/70745.html"><span>10</span>听爸爸的话</a>
+							</li>
+															</ul>
+				<div class="asutrar" style="padding: 10px;">				
+					<!--<script src="http://gmw.open.letv.com/api/ad_setting.php?type=11"></script>-->
+				</div>
+			</div>
+		</div> 
+	</div>
+    
+	<div class="wrapper">
+		<div class="aFoot">
+			<p class="aFriend">
+				<p class="aFriend cFoot">
+				<a href="http://aboutus.letv.com/service/index.html" target="_blank">产品服务</a>|
+				<a href="http://aboutus.letv.com/invest/" target="_blank">投资者关系</a>|
+				<a href="http://aboutus.letv.com/partner/index.html" target="_blank">合作伙伴</a>|
+				<a href="http://aboutus.letv.com/copyright/index.html" target="_blank">版权声明</a>|
+				<a href="http://aboutus.letv.com/link.shtml" target="_blank">友情链接</a>|
+				<a href="http://aboutus.letv.com/hr/index.html" target="_blank">招聘信息</a>|
+				<a href="http://www.letv.com/help/feedback.html" target="_blank">意见反馈</a>|
+				<a href="http://www.letv.com/help/index.html" target="_blank">帮助中心</a>|
+				<a href="http://aboutus.letv.com/contact/index.html" target="_blank">联系方式</a>
+			</p>
+			</p>
+			<p class="aFriend">
+				Copyright ©  2004-2011 乐视网（www.letv.com）All rights reserved.
+			</p>
+		</div>
+	</div>
+<!-- 百度统计 -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd40b14da8272c03f82f9b918ee91ca2b' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<!-- 百度统计-->
+<!---iResearch统计代码开始--> 
+<script type="text/javascript">
+irsTracker = {
+     aid: 1334,
+     cid: 347,
+     uid: 0,
+     st: 1,
+     et: 1
+};
+</script>
+<script type="text/javascript" src="http://static.irs09.com/t.js"></script>
+<script type="text/javascript"> var _siteid = '1';var _chlid = '60';var _clickTracker = false;</script> 
+<script type="text/javascript" src="http://img1.c0.letv.com/ptv/js/stats/pvstats.js"></script> 
+<!---iResearch统计代码结束--> 
+</body>
+</html>
+
+　

@@ -1,0 +1,442 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-CN">
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>by tag SSH | 点滴之间 聚沙成金</title>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.path8.net/tn/wp-content/themes/zbench/style.css" />
+	<link rel="pingback" href="http://www.path8.net/tn/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; Feed" href="http://www.path8.net/tn/feed" />
+<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; 评论 Feed" href="http://www.path8.net/tn/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="点滴之间 聚沙成金 &raquo; SSH 标签 Feed" href="http://www.path8.net/tn/archives/tag/ssh/feed" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.path8.net/tn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.path8.net/tn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+
+<!-- All in One SEO Pack 1.6.13.8 by Michael Torbert of Semper Fi Web Design[301,344] -->
+<link rel="canonical" href="http://www.path8.net/tn/archives/tag/ssh" />
+<!-- /all in one seo pack -->
+
+<style type="text/css">.navigation{display: none;}</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- wp thread comment 1.4.9.4.002 -->
+<style type="text/css" media="screen">
+.editComment, .editableComment, .textComment{
+	display: inline;
+}
+.comment-childs{
+	border: 1px solid #999;
+	margin: 5px 2px 2px 4px;
+	padding: 4px 2px 2px 4px;
+	background-color: white;
+}
+.chalt{
+	background-color: #E2E2E2;
+}
+#newcomment{
+	border:1px dashed #777;width:90%;
+}
+#newcommentsubmit{
+	color:red;
+}
+.adminreplycomment{
+	border:1px dashed #777;
+	width:99%;
+	margin:4px;
+	padding:4px;
+}
+.mvccls{
+	color: #999;
+}
+			
+</style>
+</head>
+<body class="archive tag tag-ssh tag-257">
+<div id="nav">
+	<div id="menus">
+		<ul><li><a href="http://www.path8.net/tn/">首页</a></li></ul>
+		<ul id="menu-%e4%b8%bb%e8%8f%9c%e5%8d%95" class="menu"><li id="menu-item-2817" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2817"><a href="http://www.path8.net/tn/archives/category/private">原创文章</a></li>
+<li id="menu-item-2816" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2816"><a href="http://www.path8.net/tn/archives/category/web-technique/php-hypertext-preprocessor">PHP</a></li>
+<li id="menu-item-2811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2811"><a href="http://www.path8.net/tn/mesgbox">敬请留言</a></li>
+<li id="menu-item-2813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2813"><a href="http://www.path8.net/tn/about">关于</a>
+<ul class="sub-menu">
+	<li id="menu-item-4300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4300"><a href="http://www.path8.net/tn/about/master-log">站长日志</a></li>
+	<li id="menu-item-2830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2830"><a href="http://www.path8.net/tn/why-luowuzhe">关于我</a></li>
+</ul>
+</li>
+<li id="menu-item-4933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4933"><a href="http://blog.path8.net">本站将转至...</a></li>
+</ul>	</div>
+	<div id="search">
+		<form id="searchform" method="get" action="http://www.path8.net/tn/">
+<input type="text" value="站内搜索" onfocus="if (this.value == '站内搜索') {this.value = '';}" onblur="if (this.value == '') {this.value = '站内搜索';}" size="35" maxlength="50" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="搜索" />
+</form>	</div>
+</div>
+<div id="wrapper">
+	<div id="header">		<h1><a href="http://www.path8.net/tn/">点滴之间 聚沙成金</a></h1>
+		<h2>一个落伍者的博客 关注于web开发, linux, 安全. etc</h2>
+		<div class="clear"></div>
+			</div>
+<div id="content">
+		<div class="page-title">
+					<h1>标签存档: <span>SSH</span></h1>
+			</div>
+		<div class="post-4925 post type-post status-publish format-standard hentry category-linux category-337 category-private tag-ssh tag-sshd tag-702 tag-272" id="post-4925"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4925" title="链接到 解决ssh连接linux服务器速度慢">解决ssh连接linux服务器速度慢</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4925" title="23:01" rel="bookmark">2011/10/24</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4925#respond" title="《解决ssh连接linux服务器速度慢》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4925" title="解决ssh连接linux服务器速度慢"></a><p>核心：<br />
+服务器端sshd配置文件 /etc/ssh/sshd_config 看是否有如下的两条配置条目<br />
+GSSAPIAuthentication no<br />
+UseDNS no<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4925" title="解决ssh连接linux服务器速度慢" target="_blank">阅读全文——共2657字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4892 post type-post status-publish format-standard hentry category-private category-199 tag-fkgxx tag-ssh tag-sshd tag-883" id="post-4892"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4892" title="链接到 悲剧，狗爹虚拟主机的ssh禁用转发了">悲剧，狗爹虚拟主机的ssh禁用转发了</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4892" title="00:06" rel="bookmark">2011/09/15</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4892#comments" title="《悲剧，狗爹虚拟主机的ssh禁用转发了》上的评论">2 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4892" title="悲剧，狗爹虚拟主机的ssh禁用转发了"></a><p>悲剧了<br />
+悲剧，狗爹虚拟主机的ssh -d禁用转发了，快十一了，网络质量非常不好，博客后台半天都没有打开完成，就在标题里写内容了。<br />
+文章发布出去，页面终于可以打开完成了，补几句。<br />
+突然发现ssh不能翻墙了，查看进程是正常的，杀死自动重新运行，修改配置重启手动运行，照样没用，网查看错误消息<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4892" title="悲剧，狗爹虚拟主机的ssh禁用转发了" target="_blank">阅读全文——共618字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4672 post type-post status-publish format-standard hentry category-linux category-private category-199 tag-fkgxx tag-ssh" id="post-4672"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4672" title="链接到 linux下ssh -D 转发脚本/ssh断线后自动重连">linux下ssh -D 转发脚本/ssh断线后自动重连</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4672" title="11:14" rel="bookmark">2011/07/09</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4672#respond" title="《linux下ssh -D 转发脚本/ssh断线后自动重连》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4672" title="linux下ssh -D 转发脚本/ssh断线后自动重连"></a><p>ssh转发ssh -D的作用就不说了，相信看到这篇文章的童鞋们应该都......[此处略去N个字]。<br />
+有不少ssh服务器会定期踢除不活动的连接，尤其像我这样使用 "ssh -D " + autoproxy，通常访问的网站都是没有被有被墙的，于是ssh长时间不活动，于是被服务器踢了。写一个简单脚本，解决这一问题。<br />
+前提:<br />
+有ssh服务器账号密码，并设置好免密码登录ssh.<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4672" title="linux下ssh -D 转发脚本/ssh断线后自动重连" target="_blank">阅读全文——共731字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4473 post type-post status-publish format-standard hentry category-linux category-netmngr tag-ssh tag-821 tag-820" id="post-4473"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4473" title="链接到 ssh无密码登入设置(完全版)/linux下免输入密码ssh登录">ssh无密码登入设置(完全版)/linux下免输入密码ssh登录</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4473" title="00:34" rel="bookmark">2011/05/22</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4473#respond" title="《ssh无密码登入设置(完全版)/linux下免输入密码ssh登录》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4473" title="ssh无密码登入设置(完全版)/linux下免输入密码ssh登录"></a><p>配置ssh不需要密码登录远程主机，网上有很多文章，但好像完整的不多，笔者参照操作，但得到消息：<br />
+Agent admitted failure to sign using the key.<br />
+原来是没有启动ssh-agent及把私钥加入到ssh-agent，参考如下文章得以解决问题。下文是完整的配置无密码登录ssh远程主机的方法，推荐参阅。<br />
+[注]正文来自http://www.jiangmiao.org/blog/559.html，在此表示感谢！<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4473" title="ssh无密码登入设置(完全版)/linux下免输入密码ssh登录" target="_blank">阅读全文——共1349字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4468 post type-post status-publish format-standard hentry category-linux tag-ssh" id="post-4468"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4468" title="链接到 SSH连接时报错警告消息:Reverse Mapping Checking - Possible Break-in Attempt Error with SSH">SSH连接时报错警告消息:Reverse Mapping Checking - Possible Break-in Attempt Error with SSH</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4468" title="23:52" rel="bookmark">2011/05/21</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4468#respond" title="《SSH连接时报错警告消息:Reverse Mapping Checking - Possible Break-in Attempt Error with SSH》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4468" title="SSH连接时报错警告消息:Reverse Mapping Checking - Possible Break-in Attempt Error with SSH"></a><p>今天使用SSH连接vps，出现警示消息：<br />
+[feng@fsc ~]$ ssh root@v.path8.net<br />
+Address 173.245.70.75 maps to domain.not.configured, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!<br />
+上网查询得到如下内容http://blog.csdn.net/dingxy/archive/2008/05/05/2394900.aspx，好像是跟ip反解析有关，不影响ssh的使用，于是不过多管它。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4468" title="SSH连接时报错警告消息:Reverse Mapping Checking - Possible Break-in Attempt Error with SSH" target="_blank">阅读全文——共2705字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4301 post type-post status-publish format-standard hentry category-linux category-private tag-linux tag-ssh tag-256 tag-701 tag-147" id="post-4301"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4301" title="链接到 回答：关于linux的远程连接管理">回答：关于linux的远程连接管理</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4301" title="23:28" rel="bookmark">2011/03/23</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4301#respond" title="《回答：关于linux的远程连接管理》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4301" title="回答：关于linux的远程连接管理"></a><p>这是一次跟网友的交谈记录，关于linux远程管理的，整理不足比较乱。<br />
+收到网友的提问：您好，我刚换的linux，不知如何远程连接，您对这个了解吗？<br />
+回答：不知道你所说的“远程连接”指的是什么，是使用用linux连接其它的机器呢，还是在其它机器上连接linux呢？还有“连接”的目的是什么，是想ftp访问，或是局域网共享，或是远程桌面？ 还有你的linux 是哪个发行版，哪个版本？<br />
+我使用fedora14.<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4301" title="回答：关于linux的远程连接管理" target="_blank">阅读全文——共1608字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4287 post type-post status-publish format-standard hentry category-linux category-network-technology tag-ssh tag-782" id="post-4287"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4287" title="链接到 使用 sshfs 映射远程 ssh 文件系统为本地磁盘">使用 sshfs 映射远程 ssh 文件系统为本地磁盘</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4287" title="00:35" rel="bookmark">2011/03/21</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4287#respond" title="《使用 sshfs 映射远程 ssh 文件系统为本地磁盘》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4287" title="使用 sshfs 映射远程 ssh 文件系统为本地磁盘"></a><p>SSH 是一个强大且安全的工具，我们除了可以用它来远程管理主机外，还可以通过它建立 SSH tunnel 作 Proxy 用， 远程传输文件等等。而这里我想要介绍另外一个功能，那就是结合 sshfs 这个工具可以把远程主机的文件系统映射到本地主机上，透过 SSH  把远程文件系统挂载到本机上，这样我们可以不必使用 scp 工具就可以做到直接复制及删除远程主机的文件了，就像操作本地磁盘一样方便。<br />
+sshfs 是基于 FUSE 构建的 SSH 文件系统客户端程序，通过它远程主机的配置无需作任何改变，就可以透过 SSH 协议来挂载远程文件系统了，非常方便及安全。<br />
+主页：http://fuse.sourceforge.net/sshfs.html<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4287" title="使用 sshfs 映射远程 ssh 文件系统为本地磁盘" target="_blank">阅读全文——共696字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4285 post type-post status-publish format-standard hentry category-network-technology tag-ssh tag-781 tag-780" id="post-4285"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4285" title="链接到 通过SSH实现 端口映射/端口转发">通过SSH实现 端口映射/端口转发</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4285" title="00:32" rel="bookmark">2011/03/21</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4285#comments" title="《通过SSH实现 端口映射/端口转发》上的评论">1 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4285" title="通过SSH实现 端口映射/端口转发"></a><p>可以将远端服务器一个端口remote_port绑定到本地端口port，其中-C是进行数据压缩，-f是后台操作，只有当提示用户名密码的时候才转向前台。-N是不执行远端命令，在只是端口转发时这条命令很有用处。-g 是允许远端主机连接本地转发端口。-R表明是将远端主机端口映射到本地端口。如果是-L，则是将本地端口映射到远端主机端口。<br />
+ssh的三个强大的端口转发命令：<br />
+转发到远端：ssh -C -f -N -g -L 本地端口:目标IP:目标端口 用户名@目标IP<br />
+转发到本地：ssh -C -f -N -g –R 本地端口:目标IP:目标端口 用户名@目标IP<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4285" title="通过SSH实现 端口映射/端口转发" target="_blank">阅读全文——共1245字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4214 post type-post status-publish format-standard hentry category-network-technology tag-putty tag-ssh tag-771" id="post-4214"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4214" title="链接到 利用Putty通过ssh端口转发实现访问/ssh本地代理服务器">利用Putty通过ssh端口转发实现访问/ssh本地代理服务器</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4214" title="13:34" rel="bookmark">2011/03/16</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4214#respond" title="《利用Putty通过ssh端口转发实现访问/ssh本地代理服务器》上的评论">没有评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4214" title="利用Putty通过ssh端口转发实现访问/ssh本地代理服务器"></a><p>利用Putty通过ssh端口转发实现代理访问<br />
+具体配置过程：<br />
+在SSH登录工具Putty的登录设置中配置tunnel，目标设置为Dynamic，添加一个端口7070，再按Add，一个动态转发端口就实现了；<br />
+然后用相应帐号ssh登录后：除了登录的终端窗口意外，本地的7070连服务器的22端口之间就有了一个SSH加密的转发通道了。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4214" title="利用Putty通过ssh端口转发实现访问/ssh本地代理服务器" target="_blank">阅读全文——共772字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+		<div class="post-4198 post type-post status-publish format-standard hentry category-337 tag-android tag-connectbot tag-ssh" id="post-4198"><!-- post div -->
+		<h2 class="title"><a href="http://www.path8.net/tn/archives/4198" title="链接到 ConnectBot: 推荐Android上的一款带SSH 客户端功能的终端模拟软件Terminal Emulator">ConnectBot: 推荐Android上的一款带SSH 客户端功能的终端模拟软件Terminal Emulator</a></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				作者: <a href="http://www.path8.net/tn/archives/author/admin" title="查看 feng 的所有文章" rel="author">feng</a>
+				日期: <a href="http://www.path8.net/tn/archives/4198" title="09:53" rel="bookmark">2011/03/12</a>
+							</span>
+			<span id="gotocomments"><a href="http://www.path8.net/tn/archives/4198#comments" title="《ConnectBot: 推荐Android上的一款带SSH 客户端功能的终端模拟软件Terminal Emulator》上的评论">2 条评论</a></span>
+		</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<a href="http://www.path8.net/tn/archives/4198" title="ConnectBot: 推荐Android上的一款带SSH 客户端功能的终端模拟软件Terminal Emulator"></a><p>ConnectBot: 推荐Android上的一款带SSH 客户端功能的终端模拟软件Terminal Emulator<br />
+ConnectBot是托管于google code的项目：http://code.google.com/p/connectbot/<br />
+下载地址 http://code.google.com/p/connectbot/downloads/list<br />
+据说它具有类似putty，利用connectbot的端口转发也能实现手机翻墙的功能，但没有试用。<br />
+<span class="readmore"><a href="http://www.path8.net/tn/archives/4198" title="ConnectBot: 推荐Android上的一款带SSH 客户端功能的终端模拟软件Terminal Emulator" target="_blank">阅读全文——共270字</a></span></p>
+		</div><!-- END entry -->
+	</div><!-- END post -->
+	<!-- pb259 --><div class="pagebar">Pages:&nbsp;<span class="this-page">1</span>
+<a href="http://www.path8.net/tn/archives/tag/ssh/page/2" title="Page 2">2</a>
+<a href="http://www.path8.net/tn/archives/tag/ssh/page/2" title="Page 2">Next</a>
+</div><div id="pagination"><a href="http://www.path8.net/tn/archives/tag/ssh/page/2" >下一页 &raquo;</a></div></div><!--content-->
+<div id="sidebar-border">
+	<div id="rss_border">
+		<div class="rss_border">
+			<div id="rss_wrap">
+				<div class="rss_wrap">
+										<a class="rss " href="http://www.path8.net/tn/feed" rel="bookmark" title="RSS 订阅">RSS 订阅</a>
+										<a class="twitter" href="http://twitter.com/fengyqf" rel="author" title="Follow me on twitter.">Follow me on twitter.</a>
+																													</div>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar">
+
+<div id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widgettitle">标签</h3><div class="tagcloud"><a href='http://www.path8.net/tn/archives/tag/apache' class='tag-link-65' title='30 个话题' style='font-size: 13.577235772358pt;'>apache</a>
+<a href='http://www.path8.net/tn/archives/tag/asp' class='tag-link-100' title='9 个话题' style='font-size: 8pt;'>asp</a>
+<a href='http://www.path8.net/tn/archives/tag/baidu' class='tag-link-37' title='11 个话题' style='font-size: 8.9105691056911pt;'>baidu</a>
+<a href='http://www.path8.net/tn/archives/tag/fedora' class='tag-link-139' title='10 个话题' style='font-size: 8.4552845528455pt;'>fedora</a>
+<a href='http://www.path8.net/tn/archives/tag/fkgxx' class='tag-link-751' title='10 个话题' style='font-size: 8.4552845528455pt;'>fkgxx</a>
+<a href='http://www.path8.net/tn/archives/tag/google' class='tag-link-52' title='18 个话题' style='font-size: 11.186991869919pt;'>google</a>
+<a href='http://www.path8.net/tn/archives/tag/http' class='tag-link-152' title='15 个话题' style='font-size: 10.276422764228pt;'>http</a>
+<a href='http://www.path8.net/tn/archives/tag/iis' class='tag-link-92' title='11 个话题' style='font-size: 8.9105691056911pt;'>IIS</a>
+<a href='http://www.path8.net/tn/archives/tag/linux' class='tag-link-8' title='168 个话题' style='font-size: 22pt;'>Linux</a>
+<a href='http://www.path8.net/tn/archives/tag/mssql' class='tag-link-101' title='13 个话题' style='font-size: 9.7073170731707pt;'>mssql</a>
+<a href='http://www.path8.net/tn/archives/tag/mysql' class='tag-link-111' title='58 个话题' style='font-size: 16.764227642276pt;'>MySQL</a>
+<a href='http://www.path8.net/tn/archives/tag/php' class='tag-link-21' title='58 个话题' style='font-size: 16.764227642276pt;'>PHP</a>
+<a href='http://www.path8.net/tn/archives/tag/rewrite' class='tag-link-115' title='10 个话题' style='font-size: 8.4552845528455pt;'>rewrite</a>
+<a href='http://www.path8.net/tn/archives/tag/search-engin-optimze' class='tag-link-19' title='17 个话题' style='font-size: 10.959349593496pt;'>SEO</a>
+<a href='http://www.path8.net/tn/archives/tag/sql' class='tag-link-242' title='10 个话题' style='font-size: 8.4552845528455pt;'>sql</a>
+<a href='http://www.path8.net/tn/archives/tag/sql-server' class='tag-link-121' title='15 个话题' style='font-size: 10.276422764228pt;'>SQL Server</a>
+<a href='http://www.path8.net/tn/archives/tag/sql%e6%b3%a8%e5%85%a5' class='tag-link-168' title='12 个话题' style='font-size: 9.2520325203252pt;'>sql注入</a>
+<a href='http://www.path8.net/tn/archives/tag/ssh' class='tag-link-257' title='18 个话题' style='font-size: 11.186991869919pt;'>SSH</a>
+<a href='http://www.path8.net/tn/archives/tag/vi' class='tag-link-161' title='10 个话题' style='font-size: 8.4552845528455pt;'>vi</a>
+<a href='http://www.path8.net/tn/archives/tag/vim' class='tag-link-369' title='13 个话题' style='font-size: 9.7073170731707pt;'>vim</a>
+<a href='http://www.path8.net/tn/archives/tag/web%e5%ae%89%e5%85%a8' class='tag-link-44' title='9 个话题' style='font-size: 8pt;'>web安全</a>
+<a href='http://www.path8.net/tn/archives/tag/windows' class='tag-link-150' title='11 个话题' style='font-size: 8.9105691056911pt;'>windows</a>
+<a href='http://www.path8.net/tn/archives/tag/wordpress' class='tag-link-193' title='26 个话题' style='font-size: 12.894308943089pt;'>wordpress</a>
+<a href='http://www.path8.net/tn/archives/tag/yum' class='tag-link-107' title='10 个话题' style='font-size: 8.4552845528455pt;'>YUM</a>
+<a href='http://www.path8.net/tn/archives/tag/%e4%b8%8a%e6%b5%b7' class='tag-link-417' title='11 个话题' style='font-size: 8.9105691056911pt;'>上海</a>
+<a href='http://www.path8.net/tn/archives/tag/%e4%bc%98%e5%8c%96' class='tag-link-169' title='19 个话题' style='font-size: 11.414634146341pt;'>优化</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%86%85%e6%a0%b8' class='tag-link-423' title='17 个话题' style='font-size: 10.959349593496pt;'>内核</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%87%bd%e6%95%b0' class='tag-link-163' title='10 个话题' style='font-size: 8.4552845528455pt;'>函数</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%88%86%e5%8c%ba%e8%a1%a8' class='tag-link-596' title='12 个话题' style='font-size: 9.2520325203252pt;'>分区表</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%8e%86%e5%8f%b2' class='tag-link-667' title='11 个话题' style='font-size: 8.9105691056911pt;'>历史</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%91%bd%e4%bb%a4' class='tag-link-155' title='28 个话题' style='font-size: 13.235772357724pt;'>命令</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%9c%b0%e5%9b%be' class='tag-link-416' title='14 个话题' style='font-size: 10.048780487805pt;'>地图</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ad%97%e7%ac%a6' class='tag-link-362' title='11 个话题' style='font-size: 8.9105691056911pt;'>字符</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ae%89%e5%85%a8' class='tag-link-33' title='22 个话题' style='font-size: 12.09756097561pt;'>安全</a>
+<a href='http://www.path8.net/tn/archives/tag/%e5%ae%89%e8%a3%85' class='tag-link-75' title='14 个话题' style='font-size: 10.048780487805pt;'>安装</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%95%99%e7%a8%8b' class='tag-link-133' title='9 个话题' style='font-size: 8pt;'>教程</a>
+<a href='http://www.path8.net/tn/archives/tag/filesystem' class='tag-link-124' title='9 个话题' style='font-size: 8pt;'>文件系统</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%97%a0%e7%ba%bf' class='tag-link-34' title='30 个话题' style='font-size: 13.577235772358pt;'>无线</a>
+<a href='http://www.path8.net/tn/archives/tag/%e6%b3%a8%e5%85%a5' class='tag-link-166' title='11 个话题' style='font-size: 8.9105691056911pt;'>注入</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%99%be%e5%ba%a6' class='tag-link-36' title='12 个话题' style='font-size: 9.2520325203252pt;'>百度</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a0%b4%e8%a7%a3' class='tag-link-32' title='20 个话题' style='font-size: 11.642276422764pt;'>破解</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a1%ac%e7%9b%98' class='tag-link-196' title='21 个话题' style='font-size: 11.869918699187pt;'>硬盘</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%a4%be%e4%bc%9a%e5%b7%a5%e7%a8%8b%e5%ad%a6' class='tag-link-48' title='9 个话题' style='font-size: 8pt;'>社会工程学</a>
+<a href='http://www.path8.net/tn/archives/tag/%e7%bc%96%e7%a0%81' class='tag-link-363' title='13 个话题' style='font-size: 9.7073170731707pt;'>编码</a>
+<a href='http://www.path8.net/tn/archives/tag/%e9%85%8d%e7%bd%ae' class='tag-link-129' title='29 个话题' style='font-size: 13.463414634146pt;'>配置</a></div>
+</div><div id="text-7" class="widget widget_text"><h3 class="widgettitle">t.sina</h3>			<div class="textwidget"><iframe id="sina_widget_1094951817" style="width:100%; height:500px;" frameborder="0" scrolling="no" src="http://v.t.sina.com.cn/widget/widget_blog.php?uid=1094951817&height=500&skin=wd_01&showpic=1"></iframe></div>
+		</div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle">近期文章</h3>		<ul>
+				<li><a href="http://www.path8.net/tn/archives/4940" title="上海交通大学教授de量子医学通过中央电视台“走近科学”">上海交通大学教授de量子医学通过中央电视台“走近科学”</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4925" title="解决ssh连接linux服务器速度慢">解决ssh连接linux服务器速度慢</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4921" title="putty详细使用说明 (windows下)">putty详细使用说明 (windows下)</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4912" title="[转]Pentadactyl,让firefox按vim习惯运行的插件">[转]Pentadactyl,让firefox按vim习惯运行的插件</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4908" title="Linux下使用sed编辑器详解">Linux下使用sed编辑器详解</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4892" title="悲剧，狗爹虚拟主机的ssh禁用转发了">悲剧，狗爹虚拟主机的ssh禁用转发了</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4876" title="简明 Vim 练级攻略">简明 Vim 练级攻略</a></li>
+				<li><a href="http://www.path8.net/tn/archives/4873" title="centos 6 linux下禁用触摸板（通过命令行实现）">centos 6 linux下禁用触摸板（通过命令行实现）</a></li>
+		<!-- pb259 --><div class="pagebar">Pages:&nbsp;<span class="this-page">1</span>
+<a href="http://www.path8.net/tn/archives/tag/ssh/page/2" title="Page 2">2</a>
+<a href="http://www.path8.net/tn/archives/tag/ssh/page/2" title="Page 2">Next</a>
+</div>		</ul>
+		</div><div id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widgettitle">近期评论</h3><ul id="recentcomments"><li class="recentcomments"><a href='http://yoyo.play175.com/' rel='external nofollow' class='url'>yoyo</a> 发表在《<a href="http://www.path8.net/tn/archives/4796/comment-page-1#comment-9400">htaccess 控制目录浏览</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9390">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">强少爷 发表在《<a href="http://www.path8.net/tn/archives/1889/comment-page-1#comment-9362">TortoiseSVN 405错误：服务器发送了意外的返回值(405 Method Not Allowed)，在响应 “MKCOL” 的请求</a>》</li><li class="recentcomments">feng 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9264">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">薇 发表在《<a href="http://www.path8.net/tn/archives/2641/comment-page-1#comment-9257">wordpress首页只显示某个分类的文章/插件实现（完美实现，附插件源码）</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/mesgbox/comment-page-1#comment-9220">敬请留言</a>》</li><li class="recentcomments">小孟 发表在《<a href="http://www.path8.net/tn/archives/2044/comment-page-1#comment-9219">iis下PHP扩展安装scws手记/PHP Startup: Unable to load dynami library</a>》</li><li class="recentcomments">Luy 发表在《<a href="http://www.path8.net/tn/why-luowuzhe/comment-page-1#comment-8771">why “落伍者”?</a>》</li><li class="recentcomments"><a href='http://www.huangjianyu.netai.net/2012/01/30/%e6%9e%81%e7%ae%80%e5%8d%95%e7%ae%80%e9%99%8b%e7%9a%84wordpress%e6%8f%92%e4%bb%b6%ef%bc%9a%e7%bd%91%e7%ab%99%e8%ae%bf%e5%ae%a2%e8%bf%bd%e8%b8%aa%e8%ae%b0%e5' rel='external nofollow' class='url'>极简单/简陋的wordpress插件：网站访客追踪记录 | Huang Jianyu 黄建宇&#039;s SKY</a> 发表在《<a href="http://www.path8.net/tn/archives/145/comment-page-1#comment-8498">极简单/简陋的wordpress插件：网站访客追踪记录</a>》</li><li class="recentcomments"><a href='http://www.gotousa.tk' rel='external nofollow' class='url'>james</a> 发表在《<a href="http://www.path8.net/tn/archives/145/comment-page-1#comment-8497">极简单/简陋的wordpress插件：网站访客追踪记录</a>》</li></ul></div><div id="categories-3" class="widget widget_categories"><h3 class="widgettitle">分类目录</h3>		<ul>
+	<li class="cat-item cat-item-9"><a href="http://www.path8.net/tn/archives/category/ee" title="查看 e搞 下的所有文章">e搞</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.path8.net/tn/archives/category/linux" title="查看 Linux 下的所有文章">Linux</a>
+<ul class='children'>
+	<li class="cat-item cat-item-568"><a href="http://www.path8.net/tn/archives/category/linux/shell-programming" title="查看 shell编程 下的所有文章">shell编程</a>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://www.path8.net/tn/archives/category/linux/filesystem" title="查看 文件系统 下的所有文章">文件系统</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.path8.net/tn/archives/category/web-technique" title="查看 web技术 下的所有文章">web技术</a>
+<ul class='children'>
+	<li class="cat-item cat-item-209"><a href="http://www.path8.net/tn/archives/category/web-technique/apache-web-technique" title="查看 apache 下的所有文章">apache</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.path8.net/tn/archives/category/web-technique/asp-note" title="查看 Asp 下的所有文章">Asp</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.path8.net/tn/archives/category/web-technique/ms-sql-server" title="查看 ms sql 下的所有文章">ms sql</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.path8.net/tn/archives/category/web-technique/mysql-server" title="查看 MySQL 下的所有文章">MySQL</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.path8.net/tn/archives/category/web-technique/php-hypertext-preprocessor" title="查看 PHP 下的所有文章">PHP</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-309"><a href="http://www.path8.net/tn/archives/category/%e4%ba%92%e8%81%94%e7%bd%91" title="查看 互联网 下的所有文章">互联网</a>
+</li>
+	<li class="cat-item cat-item-337"><a href="http://www.path8.net/tn/archives/category/%e4%bc%98%e7%a7%80%e8%bd%af%e4%bb%b6" title="查看 优秀软件 下的所有文章">优秀软件</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.path8.net/tn/archives/category/private" title="查看 原创文章 下的所有文章">原创文章</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="http://www.path8.net/tn/archives/category/%e4%b9%b1%e4%b8%83%e5%85%ab%e7%b3%9f" title="查看 大杂烩 下的所有文章">大杂烩</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.path8.net/tn/archives/category/character-encoding" title="查看 字符编码 下的所有文章">字符编码</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.path8.net/tn/archives/category/security" title="查看 安全意识 下的所有文章">安全意识</a>
+<ul class='children'>
+	<li class="cat-item cat-item-224"><a href="http://www.path8.net/tn/archives/category/security/web%e5%ae%89%e5%85%a8-netmngr" title="查看 web安全 下的所有文章">web安全</a>
+</li>
+	<li class="cat-item cat-item-172"><a href="http://www.path8.net/tn/archives/category/security/%e6%97%a0%e7%ba%bf%e5%ae%89%e5%85%a8" title="查看 无线安全 下的所有文章">无线安全</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-627"><a href="http://www.path8.net/tn/archives/category/%e5%bc%80%e5%8f%91%e5%8d%8f%e4%bd%9c" title="查看 开发协作 下的所有文章">开发协作</a>
+</li>
+	<li class="cat-item cat-item-787"><a href="http://www.path8.net/tn/archives/category/%e6%80%9d%e4%b9%8b%e5%b1%91" title="查看 思之屑 下的所有文章">思之屑</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.path8.net/tn/archives/category/os" title="查看 操作系统 下的所有文章">操作系统</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.path8.net/tn/archives/category/uncategory" title="查看 未分类 下的所有文章">未分类</a>
+</li>
+	<li class="cat-item cat-item-171"><a href="http://www.path8.net/tn/archives/category/%e7%bd%91%e7%ab%99%e8%bf%90%e8%90%a5" title="查看 网站运营 下的所有文章">网站运营</a>
+<ul class='children'>
+	<li class="cat-item cat-item-19"><a href="http://www.path8.net/tn/archives/category/%e7%bd%91%e7%ab%99%e8%bf%90%e8%90%a5/search-engin-optimze" title="查看 SEO 下的所有文章">SEO</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.path8.net/tn/archives/category/netmngr" title="查看 网络管理 下的所有文章">网络管理</a>
+<ul class='children'>
+	<li class="cat-item cat-item-29"><a href="http://www.path8.net/tn/archives/category/netmngr/server-management" title="查看 服务器管理 下的所有文章">服务器管理</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.path8.net/tn/archives/category/netmngr/network-technology" title="network technique, such as LAN, router, etc.">网络技术</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.path8.net/tn/archives/category/free-sprite" title="查看 自由精神 下的所有文章">自由精神</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.path8.net/tn/archives/category/lay-casually" title="查看 随便放着 下的所有文章">随便放着</a>
+</li>
+		</ul>
+</div><div id="meta-2" class="widget widget_meta"><h3 class="widgettitle">功能</h3>			<ul>
+			<li><a href="http://www.path8.net/tn/wp-login.php?action=register">注册</a></li>			<li><a href="http://www.path8.net/tn/wp-login.php">登录</a></li>
+			<li><a href="http://www.path8.net/tn/feed" title="使用 RSS 2.0 订阅本站点内容">文章 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.path8.net/tn/comments/feed" title="使用 RSS 订阅本站点的所有文章的近期评论">评论 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="基于 WordPress，一个优美、先进的个人信息发布平台。">WordPress.org</a></li>
+						</ul>
+</div><div id="text-8" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9779277-2']);
+  _gaq.push(['_setDomainName', 'path8.net']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="http://js.tongji.linezing.com/824456/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/824456/tongji.gif"/></a></noscript></div>
+		</div>
+
+	</div><!-- end: #sidebar -->
+</div><!-- end: #sidebar-border --></div><!--wrapper-->
+<div class="clear"></div>
+<div id="footer">
+	<div id="footer-inside">
+		<p>
+			版权所有 &copy; 2012 点滴之间 聚沙成金			| Theme <a href="http://zww.me" title="designed by zwwooooo">zBench</a>
+			| Powered by <a href="http://wordpress.org/">WordPress</a> 
+		</p>
+		<span id="back-to-top">&uarr; <a href="#" rel="nofollow" title="Back to top">回到顶部</a></span>
+	</div>
+</div><!--footer-->
+<!-- AdSense Manager v4.0.2 (0.243 seconds.) --></body>
+</html>

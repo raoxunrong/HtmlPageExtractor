@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta NAME="Keywords" CONTENT="搞笑铃声,免费铃声,彩铃,手机彩铃,彩铃下载,铃声下载">
+<meta NAME="Description" CONTENT="搜狐铃声频道,为你提供最热门、最搞笑的手机彩铃和手机铃声下载,更有网友上传免费铃声任你下载，绝对满足你的期望，让你的手机与众不同。">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="robots" content="all" />
+<meta name="author" content="搜狐 www.sohu.com" />
+<link rel="shortcut icon" href="http://www.sohu.com/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://www.sohu.com/favicon.ico" type="image/x-icon" /> 
+<link type="text/css" rel="stylesheet" href="http://img.mms.sohu.com/m/msite/ring/ring.css"  />
+<link type="text/css" rel="stylesheet" href="http://img.mms.sohu.com/m/msite/phone/tango/jquery.jcarousel.css" />
+<link type="text/css" rel="stylesheet" href="http://img.mms.sohu.com/m/msite/phone/tango/skin.css" /> 
+<link type="text/css" rel="stylesheet" href="http://img.mms.sohu.com/m/msite/login/login.css" />
+<link type="text/css" rel="stylesheet" href="http://img.mms.sohu.com/rbt/rbt0316/card.css" /> 
+<link type="text/css" rel="stylesheet" href="http://img.mms.sohu.com/m/msite/popphone/jquery.jcarousel.css" />
+<link type="text/css" rel="stylesheet" href="http://img.mms.sohu.com/m/msite/popphone/skin.css" />
+<link type="text/css" rel="stylesheet" href="http://img.mms.sohu.com/m/msite/popphone/active.css" />
+<link type="text/css" rel="stylesheet" href="http://share.m.sohu.com/modelsdianping/rater-star.css" />
+
+<script type="text/javascript" src="http://img.mms.sohu.com/m/msite/js/jquery13.js"></script>
+<script type="text/javascript" src="http://img.mms.sohu.com/m/msite/js/jquery.jcarousel.pack.js"></script>
+<script type="text/javascript" src="http://img.mms.sohu.com/m/msite/js/common.js"></script>
+<script type="text/javascript" >
+var msohu_pagetype;
+</script>
+
+<title>手机铃声-手机玩家-搜狐</title>
+<style type="text/css">
+	.pageall{ display:block; clear:both;}.pageall table{width:95%; }
+	.pageall td{ font-size:13px; height:34px; line-height:34px; text-align:center;}
+	.pageall span{ list-style-type:none; margin-left:2px; }
+	.pageall a:link{ color:#0000ff; text-decoration:none;}
+	.pageall a:visited{ color:#0000ff; text-decoration:none;}
+	.pageall a:hover{ text-decoration:underline; color:#0000ff;}
+</style>
+</head>
+<body ><!--以下为导航部分-->
+<link href="http://sports.sohu.com/upload/sohuindexnevmediatech/sohu_indexNav.css" rel="stylesheet" type="text/css" />
+<style>
+.Area_w{width:950px;}
+#sohu_logo{left:0!important;left:-3px;}
+</style>
+<center>
+<div class="Area_w" id="criterionNav">
+<a id="sohu_logo" href="http://www.sohu.com/"><img height="22" alt="搜狐网站" src="http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif" border="0"  /></a><a id="sohu_sec_logo" href="http://m.sohu.com/"><img height="22" alt="搜狐手机玩家" src="http://img.mms.sohu.com/m/msite/index/images/mlogo.jpg" border="0" /></a>
+<iframe src='http://gongyi.sohu.com/s2008/1467/s260954364/' frameBorder=0 scrolling=no class="ejy_navi"></iframe>
+</div>
+</center>
+
+<div class="nav1">
+<ul class="f14 white">
+        <li class="nav1_off"><a href="http://m.sohu.com">首 页</a></li>
+        <li class="nav1_off"><a href="http://app.m.sohu.com">手机软件</a></li>
+        <li class="nav1_off"><a href="http://game.m.sohu.com" target="_blank">手机游戏</a></li>
+        <li class="nav1_off"><a href="http://img.m.sohu.com">手机图片</a></li>
+<!--         <li class="nav1_ont"><a href="http://ring.m.sohu.com">手机铃声</a></li> -->
+        <li class="nav1_off"><a href="http://mobile.m.sohu.com">手机大全</a></li>
+</ul>
+
+<span>
+<form name="seekforall" onsubmit="javascript:searchforall();return false;">
+<input  name="keyword" type="text" value="铃声 图片 游戏 软件 手机"   id="sykeyword"    />
+<input type="image" src="http://img.mms.sohu.com/m/msite/search/images/btn_sear.gif" alt="搜索" border="0" style="width:37px;height:25px;border:none;"  />
+</form>
+</span>
+<script language="javascript">
+<!--
+   String.prototype.trim = function() {
+      return this.replace(/(^\s*)|(\s*$)/g, "");
+   }
+   function searchforall() {  
+      if((document.seekforall.keyword.value).trim() == "" ) {
+          alert("请输入搜索关键字！");
+          document.seekforall.keyword.focus();
+          return(false);
+      }  
+      document.seekforall.action = "http://m.sohu.com/search/index.jsp";
+      document.seekforall.submit();
+   }
+
+ function addListener(element,e,fn){ 
+             if(element.addEventListener){ 
+             element.addEventListener(e,fn,false); 
+             } else { 
+              element.attachEvent("on" + e,fn); 
+              } 
+            } 
+            var sykeyword = document.getElementById("sykeyword"); 
+            addListener(sykeyword,"click",function(){ 
+if(sykeyword.value== "铃声 图片 游戏 软件 手机" ){
+                sykeyword.value = ""; 
+}
+            }) 
+            addListener(sykeyword,"blur",function(){ 
+if(sykeyword.value== "" ){
+                sykeyword.value = "铃声 图片 游戏 软件 手机"; 
+}
+            }) 
+//-->
+</script>
+
+</div>
+<div class="usernav" style="position:relative; z-index:80;">
+	<div id='msohuloginxxx'>
+	</div>
+	<div style="display:none; position:absolute; z-index:0; top:28px; left:669px;" id="expdiv_sohu"><center><div id="expdiv"></div>
+	</center></div>
+</div>
+<div class="mainbg">
+<div class="fenl_l">
+		<div class="borbg">
+         <div class="pad11">
+          <div class="r_tit1_s">小编推荐</div>
+         </div>
+         <ul>
+          <li id="flon">编辑首页</li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/index.html">推荐首页</a></li>
+          <!--li class="blue1"><a href="http://ring.m.sohu.com/top/index.html">榜单大全</a></li-->
+         </ul>
+        </div>
+		<div class="blank6"></div>
+		<!--div class="borbg">
+         <div class="pad11"><div class="r_tit1_s">手机音乐榜单</div></div>
+         <ul>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl15_1.html">超级畅销榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl2_1.html">整蛊搞笑榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl3_1.html">经典怀旧榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl1_1.html">网络情歌榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl13_1.html">情歌对唱榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl19_1.html">动感舞曲榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl6_1.html">影视热歌榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl12_1.html">红歌流行榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl10_1.html">古典民乐榜</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/cl14_1.html">粤语排行榜</a></li>
+		  <li class="blue1"><a href="http://ring.m.sohu.com/top/cl5_1.html">潮流日韩榜</a></li>
+		  <li class="blue1"><a href="http://ring.m.sohu.com/top/cl4_1.html">时尚欧美榜</a></li>
+          <div style="clear:both"></div>
+         </ul>
+        </div>
+        <div class="blank6"></div-->
+<!-- 		<div class="borbg">
+         <div class="pad11"><div class="r_tit1_s">VIP铃声专区</div></div>
+         <ul>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/zl2649_1.html">魅力和弦</a></li>
+          <div style="clear:both"></div>
+         </ul>
+        </div>
+        <div class="blank6"></div>
+		<div class="borbg" style="display:none;">
+         <div class="pad11"><div class="r_tit1_s">VIP铃声专区</div></div>
+         <ul>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/zl3298_1.html">MP3铃声</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/zl2213_1.html">原唱KTV</a></li>
+          <li class="blue1"><a href="http://ring.m.sohu.com/top/zl1500_1.html">疯狂音效</a></li>
+          <div style="clear:both"></div>
+         </ul>
+        </div>
+        <div class="blank6"></div> -->
+
+		<!--div class="borbg">
+         <div class="pad11"><div class="r_tit1_s">铃声分类推荐</div></div>
+         <ul>
+          <li class="blue1"><a href="#">逗乐恶搞趣铃</a></li>
+          <li class="blue1"><a href="#">方言铃</a></li>
+          <li class="blue1"><a href="#">童言铃</a></li>
+          <li class="blue1"><a href="#">热辣劲爆迪曲</a></li>
+          <li class="blue1"><a href="#">经典游戏铃声</a></li>
+          <div style="clear:both"></div>
+         </ul>
+        </div-->
+	</div>
+<!-- 
+<div class="fenl_r">
+     <div class="tuijian_l">
+      <div class="titBar_tj brown2">推荐看点</div>
+      <div class="tjBox">
+      <a href="http://news.m.sohu.com/s2010/omrg/" target=_blank> <img src="http://images.sohu.com/sms/online/tg/100528_150x150.jpg" border="0"></a>
+       <h2 class="blue1"><a href="http://news.m.sohu.com/s2010/omrg/" target=_blank>欧美流行热歌抢先听！抢先免费下载！</a></h2>
+       <div class="txtBox01">2010年最火欧美最流行热歌是什么？<br>&nbsp;&nbsp;&nbsp;&nbsp;是艾薇儿的Together？是Lady GaGa的Just Dance？<br>&nbsp;&nbsp;&nbsp;&nbsp;是迈克尔&#183;杰克逊的White Or Black？<br>&nbsp;&nbsp;&nbsp;&nbsp;想用它来作为手机铃声来彰显你的个性吗？<br>&nbsp;&nbsp;&nbsp;&nbsp;想免费的拥有它们吗？那就来这里下载吧！[<a href="http://news.m.sohu.com/s2010/omrg/" target="_blank" class="red">更多</a>]</div>
+
+       <div class="box518"><span class="red">【艾薇儿】</span> <a href="http://m.sohu.com/send/122/94/122100794.html" target=_blank><strong>Tomorrow</strong></a> | <a href="http://m.sohu.com/send/122/93/122100793.html" target=_blank><strong>Together</strong></a> | <a href="http://m.sohu.com/send/122/85/122100785.html" target=_blank><strong>Hot</strong></a> | <a href="http://m.sohu.com/send/122/83/122100783.html" target=_blank><strong>Girlfriend</strong></a> | <a href="http://m.sohu.com/send/122/88/122100788.html" target=_blank><strong>My world</strong></a></div>
+       <div class="box518"><span class="red">【Lady GaGa】</span> <a href="http://m.sohu.com/send/122/01/122100801.html" target=_blank><strong>Poke Face</strong></a> | <a href="http://m.sohu.com/send/122/00/122100800.html" target=_blank><strong>Just Dance</strong></a> | <a href="http://m.sohu.com/send/122/02/122101502.html" target=_blank><strong>Telephone</strong></a> | <a href="http://m.sohu.com/send/122/01/122101501.html" target=_blank><strong>Paparazzi</strong></a></div>
+       <div class="box518"><span class="red">【迈克尔&#183;杰克逊】</span> <a href="http://m.sohu.com/send/122/09/122100809.html" target=_blank><strong>You Are My Life</strong></a> | <a href="http://m.sohu.com/send/122/03/122100803.html" target=_blank><strong>Remember The Time</strong></a></div>
+	   <div class="box518"><span class="red">【西域男孩】</span> <a href="http://m.sohu.com/send/122/16/122100816.html" target=_blank><strong>天使angel</strong></a> | <a href="http://m.sohu.com/send/122/11/122100811.html" target=_blank><strong>My Love</strong></a> | <a href="http://m.sohu.com/send/122/13/122100813.html" target=_blank><strong>When I Fall in Love</strong></a></div>
+      </div>
+       
+      <div class="titBar_tj brown2">新热星闻</div>
+      <div class="tjBox">
+       <a href="http://news.m.sohu.com/s2009/xuq/index.shtml?referer=2127" target="_blank"><img src="http://img.mms.sohu.com/m/images/hejiong.jpg" width="144" height="74"></a>
+       <h2 class="blue1"><a href="http://news.m.sohu.com/s2009/hej/?referer=2179" target="_blank">何炅低调婚姻全揭秘 断背恋为何会分手？</a></h2>
+       <div class="txtBox02">早些年有何炅和某歌手现在转行做男主持人的艺人有暧昧不清的传闻，近日网上又爆出何炅已经结婚十年的消息&#8230;&#8230;[<a href="http://news.m.sohu.com/s2009/hej/?referer=2179" target="_blank" class="red">详细</a>][<a href="http://news.m.sohu.com/s2009/guojjhuoqg/?referer=2158" class="red">试听歌曲</a>]</div>
+       <ul class="news">
+        <li>[热点]<a href="http://news.m.sohu.com/s2010/mam/" target="_blank">毛阿敏自曝产子是他全程陪同</a></li>
+        <li>[热点]<a href="http://news.m.sohu.com/s2010/guodg/" target="_blank">郭德纲王惠恋爱“秘史”曝光</a></li>
+        <li>[热点]<a href="http://news.m.sohu.com/s2009/sunyhuangxm/?referer=2161" target="_blank">网友爆料 孙悦曾包养黄晓明？</a></li>
+        <li>[热点]<a href="http://news.m.sohu.com/s2010/dslzl/" target="_blank">拒绝倒插门蓝正龙遭大S封杀</a></li>
+        <div style="clear:both"></div>
+       </ul>
+      </div>
+      
+      <div class="titBar_tj brown2">新热专题</div>
+      <div class="tjBox">
+       <a href="http://news.m.sohu.com/s2010/gexing/" target="_blank"><img src="http://images.sohu.com/sms/online/tg/100401_144x74.jpg" width="144" height="74"></a>
+       <h2 class="blue1"><a href="http://news.m.sohu.com/s2010/gexing/" target="_blank">最震撼情趣个性铃免费下</a></h2>
+       <div class="txtBox02">潮人的你够个性吗？不是穿件潮牌YY、KK、鞋子，戴副潮牌眼镜、镜框，背个潮牌包包你就是“时尚潮人”&#8230;&#8230;[<a href="http://news.m.sohu.com/s2010/gexing/" class="red">详细</a>]</div>
+       <ul class="news">
+        <li>[专题]<a href="http://news.m.sohu.com/s2010/38women/" target="_blank">激情铃寂寞女人必备铃</a></li>
+        <li>[专题]<a href="http://news.m.sohu.com/s2010/jdls/" target="_blank">10大经典手机铃绝对诱惑</a></li>
+        <div style="clear:both"></div>
+       </ul>
+      </div>
+--> 
+      
+      
+      
+      
+      
+<!--      </div>
+     <div class="tuijian_r">
+      <!--div class="tuij_titr black"><span><img src="http://img.mms.sohu.com/m/msite/ring/images/moodMusic.gif" width="16" height="15" /></span><strong>心情音乐</strong></div>
+      <div><iframe src="ring_08.html" scrolling="no" width="222" height="765" frameborder="0" ></iframe></div--> 
+<!--       <div class="tuij_titr black"><span><img src="http://img.mms.sohu.com/m/msite/fenlei/images/gameup.gif" width="15" height="14" /></span><strong>本周铃声下载榜</strong><div id=link><a href="http://www.chinaseniorsupplier.com/" target=_blank><img src="http://m.sohu.com/app/port/test/img/chinaseniorsupplier.gif" alt="china supplier" border=0></a></div></div>
+      <div class="tjlist_r1">
+       <ul class="blue1">
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/l01.gif" /><a href="http://m.sohu.com/send/122/92/122100592.html" target="_blank">老公岗位责任制试行条例</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/l02.gif" /><a href="http://m.sohu.com/send/122/90/122100390.html" target="_blank">河东狮吼老婆版</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/l03.gif" /><a href="http://m.sohu.com/send/122/95/122100395.html" target="_blank">泡妞游击队歌</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/p04.gif" /><a href="http://m.sohu.com/send/122/96/122100396.html" target="_blank">求你别打了-肝肠寸断</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/p05.gif" /><a href="http://m.sohu.com/send/122/49/122100549.html" target="_blank">要娶就娶美羊羊</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/p06.gif" /><a href="http://m.sohu.com/send/122/03/122100703.html" target="_blank">做人要厚道</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/p07.gif" /><a href="http://m.sohu.com/send/122/86/122100586.html" target="_blank">哥打的是寂寞</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/p08.gif" /><a href="http://m.sohu.com/send/122/79/122100379.html" target="_blank">哎呀妈呀</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/p09.gif" /><a href="http://m.sohu.com/send/122/42/122100642.html" target="_blank">大哥，我要劫个色</a></li>
+        <li><img src="http://img.mms.sohu.com/m/msite/fenlei/images/p10.gif" /><a href="http://m.sohu.com/send/122/78/122100178.html" target="_blank"> 无法饶恕-妻子的诱惑</a></li>
+       </ul>
+	   <embed src="http://share.vrs.sohu.com/my/v.swf&id=6202478&skinNum=2&topBar=1" quality="high" bgcolor="#000000" width="222" height="200" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+      </div>
+     </div>
+    </div>
+</div> -->
+<!-- 公司标准尾部版权说明-->
+<center><div class="mainbg"><iframe src="http://gongyi.sohu.com/s2009/1467/s261554451/" width="950" height="50" frameborder="0"  style="margin-left:auto; margin-right:auto;"></iframe></div></center>
+<!-- JS专用-->
+<script src="http://img.mms.sohu.com/m/msite/js/pp18030_22.js" type="text/javascript" charset="gbk"></script>
+<script src="http://img.mms.sohu.com/m/msite/js/pp18030_ui_12.js" type="text/javascript" charset="gbk"></script>
+<link type="text/css" rel="stylesheet" href="http://card.sohu.com/js/card_12.css" charset="gbk"/>
+<script type="text/javascript" src="http://img.mms.sohu.com/m/msite/js/1.js"></script>
+<script type="text/javascript" src="http://img.mms.sohu.com/m/msite/js/popphone.js"></script>
+<script type="text/javascript" src="http://img.mms.sohu.com/m/msite/js/setlogincard_jquery.js"></script>
+<!-- 公司统计-->
+<SCRIPT language=JavaScript src="http://js.sohu.com/pv.js"></SCRIPT>
+<SCRIPT language=javascript src="http://js.sohu.com/wrating0820.js"></SCRIPT>
+<SCRIPT language=javascript>
+var  _wratingId = null;
+try{
+_wratingId = _getAcc();
+}catch(e){}
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>');
+}
+</SCRIPT>
+<SCRIPT language=javascript>
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</SCRIPT>
+<!-- POP专用-->
+<script src="http://img.mms.sohu.com/12530/js/pop12530_init.js"></script>
+</body>
+</html>

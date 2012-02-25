@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>新浪智投_网络广告金算盘</title>
+<link href="css/sina.css" rel="stylesheet" type="text/css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/tween.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+</head>
+
+<body>
+<!--header-->
+<div id="header">
+	<div id="logo"><img src="images/logo.png" alt="新浪智投" title="新浪智投" /></div>
+	<div class="slogan"><img src="images/slogan.png" alt="合作，共赢，与您共同引领未来" title="合作，共赢，与您共同引领未来"></div>
+	<div class="top_links">&#8226;<a href="#">加入收藏</a>&#8226;<a href="#">设为首页</a></div>
+</div>
+<!--nav-->
+<div id="nav">
+	<div class="nav_l"></div>
+	<div class="nav_c">
+		<ul>
+			<li class="current index"><div>首页</div></li>
+			<li><a href="cpys.html">产品优势</a></li>
+			<li><a href="dlzq.html">代理专区</a></li>
+			<li><a href="faq.html">产品FAQ</a></li>
+			<li><a href="fkfs.html">付款方式</a></li>
+			<li><a href="lxwm.html">联系我们</a></li>
+			<li><a href="pinpai/index.html">品牌专区</a></li>
+
+		</ul>
+	</div>	
+	<div class="nav_r"></div>	
+</div>
+<!--container-->
+<div class="container">
+	<div class="column1">
+		<div class="banner" id="lantern_slide">
+		<div id="ge">
+		<div id="bimg">
+			<div class="dis" name="f"><img src="images/ad-01.jpg" /></div>
+			<div class="undis" name="f"><a href="cphzhb.html" target="_blank"><img src="images/ad-02.jpg" /></a></div>
+			<div class="undis" name="f"><a href="index_ppzq.html" target="_blank"><img src="images/ad-04.jpg" /></a></div>
+		<div id="font_hd">	
+		<div id="info"></div>
+		<div class="banner_nav" id="simg">
+			<div class=" " onclick=play(x[0],0) name="f">1</div>
+			<div class="f1" onclick=play(x[1],1) name="f">2</div>
+			<div class="f1" onclick=play(x[2],2) name="f">3</div>		
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		<div class="search">
+			<div class="search_l"></div>
+            <div class="search_c">
+            	<form action="" method="get" id="formgetprice" style="display:none;">
+                </form>
+                <span>CPC价格查询：</span>
+                <select id="cpclist" style="float:left;margin-top: 6px; width: 150px;">
+                </select>
+                <!-- <div class="select">请选择资源</div> -->
+                <input type="button" name="button" class="getprice" value="查询" />
+		<span>包月订单查询：</span>
+                <select id="cpdlist" style="float:left;margin-top: 6px; width: 150px;">
+                </select>
+                <!-- <div class="select">请选择资源</div> -->
+                <input type="button" name="button" class="getprice" value="查询" />
+            </div>
+			<div class="search_r"></div>
+		</div>
+		<div class="zt_info">
+			<div class="zt_info_t"></div>
+			<div class="zt_info_m">
+				<div class="left">
+					<div class="layer1">
+						<h2>什么是新浪智投？</h2>
+						<div class="con">新浪智投是新浪网针对中小企业推出的一种<br />
+					    全新门户广告展现形式。</div>
+						<div class="icon1"></div>
+					</div>
+					<div class="layer1">
+						<h2>新浪智投的产品优势？</h2>
+						<div class="con">1.产品曝光率高，覆盖面广<br />2.创新的推广方式<br />3.灵活的广告结算方式<br />4.广告自主投放，自主管理</div>
+						<div class="icon2"></div>
+					</div>
+					<div class="layer1">
+						<h2>新浪智投的广告形式？</h2>
+						<div class="con">1.文字链<br />2.图片<br />3.图文结合</div>
+						<div class="icon3"></div>
+					</div>
+					<div class="layer1">
+						<h2>智投的售卖方式？</h2>
+						<div class="con">竞价CPC:支持区域定向投放<br />包月：全国 区域 竞拍</div>
+						<div class="icon4"></div>
+					</div>
+				</div>
+				<div class="right">
+					<div class="layer2">
+						<h2>新浪智投的广告资源</h2>
+						<div class="con">
+							<p>新浪为您准备了广泛而显著的推广资源，凭借新浪网“全球最大中文门户”的品牌知名度，30个专业频道的优势资源，使新浪智投广告效果最大化。</p>
+						</div>
+					</div>
+					<div class="layer2">
+						<h2>目前新浪智投广告资源覆盖</h2>
+						<div class="con">
+							<h3>1.新浪首页</h3>
+							<p>新浪网作为全球最大中文门户网，日流量过千万，品牌信任度与海量浏览人群为企业提供优势资源保障。</p><br />
+							<h3>2.新浪网流量量最大的新闻页和评论页。</h3>
+    						<p>新浪新闻页是网民广泛认可的权威性新闻网站，浏览量过亿，顶级广位置，超旺人气迅速拉升企业品牌价值。</p><br />
+							<h3>3.多个频道首页</h3>
+   						 	<p>新浪各频道分页详细，网民分流清晰，频道首页打大浏览量使广告投放目标更准确，针对性更强，接触面更广，信息达成更有效。</p><br />
+						</div>
+					</div>
+				</div>
+			</div>	
+			<div class="zt_info_b"></div>
+		</div>
+		<div class="dls">
+			<h2>代理商专区</h2>
+			<table border="0" cellpadding="0" cellspacing="1">
+				<tr>
+					<th>华 北</th>
+					<td><a href="http://www.hy361.net/" target="_blank">北京互易广告有限公司</a></td>
+					<td><a href="http://www.jiuzhouad.com/" target="_blank">北京九州欢腾广告有限公司</a></td>
+					<td><a href="http://www.sino-ad.com/" target="_blank">北京太和时代国际广告有限公司</a></td>
+					<td><a href="http://www.jituan.net/" target="_blank">北京鼎盛天下科技发展有限公司</a></td>
+					<td><a href="http://www.ctvonline.cn/" target="_blank">中视在线国际传媒集团</a></td>
+				</tr>
+				<tr>
+					<th>华 南</th>
+					<td><a href="http://www.xm-ls.com/" target="_blank">厦门龙商网络技术服务有限公司</a></td>
+					<td><a href="http://www.cnsale.com.cn/" target="_blank">广州隆德信息科技有限公司</a></td>
+					<td><a href="http://www.shiii.net/" target="_blank">施网传媒（深圳）</a></td>
+					<td><a href="http://www.leju-ad.com/web/zhitou/" target="_blank">北京乐居互动广告有限公司</a></td>
+					<td><a href="http://www.ytwlkj.cn/" target="_blank">厦门乙通网络科技有限公司</a></td>
+				</tr>
+				<tr>
+					<th>华 东</th>
+					<td><a href="http://www.iwin-ad.com/" target="_blank">南京万通文化传媒有限公司</a></td>
+					<!-- <td><a href="http://www.zzfujia.com/" target="_blank">河南富嘉文化传播有限公司</a></td> -->
+					<td><a href="http://www.topimc.com/" target="_blank">北京天森广告有限公司</a></td>
+					<td><a href="http://www.desou.com/" target="_blank">上海德搜信息技术有限公司</a></td>
+					<td><a href="http://www.leju-ad.com/web/zhitou/" target="_blank">北京乐居互动广告有限公司</a></td>
+					<td><a href="http://www.whnewnet.com/" target="_blank">武汉新网科技发展有限公司</a></td>
+					<!-- <td><div></div></td> -->
+				</tr>
+		  </table>
+		</div>
+		<div class="ppzq">
+			<h2>品牌专区</h2>
+			<div class="ppzq_m">
+			品牌专区是新浪智投的一项增值业务，为中小企业推广企业品牌和提升品牌价值而服务。
+			<strong>品牌专区给客户带来的价值：</strong>
+			</div>
+			<div class="ppzq_b"></div>
+		</div>
+	</div>
+	<div class="column2">
+		<div class="zxdt">
+		<!-- <h2><a href="#">更多</a>最新动态</h2>
+			<ul style="clear:both;">
+				<li><span>[10-01-01]</span>&#8226;<a href="http://pfp.sina.net/doc/2010Q1reslist.xls" class="new">最新智投2010年Q1资源清单</a></li>
+				<li><span>[10-01-01]</span>&#8226;<a href="cphzhb.html">新浪智投诚招合作伙伴</a></li>
+				<li><span>[09-12-01]</span>&#8226;<a href="dongtai.html">新浪智投新春促销政策</a></li>
+				<li><span>[09-06-10]</span>&#8226;<a href="http://epaper.xplus.com/papers/fzwb/20090610/n195.shtml">新浪“智投”助中小企业渡难关</a></li>
+				<li><span>[09-06-10]</span>&#8226;<a href="http://tech.qq.com/a/20090610/000026.htm">新浪进军中小企业广告市场</a></li>
+			</ul> -->
+            <iframe src="notice.html" frameborder="0" scrolling="no" allowtransparency="true" style="background-color:transparent;width:267px; height:180px;"></iframe>
+		</div>
+		<div class="banner2"><a href="cphzhb.html" target="_blank"><img src="images/banner2.jpg" border="0" /></a></div>
+		<div class="login">
+			<iframe src="http://pfp.sina.net/sso/login/login.html" frameborder="0" scrolling="no" style="width:267px; height:350px;"></iframe>
+		</div>
+		<div class="khal">
+			<h2><a href="#">更多</a>客户案例</h2>
+			<ul>
+				<li>
+					<a href="www.njaccp.com" target="_blank"><img src="images/pic1.png" alt="北大青鸟南京中博软件学校" border="0" /></a>
+				  <p><strong>北大青鸟南京中博软..</strong>我们08年很高兴能跟新浪智投直销部取得联系，从投放以来无论从流量...</p>
+			  </li>
+				<li>
+					<a href="#" target="_blank"><img src="images/pic2.png" alt="广州水木青华广告传播有限公司" border="0" /></a>
+				  <p><strong>广州水木青华广告传..</strong>08年底开始投放新浪智投，起初只是抱着尝试下的心里，试投放后统计的...</p>
+			  </li>
+				<li>
+					<a href="http://www.ejia.com" target="_blank"><img src="images/pic3.png" alt="广州逸网信息科技有限公司" border="0" /></a>
+				  <p><strong>广州逸网信息科技有..</strong>新浪智投项目是E家网09年市场宣传计划中不可或缺的重要部分，目前...</p>
+			  </li>
+				<li>
+					<a href="http://www.loan163.com" target="_blank"><img src="images/pic4.png" alt="上海健诚山电子商务技术有限公司" border="0" /></a>
+				  <p><strong>上海健诚山电子商务..</strong>新浪智投这个平台给新兴的朝阳企业提供了与知名品牌站在同一起跑线竞...</p>
+			  </li>
+		  </ul>
+		</div>
+		<iframe src="contact.html" frameborder="0" scrolling="no" allowtransparency="true" style="background-color:transparent;width:267px; height:180px;"></iframe>
+	</div>	
+</div>
+<!--footer-->
+<div id="footer">
+	<div class="footer_l"></div>
+	<div class="footer_c">
+		<div class="footer_links">
+			<a href="http://corp.sina.com.cn/chn/sina_index.html">新浪简介</a>|<a href="http://corp.sina.com.cn/eng/sina_index_eng.htm">About Sina</a>|<a href="http://emarketing.sina.com.cn/">广告服务</a>|<a href="http://www.sina.com.cn/contactus.html" target="_blank">联系我们</a>|<a href="http://career.sina.com.cn/" target="_blank">招聘信息</a>|<a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a>|<a href="http://englishcenter.sina.com/" target="_blank">SINA English</a>|<a href="http://help.sina.com.cn/">产品答疑</a>
+		</div>
+		Copyright &copy; 1996 - 2008 SINA Corporation, All Rights Reserved<br />版权所有 新浪网</div>
+	<div class="footer_r"></div>
+</div>
+<SCRIPT src="js/picshow.js" type=text/javascript></SCRIPT>
+</body>
+</html>
