@@ -13,7 +13,7 @@ import org.apache.http.client.entity.GzipDecompressingEntity;
 import org.apache.http.util.EntityUtils;
 
 import catfish.model.FetchedDocument;
-import catfish.transport.http.HttpUtils;
+import catfish.transport.http.HtmlUtils;
 import catfish.transport.http.entity.ByteInfoHttpEntityWrapper;
 
 public class FetchedDocumentResponseHandler implements ResponseHandler<FetchedDocument> {
@@ -73,8 +73,8 @@ public class FetchedDocumentResponseHandler implements ResponseHandler<FetchedDo
 		byte[] byteContent = EntityUtils.toByteArray(entity);
 		ByteInfoHttpEntityWrapper byteInfoHttpEntityWrapper = new ByteInfoHttpEntityWrapper(entity, byteContent);
 		
-		fetchedDocument.setContentCharset(HttpUtils.getCharset(byteInfoHttpEntityWrapper));
-		fetchedDocument.setContentType(HttpUtils.getContentType(byteInfoHttpEntityWrapper));
+		fetchedDocument.setContentCharset(HtmlUtils.getCharset(byteInfoHttpEntityWrapper));
+		fetchedDocument.setContentType(HtmlUtils.getContentType(byteInfoHttpEntityWrapper));
 		fetchedDocument.setDocumentContent(byteContent);
 		
 		return fetchedDocument;

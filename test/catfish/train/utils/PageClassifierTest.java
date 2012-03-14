@@ -1,5 +1,6 @@
 package catfish.train.utils;
 
+import java.io.UnsupportedEncodingException;
 import java.util.Vector;
 
 import org.junit.Assert;
@@ -33,7 +34,7 @@ public class PageClassifierTest {
 	
 	
 	@Test
-	public void should_return_subject_type_when_fetchedDocument_is_subjectpage() {
+	public void should_return_subject_type_when_fetchedDocument_is_subjectpage() throws UnsupportedEncodingException {
 		Vector<Double> featureVec = new Vector<Double>();
 		featureVec.add(5.0);
 		featureVec.add(24.0);

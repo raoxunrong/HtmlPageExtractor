@@ -2,6 +2,7 @@
 package train.utils;
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.UnsupportedEncodingException;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -104,7 +105,7 @@ public class PageClassifier {
 	
 	
 	@SuppressWarnings({ "rawtypes", "unchecked" })
-	public PageType doClassify(FetchedDocument fetchedDocument) {
+	public PageType doClassify(FetchedDocument fetchedDocument) throws UnsupportedEncodingException {
 		String classification = "";
 		Vector<Double> featureVec = featureExtractor.getFeature(fetchedDocument);
 		Vector<Double> normalizedFeatureVec = FeatureUtils.normalizeVec(featureVec, maxUrlDepth, maxMarkNum, maxLineBlockLen, maxFigureNum);

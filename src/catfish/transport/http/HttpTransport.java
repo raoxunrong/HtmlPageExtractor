@@ -5,15 +5,14 @@ import java.io.IOException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.ResponseHandler;
 import org.apache.http.client.methods.HttpGet;
-import org.apache.http.client.methods.HttpRequestBase;
 import org.apache.http.impl.client.DefaultHttpClient;
-
-import com.google.inject.Inject;
 
 import catfish.model.FetchedDocument;
 import catfish.transport.common.Transport;
 import catfish.transport.exception.TransportException;
 import catfish.transport.http.handler.FetchedDocumentResponseHandler;
+
+import com.google.inject.Inject;
 
 
 public class HttpTransport implements Transport {
@@ -21,10 +20,6 @@ public class HttpTransport implements Transport {
 	@Inject
 	private HttpClient httpclient;
 	
-//	private HttpRequestBase httpRequest;
-//
-//	private static final int MAX_DOCUMENT_LENGTH = 1024 * 1024;
-
 	@Override
 	public void clear() {
 		httpclient = null;
@@ -63,5 +58,12 @@ public class HttpTransport implements Transport {
 		return true;
 	}
 
+	public void setHttpclient(HttpClient httpclient) {
+		this.httpclient = httpclient;
+	}
+
+	public HttpClient getHttpclient() {
+		return httpclient;
+	}
 
 }
